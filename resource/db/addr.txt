@@ -1,0 +1,28 @@
+park
+st
+street
+avenue
+hall
+road
+box
+west
+way
+hill
+technology square
+square
+boulder
+center
+building
+co
+boulder co
+ave
+city
+address
+center st
+campus
+mountain
+gate
+lake
+drive
+field
+room

@@ -1,0 +1,44 @@
+<phone> Tel: (614)-292-5199, Fax: (614)-292-2911  </phone>
+<phone> Tel: (614)-292-5199, Fax: (614)-292-2911  </phone>
+<phone> (512) 322-9951  </phone>
+<phone> Tel: (514) 398-6042 Fax: (514) 398-7348  </phone>
+<phone> Tel: +44 (0) 121 414 4791, Fax: +44 (0) 121 414 4281  </phone>
+<phone> Tel: +44 (0) 121 414 4791, Fax: +44 (0) 121 414 4281  </phone>
+<phone> 650-497-7543  </phone>
+<phone> +44-121-414-3739  </phone>
+<phone> TEL: +1 512 322 9951  </phone>
+<phone> (512) 471-9547  </phone>
+<phone> Tel: (512)-471-9541  </phone>
+<phone> Phone: (203) 432-6432  </phone>
+<phone> Telephone: (416) 978 8609  </phone>
+<phone> (313) 936-1563  </phone>
+<phone> (808) 956-3489  </phone>
+<phone> * (510) 643-9153 * FAX (510) 643-7684  </phone>
+<phone> (510) 643-9153 * FAX (510) 643-7684  </phone>
+<phone> * (510) 643-9153 * FAX (510) 643-7684  </phone>
+<phone> * (510) 643-9153 * FAX (510) 643-7684  </phone>
+<phone> (818) 501-4956 (818) 986-1360 FAX  </phone>
+<phone> (413) 545-3179 (voice), (413) 545-1249 (fax)  </phone>
+<phone> Tel: int +39.382.391350  </phone>
+<phone> tel. +39-2-2399-3567  </phone>
+<phone> tel. +32-2-6503169  </phone>
+<phone> tel.: (+39) 6 88 94 596  </phone>
+<phone> tel.: (+45) 89 42 32 21  </phone>
+<phone> 315-443-2322/(fax) 1122  </phone>
+<phone> Phone: (+386)(61) 1773 272, Fax: (+386)(61) 1258-158  </phone>
+<phone> (615) 343-4111  </phone>
+<phone> 617/253-9601  </phone>
+<phone> Phone: 203 432-6432  </phone>
+<phone> +1 617 253 6096  </phone>
+<phone> Tel: (USA) 510-643-2383.  </phone>
+<phone> Tel: (USA) 510-643-5806.  </phone>
+<phone> Tel: (USA) 510-642-1857.  </phone>
+<phone> 1. Phone: 510 528-8649  </phone>
+<phone> 2. FAX: 510 548-5738  </phone>
+<phone> Phone: +49-89-63812-251  </phone>
+<phone> Phone: +43-1-53401-0  </phone>
+<phone> 919-677-1119 x541, </phone>
+<phone> 1-413-545-2447 1-413-545-3179 1-413-545-0207 1-413-545-1585  </phone>
+<phone> phone: (617) 253-8839  </phone>
+<phone> fax: (617) 253-0039  </phone>
+<phone> (617) 234-2860  </phone>

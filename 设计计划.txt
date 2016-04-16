@@ -1,0 +1,10 @@
+﻿数据准备：
+1.查看数据集的tag分布
+2.领域词典
+	affliation, address, degree, pubnum, note, abstract, keyword, introduction, and phone. 
+	
+	
+功能模块：
+WordSpecific 输入单个词，输出词聚类向量
+	
+LineSpecific 输入一行，输出行聚类向量

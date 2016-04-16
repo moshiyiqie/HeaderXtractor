@@ -1,0 +1,325 @@
+<email> vargiu@dis.uniroma1.it  </email>
+<email> Email: ftld,shlg@cs.brown.edu  </email>
+<email> fmilos, nm, lpk, tldg@cs.brown.edu  </email>
+<email> cebly@cs.ubc.ca  </email>
+<email> carter@cs.bu.edu  </email>
+<email> park@cs.bu.edu  </email>
+<email> jbw@cs.bu.edu  </email>
+<email> best@cs.bu.edu  </email>
+<email> kgtjan@cs.bu.edu  </email>
+<email> email: neugeb@igd.fhg.de  </email>
+<email> KOPPEL@BIMACS.CS.BIU.AC.IL  </email>
+<email> FELDMAN@BIMACS.CS.BIU.AC.IL  </email>
+<email> SEGRE@CS.CORNELL.EDU  </email>
+<email> fkjuvva, raj+g@cs.cmu.edu  </email>
+<email> fqma, prsg@cs.cmu.edu  </email>
+<email> bergmann@informatik.uni-kl.de  </email>
+<email> wilke@informatik.uni-kl.de  </email>
+<email> reids@cs.cmu.edu  </email>
+<email> dayne@cs.cmu.edu  </email>
+<email> e-mail: filianojfpg@cs.cmu.edu  </email>
+<email> e-mail: hodas@cs.hmc.edu  </email>
+<email> baluja@cs.cmu.edu  </email>
+<email> scottd@cs.cmu.edu  </email>
+<email> khaigh@cs.cmu.edu mmv@cs.cmu.edu  </email>
+<email> email: fajljhironobujrajug@cs.cmu.edu  </email>
+<email> nancy.green@cs.cmu.edu, fjmoore,careninig@cs.pitt.edu  </email>
+<email> avrim+@cs.cmu.edu </email>
+<email> akalai+@cs.cmu.edu </email>
+<email> fHILDUM,SADEH,SFS,DAGg@ISL1.RI.CMU.EDU  </email>
+<email> dpetrou@cs.cmu.edu, jwm@csua.berkeley.edu  </email>
+<email> dst@cs.cmu.edu  </email>
+<email> saksida@ri.cmu.edu  </email>
+<email> email: crekiere@cs.cmu.edu  </email>
+<email> email: dps@cs.cmu.edu  </email>
+<email> mccallum@justresearch.com  </email>
+<email> roni@cs.cmu.edu  </email>
+<email> mitchell+@cs.cmu.edu  </email>
+<email> ayn@ai.mit.edu  </email>
+<email> dannenberg@cs.cmu.edu  </email>
+<email> Email: dannenberg@cs.cmu.edu  </email>
+<email> horowitz@ee.stanford.edu martonosi@princeton.edu tcm@eecg.toronto.edu smith@eecs.harvard.edu  </email>
+<email> mark.craven@cs.cmu.edu  </email>
+<email> shavlik@cs.wisc.edu  </email>
+<email> mostow@cs.cmu.edu  </email>
+<email> email: ph@cs.cmu.edu, herf+@cmu.edu  </email>
+<email> ftimothyc,sethgg@cs.berkeley.edu  </email>
+<email> ftara,reedg@cs.uiuc.edu  </email>
+<email> Email: mcbryan@cs.colorado.edu  </email>
+<email> roger@cs.colorado.edu, rick@cs.colorado.edu  </email>
+<email> fferrandi,meyer,zicarig@dbis.informatik.uni-frankfurt.de  </email>
+<email> bdraper@cs.umass.edu  </email>
+<email> whitley,gruau,pyeatt@cs.colostate.edu +L </email>
+<email> fstevensm,anderson,rossg@cs.colostate.edu  </email>
+<email> fdjd,nfrg@cs.columbia.edu  </email>
+<email> jdrosen@bell-labs.com  </email>
+<email> fwenke,sal,mokg@cs.columbia.edu  </email>
+<email> wenke@cs.columbia.edu, </email>
+<email> pkc@cs.fit.edu  </email>
+<email> sal@cs.columbia.edu  </email>
+<email> fms@cs.cornell.edu  </email>
+<email> jgm@cs.cornell.edu  </email>
+<email> briggs@middlebury.edu brd@cs.cornell.edu  </email>
+<email> chekuri@theory.stanford.edu  </email>
+<email> avg@research.nj.nec.com  </email>
+<email> karger@theory.lcs.mit.edu  </email>
+<email> mslevine@theory.lcs.mit.edu  </email>
+<email> cliff@cs.dartmouth.edu.  </email>
+<email> E-mail: robert.s.gray@dartmouth.edu  </email>
+<email> flizhang,harish,jbasch,indykg@cs.stanford.edu  </email>
+<email> findyk,rajeev,sureshg@cs.stanford.edu  </email>
+<email> dth@ricochet.net  </email>
+<email> elliot.linzer@c-cube.com  </email>
+<email> jsv@cs.duke.edu  </email>
+<email> szepes@sol.cc.u-szeged.hu  </email>
+<email> mlittman@cs.duke.edu  </email>
+<email> fcalvert,robink,rdkg@cc.gatech.edu  </email>
+<email> E-mail: (dolors,limb)@cc.gatech.edu  </email>
+<email> mannila@cs.helsinki.fi  </email>
+<email> fJuha.Karkkainen,Erkki.Sutineng@cs.Helsinki.FI  </email>
+<email> favidan,shashuag@cs.huji.ac.il  </email>
+<email> yangjhonavar-@cs.iastate.edu  </email>
+<email> fehilsdal,jashley,dyb,dfried g@cs.indiana.edu  </email>
+<email> leake@cs.indiana.edu  </email>
+<email> sjohnson@indiana.edu </email>
+<email> barwise@indiana.edu  </email>
+<email> fleake, akinley, davwilsg@cs.indiana.edu  </email>
+<email> email: fcraven, shavlikg@cs.wisc.edu  </email>
+<email> resnik@umiacs.umd.edu  </email>
+<email> yarowsky@cs.jhu.edu  </email>
+<email> Email:fWimV,Hendrik,LucDRg@cs.kuleuven.ac.be  </email>
+<email> dmr@research.att.com  </email>
+<email> ftadepalli,tgdg@research.cs.orst.edu  </email>
+<email> liv,jps,li@cs.princeton.edu  </email>
+<email> wass@cs.princeton.edu  </email>
+<email> khuri@sjsumcs.sjsu.edu  </email>
+<email> fbaeck,jokeg@ls11.informatik.uni-dortmund.de  </email>
+<email> fmelli,auro,bbg@cs.purdue.edu  </email>
+<email> park@cs.purdue.edu  </email>
+<email> krsul@cs.purdue.edu  </email>
+<email> fsunilp,agrawal,amrg@cs.ucsb.edu  </email>
+<email> e-mail: tto@cs.purdue.edu  </email>
+<email> e-mail: pch@imm.dtu.dk  </email>
+<email> e-mail: luzz@sun2.dmu.dk  </email>
+<email> cmr1001@cl.cam.ac.uk  </email>
+<email> falc, hhl, willyg@cs.rice.edu  </email>
+<email> sandhya@cs.rochester.edu  </email>
+<email> E-mail: koch,fowler@diku.dk  </email>
+<email> fzaki,ogiharag@cs.rochester.edu  </email>
+<email> fdavison,hirshg@cs.rutgers.edu  </email>
+<email> fjarai,avirmanig@paul.rutgers.edu, iftode@cs.rutgers.edu  </email>
+<email> fellman,keane,schwabacg@cs.rutgers.edu  </email>
+<email> minsky@cs.rutgers.edu  </email>
+<email> partha@cs.rutgers.edu  </email>
+<email> minsky@cs.rutgers.edu  </email>
+<email> E-mail : chow@cs.toronto.edu and enright@cs.toronto.edu  </email>
+<email> dale@cs.toronto.edu  </email>
+<email> greiner@scr.siemens.com  </email>
+<email> greiner@learning.siemens.com  </email>
+<email> dale@cs.toronto.edu  </email>
+<email> E-mail: haynes@cs.twsu.edu  </email>
+<email> greiner@learning.siemens.com  </email>
+<email> ramana@cs.rutgers.edu  </email>
+<email> hxwang@cs.ucla.edu zaniolo@cs.ucla.edu  </email>
+<email> greco@si:deis:unical:it zaniolo@cs:ucla:edu  </email>
+<email> E-mail: yfwang@cs.ucsb.edu  </email>
+<email> kienle@cs.uscb.edu  </email>
+<email> Email: murat@cs.ucsb.edu, bruno@cs.ucsb.edu  </email>
+<email> fibel,schauser,chriss,schmittmg@cs.ucsb.edu  </email>
+<email> fcfu,tyangg@cs.ucsb.edu  </email>
+<email> E-mail: mihir@cs.ucsd.edu. </email>
+<email> beame@cs.washington.edu  </email>
+<email> sacook@cs.toronto.edu  </email>
+<email> edmonds@icsi.berkeley.edu  </email>
+<email> russell@cs.ucsd.edu  </email>
+<email> toni@cs.pitt.edu  </email>
+<email> -silvia,berman-@cs.ucsd.edu  </email>
+<email> fdprecupjrichg@cs.umass.edu  </email>
+<email> rich@cs.umass.edu  </email>
+<email> dprecup@cs.umass.edu  </email>
+<email> baveja@cs.colorado.edu  </email>
+<email> fsamfat, molvag@eurecom.fr  </email>
+<email> kwang@cs.umd.edu  </email>
+<email> tripathi@engr.ucr.edu  </email>
+<email> fflip,labrinid,kotidisg@cs.umd.edu  </email>
+<email> christos@cs.cmu.edu  </email>
+<email> fgoldman,musliner,krebsbac,boddyg@htc.honeywell.com  </email>
+<email> fmusliner,goldmang@htc.honeywell.com  </email>
+<email> sanders@cs.umd.edu  </email>
+<email> flip@cs.umd.edu  </email>
+<email> jag@research.att.com  </email>
+<email> christos@cs.umd.edu  </email>
+<email> marie@erg.sri.com  </email>
+<email> diganta@cs.umd.edu  </email>
+<email> skgupta@isl1.ri.cmu.edu  </email>
+<email> nau@cs.umd.edu  </email>
+<email> -jeffay,stone,smithfd-@cs.unc.edu  </email>
+<email> fschmidt,sumedh,gokhaleg@cs.wustl.edu  </email>
+<email> tor@research.att.com  </email>
+<email> eggers@cs.washington.edu  </email>
+<email> fghiya,hendreng@cs.mcgill.ca  </email>
+<email> poulsen@kai.com  </email>
+<email> yew@cs.umn.edu  </email>
+<email> fheydon,gnelsong@pa.dec.com  </email>
+<email> fkarypis, kumarg@cs.umn.edu  </email>
+<email> heimdahl@cs.umn.edu  </email>
+<email> czerny@cps.msu.edu  </email>
+<email> E-mail: fmecklen,clark,gary,yihg@cs.utah.edu  </email>
+<email> freed,elford,tara,esmirni,slammg@cs.uiuc.edu  </email>
+<email> fajohn,browneg@cs.utexas.edu  </email>
+<email> clancy@cs.utexas.edu and kuipers@cs.utexas.edu  </email>
+<email> ladd@research.att.com jcr@research.att.com  </email>
+<email> E-mail: fsriram,lorenzo,ving@cs.utexas.edu, </email>
+<email> fpclark,porterg@cs.utexas.edu  </email>
+<email> EMAIL: kaufmann@cli.com and moore@cli.com  </email>
+<email> mbarnett@cs.uidaho.edu  </email>
+<email> payne@ssd.intel.com  </email>
+<email> rvdg@cs.utexas.edu  </email>
+<email> jwatts@scp.caltech.edu  </email>
+<email> rvdg@cs.utexas.edu.  </email>
+<email> ken@ticam.utexas.edu  </email>
+<email> rvdg@cs.utexas.edu  </email>
+<email> casanova@cs.utk.edu  </email>
+<email> dongarra@cs.utk.edu  </email>
+<email> flin@cs.ust.hk  </email>
+<email> @cs.ust.hk  </email>
+<email> email: @ai.toronto.edu reiter@ai.toronto.edu  </email>
+<email> knabe@ecrc.de  </email>
+<email> levy@research.att.com  </email>
+<email> sagiv@cs.huji.ac.il  </email>
+<email> gjb@cs.washington.edu  </email>
+<email> -chambers, eggers,ausland,matthai,mock,pardy-@cs.washington.edu  </email>
+<email> wermter@informatik.uni-hamburg.de  </email>
+<email> weber@informatik.uni-hamburg.de  </email>
+<email> darwiche@aub.edu.lb  </email>
+<email> fjignesh, dewittg@cs.wisc.edu  </email>
+<email> Electronic mail: -horwitz, reps, sagiv-@cs.wisc.edu.  </email>
+<email> fmiron,raghu,beyer,guangshu,donjerko,ssl,jussi,wengerg@cs.wisc.edu  </email>
+<email> cao@cs.wisc.edu irani@ics.uci.edu  </email>
+<email> ajcbik@cs.leidenuniv.nl  </email>
+<email> faltjfloriang@cs.uni-sb.de  </email>
+<email> steiner@ATHENA.MIT.EDU  </email>
+<email> bcn@CS.WASHINGTON.EDU  </email>
+<email> jis@ATHENA.MIT.EDU  </email>
+<email> fmiron,raghu,beyer,guangshu,donjerko,ssl,jussi,wengerg@cs.wisc.edu  </email>
+<email> (mansha@cs.wisc.edu) (vernon@cs.wisc.edu)  </email>
+<email> email: -suhui, vernon-@cs.wisc.edu  </email>
+<email> email: mansha@research.trddc.ernet.in  </email>
+<email> Email: ratnakar@cs.wisc.edu  </email>
+<email> Email: miron@cs.wisc.edu  </email>
+<email> siff@cs.wisc.edu  </email>
+<email> reps@cs.wisc.edu  </email>
+<email> melski@cs.wisc.edu </email>
+<email> reps@cs.wisc.edu  </email>
+<email> sbillups@carbon.cudenver.edu  </email>
+<email> steve@gams.com  </email>
+<email> ferris@cs.wisc.edu  </email>
+<email> fshan, lerner, clarkeg@cs.umass.edu  </email>
+<email> kunen@cs.wisc.edu  </email>
+<email> Electronic mail: fmds, horwitzg@cs.wisc.edu  </email>
+<email> famit,pmd,naughton,karthikg@cs.wisc.edu  </email>
+<email> mcauliff@cs.wisc.edu  </email>
+<email> carey@almaden.ibm.com  </email>
+<email> solomon@cs.wisc.edu  </email>
+<email> bshouty@cpsc.ucalgary.ca  </email>
+<email> sg@cs.wustl.edu  </email>
+<email> hancock@learning.siemens.com  </email>
+<email> sleiman@cpsc.ucalgary.ca  </email>
+<email> pwgoldb@cs.sandia.gov  </email>
+<email> sg@cs.wustl.edu  </email>
+<email> fjxh,sumedh,schmidtg@cs.wustl.edu  </email>
+<email> gokhale@cs.wustl.edu and schmidt@cs.wustl.edu  </email>
+<email> 1 fjakob,ebbeg@docs.uu.se, </email>
+<email> 2 peter@c-lab.de, </email>
+<email> jdevaney@nist.gov  </email>
+<email> email: lingliu@cs.ualberta.ca  </email>
+<email> email: calton@cse.ogi.edu  </email>
+<email> revel,crispin,dylan,calton,walpole-@cse.ogi.edu  </email>
+<email> email: Sylvain_Delisle@uqtr.uquebec.ca, </email>
+<email> email: szpak@csi.uottawa.ca, </email>
+<email> shaz@eecs.berkeley.edu  </email>
+<email> shankar@csl.sri.com  </email>
+<email> reiter@cs.cornell.edu ken@cs.cornell.edu li@cambridge.oracorp.com  </email>
+<email> fowre, shankarg@csl.sri.com  </email>
+<email> qian@csl.sri.com tlunt@arpa.mil  </email>
+<email> Email: A.Knott@ed.ac.uk  </email>
+<email> Email: R.Dale@ed.ac.uk  </email>
+<email> boley@informatik.uni-kl.de  </email>
+<email> hyongla@eecs.berkeley.edu, ananth@eecs.berkeley.edu  </email>
+<email> gabandah,davidson@eecs.umich.edu  </email>
+<email> alexe@eos.ncsu.edu davidson@eecs.umich.edu  </email>
+<email> (dberwick@umich.edu and swlee@umich.edu)  </email>
+<email> fpdmcdan,jaming@eecs.umich.edu  </email>
+<email> weld@cs.washington.edu  </email>
+<email> grbarret@eecs.umich.edu  </email>
+<email> stephane@eecs.umich.edu  </email>
+<email> flabovit, rmalan, farnamg@eecs.umich.edu  </email>
+<email> fwallace,soparkarg@eecs.umich.edu  </email>
+<email> amoreno@etse.urv.es  </email>
+<email> email: ian@geog.leeds.ac.uk, stan@geog.leeds.ac.uk, gary@geog.leeds.ac.uk  </email>
+<email> pedrod@ics.uci.edu  </email>
+<email> pazzani@ics.uci.edu  </email>
+<email> dbailey@icsi.berkeley.edu  </email>
+<email> email: kjellb@idi.ntnu.no  </email>
+<email> folavsa, steinl, rogerg@idi.ntnu.no  </email>
+<email> fnoervaag, kjellbg@idi.ntnu.no  </email>
+<email> email: jg.campbell@ulst.ac.uk.  </email>
+<email> fmohand,patrick,crigg@lisi.insa-lyon.fr  </email>
+<email> email: fminker,bennacef,gauvaing@limsi.fr  </email>
+<email> fliuh, manoranjg@iscs.nus.edu.sg motoda@sanken.osaka-u.ac.jp  </email>
+<email> frudys,liuhg@iscs.nus.sg  </email>
+<email> liuh@iscs.nus.sg  </email>
+<email> ilangkil@isi.edu and knight@isi.edu  </email>
+<email> email: dante@usc.edu email: katia@isi.edu  </email>
+<email> katia@isi.edu  </email>
+<email> fdanzig, dante, erhyuantg@usc.edu  </email>
+<email> fchunnan,knoblockg@isi.edu  </email>
+<email> galk, tambe-@isi.edu  </email>
+<email> ftambe,johnson,sheng@isi.edu  </email>
+<email> fgervasio,iba,langleyg@isle.org  </email>
+<email> langley@cs.stanford.edu iba@wind.arc.nasa.gov shrager@xerox.com  </email>
+<email> E-mail: Rymon@ISP.Pitt.edu  </email>
+<email> fygong, proietti, christosg@cs.cmu.edu  </email>
+<email> E-mail: fsfox,leakeg@cs.indiana.edu  </email>
+<email> yudiy@vnet.ibm.com  </email>
+<email> sontag@hilbert.rutgers.edu  </email>
+<email> sussmann@hilbert.rutgers.edu  </email>
+<email> e-mail: daphne@cs.stanford.edu  </email>
+<email> e-mail: megiddo@almaden.ibm.com  </email>
+<email> E-mail: barons@media-lab.mit.edu  </email>
+<email> brave@cs.stanford.edu  </email>
+<email> &lt;nelson@media.mit.edu&gt;  </email>
+<email> fmohri,tanakag@MTL.T.u-tokyo.ac.jp  </email>
+<email> email : ltorgo@ncc.up.pt </email>
+<email> email : ltorgo@ciup1.ncc.up.pt  </email>
+<email> flawrence,actg@elec.uq.edu.au, giles@research.nj.nec.com  </email>
+<email> lawrence@research.nj.nec.com and giles@research.nj.nec.com  </email>
+<email> Email: apdlidar@central.ntua.gr  </email>
+<email> carzaniga@elet.polimi.it  </email>
+<email> picco@athena.polito.it  </email>
+<email> vigna@elet.polimi.it  </email>
+<email> jjg@princeton.edu  </email>
+<email> electronic mail mkearns@research.att.com. </email>
+<email> electronic mail mansour@math.tau.ac.il. </email>
+<email> ebauer@cs.stanford.edu  </email>
+<email> koller@cs.stanford.edu  </email>
+<email> singer@research.att.com  </email>
+<email> eugene@cs.cmu.edu  </email>
+<email> qyang@cs.sfu.ca  </email>
+<email> -mbergerm|chrislee|xu+-@cs.cmu.edu  </email>
+<email> Email: frcollins,ytsin,jmce,ajlgcs.cmu.edu  </email>
+<email> Mark.Leone@cs.cmu.edu and Peter.Lee@cs.cmu.edu.  </email>
+<email> Email: dannenberg@cs.cmu.edu  </email>
+<email> tcm@cs.cmu.edu luk@eecg.toronto.edu  </email>
+<email> tygar@cs.cmu.edu alma@cs.cmu.edu  </email>
+<email> E-mail: fpos,akkermang@cs.utwente.nl  </email>
+<email> E-mail: remco@swi.psy.uva.nl  </email>
+<email> fmef,bershadg@cs.washington.edu  </email>
+<email>  margrit@lcs.mit.edu  </email>
+<email> gurvits@research.nj.nec.com  </email>
+<email> Email: betke@cs.bc.edu  </email>
+<email> e-mail: haynes@euler.mcs.utulsa.edu  </email>
+<email> guyb@cs.cmu.edu, bmm@cs.cmu.edu  </email>
+<email> fburl,peronag@systems.caltech.edu ffayyad,pjsg@aig.jpl.nasa.gov  </email>
+<email> e-mail: frob,ted,joostg@cs.ruu.nl  </email>
+<email> fberto,ibel,schauser,chrissg@cs.ucsb.edu  </email>

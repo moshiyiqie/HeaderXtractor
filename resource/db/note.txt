@@ -1,0 +1,121 @@
+1research
+support
+grant
+science
+part
+appear
+nsf
+work
+paper
+author
+contract
+foundation
+acm
+system
+national
+computer
+proceedings
+ccr
+project
+conference
+institute
+department
+agency
+technology
+defense
+advanced
+center
+advanced research
+national science
+report
+office
+science foundation
+computer science
+corporation
+copyright
+artificial
+submit
+project agency
+nsf grant
+computation
+fellowship
+research project
+international
+laboratory
+arpa
+classification
+provided
+copy
+sponsor
+grant ccr
+permission
+version
+naval
+ieee
+onr
+engineering
+partially
+dimac
+fund
+edu
+government
+proc
+subject classification
+defense advanced
+subject
+number
+9 express
+9 iri
+9 ams
+9 view
+9 naval research
+9 partially support
+9 abstract
+9 international conference
+9 neural
+9 pp
+9 award
+9 symposium
+9 press
+9 information
+8 graduate
+8 address
+8 describe
+8 software
+8 compute
+8 program
+8 conclusion
+8 process
+7 contained
+7 interpret
+7 application
+7 policy
+7 workshop
+7 extend abstract
+7 extend
+7 language
+7 official
+6 distribute
+6 technical
+6 contact
+6 technology center
+6 equipment
+6 parallel
+6 pub
+6 paper appear
+6 imply
+6 publish
+6 lab
+6 represent
+6 ftp
+6 digital
+6 force
+6 scientific
+6 commission
+6 implementation
+6 official policy
+5 grant number
+5 note
+5 vol
+5 technical report
+1 working note

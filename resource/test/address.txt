@@ -1,0 +1,388 @@
+<address> San Jose, CA  </address>
+<address> Philadelphia, PA 19104  </address>
+<address> Philadelphia, PA 19104  </address>
+<address> Washington, D.C.  </address>
+<address> A-8010 Graz, Austria.  </address>
+<address> New York, NY 10027  </address>
+<address> Brighton BN1 9QN  </address>
+<address> London E1 4NS, U.K.  </address>
+<address> St. Catharines, Ontario, Canada L2S 3A1  </address>
+<address> Tucson, AZ 85721-0077, USA  </address>
+<address> Vancouver, BC V6T 1Z4, Canada  </address>
+<address> Tucson, AZ 85721  </address>
+<address> Berkeley, California 94720  </address>
+<address> Tucson, AZ 85721  </address>
+<address> Cambridge, MA 02139, USA  </address>
+<address> Berkeley, California 94720 USA  </address>
+<address> 545 Soda Hall 485 Soda Hall 725 Soda Hall  </address>
+<address> Berkeley, CA 94720-1776  </address>
+<address> 1210 W. Dayton St., Madison, WI 53706  </address>
+<address> Berkeley, CA 94720  </address>
+<address> Berkeley, CA 94720  </address>
+<address> Berkeley, CA 94720  </address>
+<address> Berkeley CA 94720  </address>
+<address> Berkeley CA 94720  </address>
+<address> Waltham, MA 02254  </address>
+<address> Stanford, CA 94305. </address>
+<address> Philadelphia, PA 19104-6395. </address>
+<address> Providence, R.I. 02912  </address>
+<address> Box 1910, </address>
+<address> Providence, RI 02906,  USA  </address>
+<address> Providence, RI 02912  </address>
+<address> Box 1910  </address>
+<address> Providence, RI 02912  </address>
+<address> Vancouver, BC V6T 1Z4, Canada  </address>
+<address> Boston, MA 02215  </address>
+<address> Boston, MA 02215, U.S.A.  </address>
+<address> Boston, MA 02215  </address>
+<address> Wilhelminenstrasse 7, 64283 Darmstadt, Germany,  </address>
+<address> Pittsburgh, PA 15213-3891  </address>
+<address> Ramat-Gan, Israel  </address>
+<address> Ithaca, NY 14853, USA  </address>
+<address> WI 53706, U.S.A.  </address>
+<address> Pittsburgh PA 15213  </address>
+<address> Pittsburgh, PA 15213, USA, </address>
+<address> P.O.-Box 3049, D-67653 Kaiserslautern, Germany  </address>
+<address> 5000 Forbes Avenue, Pittsburgh, PA 15213  </address>
+<address> Atlantic City NJ 08201  </address>
+<address> Pittsburgh PA 15213  </address>
+<address> Pittsburgh PA 15213  </address>
+<address> Pittsburgh, PA 15213-3891, USA  </address>
+<address> Claremont, CA 91711, USA  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> Pittsburgh PA 15213-3891  </address>
+<address> Pittsburgh, Pennsylvania 15213-3890  </address>
+<address>  Pittsburgh PA 15213-3891, USA. </address>
+<address> Pittsburgh, PA 15213-3890  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> 5000 Forbes Avenue, Pittsburgh, PA, 15213  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> 5000 Forbes Avenue, Pittsburgh, PA 15213, USA  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> Pittsburgh PA 15213-3890  </address>
+<address> Tewksbury MA 01876-0901  </address>
+<address> Pittsburgh, PA 15213-3891  </address>
+<address> Pittsburgh, PA 15213-3891  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> Pittsburgh, PA 15213 USA  </address>
+<address> Pittsburgh, PA 15213 USA  </address>
+<address> Pittsburgh, PA 15213-3891  </address>
+<address> Madison, WI 53706-1685  </address>
+<address> 215 Cyert Hall, </address>
+<address> 4910 Forbes Avenue, Pittsburgh, PA 15213-3890  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> 5000 Forbes Avenue, Pittsburgh, PA 15213, USA  </address>
+<address> Urbana, Illinois 61801  </address>
+<address> D-5205 St. Augustin, West Germany  </address>
+<address> Boulder, CO 80309.  </address>
+<address> Boulder, CO 80309-0430  </address>
+<address> Amherst, MA., USA. 01003  </address>
+<address> Fort Collins, Colorado 80523 USA  </address>
+<address> Fort Collins, CO 80523  </address>
+<address> New York, NY 10027  </address>
+<address> 500 West 120th Street, New York, NY 10027  </address>
+<address> Melbourne, FL 32901  </address>
+<address> New York, NY 10027  </address>
+<address> Ithaca, NY 14853.  </address>
+<address> Ithaca NY 14853, USA  </address>
+<address> Upson Hall  </address>
+<address> Middlebury, VT 05753, USA Ithaca, NY 14853, USA  </address>
+<address> Stanford, CA 94305  </address>
+<address> Princeton, NJ 08540  </address>
+<address> Cambridge, MA 02139  </address>
+<address> Cambridge, MA 02139  </address>
+<address> Hanover, NH, 03755  </address>
+<address> Hanover, NH 03755  </address>
+<address> Cambridge, Massachusetts 02139  </address>
+<address> Hanover, New Hampshire  </address>
+<address> Stanford, CA94305  </address>
+<address> Stanford, CA 94305  </address>
+<address> Durham, NC 27708 San Jose, CA 95161 Durham, NC 27708  </address>
+<address> Atlanta, Georgia, USA  </address>
+<address> Atlanta, GA 30332-0280  </address>
+<address> Atlanta, Georgia 30332-0280, U.S.A.  </address>
+<address> P.O. Box 26, FIN-00014 University of Helsinki, Finland  </address>
+<address>  P.O. Box 26 (Teollisuuskatu 23),  </address>
+<address> FIN-00014 </address> <affiliation> University of Helsinki, </affiliation> <address> Finland  </address>
+<address> Jerusalem 91904, Israel  </address>
+<address> 226 Atanasoff Hall  </address>
+<address> Lindley Hall 215, Bloomington, IN 47405  </address>
+<address> Lindley Hall 215, </address>
+<address> Bloomington, IN 47405, U.S.A.  </address>
+<address> Baltimore, MD 21218  </address>
+<address> College Park, MD 20742  </address>
+<address> Baltimore, MD 21218  </address>
+<address> Celestijnenlaan 200A, B-3001 Heverlee, Belgium  </address>
+<address> Arstadveien 19, N-5009 Bergen, Norway  </address>
+<address> East Lansing, MI 48824-1226, USA  </address>
+<address> East Lansing, MI 48824  </address>
+<address> Parkville, Victoria 3052, Australia  </address>
+<address> Murray Hill, NJ 07974 USA  </address>
+<address> Corvallis,Oregon 97331-3202  </address>
+<address> Pittsburgh, PA 15260  </address>
+<address> Pittsburgh, PA 15260  </address>
+<address> Pittsburgh, PA 15260  </address>
+<address> 14924 N.W. Greenbrier Parkway </address>
+<address> Beaverton, OR 97006 Stanford, CA 94305  </address>
+<address> Princeton, NJ 08544  </address>
+<address> Murray Hill, NJ  </address>
+<address> Princeton, NJ 08544  </address>
+<address> Princeton, NJ 08544  </address>
+<address> D-44221 Dortmund, Germany  </address>
+<address> W. Lafayette, IN 47906, USA  </address>
+<address> West Lafayette, IN 47907  </address>
+<address> West Lafayette, IN 47907, USA; </address>
+<address> Heraklion, Greece.  </address>
+<address> Finland </address>
+<address> U.S.A. </address>
+<address> West Lafayette, IN 47907-1398  </address>
+<address> West Lafayette, IN 47907, USA  </address>
+<address> Bldg. 305, DK-2800 Lyngby, Denmark  </address>
+<address> Frederiksborgvej 399, DK-4000 Roskilde, Denmark  </address>
+<address> Houston, TX 77005-1892  </address>
+<address> Rochester, NY14627-0226  </address>
+<address> Universitetsparken 1, 2100 Copenhagen, Denmark  </address>
+<address> Houston, Texas 77251  </address>
+<address> Rochester NY 14627  </address>
+<address> Troy, New York  </address>
+<address> Troy, New York 12180, USA  </address>
+<address> New Brunswick, NJ 08903  </address>
+<address> New Brunswick, NJ 08903 USA  </address>
+<address> Piscataway, NJ 08854  </address>
+<address> New Brunswick, NJ 08903  </address>
+<address> New Brunswick, NJ, 08903 USA  </address>
+<address> New Brunswick, NJ 08903  </address>
+<address> Toronto, Ontario M5S 1A4, Canada  </address>
+<address> Princeton, NJ 08540, USA  </address>
+<address> 6 King's College Road, Toronto, Canada M5S 1A4  </address>
+<address> 755 College Road East  </address>
+<address> Princeton, NJ 08540  </address>
+<address> Toronto, Ontario M5S 1A4  </address>
+<address> Toronto ON, CANADA M5S 1A4  </address>
+<address> Wichita, KS 67260  </address>
+<address> Princeton, NJ 08540  </address>
+<address> Davis, CA 95616  </address> <affiliation> 2 Department of Computer Sciences, The University of Texas, </affiliation> <address> Austin, TX 78712  </address>
+<address> Los Angeles, CA 90095  </address>
+<address> 87030 Rende; Italy LosAngeles; CA 90024  </address>
+<address> Santa Barbara, CA 93106  </address>
+<address> Santa Barbara, CA 93106.  </address>
+<address> Santa Barbara, CA 93106  </address>
+<address> CA 94305  </address>
+<address> SANTA BARBARA, CA 93106  </address>
+<address> Santa Barbara, CA 93106  </address>
+<address> Santa Barbara, CA 93106  </address>
+<address> Santa Barbara, CA 93106  </address>
+<address> Str. Academiei 14, R70109, ROMANIA  </address>
+<address> Mail Code 0114, </address>
+<address> 545 Technology Square, Cambridge, MA 02139. </address>
+<address> Berkeley, CA 94704-1198  </address>
+<address> Athens, GA 30602, U.S.A.  </address>
+<address> Parkville, VIC 3052, Australia  </address>
+<address> Amherst, MA 01003  </address>
+<address> Amherst, MA 01003  </address>
+<address> Amherst, MA 01003  </address>
+<address> Amherst, MA 01003  </address>
+<address> Amherst, MA 01003  </address>
+<address> W. Lafayette, IN 47907  </address>
+<address> W. Lafayette, IN 47907  </address>
+<address> Amherst, MA 01003  </address>
+<address> Amherst, MA 01003-4610  </address>
+<address> Amherst, MA 01003-4610  </address>
+<address> Boulder, CO 80309-0430  </address>
+<address> College Park, MD 20742, USA  </address>
+<address> College Park, MD 20742  </address>
+<address> Riverside, CA 92521-0425  </address>
+<address> College Park, MD 20742  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> College Park, MD 20742  </address>
+<address> College Park, MD 20742  </address>
+<address> Florham Park, NJ 07932  </address>
+<address> College Park, MD 20742  </address>
+<address> College Park, MD 20742  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> College Park, MD 20742  </address>
+<address> Chapel Hill, NC 27599-3175 USA  </address>
+<address> Amherst MA 01003, USA  </address>
+<address> St. Louis, MO 63130, USA   </address>
+<address> Seattle, Washington 98195  </address>
+<address> Montreal, Quebec, CANADA H3A 2A7  </address>
+<address> Urbana, IL 61801  </address>
+<address> Santa Clara, CA 95095  </address>
+<address> Minneapolis, MN 55455  </address>
+<address> 130 Lytton Ave., Palo Alto, CA 94301  </address>
+<address> Minneapolis, MN 55455  </address>
+<address> Minneapolis, MN 55455, </address>
+<address> Minneapolis, MN 55455  </address>
+<address> A-714 Wells Hall  </address>
+<address> East Lansing, MI 48824  </address>
+<address> Rolla, Missouri 65401  </address>
+<address> 3775 University St., Montreal, Quebec H3A 2B4  </address>
+<address> Salt Lake City, UT 84112  </address>
+<address> Urbana, Illinois 61801  </address>
+<address>  Austin, TX 78712  </address>
+<address> Austin, Texas 78712  </address>
+<address> Austin, Texas 78712  </address>
+<address> Austin, TX 78712  </address>
+<address> Cambridge, Mass.   </address>
+<address> 130 Lytton Ave, Palo Alto, CA 94301  </address>
+<address> Taylor Hall 2.124, Austin, Texas 78712-1188, USA  </address>
+<address> Moscow, Idaho 83844-1010  </address>
+<address> Austin, Texas 78712-1188  </address>
+<address> Pasadena, California 91125  </address>
+<address> Austin, Texas 78712  </address>
+<address> Austin, TX 78712, </address>
+<address> Austin, Texas 78712  </address>
+<address> Austin, Texas 78712  </address>
+<address> 104, Ayres Hall. KNOXVILLE, TN 37996-1301.  </address>
+<address> 104, Ayres Hall. KNOXVILLE, TN 37996-1301.  </address>
+<address> Clear Water Bay, Hong Kong  </address>
+<address> Toronto, Canada M5S 3H5  </address>
+<address> Clear Water Bay, Kowloon, Hong Kong  </address>
+<address> Toronto, Canada M5S 1A4  </address>
+<address> Charlottesville, VA 22903  </address>
+<address> Munich, Germany  </address>
+<address> Charlottesville, VA 22903-2442  </address>
+<address> Stanford CA 94305  </address>
+<address> Box 352350  </address>
+<address> Seattle, WA 98195-2350 USA  </address>
+<address> Box 352350, Seattle, WA 98195-2350  </address>
+<address> 22527 Hamburg, Germany  </address>
+<address> 1210 West Dayton Street; Madison, WI 53706; USA.  </address>
+<address> 504 N Walnut Street, Madison, WI 53705  </address>
+<address> P.O. Box 151150, 66041 Saarbrucken,  </address>
+<address> Cambridge, MA 02139  </address>
+<address> FR-35 </address>
+<address> Seattle, WA 98195  </address>
+<address> Cambridge, MA 02139  </address>
+<address> Madison, WI 53706.  </address>
+<address> Madison, WI 53706  </address>
+<address> Madison, WI 53706  </address>
+<address> Denver, Colorado 80217  </address>
+<address> Washington, DC 20007  </address>
+<address> Madison, Wisconsin 53706  </address>
+<address> Chung-Li, 320, Taiwan  </address>
+<address> Madison, WI  </address>
+<address> Amherst, MA 01003 USA  </address>
+<address> Madison, WI 53706, U.S.A.  </address>
+<address> 1210 West Dayton Street, Madison, WI 53706 USA  </address>
+<address> St. Louis, MO 63130  </address>
+<address> Department 1423  </address>
+<address> St. Louis, MO 63130  </address>
+<address> Campus Box 1045/Bryan 509  </address>
+<address> St. Louis, MO 63130, USA  </address>
+<address> P.O. Box 325, S-751 05 Uppsala, Sweden, </address>
+<address> D-33094 Paderborn, Germany   </address>
+<address> Edmonton, Alberta T6G 2H1 Canada  </address>
+<address> Portland, Oregon 97291-1000 USA  </address>
+<address> Pittsburgh, PA 15213, USA  </address>
+<address> Trois-Rivires, Qubec, Canada G9A 5H7  </address>
+<address> Ottawa, Ontario, Canada K1N 6N5  </address>
+<address> Berkeley CA 94720  </address>
+<address> Menlo Park CA 94025  </address>
+<address> 301A Dates Drive </address>
+<address>  Ithaca, NY 14850 Ithaca, NY 14853   </address>
+<address> Menlo Park CA 94025  </address>
+<address> 80 South Bridge, Edinburgh EH1 1HN, Scotland  </address>
+<address> 2 Buccleuch Place, Edinburgh EH8 9LW, Scotland  </address>
+<address> Box 2080, 67608 Kaiserslautern, Germany  </address>
+<address> Amherst, MA 01003  </address>
+<address> Amherst, MA 01003, USA  </address>
+<address> 1301 Beal Avenue, Ann Arbor, MI 48109-2122  </address>
+<address> Raleigh, NC 27695-7911 Ann Arbor, MI 48109-2122  </address>
+<address> Ann Arbor, MI 48104  </address>
+<address> Ann Arbor, MI 48109-2122  </address>
+<address> Seattle, WA 98195  </address>
+<address> Ann Arbor, Michigan 48109-2122  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> Carretera de Salou, s/n. 43006-Tarragona  </address>
+<address> Leeds, UK  </address>
+<address> Irvine, CA 92697  </address>
+<address> Menlo Park, CA 94025  </address>
+<address> I 1947 Center St. * Suite 600 * Berkeley, California 94704-1198 * </address>
+<address> 1947 Center St. Suite 600, Berkeley CA 94704  </address>
+<address> Trondheim, Norway  </address>
+<address> N-7034 Trondheim, Norway  </address>
+<address> 7034 Trondheim, Norway  </address>
+<address> Derry, BT48 7JL  </address>
+<address> B^atiment 501, F-69621 Villeurbanne Cedex  </address>
+<address> Karlsruhe, Germany </address> <affiliation> 2 Carnegie Mellon University, </affiliation> <address> Pittsburgh PA, USA  </address>
+<address> 91403 Orsay cedex, FRANCE  </address>
+<address> Santa Cruz, CA 95064  </address>
+<address> Singapore 119260.  </address>
+<address> Ibaraki, Osaka 567, Japan.  </address>
+<address> Singapore 119074.  </address>
+<address> Kent Ridge, Singapore 0511  </address>
+<address> Kent Ridge, Singapore 0511  </address>
+<address> Marina del Rey, CA 90292  </address>
+<address> Los Angeles, CA 90089-0781  </address>
+<address> 4676 Admiralty Way, Marina del Rey, CA 90292  </address>
+<address> 4676 Admiralty Way, Marina del Rey, CA 90292  </address>
+<address> 4676 Admiralty Way, Marina del Rey, CA 90292  </address>
+<address> 2164 Staunton Court, Palo Alto, California 94306  </address>
+<address> Mail Stop 269-2 </address>
+<address> 901 Cathedral of Learning  </address>
+<address> Pittsburgh, PA 15260  </address>
+<address> 5000 Forbes Avenue, Pittsburgh, PA 15213  </address>
+<address> Lindley Hall 215  </address>
+<address> Bloomington, IN 47405 USA  </address>
+<address> New Brunswick, NJ 08903  </address>
+<address> New Brunswick, NJ 08903, USA  </address>
+<address> New Brunswick, NJ 08903  </address>
+<address> New Brunswick, NJ 08903  </address>
+<address> Haifa, Israel 32000. </address>
+<address> Stanford, CA 94305; </address>
+<address> 650 Harry Road, San Jose, CA 95120.  </address>
+<address> Tel Aviv, Israel.  </address>
+<address> Stanford, California 94305  </address>
+<address> South Parks Rd., </address>
+<address> 7-3-1 Hongo Bunkyo-ku, Tokyo 113, Japan  </address>
+<address> R. Campo Alegre, 823, 2 - 4150 PORTO - PORTUGAL  </address>
+<address> 4 Independence Way, Princeton, New Jersey  </address>
+<address> Troy, New York  </address>
+<address> College Park, Maryland  </address>
+<address> 4 Independence Way, Princeton, NJ 08540  </address>
+<address> Princeton, NJ 08540  </address>
+<address> College Park, MD 20742  </address>
+<address> 3145 Porter Drive, Suite 104, Palo Alto, CA 94304  </address>
+<address> 4 Independence Way, Princeton, NJ 08540  </address>
+<address> St. Lucia 4072, Australia  </address>
+<address> College Park, MD 20742  </address>
+<address> College Park, MD 20742.  </address>
+<address> 4 Independence Way, Princeton, NJ 08540, U.S.A.  </address>
+<address> 2015 Ivy Rd., Charlottesville, VA, 22903  </address>
+<address> Zografou Campus, 15780 Zografou, GREECE  </address>
+<address> Princeton, NJ 08544  </address>
+<address> Tel Aviv, Israel; </address>
+<address> Pittsburgh, PA 15213, USA  </address>
+<address> Burnaby, BC V5A1S6, Canada  </address>
+<address> Pittsburgh PA 15213  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> Yorktown Heights, New York, USA  </address>
+<address> 4 Morningside Court, Ossining, NY, 10562. </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> Berkeley, CA 94720  </address>
+<address> Pittsburgh, PA. 15213  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> Ames, IA 50011 USA  </address>
+<address>  Pittsburgh, PA 15213 USA  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> Pittsburgh, Pennsylvania 15213-3891  </address>
+<address> Pittsburgh, Pennsylvania 15213  </address>
+<address> Pittsburgh, PA 15213 USA  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> Pittsburgh, PA 15213 Toronto, Canada M5S 3G4  </address>
+<address> Pittsburgh, PA 15213  </address>
+<address> Pittsburgh, PA 15213, U.S.A.  </address>
+<address> Seattle, WA 98195  </address>
+<address> Cambridge, MA 02139  </address>
+<address> College Park, MD 20742-3275  </address>
+<address> Fulton Hall, Chestnut Hill, MA 02167. </address>
+<address> Cambridge, MA 02138.  </address>
+<address> 600 South College Ave.  </address>
+<address> Tulsa, OK 74104-3189  </address>
+<address> MS 116-81 | Pasadena, CA 91125 MS 525-3660 | Pasadena, CA 91109  </address>
+<address> P.O. Box 80089, 3508 TB Utrecht, The Netherlands  </address>
+<address> P.O. Box 80.089, 3508 TB Utrecht, the Netherlands  </address>
+<address> P.O. Box 80.089, 3508 TB Utrecht, the Netherlands  </address>
+<address> P.O. Box 9512, 2300 RA Leiden, The Netherlands  </address>
+<address> Santa Barbara, CA 93106  </address>

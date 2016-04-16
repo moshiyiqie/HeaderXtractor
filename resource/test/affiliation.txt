@@ -1,0 +1,259 @@
+<affiliation> Computer Science Division, University of California at Berkeley  </affiliation>
+<affiliation> UNIVERSITY of CALIFORNIA, BERKELEY  </affiliation>
+<affiliation> University of Wisconsin, Department of Computer Sciences  </affiliation>
+<affiliation> University of California, Berkeley  </affiliation>
+<affiliation> IBM Almaden Research Center  </affiliation>
+<affiliation> University of California, Berkeley  </affiliation>
+<affiliation> SRI International Computer Science Laboratory, </affiliation>
+<affiliation> Department of Computer Science, Stanford University, </affiliation>
+<affiliation> Department of Mathematics, University of Pennsylvania, </affiliation>
+<affiliation> Brown University Brown University  </affiliation>
+<affiliation> Siena College Brown University  </affiliation>
+<affiliation> Department of Computer Science  </affiliation>
+<affiliation> Brown University  </affiliation>
+<affiliation> Department of Computer Science, Brown University, </affiliation>
+<affiliation> Computer Science Department, </affiliation>
+<affiliation> Brown University, </affiliation>
+<affiliation> Fraunhofer-Institute for Computer Graphics,  </affiliation>
+<affiliation> Department of Mathematics and Computer Science, Bar-Ilan University,  </affiliation>
+<affiliation> Department of Computer Science, Cornell University,  </affiliation>
+<affiliation> Computer Science Department, Carnegie Mellon University  </affiliation>
+<affiliation> Robotics Institute, Carnegie Mellon University  </affiliation>
+<affiliation> 1 Federal Aviation Administration, Technical Center, </affiliation>
+<affiliation> 2 Carnegie Mellon University, Robotics Institute, </affiliation>
+<affiliation> 3 Carnegie Mellon University, CMRI, </affiliation>
+<affiliation> IBM Thomas J. Watson Research Center  </affiliation>
+<affiliation> 1 Department of Computer Science, Carnegie Mellon University  </affiliation>
+<affiliation> 2 Computer Science Department, Harvey Mudd College  </affiliation>
+<affiliation> Computer Science Department, Carnegie Mellon University, </affiliation>
+<affiliation>  Computer Science Dept., Carnegie Mellon University, </affiliation>
+<affiliation> The Robotics Institute. Carnegie Mellon University  </affiliation>
+<affiliation> *Carnegie Mellon University, **University of Pittsburgh  </affiliation>
+<affiliation> School of Computer Science, Carnegie Mellon University, </affiliation>
+<affiliation> The Robotics Institute, Carnegie Mellon University, </affiliation>
+<affiliation> Department of Architecture  </affiliation>
+<affiliation> Department of Computer Science  </affiliation>
+<affiliation> Carnegie Mellon University  </affiliation>
+<affiliation> Carnegie Mellon University  </affiliation>
+<affiliation> Just Research  </affiliation>
+<affiliation> MIT AI Lab  </affiliation>
+<affiliation> Carnegie Mellon University  </affiliation>
+<affiliation> Carnegie Mellon University, School of Computer Science  </affiliation>
+<affiliation> Project LISTEN, </affiliation> <address> 215 Cyert Hall, </address> <affiliation> Carnegie Mellon University Robotics Institute  </affiliation>
+<affiliation> Gesellschaft fur Mathematik und Datenverarbeitung mbH  </affiliation>
+<affiliation> Unidata Inc.  </affiliation>
+<affiliation> Bell Laboratories and Columbia U.  </affiliation>
+<affiliation> Department of Computer Science, Columbia University, </affiliation>
+<affiliation> Department of Computer Science, Cornell University, </affiliation>
+<affiliation> Cornell University  </affiliation>
+<affiliation> Cornell University  </affiliation>
+<affiliation> Middlebury College Cornell University  </affiliation>
+<affiliation> NEC Research Institute  </affiliation>
+<affiliation> Computer Science  </affiliation>
+<affiliation> DARTMOUTH COLLEGE  </affiliation>
+<affiliation> Sony Semiconductor of America  </affiliation>
+<affiliation> C-Cube Microsystems  </affiliation>
+<affiliation> Duke University  </affiliation>
+<affiliation> Durham, NC 27708-0129  </affiliation>
+<affiliation> University of Helsinki  </affiliation>
+<affiliation> Department of Computer Science, </affiliation>
+<affiliation> University of Helsinki, </affiliation>
+<affiliation> Institute of Computer Science, The Hebrew University, </affiliation>
+<affiliation> Iowa State University  </affiliation>
+<affiliation> Indiana University Computer Science Department  </affiliation>
+<affiliation> Department of Computer Science, Indiana University  </affiliation>
+<affiliation> Department of Computer Science Indiana University  </affiliation>
+<affiliation> Computer Science Department  </affiliation>
+<affiliation> Indiana University  </affiliation>
+<affiliation> IBM Almaden Research Center  </affiliation>
+<affiliation> MIT Laboratory for Computer Science  </affiliation>
+<affiliation> Department of Computer Science, Katholieke Universiteit Leuven  </affiliation>
+<affiliation> 1 Section for Medical Image Analysis and Informatics, Department of Physiology  </affiliation>
+<affiliation> University of Bergen, </affiliation>
+<affiliation> 2 Department of Computer Science and Engineering, Michigan State University  </affiliation>
+<affiliation> AT&T Bell Laboratories  </affiliation>
+<affiliation> Intel Supercomputer Systems Division Computer Systems Laboratory  </affiliation>
+<affiliation> Stanford University  </affiliation>
+<affiliation> AT&T Bell Laboratories  </affiliation>
+<affiliation> Computer Science  </affiliation>
+<affiliation> UNIVERSITY of CALIFORNIA at BERKELEY  </affiliation>
+<affiliation> Dept. of Computer Science, Princeton University  </affiliation>
+<affiliation> Purdue University  </affiliation>
+<affiliation> University of Crete  </affiliation>
+<affiliation> Department of Computer Sciences, Purdue University, </affiliation>
+<affiliation> University of Helsinki, </affiliation>
+<affiliation> Purdue University, </affiliation>
+<affiliation> Purdue University, Department of Computer Science,  </affiliation>
+<affiliation> Institute of Mathematical Modelling, Technical University of Denmark,  </affiliation>
+<affiliation> National Environmental Research Institute, </affiliation>
+<affiliation> Rice University  </affiliation>
+<affiliation> University of Rochester  </affiliation>
+<affiliation> Department of Computer Science, University of Copenhagen (DIKU)  </affiliation>
+<affiliation> Jet Propulsion Laboratory, </affiliation>
+<affiliation> Coherent Systems, Inc.  </affiliation>
+<affiliation> RICE UNIVERSITY  </affiliation>
+<affiliation> Computer Science Department, University of Rochester, </affiliation>
+<affiliation> Rensselaer Polytechnic Institute  </affiliation>
+<affiliation> Rensselaer Polytechnic Institute  </affiliation>
+<affiliation> Rutgers, the State University of New Jersey  </affiliation>
+<affiliation> Center for Machine Intelligence  </affiliation>
+<affiliation> Department of Computer Science, University of Toronto  </affiliation>
+<affiliation> Siemens Corporate Research  </affiliation>
+<affiliation> Department of Computer Science, University of Toronto  </affiliation>
+<affiliation> Siemens Corporate Research  </affiliation>
+<affiliation> Department of Computer Science, University of Toronto,  </affiliation>
+<affiliation> Siemens Corporate Research  </affiliation>
+<affiliation> 1 Computer Science Department, University of California, </affiliation> <address> Davis, CA 95616  </address> <affiliation> 2 Department of Computer Sciences, The University of Texas, </affiliation>
+<affiliation> Department of Computer Science & Engineering, </affiliation> <address> Mail Code 0114, </address> <affiliation> University of California at San Diego, </affiliation>
+<affiliation> MIT Laboratory for Computer Science, </affiliation>
+<affiliation> I.C.S.I.  </affiliation>
+<affiliation> University of Massachusetts  </affiliation>
+<affiliation> Institut Eurecom  </affiliation>
+<affiliation> AT&T Laboratories  </affiliation>
+<affiliation> Department of Computer Science, University of Massachusetts, </affiliation>
+<affiliation> Department of Computer Science, Washington University  </affiliation>
+<affiliation> AT&T Bell Laboratories   </affiliation>
+<affiliation> School of Computer Science, McGill University  </affiliation>
+<affiliation> 1 Center for Supercomputing R & D, Univ. of Illinois, </affiliation>
+<affiliation> 2 Microprocessor Group, Intel Corporation, </affiliation>
+<affiliation> 3 Dept. of Computer Science, Univ. of Minnesota, </affiliation>
+<affiliation> Kuck and Associates, Inc.  </affiliation>
+<affiliation> Digital Systems Research Center  </affiliation>
+<affiliation> University of Minnesota, Department of Computer Science  </affiliation>
+<affiliation> Department of Computer Science, </affiliation>
+<affiliation> Michigan State University  </affiliation>
+<affiliation> Department of Computer Science, University of North Carolina at Chapel Hill  </affiliation>
+<affiliation> Dept. of Computer Science, University of North Carolina at Chapel Hill  </affiliation>
+<affiliation> Biorobotics Laboratory, McGill University  </affiliation>
+<affiliation> Department of Computer Sciences, University of Texas, </affiliation>
+<affiliation> AT&T Bell Laboratories  </affiliation>
+<affiliation> Massachusetts Institute of Technology, </affiliation>
+<affiliation> Dept. CS, UT Austin  </affiliation>
+<affiliation> Computational Logic, Inc.  </affiliation>
+<affiliation> Dept. of Computer Sciences, The University of Texas at Austin,  </affiliation>
+<affiliation> European Computer-Industry Research Centre GmbH  </affiliation>
+<affiliation> Bell Communications Research  </affiliation>
+<affiliation> Department of Computer Science, Princeton University  </affiliation>
+<affiliation> Department of Computer Science, University of Virginia, </affiliation>
+<affiliation> Department of Computer Science and Engineering, </affiliation>
+<affiliation> University of Washington  </affiliation>
+<affiliation> AT&T Bell Laboratories  </affiliation>
+<affiliation> Hebrew University, Jerusalem  </affiliation>
+<affiliation> University of Washington  </affiliation>
+<affiliation> University of Wisconsin  </affiliation>
+<affiliation> Computer Sciences Department; Univ. of Wisconsin; </affiliation>
+<affiliation> University of Wisconsin  </affiliation>
+<affiliation> Department of Computer Sciences, University of Wisconsin-Madison  </affiliation>
+<affiliation> University of Wisconsin-Madison  </affiliation>
+<affiliation> Universitat des Saarlandes, </affiliation>
+<affiliation> Department of Computer Science, </affiliation>
+<affiliation> University of Washington  </affiliation>
+<affiliation> Department of Computer Sciences, University of Wisconsin-Madison  </affiliation>
+<affiliation> TRDDC  </affiliation>
+<affiliation> University of Wisconsin-Madison  </affiliation>
+<affiliation> UNIVERSITY OF WISCONSIN - MADISON  </affiliation>
+<affiliation> Mathematics Department, University of Colorado, </affiliation>
+<affiliation> GAMS Development Corporation, </affiliation>
+<affiliation> Computer Sciences Department, University of Wisconsin, </affiliation>
+<affiliation> University of Wisconsin, </affiliation>
+<affiliation> Computer Sciences Department, University of Wisconsin-Madison  </affiliation>
+<affiliation> University of Wisconsin|Madison  </affiliation>
+<affiliation> IBM Almaden Research Center  </affiliation>
+<affiliation> University of Wisconsin|Madison  </affiliation>
+<affiliation> Siemens Corporate Research, Inc.  </affiliation>
+<affiliation> Sandia National Laboratories, </affiliation>
+<affiliation> Washington University in St. Louis  </affiliation>
+<affiliation> Washington University  </affiliation>
+<affiliation> Department of Computer Science, Washington University  </affiliation>
+<affiliation> C-LAB, </affiliation>
+<affiliation> NIST  </affiliation>
+<affiliation> 1 University of Alberta, </affiliation>
+<affiliation> 2 Oregon Graduate Institute, </affiliation>
+<affiliation> University of California, Los Angeles  </affiliation>
+<affiliation> ORA Corporation Cornell University  </affiliation>
+<affiliation> Dept. of Computer Science  </affiliation>
+<affiliation> SRI International ARPA/ITO  </affiliation>
+<affiliation> Department of Artificial Intelligence, University of Edinburgh  </affiliation>
+<affiliation> Human Communication Research Centre, University of Edinburgh  </affiliation>
+<affiliation> DFKI  </affiliation>
+<affiliation> DFKI  </affiliation>
+<affiliation> Microsoft Corporation  </affiliation>
+<affiliation> Harvard University  </affiliation>
+<affiliation> School of Geography, University of Leeds, </affiliation>
+<affiliation> Department of Information and Computer Science, University of California, </affiliation>
+<affiliation> INTERNATIONAL COMPUTER SCIENCE INSTITUTE  </affiliation>
+<affiliation> School of Computing & Mathematics, University of Ulster  </affiliation>
+<affiliation> University of Ulster, Magee College, </affiliation>
+<affiliation> 1 University of Karlsruhe, </affiliation> <address> Karlsruhe, Germany </address> <affiliation> 2 Carnegie Mellon University, </affiliation>
+<affiliation> 1 Dept of Info Sys & Comp Sci, National University of Singapore, </affiliation>
+<affiliation> 2 Division of Intelligent Sys Sci, Osaka University, </affiliation>
+<affiliation> 3 BioInformatics Centre, National University of Singapore, </affiliation>
+<affiliation> Hughes Research Laboratories USC Information Sciences Institute  </affiliation>
+<affiliation> University of Southern California </affiliation>
+<affiliation> Microelectronics and Computer Technology Corporation  </affiliation>
+<affiliation> Institute for the Study of Learning and Expertise  </affiliation>
+<affiliation> Intelligent Systems Program  </affiliation>
+<affiliation> University of Pittsburgh  </affiliation>
+<affiliation> Robotics Institute, Carnegie Mellon University  </affiliation>
+<affiliation> Computer Science Department  </affiliation>
+<affiliation> Indiana University  </affiliation>
+<affiliation> Department of Mathematics, Rutgers University  </affiliation>
+<affiliation> IBM, </affiliation>
+<affiliation> 1 Comp. Sci. Dept., Technion, Israel Institute of Technology, </affiliation>
+<affiliation> Department of Computer Science, Stanford University, </affiliation>
+<affiliation> IBM Almaden Research Center, </affiliation>
+<affiliation> MIT Media Laboratory  </affiliation>
+<affiliation> Department of Experimental Psychology, </affiliation> <address> South Parks Rd., </address> <affiliation> University of Oxford, </affiliation>
+<affiliation> Programme in Neuroscience, International School for Advanced Studies, </affiliation>
+<affiliation> LIACC/FEP University of Porto  </affiliation>
+<affiliation> LIACC  </affiliation>
+<affiliation> a NEC Research Institute, </affiliation>
+<affiliation> b Computer Science Department, Rensselaer Polytechnic Institute, </affiliation>
+<affiliation> c Institute for Advanced Computer Studies, University of Maryland, </affiliation>
+<affiliation> 1 NEC Research Institute, </affiliation>
+<affiliation> 2 Department of Electrical Engineering, Princeton University, </affiliation>
+<affiliation> 3 UMIACS, University of Maryland, </affiliation>
+<affiliation> Epson Palo Alto Laboratory,  </affiliation>
+<affiliation> 1 NEC Research Institute, </affiliation>
+<affiliation> Institute for Advanced Computer Studies, University of Maryland, </affiliation>
+<affiliation> NEC Research Institute,  </affiliation>
+<affiliation> NEC Research Institute  </affiliation>
+<affiliation> Princeton University, Department of Physics, </affiliation>
+<affiliation> 1 NRAO, </affiliation>
+<affiliation> National Technical University of Athens, Physics Department  </affiliation>
+<affiliation> Politecnico di Milano  </affiliation>
+<affiliation> Politecnico di Torino  </affiliation>
+<affiliation> Politecnico di Milano  </affiliation>
+<affiliation> Department of Computer Science, Cornell University  </affiliation>
+<affiliation> AT&T Research  </affiliation>
+<affiliation> Tel-Aviv University  </affiliation>
+<affiliation> AT&T Research, </affiliation>
+<affiliation> Stanford University  </affiliation>
+<affiliation> Stanford University  </affiliation>
+<affiliation> AT&T Labs  </affiliation>
+<affiliation> Department of Computer Science, University of Copenhagen  </affiliation>
+<affiliation> School of Computer Science, Carnegie Mellon University  </affiliation>
+<affiliation> The Robotics Institute, Carnegie Mellon University, </affiliation>
+<affiliation> 1 Department of Computer Science, Iowa State University, </affiliation>
+<affiliation> 2 Computer Science Department, Carnegie Mellon University, </affiliation>
+<affiliation> Carnegie Mellon University, School of Computer Science  </affiliation>
+<affiliation> department of electrical engineering +L </affiliation>
+<affiliation> stanford university </affiliation>
+<affiliation> Carnegie Mellon University  </affiliation>
+<affiliation> SAS Institute Inc., </affiliation>
+<affiliation> Department of Statistics, Carnegie Mellon University  </affiliation>
+<affiliation> Leonard N. Stern School of Business, New York University.  </affiliation>
+<affiliation> NEC Research Institute  </affiliation>
+<affiliation> MASSACHUSETTS INSTITUTE OF TECHNOLOGY  </affiliation>
+<affiliation> Department of Electrical Engineering and Computer Science  </affiliation>
+<affiliation> Department of Computer Science, Boston College,  </affiliation>
+<affiliation> Department of Ocean Engineering, Massachusetts Institute of Technology, </affiliation>
+<affiliation> Department of Mathematical & Computer Sciences  </affiliation>
+<affiliation> The University of Tulsa  </affiliation>
+<affiliation> California Institute of Technology Jet Propulsion Laboratory  </affiliation>
+<affiliation> Department of Statistics, University of Warwick   </affiliation>
+<affiliation> Dept. of Statistics, University of Warwick, </affiliation>
+<affiliation> Department of Computer Science, Utrecht University,  </affiliation>
+<affiliation> Utrecht University, Department of Computer Science,  </affiliation>
+<affiliation> Utrecht University, Department of Computer Science,  </affiliation>
+<affiliation> Department of Computer Science, Leiden University  </affiliation>

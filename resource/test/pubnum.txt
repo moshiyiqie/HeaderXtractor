@@ -1,0 +1,71 @@
+<pubnum> C.B.I.P. Paper No. 45  </pubnum>
+<pubnum> Technical Report no. 3/92  </pubnum>
+<pubnum> CRPC TR93342-S  </pubnum>
+<pubnum>  M.I.T Media Laboratory Perceptual Computing Section   Technical Report No. 307   </pubnum>
+<pubnum> M.I.T Media Laboratory Perceptual Computing Section Technical Report No. 358  </pubnum>
+<pubnum> CMPSCI Technical Report 97-32  </pubnum>
+<pubnum> CMU-CS-94-166  </pubnum>
+<pubnum> CMU-CS-97-159  </pubnum>
+<pubnum> Technical Report CS91-13  </pubnum>
+<pubnum> Technical Report CS-95-01  </pubnum>
+<pubnum> DIMACS Technical Report 93-8  </pubnum>
+<pubnum> wucs-97-15  </pubnum>
+<pubnum> Technical Report #91-08-01  </pubnum>
+<pubnum> 104  </pubnum>
+<pubnum> IAM 92-013  </pubnum>
+<pubnum> IAM-93-014  </pubnum>
+<pubnum> IAM-94-005  </pubnum>
+<pubnum> Memorandum No. UCB/ERL M97/8  </pubnum>
+<pubnum> Memorandum No. UCB/ERL M97/57  </pubnum>
+<pubnum> M.I.T Media Laboratory Perceptual Computing Section Technical Report No. 368  </pubnum>
+<pubnum> A.I. Memo No. 1591 </pubnum>
+<pubnum> Technical Report GIT-CC-97-05  </pubnum>
+<pubnum> Report No. UCB/CSD-96-909  </pubnum>
+<pubnum> SMLI TR-94-28 </pubnum>
+<pubnum> CS 270 Project Report, </pubnum>
+<pubnum> Technical Report UCB//CSD-96-893  </pubnum>
+<pubnum> CS 252/265 </pubnum>
+<pubnum> CS252: Advanced Computer Architecture  </pubnum>
+<pubnum> BU-CS-93-015  </pubnum>
+<pubnum> CMU-CS-93-169  </pubnum>
+<pubnum> CMU-CS-95-114  </pubnum>
+<pubnum> CMU-CS-94-141  </pubnum>
+<pubnum> CMU-CS-95-209  </pubnum>
+<pubnum> Technical Report No. CSL-TR-95-673  </pubnum>
+<pubnum> Rice COMP TR90-125  </pubnum>
+<pubnum> ISP Technical Report 94-2  </pubnum>
+<pubnum> CMU-CS-97-104  </pubnum>
+<pubnum> CUCS-026-94  </pubnum>
+<pubnum> M.I.T Media Laboratory Perceptual Computing Section Technical Report No. 279 </pubnum>
+<pubnum> TR 92-13  </pubnum>
+<pubnum> TR93-27  </pubnum>
+<pubnum> Technical Report #359  </pubnum>
+<pubnum> Preprint No. IULG-93-23  </pubnum>
+<pubnum> Technical Report 95/34  </pubnum>
+<pubnum> Technical Report 96/40  </pubnum>
+<pubnum> Technical Report TR-514-96.  </pubnum>
+<pubnum> DIMACS Technical Report 98-10  </pubnum>
+<pubnum> CS-590Z  </pubnum>
+<pubnum> CSD-TR 97-038  </pubnum>
+<pubnum> Technical Report CSD-TR-94-030  </pubnum>
+<pubnum> Numerical Analysis Report No. 276  </pubnum>
+<pubnum> TRCS 97-02  </pubnum>
+<pubnum> Technical Report TRCS98-18  </pubnum>
+<pubnum> TR - UCSD - CS96-484  </pubnum>
+<pubnum> Technical Report: 96-036  </pubnum>
+<pubnum> CS/TR-92-80  </pubnum>
+<pubnum> CSC-92-01  </pubnum>
+<pubnum> Technical Report 101 </pubnum>
+<pubnum> Technical Report UW-CSE-95-10-01  </pubnum>
+<pubnum> UW Technical Report #1126  </pubnum>
+<pubnum> WUCS-93-23  </pubnum>
+<pubnum> WUCS-94-01  </pubnum>
+<pubnum> CMPSCI Technical Report 95-72  </pubnum>
+<pubnum> YALEU/DCS/TR-1056  </pubnum>
+<pubnum> Technical report UCLA-CSD-950033  </pubnum>
+<pubnum> TR-94-027  </pubnum>
+<pubnum> TR 94-1447  </pubnum>
+<pubnum> CMU-CS-97-125  </pubnum>
+<pubnum> CMU-CS-95-205  </pubnum>
+<pubnum> Working Paper IS-98-01 (Information Systems)  </pubnum>
+<pubnum> SMLI TR-95-37 </pubnum>

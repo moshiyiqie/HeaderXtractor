@@ -1,0 +1,4 @@
+<degree> Thesis Proposal  </degree>
+<degree> Thesis by  </degree>
+<degree> Senior Thesis  </degree>
+<degree> Submitted to the Graduate School of the  </degree>

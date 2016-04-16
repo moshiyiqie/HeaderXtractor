@@ -1,0 +1,26 @@
+<web> http://www.cs.bham.ac.uk/~wbl, ~rmp  </web>
+<web> http://www.cs.bham.ac.uk/~wbl, ~rmp  </web>
+<web> http://www.cs.dartmouth.edu/ brd/. </web>
+<web> ftp://ftp.cs.dartmouth.edu/kotz/papers/nieuwejaar:jgalley.ps.Z  </web>
+<web> Url: http://www.cs.huji.ac.il/f~idish,~dolevg  </web>
+<web> http://www.cs.toronto.edu/neuron/  </web>
+<web> http://www/cs.umd.edu/projects/hcil/ </web>
+<web> http://www.cscs.ch/Official/Project CSCS-NEC.html  </web>
+<web> http://www.cse.unsw.edu.au/~timm </web>
+<web> http://www.cwi.nl/~pdg/  </web>
+<web> http://www.cs.Helsinki.FI/research/cosco/  </web>
+<web> http://www.csr.unibo.it/~maniezzo  </web>
+<web> http://www.media.mit.edu/~picard/  </web>
+<web> URL: http://www.disi.unige.it/phd/ateniese/ateniese.html  </web>
+<web> URL: http://www.unisa.it/f~carblu, ~adsg  </web>
+<web> http://ciir.cs.umass.edu/  </web>
+<web> http://ciir.cs.umass.edu/  </web>
+<web> http://www:ics:uci:edu/ ~ eppstein. </web>
+<web> http://www:cs:duke:edu/ ~ jeffe. </web>
+<web> http://www.vuse.vanderbilt.edu/~dfisher/dfisher.html  </web>
+<web> http://iacoma.cs.uiuc.edu  </web>
+<web> 4. WWW URL: http://www.usenix.org  </web>
+<web> http://www.sdm.de/g/arcus  </web>
+<web> http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-8/  </web>
+<web> http://www.cs.umass.edu/~vfiroiu/  </web>
+<web> URL: http://www.cam.sri.com/tr/crc033/paper.ps.Z </web>

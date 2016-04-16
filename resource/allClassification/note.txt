@@ -1,0 +1,224 @@
+<note> IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS, VOL. XX, NO. Y, MONTH 1999 1  </note>
+<note> Submitted to SIGGRAPH95.  </note>
+<note> AMS(MOS) subject classifications: 65F05, 65F50, 68R10  </note>
+<note> 1 This research is supported in part by NSF Grant MIP-9309627, Faculty Early Career Development Award MIP-9502294, and an Ohio State University Presidential Fellowship. A preliminary version of this paper[4] has been </note>
+<note> This work was partially supported by NSA Grant MDA904-96-1-0111.  </note>
+<note> submitted to AAAI-98  </note>
+<note> Copyright 1993 ACM 0-8186-4340-4/93/0011 Permission to copy for non-commercial use granted by the Association for Computing Machinery.  </note>
+<note> (Extended Abstract)  </note>
+<note> 1. This work was supported by the Australian Research Council under Grant A48831034, Australian </note>
+<note> * Please address all correspondence to Ian H. Witten  </note>
+<note> Submitted to EuroGP-98, Paris, 16-17 April, 1998  </note>
+<note> From the Proc. of the 1996 Inter. Conf. on Requirements Engineering, Colorado Springs, Colorado, April 15-18, 1996  </note>
+<note> To appear in the Proc. of the 1998 Inter. Conf. on Software Maintenance, Bethesda, Maryland, USA, November 1998  </note>
+<note> As appears in Neural Information Processing Systems 4, pp. 251-258, 1992.  </note>
+<note> (This paper appeared in the Proceedings of the 1994 ACM SIGMOD Conference.)  </note>
+<note> Submitted for review to Discrete and Computational Geometry, September 1997.  </note>
+<note> To appear in Parallel Computing, 1997.  </note>
+<note> Available at URL </note>
+<note> The author was supported by a grant from the Indiana Corporation for Science and Technology.  </note>
+<note> Published as: </note>
+<note> Classification: AMS 68P20; CR H.3.3, H.5.1  </note>
+<note> Published as: </note>
+<note> Classification: 68P99 (AMS-1991), H.1.0. (CR-1991)  </note>
+<note> 1 supported by NSF grant 9396164-CCR  </note>
+<note> (Extended Abstract)  </note>
+<note> Subject classifications. 68Q15,68Q25,68Q45.  </note>
+<note> A modified version to appear in Philosophical Transactions of the Royal Society B, 1997.  </note>
+<note> c Copyright by David C. Dolson 1997  </note>
+<note> This research is supported by ARPA-AFOSR contract F30602-91-C-0076.  </note>
+<note> 1 This work was partly supported by the Office of Naval Research under a University Research Initiative </note>
+<note> 1 This work was supported by the Office of Naval Research under University Research Initiative </note>
+<note>  Available as CS-TR-3375, UMIACS-TR-94-126, ISR-TR 94-82.  </note>
+<note> This research was supported by NASA Grant No. NAG 5-2648.  </note>
+<note> This research was partially supported by the NSF grant # CCR 9318933.  </note>
+<note> In: Multimedia Systems, Volume 2, Number 6, (January 1995) pages 267-279.  </note>
+<note> 1  This research was sponsored by the Advanced Research Projects Agency (DOD), monitored by the  </note>
+<note> Copyright c 1995 Computational Logic, Inc.  </note>
+<note> To Appear: Proc. IEEE ICC'96 Conference, Dallas, June 1996.  </note>
+<note> Appears in "Proceedings of the First Symposium on Operating Systems Design and Implementation," Usenix Association, November 1994.  </note>
+<note> AMS (MOS) Subject Classifications: primary 41A05, 41A63, 41A10; secondary 65D05, 41A30  </note>
+<note> Authors' affiliation and address:  </note>
+<note> The support of the National Science Foundation under Grant No. IRI-9002582 is gratefully acknowledged.  </note>
+<note> DRAFT </note>
+<note> This paper first appeared in [GH2], and incorporates the corrections indicated in [GH3].  </note>
+<note> AMS 1991 subject classifications. Primary 62C15; secondary 60J05  </note>
+<note> Supported by Schweizerische Gesellschaft zur Forderung der Informatik und ihrer Anwendungen  </note>
+<note> Unclassified/Unlimited  </note>
+<note> Appears in the Proceedings of the ACM SIGMOD International Conference on Management of Data, San Jose, CA, May 1995  </note>
+<note> v4.9 1  </note>
+<note> To appear in Proc. IEEE INFOCOM, March 1996  </note>
+<note> This work was sponsored in part by ARPA (NAG-1-1485), NSF (ASC 9213821), and ONR (SC292-1-22913).  </note>
+<note> TO APPEAR IN COMPUTATIONAL OPTIMIZATION AND APPLICATIONS JOURNAL, 1997  </note>
+<note> To Appear in the ACM Multimedia Journal  </note>
+<note> (Submitted to the Journal of Scientific Computing)  </note>
+<note> AMS subject classification. 49M37, 90C20, 90C30  </note>
+<note> Abstract to appear in Proceedings of the 27th ACM Symposium on the Theory of Computing, May 1995.  </note>
+<note> (Extended Abstract)   </note>
+<note> Notes: This work was supported by ONR contracts N00014-85-K-0168 and N00014-91-J-1988, by NSF grants CCR-8915206 and CCR-9225124, by DARPA contracts N00014-89-J-1988 and N00014-92-J-4033, and ONR-AFOSR contract F49620-94-1-0199.  </note>
+<note> Appears: International Conference on Computer Vision '95, Cambridge, MA, June 20-23, 1995  </note>
+<note> Also to appear: Springer Verlag Workshops in Computing, MIRO 95, Invited Paper, Glasgow, Sep. 95  </note>
+<note> Dissertation Proposal  </note>
+<note> Final Version, </note> <date> 94-Mar-17, </date> <note> 1 of 9  </note>
+<note> Dedicated to Robin Milner on the occasion of his 60th birthday.  </note>
+<note> To appear in the Proceedings of the 16th ACM Symposium on Operating System Principles  </note>
+<note> Urbana IL 61801, USA  </note>
+<note> (Extended Abstract)  </note>
+<note> Submitted to Discrete & Computational Geometry  </note>
+<note>  Research supported by NSF grant DMS-9627683 and by U. S. Army Research Office MURI grant DAAH04-96-1-0013.  </note>
+<note> (Extended Abstract)  </note>
+<note> Visiting at time of writing  </note>
+<note> DRAFT 1 </note>
+<note> IEEE/ACM Transactions on Networking, Submitted, July 1994  </note>
+<note> A masters report  </note>
+<note> Acknowledgments: This research is supported by ONR grant number N00014-90-J-1198 and ONR-AASERT 23057.  </note>
+<note> Survey Paper  </note>
+<note> Submitted to Physics Letters  </note>
+<note> ACM SIGPLAN Workshop on Languages, Compilers and Tools for Real-Time Systems, La Jolla, California, June 1995.  </note>
+<note> Author for contact.  </note>
+<note> IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS, VOL. 13, NO. 7, SEPTEMBER 1995 1  </note>
+<note> Appears in KDD-97  </note>
+<note> 5th Midwest Artificial Intelligence and Cognitive Science Conference  </note>
+<note> Client/Server Architectures for Business Information Systems Page 1  </note>
+<note> 10:13 1 of 8  </note>
+<note> Supported by an NSF Graduate Fellowship  </note>
+<note> Appears in: Fourth European Conference on Computer Vision, Cambridge, UK, April 1996.  </note>
+<note> ACM TOMACS, Vol. 3, No. 3, pp. 269-276, July, 1993.  </note>
+<note> c fl1995, 1996, 1997, 1998  </note>
+<note> Draft 1.6.1 </note>
+<note> Kluwer Academic Publishers, Boston. Manufactured in The Netherlands. </note>
+<note> Received ??. Revised ??.  </note>
+<note> N 2943  </note>
+<note> THE ME 1  </note>
+<note> Submitted to ACM SIGCOMM '98  </note>
+<note> Corresponding Author  </note>
+<note> 16 IEEE TRANSACTIONS ON INFORMATION THEORY, VOL. 44, NO. 1, JANUARY 1998  </note>
+<note> Appears in M. Mozer, M. Jordan and T. Petsche, eds., Advances In Neural Information Processing Systems 9, MIT Press, 1997  </note>
+<note> Author's Address: </note>
+<note> This publication can be retrieved by anonymous ftp to publications.ai.mit.edu.  </note>
+<note> Address correspondence to </note>
+<note> AMS subject classifications. 60K35, 62N05, 68M10, 68Q22, 68R05, 90A28, 90C05.  </note>
+<note> To appear in Proceedings of the ACM SIGPLAN'93 Symposium on Programming Language Design and Implementation, Albuquerque, NM, June 23-25 1993.  </note>
+<note> Eurospeech, Berlin, 1993  </note>
+<note> (HLT) Proceedings, Princeton, 1994  </note>
+<note> AAAI-98, Madison, WI, to appear  </note>
+<note> Connection Science, 6 (1), 177 - 208.  </note>
+<note> Email address of contact author: </note>
+<note> Phone number of contact author: </note>
+<note> To appear in Proceedings of Virtual Reality Vienna '93  </note>
+<note> Proc. UIST '93 (ACM Symp. on User Interface Software and Technology), Atlanta GA, November 3-5, 1993, 145-155  </note>
+<note> Submitted:  March 25, 1998;  Accepted:  June 30, 1998.  </note>
+<note> 1991 Mathematical Subject Classification: 05E30, 05B20  </note>
+<note> Draft 16 </note> <date> Nov 94 </date> <note> - 1 - To appear IEEE MICRO Feb 1995  </note>
+<note> (Based on a keynote talk presented by Charles L. Seitz)  </note>
+<note> email addresses:  </note>
+<note> Submitted for publication, June 1994.  </note>
+<note> See also: </note>
+<note> Work supported under NSF Grant CCR-9224858.  </note>
+<note> (Extended Abstract)  </note>
+<note> To appear in Proc. 11th Intl. Conf. on Data Engg., 1995  </note>
+<note> Computational Intelligence, Volume 12, Number 3, 1996  </note>
+<note> In Proceedings of ICC'97: The IEEE International Conference onCommunications, Montreal, Canada, June 1997.  </note>
+<note> Journal of Artificial Intelligence Research 1 (1994) 159-208 Submitted 8/93; published 2/94 </note>
+<note> The authors' e-mail addresses are fraghu,divesh,praveeng@cs.wisc.edu; sudarsha@research.att.com.  </note>
+<note> Journal of Artificial Intelligence Research 3 (1995) 53-118 Submitted 3/95; published 7/95  </note>
+<note> Final Version, 94-Mar-17,1of 9  </note>
+<note> AMS subject classification: 68Q22  </note>
+<note> , , 1-8 ()  </note>
+<note> c Kluwer Academic Publishers, Boston. Manufactured in The Netherlands.  </note>
+<note> Proceedings of the 4th International Symposium on Intelligent Robotic Systems SIRS'96, Lisbon, Portugal, July 22-26, 1996  </note>
+<note> SIGGRAPH 95, Los Angeles, August 6-11 COMPUTER GRAPHICS Proceedings, Annual Conference Series, 1995 </note>
+<note> To appear in the Proceedings of the 16th ACM Symposium on Operating System Principles  </note>
+<note> Draft 12/20/1997. Send feedback to the authors.  </note>
+<note> Running Head: Operant Conditioning in Skinnerbots  </note>
+<note> (also numbered STAN-CS-95-673)  </note>
+<note> Submitted to the Future Generation Computer Systems special issue on Data Mining.  </note>
+<note> In: Proceedings of EURASIP Workshop, February 15-17, 1990, Portugal  </note>
+<note> Contact Author: </note>
+<note> This research is supported in part by grants from DARPA (F30602-96-1-0311) and NSF (IRI-96-32225 and CDA-96-25374).  </note>
+<note> Submitted to the special Algorithmica issue of Algorithmic Foundations of Robotics  </note>
+<note> (Revised September 1996)  </note>
+<note> Supported by AFOSR contract F49620-93-1-0266 and ONR contract N00014-95-1-1204  </note>
+<note> 1 We use the term "metric" only for convenience; formally, none of the above measures satisfy all the properties of a metric. </note>
+<note> (Replaces TR-228)  </note>
+<note> Research advisors: Spencer Rugaber and Rich LeBlanc  </note>
+<note> Received ??. Revised ??.  </note>
+<note> 1 The work described here was supported in part by the Defense Advanced Research Projects Agency, </note>
+<note> Proceedings of the Fifteenth International Joint Conference on Artificial Intelligence, Morgan Kaufmann, San Francisco, 1997.  </note>
+<note> IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE, VOL. 17, NO. 6, JUNE 1995 599  </note>
+<note> nilufer@cs.pitt.edu  </note>
+<note> pollack@cs.pitt.edu  </note>
+<note> Authors' addresses: </note>
+<note> 1 This paper was originally written as a Master's thesis at Purdue University.  </note>
+<note> Appeared in Proc. 10th ACM Symposium on Parallel Algorithms and Architectures (SPAA '98), Puerto Vallarta, Mexico  </note>
+<note> 8th SIAM Conference on Parallel Processing for Scientific Computing, Minneapolis, MN, March 1997.  </note>
+<note> Reprinted from International Journal in Computer Simulation, Vol. 1, pp. 31-58 (1991)  </note>
+<note> To be presented at the AAAI/ICML 1998 Workshop on Predicting the Future: AI Approaches to Time-Series Analysis 1  </note>
+<note> Work supported in part by NSF grants No. CCR-9308773  </note>
+<note> ISSN 1360-1725  </note>
+<note> And over the World-Wide Web from URLs  </note>
+<note> This research has been supported by the Lawrence Liver-more National Labs; grant no: ISCR/LLNL 89-22,90-22  </note>
+<note> Research supported by the Australian Research Council  </note>
+<note> This research is supported in part by ONR grant N00014-94-10228 and NSF CCR-9619808.  </note>
+<note> To appear in Proc. AAAI'97  </note>
+<note> To appear, Computer Aided Design, 1995 or 1996  </note>
+<note> To appear in 1996 ACM SIGMETRICS (Extended Version: UMass TR 95-98, Nov. 1995)  </note>
+<note> (Extended Abstract)  </note>
+<note> Copyright c fl1995, Digital Equipment Corporation. All right reserved.  </note>
+<note> 1 This work is supported in part by U S WEST Communications. </note>
+<note> Last updated on October 24, 1996 at 9:02am  </note>
+<note> To be presented at the 17th IEEE Real-Time Systems Symposium, December 1996.  </note>
+<note> AMS subject classifications. 68Q15, 68Q25, 68Q99  </note>
+<note> Reprinted from 1995 Usenix Technical Conference * January 16-20, 1995 * New Orleans, LA  </note>
+<note> (Extended Abstract)  </note>
+<note> Journal of Artificial Intelligence Research 6 (1997) 35-85 Submitted 7/96; published 1/97  </note>
+<note> Journal of Artificial Intelligence Research 8 (1998) 165-222 Submitted 8/97; published 6/98  </note>
+<note> Submission to PLDI'96  </note>
+<note> This research was partially supported by the National Science Foundation under grants CCR-9024144 and CDA-9024618.  </note>
+<note> AMS(MOS) classifications: 65M05, 65N05, 76D05  </note>
+<note> Editor:  </note>
+<note> AMS subject classifications. 65N06, 65N22  </note>
+<note> This paper has been submitted to the INFOCOM '98 conference.  </note>
+<note> AMS subject classifications. 65N15, 65N10  </note>
+<note> DRAFT of </note>
+<note> This research is partially supported by DARPA grant N00014-94-1-0845, DARPA contract F19628--95-C-0193, NSF grant CCR-9224375, and grants from Hewlett-Packard, Intel and Tektronix.  </note>
+<note> To Appear in the Proceedings of PROCOMET'98  </note>
+<note> 1 The development of PVS was funded by internal research funding from SRI International. Support for the preparation of this document came from the National Aeronautics and Space Administration Langley Research Center under Contract NAS1-18969. This report is a revised and updated </note>
+<note> IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING, 7(5), OCTOBER 1995 1  </note>
+<note> Running head: Motivating Rhetorical Relations  </note>
+<note> x Address all correspondence to the second author: </note>
+<note> To appear in the 10th International Parallel Processing Symposium, April 1996. 1  </note>
+<note> 1 I thank Franz Amador, Tony Barrett, Darren Cronquist, Denise Draper, Ernie Davis, </note>
+<note> Editor: Gregory Provan  </note>
+<note> Revisions available from  </note>
+<note> To appear in Expert Systems with Applications: An International Journal, Vol.10(1996)  </note>
+<note> To appear in the journal Presence  </note>
+<note> To appear in the Proceedings of the Fifteenth National Conference on Artificial Intelligence (AAAI-98)  </note>
+<note> To appear in Proceedings of the Second International Conference on AI Planning Systems (1994). Chicago: AAAI Press. </note>
+<note> Proceedings of the Thirteenth International Joint Conference on Artificial Intelligence, 1995.  </note>
+<note> Published in SPIE Proceeding #1667 Practical Holography VI (SPIE, Bellingham, WA, February 1992) paper #04 (in press).  </note>
+<note> c fl1998 Massachusetts Institute of Technology. All rights reserved.  </note>
+<note> Published in IEEE Trans. on Knowledge and Data Engineering, vol. 8, no. 1, p. 183, 1996. Copyright IEEE.  </note>
+<note> (Revised August 1996)  </note>
+<note> Also with the </note>
+<note> Revision 1, </note>
+<note> Chapter 1  </note>
+<note> BUTP-98/  </note>
+<note> Proceedings of the 4th IEEE Conference on Control Applications, Albany, USA, Sep. 1995, pp. 500-505.  </note>
+<note> Dedicated to Robin Milner on the occasion of his 60th birthday.  </note>
+<note> 1 The authors can be reached at iliano@cs.cmu.edu and fp@cs.cmu.edu. </note>
+<note> 1 Retired, </note>
+<note> 7  </note>
+<note> c fl1989 Paul S. Heckbert  </note>
+<note> The authors' electronic mail addresses are </note>
+<note> This document was created with FrameMaker 4.0.4  </note>
+<note> International Journal of Robotics Research, 15(4):365-392, 1996.  </note>
+<note> 1. This research was funded in part by NASA (grant number NAG-1-1075), the Dept. of Elec. and Comp. Engineering, </note>
+<note> To appear in the Journal of Parallel and Distributed Computing, June 1991.  </note>
+<note> Accepted for Publication in Artificial Intelligence  </note>
+<note> Author's net address: </note>
+<note> c Massachusetts Institute of Technology 1995. All rights reserved.  </note>
+<note> The support of the Office of Naval Research under Contract N00014-95-1-0521 is gratefully acknowledged. Author's new address (starting September 1997): </note>
+<note> N. C. Makris was with the Naval Research Laboratory, Washington, DC 20375. His new address is </note>
+<note> 127  </note>
+<note> Keyword Codes: F.3.1  </note>

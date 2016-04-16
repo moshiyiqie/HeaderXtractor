@@ -1,0 +1,70 @@
+<pubnum> GIT-CC-92/28  </pubnum>
+<pubnum> GIT-CC-92/60  </pubnum>
+<pubnum> OSU-CISRC-3/93-TR11  </pubnum>
+<pubnum> Technical Report AI91-165  </pubnum>
+<pubnum> Technical Report 94-09-04  </pubnum>
+<pubnum> ERB-1051  </pubnum>
+<pubnum> Technical Report 94.16  </pubnum>
+<pubnum> Technical Report CSD-TR-97-026  </pubnum>
+<pubnum> CSRP 220, </pubnum>
+<pubnum> TR-80815 </pubnum>
+<pubnum> DIMACS Technical Report 96-47  </pubnum>
+<pubnum> DIMACS Technical Report 97-15  </pubnum>
+<pubnum> DIMACS Technical Report 98-34  </pubnum>
+<pubnum> Technical Report 28 </pubnum>
+<pubnum> CIM-93-8 </pubnum>
+<pubnum> TR94-017  </pubnum>
+<pubnum> Technical Report: CSRP-96-19  </pubnum>
+<pubnum> Technical Report: CSRP-97-29, </pubnum>
+<pubnum> Technical Report: CSRP-98-4  </pubnum>
+<pubnum> Technical Report CSRP-98-13  </pubnum>
+<pubnum> Technical Report No. CUCS-030-95  </pubnum>
+<pubnum> Technical Report CUCS-016-94  </pubnum>
+<pubnum> CUCS-025-94  </pubnum>
+<pubnum> Dartmouth Technical Report: PCS-TR95-258  </pubnum>
+<pubnum> Technical Report CSI-R9413, </pubnum>
+<pubnum> Technical Report CSI-R9410, </pubnum>
+<pubnum> Technical Report UMCS-94-11-1  </pubnum>
+<pubnum> TRAINS Technical Note 93-1  </pubnum>
+<pubnum> Technical Report CRG-TR-94-1  </pubnum>
+<pubnum> Computer Science Technical Report 94-03  </pubnum>
+<pubnum> COINS Technical Report 91-34  </pubnum>
+<pubnum> TR-1923 </pubnum>
+<pubnum> CS-TR-3299  </pubnum>
+<pubnum> TR-95-93 </pubnum>
+<pubnum> TR-3535 </pubnum>
+<pubnum> CS-TR-3692 </pubnum>
+<pubnum> UUCS-94-003  </pubnum>
+<pubnum> Technical Report 90 </pubnum>
+<pubnum> @reportnumbox(Technical Report #57 </pubnum>
+<pubnum> Technical Report AI96-250  </pubnum>
+<pubnum> Technical Report 93-02-03  </pubnum>
+<pubnum> Technical Report 93-06-04  </pubnum>
+<pubnum> Technical Report 94-03-04  </pubnum>
+<pubnum> Technical Report UW-CSE-96-01-06  </pubnum>
+<pubnum> Technical Report UW-CSE-97-02-02  </pubnum>
+<pubnum> Technical Report UW-CSE-98-06-04  </pubnum>
+<pubnum> Technical Report #1035  </pubnum>
+<pubnum> Mathematical Programming Technical Report 95-06  </pubnum>
+<pubnum> WPI-CS-TR-95-01  </pubnum>
+<pubnum> CS-TR-95-03  </pubnum>
+<pubnum> University of Michigan Technical Report 1995.  </pubnum>
+<pubnum> TR-91-061  </pubnum>
+<pubnum> TR-92-048  </pubnum>
+<pubnum> TR-92-071  </pubnum>
+<pubnum> TR-93-040 </pubnum>
+<pubnum> TR-95-019  </pubnum>
+<pubnum> TR-TR-95-031  </pubnum>
+<pubnum> TR-95-033  </pubnum>
+<pubnum> TR-95-054  </pubnum>
+<pubnum> TR-96-006  </pubnum>
+<pubnum> TR-96-017  </pubnum>
+<pubnum> TR-96-018  </pubnum>
+<pubnum> TR-96-041  </pubnum>
+<pubnum> TR-97-007  </pubnum>
+<pubnum> ISI/RR-93-387  </pubnum>
+<pubnum> TECHNICAL REPORT NO. 910  </pubnum>
+<pubnum> Technical Report 98-19  </pubnum>
+<pubnum> A.I. Memo No. 1565 </pubnum>
+<pubnum> C.B.C.L. Memo No. 132  </pubnum>
+<pubnum> A.I. Memo No. 1164 </pubnum>

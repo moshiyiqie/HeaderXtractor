@@ -1,0 +1,26 @@
+<web> URL: http://www.cam.sri.com/tr/crc044/paper.ps.ZARPA </web>
+<web> (http://www.myri.com)  </web>
+<web> http://www.cs.berkeley.edu/~debevec/Research/  </web>
+<web> http://theory.stanford.edu/people/jcm/home.html </web>
+<web> http://www.cis.upenn.edu/~andre </web>
+<web> http://www.cs.cmu.edu/~khaigh http://www.cs.cmu.edu/~mmv  </web>
+<web> http://www.cs.cmu.edu/ph, </web>
+<web> URL: http://www.cs.cmu.edu/~ vsam  </web>
+<web> World Wide Web: http://www.cs.cmu.edu/~ph  </web>
+<web> http://www.dbis.informatik.uni-frankfurt.de  </web>
+<web> http://www.cs.ucsb.edu/f~cfu,~tyangg  </web>
+<web> Web: http://www.cs.ucsb.edu/ yfwang  </web>
+<web> http://www.cs.ucsb.edu/research/scintilla  </web>
+<web> http://www.cs.umn.edu/karypis/metis/metis.html  </web>
+<web> URL: http://www.cs.utexas.edu/users/fsriram,lorenzo,ving  </web>
+<web> http://www.cs.utk.edu/~casanova  </web>
+<web> http://www.netlib.org/utk/people/JackDongarra.html  </web>
+<web> URL: http://www.csl.sri.com/sri-csl-fm.html  </web>
+<web> http://www.infm.ulst.ac.uk/research/preprints.html  </web>
+<web> http://www.media.mit.edu/nelson/  </web>
+<web> WWW : http://www.ncc.up.pt/~ltorgo  </web>
+<web> http://www.neci.nj.nec.com/homepages/lawrence  </web>
+<web> http://www.neci.nj.nec.com/homepages/giles.html  </web>
+<web> http://www.cs.cmu.edu/~eugene  </web>
+<web> http://fas.sfu.ca/cs/people/Faculty/Yang  </web>
+<web> http://www.stern.nyu.edu/~aweigend/Research/Papers/TradeStyles  </web>

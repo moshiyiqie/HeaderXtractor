@@ -1,0 +1,4 @@
+<degree> MSc Dissertation  </degree>
+<degree> Diploma Thesis  </degree>
+<degree> Thesis Proposal  </degree>
+<degree> Author : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :  </degree>

@@ -5,6 +5,13 @@ sourceDir = r'C:/Users/rainto96/workspace/HeaderXtractor/resource'
 def __fileContain(path, x):
 	return [line.strip().lower() for line in open(path).readlines()].count(x.lower()) > 0
 
+def isPhone(x):
+	return isdigit(x) and len(x)>=6
+def isDegree(x):
+	path = sourceDir+r'/db/degree.txt'#ok
+	return __fileContain(path,x)
+	
+#-----------attribute in paper---------------
 def isEmail(x):
 	s=re.findall(r'\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*',x)
 	return len(s)>0
@@ -56,19 +63,23 @@ def isMayName(x):
 	path = sourceDir+r'/db/humanname.txt'#ok
 	return __fileContain(path,x)
 
-def updateWordSpecificVector(word,dic):
-	flist = [isEmail,isURL,isSingleCap,isPostCode,isAbstract,
+flist = [isEmail,isURL,isSingleCap,isPostCode,isAbstract,
 			isKeyWord, isIntro, isPhone, isMonth, isPrep,
 			isPubNum, isNote, isAffi, isAddr, isCity, 
 			isState, isCountry, isMayName]
+diclist = flist+[isDegree]
+def updateWordSpecificVector(word,vector):
 	for fun in flist:
-		if not dic.has_key(fun.__name__):
-			dic[fun.__name__]=0
-		dic[fun.__name__] += int(fun(word))
+		if not vector.has_key(fun.__name__):
+			vector[fun.__name__]=0
+		vector[fun.__name__] += int(fun(word))
 
-dic={}
-updateWordSpecificVector('rainto@qq.com', dic)
-print dic
+'''
+测试
+
+vector={}
+updateWordSpecificVector('rainto@qq.com', vector)
+print vector
 
 print isPhone('tell')
 print isPhone('tEl')
@@ -98,3 +109,4 @@ print isURL('wwwhao123com')
 print isSingleCap('E.')
 print isSingleCap('Esdf.')
 print isSingleCap('EDf.')
+'''

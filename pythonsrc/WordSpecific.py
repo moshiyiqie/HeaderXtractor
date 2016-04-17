@@ -2,8 +2,14 @@
 import re
 sourceDir = r'C:/Users/rainto96/workspace/HeaderXtractor/resource'
 
+#加了个很快的缓存，几十倍的性能提升吧
+file_cache={}
 def __fileContain(path, x):
-	return [line.strip().lower() for line in open(path).readlines()].count(x.lower()) > 0
+	if file_cache.has_key(path):
+		return file_cache[path].count(x.lower()) > 0
+	else:
+		file_cache[path]=[line.strip().lower() for line in open(path).readlines()]
+		return file_cache[path].count(x.lower()) > 0
 
 def isPhone(x):
 	return isdigit(x) and len(x)>=6

@@ -8,3 +8,8 @@
 WordSpecific 输入单个词，输出词聚类向量
 	
 LineSpecific 输入一行，输出行聚类向量
+
+分类任务1：
+	直接对训练集测试集分类（independent）
+分类任务2：
+	输入是论文，需要标注集（原标注集没有行位置这种关系，而contextual需要考察当前行上下几行的标注结果）（dependent，contextual）

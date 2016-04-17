@@ -1,0 +1,142 @@
+=== Run information ===
+
+Scheme:weka.classifiers.functions.Logistic -R 1.0E-8 -M -1
+Relation:     vector
+Instances:    5155
+Attributes:   31
+              isAbstract
+              cap1DicWordNumPer
+              isPubNum
+              pubNumPer
+              isMayName
+              dictWordNumPer
+              isEmail
+              isState
+              addrNumPer
+              digitNumPer
+              isPostCode
+              isIntro
+              dateNumPer
+              nonDictWordNumPer
+              isSingleCap
+              noteNumPer
+              isAffi
+              isAddr
+              degreeNumPer
+              isURL
+              isPhone
+              affiNumPer
+              isKeyWord
+              isMonth
+              isPrep
+              phoneNumPer
+              isCity
+              isNote
+              cap1NonDicWordNumPer
+              isCountry
+              classfication_tag
+Test mode:10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                                        Class
+Variable                                 TRUE
+=============================================
+isAbstract                           -72.6422
+cap1DicWordNumPer                      5.0865
+isPubNum                              -0.6953
+pubNumPer                            -16.8299
+isMayName                             -1.3404
+dictWordNumPer                        -3.2098
+isEmail                               -1.2611
+isState                                3.1202
+addrNumPer                              6.806
+digitNumPer                             1.419
+isPostCode                             4.0419
+isIntro                              -17.6014
+dateNumPer                           -16.2784
+nonDictWordNumPer                      3.2098
+isSingleCap                           -1.0603
+noteNumPer                             3.3294
+isAffi                                 -0.118
+isAddr                                 1.7847
+degreeNumPer                          -1.1086
+isURL                                -74.8128
+isPhone                               -9.2303
+affiNumPer                            -3.1767
+isKeyWord                            -76.8577
+isMonth                              -16.9534
+isPrep                                -1.2473
+phoneNumPer                           48.9368
+isCity                                 2.2261
+isNote                                -2.0388
+cap1NonDicWordNumPer                  -5.0865
+isCountry                              5.3811
+Intercept                             -1.3125
+
+
+Odds Ratios...
+                                        Class
+Variable                                 TRUE
+=============================================
+isAbstract                                  0
+cap1DicWordNumPer                    161.8253
+isPubNum                               0.4989
+pubNumPer                                   0
+isMayName                              0.2617
+dictWordNumPer                         0.0404
+isEmail                                0.2833
+isState                               22.6503
+addrNumPer                           903.2374
+digitNumPer                            4.1332
+isPostCode                             56.934
+isIntro                                     0
+dateNumPer                                  0
+nonDictWordNumPer                     24.7751
+isSingleCap                            0.3464
+noteNumPer                            27.9212
+isAffi                                 0.8887
+isAddr                                 5.9576
+degreeNumPer                             0.33
+isURL                                       0
+isPhone                                0.0001
+affiNumPer                             0.0417
+isKeyWord                                   0
+isMonth                                     0
+isPrep                                 0.2873
+phoneNumPer             1.7904738454874216E21
+isCity                                 9.2634
+isNote                                 0.1302
+cap1NonDicWordNumPer                   0.0062
+isCountry                            217.2704
+
+
+Time taken to build model: 0.86 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        5054               98.0407 %
+Incorrectly Classified Instances       101                1.9593 %
+Kappa statistic                          0.9219
+Mean absolute error                      0.0333
+Root mean squared error                  0.129 
+Relative absolute error                 13.0254 %
+Root relative squared error             36.0881 %
+Total Number of Instances             5155     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.914     0.008      0.954     0.914     0.933      0.987    TRUE
+                 0.992     0.086      0.985     0.992     0.989      0.987    FALSE
+Weighted Avg.    0.98      0.075      0.98      0.98      0.98       0.987
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+  708   67 |    a = TRUE
+   34 4346 |    b = FALSE
+

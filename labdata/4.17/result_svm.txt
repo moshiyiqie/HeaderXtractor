@@ -1,0 +1,70 @@
+=== Run information ===
+
+Scheme:weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -seed 1
+Relation:     vector
+Instances:    5155
+Attributes:   31
+              isAbstract
+              cap1DicWordNumPer
+              isPubNum
+              pubNumPer
+              isMayName
+              dictWordNumPer
+              isEmail
+              isState
+              addrNumPer
+              digitNumPer
+              isPostCode
+              isIntro
+              dateNumPer
+              nonDictWordNumPer
+              isSingleCap
+              noteNumPer
+              isAffi
+              isAddr
+              degreeNumPer
+              isURL
+              isPhone
+              affiNumPer
+              isKeyWord
+              isMonth
+              isPrep
+              phoneNumPer
+              isCity
+              isNote
+              cap1NonDicWordNumPer
+              isCountry
+              classfication_tag
+Test mode:10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 1.43 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        5040               97.7692 %
+Incorrectly Classified Instances       115                2.2308 %
+Kappa statistic                          0.9091
+Mean absolute error                      0.0223
+Root mean squared error                  0.1494
+Relative absolute error                  8.7285 %
+Root relative squared error             41.7903 %
+Total Number of Instances             5155     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.877     0.005      0.971     0.877     0.922      0.936    TRUE
+                 0.995     0.123      0.979     0.995     0.987      0.936    FALSE
+Weighted Avg.    0.978     0.105      0.978     0.978     0.977      0.936
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+  680   95 |    a = TRUE
+   20 4360 |    b = FALSE
+

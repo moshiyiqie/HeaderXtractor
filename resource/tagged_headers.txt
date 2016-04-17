@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<title> Protocols for Collecting Responses +L+
+﻿<title> Protocols for Collecting Responses +L+
 
 in Multi-hop Radio Networks +L+ </title>
 

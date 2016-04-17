@@ -25,7 +25,7 @@ def cap1DicWordNumPer(line):
 	num=0
 	all=1
 	for word in line.split(' '):
-		if str.isupper(word[0]):
+		if len(word)>=1 and str.isupper(word[0]):
 			all+=1
 			num += inAnyDic(word)
 	return num*1.0/all
@@ -64,7 +64,7 @@ def updateLineSpecificVector(line,vector):
 
 '''
 ≤‚ ‘
-'''
+
 vector={}
 updateLineSpecificVector('alaska dr 13269579910 lab Mary mary',vector)
 print vector
@@ -73,3 +73,4 @@ print cap1DicWordNumPer('Mary mary sdfsd Ssdfs')
 print digitNumPer('12321 good 3s')
 print dictWordNumPer('rainto@dd.com ALASKA mary sdfsadfa alalala')
 print countDic('rainto@dd.com gsdf dsfasd@dfsa.cs',WordSpecific.isEmail)
+'''

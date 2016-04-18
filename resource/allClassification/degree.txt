@@ -1,8 +1,59 @@
-<degree> Thesis Proposal  </degree>
-<degree> Thesis by  </degree>
-<degree> Senior Thesis  </degree>
-<degree> Submitted to the Graduate School of the  </degree>
-<degree> MSc Dissertation  </degree>
-<degree> Diploma Thesis  </degree>
-<degree> Thesis Proposal  </degree>
-<degree> Author : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :  </degree>
+<degree> A THESIS PROPOSAL Presented to The Academic Faculty In Partial Fulfillment of the Requirements for the Degree Doctor of Philosophy in Information and Computer Science The Committee: Dr. Ashok Goel (Advisor) Dr. Richard Catrambone (Psy) Dr. T. Govindaraj (ISyE) Dr. Janet Kolodner Dr. Ashwin Ram  </degree>::line_number::4
+<degree> APPROVED BY SUPERVISORY COMMITTEE:  </degree>::line_number::1
+<degree> Thesis Proposal  </degree>::line_number::1
+<degree> Thesis by  </degree>::line_number::1
+<degree> In Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy  </degree>::line_number::3
+<degree> Senior Thesis  </degree>::line_number::2
+<degree> A thesis submitted in conformity with the requirements for the degree of Master of Science  </degree>::line_number::2
+<degree> A dissertation submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy (Computer Sciences) at the  </degree>::line_number::2
+<degree> A thesis submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy (Computer Sciences) at the  </degree>::line_number::2
+<degree> Bachelor of Arts in Linguistics, Stanford University (1987) Master of Arts in Linguistics, Stanford University (1989) Submitted to the Department of Linguistics and Philosophy in Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy at the  </degree>::line_number::3
+<degree> The author hereby grants to M.I.T permission to reproduce and to distribute copies of this thesis document in whole or in part. Signature of Author  Department of Linguistics and Philosophy  </degree>::line_number::6
+<degree> Certified by  Noam Chomsky Institute Professor Accepted by  Wayne O'Neil Head, Department of Linguistics and Philosophy  </degree>::line_number::8
+<degree> B.Tech. (Indian Institute of Technology, Bombay) 1989 M.S. (University of California at Berkeley, California) 1993 A dissertation submitted in partial satisfaction of the requirements for the degree of Doctor of Philosophy in  </degree>::line_number::2
+<degree> in the GRADUATE DIVISION of the  </degree>::line_number::4
+<degree> Committee in charge: Professor Alberto L. Sangiovanni-Vincentelli Professor Robert K. Brayton Professor Phillip Colella  </degree>::line_number::6
+<degree> Submitted to the Department of Electrical Engineering and Computer Science in partial fulfillment of the requirements for the degree of Master of Engineering in Electrical Engineering and Computer Science at the  </degree>::line_number::2
+<degree> c Jerry E. Pratt, MCMXCV. All rights reserved. The author hereby grants to MIT permission to reproduce and distribute publicly paper and electronic copies of this thesis document in whole or in part, and to grant others the right to do so. Author : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : Department of Electrical Engineering and Computer Science August 25, 1995 Certified by : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : Gill A. Pratt Assistant Professor of Electrical Engineering and Computer Science Thesis Supervisor Accepted by : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : F. R. Morgenthaler Chairman, Department Committee on Graduate Theses  </degree>::line_number::5
+<degree> A Thesis Submitted in Partial Fulfillment of the Requirements for the Degree Doctor of Philosophy Approved, Thesis Committee: Ken Kennedy, Noah Harding Professor Computer Science John Mellor-Crummey, Faculty Fellow Computer Science William W. Symes, Professor Computational and Applied Mathematics R. Gregg Brickner, Technical Staff Member Los Alamos National Laboratory Houston, Texas  </degree>::line_number::3
+<degree> Laurea, Universit a di Padova (1992) Dottorato di Ricerca, Universit a di Padova (1996) Submitted to the Department of Electrical Engineering and Computer Science in partial fulfillment of the requirements for the degree of Master of Science at the  </degree>::line_number::2
+<degree> c Matteo Frigo, MCMXCVII. All rights reserved. The author hereby grants to MIT permission to reproduce and distribute publicly paper and electronic copies of this thesis document in whole or in part, and to grant others the right to do so. Author . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Department of Electrical Engineering and Computer Science January 28, 1998 Certified by . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Charles E. Leiserson Professor of Computer Science and Engineering Thesis Supervisor Accepted by . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . PUT NAME HERE Chairman, Departmental Committee on Graduate Students  </degree>::line_number::5
+<degree> A DISSERTATION SUBMITTED TO THE GRADUATE SCHOOL IN PARTIAL FULFILLMENT OF THE REQUIREMENTS for the degree DOCTOR OF PHILOSOPHY in ELECTRICAL AND COMPUTER ENGINEERING  </degree>::line_number::2
+<degree> Submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy. Thesis Committee: Peter Lee, Chair William Scherlis Andy Witkin Olivier Danvy  </degree>::line_number::6
+<degree> A Dissertation Presented by  </degree>::line_number::1
+<degree> Submitted to the Graduate School of the  </degree>::line_number::3
+<degree> in partial fulfillment of the requirements for the degree of Doctor of Philosophy  </degree>::line_number::5
+<degree> B.E, Birla Institute of Technology & Science, 1993 M.Sc, Birla Institute of Technology & Science, 1993 THESIS Submitted in partial fulfillment of the requirements for the degree of Master of Science in Computer Science in the Graduate College of the  </degree>::line_number::2
+<degree> Submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy. Thesis Committee: Robert Harper, Chair Peter Lee John Reynolds Luca Cardelli, DEC SRC  </degree>::line_number::5
+<degree> a dissertation submitted to the department of computer science and the committee on graduate studies of stanford university in partial fulfillment of the requirements for the degree of doctor of philosophy  </degree>::line_number::1
+<degree> B.Tech. (Indian Institute of Technology, Bombay) 1989 A dissertation submitted in partial satisfaction of the requirements for the degree of Doctor of Philosophy in Computer Science in the GRADUATE DIVISION of the  </degree>::line_number::2
+<degree> Committee in charge: Professor James W. Demmel, Chair Professor Beresford N. Parlett Professor Phil Colella  </degree>::line_number::4
+<degree> A Thesis Submitted to the Faculty in partial fulfillment of the requirements for the degree of Doctor of Philosophy in  </degree>::line_number::1
+<degree> Examining Committee: (chairman) John Danskin Henry Baird Dennis Healy Geoff Davis Neal Young Roger D. Sloboda Dean of Graduate Studies  </degree>::line_number::7
+<degree> Submitted to the faculty of the University Graduate School in partial fulfillment of the requirements for the degree Doctor of Philosophy in the </degree>::line_number::2
+<degree> B.S. (Stanford University) 1983 M.S. (University of California at Los Angeles) 1989 A dissertation submitted in partial satisfaction of the requirements for the degree of Doctor of Philosophy in  </degree>::line_number::2
+<degree> in the GRADUATE DIVISION of the  </degree>::line_number::4
+<degree> Committee in charge: Professor Carlo H. Sequin , Chair Professor Lawrence Rowe Professor Jean Pierre Protzen  </degree>::line_number::6
+<degree> MSc Dissertation  </degree>::line_number::2
+<degree> A Thesis Submitted in Partial Fulfillment of the Requirements for the Degree Doctor of Philosophy Approved, Thesis Committee: J Robert Jump, Co-Chairman Professor Electrical and Computer Engineering James B. Sinclair, Co-Chairman Associate Professor Electrical and Computer Engineering John K. Bennett Assistant Professor Electrical and Computer Engineering Ken Kennedy Professor Computer Science Houston, Texas  </degree>::line_number::3
+<degree> A Thesis Submitted to the Graduate Faculty of </degree>::line_number::2
+<degree> in Partial Fulfillment of the Requirements for the Degree of Master of Science Approved: Dr. Michael J. Wozny Thesis Adviser  </degree>::line_number::4
+<degree> A thesis submitted in partial satisfaction of the requirements for the degree of Master of Science in Computer Science  </degree>::line_number::2
+<degree> Committee in charge: Professor Jianwen Su, Chair Professor Oscar Ibarra Professor Amr El Abbadi  </degree>::line_number::4
+<degree> A thesis submitted in partial fulfilment of the requirements for the degree of Bachelor of Technology in Computer Science and Engineering  </degree>::line_number::1
+<degree> under the guidance of Dr Sanjiva Prasad  </degree>::line_number::3
+<degree> A thesis submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy (Computer Sciences and Mathematics) at the  </degree>::line_number::2
+<degree> B.A. Mathematics (1994) Reed College  </degree>::line_number::2
+<degree> Submitted to the Program in Media Arts and Sciences, School of Architecture and Planning, in partial fulfillment of the requirements for the degree of Master of Science in Media Arts and Sciences at the Massachusetts Institute of Technology  </degree>::line_number::5
+<degree> Certified by Pattie Maes Associate Professor of Media Arts and Sciences MIT Media Lab Accepted by Stephen A. Benton Professor of Media Arts and Sciences Chair, Departmental Committee on Graduate Students Program in Media Arts and Sciences </degree>::line_number::9
+<degree> Diploma Thesis  </degree>::line_number::1
+<degree> Professor Neil Gershenfeld Institut fur Elektrische Nachrichtentechnik Rheinisch-Westphalische Technische Hochschule Aachen Univ. Professor Dr.-Ing. H.D. Luke  </degree>::line_number::3
+<degree> Master's Thesis under the direction of Carlo Sequin  </degree>::line_number::1
+<degree> Thesis Proposal  </degree>::line_number::1
+<degree> a dissertation submitted to the </degree>::line_number::1
+<degree> and the committee on graduate studies of </degree>::line_number::3
+<degree> in partial fulfillment of the requirements for the degree of doctor of philosophy  </degree>::line_number::5
+<degree> S.M., Massachusetts Institute of Technology (1992) Submitted to the </degree>::line_number::2
+<degree> in partial fulfillment of the requirements for the degree of Doctor of Philosophy in Electrical Engineering and Computer Science at the  </degree>::line_number::4
+<degree> Author : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :  </degree>::line_number::8
+<degree> Certified by : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : Ronald L. Rivest Professor Thesis Supervisor Accepted by : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : F. R. Morgenthaler Chairman, Department Committee on Graduate Students  </degree>::line_number::11

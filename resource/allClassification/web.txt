@@ -1,52 +1,58 @@
-<web> http://www.cs.bham.ac.uk/~wbl, ~rmp  </web>
-<web> http://www.cs.bham.ac.uk/~wbl, ~rmp  </web>
-<web> http://www.cs.dartmouth.edu/ brd/. </web>
-<web> ftp://ftp.cs.dartmouth.edu/kotz/papers/nieuwejaar:jgalley.ps.Z  </web>
-<web> Url: http://www.cs.huji.ac.il/f~idish,~dolevg  </web>
-<web> http://www.cs.toronto.edu/neuron/  </web>
-<web> http://www/cs.umd.edu/projects/hcil/ </web>
-<web> http://www.cscs.ch/Official/Project CSCS-NEC.html  </web>
-<web> http://www.cse.unsw.edu.au/~timm </web>
-<web> http://www.cwi.nl/~pdg/  </web>
-<web> http://www.cs.Helsinki.FI/research/cosco/  </web>
-<web> http://www.csr.unibo.it/~maniezzo  </web>
-<web> http://www.media.mit.edu/~picard/  </web>
-<web> URL: http://www.disi.unige.it/phd/ateniese/ateniese.html  </web>
-<web> URL: http://www.unisa.it/f~carblu, ~adsg  </web>
-<web> http://ciir.cs.umass.edu/  </web>
-<web> http://ciir.cs.umass.edu/  </web>
-<web> http://www:ics:uci:edu/ ~ eppstein. </web>
-<web> http://www:cs:duke:edu/ ~ jeffe. </web>
-<web> http://www.vuse.vanderbilt.edu/~dfisher/dfisher.html  </web>
-<web> http://iacoma.cs.uiuc.edu  </web>
-<web> 4. WWW URL: http://www.usenix.org  </web>
-<web> http://www.sdm.de/g/arcus  </web>
-<web> http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-8/  </web>
-<web> http://www.cs.umass.edu/~vfiroiu/  </web>
-<web> URL: http://www.cam.sri.com/tr/crc033/paper.ps.Z </web>
-<web> URL: http://www.cam.sri.com/tr/crc044/paper.ps.ZARPA </web>
-<web> (http://www.myri.com)  </web>
-<web> http://www.cs.berkeley.edu/~debevec/Research/  </web>
-<web> http://theory.stanford.edu/people/jcm/home.html </web>
-<web> http://www.cis.upenn.edu/~andre </web>
-<web> http://www.cs.cmu.edu/~khaigh http://www.cs.cmu.edu/~mmv  </web>
-<web> http://www.cs.cmu.edu/ph, </web>
-<web> URL: http://www.cs.cmu.edu/~ vsam  </web>
-<web> World Wide Web: http://www.cs.cmu.edu/~ph  </web>
-<web> http://www.dbis.informatik.uni-frankfurt.de  </web>
-<web> http://www.cs.ucsb.edu/f~cfu,~tyangg  </web>
-<web> Web: http://www.cs.ucsb.edu/ yfwang  </web>
-<web> http://www.cs.ucsb.edu/research/scintilla  </web>
-<web> http://www.cs.umn.edu/karypis/metis/metis.html  </web>
-<web> URL: http://www.cs.utexas.edu/users/fsriram,lorenzo,ving  </web>
-<web> http://www.cs.utk.edu/~casanova  </web>
-<web> http://www.netlib.org/utk/people/JackDongarra.html  </web>
-<web> URL: http://www.csl.sri.com/sri-csl-fm.html  </web>
-<web> http://www.infm.ulst.ac.uk/research/preprints.html  </web>
-<web> http://www.media.mit.edu/nelson/  </web>
-<web> WWW : http://www.ncc.up.pt/~ltorgo  </web>
-<web> http://www.neci.nj.nec.com/homepages/lawrence  </web>
-<web> http://www.neci.nj.nec.com/homepages/giles.html  </web>
-<web> http://www.cs.cmu.edu/~eugene  </web>
-<web> http://fas.sfu.ca/cs/people/Faculty/Yang  </web>
-<web> http://www.stern.nyu.edu/~aweigend/Research/Papers/TradeStyles  </web>
+<web> http://www.cs.bham.ac.uk/~wbl, ~rmp  </web>::line_number::6
+<web> http://www.cs.bham.ac.uk/~wbl, ~rmp  </web>::line_number::5
+<web> http://www.cs.dartmouth.edu/ brd/. </web>::line_number::17
+<web> ftp://ftp.cs.dartmouth.edu/kotz/papers/nieuwejaar:jgalley.ps.Z  </web>::line_number::2
+<web> Url: http://www.cs.huji.ac.il/f~idish,~dolevg  </web>::line_number::5
+<web> http://www.cs.toronto.edu/neuron/  </web>::line_number::5
+<web> http://www/cs.umd.edu/projects/hcil/ </web>::line_number::6
+<web> http://www.cscs.ch/Official/Project CSCS-NEC.html  </web>::line_number::5
+<web> http://www.cse.unsw.edu.au/~timm </web>::line_number::5
+<web> http://www.cwi.nl/~pdg/  </web>::line_number::4
+<web> http://www.cs.Helsinki.FI/research/cosco/  </web>::line_number::8
+<web> http://iridia.ulb.ac.be/dorigo/dorigo.html </web>::line_number::12
+<web> http://www.csr.unibo.it/~maniezzo  </web>::line_number::18
+<web> http://www.media.mit.edu/~picard/  </web>::line_number::7
+<web> URL: http://www.disi.unige.it/phd/ateniese/ateniese.html  </web>::line_number::5
+<web> URL: http://www.unisa.it/f~carblu, ~adsg  </web>::line_number::9
+<web> http://ciir.cs.umass.edu/  </web>::line_number::5
+<web> http://ciir.cs.umass.edu/  </web>::line_number::10
+<web> http://www:ics:uci:edu/ ~ eppstein. </web>::line_number::9
+<web> http://www:cs:duke:edu/ ~ jeffe. </web>::line_number::14
+<web> http://www.vuse.vanderbilt.edu/~dfisher/dfisher.html  </web>::line_number::8
+<web> http://iacoma.cs.uiuc.edu  </web>::line_number::5
+<web> 4. WWW URL: http://www.usenix.org  </web>::line_number::4
+<web> http://www.sdm.de/g/arcus  </web>::line_number::7
+<web> http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-8/  </web>::line_number::11
+<web>  http://www.cs.berkeley.edu/ marcel  </web>::line_number::3
+<web>  http://www.almaden.ibm.com/ cs/people/mohan  </web>::line_number::7
+<web>  http://www.cs.berkeley.edu/ jmh  </web>::line_number::11
+<web> http://www.cs.umass.edu/~vfiroiu/  </web>::line_number::10
+<web> http://www-cs faculty.stanford.edu/~koza/  </web>::line_number::5
+<web> URL: http://www.cam.sri.com/tr/crc033/paper.ps.Z </web>::line_number::0
+<web> URL: http://www.cam.sri.com/tr/crc044/paper.ps.ZARPA </web>::line_number::0
+<web> (http://www.myri.com)  </web>::line_number::8
+<web> http://www.cs.berkeley.edu/~debevec/Research/  </web>::line_number::12
+<web> http://theory.stanford.edu/people/jcm/home.html </web>::line_number::9
+<web> http://www.cis.upenn.edu/~andre </web>::line_number::14
+<web> http://www.cs.cmu.edu/~khaigh http://www.cs.cmu.edu/~mmv  </web>::line_number::4
+<web> http://www.cs.cmu.edu/ph, </web>::line_number::5
+<web> URL: http://www.cs.cmu.edu/~ vsam  </web>::line_number::5
+<web> World Wide Web: http://www.cs.cmu.edu/~ph  </web>::line_number::7
+<web> http://www.dbis.informatik.uni-frankfurt.de  </web>::line_number::5
+<web> http://www.ma.man.ac.uk/MCCM/MCCM.html ftp://ftp.ma.man.ac.uk/pub/narep  </web>::line_number::9
+<web> http://www.cs.ucsb.edu/f~cfu,~tyangg  </web>::line_number::4
+<web> Web: http://www.cs.ucsb.edu/ yfwang  </web>::line_number::6
+<web> http://www.cs.ucsb.edu/research/scintilla  </web>::line_number::5
+<web> http://www.cs.umn.edu/karypis/metis/metis.html  </web>::line_number::1
+<web> URL: http://www.cs.utexas.edu/users/fsriram,lorenzo,ving  </web>::line_number::6
+<web> http://www.cs.utk.edu/~casanova  </web>::line_number::5
+<web> http://www.netlib.org/utk/people/JackDongarra.html  </web>::line_number::10
+<web> URL: http://www.csl.sri.com/sri-csl-fm.html  </web>::line_number::6
+<web> http://www.infm.ulst.ac.uk/research/preprints.html  </web>::line_number::6
+<web> http://www.media.mit.edu/nelson/  </web>::line_number::4
+<web> WWW : http://www.ncc.up.pt/~ltorgo  </web>::line_number::6
+<web> http://www.neci.nj.nec.com/homepages/lawrence  </web>::line_number::14
+<web> http://www.neci.nj.nec.com/homepages/giles.html  </web>::line_number::18
+<web> http://www.cs.cmu.edu/~eugene  </web>::line_number::5
+<web> http://fas.sfu.ca/cs/people/Faculty/Yang  </web>::line_number::10
+<web> http://www.stern.nyu.edu/~aweigend/Research/Papers/TradeStyles  </web>::line_number::3

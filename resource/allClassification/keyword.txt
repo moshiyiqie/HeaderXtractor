@@ -1,70 +1,156 @@
-<keyword> Key Words: Multimedia systems, multimedia databases, information systems.  </keyword>
-<keyword> Keywords: Parallel computer architecture, wormhole routing, k-ary n-cube, consumption Channel, virtual Channel, deterministic routing, adaptive routing, hot-spot traffic, performance evaluation, and interprocessor communication.  </keyword>
-<keyword> Keywords: ATM, P-NNI, authenticated signaling, certificate path.  </keyword>
-<keyword> Key words: wavelets, wavelet packets, robust multilevel methods, V -cycle  </keyword>
-<keyword> Key words: Sparse coding, Non-Gaussian distributions, BCM Theory, Minimal Entropy  </keyword>
-<keyword> Keywords: Register Allocation, Continuation-passing Style, Procedure Call  </keyword>
-<keyword> Keywords: Multicast routing, Scalability, Network modeling  </keyword>
-<keyword> Key words: distributed computing, distributed queue, performance modeling, producer/consumer, simulation.  </keyword>
-<keyword> Keywords: Conference Authentication, Distributed Systems.  </keyword>
-<keyword> keywords: task-parallelism, data-parallelism, thread, rope, object-oriented paradigm  </keyword>
-<keyword> Keywords: global predicate detection, consistent global states, partially-synchronous systems, distributed debugging, real-time monitoring  </keyword>
-<keyword> Keywords: information retrieval, relevance feedback, user modelling, query formulation  </keyword>
-<keyword> Keywords: Conceptual Data Modelling, Category Theory, Meta Modelling  </keyword>
-<keyword> Keywords: subdivision, arbitrary topology, characteristic map, Doo-Sabin Algorithm, Catmull-Clark algorithm, B-spline  </keyword>
-<keyword> Keywords: bandwidth allocation, MPEG, statistical multiplexing, CAC.  </keyword>
-<keyword> Key Words: exponentials, polynomials, multivariate, interpolation, Newton form, Birkhoff interpolation  </keyword>
-<keyword> Key words. Parallel Optimization, Augmented Lagrangians, Quadratic Programs, Convex Programs  </keyword>
-<keyword> Keywords: interlingua, machine translation, lexicon, lexicalized grammar  </keyword>
-<keyword> Key Words. Machine Learning, Robotics, Neural Nets  </keyword>
-<keyword> Key Words. Multimedia, Multimodality, Haptic Output, Man-Machine-Systems, Human-Computer Interaction, Classification, User Modelling  </keyword>
-<keyword> Other keywords: timetable problem, tabu search, simulated annealing, genetic algorithms  </keyword>
-<keyword> KEY WORDS: Blocking; Convergence acceleration; Gibbs sampling; Hierarchical model; Metropolis-Hastings algorithm.  </keyword>
-<keyword> Keywords: Multimedia, Network Management, Quality of Service, High Speed Networks.  </keyword>
-<keyword> Index Terms | Real-time systems, communication, scheduling, guaranteed delay, point-to-point networks.  </keyword>
-<keyword> Key words: instance-based learning, genetic algorithms, instance weights, generalization  </keyword>
-<keyword> Key words : Partial Shape Matching, Genetic Algorithms, Attributed Strings, Pattern Recognition.  </keyword>
-<keyword> Keywords: Visual Cryptography, Secret Sharing Schemes.  </keyword>
-<keyword> Keywords: Software architecture, software design, software engineering  </keyword>
-<keyword> Keywords: projective reconstruction, affine reconstruction, partial calibration, qualitative depth  </keyword>
-<keyword> Keywords: clustering, iterative optimization, cluster validation, resampling, pruning, objective functions.  </keyword>
-<keyword> Keywords: Actors, Distributed Systems, Program Visualization  </keyword>
-<keyword> Keywords| Internet economics, network tracing, usage-accounting  </keyword>
-<keyword> Keywords: optical flow, epipolar constraint, motion estimation.  </keyword>
-<keyword> Keywords: Bayesian image restoration; Markov random fields; max flow-min cut  </keyword>
-<keyword> Keywords: regression, subset selection, shrinkage, quadratic programming.  </keyword>
-<keyword> Key words: MCMs, testing, graph algorithms, fault detection, circuit probing, TSP.  </keyword>
-<keyword> Keywords: design correctness, design debugging, design error diagnosis  </keyword>
-<keyword> Keywords. Automated vehicles, hierarchical control  </keyword>
-<keyword> Keywords: adaptability, general purpose, speech recognition, language understanding, AURIX, CLARE  </keyword>
-<keyword> Key Words: Adaptive method; Bayesian inference; Gibbs sampling; Markov chain Monte Carlo;  </keyword>
-<keyword> Keywords: collaborative filtering, clustering, EM, Gibbs sampling  </keyword>
-<keyword> Keywords: animation, music, MIDI, evolutionary art.  </keyword>
-<keyword> Keyword: Belief revision  </keyword>
-<keyword> Key words: Dynamical Systems, Temporal Reasoning, Planning, Locality, Localized Reasoning, Subgoals, Abstract Events  </keyword>
-<keyword> Keywords: Push communications, Pull communications, Proxy, Scaling, Middleware service, QoS  </keyword>
-<keyword> Keywords: load balancing, distributed network algorithms.  </keyword>
-<keyword> Keywords: Multiple-instance examples, classification noise, statistical queries  </keyword>
-<keyword> Keywords: operant conditioning, instrumental learning, shaping, chaining, learning robots  </keyword>
-<keyword> Keywords: connectionist systems, backpropagation, inversion, recurrent neural networks, digit recognition  </keyword>
-<keyword> Keywords: Decision Trees, Non-Parametric Classification, Pattern Recognition, Object Recognition, Computer Vision, Machine Learning.  </keyword>
-<keyword> Keywords: Intrusion detection, audit data, classification, association rules, frequent episodes.  </keyword>
-<keyword> Keywords: Algorithm Analysis, Approximate Pattern Matching.  </keyword>
-<keyword> Keywords: Distributed parallel algorithm, boundary value problems, multiple shooting  </keyword>
-<keyword> Category: Applications (compiler optimization)  </keyword>
-<keyword> Keywords: Real-time CORBA Object Request Broker, QoS-enabled OO Middleware, Performance Measurements  </keyword>
-<keyword> Keywords: Algorithms, approximations, Steiner tree  </keyword>
-<keyword> keywords: cache prefetching, bus-based multiprocessor, cache misses, prefetching strategies, parallel programs, false sharing, memory latency  </keyword>
-<keyword> Key Words: Latent variable, Longitudinal ordinal data, Structural equation model  </keyword>
-<keyword> Keywords: incompressible Navier-Stokes, finite difference schemes, GMRES.  </keyword>
-<keyword> Keywords: complementarity problems, variational inequalities, computation, algorithms  </keyword>
-<keyword> Key word. preconditioning, elliptic systems, numerical methods  </keyword>
-<keyword> Keywords: Communication middleware, distributed object computing, CORBA, high-speed networks.  </keyword>
-<keyword> Keywords: Relational higher-order and metalogic programming. Logic program recursion schemes. Declarative logic programming methodology.  </keyword>
-<keyword> Keywords: Simple Bayesian classifier, naive Bayesian classifier, zero-one loss, optimal classification, induction with attribute dependences  </keyword>
-<keyword> Keywords: storage and retrieval, matrix, optimization  </keyword>
-<keyword> Keywords : Machine Learning, Regression Trees, Pruning methods.  </keyword>
-<keyword> Keywords: network interfaces, high-speed networks, buffer management, memory hierarchy  </keyword>
-<keyword> Some key words: Jeffreys's prior, Mixed model, Posterior simulation, Reference prior, REML.  </keyword>
-<keyword> Keywords: Specifying and Verifying and Reasoning about Programs  </keyword>
-<keyword> Keywords Semantic models, Unity, program refinement.  </keyword>
+<keyword> Keywords| Routing algorithm, Interprocessor communication, Multicast, Virtual channel, Wormhole-routing, Path-based routing, Collective communication, and Fault tolerance.  </keyword>::line_number::4
+<keyword> Keywords: Sparse Matrices, Finite Element Grids, Minimum Degree Ordering, Computational Complexity.  </keyword>::line_number::5
+<keyword> Key Words: Multimedia systems, multimedia databases, information systems.  </keyword>::line_number::8
+<keyword> Keywords: Parallel computer architecture, wormhole routing, k-ary n-cube, consumption Channel, virtual Channel, deterministic routing, adaptive routing, hot-spot traffic, performance evaluation, and interprocessor communication.  </keyword>::line_number::7
+<keyword> Keywords: ATM, P-NNI, authenticated signaling, certificate path.  </keyword>::line_number::6
+<keyword> Key words: wavelets, wavelet packets, robust multilevel methods, V -cycle  </keyword>::line_number::4
+<keyword> Key words: Sparse coding, Non-Gaussian distributions, BCM Theory, Minimal Entropy  </keyword>::line_number::5
+<keyword> Keywords| Statistical pattern recognition, artificial neural networks, optical character recog nition, speech recognition, Bayes decision theory, nonparametric estimation.  </keyword>::line_number::9
+<keyword> Keywords: Register Allocation, Continuation-passing Style, Procedure Call  </keyword>::line_number::8
+<keyword> Keywords: Multicast routing, Scalability, Network modeling  </keyword>::line_number::4
+<keyword> Key words: distributed computing, distributed queue, performance modeling, producer/consumer, simulation.  </keyword>::line_number::5
+<keyword> Keywords: Conference Authentication, Distributed Systems.  </keyword>::line_number::7
+<keyword> Keywords: Single image random dot stereograms, SIRDS, autostereograms, stereoscopic pictures, optical illusions  </keyword>::line_number::3
+<keyword> Keywords: Low-energy, low-power, asynchronous design, memory design.  </keyword>::line_number::5
+<keyword> Key words: Parallel I/O. Multiprocessor file system. Performance evaluation. IBM SP-2. Scientific Computing.  </keyword>::line_number::9
+<keyword> keywords: task-parallelism, data-parallelism, thread, rope, object-oriented paradigm  </keyword>::line_number::8
+<keyword> Keywords: global predicate detection, consistent global states, partially-synchronous systems, distributed debugging, real-time monitoring  </keyword>::line_number::6
+<keyword> Keywords: information retrieval, relevance feedback, user modelling, query formulation  </keyword>::line_number::12
+<keyword> Keywords: Conceptual Data Modelling, Category Theory, Meta Modelling  </keyword>::line_number::13
+<keyword> Keywords: subdivision, arbitrary topology, characteristic map, Doo-Sabin Algorithm, Catmull-Clark algorithm, B-spline  </keyword>::line_number::4
+<keyword> Keywords: distributed shared memory, memory consistency, parallel programming, weak memories  </keyword>::line_number::5
+<keyword> Keywords: Multiprocessor Solid Modeling, Feature Recognition, Feature-Based Modeling, Distributed Computing.  </keyword>::line_number::15
+<keyword> Keyword Codes: C.2.2 Keywords: Computer-Communication Networks, Network Protocols  </keyword>::line_number::5
+<keyword> Categories and Subject Descriptors: C.2.1 [Computer-Communication Networks]: Network Archi tecture and Design|packet networks; store and forward networks; C.2.2 [Computer-Communication Net works]: Network Protocols|protocol architecture; C.2.m [Routing Protocols]; F.2.m [Computer Network Routing Protocols].  </keyword>::line_number::7
+<keyword> Keywords: bandwidth allocation, MPEG, statistical multiplexing, CAC.  </keyword>::line_number::6
+<keyword> CR Categories and Subject Descriptors: I.3.6 [Computer Graphics]: Methodology and Techniques. Additional Key Words: subdivision surfaces, surface rendering.  </keyword>::line_number::7
+<keyword> Key Words: exponentials, polynomials, multivariate, interpolation, Newton form, Birkhoff interpolation  </keyword>::line_number::4
+<keyword> Key words. Parallel Optimization, Augmented Lagrangians, Quadratic Programs, Convex Programs  </keyword>::line_number::3
+<keyword> Keywords: HPF & MPI parallelization; parallel program engineering tools.  </keyword>::line_number::7
+<keyword> KEYWORDS: Neural Networks, Connectionist Syntactic Parsing, RAAM, Holistic Transformation, Confluent Preorder Parser, Linearization of a Hierarchical Parse Tree, Parsing Erroneous Sentences, Syntactic Disambiguation  </keyword>::line_number::6
+<keyword> Keywords: presentation emphasis techniques, fisheye views, relational data visualization, graphs, nested graphs.  </keyword>::line_number::7
+<keyword> Index Terms | View Materialization, Encoded Path Structure, Route Guidance, Path Retrieval, Map Databases, Cycle Detection.  </keyword>::line_number::9
+<keyword> Key words and phrases. Bilinear model, Branching process with immigration, Exponential family, Improper prior, Null recurrence, Random walk, Stochastic difference equation, Transience Abbreviated title. Markov Chains and P-admissibility  </keyword>::line_number::12
+<keyword> Keywords: Knowledge discovery in large databases, discovery methods, KDD system implementation, al gorithms, dynamic generation and refinement of concept hierarchies.  </keyword>::line_number::6
+<keyword> Keywords: interlingua, machine translation, lexicon, lexicalized grammar  </keyword>::line_number::10
+<keyword> Key Words. Machine Learning, Robotics, Neural Nets  </keyword>::line_number::11
+<keyword> Key Words. Multimedia, Multimodality, Haptic Output, Man-Machine-Systems, Human-Computer Interaction, Classification, User Modelling  </keyword>::line_number::5
+<keyword> Subject categories: Programming: heuristic, stochastic; Mathematics: combinatorics.  </keyword>::line_number::19
+<keyword> Other keywords: timetable problem, tabu search, simulated annealing, genetic algorithms  </keyword>::line_number::21
+<keyword> KEY WORDS: Blocking; Convergence acceleration; Gibbs sampling; Hierarchical model; Metropolis-Hastings algorithm.  </keyword>::line_number::6
+<keyword> Keywords: Multimedia, Network Management, Quality of Service, High Speed Networks.  </keyword>::line_number::6
+<keyword> Index Terms | Real-time systems, communication, scheduling, guaranteed delay, point-to-point networks.  </keyword>::line_number::9
+<keyword> Keywords. trust-region methods, interior-point algorithms, Dikin-Karmarkar ellipsoid, Coleman and Li scaling, simple bounds.  </keyword>::line_number::3
+<keyword> Key words: instance-based learning, genetic algorithms, instance weights, generalization  </keyword>::line_number::6
+<keyword> Keywords and Phrases: Simulations, automata, refinement mappings, forward simulations, backward simulations, forward-backward simulations, backward-forward simulations, history variables, prophecy variables, history relations, prophecy relations, verification, invariants.  </keyword>::line_number::13
+<keyword> Key words : Partial Shape Matching, Genetic Algorithms, Attributed Strings, Pattern Recognition.  </keyword>::line_number::8
+<keyword> Keywords: Visual Cryptography, Secret Sharing Schemes.  </keyword>::line_number::13
+<keyword> Keywords: Software architecture, software design, software engineering  </keyword>::line_number::7
+<keyword> Keywords: projective reconstruction, affine reconstruction, partial calibration, qualitative depth  </keyword>::line_number::14
+<keyword> Keywords: clustering, iterative optimization, cluster validation, resampling, pruning, objective functions.  </keyword>::line_number::11
+<keyword> KEYWORDS: agents, collaborative filtering, CSCW, joint computation, ecology of computation, user modeling, intelli gent systems, information retrieval, distributed AI, Internet.  </keyword>::line_number::6
+<keyword> Keywords storytelling, children, computer-mediated toys, identity, education, gender, tangible interfaces.  </keyword>::line_number::7
+<keyword> Keywords: Recognition, Computer Vision, Invariant Theory, Indexing, Model-based Vision  </keyword>::line_number::5
+<keyword> Keywords: Branch Prediction, Profile-based Optimization, Branch Target Buffers, Trace Scheduling.  </keyword>::line_number::8
+<keyword> Keywords: model based image segmentation, automatic model selection, learning pixel classifier, texture segmentation  </keyword>::line_number::7
+<keyword> Keywords: Actors, Distributed Systems, Program Visualization  </keyword>::line_number::8
+<keyword> Keywords| Internet economics, network tracing, usage-accounting  </keyword>::line_number::4
+<keyword> Keywords: Switching, nonlinear control, zero dynamics, exact and asymptotic tracking, nonminimum phase.  </keyword>::line_number::6
+<keyword> Keywords: hybrid systems, air traffic management, flight control.  </keyword>::line_number::9
+<keyword> Keywords Automated Highway System Design, Fault Tolerant Control, Safety  </keyword>::line_number::6
+<keyword> Keywords: optical flow, epipolar constraint, motion estimation.  </keyword>::line_number::7
+<keyword> Keywords: Bayesian image restoration; Markov random fields; max flow-min cut  </keyword>::line_number::4
+<keyword> Keywords: I/O automata models, formal verification, distributed con sensus, partially synchronous systems, fault-tolerance  </keyword>::line_number::5
+<keyword> Keywords: regression, subset selection, shrinkage, quadratic programming.  </keyword>::line_number::4
+<keyword> Key words: MCMs, testing, graph algorithms, fault detection, circuit probing, TSP.  </keyword>::line_number::9
+<keyword> Keywords: gate delay, reduced-order models, driving point admittance, effective capacitance, interconnect modeling  </keyword>::line_number::6
+<keyword> Keywords: design correctness, design debugging, design error diagnosis  </keyword>::line_number::8
+<keyword> Keywords Workflow Management Systems, Distributed Systems, reliability, scalability.  </keyword>::line_number::14
+<keyword> Keywords: Multicomputers, Routing Networks, Adaptive Routing, Deadlock Avoidance, Transmission-Order Preservation, Fault Tolerance  </keyword>::line_number::6
+<keyword> CR Categories: I.3.7 [Computer Graphics]: Three-Dimensional Graphics and Realism; I.3.3 [Computer Graphics]: Picture/Image Generation|Display Algorithms. Additional Keywords: Volume rendering, Coherence, Scientific visualization, Medical imaging.  </keyword>::line_number::6
+<keyword> CR Categories and Subject Descriptors: I.3.7 [Computer Graphics]: Three-Dimensional Graphics and Realism. Key Words: volume rendering, coherence, progressive refinement, interactive techniques.  </keyword>::line_number::4
+<keyword> Keywords: Mathematical Modelling, Linear/Integer Programming, Algorithms, Branch and Bound, Dis-equality Constraints.  </keyword>::line_number::7
+<keyword> Keywords. Automated vehicles, hierarchical control  </keyword>::line_number::6
+<keyword> Keywords| quantization, source coding, frames, matching pursuit, consistent reconstruction, optimal reconstruction, overcomplete representations, MSE bounds  </keyword>::line_number::4
+<keyword> Categories and Subject Descriptors: F.4.1 [Mathematical Logic and Formal Languages]: Mathematical logic | computational logic, mechanical theorem proving; I.2.3 [Artificial Intelligence]: Deduction and Theorem Proving | deduction General Terms: Deduction, Algorithms Additional Keywords and Phrases: Proof Theory, Machine Inference, Theorem Proving, Automated Reasoning, Polynomial Time Algorithms, Inference Rules, Proof Systems, Mechanical Verification.  </keyword>::line_number::4
+<keyword> Key words. quorum systems, load, fault tolerance, distributed computing, percolation theory, linear programming.  </keyword>::line_number::3
+<keyword> Keywords: adaptability, general purpose, speech recognition, language understanding, AURIX, CLARE  </keyword>::line_number::9
+<keyword> Keywords: Reactive control, multistrategy learning, case-based reasoning, reinforcement learning, robotic navigation.  </keyword>::line_number::9
+<keyword> Key Words: Adaptive method; Bayesian inference; Gibbs sampling; Markov chain Monte Carlo;  </keyword>::line_number::12
+<keyword> Keywords: collaborative filtering, clustering, EM, Gibbs sampling  </keyword>::line_number::5
+<keyword> Keywords auctions, distributed optimization, resource prices, process decomposition, optimal coordination, penalty-based methods, Lagrangean decomposition  </keyword>::line_number::5
+<keyword> Keywords: Input devices, interaction techniques, gesture input, Polhemus tracker, perceptual space, integrality, separability.  </keyword>::line_number::5
+<keyword> Keywords: animation, music, MIDI, evolutionary art.  </keyword>::line_number::7
+<keyword> Keyword: Belief revision  </keyword>::line_number::11
+<keyword> Key words: Dynamical Systems, Temporal Reasoning, Planning, Locality, Localized Reasoning, Subgoals, Abstract Events  </keyword>::line_number::6
+<keyword> Keywords: Push communications, Pull communications, Proxy, Scaling, Middleware service, QoS  </keyword>::line_number::6
+<keyword> Keywords Routing, quality of service, integrated services networks  </keyword>::line_number::6
+<keyword> Keywords: load balancing, distributed network algorithms.  </keyword>::line_number::3
+<keyword> Keywords: Multiple-instance examples, classification noise, statistical queries  </keyword>::line_number::10
+<keyword> KeywordsInteractive techniques, physically-based modeling, grammars.  </keyword>::line_number::10
+<keyword> Keywords: operant conditioning, instrumental learning, shaping, chaining, learning robots  </keyword>::line_number::11
+<keyword> Keywords: machine learning, neural networks, rule extraction, comprehensible models, decision trees, perceptrons  </keyword>::line_number::11
+<keyword> Keywords: connectionist systems, backpropagation, inversion, recurrent neural networks, digit recognition  </keyword>::line_number::6
+<keyword> Keywords: SUPRENUM, MPP, MIMD, parallel, supercomputer, performance, atmospheric, shallow water, architecture, software, message passing.  </keyword>::line_number::6
+<keyword> Keywords: Decision Trees, Non-Parametric Classification, Pattern Recognition, Object Recognition, Computer Vision, Machine Learning.  </keyword>::line_number::7
+<keyword> Keywords: Intrusion detection, audit data, classification, association rules, frequent episodes.  </keyword>::line_number::6
+<keyword> Keywords: speedup, scalability, arbiter and combiner trees, meta-learning, parallel/distributed processing, inductive learning  </keyword>::line_number::13
+<keyword> Keywords: Visibility-based planning, error detection and recovery, sensor con figuration, camera control, surveillance  </keyword>::line_number::8
+<keyword> Keywords| Image coding, motion analysis, image segmentation, image representation, robust estimation.  </keyword>::line_number::6
+<keyword> Keywords: Bump Mapping, Illumination, Radiosity, Radiance, Ray Tracing, Realism, Stratified Sampling, Texture Mapping.  </keyword>::line_number::5
+<keyword> Keywords| machine learning, nearest-neighbor, geometric concepts.  </keyword>::line_number::4
+<keyword> Categories and Subject Descriptors: I.2.1 [Artificial Intelligence]: Applications and Expert Systems; G.1.8 [Numerical Analysis]: Partial Differential Equations General Terms: Knowledge Based Systems Additional Key Words and Phrases: Computational Intelligence, Knowledge Based Systems, Partial Differential Equations, Performance Evaluation, Problem Solving Environments  </keyword>::line_number::5
+<keyword> Keywords: Algorithm Analysis, Approximate Pattern Matching.  </keyword>::line_number::8
+<keyword> Keywords: coarse-grained parallelism, least squares problem, QR-factorization, general sparse matrix, drop-tolerance, reordering, partitioning, block algorithm.  </keyword>::line_number::3
+<keyword> Index Terms - Architecture models, efficiency, parallel computers, parallel programs, performance, simulation, testbed, validation.  </keyword>::line_number::12
+<keyword> Keywords: architectural model, law-governed software, evolution, in variants of evolution, firewalls, protection.  </keyword>::line_number::7
+<keyword> keywords: Law of Demeter, Law-Governed Architecture, Software Engineering Principles, Enforcement.  </keyword>::line_number::9
+<keyword> Keywords: Distributed parallel algorithm, boundary value problems, multiple shooting  </keyword>::line_number::5
+<keyword> Key words. population dynamics, age-dependence, nonlinear diusion, variable time steps, superconvergence, postprocessing. AMS subject classitcations. 35Q80, 65M06, 65M15, 65M60, 92D25.  </keyword>::line_number::3
+<keyword> Keywords: message semantics, commutativity, recovery, optimistic message logging, asynchronous checkpointing  </keyword>::line_number::5
+<keyword> Category: Applications (compiler optimization)  </keyword>::line_number::23
+<keyword> Keywords: Real-time CORBA Object Request Broker, QoS-enabled OO Middleware, Performance Measurements  </keyword>::line_number::7
+<keyword> Keywords: Asynchronous Transfer Mode (ATM), dynamic traffic control, resource man agement, rate control, Real-time Variable Bit Rate traffic, continuous media traffic.  </keyword>::line_number::5
+<keyword> Keywords: Parallel Graph Partitioning, Multilevel Partitioning Methods, Spectral Partitioning Methods, Kernighan-Lin Heuristic, Parallel Sparse Matrix Algorithms.  </keyword>::line_number::10
+<keyword> Key words. NP-complete, unapproximable, randomized reduction, clique, counting problems, permanent, 2SAT  </keyword>::line_number::3
+<keyword> Keywords Networking, Heterogeneity, Load Balancing, Client-Server, Fault Tolerance, Numerical Computing, Virtual Library.  </keyword>::line_number::13
+<keyword> Keywords: Algorithms, approximations, Steiner tree  </keyword>::line_number::4
+<keyword> Keywords: Distributed protocols, channels, synchronous communication, choice operator, CSP alternative command.  </keyword>::line_number::6
+<keyword> keywords: cache prefetching, bus-based multiprocessor, cache misses, prefetching strategies, parallel programs, false sharing, memory latency  </keyword>::line_number::4
+<keyword> CR Categories and Subject Descriptors: D.2.2 [Software Engineering]: Tools and Techniques; D.3.4 [Programming Languages]: Processors compilers, optimization; E.1 [Data Structures] graphs; F.2.2 [Analysis of Algorithms and Problem Complexity]: Nonnumerical Algorithms and Problems computations on discrete structures; G.2.2 [Discrete Mathematics]: Graph Theory graph algorithms General Terms: Algorithms, Experimentation, Theory Additional Key Words and Phrases: demand dataflow analysis, distributive dataflow framework, graph reachability, interprocedural dataflow analysis, interprocedurally realizable path, interprocedurally valid path, meet-over-all-valid-paths solution  </keyword>::line_number::4
+<keyword> CR Categories and Subject Descriptors: D.3.1 [Programming Languages]: Formal Definitions and Theory syntax; D.3.4 [Programming Languages]: Processors compilers; F.1.1 [Computation by Abstract Devices]: Models of Computation automata; F.2.2 [Analysis of Algorithms and Problem Complexity]: Nonnumerical Algorithms and Problems pattern matching; I.2.8 [Artificial Intelligence]: Problem Solving, Control Methods, and Search backtracking, dynamic programming; I.5.4 [Pattern Recognition]: Applications text processing General Terms: Algorithms, Theory Additional Key Words and Phrases: memoization, tabulation, tokenization  </keyword>::line_number::4
+<keyword> Key Words: Latent variable, Longitudinal ordinal data, Structural equation model  </keyword>::line_number::5
+<keyword> Keywords: incompressible Navier-Stokes, finite difference schemes, GMRES.  </keyword>::line_number::4
+<keyword> Keywords: complementarity problems, variational inequalities, computation, algorithms  </keyword>::line_number::17
+<keyword> Key word. preconditioning, elliptic systems, numerical methods  </keyword>::line_number::8
+<keyword> KEYWORDS Distributed object management, experimental evaluation  </keyword>::line_number::7
+<keyword> Key words: Generalized caching, network traffic, network caching, file caching, optimal replacement, replacement algorithm.  </keyword>::line_number::4
+<keyword> Keywords: Communication middleware, distributed object computing, CORBA, high-speed networks.  </keyword>::line_number::7
+<keyword> Key words. multigrid, cache, threads, sparse matrix, iterative methods, domain decomposition, compiler optimization.  </keyword>::line_number::3
+<keyword> Key Words. Level 3 BLAS, matrix multiplication, Winograd's variant of Strassen's algorithm, multilevel algorithms AMS(MOS) subject classification. Numerical Analysis: Numerical Linear Algebra  </keyword>::line_number::3
+<keyword> Keywords: Relational higher-order and metalogic programming. Logic program recursion schemes. Declarative logic programming methodology.  </keyword>::line_number::6
+<keyword> Keywords QoS, adaptive, multimedia, prefetching  </keyword>::line_number::8
+<keyword> Key Words Text processing, knowledge acquisition from text, broad-coverage parsing, parsing conjoined structures.  </keyword>::line_number::11
+<keyword> Keywords Heterogeneity, interoperation, mandatory access control, multilevel security, relational database, security policy  </keyword>::line_number::6
+<keyword> Keywords| Data security, garbage collection, multilevel security, object label, read-only object.  </keyword>::line_number::4
+<keyword> Keywords: Common randomness capacity, generating randomness from noise, interactive communication.  </keyword>::line_number::4
+<keyword> Index Terms: Finite-State Markov Channels, Capacity, Mutual Information, Decision-Feedback Maximum-Likelihood Decoding.  </keyword>::line_number::3
+<keyword> Keywords: rational inquiry, doxastic logics, logical omniscience, perfect reasoning, possible worlds, Kripke semantics, dynamic multi-dimensional belief analysis  </keyword>::line_number::6
+<keyword> Keywords: Computational geometry, degenerate data, implementation, programming tool, perturbation, determinants, symbolic computation.  </keyword>::line_number::3
+<keyword> Keywords: Simple Bayesian classifier, naive Bayesian classifier, zero-one loss, optimal classification, induction with attribute dependences  </keyword>::line_number::10
+<keyword> Keywords: storage and retrieval, matrix, optimization  </keyword>::line_number::6
+<keyword> Index Terms|Data management system, File system management, Transaction processing, Concurrency control, Two-phase locking, Exception handling, Security kernel, Mandatory access control, Covert channels.  </keyword>::line_number::3
+<keyword> Keywords : Machine Learning, Regression Trees, Pruning methods.  </keyword>::line_number::8
+<keyword> Index Terms: Deterministic Finite-State Automata, Genuine and Incorrect Rules, Knowledge Insertion and Extraction, Recurrent Neural Networks, Regular Languages, Rule Revision.  </keyword>::line_number::9
+<keyword> Keywords: Recurrent neural networks, tapped-delay lines, long-term dependencies, time series, automata, memory, temporal sequences, gradient descent training, latching, NARX networks, auto-regressive, pruning, embedding theory.  </keyword>::line_number::9
+<keyword> Keywords: Local Minima, Generalization, Committees, Ensembles, Convergence, Backpropagation, Smoothness, Network Size, Problem Complexity, Function Approximation, Curse of Dimensionality.  </keyword>::line_number::13
+<keyword> Keywords  Information retrieval; Search engine; Meta search; Context-based search   </keyword>::line_number::7
+<keyword> Keywords Mobile code, design paradigms, distributed applications.  </keyword>::line_number::17
+<keyword> Keywords: network interfaces, high-speed networks, buffer management, memory hierarchy  </keyword>::line_number::5
+<keyword> Keywords:  software architecture, architectural styles, style classification/taxonomy  </keyword>::line_number::6
+<keyword> Some key words: Jeffreys's prior, Mixed model, Posterior simulation, Reference prior, REML.  </keyword>::line_number::9
+<keyword> Keywords: Robotics, mobile robot localization, landmark navigation, map algorithms, triangulation.  </keyword>::line_number::9
+<keyword> Keywords: digital image libraries, pattern recognition, science data analysis, volcanoes, Venus, SAR, detection, classification, learning, remote sensing  </keyword>::line_number::8
+<keyword> Keywords: Specifying and Verifying and Reasoning about Programs  </keyword>::line_number::8
+<keyword> Keywords Semantic models, Unity, program refinement.  </keyword>::line_number::8
+<keyword> Keywords: Global computing, Internet, Java, WorldWide-Web, massively parallel computing, secure computing, microeconomic model.  </keyword>::line_number::6

@@ -1,0 +1,8 @@
+<degree> Thesis Proposal  </degree>
+<degree> Thesis by  </degree>
+<degree> Senior Thesis  </degree>
+<degree> Submitted to the Graduate School of the  </degree>
+<degree> MSc Dissertation  </degree>
+<degree> Diploma Thesis  </degree>
+<degree> Thesis Proposal  </degree>
+<degree> Author : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :  </degree>

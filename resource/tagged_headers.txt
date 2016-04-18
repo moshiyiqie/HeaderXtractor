@@ -1,4 +1,6 @@
-﻿<title> Protocols for Collecting Responses +L+
+﻿<NEW_HEADER>
+
+<title> Protocols for Collecting Responses +L+
 
 in Multi-hop Radio Networks +L+ </title>
 

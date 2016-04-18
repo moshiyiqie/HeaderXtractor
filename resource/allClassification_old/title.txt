@@ -1,0 +1,427 @@
+<title> Space Deformation using Ray Deectors  </title>
+<title> Efficient Rasterization of Implicit Functions  </title>
+<title> Classes as Assertions  </title>
+<title> A Neural Network for Attentional Spotlight  </title>
+<title> On Hamiltonian Triangulations in Simple Polygons  </title>
+<title> The SAMOS Active DBMS Prototype  </title>
+<title> Adaptive Wave Propagation Modeling  </title>
+<title> Neuronal Goals: Efficient Coding and Coincidence Detection  </title>
+<title> Computer Vulnerability Analysis  </title>
+<title> Evolving Visually Guided Robots  </title>
+<title> Pseudo-Network Drivers and Virtual Networks  </title>
+<title> Type-driven Defunctionalization  </title>
+<title> Reactive Functional Programming  </title>
+<title> Location Independent Names for Nomadic Computers  </title>
+<title> Crowds: Anonymity for Web Transactions  </title>
+<title> On the dimension of the Hilbert-cubes  </title>
+<title> Towards an Effective Calculus for Object Query Languages  </title>
+<title> Callee-save Registers in Continuation-passing Style  </title>
+<title> Interactive Model-Based Image Understanding  </title>
+<title> A SIMPLE APPROACH TO DISTRIBUTED POOLS  </title>
+<title> Shape Modeling with Front Propagation: A Level Set Approach  </title>
+<title> Quality Management of Information Systems Development  </title>
+<title> Constructing a Configurable Group RPC Service  </title>
+<title> Domain-specific Information Browsers for Man Page, File, and Font *  </title>
+<title> Genetic Programming Bloat with Dynamic Fitness  </title>
+<title> Why Ants are Hard  </title>
+<title> Low-Energy Asynchronous Memory Design  </title>
+<title> Global Optimization Methods for Protein Folding Problems  </title>
+<title> Does Configuration Management Research Have a Future?  </title>
+<title> Markov Decision Processes in Large State Spaces  </title>
+<title> Telecentric Optics for Computational Vision  </title>
+<title> The complexity of multivariate elliptic problems with analytic data  </title>
+<title> A Foundation for Multi-Dimensional Databases  </title>
+<title> On the Area Bisectors of a Polygon  </title>
+<title> The Galley Parallel File System  </title>
+<title> An Algebra for List-Oriented Applications  </title>
+<title> Detecting Global Predicates in Distributed Systems with Clocks  </title>
+<title> Finding Genes in DNA with a Hidden Markov Model  </title>
+<title> A Feedback Mechanism for Query by Navigation  </title>
+<title> Middle Scale Robot Navigation A Case Study  </title>
+<title> Animal and Robot Navigation  </title>
+<title> Performance of Temporal Reasoning Systems  </title>
+<title> Utterance Units in Spoken Dialogue  </title>
+<title> Tally NP Sets and Easy Census Functions  </title>
+<title> Priors for Infinite Networks  </title>
+<title> Gap-Definable Counting Classes  </title>
+<title> Evaluating Weak Memories with Maya  </title>
+<title> Q-Learning for Bandit Problems  </title>
+<title> Intra-Option Learning about Temporally Abstract Actions  </title>
+<title> Design-to-time Real-Time Scheduling  </title>
+<title> Issues in Design-to-time Real-time Scheduling  </title>
+<title> Interprocedural Transformations for Parallel Code Generation  </title>
+<title> An Application of Distributed Solid Modeling: Feature Recognition  </title>
+<title> DTP: An Efficient Transport Protocol  </title>
+<title> On Hybrid Synthesis for Hierarchical Structured Petri Nets  </title>
+<title> An Empirical Study of Delay Jitter Management Policies *  </title>
+<title> Real-Time Computing with Lock-Free Shared Objects  </title>
+<title> Sync: A System for Mobile Collaborative Applications  </title>
+<title> Strange Bedfellows: Issues in Object Naming Under Unix  </title>
+<title> Testing the FM9001 Microprocessor  </title>
+<title> Secure Group Communications Using Key Graphs  </title>
+<title> Products of Domain Models  </title>
+<title> Verifying adder circuits using powerlists  </title>
+<title> Loop Optimizations for Acyclic Object-Oriented Queries  </title>
+<title> Algorithms for Fence Design  </title>
+<title> Isotach Networks  </title>
+<title> A Portable Parallel N-body Solver  </title>
+<title> User-Level Threads and Interprocess Communication  </title>
+<title> Fast Rendering of Subdivision Surfaces  </title>
+<title> Emerging Opportunities for Theoretical Computer Science  </title>
+<title> On multivariate polynomial interpolation  </title>
+<title> Recovering Shape by Purposive Viewpoint Adjustment  </title>
+<title> Team Learning of Formal Languages  </title>
+<title> Mathematical Programming in Machine Learning  </title>
+<title> Clustering via Concave Minimization  </title>
+<title> PARALLEL CONSTRAINT DISTRIBUTION  </title>
+<title> Explaining Anomalies as a Basis for Knowledge Base Refinement  </title>
+<title> Confluent Preorder Parsing  </title>
+<title> Assessing Responses to Situated Cognition  </title>
+<title> Learning stable concepts in domains with hidden changes in context  </title>
+<title> Minimum Encoding Approaches for Predictive Modeling  </title>
+<title> A Space of Presentation Emphasis Techniques for Visualizing Graphs  </title>
+<title> The Semantics of the C Programming Language  </title>
+<title> An Evolving Algebra Abstract Machine  </title>
+<title> Using MICE to Study Intelligent Dynamic Coordination  </title>
+<title> Optimal Factory Scheduling using Stochastic Dominance A*  </title>
+<title> Multi-Agent Planning as a Dynamic Search for Social Consensus  </title>
+<title> On Learning Soccer Strategies  </title>
+<title> PMoct: A Policy management tool for OCT based Design Systems for Multiple Domains  </title>
+<title> Induction as Knowledge Integration  </title>
+<title> Multilayer perceptrons may learn simple rules quickly  </title>
+<title> Toward a Lexicalized Grammar for Interlinguas  </title>
+<title> GROWING RADIAL BASIS FUNCTION NETWORKS  </title>
+<title> MULTIMEDIA MEETS MACHINE LEARNING  </title>
+<title> Real-Time Reliable Multicast Using Proactive Forward Error Correction  </title>
+<title> The Effectiveness of Affinity-Based Scheduling in Multiprocessor Networking   </title>
+<title> Loss Correlation for Queues with Bursty Input Streams  </title>
+<title> Paging Tradeoffs in Distributed-Shared-Memory Multiprocessors  </title>
+<title> High Performance Verification Algorithms  </title>
+<title> Interpretable Neural Networks with BP-SOM  </title>
+<title> THE PAPIA2 MACHINE: HARDWARE AND SOFTWARE ARCHITECTURE  </title>
+<title> Simulations with an Evolvable Fitness Formula  </title>
+<title> Foundations for the Learning Web  </title>
+<title> Structured Markov Chain Monte Carlo  </title>
+<title> Dynamic Management of Guaranteed Performance Multimedia Connections  </title>
+<title> Networks and the Best Approximation Property  </title>
+<title> Virtual Model Control of a Biped Walking Robot  </title>
+<title> Real-time Communication in Multi-hop Networks  </title>
+<title> SEQUOIA 2000 -- A REFLECTION ON THE FIRST THREE YEARS  </title>
+<title> The Chinook Hardware/Software Co-Synthesis System  </title>
+<title> Deterministic Parallel Fortran  </title>
+<title> Instance-Based Learning with Genetically Derived Attribute Weights  </title>
+<title> The weakest reasonable memory model  </title>
+<title> Incremental Cryptography and Application to Virus Protection  </title>
+<title> ON THE POWER OF TWO-POINTS BASED SAMPLING  </title>
+<title> On Yao's XOR-Lemma  </title>
+<title> Eventually-Serializable Data Services  </title>
+<title> Incoercible Multiparty Computation  </title>
+<title> Proactive RSA  </title>
+<title> Facial Expression Recognition using a Dynamic Model and Motion Energy  </title>
+<title> Toward a Visual Thesaurus  </title>
+<title> Building Query Optimizers with Combinators:  </title>
+<title> Finding pattern matchings for permutations  </title>
+<title> On Algorithms for Simplicial Depth  </title>
+<title> An Algorithm for Bayesian Belief Network Construction from Data  </title>
+<title> Planning information gathering under uncertainty  </title>
+<title> Feature selection for classification based on text hierarchy  </title>
+<title> Unification and Polymorphism in Region Inference  </title>
+<title> An Introduction to Software Architecture  </title>
+<title> Agile Application-Aware Adaptation for Mobility  </title>
+<title> Distributed Simulation of DEVS-Based Multiformalism Models  </title>
+<title> Tolerating Latency with Dagger  </title>
+<title> Projections: A Preliminary Performance Tool for Charm  </title>
+<title> Inference Networks for Document Retrieval  </title>
+<title> Resolving Ambiguity for Cross-language Retrieval  </title>
+<title> On computing global similarity in images  </title>
+<title> On the Analysis of Indexing Schemes  </title>
+<title> Markov Chain Algorithms for Planar Lattice Structures  </title>
+<title> A Multi-Agent Referral System for Matchmaking  </title>
+<title> Optimizing ML with Run-Time Code Generation  </title>
+<title> A Tutorial on Visual Servo Control  </title>
+<title> Implementing Parallel Shortest Paths Algorithms  </title>
+<title> 3D Morphing  </title>
+<title> Register Windows and User-Space Threads on the SPARC  </title>
+<title> Extensible Syntax with Lexical Scoping  </title>
+<title> Reducing Branch Costs via Branch Alignment  </title>
+<title> Empirical Study of a Dataflow Language on the CM-5  </title>
+<title> Automated Decomposition of Model-based Learning Problems  </title>
+<title> Nonlinear Poisson Solve for Boltzmann Electrons  </title>
+<title> Refraction and Reflection of Ion Acoustic Solitons by Space Charge Sheath  </title>
+<title> Update-in-place Analysis for Sets  </title>
+<title> System Administration: Monitoring, Diagnosing, and Repairing  </title>
+<title> A Visualization Model for Concurrent Systems  </title>
+<title> Billing Users and Pricing for TCP  </title>
+<title> Learning to Predict Rare Events in Event Sequences  </title>
+<title> DART/HYESS Users Guide  </title>
+<title> Switching through Singularities  </title>
+<title> Simulation as a Tool for Hybrid System Design  </title>
+<title> Construction of Fuzzy Linguistic Model  </title>
+<title> Hybrid Control in Air Traffic Management Systems  </title>
+<title> SmartATMS : A SIMULATOR FOR AIR TRAFFIC MANAGEMENT SYSTEMS  </title>
+<title> Depth Discontinuities by Pixel-to-Pixel Stereo  </title>
+<title> FROM KNOWLEDGE TO BELIEF  </title>
+<title> MineSet: An Integrated System for Data Mining  </title>
+<title> GEN++ | an analyzer generator for C++ programs  </title>
+<title> Wolfgang Keller  </title>
+<title> The Abstract Class Pattern  </title>
+<title> ABSTRACT CLASS Class Behavioral  </title>
+<title> Semantic Query Caching for Heterogeneous Databases  </title>
+<title> Revisiting the Paxos algorithm  </title>
+<title> Electronic Lottery Tickets as Micropayments  </title>
+<title> Compiler Technology for Portable Checkpoints  </title>
+<title> Regression shrinkage and selection via the lasso  </title>
+<title> Determining 3-D Hand Motion  </title>
+<title> Efficient Gate Delay Modeling for Large Interconnect Loads  </title>
+<title> Gate Load Delay Computation Using Analytical Models  </title>
+<title> Robust IP Watermarking Methodologies for Physical Design  </title>
+<title> Concurrency and Recovery in Generalized Search Trees  </title>
+<title> VIS : A System for Verification and Synthesis  </title>
+<title> An Assume-Guarantee Rule For Checking Simulation  </title>
+<title> Modeling TCP Throughput: A Simple Model and its Empirical Validation   </title>
+<title> Learning to Retrieve Information  </title>
+<title> Segregating Planners and Their Environments  </title>
+<title> Higher Bandwidth X  </title>
+<title> Compression Performance of the Xremote Protocol  </title>
+<title> Robust Meshes from Multiple Range Maps  </title>
+<title> Constraint Satisfaction Problem as a Causal Theory  </title>
+<title> Kin Recognition, Similarity, and Group Behavior  </title>
+<title> Structuring Graphical Paradigms in TkGofer  </title>
+<title> Disk Packings and Planar Separators  </title>
+<title> Building Interpreters by Composing Monads  </title>
+<title> RESTORATION OF LOSSY COMPRESSED NOISY IMAGES  </title>
+<title> Planning and Proof Planning  </title>
+<title> The Role of Learning in Autonomous Robots  </title>
+<title> Observations on Cognitive Judgments  </title>
+<title> Taxonomic Syntax for First Order Inference  </title>
+<title> Toward an Analysis of Forward Pruning  </title>
+<title> Cloud Classification Using Error-Correcting Output Codes  </title>
+<title> Practical Data Breakpoints: Design and Implementation  </title>
+<title> Multistrategy Learning of Adaptive Reactive Controllers  </title>
+<title> Refining Interactions in a Distributed System  </title>
+<title> Clustering Methods for Collaborative Filtering  </title>
+<title> Integrality and Separability of Input Devices  </title>
+<title> Type classes in Haskell  </title>
+<title> Measuring the Difficulty of Specific Learning Problems  </title>
+<title> A Symbiosis of Animation and Music  </title>
+<title> Virtual Radios  </title>
+<title> Myrinet - A Gigabit-per-Second Local-Area Network  </title>
+<title> Virtual Memory Architecture in SunOS  </title>
+<title> RUNTIME SUPPORT FOR PORTABLE DISTRIBUTED DATA STRUCTURES </title>
+<title> Narrowing Interval Bounds  </title>
+<title> Query Execution Techniques for Caching Expensive Methods  </title>
+<title> Using Skeletons for Nonholonomic Path Planning among Obstacles  </title>
+<title> Dynamic Procedure Placement Through Cache Windowing  </title>
+<title> Belief Revision: A Critique  </title>
+<title> First-Order Conditional Logic Revisited  </title>
+<title> A Fast Algorithm for Incremental Distance Calculation  </title>
+<title> Eraser: A Dynamic Data Race Detector for Multi-Threaded Programs  </title>
+<title> High-Performance Sorting on Networks of Workstations  </title>
+<title> An FFT algorithm on Vector Intelligent RAM  </title>
+<title> "Go With the Winners" Algorithms  </title>
+<title> Stochastic Interaction and Linear Logic  </title>
+<title> Form(ers) Over Function(s): The KOLA Reference Manual  </title>
+<title> OBJECT-ORIENTED QUERIES: EQUIVALENCE AND OPTIMIZATION  </title>
+<title> Decomposition Techniques for Planning in Stochastic Domains  </title>
+<title> Hierarchical Solution of Markov Decision Processes using Macro-actions  </title>
+<title> Transfer Equations in Global Illumination  </title>
+<title> Generating CAD-models of teeth  </title>
+<title> Sensing Polygon Poses by Inscription  </title>
+<title> Bias-Driven Revision of Logical Domain Theories  </title>
+<title> Experience with Rover Navigation for Lunar-Like Terrains  </title>
+<title> The Candide System for Machine Translation  </title>
+<title> Efficient Resource Management  </title>
+<title> for Linear Logic Proof Search  </title>
+<title> A Simplified Account of Polymorphic References  </title>
+<title> Fast Probabilistic Modeling for Combinatorial Optimization  </title>
+<title> New Approximation Techniques for Some Ordering Problems  </title>
+<title> Fast Soft Shadows  </title>
+<title> Moving target classification and tracking from real-time video  </title>
+<title> Exploiting Weak Connectivity for Mobile File Access  </title>
+<title> TIGHT ANALYSES OF TWO LOCAL LOAD BALANCING ALGORITHMS  </title>
+<title> Agile Application-Aware Adaptation for Mobility  </title>
+<title> Operant Conditioning in Skinnerbots  </title>
+<title> Improving Text Classification by Shrinkage in a Hierarchy of Classes  </title>
+<title> Abstract Time Warping of Compound Events and Signals  </title>
+<title> Remote Access to Interactive Media  </title>
+<title> Using Neural Networks for Data Mining  </title>
+<title> A Prototype Reading Coach that Listens  </title>
+<title> NIFDY: A Low Overhead, High Throughput Network Interface  </title>
+<title> Implementing Bit-addressing with Specialization  </title>
+<title> Exploiting Global Input/Output Access Pattern Classification  </title>
+<title> INVERSION IN TIME  </title>
+<title> SUPRENUM: Perspectives and Performance  </title>
+<title> The Sybil Database Integration and Evolution Environment: An Overview  </title>
+<title> Cellular Encoding Applied to Neurocontrol  </title>
+<title> Efficient Indexing for Object Recognition Using Large Networks  </title>
+<title> Measured Performance of a Wireless LAN  </title>
+<title> Internet Telephony: A (Partial) Research Agenda  </title>
+<title> Mining Audit Data to Build Intrusion Detection Models  </title>
+<title> Learning Distributions from Random Walks  </title>
+<title> Compiling for distributed memory architectures  </title>
+<title> Comparing Mostly-Copying and Mark-Sweep Conservative Collection  </title>
+<title> On-Line Search in a Simple Polygon  </title>
+<title> Visibility-Based Planning of Sensor Control Strategies  </title>
+<title> Experimental Study of Minimum Cut Algorithms  </title>
+<title> Performing Out-of-Core FFTs on Parallel Disk Systems  </title>
+<title> Agent Tcl: Alpha Release 1.1  </title>
+<title> Some applications of generalized FFTs  </title>
+<title> Lexicographic Bit Allocation for MPEG Video  </title>
+<title> Representing Moving Images with Layers  </title>
+<title> An Extensible End-to-End Protocol and Framework  </title>
+<title> A Protocol for Efficient Transfer of Data over Fiber/Cable Systems  </title>
+<title> PARALLEL AND DISTRIBUTED SIMULATION  </title>
+<title> Storage Systems for Movies-on-Demand Video Servers  </title>
+<title> Reverse Engineering with a CASE Tool  </title>
+<title> Discovery of frequent episodes in event sequences  </title>
+<title> Finding Interesting Rules from Large Sets of Discovered Association Rules  </title>
+<title> A structured document database system  </title>
+<title> Lempel-Ziv Index for q-Grams  </title>
+<title> Unifying Two-View and Three-View Geometry  </title>
+<title> Using Queue Time Predictions for Processor Allocation  </title>
+<title> Compiler Construction Using Scheme  </title>
+<title> Using Goals and Experience to Guide Abduction  </title>
+<title> 3-D Stereo Using Photometric Ratios  </title>
+<title> Learning Symbolic Rules Using Artificial Neural Networks  </title>
+<title> Model-guided Segmentation of Corpus Callosum in MR Images  </title>
+<title> Statistical Characteristics and Multiplexing of MPEG Streams  </title>
+<title> Aditi-Prolog language manual +L </title>
+<title> Termination Analysis for Mercury  </title>
+<title> Mixed Semidefinite-Quadratic-Linear Programs  </title>
+<title> The Development of the C Language  </title>
+<title> Hierarchical Explanation-Based Reinforcement Learning  </title>
+<title> DISTRIBUTED CONTROL IN OPTICAL WDM NETWORKS  </title>
+<title> Contingency Selection in Plan Generation  </title>
+<title> Irregular Applications under Software Shared Memory  </title>
+<title> Navigation in Three Dimensional Spaces  </title>
+<title> On the Collapse of the q-Gram Filtration  </title>
+<title> Efficient Disk Allocation for Fast Similarity Searching  </title>
+<title> On the Accuracy of Anderson's Fast N-body Algorithm  </title>
+<title> The Efficient Simulation of Parallel Computer Systems  </title>
+<title> Theoretical Foundations of Association Rules  </title>
+<title> Predicting Sequences of User Actions  </title>
+<title> Towards a Cost-Effective Parallel Data Mining Approach  </title>
+<title> Imposing The Law of Demeter and Its Variations  </title>
+<title> Learning Novel Domains Through Curiosity and Conjecture  </title>
+<title> Distributed parallel shooting for BVODEs  </title>
+<title> Practical PAC Learning  </title>
+<title> Learning Useful Horn Approximations  </title>
+<title> Powers of Trees  </title>
+<title> Coding Segments Inside and Outside the Chromosome  </title>
+<title> Learning to Select Useful Landmarks  </title>
+<title> The Test Matrix Toolbox for Matlab (Version 3.0)  </title>
+<title> Run-time Compilation for Parallel Sparse Matrix Computations  </title>
+<title> A New Framework for Image Invariants using Basis Expansion   </title>
+<title> A SUIF Java Compiler  </title>
+<title> A Concurrency Mechanism For Sequential Eiffel  </title>
+<title> Scintilla: Cluster Computing with SCI  </title>
+<title> The Institution of order-sorted equational logic  </title>
+<title> How to Sign Given Any Trapdoor Permutation  </title>
+<title> The Relative Complexity of NP Search Problems  </title>
+<title> Learning to Schedule Straight-Line Code  </title>
+<title> Intra-Option Learning about Temporally Abstract Actions  </title>
+<title> Dynamic Abstraction Planning  </title>
+<title> Quantum Computing | A treatise  </title>
+<title> Within the Letter of the Law: open-textured planning  </title>
+<title> Constraint-Based Animations  </title>
+<title> Optimizing Multi-Join Queries in Parallel Relational Databases  </title>
+<title> Universal Constructions for Large Objects  </title>
+<title> View-Dependent Simplification Of Arbitrary Polygonal Environments  </title>
+<title> Modeling and Parameter Estimation of the Human Index Finger  </title>
+<title> A Dossier Driven Persistent Objects Facility  </title>
+<title> Optimal Wire-Sizing Formula Under the Elmore Delay Model  </title>
+<title> Model Decomposition and Simulation  </title>
+<title> Frangipani: A Scalable Distributed File System  </title>
+<title> The Cost of Recovery in Message Logging Protocols  </title>
+<title> Design Goals for ACL2  </title>
+<title> Broadcasting on Meshes with Worm-Hole Routing  </title>
+<title> Anatomy of a Parallel Out-of-Core Dense Linear Solver  </title>
+<title> An Ordering on Subgoals for Planning  </title>
+<title> The New Jersey Machine-Code Toolkit  </title>
+<title> Non-Tree Routing  </title>
+<title> Scheduling and Page Migration for Multiprocessor Compute Servers  </title>
+<title> Semantic Query Optimization in Datalog Programs  </title>
+<title> Effective Cache Prefetching on Bus-Based Multiprocessors  </title>
+<title> Software Deviation Analysis: A "Safeware" Technique  </title>
+<title> Partition Based Spatial-Merge Join  </title>
+<title> Demand Interprocedural Dataflow Analysis  </title>
+<title> Maximal-Munch Tokenization in Linear Time  </title>
+<title> Cost-Aware WWW Proxy Caching Algorithms  </title>
+<title> High Performance Computing Division  </title>
+<title> Kerberos: An Authentication Service for Open Network Systems  </title>
+<title> Approximate Analysis of Parallel Processor Allocation Policies  </title>
+<title> High-Order Accurate Schemes for Incompressible Viscous Flow  </title>
+<title> PRECONDITIONING FOR REGULAR ELLIPTIC SYSTEMS  </title>
+<title> Moufang Quasigroups  </title>
+<title> Fast and Accurate Flow-Insensitive Points-To Analysis  </title>
+<title> Towards Effective and Efficient Free Space Management  </title>
+<title> Asking Questions to Minimize Errors  </title>
+<title> Optimal Solution of Off-line and On-line Generalized Caching  </title>
+<title> Dynamic Fault Diagnosis  </title>
+<title> Facilitating Worst-Case Execution Times Analysis for Optimized Code  </title>
+<title> Microkernel Operating System Architecture and Mach  </title>
+<title> Verifying a Self-Stabilizing Mutual Exclusion Algorithm  </title>
+<title> Handling Infeasible Specifications of Cryptographic Protocols  </title>
+<title> Integrating Security in a Group Oriented Distributed System  </title>
+<title> Abstract Datatypes in PVS  </title>
+<title> Toward a MAC policy framework  </title>
+<title> Enriching the Expressive Power of Security Labels  </title>
+<title> Optimal Routing Control: Game Theoretic Approach  </title>
+<title> Reactive Modules  </title>
+<title> What's Decidable about Hybrid Automata?  </title>
+<title> An Analysis of Geographical Push-Caching +L </title>
+<title> Modeling the Communication Performance of the IBM SP2  </title>
+<title> Efficient Formulation for Optimal Modulo Schedulers  </title>
+<title> A Scalable Key Distribution Hierarchy  </title>
+<title> A Novel Framework for Decentralized Supervisory Control with Communication  </title>
+<title> Internet Routing Instability  </title>
+<title> Modelling rational inquiry in non-ideal agents  </title>
+<title> STATISTICAL LANGUAGE MODELING FOR SPEECH DISFLUENCIES  </title>
+<title> Video Server on an ATM Connected Cluster of Workstations  </title>
+<title> Write Optimized Object-Oriented Database Systems  </title>
+<title> Signal and Image Processing in Java  </title>
+<title> A Rule-Based CQL for 2-Dimensional Tables  </title>
+<title> A Stochastic Case Frame Approach for Natural Language Understanding  </title>
+<title> Understanding Neural Networks via Rule Extraction  </title>
+<title> Efficient Rule Induction from Noise Data  </title>
+<title> Integrating Pedagogical Agents into Virtual Environments  </title>
+<title> Generating Word Lattices from Abstract Meaning Representation  </title>
+<title> A Multicast Congestion Control Mechanism Using Representatives  </title>
+<title> Information Gathering Plans With Sensing Actions  </title>
+<title> Rule Induction for Semantic Query Optimization  </title>
+<title> Learning Finite Automata Using Local Distinguishing Experiments +L </title>
+<title> Learning to Predict User Operations for Adaptive Scheduling  </title>
+<title> Reactive and Automatic Behavior in Plan Execution  </title>
+<title> Where Do SE-trees Perform? (Part I)  </title>
+<title> Using Introspective Reasoning to Refine Indexing  </title>
+<title> ACCESSIBILITY UNDER SAMPLING  </title>
+<title> NEURAL NETWORKS FOR CONTROL  </title>
+<title> ON COMPUTABLE BELIEFS OF RATIONAL MACHINES  </title>
+<title> Optimization of Hologram Computation for Real-Time Display  </title>
+<title> DESIGNING AN ECOLOGY OF DISTRIBUTED AGENTS  </title>
+<title> Rule Revision with Recurrent Neural Networks  </title>
+<title> Inquirus, the NECI meta search engine  </title>
+<title> Update rules for parameter estimation in Bayesian networks  </title>
+<title> Unification and Polymorphism in Region Inference  </title>
+<title> A Linear Spine Calculus  </title>
+<title> Tactile Gestures for Human/Robot Interaction  </title>
+<title> Fundamentals of Texture Mapping and Image Warping  </title>
+<title> Using a DEM to Determine Geospatial Object Trajectories  </title>
+<title> Optimizing ML with Run-Time Code Generation  </title>
+<title> Protective Interface Specifications  </title>
+<title> Geometric Sensing of Known Planar Shapes  </title>
+<title> Exploiting Redundancy to Reduce Impact Force  </title>
+<title> Remote Access to Interactive Media  </title>
+<title> Improving Programming-by-Demonstration With Better Semantic Expression  </title>
+<title> Learning Maps for Indoor Mobile Robot Navigation  </title>
+<title> WWW Electronic Commerce and Java Trojan Horses  </title>
+<title> Backfitting in Smoothing Spline ANOVA  </title>
+<title> Uncovering Hidden Structure in Bond Futures Trading  </title>
+<title> Problem Solving for Redesign  </title>
+<title> The OPENET Architecture  </title>
+<title> Mobile Robot Localization using Landmarks  </title>
+<title> Information-Conserving Object Recognition  </title>
+<title> Parallel Algorithms  </title>
+<title> Progress for Local Variables in UNITY  </title>
+<title> Adaptive Information Filtering using Evolutionary Computation  </title>
+<title> SuperWeb: Towards a Global Web-Based Parallel Computing Infrastructure  </title>

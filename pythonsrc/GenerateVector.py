@@ -30,23 +30,40 @@ def __removeTag(line):
 	return str
 
 CACHE_VECTOR={}
+CACHE_VECTOR_PATH=r'C:\Users\rainto96\workspace\HeaderXtractor\CACHE_VECTOR'
+def __clearCache():
+	if os.path.exists(CACHE_VECTOR_PATH):
+		os.remove(CACHE_VECTOR_PATH)
+def __handleTaggedLine(s,pos_neg,filename):
+	line_count=0
+	for oneline in s:
+		if line_count%10 == 0:
+			print filename+':'+str(line_count)+' row'
+		line_count+=1
+		print line_count
+		list = oneline.split('::line_number::')
+		line = list[0].strip()
+		linePos = list[1].strip()
+		
+		vector = {}
+		vector['classfication_tag'] = pos_neg
+		vector['linePos'] = linePos
+		#vector['origin_data'] = '"'+line.strip().replace('"','')+'"'
+		line = line.strip()
+		line = __removeTag(line)
+		line = line.strip()
+		line = line.replace(',',' ')
+		list = line.split()
+		for word in list:
+			WordSpecific.updateWordSpecificVector(word,vector)
+		LineSpecific.updateLineSpecificVector(line,vector)
+		CACHE_VECTOR[filename].append(vector)
 def __getPositive(classification):
 	if not CACHE_VECTOR.has_key(classification):
 		CACHE_VECTOR[classification]=[]
 		print 'Geting File:%s Vector ...'%classification
 		s=open(addrpre+classification).readlines()
-		for line in s:
-			vector = {}
-			vector['classfication_tag'] = 'true'
-			#vector['origin_data'] = '"'+line.strip().replace('"','')+'"'
-			line = line.strip()
-			line = __removeTag(line)
-			line = line.strip()
-			line = line.replace(',',' ')
-			for word in line.split(' '):
-				WordSpecific.updateWordSpecificVector(word,vector)
-			LineSpecific.updateLineSpecificVector(line,vector)
-			CACHE_VECTOR[classification].append(vector)
+		__handleTaggedLine(s,'true',classification)
 	for vector in CACHE_VECTOR[classification]:
 		vector['classfication_tag'] = 'true'
 		__printVector(vector)
@@ -59,18 +76,7 @@ def __getNegative(classification):
 			CACHE_VECTOR[file]=[]
 			print 'Geting File:%s Vector ...'%file
 			s=open(addrpre+file).readlines()
-			for line in s:
-				vector = {}
-				vector['classfication_tag'] = 'false'
-				#vector['origin_data'] = '"'+line.strip().replace('"','')+'"'
-				line = line.strip()
-				line = __removeTag(line)
-				line = line.strip()
-				line = line.replace(',',' ')
-				for word in line.split(' '):
-					WordSpecific.updateWordSpecificVector(word,vector)
-				LineSpecific.updateLineSpecificVector(line,vector)
-				CACHE_VECTOR[file].append(vector)
+			__handleTaggedLine(s,'false',file)
 		for vector in CACHE_VECTOR[file]:
 			vector['classfication_tag'] = 'false'
 			__printVector(vector)
@@ -88,9 +94,9 @@ def generateVectorFor(classification):
 	fout=open('C:/Users/rainto96/workspace/HeaderXtractor/vector.csv','w+')
 	
 	
-	if os.path.exists(r'C:\Users\rainto96\workspace\HeaderXtractor\CACHE_VECTOR'):
+	if os.path.exists(CACHE_VECTOR_PATH):
 		print 'Load CACHE_VECTOR from disk ...'
-		CACHE_VECTOR=pickle.load(open(r'C:\Users\rainto96\workspace\HeaderXtractor\CACHE_VECTOR'))
+		CACHE_VECTOR=pickle.load(open(CACHE_VECTOR_PATH))
 	print 'Generating Vectoring ...'
 	__getPositive(classification)
 	__getNegative(classification)
@@ -101,11 +107,12 @@ def generateVectorFor(classification):
 	os.system(r'java -classpath "C:/Program Files (x86)/Weka-3-6/weka.jar" weka.core.converters.CSVLoader C:/Users/rainto96/workspace/HeaderXtractor/vector.csv > C:/Users/rainto96/workspace/HeaderXtractor/vector.arff')
 	print 'arff向量转化完毕'
 	print 'Write CACHE_VECTOR to disk ...'
-	pickle.dump(CACHE_VECTOR,open(r'C:\Users\rainto96\workspace\HeaderXtractor\CACHE_VECTOR','w'),0)
+	pickle.dump(CACHE_VECTOR,open(CACHE_VECTOR_PATH,'w'),0)
 
 	
 if __name__ == '__main__':
-	generateVectorFor('title.txt')
+	#__clearCache()
+	generateVectorFor('abstract.txt')
 	'''
 	测试
 	'''

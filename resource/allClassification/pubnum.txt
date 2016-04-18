@@ -1,141 +1,155 @@
-<pubnum> GIT-CC-92/28  </pubnum>
-<pubnum> GIT-CC-92/60  </pubnum>
-<pubnum> OSU-CISRC-3/93-TR11  </pubnum>
-<pubnum> Technical Report AI91-165  </pubnum>
-<pubnum> Technical Report 94-09-04  </pubnum>
-<pubnum> ERB-1051  </pubnum>
-<pubnum> Technical Report 94.16  </pubnum>
-<pubnum> Technical Report CSD-TR-97-026  </pubnum>
-<pubnum> CSRP 220, </pubnum>
-<pubnum> TR-80815 </pubnum>
-<pubnum> DIMACS Technical Report 96-47  </pubnum>
-<pubnum> DIMACS Technical Report 97-15  </pubnum>
-<pubnum> DIMACS Technical Report 98-34  </pubnum>
-<pubnum> Technical Report 28 </pubnum>
-<pubnum> CIM-93-8 </pubnum>
-<pubnum> TR94-017  </pubnum>
-<pubnum> Technical Report: CSRP-96-19  </pubnum>
-<pubnum> Technical Report: CSRP-97-29, </pubnum>
-<pubnum> Technical Report: CSRP-98-4  </pubnum>
-<pubnum> Technical Report CSRP-98-13  </pubnum>
-<pubnum> Technical Report No. CUCS-030-95  </pubnum>
-<pubnum> Technical Report CUCS-016-94  </pubnum>
-<pubnum> CUCS-025-94  </pubnum>
-<pubnum> Dartmouth Technical Report: PCS-TR95-258  </pubnum>
-<pubnum> Technical Report CSI-R9413, </pubnum>
-<pubnum> Technical Report CSI-R9410, </pubnum>
-<pubnum> Technical Report UMCS-94-11-1  </pubnum>
-<pubnum> TRAINS Technical Note 93-1  </pubnum>
-<pubnum> Technical Report CRG-TR-94-1  </pubnum>
-<pubnum> Computer Science Technical Report 94-03  </pubnum>
-<pubnum> COINS Technical Report 91-34  </pubnum>
-<pubnum> TR-1923 </pubnum>
-<pubnum> CS-TR-3299  </pubnum>
-<pubnum> TR-95-93 </pubnum>
-<pubnum> TR-3535 </pubnum>
-<pubnum> CS-TR-3692 </pubnum>
-<pubnum> UUCS-94-003  </pubnum>
-<pubnum> Technical Report 90 </pubnum>
-<pubnum> @reportnumbox(Technical Report #57 </pubnum>
-<pubnum> Technical Report AI96-250  </pubnum>
-<pubnum> Technical Report 93-02-03  </pubnum>
-<pubnum> Technical Report 93-06-04  </pubnum>
-<pubnum> Technical Report 94-03-04  </pubnum>
-<pubnum> Technical Report UW-CSE-96-01-06  </pubnum>
-<pubnum> Technical Report UW-CSE-97-02-02  </pubnum>
-<pubnum> Technical Report UW-CSE-98-06-04  </pubnum>
-<pubnum> Technical Report #1035  </pubnum>
-<pubnum> Mathematical Programming Technical Report 95-06  </pubnum>
-<pubnum> WPI-CS-TR-95-01  </pubnum>
-<pubnum> CS-TR-95-03  </pubnum>
-<pubnum> University of Michigan Technical Report 1995.  </pubnum>
-<pubnum> TR-91-061  </pubnum>
-<pubnum> TR-92-048  </pubnum>
-<pubnum> TR-92-071  </pubnum>
-<pubnum> TR-93-040 </pubnum>
-<pubnum> TR-95-019  </pubnum>
-<pubnum> TR-TR-95-031  </pubnum>
-<pubnum> TR-95-033  </pubnum>
-<pubnum> TR-95-054  </pubnum>
-<pubnum> TR-96-006  </pubnum>
-<pubnum> TR-96-017  </pubnum>
-<pubnum> TR-96-018  </pubnum>
-<pubnum> TR-96-041  </pubnum>
-<pubnum> TR-97-007  </pubnum>
-<pubnum> ISI/RR-93-387  </pubnum>
-<pubnum> TECHNICAL REPORT NO. 910  </pubnum>
-<pubnum> Technical Report 98-19  </pubnum>
-<pubnum> A.I. Memo No. 1565 </pubnum>
-<pubnum> C.B.C.L. Memo No. 132  </pubnum>
-<pubnum> A.I. Memo No. 1164 </pubnum>
-<pubnum> C.B.I.P. Paper No. 45  </pubnum>
-<pubnum> Technical Report no. 3/92  </pubnum>
-<pubnum> CRPC TR93342-S  </pubnum>
-<pubnum>  M.I.T Media Laboratory Perceptual Computing Section   Technical Report No. 307   </pubnum>
-<pubnum> M.I.T Media Laboratory Perceptual Computing Section Technical Report No. 358  </pubnum>
-<pubnum> CMPSCI Technical Report 97-32  </pubnum>
-<pubnum> CMU-CS-94-166  </pubnum>
-<pubnum> CMU-CS-97-159  </pubnum>
-<pubnum> Technical Report CS91-13  </pubnum>
-<pubnum> Technical Report CS-95-01  </pubnum>
-<pubnum> DIMACS Technical Report 93-8  </pubnum>
-<pubnum> wucs-97-15  </pubnum>
-<pubnum> Technical Report #91-08-01  </pubnum>
-<pubnum> 104  </pubnum>
-<pubnum> IAM 92-013  </pubnum>
-<pubnum> IAM-93-014  </pubnum>
-<pubnum> IAM-94-005  </pubnum>
-<pubnum> Memorandum No. UCB/ERL M97/8  </pubnum>
-<pubnum> Memorandum No. UCB/ERL M97/57  </pubnum>
-<pubnum> M.I.T Media Laboratory Perceptual Computing Section Technical Report No. 368  </pubnum>
-<pubnum> A.I. Memo No. 1591 </pubnum>
-<pubnum> Technical Report GIT-CC-97-05  </pubnum>
-<pubnum> Report No. UCB/CSD-96-909  </pubnum>
-<pubnum> SMLI TR-94-28 </pubnum>
-<pubnum> CS 270 Project Report, </pubnum>
-<pubnum> Technical Report UCB//CSD-96-893  </pubnum>
-<pubnum> CS 252/265 </pubnum>
-<pubnum> CS252: Advanced Computer Architecture  </pubnum>
-<pubnum> BU-CS-93-015  </pubnum>
-<pubnum> CMU-CS-93-169  </pubnum>
-<pubnum> CMU-CS-95-114  </pubnum>
-<pubnum> CMU-CS-94-141  </pubnum>
-<pubnum> CMU-CS-95-209  </pubnum>
-<pubnum> Technical Report No. CSL-TR-95-673  </pubnum>
-<pubnum> Rice COMP TR90-125  </pubnum>
-<pubnum> ISP Technical Report 94-2  </pubnum>
-<pubnum> CMU-CS-97-104  </pubnum>
-<pubnum> CUCS-026-94  </pubnum>
-<pubnum> M.I.T Media Laboratory Perceptual Computing Section Technical Report No. 279 </pubnum>
-<pubnum> TR 92-13  </pubnum>
-<pubnum> TR93-27  </pubnum>
-<pubnum> Technical Report #359  </pubnum>
-<pubnum> Preprint No. IULG-93-23  </pubnum>
-<pubnum> Technical Report 95/34  </pubnum>
-<pubnum> Technical Report 96/40  </pubnum>
-<pubnum> Technical Report TR-514-96.  </pubnum>
-<pubnum> DIMACS Technical Report 98-10  </pubnum>
-<pubnum> CS-590Z  </pubnum>
-<pubnum> CSD-TR 97-038  </pubnum>
-<pubnum> Technical Report CSD-TR-94-030  </pubnum>
-<pubnum> Numerical Analysis Report No. 276  </pubnum>
-<pubnum> TRCS 97-02  </pubnum>
-<pubnum> Technical Report TRCS98-18  </pubnum>
-<pubnum> TR - UCSD - CS96-484  </pubnum>
-<pubnum> Technical Report: 96-036  </pubnum>
-<pubnum> CS/TR-92-80  </pubnum>
-<pubnum> CSC-92-01  </pubnum>
-<pubnum> Technical Report 101 </pubnum>
-<pubnum> Technical Report UW-CSE-95-10-01  </pubnum>
-<pubnum> UW Technical Report #1126  </pubnum>
-<pubnum> WUCS-93-23  </pubnum>
-<pubnum> WUCS-94-01  </pubnum>
-<pubnum> CMPSCI Technical Report 95-72  </pubnum>
-<pubnum> YALEU/DCS/TR-1056  </pubnum>
-<pubnum> Technical report UCLA-CSD-950033  </pubnum>
-<pubnum> TR-94-027  </pubnum>
-<pubnum> TR 94-1447  </pubnum>
-<pubnum> CMU-CS-97-125  </pubnum>
-<pubnum> CMU-CS-95-205  </pubnum>
-<pubnum> Working Paper IS-98-01 (Information Systems)  </pubnum>
-<pubnum> SMLI TR-95-37 </pubnum>
+<pubnum> GIT-CC-92/28  </pubnum>::line_number::2
+<pubnum> GIT-CC-92/60  </pubnum>::line_number::0
+<pubnum> OSU-CISRC-3/93-TR11  </pubnum>::line_number::2
+<pubnum> Technical Report AI91-165  </pubnum>::line_number::2
+<pubnum> Technical Report 94-09-04  </pubnum>::line_number::4
+<pubnum> ERB-1051  </pubnum>::line_number::4
+<pubnum> Technical Report 94.16  </pubnum>::line_number::3
+<pubnum> Technical Report CSD-TR-97-026  </pubnum>::line_number::6
+<pubnum> CSRP 220, </pubnum>::line_number::2
+<pubnum> Cognitive Science Research Paper Serial No. CSRP 220  </pubnum>::line_number::4
+<pubnum> TR-80815 </pubnum>::line_number::3
+<pubnum> DIMACS Technical Report 96-47  </pubnum>::line_number::0
+<pubnum> DIMACS Technical Report 97-15  </pubnum>::line_number::0
+<pubnum> DIMACS Technical Report 98-34  </pubnum>::line_number::0
+<pubnum> Technical Report 28 </pubnum>::line_number::2
+<pubnum> GIT-CC-95/15 </pubnum>::line_number::2
+<pubnum> CIM-93-8 </pubnum>::line_number::2
+<pubnum> TR94-017  </pubnum>::line_number::5
+<pubnum> Technical Report: CSRP-96-19  </pubnum>::line_number::4
+<pubnum> Technical Report: CSRP-97-29, </pubnum>::line_number::8
+<pubnum> Technical Report: CSRP-98-4  </pubnum>::line_number::7
+<pubnum> Technical Report CSRP-98-13  </pubnum>::line_number::0
+<pubnum> Technical Report No. CUCS-030-95  </pubnum>::line_number::5
+<pubnum> Technical Report CUCS-016-94  </pubnum>::line_number::1
+<pubnum> CUCS-025-94  </pubnum>::line_number::4
+<pubnum> Dartmouth Technical Report: PCS-TR95-258  </pubnum>::line_number::5
+<pubnum> Technical Report CSI-R9413, </pubnum>::line_number::5
+<pubnum> Technical Report CSI-R9410, </pubnum>::line_number::8
+<pubnum> Technical Report UMCS-94-11-1  </pubnum>::line_number::2
+<pubnum> TRAINS Technical Note 93-1  </pubnum>::line_number::4
+<pubnum> Technical Report CRG-TR-94-1  </pubnum>::line_number::2
+<pubnum> Computer Science Technical Report 94-03  </pubnum>::line_number::2
+<pubnum> COINS Technical Report 91-34  </pubnum>::line_number::2
+<pubnum> TR-1923 </pubnum>::line_number::0
+<pubnum> CS-TR-3299  </pubnum>::line_number::4
+<pubnum> Technical Report UMIACS-TR-95-1 and CS-TR-3396  </pubnum>::line_number::10
+<pubnum> TR-95-93 </pubnum>::line_number::1
+<pubnum> TR-3535 </pubnum>::line_number::3
+<pubnum> CS-TR-3692 </pubnum>::line_number::0
+<pubnum> UUCS-94-003  </pubnum>::line_number::2
+<pubnum> Technical Report 90 </pubnum>::line_number::2
+<pubnum> @reportnumbox(Technical Report #57 </pubnum>::line_number::2
+<pubnum> Technical Report AI96-250  </pubnum>::line_number::5
+<pubnum> Technical Report 93-02-03  </pubnum>::line_number::4
+<pubnum> Technical Report 93-06-04  </pubnum>::line_number::4
+<pubnum> Technical Report 94-03-04  </pubnum>::line_number::4
+<pubnum> Technical Report UW-CSE-96-01-06  </pubnum>::line_number::4
+<pubnum> Technical Report UW-CSE-97-02-02  </pubnum>::line_number::2
+<pubnum> Technical Report UW-CSE-98-06-04  </pubnum>::line_number::2
+<pubnum> Technical Report #1035  </pubnum>::line_number::4
+<pubnum> Mathematical Programming Technical Report 95-06  </pubnum>::line_number::2
+<pubnum> WPI-CS-TR-95-01  </pubnum>::line_number::4
+<pubnum> CS-TR-95-03  </pubnum>::line_number::1
+<pubnum> University of Michigan Technical Report 1995.  </pubnum>::line_number::1
+<pubnum> TR-91-061  </pubnum>::line_number::2
+<pubnum> TR-92-048  </pubnum>::line_number::2
+<pubnum> TR-92-071  </pubnum>::line_number::2
+<pubnum> TR-93-040 </pubnum>::line_number::12
+<pubnum> TR-95-019  </pubnum>::line_number::2
+<pubnum> TR-TR-95-031  </pubnum>::line_number::2
+<pubnum> TR-95-033  </pubnum>::line_number::3
+<pubnum> TR-95-054  </pubnum>::line_number::5
+<pubnum> TR-96-006  </pubnum>::line_number::7
+<pubnum> TR-96-017  </pubnum>::line_number::5
+<pubnum> TR-96-018  </pubnum>::line_number::6
+<pubnum> TR-96-041  </pubnum>::line_number::3
+<pubnum> TR-97-007  </pubnum>::line_number::2
+<pubnum> ISI Research Report ISI/RR-93-387  </pubnum>::line_number::1
+<pubnum> ISI/RR-93-387  </pubnum>::line_number::5
+<pubnum> Technical Report MSR-TR-96-06  </pubnum>::line_number::4
+<pubnum> Technical Report MSR-TR-95-20  </pubnum>::line_number::4
+<pubnum> TECHNICAL REPORT NO. 910  </pubnum>::line_number::2
+<pubnum> Technical Report 98-19  </pubnum>::line_number::5
+<pubnum> A.I. Memo No. 1565 </pubnum>::line_number::1
+<pubnum> C.B.C.L. Memo No. 132  </pubnum>::line_number::3
+<pubnum> A.I. Memo No. 1164 </pubnum>::line_number::1
+<pubnum> C.B.I.P. Paper No. 45  </pubnum>::line_number::3
+<pubnum> Technical Report no. 3/92  </pubnum>::line_number::1
+<pubnum> CRPC TR93342-S  </pubnum>::line_number::2
+<pubnum>  M.I.T Media Laboratory Perceptual Computing Section   Technical Report No. 307   </pubnum>::line_number::0
+<pubnum> M.I.T Media Laboratory Perceptual Computing Section Technical Report No. 358  </pubnum>::line_number::0
+<pubnum> CMPSCI Technical Report 97-32  </pubnum>::line_number::3
+<pubnum> CMU-CS-94-166  </pubnum>::line_number::3
+<pubnum> CMU-CS-97-159  </pubnum>::line_number::3
+<pubnum> Technical Report CS91-13  </pubnum>::line_number::4
+<pubnum> Technical Report CS-95-01  </pubnum>::line_number::1
+<pubnum> DIMACS Technical Report 93-8  </pubnum>::line_number::0
+<pubnum> wucs-97-15  </pubnum>::line_number::2
+<pubnum> Technical Report #91-08-01  </pubnum>::line_number::2
+<pubnum> 104  </pubnum>::line_number::0
+<pubnum> SRC Research Report 121  </pubnum>::line_number::1
+<pubnum> IAM 92-013  </pubnum>::line_number::5
+<pubnum> IAM-93-014  </pubnum>::line_number::2
+<pubnum> IAM-94-005  </pubnum>::line_number::2
+<pubnum> ICOPS 97 ICOPS 97  </pubnum>::line_number::0
+<pubnum> Memorandum No. UCB/ERL M97/8  </pubnum>::line_number::2
+<pubnum> Memorandum No. UCB/ERL M97/57  </pubnum>::line_number::5
+<pubnum> M.I.T Media Laboratory Perceptual Computing Section Technical Report No. 368  </pubnum>::line_number::0
+<pubnum> A.I. Memo No. 1591 </pubnum>::line_number::1
+<pubnum> Technical Report GIT-CC-97-05  </pubnum>::line_number::6
+<pubnum> Report No. UCB/CSD-96-909  </pubnum>::line_number::2
+<pubnum> SMLI TR-94-28 </pubnum>::line_number::2
+<pubnum> Technical Report MSU-CPS-94-35  </pubnum>::line_number::2
+<pubnum> CS 270 Project Report, </pubnum>::line_number::1
+<pubnum> Technical Report UCB//CSD-96-893  </pubnum>::line_number::1
+<pubnum> CS 252/265 </pubnum>::line_number::2
+<pubnum> CS252: Advanced Computer Architecture  </pubnum>::line_number::2
+<pubnum> BU-CS-93-015  </pubnum>::line_number::5
+<pubnum> CMU-CS-93-169  </pubnum>::line_number::3
+<pubnum> CMU-CS-95-114  </pubnum>::line_number::3
+<pubnum> CMU-CS-94-141  </pubnum>::line_number::3
+<pubnum> CMU-CS-95-209  </pubnum>::line_number::3
+<pubnum> Technical Report No. CSL-TR-95-673  </pubnum>::line_number::2
+<pubnum> Rice COMP TR90-125  </pubnum>::line_number::2
+<pubnum> ISP Technical Report 94-2  </pubnum>::line_number::2
+<pubnum> CMU-CS-97-104  </pubnum>::line_number::3
+<pubnum> CUCS-026-94  </pubnum>::line_number::4
+<pubnum> Dartmouth College Computer Science Technical Report PCSTR96-294  </pubnum>::line_number::0
+<pubnum> M.I.T Media Laboratory Perceptual Computing Section Technical Report No. 279 </pubnum>::line_number::0
+<pubnum> Department of Computer Science Series of Publications C Report C-1997-15  </pubnum>::line_number::0
+<pubnum> TR 92-13  </pubnum>::line_number::1
+<pubnum> TR93-27  </pubnum>::line_number::1
+<pubnum> Technical Report #359  </pubnum>::line_number::3
+<pubnum> Preprint No. IULG-93-23  </pubnum>::line_number::9
+<pubnum> Technical Report 95/34  </pubnum>::line_number::1
+<pubnum> Technical Report 96/40  </pubnum>::line_number::2
+<pubnum> Technical Report TR-514-96.  </pubnum>::line_number::0
+<pubnum> DIMACS Technical Report 98-10  </pubnum>::line_number::0
+<pubnum> CS-590Z  </pubnum>::line_number::1
+<pubnum> CSD-TR 97-038  </pubnum>::line_number::5
+<pubnum> Technical Report CSD-TR-94-030  </pubnum>::line_number::6
+<pubnum> Numerical Analysis Report No. 276  </pubnum>::line_number::3
+<pubnum> TRCS 97-02  </pubnum>::line_number::0
+<pubnum> Technical Report TRCS98-18  </pubnum>::line_number::3
+<pubnum> TR - UCSD - CS96-484  </pubnum>::line_number::0
+<pubnum> Technical Report: 96-036  </pubnum>::line_number::6
+<pubnum> CS/TR-92-80  </pubnum>::line_number::0
+<pubnum> CSC-92-01  </pubnum>::line_number::2
+<pubnum> Technical Report 101 </pubnum>::line_number::2
+<pubnum> Technical Report UW-CSE-95-10-01  </pubnum>::line_number::6
+<pubnum> UW Technical Report #1126  </pubnum>::line_number::4
+<pubnum> WUCS-93-23  </pubnum>::line_number::18
+<pubnum> WUCS-94-01  </pubnum>::line_number::10
+<pubnum> CMPSCI Technical Report 95-72  </pubnum>::line_number::3
+<pubnum> YALEU/DCS/TR-1056  </pubnum>::line_number::3
+<pubnum> Technical report UCLA-CSD-950033  </pubnum>::line_number::3
+<pubnum> TR-94-027  </pubnum>::line_number::5
+<pubnum> Technical Report UMIACS-TR-96-22 and CS-TR-3617  </pubnum>::line_number::7
+<pubnum> TR 94-1447  </pubnum>::line_number::2
+<pubnum> CMU-CS-97-125  </pubnum>::line_number::3
+<pubnum> CMU-CS-95-205  </pubnum>::line_number::3
+<pubnum> Working Paper IS-98-01 (Information Systems)  </pubnum>::line_number::0
+<pubnum> SMLI TR-95-37 </pubnum>::line_number::2
+<pubnum> CAR-TR-858 N00014-95-1-0521  </pubnum>::line_number::0
+<pubnum> Computation and Neural Systems Technical Report CNS-TR-96-01 | </pubnum>::line_number::5

@@ -33,12 +33,15 @@ def isPostCode(x):
 	return [line.strip() for line in open(path).readlines()].count(x) > 0
 def isAbstract(x):
 	return x.lower() == 'abstract'
+def isPage(x):
+	return len(x.strip()) - len('page') <= 4 and 'page' in x.lower()
 def isKeyWord(x):
 	return 'keyword' in x.strip().replace(' ','').lower()
 def isIntro(x):
 	return 'introduction' in x.strip().replace(' ','').lower()
 def isPhone(x):
-	return 'tel' == x.lower() or 'fax' == x.lower() or 'telephone' in x.lower()
+	xl = x.lower()
+	return 'tel' == xl or 'fax' == xl or 'telephone' in xl or 'tel:' in xl or 'fax:' in xl or 'phone' in xl
 def isMonth(x):
 	path = sourceDir+r'/db/month.txt'#ok
 	return __fileContain(path,x)
@@ -70,7 +73,7 @@ def isMayName(x):
 	return __fileContain(path,x)
 
 flist = [isEmail,isURL,isSingleCap,isPostCode,isAbstract,
-			isKeyWord, isIntro, isPhone, isMonth, isPrep,
+			isPage,isKeyWord, isIntro, isPhone, isMonth, isPrep,
 			isPubNum, isNote, isAffi, isAddr, isCity, 
 			isState, isCountry, isMayName]
 diclist = flist+[isDegree]
@@ -80,39 +83,43 @@ def updateWordSpecificVector(word,vector):
 			vector[fun.__name__]=0
 		vector[fun.__name__] += int(fun(word))
 
-'''
-测试
+if __name__ == '__main__':
+	line = 'Tel: +44 (0) 121 414 4791, Fax: +44 (0) 121 414 4281'
+	for word in line.split(' '):
+		print word+' '+str(isPhone(word))
+	'''
+	测试
 
-vector={}
-updateWordSpecificVector('rainto@qq.com', vector)
-print vector
+	vector={}
+	updateWordSpecificVector('rainto@qq.com', vector)
+	print vector
 
-print isPhone('tell')
-print isPhone('tEl')
-print isPhone('tel')
-print isPhone('telephonenum')
-	
-print isMonth('jan')
-print isMonth('Jan')
-print isMonth('January')
-print isMonth('Januarys')
-	
-print isKeyWord('key word')
-print isKeyWord('key words')
-print isKeyWord('keyword')
-print isKeyWord('keywords')
-print isKeyWord('key t word')
+	print isPhone('tell')
+	print isPhone('tEl')
+	print isPhone('tel')
+	print isPhone('telephonenum')
+		
+	print isMonth('jan')
+	print isMonth('Jan')
+	print isMonth('January')
+	print isMonth('Januarys')
+		
+	print isKeyWord('key word')
+	print isKeyWord('key words')
+	print isKeyWord('keyword')
+	print isKeyWord('keywords')
+	print isKeyWord('key t word')
 
-print isAbstract('abStract')
-print isAbstract('abStracts')
-print isPostCode('WA')
-print isPostCode('wa')
-print isPostCode('KK')
-print isPostCode('AZ')
-print isEmail('rainto@gmail.com')
-print isURL('http://www.hao123.com')
-print isURL('wwwhao123com')
-print isSingleCap('E.')
-print isSingleCap('Esdf.')
-print isSingleCap('EDf.')
-'''
+	print isAbstract('abStract')
+	print isAbstract('abStracts')
+	print isPostCode('WA')
+	print isPostCode('wa')
+	print isPostCode('KK')
+	print isPostCode('AZ')
+	print isEmail('rainto@gmail.com')
+	print isURL('http://www.hao123.com')
+	print isURL('wwwhao123com')
+	print isSingleCap('E.')
+	print isSingleCap('Esdf.')
+	print isSingleCap('EDf.')
+	'''

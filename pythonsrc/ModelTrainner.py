@@ -2,7 +2,7 @@
 import GenerateVector
 import os
 import pickle
-class Classifier:
+class ModelTrainer:
 	result=[]
 	cMat=[[0,0],[0,0]]
 	cMatStr=''
@@ -24,9 +24,9 @@ class Classifier:
 				self.cMatStr = '\n'.join(self.result[count+2:count+5])
 				break
 			count+=1
-	def initTrain(self, trainPath):
+	def initTrain(self, trainPath, modelOutPath):
 		print 'Training in Weka...'
-		self.result = os.popen('java -classpath "C:/Program Files (x86)/Weka-3-6/weka.jar;C:/Program Files (x86)/Weka-3-6/libsvm-3.21/java/libsvm.jar" weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -seed 1 -t %s'%(trainPath)).read()
+		self.result = os.popen('java -classpath "C:/Program Files (x86)/Weka-3-6/weka.jar;C:/Program Files (x86)/Weka-3-6/libsvm-3.21/java/libsvm.jar" weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -seed 1 -t %s -d %s'%(trainPath,modelOutPath)).read()
 		self.result = self.result.split('\n')
 		self.__getConfusionMatProcess()
 		print 'Training Complete!'
@@ -58,15 +58,16 @@ class Classifier:
 		return self.cMat[0][0] + self.cMat[0][1]
 	def getNumOfB(self):
 		return self.cMat[1][0] + self.cMat[1][1]
+	def getAllModel(self):
+		trainPath = r'C:/Users/rainto96/workspace/HeaderXtractor/vector.arff'
+		for file in os.listdir(r'C:\Users\rainto96\workspace\HeaderXtractor\resource\allClassification'):
+			print 'Now classifying '+ file
+			GenerateVector.generateVectorFor(file)
+			self.initTrain(trainPath, r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result/'+file+'_svm.model')
+			self.outputResult2File(r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result/'+file+'_svm.txt')
 if __name__ == '__main__':
+	ModelTrainer().getAllModel()
 	
-	trainPath = r'C:/Users/rainto96/workspace/HeaderXtractor/vector.arff'
-	c=Classifier()
-	for file in os.listdir(r'C:\Users\rainto96\workspace\HeaderXtractor\resource\allClassification'):
-		print 'Now classifying '+ file
-		GenerateVector.generateVectorFor(file)
-		c.initTrain(trainPath)
-		c.outputResult2File(r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result/'+file+'_svm.txt')
 		
 	
 	'''

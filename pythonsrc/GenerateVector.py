@@ -6,7 +6,6 @@ import os
 import pickle
 addrpre = r'C:/Users/rainto96/workspace/HeaderXtractor/resource/allClassification/'
 startFlag=True
-fout=open('C:/Users/rainto96/workspace/HeaderXtractor/vector.csv','w')
 def __printVector(vector):
 	global startFlag
 	if startFlag == True:
@@ -34,13 +33,31 @@ CACHE_VECTOR_PATH=r'C:\Users\rainto96\workspace\HeaderXtractor\CACHE_VECTOR'
 def __clearCache():
 	if os.path.exists(CACHE_VECTOR_PATH):
 		os.remove(CACHE_VECTOR_PATH)
+
+#只具有行特征和词特征的特征向量
+def __getBasicVector(oneline):
+	list = oneline.split('::line_number::')
+	line = list[0].strip()
+	linePos = list[1].strip()
+	
+	vector = {}
+	vector['linePos'] = linePos
+	#vector['origin_data'] = '"'+line.strip().replace('"','')+'"'
+	line = line.strip()
+	line = __removeTag(line)
+	line = line.strip()
+	line = line.replace(',',' ')
+	list = line.split()
+	for word in list:
+		WordSpecific.updateWordSpecificVector(word,vector)
+	LineSpecific.updateLineSpecificVector(line,vector)
+	return vector
 def __handleTaggedLine(s,pos_neg,filename):
 	line_count=0
 	for oneline in s:
-		if line_count%10 == 0:
+		if line_count%100 == 0:
 			print filename+':'+str(line_count)+' row'
 		line_count+=1
-		print line_count
 		list = oneline.split('::line_number::')
 		line = list[0].strip()
 		linePos = list[1].strip()

@@ -1,0 +1,7 @@
+0
+0.0
+0
+    a    b   <-- classified as
+    0   40 |    a = true
+    0 5480 |    b = false
+40

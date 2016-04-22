@@ -3,6 +3,7 @@ import GenerateVector
 import VectorManager
 import pickle
 import Config
+import ModelTrainer
 
 classification=['abstract','address','affiliation','author','date','degree','email','intro','keyword','note','page','phone','pubnum','title','web']
 PRE_LIMIT = 5
@@ -20,7 +21,8 @@ def updateContextual(onepage, onepageTag):
 		for next in range(1,NEXT_LIMIT):
 			if i+next >= len(onepage) : break
 			onepage[i]['next'+str(next)+onepageTag[i+next]] = 0.5
-def genVectorMulLinesForTrain(percentage):
+#生成所有向量到磁盘，包括一个csv文件和一个对象序列化pickle文件
+def genMulLinesVectorToDisk():
 	add=r'C:\Users\rainto96\workspace\HeaderXtractor\resource\sparsed_tagged_header_with_line_number.txt'
 	pages=[[]]
 	tag=[[]]
@@ -46,8 +48,6 @@ def genVectorMulLinesForTrain(percentage):
 	if len(pages[-1]) > 0: 
 		updateContextual(pages[-1], tag[-1])
 	
-	#trainPages = pages[:int(percentage*len(pages))]
-	#testPages = pages[int(percentage*len(pages)):]
 	
 	allVec=[]
 	for ele in pages:
@@ -55,7 +55,6 @@ def genVectorMulLinesForTrain(percentage):
 	VectorManager.printVectorListToCSV(allVec,Config.TMP_ADDR+r'/look.csv', 'classification' )
 	
 	pickle.dump(allVec,open(Config.TMP_ADDR+r'/allVec.pickle','w'),0)
-	#pickle.dump(testPages,open(Config.TMP_ADDR+r'/testPages','w'),0)
 	print 'train和test上下文向量已写入磁盘'
 	'''
 	trainList=[]
@@ -67,5 +66,60 @@ def genVectorMulLinesForTrain(percentage):
 	VectorManager.printVectorListToARFF(trainList, r'C:\Users\rainto96\workspace\HeaderXtractor\vec_mullines_for_train.arff' , 'classification_tag')
 	VectorManager.printVectorListToARFF(testList, r'C:\Users\rainto96\workspace\HeaderXtractor\vec_mullines_for_test.arff' , 'classification_tag')
 	'''
+
+	
+def extractTrainTestSetToDisk(percent):
+	print '从磁盘中载入向量 ing'
+	allVec = pickle.load(open(r'C:\Users\rainto96\workspace\HeaderXtractor\resource\向量化后_带上下文信息.pickle'))
+	print '从磁盘中载入向量 over'
+	cVec = {}
+	for vector in allVec:
+		if not cVec.has_key(vector['classification']): cVec[vector['classification']]=[]
+		cVec[vector['classification']].append(vector)
+	for cls in cVec:
+		print cls
+		pickle.dump(cVec[cls][ : int(percent*len(cVec[cls]))],open(r'C:/Users/rainto96/workspace/HeaderXtractor/resource/MulLine_allClassification/'+cls+'_train.pickle','w'),0)
+		pickle.dump(cVec[cls][int(percent*len(cVec[cls])) : ],open(r'C:/Users/rainto96/workspace/HeaderXtractor/resource/MulLine_allClassification/'+cls+'_test.pickle','w'),0)
+
+
+def veclistFilter(vecList, filterList):
+	filteredVecs=[]
+	for vector in vecList:
+		nvec={}
+		for key in vector:
+			if key in filterList: continue
+			nvec[key] = vector[key]
+		filteredVecs.append(nvec)
+	return filteredVecs
+def __genArffFor(cls,arffPath):
+	filterList = ['z_origin','z_pageNo','classification']
+	vecs = pickle.load(open(r'C:/Users/rainto96/workspace/HeaderXtractor/resource/MulLine_allClassification/'+cls+'_train.pickle') )
+	tmpVecs = veclistFilter(vecs, filterList)
+	for vector in tmpVecs:
+		vector['classification_tag']='true'
+	filteredVecs = tmpVecs
+	
+	for othercls in classification:
+		if othercls == cls : continue
+		vecs = pickle.load(open(r'C:/Users/rainto96/workspace/HeaderXtractor/resource/MulLine_allClassification/'+othercls+'_train.pickle') )
+		tmpVecs = veclistFilter(vecs, filterList)
+		for vector in tmpVecs:
+			vector['classification_tag']='false'
+		filteredVecs += tmpVecs
+	VectorManager.printVectorListToARFF(filteredVecs, arffPath , 'classification_tag')
+def trainAllModels():
+	addr = r'C:/Users/rainto96/workspace/HeaderXtractor/resource/MulLine_svm_result'
+	filteredVecs=[]
+	modelTrainer = ModelTrainer.ModelTrainer()
+	for cls in classification:
+		print 'Now traing for: '+cls
+		arffPath = r'C:\Users\rainto96\workspace\HeaderXtractor\vector.arff'
+		print 'Generating ARFF now...'
+		__genArffFor(cls,arffPath)
+		print 'ARFF generating complete'
+		modelTrainer.initTrain(arffPath, addr+'/'+cls+'_svm.model')
+		modelTrainer.outputResult2File(addr+'/'+cls+'_svm.txt')
+		print modelTrainer.getConfusionMat()
+
 if __name__ == '__main__':
-	genVectorMulLinesForTrain(1)
+	trainAllModels()

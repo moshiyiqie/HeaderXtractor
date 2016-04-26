@@ -11,19 +11,23 @@ def printVectorListToCSV(vectorList, outputPath, tagColName):
 		return
 	
 	fout = open(outputPath, 'w')
+	
+	keys = vectorList[0].keys()
+	keys = sorted(keys)
+	
 	#打印元信息
-	for key in sorted(vectorList[0].keys()):
+	for key in keys:
 		if key==tagColName:
 			continue
 		fout.write(str(key)+',')
 	fout.write(tagColName+'\n')
 	#打印向量
 	for vector in vectorList:
-		for key in sorted(vector.keys()):
+		for key in keys:
 			if key==tagColName:
 				continue
 			fout.write(str(vector[key])+',')
-		if not vector.has_key(tagColName): vector[tagColName] = -1
+		if not vector.has_key(tagColName): vector[tagColName] = 'false'
 		fout.write(str(vector[tagColName])+'\n')
 	fout.close()
 '''
@@ -34,6 +38,16 @@ def printVectorListToARFF(vectorList, outputPath, tagColName):
 	printVectorListToCSV(vectorList,tmpCSV_Addr,tagColName)
 	print '正在转化为arff'
 	os.system(r'java -classpath "C:/Program Files (x86)/Weka-3-6/weka.jar" weka.core.converters.CSVLoader %s > %s'%(tmpCSV_Addr, outputPath))
+	
+	lines = open(outputPath).readlines()
+	fout = open(outputPath,'w')
+	for line in lines:
+		if '@attribute classfication_tag' in line:
+			line = '@attribute classfication_tag {true,false}\n'
+		if '@attribute classification_tag' in line:
+			line = '@attribute classification_tag {true,false}\n'
+		fout.write(line)
+	fout.close()
 	print 'arff转化完毕'
 
 def getTag(oneline):

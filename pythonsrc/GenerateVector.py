@@ -4,8 +4,10 @@ import WordSpecific
 import re
 import os
 import pickle
+import VectorManager
 addrpre = r'C:/Users/rainto96/workspace/HeaderXtractor/resource/allClassification/'
 startFlag=True
+'''
 def __printVector(vector):
 	global startFlag
 	if startFlag == True:
@@ -20,6 +22,7 @@ def __printVector(vector):
 			continue
 		fout.write(str(vector[key])+',')
 	fout.write(str(vector['classfication_tag'])+'\n')
+'''
 def __removeTag(line):
 	str=line
 	for tag in re.findall(r'<\w+>',line):
@@ -83,7 +86,7 @@ def __getPositive(classification):
 		__handleTaggedLine(s,'true',classification)
 	for vector in CACHE_VECTOR[classification]:
 		vector['classfication_tag'] = 'true'
-		__printVector(vector)
+		#__printVector(vector)
 
 def __getNegative(classification):
 	for file in os.listdir(addrpre):
@@ -96,7 +99,7 @@ def __getNegative(classification):
 			__handleTaggedLine(s,'false',file)
 		for vector in CACHE_VECTOR[file]:
 			vector['classfication_tag'] = 'false'
-			__printVector(vector)
+			#__printVector(vector)
 '''
 生成向量文件到C:/Users/rainto96/workspace/HeaderXtractor/vector.csv
 classification: 文件名称 ，如address.txt
@@ -117,12 +120,12 @@ def generateVectorFor(classification):
 	print 'Generating Vectoring ...'
 	__getPositive(classification)
 	__getNegative(classification)
+	vecList = []
+	for key in CACHE_VECTOR:
+		vecList += CACHE_VECTOR[key]
+	VectorManager.printVectorListToARFF(vecList, 'C:/Users/rainto96/workspace/HeaderXtractor/vector.arff', 'classfication_tag')
 	fout.close()
 	
-	print 'CSV向量生成完毕，正在转化为arff'
-	#os.popen(r'java -classpath "C:/Program Files (x86)/Weka-3-6/weka.jar" weka.core.converters.CSVLoader C:/Users/rainto96/workspace/HeaderXtractor/vector.csv > C:/Users/rainto96/workspace/HeaderXtractor/vector.arff')
-	os.system(r'java -classpath "C:/Program Files (x86)/Weka-3-6/weka.jar" weka.core.converters.CSVLoader C:/Users/rainto96/workspace/HeaderXtractor/vector.csv > C:/Users/rainto96/workspace/HeaderXtractor/vector.arff')
-	print 'arff向量转化完毕'
 	print 'Write CACHE_VECTOR to disk ...'
 	pickle.dump(CACHE_VECTOR,open(CACHE_VECTOR_PATH,'w'),0)
 

@@ -65,10 +65,17 @@ class ModelTrainer:
 			GenerateVector.generateVectorFor(file)
 			self.initTrain(trainPath, r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result/'+file+'_svm.model')
 			self.outputResult2File(r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result/'+file+'_svm.txt')
+	def getModelFor(self, cls):
+		trainPath = r'C:/Users/rainto96/workspace/HeaderXtractor/vector.arff'
+		if not cls.endswith('.txt'):
+			cls += '.txt'
+		print 'Now classifying '+ cls
+		GenerateVector.generateVectorFor(cls)
+		self.initTrain(trainPath, r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result/'+cls+'_svm.model')
+		self.outputResult2File(r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result/'+cls+'_svm.txt')
 if __name__ == '__main__':
-	ModelTrainer().getAllModel()
-	
-		
+	#ModelTrainer().getModelFor('abstract')
+	#ModelTrainer().getAllModel()
 	
 	'''
 	path = 'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result'

@@ -132,7 +132,7 @@ def generateVectorFor(classification):
 	
 if __name__ == '__main__':
 	#__clearCache()
-	generateVectorFor('abstract.txt')
+	generateVectorFor('pubnum.txt')
 	'''
 	≤‚ ‘
 	'''

@@ -117,8 +117,12 @@ public class PDFManager {
 	
 	public static void main(String args[]) throws IOException{
 		PDFManager pdfm = new PDFManager();
-		pdfm.loadPDF("C:/ZONE/TaoResearch/pdf_use_style_info.pdf");
+		pdfm.loadPDF("C:/Users/raint/OneDrive/NLP/NLP-2/5.1/crf_8page.pdf");
+		
+		System.out.println(pdfm.getAllText("C:/Users/raint/OneDrive/NLP/NLP-2/5.1/crf_8page.pdf"));
+		
 		//System.out.println(pdfm.getIthPagePlainText(0));
+		/*
 		System.out.println(pdfm.getIthPageJthLinePlainText(0,0));
 		System.out.println(pdfm.getIthPageJthLinePlainText(0,1));
 		System.out.println(pdfm.getIthPageJthLinePlainText(0,2));
@@ -126,5 +130,6 @@ public class PDFManager {
 		System.out.println(pdfm.getIthPageJthLinePlainText(0,4));
 		System.out.println(pdfm.getIthPageJthLinePlainText(0,5));
 		System.out.println(pdfm.getIthPageJthLinePlainText(0,6));
+		*/
 	}
 }

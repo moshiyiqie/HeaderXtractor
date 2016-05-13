@@ -36,4 +36,3 @@ def getSparsedTaggedHeader():
 			fout.write('<NEW_HEADER>'+'\n')
 		fout.write(element+'\n')
 
-genToAllClassificationFolder()

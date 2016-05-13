@@ -2,6 +2,8 @@
 import GenerateVector
 import os
 import pickle
+import Config
+os.chdir(Config.WORKSPACE)
 class ModelTrainer:
 	result=[]
 	cMat=[[0,0],[0,0]]
@@ -26,7 +28,7 @@ class ModelTrainer:
 			count+=1
 	def initTrain(self, trainPath, modelOutPath):
 		print 'Training in Weka...'
-		self.result = os.popen('java -classpath "C:/Program Files (x86)/Weka-3-6/weka.jar;C:/Program Files (x86)/Weka-3-6/libsvm-3.21/java/libsvm.jar" weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -seed 1 -t %s -d %s'%(trainPath,modelOutPath)).read()
+		self.result = os.popen('java -classpath '+Config.LIBSVM_CLASSPATH+' weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -seed 1 -t %s -d %s'%(trainPath,modelOutPath)).read()
 		self.result = self.result.split('\n')
 		self.__getConfusionMatProcess()
 		print 'Training Complete!'
@@ -59,26 +61,26 @@ class ModelTrainer:
 	def getNumOfB(self):
 		return self.cMat[1][0] + self.cMat[1][1]
 	def getAllModel(self):
-		trainPath = r'C:/Users/rainto96/workspace/HeaderXtractor/vector.arff'
-		for file in os.listdir(r'C:\Users\rainto96\workspace\HeaderXtractor\resource\allClassification'):
+		trainPath = r'./vector.arff'
+		for file in os.listdir(r'./resource/allClassification'):
 			print 'Now classifying '+ file
 			GenerateVector.generateVectorFor(file)
-			self.initTrain(trainPath, r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result/'+file+'_svm.model')
-			self.outputResult2File(r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result/'+file+'_svm.txt')
+			self.initTrain(trainPath, r'./resource/svm_result/'+file+'_svm.model')
+			self.outputResult2File(r'./resource/svm_result/'+file+'_svm.txt')
 	def getModelFor(self, cls):
-		trainPath = r'C:/Users/rainto96/workspace/HeaderXtractor/vector.arff'
+		trainPath = r'./vector.arff'
 		if not cls.endswith('.txt'):
 			cls += '.txt'
 		print 'Now classifying '+ cls
 		GenerateVector.generateVectorFor(cls)
-		self.initTrain(trainPath, r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result/'+cls+'_svm.model')
-		self.outputResult2File(r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result/'+cls+'_svm.txt')
+		self.initTrain(trainPath, r'./resource/svm_result/'+cls+'_svm.model')
+		self.outputResult2File(r'./resource/svm_result/'+cls+'_svm.txt')
 if __name__ == '__main__':
 	#ModelTrainer().getModelFor('abstract')
 	#ModelTrainer().getAllModel()
 	
 	'''
-	path = 'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result'
+	path = './resource/svm_result'
 	for file in os.listdir(path):
 		if file.endswith('.pickle'):
 			c = Classifier()

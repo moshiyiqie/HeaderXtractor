@@ -2,6 +2,7 @@
 import Config
 import re
 import os
+os.chdir(Config.WORKSPACE)
 '''
 打印一个vectorList成csv文件格式，指定人工标注的tag列名，且该列放在最后
 '''
@@ -37,7 +38,7 @@ def printVectorListToARFF(vectorList, outputPath, tagColName):
 	tmpCSV_Addr = Config.TMP_ADDR+r'/tmp.csv'
 	printVectorListToCSV(vectorList,tmpCSV_Addr,tagColName)
 	print '正在转化为arff'
-	os.system(r'java -classpath "C:/Program Files (x86)/Weka-3-6/weka.jar" weka.core.converters.CSVLoader %s > %s'%(tmpCSV_Addr, outputPath))
+	os.system(r'java -classpath '+Config.WEKA_JAR_PATH+' weka.core.converters.CSVLoader %s > %s'%(tmpCSV_Addr, outputPath))
 	
 	lines = open(outputPath).readlines()
 	fout = open(outputPath,'w')

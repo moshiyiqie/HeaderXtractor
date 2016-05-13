@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*- 
 import WordSpecific
+import Config
+os.chdir(Config.WORKSPACE)
 def countDic(line,func):
 	num=0
 	for word in line.split(' '):

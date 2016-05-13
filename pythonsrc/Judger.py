@@ -3,9 +3,10 @@ import VectorManager
 import Config
 import os
 import copy
+os.chdir(Config.WORKSPACE)
 filterList = ['z_origin','z_pageNo','classification']
 class Judger:
-	tmpAddr=r'C:/Users/rainto96/workspace/HeaderXtractor/pythonsrc/tmp'
+	tmpAddr=r'./pythonsrc/tmp'
 	modelAddr=''
 	def __init__(self, modelAddr):
 		self.modelAddr = modelAddr

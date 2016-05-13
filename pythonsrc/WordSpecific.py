@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*- 
 import re
-sourceDir = r'C:/Users/rainto96/workspace/HeaderXtractor/resource'
+import os
+import Config
+os.chdir(Config.WORKSPACE)
+sourceDir = r'./resource'
 
 #加了个很快的缓存，几十倍的性能提升吧
 file_cache={}
@@ -84,9 +87,9 @@ def updateWordSpecificVector(word,vector):
 		vector[fun.__name__] += int(fun(word))
 
 if __name__ == '__main__':
-	line = 'Tel: +44 (0) 121 414 4791, Fax: +44 (0) 121 414 4281'
-	for word in line.split(' '):
-		print word+' '+str(isPhone(word))
+	#line = 'Tel: +44 (0) 121 414 4791, Fax: +44 (0) 121 414 4281'
+	#for word in line.split(' '):
+	#	print word+' '+str(isPhone(word))
 	'''
 	测试
 

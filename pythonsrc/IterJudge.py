@@ -5,6 +5,8 @@ import pickle
 import GenerateVector
 import copy
 import VectorManager
+import Config
+os.chdir(Config.WORKSPACE)
 #先用独立行分类Judger写上预测
 #更新contexual维度
 #用contexual分类Judger写上预测
@@ -87,27 +89,27 @@ def getVecListNoContext(vecListWithContext):
 	return vecListNoContext
 
 def showIteResultExcel(iteResult):
-	fout = open(r'C:\Users\rainto96\workspace\HeaderXtractor\pythonsrc\tmp\iteResult.csv','w')
+	fout = open(r'./pythonsrc/tmp/iteResult.csv','w')
 	fout.write('类别,准确率,召回率,F值,样本数目\n')
 	for cls in classification:
 		for result in iteResult[cls]:
 			fout.write(cls + ',' + str(result[0]) + ',' + str(result[1]) + ',' + str(result[2]) + '\n')
 	fout.close()
-	#os.system(r'C:\Users\rainto96\workspace\HeaderXtractor\pythonsrc\tmp\iteResult.csv')
+	#os.system(r'./pythonsrc/tmp/iteResult.csv')
 	
 def iterJudge():
 	print 'Load Vector With Contextual Info from Disk ...'
-	vecList = pickle.load(open(r'C:\Users\rainto96\workspace\HeaderXtractor\resource\向量化后_带上下文信息.pickle'))
+	vecList = pickle.load(open(r'./resource/向量化后_带上下文信息.pickle'))
 	vecList = vecList[int(0.7*len(vecList)):]
 	print 'Load Complete!'
 	independentJudge = {}
-	independentPath= r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result'
+	independentPath= r'./resource/svm_result'
 	#filterList = ['z_origin','z_pageNo','classification']
 	for file in os.listdir(independentPath):
 		if file.endswith('_svm.model'):
 			independentJudge[file.replace('.txt_svm.model','')] = Judger.Judger(independentPath+'/'+file)
 	contexualJudge = {}
-	contexualPath = r'C:/Users/rainto96/workspace/HeaderXtractor/resource/MulLine_svm_result'
+	contexualPath = r'./resource/MulLine_svm_result'
 	for file in os.listdir(contexualPath):
 		if file.endswith('_svm.model'):
 			contexualJudge[file.replace('_svm.model','')] = Judger.Judger(contexualPath+'/'+file)
@@ -117,8 +119,8 @@ def iterJudge():
 	#for cls in classification:
 	#	dic_idx_predict[cls] = independentJudge[cls].judgeVectorList(vecListNoContext,INDEPENDENT_CLSTAG)
 	
-	#pickle.dump(dic_idx_predict, open('C:/ZONE/dic_idx_predict_indpdt.pc','w'))
-	dic_idx_predict = pickle.load(open('C:/ZONE/dic_idx_predict_indpdt.pc'))
+	#pickle.dump(dic_idx_predict, open('./dic_idx_predict_indpdt.pc','w'))
+	dic_idx_predict = pickle.load(open('./dic_idx_predict_indpdt.pc'))
 	
 	iteResult={}
 	for itTimes in range(0, 20):
@@ -126,7 +128,7 @@ def iterJudge():
 		idx_dic_predict = getIndexDicPredictFromDicIndexPredict(dic_idx_predict)
 		updateContextualAttr(vecList, idx_dic_predict)
 		printPresionRecall(vecList, idx_dic_predict, iteResult)
-		VectorManager.printVectorListToCSV(vecList, r'C:/Users/rainto96/workspace/HeaderXtractor/pythonsrc/tmp/ite'+str(itTimes)+'vector.csv', CONTEXTUAL_CLSTAG)
+		VectorManager.printVectorListToCSV(vecList, r'./pythonsrc/tmp/ite'+str(itTimes)+'vector.csv', CONTEXTUAL_CLSTAG)
 		dic_idx_predict.clear()
 		for cls in classification:
 			dic_idx_predict[cls] = contexualJudge[cls].judgeVectorList(vecList,CONTEXTUAL_CLSTAG)
@@ -142,19 +144,19 @@ def unitest():
 	'''
 	
 	independentJudge = {}#############################
-	independentPath= r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result'
+	independentPath= r'./resource/svm_result'
 	filterList = ['z_origin','z_pageNo','classification']
 	for file in os.listdir(independentPath):
 		if file.endswith('_svm.model'):
 			independentJudge[file.replace('.txt_svm.model','')] = Judger.Judger(independentPath+'/'+file)
 	contexualJudge = {}
-	contexualPath = r'C:/Users/rainto96/workspace/HeaderXtractor/resource/MulLine_svm_result'
+	contexualPath = r'./resource/MulLine_svm_result'
 	for file in os.listdir(contexualPath):
 		if file.endswith('_svm.model'):
 			contexualJudge[file.replace('_svm.model','')] = Judger.Judger(contexualPath+'/'+file)
 	'''
 	print 'Load Vector From Disk ...'
-	vecList=pickle.load(open(r'C:\Users\rainto96\workspace\HeaderXtractor\resource\向量化后_带上下文信息.pickle'))
+	vecList=pickle.load(open(r'./resource/向量化后_带上下文信息.pickle'))
 	print 'Load Complete!'
 	vecList_no_context = getVecListNoContext(vecList)
 	predict={}
@@ -164,12 +166,12 @@ def unitest():
 	predict = getIndexDicPredictFromDicIndexPredict(predict)#############################
 	'''
 	print 'Load Vector From Disk ...'
-	vecList=pickle.load(open(r'C:\Users\rainto96\workspace\HeaderXtractor\resource\向量化后_带上下文信息.pickle'))
+	vecList=pickle.load(open(r'./resource/向量化后_带上下文信息.pickle'))
 	print 'Load Complete!'
 	print '1.VecList has classification? ' + str(vecList[0].has_key('classification'))
 	
-	#pickle.dump(predict, open('C:/ZONE/pre.pc','w'))
-	predict = pickle.load(open('C:/ZONE/pre.pc'))
+	#pickle.dump(predict, open('./pre.pc','w'))
+	predict = pickle.load(open('./pre.pc'))
 	updateContextualAttr(vecList, predict)
 	print '2.VecList has classification? ' + str(vecList[0].has_key('classification'))
 	'''
@@ -178,8 +180,8 @@ def unitest():
 		n_predict[cls] = contexualJudge[cls].judgeVectorList(vecList, CONTEXTUAL_CLSTAG)
 	n_predict = getIndexDicPredictFromDicIndexPredict(n_predict)
 	'''
-	#pickle.dump(n_predict, open('C:/ZONE/n_predict.pc','w'))
-	n_predict = pickle.load(open('C:/ZONE/n_predict.pc'))
+	#pickle.dump(n_predict, open('./n_predict.pc','w'))
+	n_predict = pickle.load(open('./n_predict.pc'))
 	print '3.VecList has classification? ' + str(vecList[0].has_key('classification'))
 	
 	iteResult={}

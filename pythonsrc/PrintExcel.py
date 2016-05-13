@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*- 
 from __future__ import print_function
 import os
+import Config
+os.chdir(Config.WORKSPACE)
 def showExcel():
-	excelpath = r'C:/Users/rainto96/workspace/HeaderXtractor/pythonsrc/tmp/excel.csv'
-	#path = r'C:/Users/rainto96/workspace/HeaderXtractor/resource/MulLine_svm_result'
+	excelpath = r'./pythonsrc/tmp/excel.csv'
+	#path = r'./resource/MulLine_svm_result'
 	#fout = open(excelpath,'w')
-	path = r'C:/Users/rainto96/workspace/HeaderXtractor/resource/svm_result'
+	path = r'./resource/svm_result'
 	fout = open(excelpath,'w')
 	fout.write('类别,准确率,召回率,F值,样本数目\n'.decode('utf-8').encode('gbk'))
 	for file in os.listdir(path):

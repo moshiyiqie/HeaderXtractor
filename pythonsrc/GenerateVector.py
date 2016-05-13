@@ -5,7 +5,9 @@ import re
 import os
 import pickle
 import VectorManager
-addrpre = r'C:/Users/rainto96/workspace/HeaderXtractor/resource/allClassification/'
+import Config
+os.chdir(Config.WORKSPACE)
+addrpre = r'./resource/allClassification/'
 startFlag=True
 '''
 def __printVector(vector):
@@ -32,7 +34,7 @@ def __removeTag(line):
 	return str
 
 CACHE_VECTOR={}
-CACHE_VECTOR_PATH=r'C:\Users\rainto96\workspace\HeaderXtractor\CACHE_VECTOR'
+CACHE_VECTOR_PATH=r'./CACHE_VECTOR'
 def __clearCache():
 	if os.path.exists(CACHE_VECTOR_PATH):
 		os.remove(CACHE_VECTOR_PATH)
@@ -101,7 +103,7 @@ def __getNegative(classification):
 			vector['classfication_tag'] = 'false'
 			#__printVector(vector)
 '''
-生成向量文件到C:/Users/rainto96/workspace/HeaderXtractor/vector.csv
+生成向量文件到./vector.csv
 classification: 文件名称 ，如address.txt
 '''
 def generateVectorFor(classification):
@@ -109,9 +111,9 @@ def generateVectorFor(classification):
 	global startFlag
 	global CACHE_VECTOR
 	startFlag=True
-	fout=open('C:/Users/rainto96/workspace/HeaderXtractor/vector.csv','w')
+	fout=open('./vector.csv','w')
 	fout.close()
-	fout=open('C:/Users/rainto96/workspace/HeaderXtractor/vector.csv','w+')
+	fout=open('./vector.csv','w+')
 	
 	
 	if os.path.exists(CACHE_VECTOR_PATH):
@@ -123,7 +125,7 @@ def generateVectorFor(classification):
 	vecList = []
 	for key in CACHE_VECTOR:
 		vecList += CACHE_VECTOR[key]
-	VectorManager.printVectorListToARFF(vecList, 'C:/Users/rainto96/workspace/HeaderXtractor/vector.arff', 'classfication_tag')
+	VectorManager.printVectorListToARFF(vecList, './vector.arff', 'classfication_tag')
 	fout.close()
 	
 	print 'Write CACHE_VECTOR to disk ...'
@@ -132,7 +134,7 @@ def generateVectorFor(classification):
 	
 if __name__ == '__main__':
 	#__clearCache()
-	generateVectorFor('pubnum.txt')
+	#generateVectorFor('pubnum.txt')
 	'''
 	测试
 	'''

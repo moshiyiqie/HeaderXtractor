@@ -1,0 +1,52 @@
+ex1：
+pickedFeature_CRF = [cap1NumPer, capAllNumPer, containDigit, allDigit, phoneNumPer, 
+					containDot, containDash, lonelyInitialPer, singleCharPer,
+					cap1Per, puncPer, emailPer, urlPer, authorPer, dateNumPer, noteNumPer, affiNumPer]
+
+
+
+ex2：
+
+pickedFeature_CRF = [cap1NumPer, capAllNumPer, containDigit, allDigit, phoneNumPer, 
+					containDot, containDash, lonelyInitialPer, singleCharPer,
+					cap1Per, puncPer, emailPer, urlPer, authorPer, dateNumPer, noteNumPer, affiNumPer,keywordPer ]
+
+
+
+ex3：
+pickedFeature_CRF = [cap1NumPer, capAllNumPer, containDigit, allDigit, phoneNumPer, 
+					containDot, containDash, lonelyInitialPer, singleCharPer,
+					cap1Per, puncPer, emailPer, urlPer, authorPer, dateNumPer, noteNumPer, affiNumPer,keywordPer,comaNum ]
+
+ex4：
+pickedFeature_CRF = [cap1NumPer, capAllNumPer, containDigit, allDigit, phoneNumPer, 
+					containDot, containDash, lonelyInitialPer, singleCharPer,
+					cap1Per, puncPer, emailPer, urlPer, authorPer, dateNumPer, noteNumPer, affiNumPer,keywordPer, shortPhrasePer]
+
+
+ex5：
+pickedFeature_CRF = [cap1NumPer, capAllNumPer, containDigit, allDigit, phoneNumPer, 
+					containDot, containDash, lonelyInitialPer, singleCharPer,
+					cap1Per, puncPer, emailPer, urlPer, authorPer, dateNumPer, noteNumPer, affiNumPer,keywordPer, shortPhrasePer]
+flist = [isEmail,isURL,isSingleCap,isPostCode,isAbstract,
+			isPage,isKeyWord, isIntro, isPhone, isMonth, isPrep,
+			isPubNum, isNote, isAffi, isAddr, isCity, 
+			isState, isCountry, isMayName]（没有转化为百分比）
+
+ex6：
+pickedFeature_CRF = [cap1NumPer, capAllNumPer, containDigit, allDigit, phoneNumPer, 
+					containDot, containDash, lonelyInitialPer, singleCharPer,
+					cap1Per, puncPer, emailPer, urlPer, authorPer, dateNumPer, noteNumPer, affiNumPer,keywordPer, shortPhrasePer]
+flist = [isEmail,isURL,isSingleCap,isPostCode,isAbstract,
+			isPage,isKeyWord, isIntro, isPhone, isMonth, isPrep,
+			isPubNum, isNote, isAffi, isAddr, isCity, 
+			isState, isCountry, isMayName, isDegree]（已经转化为百分比）忘了改特征模板加入isDegree
+
+ex7：
+pickedFeature_CRF = [cap1NumPer, capAllNumPer, containDigit, allDigit, phoneNumPer, 
+					containDot, containDash, lonelyInitialPer, singleCharPer,
+					cap1Per, puncPer, emailPer, urlPer, authorPer, dateNumPer, noteNumPer, affiNumPer,keywordPer, shortPhrasePer]
+flist = [isEmail,isURL,isSingleCap,isPostCode,isAbstract,
+			isPage,isKeyWord, isIntro, isPhone, isMonth, isPrep,
+			isPubNum, isNote, isAffi, isAddr, isCity, 
+			isState, isCountry, isMayName, isDegree]（已经转化为百分比）改了特征模板加入isDegree

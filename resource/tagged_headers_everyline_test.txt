@@ -1,0 +1,65 @@
+<title>  Protocols for Collecting Responses  </title>::line_number::0
+<title> in Multi-hop Radio Networks   </title>::line_number::1
+<author>  Chungki Lee James E. Burns  </author>::line_number::2
+<author> Mostafa H. Ammar   </author>::line_number::3
+<pubnum>  GIT-CC-92/28   </pubnum>::line_number::4
+<date>  June 1992   </date>::line_number::5
+<abstract>  Abstract  </abstract>::line_number::6
+<abstract> The problem of collecting responses in multi-hop radio networks is considered. A given node, called the source, is to collect a specified number of  </abstract>::line_number::7
+<abstract> responses from nodes in a radio network. The problem arises in several  </abstract>::line_number::8
+<abstract> applications of distributed systems. A deterministic and a randomized protocol for the problem are presented. The two protocols are analyzed and  </abstract>::line_number::9
+<abstract> their performance is compared. Conclusions are drawn about the suitability  </abstract>::line_number::10
+<abstract> of our protocols in various network environments.   </abstract>::line_number::11
+<affiliation>  College of Computing  </affiliation>::line_number::12
+<affiliation> Georgia Institute of Technology   </affiliation>::line_number::13
+<address>  Atlanta, Georgia 30332-0280   </address>::line_number::14
+<page>  +PAGE+  </page>::line_number::15
+<pubnum>  GIT-CC-92/60   </pubnum>::line_number::0
+<title>  A Model-Based Approach to  </title>::line_number::1
+<title> Analogical Reasoning and Learning in Design   </title>::line_number::2
+<author>  Sambasiva R. Bhatta   </author>::line_number::3
+<email>  bhatta@cc.gatech.edu   </email>::line_number::4
+<degree>  A THESIS PROPOSAL  </degree>::line_number::5
+<degree> Presented to  </degree>::line_number::6
+<degree> The Academic Faculty  </degree>::line_number::7
+<degree> In Partial Fulfillment  </degree>::line_number::8
+<degree> of the Requirements for the Degree  </degree>::line_number::9
+<degree> Doctor of Philosophy  </degree>::line_number::10
+<degree> in Information and Computer Science  </degree>::line_number::11
+<degree> The Committee:  </degree>::line_number::12
+<degree> Dr. Ashok Goel (Advisor)  </degree>::line_number::13
+<degree> Dr. Richard Catrambone (Psy)  </degree>::line_number::14
+<degree> Dr. T. Govindaraj (ISyE)  </degree>::line_number::15
+<degree> Dr. Janet Kolodner  </degree>::line_number::16
+<degree> Dr. Ashwin Ram   </degree>::line_number::17
+<affiliation>  Georgia Institute of Technology   </affiliation>::line_number::18
+<date>  November 1992   </date>::line_number::19
+<note>  This work has been supported by research grants from the Office of Naval Research (contract  </note>::line_number::20
+<note> N00014-92-J-1234) and NSF, a CER grant from NSF (grant CCR-86-19886), and equipment  </note>::line_number::21
+<note> donated by IBM, NCR, and Symbolics.   </note>::line_number::22
+<page>  +PAGE+  </page>::line_number::23
+<title>  Fast Barrier Synchronization in Wormhole k-ary n-cube Networks  </title>::line_number::0
+<title> with Multidestination Worms    </title>::line_number::1
+<author>  Dhabaleswar K. Panda   </author>::line_number::2
+<affiliation>  Dept. of Computer and Information Science  </affiliation>::line_number::3
+<address> The Ohio State University,   Columbus, OH 43210-1277   </address>::line_number::4
+<phone>  Tel: (614)-292-5199, Fax: (614)-292-2911   </phone>::line_number::5
+<email>  E-mail: panda@cis.ohio-state.edu   </email>::line_number::6
+<abstract>  Abstract  </abstract>::line_number::7
+<abstract> Proc. of the Int'l Symposium on High Performance  </abstract>::line_number::8
+<abstract> Computer Architecture (HPCA '95), pp. 200-209.  </abstract>::line_number::9
+<abstract> This paper presents a new approach to implement fast barrier synchronization in wormhole k-ary  </abstract>::line_number::10
+<abstract> n-cubes. The novelty lies in using multidestination  </abstract>::line_number::11
+<abstract> messages instead of the traditional single destination  </abstract>::line_number::12
+<abstract> messages. Two different multidestination worm types,  </abstract>::line_number::13
+<abstract> gather and broadcasting, are introduced to implement  </abstract>::line_number::14
+<abstract> the report and wake-up phases of barrier synchronization, respectively. Algorithms for complete and arbitrary set barrier synchronization are presented using  </abstract>::line_number::15
+<abstract> these new worms. It is shown that complete barrier  </abstract>::line_number::16
+<abstract> synchronization in a k-ary n-cube system with e-cube  </abstract>::line_number::17
+<abstract> routing can be implemented with 2n communication  </abstract>::line_number::18
+<abstract> start-ups as compared to 2n log 2 k start-ups needed  </abstract>::line_number::19
+<abstract> with unicast-based message passing. For arbitrary set  </abstract>::line_number::20
+<abstract> barrier, an interesting trend is observed where the synchronization cost keeps on reducing beyond a certain  </abstract>::line_number::21
+<abstract> number of participating nodes.   </abstract>::line_number::22
+<intro>  1 Introduction  </intro>::line_number::23
+<intro>    </intro>::line_number::23

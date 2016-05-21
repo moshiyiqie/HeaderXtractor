@@ -1,0 +1,1358 @@
+<author>  Chungki Lee James E. Burns  </author>::line_number::2
+<author> Mostafa H. Ammar   </author>::line_number::3
+<author>  Sambasiva R. Bhatta   </author>::line_number::3
+<author>  Dhabaleswar K. Panda   </author>::line_number::2
+<author>  Yu-Chee Tseng, Dhabaleswar K. Panda, Member, IEEE, and Ten-Hwang Lai, Member, IEEE   </author>::line_number::3
+<author>  Vibha A. Dixit-Radiya and Dhabaleswar K. Panda   </author>::line_number::2
+<author>  Yair Kurzion and Roni Yagel   </author>::line_number::2
+<author>  B. Kumar, P. Sadayappan, C.-H. Huang   </author>::line_number::2
+<author>  Torsten Mller and Roni Yagel   </author>::line_number::1
+<author>  Yelena Yesha   </author>::line_number::2
+<author>  Mukesh Singhal   </author>::line_number::7
+<author>  Debashis Basak and Dhabaleswar K. Panda   </author>::line_number::2
+<author>  Neelam Soundarajan   </author>::line_number::1
+<author>  Jun Xu Mukesh Singhal   </author>::line_number::2
+<author>  Dean Hougen John Fischer Deva Johnam   </author>::line_number::2
+<author>  Wee Kheng Leow and Risto Miikkulainen   </author>::line_number::1
+<author>  Sebastian Thrun 1 , Steffen Gutmann 2 , Dieter Fox 3 , Wolfram Burgard 3 , and Benjamin J. Kuipers 4   </author>::line_number::2
+<author>  Pai Chou, Elizabeth Walkup, Gaetano Borriello 2   </author>::line_number::2
+<author>  Henry Sheng, Roberto Guerrieri   </author>::line_number::2
+<author> and Alberto Sangiovanni-Vincentelli   </author>::line_number::3
+<author>  P. Turney   </author>::line_number::2
+<author>  Giri NARASIMHAN 1   </author>::line_number::1
+<author>  Stella Gatziu, Andreas Geppert, Klaus R. Dittrich   </author>::line_number::1
+<author>  Andreas Rieder 1fl  </author>::line_number::3
+<author> Xiaodong Zhou 1   </author>::line_number::4
+<author>  Raymond O. Wells, Jr.   </author>::line_number::1
+<author>  Nathan Intrator    </author>::line_number::1
+<author>  Ivan Krsul   </author>::line_number::2
+<author>  D. Cliff, P. Husbands, I. Harvey   </author>::line_number::1
+<author>  S.M. Bellovin*   </author>::line_number::1
+<author>  Jeffrey M. Bell & Fran~coise Bellegarde & James Hook    </author>::line_number::1
+<author>  Richard B. Kieburtz   </author>::line_number::1
+<author>  David C. Steere, Mark Morrissey, Peter Geib, Calton Pu, and Jonathan Walpole   </author>::line_number::1
+<author>  Ethem Alpaydn, Fikret Gurgen   </author>::line_number::4
+<author>  by  </author>::line_number::4
+<author> N. I. Glebov 1   </author>::line_number::5
+<author>  A. V. Kostochka 2   </author>::line_number::8
+<author>  by  </author>::line_number::4
+<author> Michael K. Reiter 1 Aviel D. Rubin 2  </author>::line_number::5
+<author>  </author>::line_number::6
+<author>  by  </author>::line_number::3
+<author> Norbert Hegyvari 1   </author>::line_number::4
+<author>  William R. Bevier   </author>::line_number::2
+<author>  Leonidas Fegaras David Maier   </author>::line_number::1
+<author>  ANDREW W. APPEL   (appel@princeton.edu)   </author>::line_number::3
+<author>  ZHONG SHAO   (zsh@princeton.edu)   </author>::line_number::4
+<author>  Sanjay Ghemawat  </author>::line_number::2
+<author> Robert Gruber  </author>::line_number::3
+<author> James O'Toole  </author>::line_number::4
+<author> Liuba Shrira   </author>::line_number::5
+<author>  Bernhard Pfahringer and Stefan Kramer   </author>::line_number::2
+<author>  Jtrgen Bang-Jensen  </author>::line_number::2
+<author> Gregory Gutin    </author>::line_number::3
+<author>  David Goldstein and Albert Esterline   </author>::line_number::2
+<author>  Kaushik Ghosh, Richard M. Fujimoto, and Karsten Schwan   </author>::line_number::3
+<author>  Kenneth L. Calvert Ellen W. Zegura  </author>::line_number::2
+<author> Michael J. Donahoo  </author>::line_number::3
+<author>  </author>::line_number::4
+<author>  Daryl T. Lawton Warren F. Gardner   </author>::line_number::1
+<author>  Khaled S. Ali and Ronald C. Arkin   </author>::line_number::2
+<author>  Andre Lejeune and Frank P. Ferrie   </author>::line_number::2
+<author>  P. David Stotts Richard Furuta    </author>::line_number::2
+<author>  BENEDICT M. RAFANELLO & THEODORE JOHNSON   </author>::line_number::1
+<author>  Eric N. Hanson  </author>::line_number::2
+<author> Theodore Johnson   </author>::line_number::3
+<author>  Ravikanth Malladi, 1 James A. Sethian, 1 and Baba C. Vemuri 2   </author>::line_number::1
+<author>  Geoff Beckworth,   </author>::line_number::1
+<author>  Brian Garner   </author>::line_number::3
+<author>  Damien De Paoli and Andrzej Goscinski   </author>::line_number::3
+<author>  Marian Stewart Bartlett ;  </author>::line_number::5
+<author> Terrence J. Sejnowski ;   </author>::line_number::6
+<author>  Nicol N. Schraudolph Peter Dayan Terrence J. Sejnowski   </author>::line_number::2
+<author>  Harold W. Thimbleby, Stuart Inglis, and Ian H. Witten *   </author>::line_number::2
+<author>  Matti A. Hiltunen and Richard D. Schlichting   </author>::line_number::1
+<author>  Abdollah A. Afjeh * , Patrick T. Homer , Henry Lewandowski ,  </author>::line_number::2
+<author> John A. Reed * , and Richard D. Schlichting    </author>::line_number::3
+<author>  Thomas A. Phelps   </author>::line_number::1
+<author>  John K. Ousterhout   University of California at Berkeley   </author>::line_number::7
+<author>  Riccardo Poli   </author>::line_number::3
+<author>  W. B. Langdon and R. Poli   </author>::line_number::2
+<author>  W. B. Langdon and R. Poli   </author>::line_number::1
+<author>  Brad Johanson   </author>::line_number::4
+<author>  Riccardo Poli   </author>::line_number::11
+<author>  Jose A. Tierno Alain J. Martin   </author>::line_number::1
+<author>  Tak Kwan Lee   </author>::line_number::4
+<author>  Paola Inverardi 1 , Alexander L. Wolf 2 , and Daniel Yankelevich 3   </author>::line_number::5
+<author>  Regina M. Gonzales and Alexander L. Wolf   </author>::line_number::3
+<author>  Richard S. Hall, Dennis M. Heimbigner, Alexander L. Wolf   </author>::line_number::3
+<author>  Richard H. Byrd, Elizabeth Eskow, Andre van der Hoek, Robert B.  </author>::line_number::4
+<author> Schnabel, Chung-Shang Shao, and Zhihong Zou   </author>::line_number::5
+<author>  Andre van der Hoek, Dennis Heimbigner, and Alexander L. Wolf   </author>::line_number::1
+<author>  Lawrence K. Saul and Satinder P. Singh   </author>::line_number::1
+<author>  Satinder P. Singh   </author>::line_number::3
+<author>  Sameer A. Nene and Shree K. Nayar   </author>::line_number::2
+<author>  Masahiro Watanabe and Shree K. Nayar   </author>::line_number::1
+<author>  Thomas O'Donnell ? Xi-Sheng Fang ?  </author>::line_number::2
+<author> Terrence E. Boult ? Alok Gupta    </author>::line_number::3
+<author>  Arthur G. Werschulz   </author>::line_number::2
+<author>   Hasanat M. Dewan Salvatore J. Stolfo  </author>::line_number::2
+<author> Mauricio Hernandez Jae-Jun Hwang   </author>::line_number::3
+<author>  Marc Gyssens   </author>::line_number::1
+<author>  Laks V.S. Lakshmanan   </author>::line_number::6
+<author>  Karl-Friedrich Bohringer    </author>::line_number::2
+<author>  Bruce Randall Donald    </author>::line_number::4
+<author>  Dan Halperin x   </author>::line_number::6
+<author>  Tobin A. Driscoll Stephen A. Vavasis    </author>::line_number::2
+<author>  Thomas H. Cormen  </author>::line_number::2
+<author> Thomas Sundquist  </author>::line_number::3
+<author> Leonard F. Wisniewski   </author>::line_number::4
+<author>  Kenneth E. Harker   </author>::line_number::2
+<author>  Nils Nieuwejaar, David Kotz   </author>::line_number::3
+<author>  Idit Keidar Danny Dolev    </author>::line_number::2
+<author>  Michael Gasser   </author>::line_number::2
+<author>  Latha S. Colby    </author>::line_number::1
+<author>  Neelakantan Sundaresan Dennis Gannon   </author>::line_number::2
+<author>  Scott D. Stoller    </author>::line_number::1
+<author>  John Henderson Steven Salzberg Kenneth H. Fasman    </author>::line_number::1
+<author>  F.C. Berger   </author>::line_number::1
+<author> Th.P. van der Weide n   </author>::line_number::2
+<author>  P.J.M. Frederiks, A.H.M. ter Hofstede, E. Lippe   </author>::line_number::3
+<author>  Ulrich Nehmzow   </author>::line_number::2
+<author>  Carl Owen and Ulrich Nehmzow   </author>::line_number::1
+<author>  Ulrich Nehmzow   </author>::line_number::1
+<author>  Thomas G. Dietterich and Ghulum Bakiri   </author>::line_number::3
+<author>  Tim Goodman   </author>::line_number::2
+<author>  Jorg Peters 1   </author>::line_number::7
+<author>  Jorg Peters Ulrich Reif    </author>::line_number::2
+<author>  Ed Yampratoom James F. Allen   </author>::line_number::1
+<author>  David R. Traum 1 and Peter A. Heeman 2   </author>::line_number::1
+<author>  Judy Goldsmith 1   </author>::line_number::1
+<author>  Mitsunori Ogihara 2   </author>::line_number::6
+<author>  Jorg Rothe 3   </author>::line_number::11
+<author>  Maged M. Michael   </author>::line_number::3
+<author>  Michael L. Scott   </author>::line_number::8
+<author>  Eric Allender, Danilo Bruschi  </author>::line_number::2
+<author> and Giovanni Pighizzini   </author>::line_number::3
+<author>  Radford M. Neal   </author>::line_number::1
+<author>  Geoffrey E. Hinton and Zoubin Ghahramani   </author>::line_number::2
+<author>  Zoubin Ghahramani and Geoffrey E. Hinton   </author>::line_number::4
+<author>  by  </author>::line_number::2
+<author> David C. Dolson   </author>::line_number::3
+<author>  Stephen A. Fenner    </author>::line_number::1
+<author>  Lance J. Fortnow   </author>::line_number::6
+<author> Stuart A. Kurtz   </author>::line_number::7
+<author>  Divyakant Agrawal Manhoi Choy Hong Va Leong Ambuj K. Singh   </author>::line_number::1
+<author>  Michael O. Duff   </author>::line_number::1
+<author>  Richard S. Sutton   </author>::line_number::1
+<author>  Doina Precup   </author>::line_number::6
+<author>  Satinder Singh   </author>::line_number::11
+<author>  Tim Oates and Paul R. Cohen   </author>::line_number::3
+<author>  Alan Garvey Victor Lesser   </author>::line_number::1
+<author>  Alan Garvey   </author>::line_number::1
+<author>  Victor Lesser   </author>::line_number::6
+<author>  Mary W. Hall Ken Kennedy Kathryn S. M c Kinley   </author>::line_number::1
+<author>  Victor Lesser, Hamid Nawab ,  </author>::line_number::2
+<author> Malini Bhandaru, Norman Carver,  </author>::line_number::3
+<author> Zarko Cvetanovic, Izaskun Gallastegi,  </author>::line_number::4
+<author> Frank Klassner   </author>::line_number::5
+<author>  William C. Regli    </author>::line_number::1
+<author>  Satyandra K. Gupta   </author>::line_number::7
+<author>  Dana S. Nau   </author>::line_number::14
+<author>  Dheeraj Sanghi and Ashok K. Agrawala   </author>::line_number::1
+<author>  G. W. Stewart    </author>::line_number::5
+<author>  Charles Falkenberg, Paul Hagger and Steve Kelley   </author>::line_number::2
+<author>  Cengiz Alaettinoglu, A. Udaya Shankar   </author>::line_number::2
+<author>  Peter Tino a;b , Bill G. Horne b , C. Lee Giles b;c   </author>::line_number::2
+<author>  G. W. Stewart    </author>::line_number::5
+<author>  Pete Keleher   </author>::line_number::2
+<author>  Hong Liu Jun-Cheol Park Raymond E. Miller   </author>::line_number::1
+<author>  Marwan Krunz and Satish Tripathi   </author>::line_number::2
+<author>  Jason Ellis, Anne Rose, Catherine Plaisant   </author>::line_number::3
+<author>  Donald L. Stone Kevin Jeffay   </author>::line_number::2
+<author>  James H. Anderson Srikanth Ramamurthy Kevin Jeffay   </author>::line_number::1
+<author>  Jonathan P. Munson and Prasun Dewan   </author>::line_number::1
+<author>  Maria Wolters (i) and Antal van den Bosch (ii)   </author>::line_number::5
+<author>  Poppelsdorfer Allee 47, 53113 Bonn, Germany   </author>::line_number::7
+<author>  PO Box 616, 6200 MD Maastricht, The Netherlands   </author>::line_number::10
+<author>  Douglas B. Orr, Robert W. Mecklenburg and Ravindra Kuramkote   </author>::line_number::1
+<author>  J. H. Jacobs  </author>::line_number::4
+<author> M. R. Swanson  </author>::line_number::5
+<author> R. R. Kessler   </author>::line_number::6
+<author>  Kenneth L. Albin, Bishop C. Brock,  </author>::line_number::1
+<author> Warren A. Hunt, Jr., Lawrence M. Smith   </author>::line_number::2
+<author>  @authorbox(Myung Won Kim)   </author>::line_number::3
+<author>  Chung Kei Wong Mohamed Gouda Simon S. Lam   </author>::line_number::1
+<author>  Tara A. Estlin   </author>::line_number::2
+<author>  Don Batory   </author>::line_number::1
+<author>  Jayadev Misra    </author>::line_number::2
+<author>  William Adams    </author>::line_number::1
+<author>  Vasilis Samoladas Daniel P. Miranker   </author>::line_number::1
+<author>  Robert-Paul Berretty   University of Utrecht,    Utrecht, The Netherlands   </author>::line_number::1
+<author>  Ken Goldberg   University of California at Berkeley,   CA, USA   </author>::line_number::2
+<author>  Mark H. Overmars   University of Utrecht,    Utrecht, The Netherlands   </author>::line_number::3
+<author>  A. Frank van der Stappen   University of Utrecht,   Utrecht, The Netherlands   </author>::line_number::4
+<author>  Jorg Liebeherr Ian F. Akyildiz Debapriya Sarkar ?   </author>::line_number::3
+<author>  Jane C. Prey James P. Cohoon Greg Fife   </author>::line_number::3
+<author>  Paul F. Reynolds, Jr.  </author>::line_number::1
+<author> Craig Williams  </author>::line_number::2
+<author> Raymond R. Wagner, Jr.   </author>::line_number::3
+<author>  Bob Cmelik   </author>::line_number::2
+<author>  David Keppel   </author>::line_number::5
+<author>  Theodore H. Romer  </author>::line_number::3
+<author> Dennis Lee  </author>::line_number::4
+<author> Brian N. Bershad   </author>::line_number::5
+<author>  J. Bradley Chen   </author>::line_number::11
+<author>  E Christopher Lewis Calvin Lin Lawrence Snyder George Turkiyyah    </author>::line_number::1
+<author>  Tod Amon, Henrik Hulgaard, Gaetano Borriello, Steve Burns   </author>::line_number::2
+<author>  Michael J. Feeley, Jeffrey S. Chase, and Edward D. Lazowska   </author>::line_number::1
+<author>  Peter Haddawy 1 , Steve Hanks   </author>::line_number::2
+<author>  Elizabeth Walkup, Gaetano Borriello   </author>::line_number::2
+<author>   Jonathan Shade Dani Lischinski David H. Salesin  </author>::line_number::2
+<author> Tony DeRose John Snyder    </author>::line_number::3
+<author>  Kari Pulli   </author>::line_number::1
+<author>  Mark Segal   </author>::line_number::4
+<author>  Alfred V. Aho   </author>::line_number::1
+<author>  David S. Johnson   </author>::line_number::4
+<author>  Richard M. Karp (Chair)   </author>::line_number::7
+<author>  S. Rao Kosaraju   </author>::line_number::10
+<author>  Catherine C. McGeoch   </author>::line_number::12
+<author>  Christos H. Papadimitriou   </author>::line_number::14
+<author>  Pavel Pevzner   </author>::line_number::16
+<author>  Juan Alemany and Jayram S. Thathachar   </author>::line_number::2
+<author>  Greg J. Badros Alan Borning   </author>::line_number::2
+<author>  Carl de Boor   </author>::line_number::2
+<author>  Carl de Boor 1 & Amos Ron   </author>::line_number::1
+<author>  Kiriakos N. Kutulakos Charles R. Dyer   </author>::line_number::1
+<author>  Kevin J. Cherkauer   </author>::line_number::4
+<author>  Sanjay Jain   </author>::line_number::1
+<author>  Arun Sharma   </author>::line_number::6
+<author>  O. L. Mangasarian    </author>::line_number::1
+<author>  P. S. Bradley and O. L. Mangasarian W. N. Street   </author>::line_number::1
+<author>  By  </author>::line_number::3
+<author> Paul S. Bradley   </author>::line_number::4
+<author>  Todd M. Austin Gurindar S. Sohi   </author>::line_number::2
+<author>  M. C. FERRIS AND O. L. MANGASARIAN    </author>::line_number::1
+<author>   SHAHRAM GHANDEHARIZADEH , ROBERT R. MEYER , GARY L. SCHULTZ AND  </author>::line_number::2
+<author> JONATHAN YACKEL    </author>::line_number::3
+<author>  By  </author>::line_number::2
+<author> Menglin Cao   </author>::line_number::3
+<author>  Robert E. Kinicki  </author>::line_number::2
+<author> Craig E. Wills   </author>::line_number::3
+<author>  J. P. Hespanha, Z. Dodds, G. D. Hager, and A. S. Morse   </author>::line_number::2
+<author>   Christian Cl emencon Karsten M. Decker Vaibhav R. Deshpande  </author>::line_number::4
+<author> Akiyoshi Endo Josef Fritscher Paulo A. R. Lorenzo  </author>::line_number::5
+<author> Norio Masuda Andreas Muller Roland R uhl  </author>::line_number::6
+<author> William Sawyer Brian J. N. Wylie Frank Zimmermann    </author>::line_number::7
+<author>  Neli P. Zlatareva   </author>::line_number::1
+<author>  HO, Kei Shiu Edward and CHAN, Lai Wan   </author>::line_number::2
+<author>  Tim Menzies   </author>::line_number::1
+<author>  Michael Harries   </author>::line_number::2
+<author>  Kim Horn   </author>::line_number::7
+<author>  Peter Grunwald   </author>::line_number::1
+<author>   Petri Kontkanen, Petri Myllymaki,  </author>::line_number::7
+<author> Tomi Silander, Henry Tirri  </author>::line_number::8
+<author>  </author>::line_number::9
+<author>  Emanuel G. Noik   </author>::line_number::1
+<author>  Marco Comini 1 , Giorgio Levi 1 , Maria Chiara Meo 2 , and Giuliana Vitiello 3   </author>::line_number::2
+<author>  Yuri Gurevich and James K. Huggins    </author>::line_number::1
+<author>  Giuseppe Del Castillo 1 , Igor D - urd -anovic 2 , Uwe Glasser 1   </author>::line_number::1
+<author>  Egon Borger 1 and Wolfram Schulte 2   </author>::line_number::2
+<author>  Christoph Beierle, Egon Borger, Igor D - urd -anovic, Uwe Glasser, Elvinia  </author>::line_number::3
+<author> Riccobene   </author>::line_number::4
+<author>  Piotr J. Gmytrasiewicz and Edmund H. Durfee    </author>::line_number::2
+<author>  Marcus J. Huber  </author>::line_number::2
+<author> Edmund H. Durfee   </author>::line_number::3
+<author>  Edmund H. Durfee and Thomas A. Montgomery   </author>::line_number::1
+<author>  Stephen R. Titus, Alfred O. Hero III, Jeffrey A. Fessler   </author>::line_number::2
+<author>  Marcus J. Huber  </author>::line_number::2
+<author> Edmund H. Durfee   </author>::line_number::3
+<author>  Yun-Wu Huangy, Ning Jingz, and Elke A. Rundensteinery   </author>::line_number::3
+<author>  Yun-Wu Huangy, Ning Jingz, and Elke A. Rundensteinery   </author>::line_number::2
+<author>  Ning Jing    </author>::line_number::2
+<author>  Yun-Wu Huang   </author>::line_number::5
+<author>  Elke A. Rundensteiner   </author>::line_number::8
+<author>  Peter R. Wurman and Michael P. Wellman   </author>::line_number::3
+<author>  James P. Hobert    </author>::line_number::2
+<author>  C. P. Robert   </author>::line_number::7
+<author>  Jiawei Han and Yongjian Fu   </author>::line_number::2
+<author>  Eithan Ephrati  </author>::line_number::1
+<author> Jeffrey S. Rosenschein   </author>::line_number::2
+<author>  </author>::line_number::3
+<author>  Philip M. Johnson   </author>::line_number::2
+<author>  Dadong Wan   </author>::line_number::2
+<author>  Philip M. Johnson   </author>::line_number::7
+<author>  Karl Aberer    </author>::line_number::4
+<author>  Jordan Zlatev    </author>::line_number::3
+<author>  Elias Dahlhaus 1  </author>::line_number::4
+<author> Marek Karpinski 2  </author>::line_number::5
+<author> Peter Kelsen 3   </author>::line_number::6
+<author>  Richard M. Karp    </author>::line_number::2
+<author>  Michael Luby    </author>::line_number::5
+<author>  Friedhelm Meyer auf der Heide    </author>::line_number::8
+<author>  Vineet Gupta Peter Struss    </author>::line_number::3
+<author>  Micah Adler John W Byers Richard M Karp    </author>::line_number::2
+<author>  Edward W. Knightly and Paola Rossaro   </author>::line_number::4
+<author>  M.A. Shokrollahi   </author>::line_number::5
+<author>  Roya Ulrich and Pieter Kritzinger    </author>::line_number::5
+<author>  Bernd Sturmfels and Markus Wiegelmann   </author>::line_number::4
+<author>  Roya Ulrich   </author>::line_number::4
+<author>  Martin Bernhardt   </author>::line_number::3
+<author>  Piotr Berman   </author>::line_number::2
+<author> Moses Charikar   </author>::line_number::3
+<author> Marek Karpinski    </author>::line_number::4
+<author>  Choong-Ho Yi   </author>::line_number::2
+<author>  Rafa l Sa lustowicz, Marco Wiering, Jurgen Schmidhuber   </author>::line_number::1
+<author>  John Granacki and Tauseef Kazi   </author>::line_number::6
+<author>  Benjamin D. Smith   </author>::line_number::1
+<author>  Paul S. Rosenbloom   </author>::line_number::7
+<author>  Ismail Taha and Joydeep Ghosh   </author>::line_number::2
+<author>  Kenneth E. Kinnear, Jr.   </author>::line_number::2
+<author>  Tze-Yun Leong   </author>::line_number::2
+<author>  Henry G. Baker   </author>::line_number::4
+<author>  R. Urbanczik   </author>::line_number::1
+<author>  Atul Adya Robert Gruber Barbara Liskov Umesh Maheshwari   </author>::line_number::3
+<author>  John S. Breese  </author>::line_number::2
+<author> David Heckerman   </author>::line_number::3
+<author>  Erik Ruf   </author>::line_number::2
+<author>  Kristin P. Bennett   </author>::line_number::2
+<author>  by  </author>::line_number::8
+<author> Grace Wahba and Yuedong Wang   </author>::line_number::9
+<author>  Bonnie J. Dorr    </author>::line_number::2
+<author>  Terry Gaasterland    </author>::line_number::7
+<author>  CLARE VOSS   voss@cs.umd.edu   </author>::line_number::3
+<author>  BONNIE J. DORR   bonnie@cs.umd.edu   </author>::line_number::4
+<author>  by  </author>::line_number::3
+<author> Douglas Arnold Jones   </author>::line_number::4
+<author>  Douglas Arnold Jones   </author>::line_number::12
+<author>  E. BLANZIERI , P. KATENKAMP flfl and A. GIORDANA flflfl   </author>::line_number::1
+<author>  STEFAN M UNCH    </author>::line_number::1
+<author>  Sridhar Pingali   </author>::line_number::2
+<author>  James F. Kurose   </author>::line_number::6
+<author>  Dan Rubenstein, Jim Kurose, and Don Towsley   </author>::line_number::1
+<author>  James D. Salehi, James F. Kurose, and Don Towsley   </author>::line_number::2
+<author>  Henning Schulzrinne James F. Kurose and Donald F. Towsley   </author>::line_number::1
+<author>  James D. Salehi, Zhi-Li Zhang, James F. Kurose, and Don Towsley   </author>::line_number::2
+<author>  Blaz Zupan and Saso Dzeroski   </author>::line_number::3
+<author>  Douglas C. Burger, Rahmat S. Hyder, Barton P. Miller, David A. Wood   </author>::line_number::3
+<author>   Yuan-Shin Hwang 1 Bongki Moon 1 Shamik Sharma 1 Raja Das 1  </author>::line_number::2
+<author> Joel Saltz 1   </author>::line_number::3
+<author>  Ravi Ponnusamy yz Yuan-Shin Hwang Raja Das   </author>::line_number::2
+<author> Joel Saltz Alok Choudhary Geoffrey Fox    </author>::line_number::3
+<author>  Edoardo Charbon, Ranjit Gharpurey ,  </author>::line_number::2
+<author> Robert G. Meyer , and Alberto Sangiovanni-Vincentelli    </author>::line_number::3
+<author>  by  </author>::line_number::1
+<author> Jagesh V. Sanghavi   </author>::line_number::2
+<author>  Ton Weijters 1 , Antal van den Bosch 2 , and Jaap van den Herik 3   </author>::line_number::1
+<author>  A. Biancardi, V. Cantoni, M. Ferretti and M. Mosconi   </author>::line_number::1
+<author>  Alberto Colorni   </author>::line_number::3
+<author>  Marco Dorigo   </author>::line_number::11
+<author>  Vittorio Maniezzo   </author>::line_number::20
+<author>    Henrik Hautop Lund Domenico Parisi   </author>::line_number::1
+<author>  Brian R. Gaines, Douglas H. Norrie and Mildred L. G. Shaw   </author>::line_number::1
+<author>  Guruduth Banavar Douglas Orr Gary Lindstrom   </author>::line_number::2
+<author>  by Daniel J. SARGENT 1 , James S. HODGES 2 , and Bradley P. CARLIN 2   </author>::line_number::1
+<author>  Colin Parris, Hui Zhang , and Domenico Ferrari   </author>::line_number::2
+<author>  Alberto Belussi   </author>::line_number::2
+<author>  Christos Faloutsos    </author>::line_number::7
+<author>  Padhraic Smyth, David Heckerman, and Michael Jordan   </author>::line_number::9
+<author>  Yan Xiao Paul Milgram   </author>::line_number::3
+<author>  Federico Girosi and Tomaso Poggio   </author>::line_number::8
+<author>  by  </author>::line_number::1
+<author> Jerry E. Pratt   </author>::line_number::2
+<author>  Jonathan E. Hazan  </author>::line_number::0
+<author> and Richard G. Morgan   </author>::line_number::1
+<author>  Dilip D. Kandlur, Kang G. Shin   </author>::line_number::1
+<author>  Domenico Ferrari   </author>::line_number::7
+<author>  Michael Stonebraker   </author>::line_number::1
+<author>  Pai H. Chou Ross B. Ortega Gaetano Borriello   </author>::line_number::1
+<author>  Lorie M. Liebrock  </author>::line_number::2
+<author> Ken Kennedy   </author>::line_number::3
+<author>  Alain Sei and William Symes    </author>::line_number::2
+<author>  K. Mani Chandy Ian Foster    </author>::line_number::1
+<author>  J. E. Dennis Lus N. Vicente    </author>::line_number::2
+<author>  by  </author>::line_number::4
+<author> Gerald H. Roth   </author>::line_number::5
+<author>  Eldar Giladi    </author>::line_number::2
+<author>  Herbert B. Keller    </author>::line_number::5
+<author>  Tim L. Andersen and Tony R. Martinez   </author>::line_number::4
+<author>  D. Randall Wilson, Tony R. Martinez   </author>::line_number::3
+<author>  by  </author>::line_number::1
+<author> Matteo Frigo   </author>::line_number::2
+<author>  Mihir Bellare Oded Goldreich Shafi Goldwasser    </author>::line_number::1
+<author>  Benny Chor Oded Goldreich flfl   </author>::line_number::1
+<author>  Oded Goldreich Noam Nisan Avi Wigderson x   </author>::line_number::1
+<author>  Alan Fekete David Gupta Victor Luchangco Nancy Lynch Alex Shvartsman    </author>::line_number::1
+<author>  Ran Canetti Rosario Gennaro    </author>::line_number::2
+<author>  Yair Frankel Peter Gemmell Philip D. MacKenzie Moti Yung x   </author>::line_number::1
+<author>  Nancy Lynch   </author>::line_number::2
+<author>  Frits Vaandrager   </author>::line_number::8
+<author>  Irfan A. Essa and Alex P. Pentland   </author>::line_number::3
+<author>  Rosalind W. Picard   </author>::line_number::3
+<author>  Tanzeem Choudhury, Brian Clarkson, Tony Jebara, Alex Pentland   </author>::line_number::2
+<author>  Mitch Cherniack   </author>::line_number::2
+<author>  Ender Ozcan and Chilukuri K. Mohan   </author>::line_number::2
+<author>  Alex Borgida   </author>::line_number::2
+<author>  Louis Ibarra   </author>::line_number::1
+<author>  Andrew Y. Cheng   </author>::line_number::1
+<author>  Ming Ouyang   </author>::line_number::3
+<author>  Jie Cheng, David A. Bell, Weiru Liu   </author>::line_number::1
+<author>  Joshua Grass and Shlomo Zilberstein   </author>::line_number::1
+<author>  Arvind Krishnamurthy , Klaus E. Schauser , Chris J. Scheiman ,  </author>::line_number::2
+<author> Randolph Y. Wang , David E. Culler , and Katherine Yelick    </author>::line_number::3
+<author>  Jason Cong and Chang Wu   </author>::line_number::2
+<author>  Extended Capabilities for  </author>::line_number::0
+<author> Visual Cryptography   </author>::line_number::1
+<author>   Giuseppe Ateniese 1 , Carlo Blundo 2 , Alfredo De Santis 2 , and Douglas R. Stinson 3    </author>::line_number::2
+<author>  * G. Jiang  </author>::line_number::2
+<author> * H. Henein  </author>::line_number::3
+<author> and  </author>::line_number::4
+<author> ** M.W. Siegel   </author>::line_number::5
+<author>  Chris Seher 1 , Mel Siegel 2 , and William M. Kaufman 3   </author>::line_number::5
+<author>  by  </author>::line_number::10
+<author> Jeffrey Scott McVeigh   </author>::line_number::11
+<author>  Dunja Mladenic and Marko Grobelnik   </author>::line_number::1
+<author>  Mads Tofte,   Department of Computer Science, University of Copenhagen   </author>::line_number::1
+<author>  Lars Birkedal,   School of Computer Science, Carnegie Mellon University   </author>::line_number::2
+<author>  David Garlan and Mary Shaw   </author>::line_number::1
+<author>  M. Satyanarayanan   </author>::line_number::2
+<author>  Brian D. Noble, M. Satyanarayanan, Dushyanth Narayanan, James Eric Tilton, Jason Flinn, Kevin R. Walker   </author>::line_number::2
+<author>  Scott Draves   </author>::line_number::2
+<author>  M.Woszczyna, N.Coccaro, A.Eisele, A.Lavie, A.McNair, T.Polzin, I.Rogina,  </author>::line_number::2
+<author> C.P.Rose,T.Sloboda, M.Tomita, J.Tsutsumi, N.Aoki-Waibel, A.Waibel, W. Ward   </author>::line_number::3
+<author>  Mei Chen, Todd Jochem, Dean Pomerleau   </author>::line_number::2
+<author>  David S. Lees   </author>::line_number::2
+<author> Gregory S. Chirikjian    </author>::line_number::3
+<author>  Saman P. Amarasinghe, Jennifer M. Anderson,  </author>::line_number::2
+<author> Monica S. Lam and Amy W. Lim   </author>::line_number::3
+<author>  K. Mani Chandy Carl Kesselman   </author>::line_number::3
+<author>  Herbert Praehofer and Gernot Reisinger   </author>::line_number::1
+<author>  Yuan Shi   </author>::line_number::3
+<author>  Attila Gursoy and L.V.Kale   </author>::line_number::1
+<author>  Amitabh B. Sinha Laxmikant V. Kale   </author>::line_number::1
+<author>  Howard Robert Turtle   </author>::line_number::3
+<author>  Chia-Shiang Shih and Asit Dan   </author>::line_number::2
+<author>  Walter H. Kohler    </author>::line_number::5
+<author>  John A. Stankovic and Don Towsley   </author>::line_number::9
+<author>  Lisa Ballesteros   </author>::line_number::1
+<author>  W. Bruce Croft   </author>::line_number::8
+<author>  S. Ravela and R. Manmatha   </author>::line_number::1
+<author>  Pankaj K. Agarwal Jeff Erickson Leonidas J. Guibas    </author>::line_number::3
+<author>  David Eppstein Jeff Erickson    </author>::line_number::2
+<author>  Yair Amir, Danny Dolev, Shlomo Kramer, Dalia Malki   </author>::line_number::3
+<author>  Daphna Weinshall   </author>::line_number::2
+<author>  P. Anandan   </author>::line_number::7
+<author>  Micahl Irani   </author>::line_number::12
+<author>  Doug Fisher   </author>::line_number::3
+<author>  Joseph M. Hellerstein    </author>::line_number::1
+<author>  Elias Koutsoupias    </author>::line_number::5
+<author>  Christos H. Papadimitriou    </author>::line_number::9
+<author>  V. Richard Benjamins 3,4 , Enric Plaza 4 , Enrico Motta 2 , Dieter Fensel 1 , Rudi Studer 1 , Bob Wielinga 3 ,  </author>::line_number::4
+<author> Guus Schreiber 3 , Zdenek Zdrahal 2 and Stefan Decker 1    </author>::line_number::5
+<author>  by  </author>::line_number::4
+<author> Shmuel Onn 1   </author>::line_number::5
+<author>  John Hershberger   </author>::line_number::2
+<author>  Subhash Suri   </author>::line_number::6
+<author>  Philip N. Klein   </author>::line_number::2
+<author> Robert E. Tarjan    </author>::line_number::3
+<author>  Michael Luby Dana Randall Alistair Sinclair    </author>::line_number::2
+<author>  BY  </author>::line_number::2
+<author> MAHESH SUBRAMANIAM   </author>::line_number::3
+<author>  Hongzhou Ma, Inderjeet Singh, Jonathan Turner   </author>::line_number::2
+<author>  Lixin Gao Dawn E. Gregory Arnold L. Rosenberg Paul R. Cohen   </author>::line_number::2
+<author>  Arthur L. Corcoran Sandip Sen   </author>::line_number::2
+<author>  Thomas E. Anderson, Henry M. Levy, Brian N. Bershad, and Edward D. Lazowska   </author>::line_number::2
+<author>  Leonard N. Foner   </author>::line_number::1
+<author>  Mark Lillibridge   </author>::line_number::2
+<author>  Peter Lee Mark Leone   </author>::line_number::1
+<author>  Seth Hutchinson   </author>::line_number::1
+<author>  Greg Hager   </author>::line_number::8
+<author>  Peter Corke   </author>::line_number::14
+<author>  Marios Papaefthymiou   </author>::line_number::1
+<author>  Joe Rodrigue   </author>::line_number::5
+<author>  Padhraic Smyth   </author>::line_number::2
+<author>  I.A. Shah A.A.C. Kalker   </author>::line_number::2
+<author>  Jennifer W. Glos and Marina Umaschi   </author>::line_number::2
+<author>  by Matt Blum, Krzysztof Gajos, Manolis Kamvysselis, Hooman Vassef    </author>::line_number::1
+<author>  Mario Lauria    </author>::line_number::2
+<author>  Andrew Chien   </author>::line_number::8
+<author>  David Keppel   </author>::line_number::1
+<author>  Andy Hisgen, Andrew Birrell, Charles Jerian,  </author>::line_number::3
+<author> Timothy Mann, Garret Swart   </author>::line_number::4
+<author>  Luca Cardelli, Florian Matthes, and Martn Abadi   </author>::line_number::5
+<author>  D.A. Forsyth J.L. Mundy A. Zisserman C.A. Rothwell   </author>::line_number::2
+<author>  Michael D. Dahlin   </author>::line_number::3
+<author>  Richard J. Fateman   </author>::line_number::2
+<author>  Antonio Ortega ,   </author>::line_number::2
+<author>  Zhensheng Zhang,   </author>::line_number::6
+<author>  Martin Vetterli   </author>::line_number::9
+<author>  Brad Calder and Dirk Grunwald    </author>::line_number::1
+<author>  David E. Culler  </author>::line_number::1
+<author> Seth Copen Goldstein  </author>::line_number::2
+<author> Klaus Erik Schauser  </author>::line_number::3
+<author> Thorsten von Eicken   </author>::line_number::4
+<author>  Srinivasan Seshan   </author>::line_number::4
+<author>  David Koufaty 2 and Josep Torrellas   </author>::line_number::2
+<author>  Liuxi Yang and Josep Torrellas   </author>::line_number::2
+<author>  Peter B. Ladkin Stefan Leue   </author>::line_number::2
+<author>   Jens Grabowski, Dieter Hogrefe  </author>::line_number::2
+<author> Robert Nahm, Andreas Spichiger   </author>::line_number::3
+<author>  Jens Grabowski   </author>::line_number::2
+<author>  Brian C. Williams and Bill Millar   </author>::line_number::1
+<author>  Ralf Herbrich and Tobias Scheffer   </author>::line_number::2
+<author>  Kristina Schadler, Ute Schmid, Hendrik Lubben, Bernd  </author>::line_number::2
+<author> Machenschalk   </author>::line_number::3
+<author>  K. L. Cartwright , J. P. Verboncoeur , and C. K.Birdsall    </author>::line_number::3
+<author>  K. L. Cartwright and C. K. Birdsall   </author>::line_number::1
+<author>  Chung Yung   </author>::line_number::2
+<author>  Nathaniel Rockwood Bogan   </author>::line_number::2
+<author>  Dietrich Wettschereck and Thomas Dietterich   </author>::line_number::2
+<author>  Eric Anderson   </author>::line_number::1
+<author>  K. Hagino, 1 N. Takigawa, 1 , A.B. Balantekin 2 , and J.R. Bennett 3   </author>::line_number::2
+<author>  Shangping Ren and Gul A. Agha   </author>::line_number::3
+<author>  Mark Astley and Gul A. Agha    </author>::line_number::1
+<author>  Richard J. Edell, Nick McKeown and Pravin P. Varaiya   </author>::line_number::2
+<author>  Gary M. Weiss  </author>::line_number::5
+<author> and Haym Hirsh   </author>::line_number::6
+<author>  J. K. Aggarwal, Joydeep Ghosh, Dinesh Nair and Ismail Taha   </author>::line_number::3
+<author>  Ismail Taha and Joydeep Ghosh   </author>::line_number::2
+<author>  Jerome H. Friedman   </author>::line_number::1
+<author>  by Patrick Warner   </author>::line_number::2
+<author>  by  </author>::line_number::6
+<author> Alain Girault, Bilung Lee, and Edward A. Lee   </author>::line_number::7
+<author>  T. M. Parks   </author>::line_number::2
+<author>  C. J. Tomlin and S. S. Sastry   </author>::line_number::1
+<author>  John Lygeros, Datta Godbole & Shankar Sastry   </author>::line_number::1
+<author>  Tak-Kuen John Koo   </author>::line_number::1
+<author>  S. Sastry, G. Meyer , C. Tomlin, J. Lygeros, D. Godbole and G. Pappas   </author>::line_number::1
+<author>  John Lygeros, Datta N. Godbole, Mireille Broucke   </author>::line_number::2
+<author>  Yi Ma Jana Kosecka Shankar Sastry x   </author>::line_number::2
+<author>  Tak-Kuen John Koo  </author>::line_number::1
+<author> Yi Ma  </author>::line_number::2
+<author> George J. Pappas  </author>::line_number::3
+<author> Claire Tomlin   </author>::line_number::4
+<author>  Stan Birchfield Carlo Tomasi   </author>::line_number::1
+<author>  By  </author>::line_number::8
+<author> Daphne Koller   </author>::line_number::9
+<author>  Cliff Brunk James Kelly Ron Kohavi   </author>::line_number::2
+<author>  Michael Stonebraker, Jolly Chen, Nobuko Nathan, Caroline Paxson, Jiang Wu   </author>::line_number::2
+<author>  Paul Brown   </author>::line_number::2
+<author>  Michael Stonebraker   </author>::line_number::5
+<author>  Prem Devanbu   </author>::line_number::1
+<author>  Laura Eaves   </author>::line_number::4
+<author>  Premkumar T. Devanbu & Mark A. Jones   </author>::line_number::2
+<author>  Margo I. Seltzer, Yasuhiro Endo, Christopher Small, Keith A. Smith   </author>::line_number::11
+<author>  Weilan Wu, Stan C. Kwasny, Barry L. Kalman, E. Maynard Engebretson   </author>::line_number::3
+<author>  Yuri Boykov Olga Veksler Ramin Zabih    </author>::line_number::2
+<author>  Yuri Boykov   </author>::line_number::2
+<author>  Klaus Renzel   </author>::line_number::4
+<author>  Bobby Woolf   </author>::line_number::2
+<author>  Parke Godfrey   </author>::line_number::1
+<author>  Jarek Gryz   </author>::line_number::7
+<author>  Roberto De Prisco ? , Butler Lampson, Nancy Lynch   </author>::line_number::1
+<author>  David R. Karger and Matthew S. Levine    </author>::line_number::2
+<author>  Stephen Ponzio    </author>::line_number::2
+<author>  Ronald L. Rivest   </author>::line_number::1
+<author>  Sivan Toledo Fred G. Gustavson   </author>::line_number::2
+<author>  Volker Strumpen    </author>::line_number::1
+<author>  Robert Tibshirani    </author>::line_number::1
+<author>  Christopher Jaynes Frank Stolle Robert Collins   </author>::line_number::2
+<author>  Chahab Nastar, Baback Moghaddam and Alex Pentland   </author>::line_number::4
+<author>  James Davis Mubarak Shah   </author>::line_number::1
+<author>  Andrew B. Kahng, Gabriel Robins and Elizabeth A. Walkup    </author>::line_number::2
+<author>  Andrew B. Kahng and Sudhakar Muddu   </author>::line_number::1
+<author>  Andrew B. Kahng Sudhakar Muddu   </author>::line_number::1
+<author>  Andrew B. Kahng, Stefanus Mantik, Igor L. Markov, Miodrag Potkonjak,  </author>::line_number::1
+<author> Paul Tucker , Huijuan Wang and Gregory Wolfe   </author>::line_number::2
+<author>  Marcel Kornacker    </author>::line_number::1
+<author>  C. Mohan   </author>::line_number::6
+<author>  Joseph M. Hellerstein   </author>::line_number::11
+<author>  G. Kesidis   </author>::line_number::2
+<author>  J. Walrand   </author>::line_number::4
+<author>  David J.C. MacKay   </author>::line_number::3
+<author>  Arlindo L. Oliveira   </author>::line_number::2
+<author> Alberto Sangiovanni-Vincentelli   </author>::line_number::3
+<author>  AYMAN M. WAHBA AND DOMINIQUE BORRIONE   </author>::line_number::3
+<author>   Robert K. Brayton Gary D. Hachtel Alberto Sangiovanni-Vincentelli   </author>::line_number::1
+<author> Fabio Somenzi Adnan Aziz Szu-Tsung Cheng Stephen Edwards Sunil Khatri   </author>::line_number::2
+<author> Yuji Kukimoto Abelardo Pardo Shaz Qadeer Rajeev K. Ranjan   </author>::line_number::3
+<author> Shaker Sarwary Thomas R. Shiple Gitanjali Swamy Tiziano Villa    </author>::line_number::4
+<author>  Ellen M. Sentovich, Horia Toma, Gerard Berry   </author>::line_number::3
+<author>   Philip Chong  13327872   </author>::line_number::2
+<author>  T.A. Henzinger S. Qadeer S.K. Rajamani S. Ta~sran   </author>::line_number::1
+<author>  Jitendra Padhye Victor Firoiu Don Towsley Jim Kurose   </author>::line_number::2
+<author>  G. Alonso, C. Mohan, R. Gunthor   </author>::line_number::3
+<author>  D. Agrawal, A. El Abbadi   </author>::line_number::7
+<author>  M. Kamath   </author>::line_number::11
+<author>  John R. Koza   </author>::line_number::3
+<author>  Forrest H Bennett III   </author>::line_number::10
+<author>  Jason Lohn   </author>::line_number::16
+<author>  Frank Dunlap   </author>::line_number::22
+<author>  Martin A. Keane   </author>::line_number::25
+<author>  David Andre   </author>::line_number::30
+<author>  Andrew A. Chien and Jae H. Kim   </author>::line_number::2
+<author>  Brian Bartell   </author>::line_number::1
+<author>  Garrison W. Cottrell    </author>::line_number::7
+<author>  Rik Belew   </author>::line_number::12
+<author>  Scott D. Anderson  </author>::line_number::1
+<author> Paul R. Cohen   </author>::line_number::2
+<author>  John Danskin    </author>::line_number::3
+<author>  Philippe Lacroute   </author>::line_number::2
+<author>  Marc Levoy   </author>::line_number::5
+<author>  David Laur and Pat Hanrahan   </author>::line_number::0
+<author>  John Danskin Pat Hanrahan   </author>::line_number::1
+<author>  Kari Pulli Tom Duchamp Hugues Hoppe   </author>::line_number::1
+<author> John McDonald Linda Shapiro Werner Stuetzle    </author>::line_number::2
+<author>  Robert Rodosek   </author>::line_number::1
+<author>  Mozafar T. Hajian   </author>::line_number::2
+<author>  M. Broucke and P. Varaiya 1   </author>::line_number::2
+<author>  Ke Shen , Lawrence A. Rowe and Edward J. Delp    </author>::line_number::2
+<author>  Maja J Mataric   </author>::line_number::1
+<author>  Koen Claessen   </author>::line_number::1
+<author>  Ton Vullinghs   </author>::line_number::4
+<author>  Erik Meijer   </author>::line_number::7
+<author>  NACHUM DERSHOWITZ   </author>::line_number::2
+<author>  Daniel A. Spielman    </author>::line_number::1
+<author>  Shang-Hua Teng    </author>::line_number::3
+<author>  Irene Langkilde and Kevin Knight   </author>::line_number::2
+<author>  Guy L. Steele Jr.   </author>::line_number::1
+<author>  Osama K. Al-Shaykh 1 Russell M. Mersereau 2   </author>::line_number::1
+<author>  I.A. Shah A.A.C. Kalker   </author>::line_number::2
+<author>  Vivek K Goyal   </author>::line_number::2
+<author>  Jelena Kovacevic   </author>::line_number::6
+<author>  Vivek K Goyal, Student Member, IEEE, Martin Vetterli, Fellow, IEEE,  </author>::line_number::4
+<author> and Nguyen T. Thao, Member, IEEE   </author>::line_number::5
+<author>  Erica Melis 1 and Alan Bundy 2   </author>::line_number::1
+<author>  Rodney A. Brooks   MIT Artificial Intelligence Laboratory   545 Technology Square Cambridge, MA 02139   brooks@ai.mit.edu   </author>::line_number::1
+<author>  David A. Cohn   </author>::line_number::3
+<author>  Satinder Singh   </author>::line_number::8
+<author>  Dan Halperin    </author>::line_number::2
+<author>  Christian R. Shelton    </author>::line_number::4
+<author>  David McAllester   </author>::line_number::1
+<author>  DAVID MCALLESTER and ROBERT GIVAN   </author>::line_number::1
+<author>  Paul A. Viola   </author>::line_number::6
+<author>  Kalanit Grill Spectory Shimon Edelmany Rafael Malachz   </author>::line_number::2
+<author>  Stephen J. J. Smith   </author>::line_number::1
+<author>  Dana S. Nau   </author>::line_number::6
+<author>  P. Fua   </author>::line_number::2
+<author>  Bosco S. Tjan, Leonard Breslow, Sait Dogru, Vijay Rajan,  </author>::line_number::2
+<author> Keith Rieck, James R. Slagle, and Marius O. Poliac   </author>::line_number::3
+<author>  David W. Aha & Li Wu Chang   </author>::line_number::2
+<author>  David W. Aha   </author>::line_number::1
+<author>  Richard L. Bankert   </author>::line_number::6
+<author>  MONI NAOR AND AVISHAI WOOL    </author>::line_number::2
+<author>  Robert Wahbe Steven Lucco Susan L. Graham    </author>::line_number::1
+<author>  Ian Lewin , Martin Russell , David Carter , Sue Browning , Keith Ponting and Stephen Pulman    </author>::line_number::3
+<author>  Manny Rayner 1 , David Carter 1 , Vassilios Digalakis 2 , Patti Price 2   </author>::line_number::3
+<author>  Mark Devaney and Ashwin Ram   </author>::line_number::3
+<author>  Juan Carlos Santamara and Ashwin Ram   </author>::line_number::1
+<author>  Natalya Fridman Noy  </author>::line_number::2
+<author> Carole D. Hafner   </author>::line_number::3
+<author>  Walter R. Gilks   </author>::line_number::2
+<author>  Gareth O. Roberts   </author>::line_number::6
+<author>  Sujit K. Sahu   </author>::line_number::10
+<author>  Edward W. Large  </author>::line_number::2
+<author> John F. Kolen   </author>::line_number::3
+<author>  Gregory J. Wiet 1,2 , Roni Yagel 3 , Don Stredney 2 , Petra Schmalbrock 4 ,   </author>::line_number::2
+<author>  Dennis J. Sessanna 2 , Yair Kurzion 3 , Louis Rosenberg 5 , Michael Levin 5 , Kenneth Martin 5   </author>::line_number::3
+<author>  Neelam Soundarajan   </author>::line_number::1
+<author>  Lyle H. Ungar and Dean P. Foster   </author>::line_number::1
+<author>  Rinaldo A. Jose and Lyle H. Ungar   </author>::line_number::2
+<author>  Robert J.K. Jacob  </author>::line_number::1
+<author> Linda E. Sibert  </author>::line_number::2
+<author> Daniel C. McFarlane  </author>::line_number::3
+<author> M. Preston Mullen, Jr.   </author>::line_number::4
+<author>  Keith Andrews   </author>::line_number::3
+<author>  Steven Feiner  </author>::line_number::3
+<author> Blair MacIntyre  </author>::line_number::4
+<author> Marcus Haupt  </author>::line_number::5
+<author> Eliot Solomon   </author>::line_number::6
+<author>  Cordelia Hall, Kevin Hammond, Simon Peyton Jones  </author>::line_number::1
+<author> and Philip Wadler   </author>::line_number::2
+<author>  Chris Thornton   </author>::line_number::1
+<author>  T.D. Bending D. Fon-Der-Flaass   </author>::line_number::2
+<author>  ROBERT E. PRINGLE BRIAN J. ROSS   </author>::line_number::1
+<author>  William Evans*   </author>::line_number::2
+<author>  Nicholas Pippenger**   </author>::line_number::7
+<author>  David Mosberger, Peter Druschel , and Larry L. Peterson    </author>::line_number::2
+<author>  Vanu Bose, Mike Ismert, Matt Welborn, John Guttag    </author>::line_number::1
+<author>  Alexander Aiken Edward L. Wimmers Jens Palsberg   </author>::line_number::2
+<author>  Nanette J. Boden, Danny Cohen, Robert E. Felderman,  </author>::line_number::3
+<author> Alan E. Kulawik, Charles L. Seitz, Jakov N. Seizovic, and Wen-King Su   </author>::line_number::4
+<author>  Peter Druschel  </author>::line_number::2
+<author> Mark B. Abbott  </author>::line_number::3
+<author> Michael A. Pagels  </author>::line_number::4
+<author> Larry L. Peterson    </author>::line_number::5
+<author>  Robert A. Gingell  </author>::line_number::1
+<author> Joseph P. Moran  </author>::line_number::2
+<author> William A. Shannon   </author>::line_number::3
+<author>  Yousef A. Khalidi  </author>::line_number::2
+<author> Vikram P. Joshi  </author>::line_number::3
+<author> Dock Williams   </author>::line_number::4
+<author>  Philip K. McKinley, Yih-jia Tsai, and David F. Robinson   </author>::line_number::2
+<author>  Arvind Krishnamurthy, David E. Culler, and Katherine Yelick   </author>::line_number::2
+<author>  David Beymer   </author>::line_number::2
+<author>  Joseph D. Darcy   </author>::line_number::0
+<author>  Paul E. Debevec Camillo J. Taylor Jitendra Malik   </author>::line_number::4
+<author>  by  </author>::line_number::3
+<author> Inderjit Singh Dhillon   </author>::line_number::4
+<author>  Joseph M. Hellerstein Jeffrey F. Naughton   </author>::line_number::1
+<author>  Brian Mirtich   </author>::line_number::1
+<author> John Canny    </author>::line_number::2
+<author>  Carleton Miyamoto   </author>::line_number::1
+<author>  Nir Friedman   </author>::line_number::1
+<author>  Joseph Y. Halpern   </author>::line_number::7
+<author>  Nir Friedman   </author>::line_number::1
+<author>  Joseph Y. Halpern   </author>::line_number::8
+<author>  Daphne Koller   </author>::line_number::13
+<author>  Ming C. Lin and John F. Canny   </author>::line_number::1
+<author>  Stefan Savage    </author>::line_number::1
+<author>  Michael Burrows Greg Nelson Patrick Sobalvarro   </author>::line_number::4
+<author>  Thomas Anderson   </author>::line_number::7
+<author>  Andrea C. Arpaci-Dusseau   </author>::line_number::1
+<author>  Remzi H. Arpaci-Dusseau   </author>::line_number::5
+<author>  David E. Culler   </author>::line_number::9
+<author>  Joseph M. Hellerstein   </author>::line_number::13
+<author>  David A. Patterson   </author>::line_number::17
+<author>  Kirby Zhang  </author>::line_number::1
+<author> Nathan Slingerland   </author>::line_number::2
+<author>  Remzi H. Arpaci, Andrea C. Dusseau, Amin M. Vahdat,  </author>::line_number::2
+<author> Lok T. Liu, Thomas E. Anderson, and David A. Patterson   </author>::line_number::3
+<author>  Tina H. Wong   </author>::line_number::2
+<author>  David Aldous    </author>::line_number::1
+<author>  Umesh Vazirani    </author>::line_number::5
+<author>  Michael Johnston x and Federica Busa    </author>::line_number::2
+<author>  Patrick D. Lincoln John C. Mitchell Andre Scedrov x   </author>::line_number::1
+<author>  Giuseppe Di Battista    </author>::line_number::3
+<author>  Roberto Tamassia    </author>::line_number::5
+<author>  Ashim Garg    </author>::line_number::11
+<author>  Emanuele Tassinari x   </author>::line_number::13
+<author>  Giuseppe Liotta   </author>::line_number::19
+<author>  Francesco Vargiu   </author>::line_number::21
+<author>  Mitch Cherniack   </author>::line_number::1
+<author>  Gail M. Shaw and Stanley B. Zdonik   </author>::line_number::1
+<author>  Bharathi Subramanian Theodore W. Leung   </author>::line_number::3
+<author>  Scott L. Vandenberg Stanley B. Zdonik   </author>::line_number::5
+<author>  Thomas Dean Shieu-Hong Lin   </author>::line_number::1
+<author>  Shieu-Hong Lin, Thomas Dean 1   </author>::line_number::3
+<author>  Milos Hauskrecht, Nicolas Meuleau  </author>::line_number::1
+<author> Leslie Pack Kaelbling, Thomas Dean   </author>::line_number::2
+<author>  Craig Boutilier   </author>::line_number::6
+<author>  Bob Carter   </author>::line_number::2
+<author>  Kihong Park    </author>::line_number::4
+<author>  J. B. Wells   </author>::line_number::2
+<author>  Azer Bestavros   </author>::line_number::3
+<author>  Gitae Kim   </author>::line_number::5
+<author>  James Arvo +L + </author>::line_number::1
+<author>  Peter Johannes Neugebauer   </author>::line_number::1
+<author>  Yan-Bin Jia Michael Erdmann   </author>::line_number::1
+<author>  Moshe Koppel   KOPPEL@BIMACS.CS.BIU.AC.IL   </author>::line_number::2
+<author>  Ronen Feldman   FELDMAN@BIMACS.CS.BIU.AC.IL   </author>::line_number::3
+<author>  Alberto Maria Segre   SEGRE@CS.CORNELL.EDU   </author>::line_number::6
+<author>  Raghu Ramakrishnan Praveen Seshadri Divesh Srivastava   </author>::line_number::2
+<author>  S. Sudarshan   </author>::line_number::3
+<author>  Kanaka Juvva and Raj Rajkumar   </author>::line_number::2
+<author>  Qingming Ma and Peter Steenkiste   </author>::line_number::3
+<author>  Ralph Bergmann   bergmann@informatik.uni-kl.de   </author>::line_number::3
+<author>  Wolfgang Wilke   wilke@informatik.uni-kl.de   </author>::line_number::4
+<author>  Reid Simmons, Eric Krotkov, Lalitesh Katragadda, and Martial Hebert   </author>::line_number::1
+<author>  Chris Seher 1 , Mel Siegel 2 , and William M. Kaufman 3   </author>::line_number::5
+<author>  Dayne Freitag   </author>::line_number::2
+<author>  Adam L. Berger, Peter F. Brown , Stephen A. Della Pietra, Vincent J. Della Pietra,  </author>::line_number::1
+<author> John R. Gillett, John D. Lafferty, Robert L. Mercer, Harry Printz, Lubos Ures   </author>::line_number::2
+<author>  Iliano Cervesato 1 , Joshua S. Hodas 2 , and Frank Pfenning 1   </author>::line_number::4
+<author>  Robert Harper   </author>::line_number::1
+<author>  Shumeet Baluja   </author>::line_number::0
+<author>  Scott Davies   </author>::line_number::4
+<author>  Satish Rao Andrea W. Richa    </author>::line_number::1
+<author>  KAREN ZITA HAIGH MANUELA M. VELOSO   </author>::line_number::4
+<author>  Michael Garland, Sebastian Grassia, Robert Monroe, Siddhartha Puri   </author>::line_number::2
+<author>  Michael Herf and Paul S. Heckbert    </author>::line_number::1
+<author>  Roger B. Dannenberg, David B. Anderson,  </author>::line_number::2
+<author> Tom Neuendorffer, Dean Rubine   </author>::line_number::3
+<author>  Sebastian Thrun Joseph O'Sullivan   </author>::line_number::2
+<author>  Alan J. Lipton Hironobu Fujiyoshi Raju S. Patil   </author>::line_number::1
+<author>  Lily B. Mummert, Maria R. Ebling, M. Satyanarayanan   </author>::line_number::1
+<author>  BHASKAR GHOSH 1 F. T. LEIGHTON 2 BRUCE M. MAGGS 3;4  </author>::line_number::1
+<author> S. MUTHUKRISHNAN 5 C. GREG PLAXTON 6;7 R. RAJARAMAN 6;7  </author>::line_number::2
+<author> ANDR EA W. RICHA 3;4 ROBERT E. TARJAN 8 DAVID ZUCKERMAN 6;9   </author>::line_number::3
+<author>  Nancy Green*, Giuseppe Carenini**, and Johanna Moore**   </author>::line_number::3
+<author>  AVRIM BLUM   avrim+@cs.cmu.edu   </author>::line_number::4
+<author>  ADAM KALAI   akalai+@cs.cmu.edu   </author>::line_number::5
+<author>  Artur Dubrawski ??   </author>::line_number::3
+<author>  Mikako Harada   </author>::line_number::3
+<author>  Andrew Witkin   </author>::line_number::5
+<author>  David Baraff   </author>::line_number::7
+<author>  Brian D. Noble, M. Satyanarayanan, Dushyanth Narayanan, James Eric Tilton, Jason Flinn, Kevin R. Walker   </author>::line_number::2
+<author>  David W. Hildum, Norman M. Sadeh, Thomas J. Laliberty,   </author>::line_number::2
+<author> Stephen F. Smith, John McA'Nulty and Dag Kjenstad    </author>::line_number::3
+<author>  David Petrou and John Milford   </author>::line_number::2
+<author>  David S. Touretzky   </author>::line_number::1
+<author>  Lisa M. Saksida   </author>::line_number::7
+<author>  Charlotte A. Rekiere   </author>::line_number::7
+<author>  Daniel P. Siewiorek   </author>::line_number::14
+<author>  Professor CS/ECE   </author>::line_number::15
+<author>  Andrew McCallum   </author>::line_number::1
+<author>  Ronald Rosenfeld    </author>::line_number::3
+<author>  Tom Mitchell    </author>::line_number::5
+<author>  Andrew Y. Ng    </author>::line_number::7
+<author>  Roger B. Dannenberg   </author>::line_number::1
+<author>  Roger B. Dannenberg   </author>::line_number::1
+<author>  Mark Horowitz  </author>::line_number::2
+<author> Margaret Martonosi  </author>::line_number::3
+<author> Todd C. Mowry  </author>::line_number::4
+<author> Michael D. Smith   </author>::line_number::5
+<author>  Mark Horowitz Margaret Martonosi Todd C. Mowry Michael D. Smith   </author>::line_number::2
+<author>  Mark W. Craven   </author>::line_number::2
+<author>  Jude W. Shavlik   </author>::line_number::7
+<author>  David B. Johnson  </author>::line_number::3
+<author> Peter J. Keleher  </author>::line_number::4
+<author> Willy Zwaenepoel   </author>::line_number::5
+<author>  Jack Mostow, Steven F. Roth, Alexander G. Hauptmann, and Matthew Kane   </author>::line_number::1
+<author>  R. Michael Young  </author>::line_number::2
+<author> Johanna D. Moore  </author>::line_number::3
+<author> Martha E. Pollack   </author>::line_number::4
+<author>  Paul S. Heckbert and Michael Herf   </author>::line_number::2
+<author>  Timothy Callahan and Seth Copen Goldstein   </author>::line_number::1
+<author>  Scott Draves    </author>::line_number::1
+<author>  Tara M. Madhyastha Daniel A. Reed   </author>::line_number::1
+<author>  Sebastian Thrun Alexander Linden   </author>::line_number::2
+<author>  Oliver A. McBryan   </author>::line_number::1
+<author>  Brian V. Bonnlander Michael C. Mozer   </author>::line_number::2
+<author>  Roger King, Michael Novak, Christian Och, Richard Osborne   </author>::line_number::1
+<author>  Fernando Velez   </author>::line_number::7
+<author>  Fabrizio Ferrandina Thorsten Meyer Roberto Zicari   </author>::line_number::2
+<author>  Bruce A. Draper Carla E. Brodley Paul E. Utgoff   </author>::line_number::2
+<author>  Darrell Whitley, Frederic Gruau and Larry Pyeatt   </author>::line_number::1
+<author>  Mark R. Stevens Charles W. Anderson J. Ross Beveridge   </author>::line_number::1
+<author>  Dan Duchamp and Neil F. Reynolds   </author>::line_number::1
+<author>  Jonathan Rosenberg   </author>::line_number::1
+<author>  Hasanat M. Dewan Mauricio Hernandez   </author>::line_number::2
+<author> Kui W. Mok Salvatore J. Stolfo   </author>::line_number::3
+<author>  Wenke Lee Salvatore J. Stolfo  </author>::line_number::1
+<author> Kui W. Mok   </author>::line_number::2
+<author>  Philip K. Chan   </author>::line_number::2
+<author>  Salvatore J. Stolfo   </author>::line_number::8
+<author>  Funda Ergun S Ravi Kumar   </author>::line_number::1
+<author>  Ronitt Rubinfeld   </author>::line_number::5
+<author>  Anne Rogers and Keshav Pingali   </author>::line_number::1
+<author>  Claire Cardie   </author>::line_number::3
+<author>  Frederick Smith    </author>::line_number::1
+<author>  Greg Morrisett   </author>::line_number::4
+<author>  Jon M. Kleinberg    </author>::line_number::1
+<author>  Amy J. Briggs Bruce R. Donald   </author>::line_number::2
+<author>  Chandra S. Chekuri    </author>::line_number::1
+<author>  Andrew V. Goldberg   </author>::line_number::6
+<author>  David R. Karger    </author>::line_number::10
+<author>  Matthew S. Levine    </author>::line_number::15
+<author>  Cliff Stein x   </author>::line_number::20
+<author>  Thomas H. Cormen   </author>::line_number::4
+<author> David M. Nicol    </author>::line_number::5
+<author>  Robert S. Gray    </author>::line_number::1
+<author>  Daniel N. Rockmore   </author>::line_number::4
+<author>  Thomas H. Cormen   </author>::line_number::2
+<author> Charles E. Leiserson    </author>::line_number::3
+<author>  by  </author>::line_number::9
+<author> Qin Zhang   </author>::line_number::10
+<author>  Li Zhang Harish Devarajan Julien Basch Piotr Indyk   </author>::line_number::2
+<author>  Piotr Indyk Rajeev Motwani Suresh Venkatasubramanian   </author>::line_number::2
+<author>  Dzung T. Hoang +L + </author>::line_number::1
+<author>  Elliot L. Linzer   </author>::line_number::6
+<author>  Jeffrey Scott Vitter   </author>::line_number::11
+<author>  Min Wang Bala Iyer Jeffrey Scott Vitter   </author>::line_number::2
+<author>  Csaba Szepesvari   </author>::line_number::2
+<author>  Michael L. Littman   </author>::line_number::8
+<author>  John Y. A. Wang AND Edward H. Adelson   </author>::line_number::4
+<author>  K. L. Calvert  </author>::line_number::1
+<author> R. H. Kravets  </author>::line_number::2
+<author> R. D. Krupczak   </author>::line_number::3
+<author>  Dolors Sala John O. Limb   </author>::line_number::1
+<author>  Richard M. Fujimoto   </author>::line_number::1
+<author>  Ann L. Chervenak   </author>::line_number::1
+<author>  Ellen Witte Zegura   </author>::line_number::2
+<author>  Bret Johnson   </author>::line_number::1
+<author>  Heikki Mannila, Hannu Toivonen, and A. Inkeri Verkamo   </author>::line_number::4
+<author>  Mika Klemettinen Heikki Mannila Pirjo Ronkainen Hannu Toivonen A. Inkeri Verkamo   </author>::line_number::1
+<author>  Pekka Kilpelainen Greger Linden Heikki Mannila  </author>::line_number::1
+<author> Erja Nikunen   </author>::line_number::2
+<author>  Juha Karkkainen and Erkki Sutinen   </author>::line_number::1
+<author>  SHAI AVIDAN, AMNON SHASHUA   </author>::line_number::3
+<author>  Allen B. Downey    </author>::line_number::1
+<author>  Jack H. Lutz and Elvira Mayordomo   </author>::line_number::3
+<author>  Tim Wahls, Albert L. Baker, and Gary T. Leavens   </author>::line_number::4
+<author>  Vasant Honavar & Leonard Uhr   </author>::line_number::2
+<author>  Jihoon Yang and Vasant Honavar   </author>::line_number::2
+<author>  Robert G. Burger   </author>::line_number::2
+<author>  Erik Hilsdale J. Michael Ashley  </author>::line_number::1
+<author> R. Kent Dybvig Daniel P. Friedman   </author>::line_number::2
+<author>  David B. Leake   </author>::line_number::1
+<author>  Steven D. Johnson   sjohnson@indiana.edu   Department of Computer Science Indiana University   </author>::line_number::3
+<author>  Jon Barwise   </author>::line_number::4
+<author>  Gerard T. Allwein   </author>::line_number::8
+<author>  David B. Leake, Andrew Kinley, and David Wilson   </author>::line_number::3
+<author>  Peter Shirley   </author>::line_number::2
+<author>  Lawrence B. Wolff  </author>::line_number::1
+<author> Elli Angelopoulou   </author>::line_number::2
+<author>  Steven Salzberg, Arthur Delcher, David Heath, and Simon Kasif   </author>::line_number::3
+<author>  Robert Cypher   </author>::line_number::4
+<author>  C. Greg Plaxton    </author>::line_number::8
+<author>  Mark W. Craven and Jude W. Shavlik   </author>::line_number::3
+<author>  Bill Punch, Doug Zongker, and Erik Goodman   </author>::line_number::4
+<author>  Philip Resnik   </author>::line_number::2
+<author>  David Yarowsky   </author>::line_number::7
+<author>  Wim Van Laer Hendrik Blockeel  </author>::line_number::2
+<author> Luc De Raedt   </author>::line_number::3
+<author>  Arvid Lundervold 1 , Nicolae Duta 2 , Torfinn Taxt 1 & Anil K. Jain 2   </author>::line_number::1
+<author>  Marwan Krunz , Ron Sass , and Herman Hughes    </author>::line_number::1
+<author>  James Harland  </author>::line_number::1
+<author> David B. Kemp  </author>::line_number::2
+<author> Tim S. Leask  </author>::line_number::3
+<author> Kotagiri Ramamohanarao  </author>::line_number::4
+<author> John A. Shepherd  </author>::line_number::5
+<author> Zoltan Somogyi  </author>::line_number::6
+<author> Peter J. Stuckey  </author>::line_number::7
+<author> Jayen Vaghani   </author>::line_number::8
+<author>  Tak Keung CHENG  </author>::line_number::3
+<author> Leslie KITCHEN  </author>::line_number::4
+<author> Zhi-Qiang LIU  </author>::line_number::5
+<author> James COOPER   </author>::line_number::6
+<author>  Yi Han, Seng Wai Loke, Leon Sterling   </author>::line_number::2
+<author>  Chris Speirs, Zoltan Somogyi and Harald Stndergaard   </author>::line_number::1
+<author>  Jean-Pierre Haeberly Madhu V. Nayakkankuppam   </author>::line_number::1
+<author> Michael L. Overton    </author>::line_number::2
+<author>  Z. M. Kedem    </author>::line_number::2
+<author>  Ming-Sheng Chang   </author>::line_number::2
+<author>  Dennis M. Ritchie   </author>::line_number::1
+<author>  Prasad Tadepalli and Thomas G. Dietterich   </author>::line_number::1
+<author>  X. Yuan R. Gupta R. Melhem   </author>::line_number::1
+<author>  Nilufer Onder   </author>::line_number::1
+<author>  Martha E. Pollack   </author>::line_number::6
+<author>  Edward Rothberg Jaswinder Pal Singh and Anoop Gupta   </author>::line_number::2
+<author>  Jaswinder Pal Singh * , Edward Rothberg , and Anoop Gupta *   </author>::line_number::2
+<author>  Liviu Iftode, Jaswinder Pal Singh and Kai Li   </author>::line_number::2
+<author>  Thomas A. Funkhouser   </author>::line_number::2
+<author>  by  </author>::line_number::2
+<author> Thomas Allen Funkhouser   </author>::line_number::3
+<author>  Ken Steiglitz and Daniel Shapiro   </author>::line_number::2
+<author>  by  </author>::line_number::4
+<author> Michael H. Goldwasser 1   </author>::line_number::5
+<author>  Sami Khuri   </author>::line_number::2
+<author>  Thomas Back and Jorg Heitkotter   </author>::line_number::8
+<author>  Hsiao-Lan Fang   </author>::line_number::3
+<author>  Carlos Gonzalez Ochoa Aleman   </author>::line_number::2
+<author>  Melliyal Annamalai, Aurobindo Sundaram and Bharat Bhargava   </author>::line_number::2
+<author>  Kihong Park   </author>::line_number::2
+<author>  Sanjiva Weerawarana, Elias N. Houstis, John R. Rice, Anupam Joshi   </author>::line_number::2
+<author>  and  </author>::line_number::4
+<author> Catherine E. Houstis   </author>::line_number::5
+<author>  E. SUTINEN   </author>::line_number::1
+<author>  W. SZPANKOWSKI   </author>::line_number::3
+<author>  Ivan Krsul   </author>::line_number::2
+<author>  Sunil Prabhakar Divyakant Agrawal Amr El Abbadi   </author>::line_number::1
+<author>  Tz. Ostromsky P. C. Hansen Z. Zlatev    </author>::line_number::3
+<author>  C.M. Rood   </author>::line_number::2
+<author>  Alan L. Cox , Sandhya Dwarkadas , Honghui Lu and Willy Zwaenepoel    </author>::line_number::2
+<author>  Povl T. Koch Robert J. Fowler   </author>::line_number::6
+<author>  Yu Charlie Hu S. Lennart Johnsson    </author>::line_number::2
+<author>  R. G. Covington   </author>::line_number::2
+<author>  S. Dwarkadas, J. R. Jump, and J. B. Sinclair   </author>::line_number::6
+<author>  S. Madala +L + </author>::line_number::10
+<author>  by  </author>::line_number::4
+<author> Sandhya Dwarkadas   </author>::line_number::5
+<author>  Mohammed J. Zaki and Mitsunori Ogihara    </author>::line_number::1
+<author>  By  </author>::line_number::2
+<author> James Vradenburg Miller   </author>::line_number::3
+<author>  S. Adjerid, J. E. Flaherty, J. B. Hudson, and M. S. Shephard   </author>::line_number::2
+<author>  Vijay Shukla , Andrew Gelsey , Mark Schwabacher   </author>::line_number::2
+<author> Donald Smith , Doyle D. Knight   </author>::line_number::3
+<author>  Brian D. Davison and Haym Hirsh   </author>::line_number::2
+<author>  Zoltan Jarai, Aashu Virmani, Liviu Iftode   </author>::line_number::1
+<author>  Thomas Ellman John Keane Mark Schwabacher   </author>::line_number::2
+<author>  Naftaly H. Minsky    </author>::line_number::2
+<author>  Partha pratim Pal    </author>::line_number::1
+<author>  Naftaly H. Minsky    </author>::line_number::3
+<author>  Paul D. Scott & Shaul Markovitch   </author>::line_number::1
+<author>  K.L. Chow and W.H. Enright   </author>::line_number::1
+<author>  Dale Schuurmans   </author>::line_number::1
+<author>  Russell Greiner   </author>::line_number::6
+<author>  Brendan J. Frey   </author>::line_number::2
+<author>  Russell Greiner    </author>::line_number::1
+<author>  Dale Schuurmans   </author>::line_number::6
+<author>  Paul E. Kearney and Derek G. Corneil   </author>::line_number::1
+<author>  Thomas Haynes   </author>::line_number::1
+<author>  Russell Greiner   </author>::line_number::1
+<author>  Ramana Isukapalli   </author>::line_number::5
+<author>  Raju Pandey 1 and J. C. Browne 2   </author>::line_number::3
+<author>  BRUCE P. AYATI    </author>::line_number::2
+<author>  N. J. Higham   </author>::line_number::2
+<author>  Haixun Wang and Carlo Zaniolo   </author>::line_number::2
+<author>  Sergio Greco Carlo Zaniolo   </author>::line_number::2
+<author>  Hong Va Leong Divyakant Agrawal    </author>::line_number::2
+<author>  Cong Fu and Tao Yang   </author>::line_number::1
+<author>  Yuan-Fang Wang   </author>::line_number::2
+<author>  Holger M. Kienle   </author>::line_number::1
+<author>  Martin C. Rinard, Daniel J. Scales and Monica S. Lam   </author>::line_number::2
+<author>  PEDRO DINIZ AND MARTIN RINARD   </author>::line_number::2
+<author>  Murat Karaorman John Bruno   </author>::line_number::1
+<author>  Max Ibel, Klaus E. Schauser, Chris J. Scheiman, and Michael Schmitt   </author>::line_number::1
+<author>  Cong Fu and Tao Yang   </author>::line_number::2
+<author>  by  </author>::line_number::9
+<author> Tze Kwan Lau   </author>::line_number::10
+<author>  Grigore Ro~su   </author>::line_number::1
+<author>  Mihir Bellare Silvio Micali    </author>::line_number::3
+<author>  Paul Beame    </author>::line_number::1
+<author>  Stephen Cook    </author>::line_number::5
+<author>  Jeff Edmonds    </author>::line_number::9
+<author>  Russell Impagliazzo x   </author>::line_number::13
+<author>  Toniann Pitassi -   </author>::line_number::19
+<author>  Silvia M. Figueira 1 and Francine Berman 2   </author>::line_number::3
+<author>  R. W. Robinson   </author>::line_number::2
+<author>  N. C. Wormald    </author>::line_number::6
+<author>  J. Eliot B. Moss   </author>::line_number::1
+<author>  Paul E. Utgoff   </author>::line_number::5
+<author>  John Cavazos   </author>::line_number::9
+<author>  Doina Precup   </author>::line_number::13
+<author>  Darko Stefanovi c   </author>::line_number::17
+<author>  Carla Brodley   </author>::line_number::21
+<author>  David Scheeff   </author>::line_number::25
+<author>  Doina Precup, Richard S. Sutton   </author>::line_number::2
+<author>  Richard S. Sutton   </author>::line_number::1
+<author>  Doina Precup   </author>::line_number::6
+<author>  Satinder Singh   </author>::line_number::11
+<author>  Didier Samfat, Refik Molva   </author>::line_number::2
+<author>  Tevfik Bultan Richard Gerber   </author>::line_number::2
+<author>  Kuang-Yeh Wang   </author>::line_number::2
+<author>  Satish K. Tripathi   </author>::line_number::7
+<author>  Flip Korn, Alexandros Labrinidis, Yannis Kotidis   </author>::line_number::2
+<author>  Christos Faloutsos    </author>::line_number::7
+<author>  Robert P. Goldman, David J. Musliner, Kurt D. Krebsbach, Mark S. Boddy   </author>::line_number::2
+<author>  David J. Musliner and Robert P. Goldman   </author>::line_number::4
+<author>  Prabhat Kumar   </author>::line_number::1
+<author>  Kathryn E. Sanders    </author>::line_number::1
+<author>  Fatma Ozcan   </author>::line_number::2
+<author>  Flip Korn    </author>::line_number::2
+<author>  H. V. Jagadish   </author>::line_number::7
+<author>  Christos Faloutsos    </author>::line_number::11
+<author>  Marie desJardins   </author>::line_number::3
+<author>  Diganta Das   </author>::line_number::3
+<author>  Satyandra K. Gupta   </author>::line_number::9
+<author>  Dana S. Nau   </author>::line_number::14
+<author>  K. Jeffay, D.L. Stone, F.D. Smith   </author>::line_number::2
+<author>  James D. Salehi, Zhi-Li Zhang, James F. Kurose, and Don Towsley   </author>::line_number::3
+<author>  Douglas C. Schmidt, Sumedh Mungee, and Aniruddha Gokhale   </author>::line_number::2
+<author>  Tor E. Jeremiassen   </author>::line_number::2
+<author>  Susan J. Eggers   </author>::line_number::7
+<author>  Rakesh Ghiya and Laurie J. Hendren   </author>::line_number::5
+<author>  Hock-Beng Lim 1 , Lynn Choi 2 and Pen-Chung Yew 3   </author>::line_number::3
+<author>  David K. Poulsen   </author>::line_number::2
+<author>  and  </author>::line_number::8
+<author> Pen-Chung Yew   </author>::line_number::9
+<author>  Allan Heydon Greg Nelson   </author>::line_number::1
+<author>  Rose P. Tsang 1 , Paisal Keattithananant  </author>::line_number::2
+<author> Taisheng Chang 3 , Jenwei Hsieh 3 , David H.C. Du 2   </author>::line_number::3
+<author>  George Karypis and Vipin Kumar   </author>::line_number::6
+<author>  Jaideep Srivastava  </author>::line_number::1
+<author> Gary Elsesser   </author>::line_number::2
+<author>  Rodger Lea, Christian Jacquemot   </author>::line_number::3
+<author>  Mats P.E. Heimdahl   </author>::line_number::2
+<author>  Barbara J. Czerny   </author>::line_number::7
+<author>  Martina Schollmeyer, Hanan Lutfiyya and Bruce McMillin   </author>::line_number::2
+<author>  James H. Anderson and Srikanth Ramamurthy   </author>::line_number::3
+<author>  James H. Anderson and Mark Moir   </author>::line_number::1
+<author>  David Luebke, Carl Erikson   </author>::line_number::1
+<author>  Robert N. Rohling and John M. Hollerbach   </author>::line_number::1
+<author>  Robert Mecklenburg, Charles Clark, Gary Lindstrom and Benny Yih   </author>::line_number::1
+<author>  Daniel A. Reed Christopher L. Elford  </author>::line_number::2
+<author> Tara M. Madhyastha Evgenia Smirni  </author>::line_number::3
+<author> Stephen E. Lamm   </author>::line_number::4
+<author>  Ajita John and J. C. Browne   </author>::line_number::2
+<author>  Chung-Ping Chen, Yao-Ping Chen, and D. F. Wong   </author>::line_number::1
+<author>  Daniel J. Clancy and Benjamin Kuipers   </author>::line_number::4
+<author>  David A. Ladd J. Christopher Ramming   </author>::line_number::2
+<author>  Diek W. Wheeler 1 and W. C. Schieve   </author>::line_number::2
+<author>  DAVID ZUCKERMAN    </author>::line_number::2
+<author>  John McCarthy,   Massachusetts Institute of Technology,   Cambridge, Mass.    </author>::line_number::3
+<author>  Chandramohan A. Thekkath  </author>::line_number::1
+<author> Timothy Mann  </author>::line_number::2
+<author> Edward K. Lee   </author>::line_number::3
+<author>  Sriram Rao, Lorenzo Alvisi, and Harrick M. Vin   </author>::line_number::1
+<author>  Peter Clark and Bruce Porter   </author>::line_number::2
+<author>  Matt Kaufmann and J Strother Moore   </author>::line_number::1
+<author>  Michael Barnett   </author>::line_number::1
+<author>  David G. Payne   </author>::line_number::6
+<author>  Robert A. van de Geijn   </author>::line_number::12
+<author>  Jerrell Watts   </author>::line_number::17
+<author>  Almadena Chtchelkanova Carter Edwards  </author>::line_number::2
+<author> John Gunnels Greg Morrow  </author>::line_number::3
+<author> James Overfelt Robert van de Geijn    </author>::line_number::4
+<author>  Kenneth Klimkowski   </author>::line_number::1
+<author>  Robert A. van de Geijn   </author>::line_number::7
+<author>  by  </author>::line_number::11
+<author> B Karthikeyan  </author>::line_number::12
+<author> T R Vishwanath   </author>::line_number::13
+<author>  Henri Casanova   </author>::line_number::2
+<author>  Jack Dongarra   </author>::line_number::7
+<author>  Fangzhen Lin   </author>::line_number::2
+<author>  Hector Levesque   </author>::line_number::7
+<author>  Fangzhen Lin   </author>::line_number::1
+<author>  Fangzhen Lin and Ray Reiter    </author>::line_number::2
+<author>  Norman Ramsey and Jack W. Davidson   </author>::line_number::2
+<author>  Piotr Berman Ulrich Fomeier Marek Karpinski  </author>::line_number::2
+<author> Michael Kaufmann Alexander Zelikovsky   </author>::line_number::3
+<author>  Frederick Knabe   </author>::line_number::2
+<author>  Norman Ramsey   </author>::line_number::2
+<author>  Mary F. Fernandez   </author>::line_number::4
+<author>  Bernard A. McCoy and Gabriel Robins   </author>::line_number::1
+<author>  Rohit Chandra, Scott Devine, Ben Verghese,  </author>::line_number::1
+<author> Anoop Gupta, and Mendel Rosenblum   </author>::line_number::2
+<author>  Thu D. Nguyen, Raj Vaswani, and John Zahorjan   </author>::line_number::2
+<author>  Alon Y. Levy   </author>::line_number::2
+<author>  Yehoshua Sagiv    </author>::line_number::5
+<author>  Greg J. Badros    </author>::line_number::3
+<author>  Craig Chambers, Susan J. Eggers,  </author>::line_number::2
+<author> Joel Auslander, Matthai Philipose, Markus Mock, Przemyslaw Pardyak   </author>::line_number::3
+<author>  Dean M. Tullsen and Susan J. Eggers   </author>::line_number::1
+<author>  Stefan Wermter   wermter@informatik.uni-hamburg.de   </author>::line_number::3
+<author>  Volker Weber   weber@informatik.uni-hamburg.de   </author>::line_number::4
+<author>  Adnan Darwiche   darwiche@aub.edu.lb   </author>::line_number::3
+<author>  Jon Damon Reese and Nancy G. Leveson   </author>::line_number::1
+<author>  Jignesh M. Patel David J. DeWitt   </author>::line_number::1
+<author>  Susan Horwitz, Thomas Reps, and Mooly Sagiv    </author>::line_number::1
+<author>  THOMAS REPS   </author>::line_number::1
+<author>  M. Livny, R. Ramakrishnan, K. Beyer, G. Chen, D. Donjerkovic,  </author>::line_number::2
+<author> S. Lawande, J. Myllymaki and K. Wenger   </author>::line_number::3
+<author>  Pei Cao Sandy Irani   </author>::line_number::1
+<author>  Mari Palta, Chin-Yu Lin,   University of Wisconsin-Madison   </author>::line_number::3
+<author>  Mari Palta,   504 N Walnut Street, Madison, WI 53705   </author>::line_number::4
+<author>  Aart J.C. Bik   </author>::line_number::0
+<author>  Martin Alt Florian Martin   </author>::line_number::2
+<author>  Jennifer G. Steiner   </author>::line_number::1
+<author>  Clifford Neuman   </author>::line_number::6
+<author>  Jeffrey I. Schiller   </author>::line_number::11
+<author>  M. Livny, R. Ramakrishnan, K. Beyer, G. Chen, D. Donjerkovic,  </author>::line_number::2
+<author> S. Lawande, J. Myllymaki and K. Wenger   </author>::line_number::3
+<author>  Rajesh K. Mansharamani and Mary K. Vernon   </author>::line_number::1
+<author>  John C. Strikwerday   </author>::line_number::1
+<author>  Su-Hui Chiang , Rajesh K. Mansharamani , and Mary K. Vernon    </author>::line_number::2
+<author>  Viresh Ratnakar   </author>::line_number::2
+<author>  Miron Livny   </author>::line_number::8
+<author>  Michael Siff   </author>::line_number::2
+<author>  Thomas Reps   </author>::line_number::4
+<author>  David Melski Thomas Reps   </author>::line_number::2
+<author>  David Melski Thomas Reps   </author>::line_number::15
+<author>  By  </author>::line_number::3
+<author> Golbon Zakeri   </author>::line_number::4
+<author>  STEPHEN C. BILLUPS   sbillups@carbon.cudenver.edu   </author>::line_number::4
+<author>  STEVEN P. DIRKSE   steve@gams.com   </author>::line_number::6
+<author>  MICHAEL C. FERRIS   ferris@cs.wisc.edu   </author>::line_number::8
+<author>  R.R. MEYER AND G. ZAKERI    </author>::line_number::3
+<author>  Hsing-Hsia Chen   </author>::line_number::1
+<author>  and  </author>::line_number::5
+<author> John C. Strikwerday   </author>::line_number::6
+<author>  Jayavel Shanmugasundaram, Barbara Staudt Lerner, Lori Clarke   </author>::line_number::2
+<author>  Kenneth Kunen 1   </author>::line_number::1
+<author>  Marc Shapiro and Susan Horwitz   </author>::line_number::1
+<author>  James R. Larus, Brad Richards, and Guhan Viswanathan 1   </author>::line_number::3
+<author>  Amit Shukla Prasad M. Deshpande  </author>::line_number::2
+<author> Jeffrey F. Naughton Karthikeyan Ramasamy   </author>::line_number::3
+<author>  Mark L. McAuliffe   </author>::line_number::1
+<author>  Michael J. Carey   </author>::line_number::4
+<author>  Marvin H. Solomon   </author>::line_number::7
+<author>  Nader H. Bshouty   </author>::line_number::1
+<author>  Sally A. Goldman   </author>::line_number::7
+<author>  Thomas R. Hancock   </author>::line_number::12
+<author>  Sleiman Matar   </author>::line_number::17
+<author>  Paul W. Goldberg    </author>::line_number::3
+<author>  Sally A. Goldman    </author>::line_number::9
+<author>  Saied Hosseini-Khayat and Jerome R. Cox, Jr.   </author>::line_number::1
+<author>  Tuomas W. Sandholm and Victor R. Lesser   </author>::line_number::2
+<author>  James C. Hu , Sumedh Mungee, Douglas C. Schmidt   </author>::line_number::2
+<author>  Aniruddha Gokhale and Douglas C. Schmidt   </author>::line_number::2
+<author>  CRAIG C. DOUGLAS    </author>::line_number::2
+<author>  CRAIG C. DOUGLAS AND JAN MANDEL    </author>::line_number::3
+<author>  CRAIG C. DOUGLAS , MICHAEL HEROUX , GORDON SLISHMAN x AND ROGER M.  </author>::line_number::2
+<author> SMITH -   </author>::line_number::3
+<author>  William Hurwood   </author>::line_number::3
+<author>  Jtrgen Fischer Nilsson   </author>::line_number::2
+<author>  Andreas Hamfelt   </author>::line_number::5
+<author>  Jakob Engblom 1 Andreas Ermedahl 1 Peter Altenbernd 2   </author>::line_number::1
+<author>  Judith Ellen Devaney   </author>::line_number::4
+<author>  Ling Liu 1 and Calton Pu 2   </author>::line_number::2
+<author>  David L. Black David B. Golub Daniel P. Julin Richard F. Rashid  </author>::line_number::1
+<author> Richard P. Draves Randall W. Dean Alessandro Forin Joseph Barrera  </author>::line_number::2
+<author> Hideyuki Tokuda Gerald Malan David Bohman    </author>::line_number::3
+<author>  John Heidemann Ashvin Goel Gerald Popek   </author>::line_number::2
+<author>  Hongwei Xi   </author>::line_number::2
+<author>  D. Revel, C. Cowan, D. McNamee, C. Pu, and J. Walpole   </author>::line_number::3
+<author>  SYLVAIN DELISLE a & STAN SZPAKOWICZ b   </author>::line_number::2
+<author>  Shaz Qadeer   </author>::line_number::2
+<author>  Natarajan Shankar   </author>::line_number::8
+<author>  Li Gong   </author>::line_number::1
+<author>  Michael Reiter Kenneth Birman Li Gong   </author>::line_number::1
+<author>  S. Owre N. Shankar   </author>::line_number::1
+<author>  Xiaolei Qian Teresa F. Lunt   </author>::line_number::1
+<author>  Li Gong and Xiaolei Qian   </author>::line_number::2
+<author>  Alistair Knott   </author>::line_number::2
+<author>  Robert Dale   </author>::line_number::6
+<author>  Michael Sintek   </author>::line_number::2
+<author>  Harold Boley   </author>::line_number::2
+<author>  Zhan Chen and Israel Koren   </author>::line_number::2
+<author>  Zhan Chen and Israel Koren   </author>::line_number::2
+<author>  Richard J. La, and Venkat Anantharam   </author>::line_number::1
+<author>  S. Venkatesan V. Anantharam zx   </author>::line_number::3
+<author>  Michael Goodwin Martin Vetterli   </author>::line_number::2
+<author>  Rajeev Alur Thomas A. Henzinger    </author>::line_number::1
+<author>  Andrea J. Goldsmith, Member, IEEE and Pravin P. Varaiya, Fellow, IEEE    </author>::line_number::2
+<author>  Thomas A. Henzinger 2 Peter W. Kopke 2 Anuj Puri 3 Pravin Varaiya 3   </author>::line_number::1
+<author>  James Gwertzman,   Microsoft Corporation   </author>::line_number::1
+<author>  Margo Seltzer,   Harvard University   </author>::line_number::2
+<author>  Gheith A. Abandah Edward S. Davidson   </author>::line_number::2
+<author>  Alexandre E. Eichenberger Edward S. Davidson   </author>::line_number::1
+<author>  Daniel Berwick and Sang Wook Lee   </author>::line_number::3
+<author>  Patrick McDaniel Sugih Jamin   </author>::line_number::1
+<author>  Daniel S. Weld 1   </author>::line_number::4
+<author>  George Barrett   </author>::line_number::1
+<author>  Stephane Lafortune   </author>::line_number::3
+<author>  Craig Labovitz, G. Robert Malan, and Farnam Jahanian   </author>::line_number::1
+<author>  C. Wallace N. Soparkar   </author>::line_number::2
+<author>  Saurav Chatterjee and Jay Strosnider   </author>::line_number::2
+<author>  Antonio Moreno   </author>::line_number::1
+<author>  I. Turton, S. Openshaw and G. Diplock   </author>::line_number::3
+<author>  Herbert Edelsbrunner 2 and Ernst Peter Mucke 2   </author>::line_number::3
+<author>  PEDRO DOMINGOS   pedrod@ics.uci.edu   </author>::line_number::4
+<author>  MICHAEL PAZZANI   pazzani@ics.uci.edu   </author>::line_number::5
+<author>  Andreas Stolcke Elizabeth Shriberg   </author>::line_number::1
+<author>  Arno Formella   </author>::line_number::6
+<author>  David Bailey   </author>::line_number::2
+<author>  Kjell Bratbergsengen   </author>::line_number::2
+<author>  Olav Sandsta, Stein Langrgen, and Roger Midtstraum   </author>::line_number::1
+<author>  Kjetil Nrvag and Kjell Bratbergsengen   </author>::line_number::1
+<author>  Frank Devai   </author>::line_number::2
+<author>  Jonathan Campbell and Fionn Murtagh   </author>::line_number::1
+<author>  Mohand-Sad Hacid, Patrick Marcel, and Christophe Rigotti   </author>::line_number::1
+<author>  Paul Duchnowski 1 Uwe Meier 1 Alex Waibel 1;2   </author>::line_number::2
+<author>  Wolfgang Minker, Samir Bennacef, Jean-Luc Gauvain   </author>::line_number::1
+<author>  David P. Helmbold and Philip M. Long    </author>::line_number::2
+<author>  Huan Liu 1 and Hiroshi Motoda 2 and Manoranjan Dash 3   </author>::line_number::2
+<author>  Rudy Setiono and Huan Liu    </author>::line_number::1
+<author>  Huan Liu   </author>::line_number::2
+<author>  W. Lewis Johnson  </author>::line_number::3
+<author> Jeff Rickel  </author>::line_number::4
+<author> Randy Stiles  </author>::line_number::5
+<author> Allen Munro 1   </author>::line_number::6
+<author>  Irene Langkilde and Kevin Knight   </author>::line_number::1
+<author>  Dante DeLucia Katia Obraczka   </author>::line_number::1
+<author>  Katia Obraczka   </author>::line_number::2
+<author>  Peter Danzig, Dante DeLucia, Erh-Yuan Tsai   </author>::line_number::8
+<author>  Naveen Ashish and Craig A. Knoblock Alon Levy   </author>::line_number::1
+<author>  Chun-Nan Hsu and Craig A. Knoblock   </author>::line_number::1
+<author>  Gal A. Kaminka Milind Tambe   </author>::line_number::2
+<author>  Wei-Min Shen   </author>::line_number::1
+<author>  Milind Tambe, Lewis Johnson and Wei-Min Shen   </author>::line_number::2
+<author>  Melinda T. Gervasio and Wayne Iba and Pat Langley   </author>::line_number::2
+<author>  Pat Langley Wayne Iba Jeff Shrager   </author>::line_number::2
+<author>  Ron Rymon    </author>::line_number::1
+<author>  Elisa Bertino Sushil Jajodia Luigi Mancini Indrajit Ray x   </author>::line_number::2
+<author>  Yihong Gong, Guido Proietti , and Christos Faloutsos    </author>::line_number::2
+<author>  Susan Fox and David B. Leake   </author>::line_number::2
+<author>  * Eduardo D. Sontag ** Hector J. Sussmann   </author>::line_number::1
+<author>  Eduardo D. Sontag   </author>::line_number::1
+<author>  Yudi Yang   </author>::line_number::2
+<author>  Eduardo D. Sontag    </author>::line_number::7
+<author>  Hector J. Sussmann    </author>::line_number::12
+<author>  Shimon Even 1 and Yishay Mansour 2   </author>::line_number::2
+<author>  Nimrod Megiddo    </author>::line_number::1
+<author>  Daphne Koller    </author>::line_number::2
+<author>  Nimrod Megiddo    </author>::line_number::4
+<author>  Mark Lucente   </author>::line_number::2
+<author>  Barry Arons   </author>::line_number::2
+<author>  Scott Brave   </author>::line_number::2
+<author>  by  </author>::line_number::1
+<author> Nelson Minar   </author>::line_number::2
+<author>  by  </author>::line_number::9
+<author> Bernd Schoner   </author>::line_number::10
+<author>  Simon Schultzy and Alessandro Trevesz   </author>::line_number::2
+<author>  Takao Mohri and Hidehiko Tanaka   </author>::line_number::2
+<author>  Lus Torgo   </author>::line_number::2
+<author>  Luis Torgo   </author>::line_number::3
+<author>  Christian W. Omlin a;b and C.L. Giles a;c   </author>::line_number::1
+<author>  Tsungnan Lin 1;2y ,C. Lee Giles 1;3 , Bill G. Horne 1 , S.Y. Kung 2   </author>::line_number::2
+<author>  Steve Lawrence 1;2 , C. Lee Giles 1 , Ah Chung Tsoi 2   </author>::line_number::2
+<author>  Steve Lawrence and C. Lee Giles   </author>::line_number::3
+<author>  Harold S. Stone  </author>::line_number::2
+<author> Lance R. Williams   </author>::line_number::3
+<author>  Leslie A. Hall David B. Shmoys Joel Wein    </author>::line_number::3
+<author>  C. B. Netterfield, N. Jarosik, L. Page, D. Wilkinson, & E. Wollack 1  </author>::line_number::2
+<author>  </author>::line_number::3
+<author>  P. Hajcek   </author>::line_number::4
+<author>  $flfl Papayannis*, E. Fokitis   </author>::line_number::3
+<author>  Antonio Carzaniga   </author>::line_number::2
+<author>  Gian Pietro Picco   </author>::line_number::8
+<author>  Giovanni Vigna   </author>::line_number::14
+<author>  Jack Gelfand 1 , Vijay Gullapalli 1 , Marcia Johnson 1 , Carol Raye 1 and  </author>::line_number::5
+<author> Jeffrey Henderson 2   </author>::line_number::6
+<author>  Dalia Malki Ken Birman Aleta Ricciardi Andre Schiper x   </author>::line_number::2
+<author>  Michael Kearns   </author>::line_number::2
+<author>  Yishay Mansour   </author>::line_number::4
+<author> Computing, pages 459-468, ACM Press, 1996. Authors' addresses:   M. Kearns,   AT&T Research,   600 Mountain Avenue, Room  </author>::line_number::26
+<author>  Eric Bauer   </author>::line_number::1
+<author>  Daphne Koller   </author>::line_number::4
+<author>  Yoram Singer   </author>::line_number::7
+<author>  Peter Steenkiste   </author>::line_number::2
+<author>  Eugene Fink    </author>::line_number::2
+<author>  Qiang Yang    </author>::line_number::8
+<author>  Marcel Bergerman Christopher Lee Yangsheng Xu   </author>::line_number::2
+<author>  Mads Tofte,   Department of Computer Science, University of Copenhagen   </author>::line_number::1
+<author>  Lars Birkedal,   School of Computer Science, Carnegie Mellon University   </author>::line_number::2
+<author>  Iliano Cervesato and Frank Pfenning 1   </author>::line_number::1
+<author>  Andrew E. Brennemann, 1 Robert Hammer, 2  </author>::line_number::2
+<author> William V. Jecusco II, 3  </author>::line_number::3
+<author> and Ralph L. Hollis 4   </author>::line_number::4
+<author>  Richard M. Voyles, Jr. Pradeep K. Khosla    </author>::line_number::1
+<author>  Paul S. Heckbert   </author>::line_number::3
+<author>  Robert T. Collins, Yanghai Tsin, J. Ryan Miller and Alan J. Lipton   </author>::line_number::1
+<author>  Mark Leone Peter Lee   </author>::line_number::1
+<author>  Gary T. Leavens 2 and Jeannette M. Wing 3   </author>::line_number::3
+<author>  Mary Shaw and Paul Clements   </author>::line_number::3
+<author>  Yan-Bin Jia Michael Erdmann   </author>::line_number::1
+<author>  Jin-Oh Kim 2 , Matthew Wayne Gertz 3 , and Pradeep K. Khosla 4   </author>::line_number::1
+<author>  Roger B. Dannenberg   </author>::line_number::1
+<author>  Richard McDaniel   </author>::line_number::2
+<author>  R. Rosenfeld   </author>::line_number::2
+<author>  By  </author>::line_number::9
+<author> Todd C. Mowry  </author>::line_number::10
+<author>  </author>::line_number::11
+<author>  Todd Mowry and Anoop Gupta   </author>::line_number::2
+<author>  Todd C. Mowry Chi-Keung Luk   </author>::line_number::2
+<author>  Sebastian Thrun   </author>::line_number::1
+<author>  J. D. Tygar Alma Whitten   </author>::line_number::1
+<author>  Russell D. Wolfinger   </author>::line_number::2
+<author>  and Robert E. Kass   </author>::line_number::5
+<author>  By Zhen Luo 1   </author>::line_number::1
+<author>  Fei CHEN , Stephen FIGLEWSKI ,  </author>::line_number::6
+<author> Jeffrey HEISLER zz , Andreas S. WEIGEND    </author>::line_number::7
+<author>  Anita Pos 1 and Hans Akkermans 1 and Remco Straatman 2  </author>::line_number::1
+<author>  </author>::line_number::2
+<author>  Marc E. Fiuczynski  </author>::line_number::2
+<author> Brian N. Bershad   </author>::line_number::3
+<author>  Israel Cidon  </author>::line_number::2
+<author> Tony Hsiao  </author>::line_number::3
+<author> Asad Khamisy  </author>::line_number::4
+<author> Abhay Parekh  </author>::line_number::5
+<author> Raphael Rom  </author>::line_number::6
+<author> Moshe Sidi   </author>::line_number::7
+<author>  Rimon Orni and Uzi Vishkin    </author>::line_number::2
+<author>  Margrit Betke    </author>::line_number::1
+<author>  Leonid Gurvits    </author>::line_number::5
+<author>  by  </author>::line_number::2
+<author> Margrit Betke   </author>::line_number::3
+<author>  Margrit Betke and Nicholas C. Makris :   </author>::line_number::4
+<author>  Thomas Haynes   </author>::line_number::2
+<author>  Guy E. Blelloch and Bruce M. Maggs   </author>::line_number::1
+<author>  M.C. Burl yz , U.M. Fayyad , P. Perona , P. Smyth    </author>::line_number::2
+<author>  Elke Thonnes   </author>::line_number::2
+<author>  Rob Udink and Ted Herman and Joost Kok   </author>::line_number::2
+<author>  R.T. Udink    </author>::line_number::2
+<author>  J.N. Kok   </author>::line_number::5
+<author>  D.R. Tauritz & J.N. Kok & I.G. Sprinkhuizen-Kuyper   </author>::line_number::1
+<author>  Albert D. Alexandrov, Maximilian Ibel, Klaus E. Schauser, and Chris J. Scheiman   </author>::line_number::1

@@ -78,14 +78,13 @@ def isMayName(x):
 flist = [isEmail,isURL,isSingleCap,isPostCode,isAbstract,
 			isPage,isKeyWord, isIntro, isPhone, isMonth, isPrep,
 			isPubNum, isNote, isAffi, isAddr, isCity, 
-			isState, isCountry, isMayName]
-diclist = flist+[isDegree]
+			isState, isCountry, isMayName, isDegree]
+diclist = flist[:]
 def updateWordSpecificVector(word,vector):
 	for fun in flist:
 		if not vector.has_key(fun.__name__):
 			vector[fun.__name__]=0
 		vector[fun.__name__] += int(fun(word))
-
 if __name__ == '__main__':
 	#line = 'Tel: +44 (0) 121 414 4791, Fax: +44 (0) 121 414 4281'
 	#for word in line.split(' '):

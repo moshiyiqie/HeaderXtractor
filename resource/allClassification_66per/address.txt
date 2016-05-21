@@ -1,0 +1,987 @@
+<address>  Atlanta, Georgia 30332-0280   </address>::line_number::14
+<address> The Ohio State University,   Columbus, OH 43210-1277   </address>::line_number::4
+<address>  Columbus, OH 43210   </address>::line_number::5
+<address>  Columbus, Ohio   </address>::line_number::4
+<address>  5401 Wilkens Avenue  </address>::line_number::5
+<address> Baltimore, MD   </address>::line_number::6
+<address>  2015 Neil Avenue  </address>::line_number::11
+<address> Columbus, OH 43210   </address>::line_number::12
+<address>  Columbus, OH 43210-1277   </address>::line_number::5
+<address>  Columbus, OH 43210   </address>::line_number::4
+<address>  Columbus, OH 43210   </address>::line_number::5
+<address>  4-192 Electrical Engineering and Computer Science Building  </address>::line_number::7
+<address> 200 Union St. SE, Minneapolis, MN 55455   </address>::line_number::8
+<address> University of Texas at Austin,   Austin, Texas 78712   </address>::line_number::4
+<address>  Pittsburgh, PA 15213 D-79110 Freiburg, Germany D-53117 Bonn, Germany Austin, TX 78712   </address>::line_number::5
+<address>  Seattle, WA 98195   </address>::line_number::5
+<address> University of California,   Berkeley, CA 94720, U.S.A.   </address>::line_number::5
+<address>  Memphis TN 38152   </address>::line_number::5
+<address>  Houston, TX 77251-1892   </address>::line_number::3
+<address>  West Lafayette, IN 47907-1398   </address>::line_number::6
+<address>  Falmer  </address>::line_number::7
+<address> Brighton BN1 9QH  </address>::line_number::8
+<address> England, U.K.   </address>::line_number::9
+<address>  Murray Hill, New Jersey 07974   </address>::line_number::4
+<address>  PO Box 91000  </address>::line_number::4
+<address> Portland, Oregon 97291-1000  </address>::line_number::5
+<address> USA   </address>::line_number::6
+<address>  P.O. Box 91000, Portland, OR 97291-1000 USA   </address>::line_number::3
+<address>  630090 Novosibirsk, Russia   </address>::line_number::7
+<address>  630090 Novosibirsk, Russia   </address>::line_number::10
+<address>  1717 W. 6th St. Suite 290  </address>::line_number::5
+<address> Austin, Texas 78703   </address>::line_number::6
+<address>  20000 N.W. Walker Road P.O. Box 91000  </address>::line_number::4
+<address> Portland, OR 97291-1000   </address>::line_number::5
+<address>  Schottengasse 3  </address>::line_number::4
+<address> A-1010 Vienna, Austria   </address>::line_number::5
+<address> Odense University,   Denmark   </address>::line_number::5
+<address>  Greensboro, North Carolina   </address>::line_number::4
+<address>  Atlanta, GA, 30332.   </address>::line_number::6
+<address>  Atlanta, Georgia 30332-0280   </address>::line_number::26
+<address>  Atlanta, GA, 30332-0281 USA   </address>::line_number::6
+<address> McGill University,    McConnell Engineering Building  </address>::line_number::5
+<address> 3480 Universite, Montreal, Quebec, CANADA, H3A 2A7   </address>::line_number::6
+<address>  Gainesville, FL 32611 College Park, MD 20742   </address>::line_number::6
+<address>  Gainesville, FL 32611   </address>::line_number::6
+<address> University of California,   Berkeley, CA 94720.   </address>::line_number::5
+<address> University of Florida,   Gainesville, FL 32611.   </address>::line_number::7
+<address> Deakin University,   Geelong, Victoria, 3217, Australia.   </address>::line_number::6
+<address>  Geelong, Victoria 3217   </address>::line_number::7
+<address> The Salk Institute,   La Jolla, CA, 92037   </address>::line_number::10
+<address>  San Diego, CA 92186-5800   </address>::line_number::6
+<address>  Tucson, AZ 85721, USA   </address>::line_number::4
+<address>  Rains Apt. 9A  </address>::line_number::6
+<address> 704 Campus Dr.  </address>::line_number::7
+<address> Stanford, CA. 94305   </address>::line_number::8
+<address>  Birmingham B15 2TT   </address>::line_number::15
+<address>  Pasadena, CA 91125   </address>::line_number::3
+<address>  Pasadena, California   </address>::line_number::9
+<address>  I-67010 L'Aquila, Italy Boulder, CO 80309 USA   </address>::line_number::8
+<address>  Buenos Aires, Argentina   </address>::line_number::11
+<address>  Boulder, CO 80309 USA   </address>::line_number::7
+<address>  Boulder, CO 80309 USA   </address>::line_number::6
+<address>  Boulder, Colorado 80309 USA   </address>::line_number::4
+<address>  79 Amherst Street, E10-243  </address>::line_number::5
+<address> Cambridge, MA 02139   </address>::line_number::6
+<address>  Amherst, MA 01003   </address>::line_number::6
+<address>  New York, N.Y. 10027   </address>::line_number::5
+<address>  New York, N.Y. 10027   </address>::line_number::3
+<address> Columbia University   755 College Road East  </address>::line_number::5
+<address> New York, N.Y. 10027 Princeton, N.J. 08540   </address>::line_number::6
+<address>  College at Lincoln Center  </address>::line_number::4
+<address> New York, NY 10023   </address>::line_number::5
+<address>  New York, NY 10023   </address>::line_number::9
+<address> Columbia University,    New York, NY 10027   </address>::line_number::5
+<address>  B-3590 Diepenbeek, Belgium.   </address>::line_number::4
+<address>  Montreal, Quebec H3G 1M8, Canada   </address>::line_number::9
+<address>  Hanover, NH 03755-3510   </address>::line_number::6
+<address>  Jerusalem, Israel, 91904   </address>::line_number::5
+<address>  Bloomington, IN, 47405  </address>::line_number::4
+<address>  </address>::line_number::5
+<address>  215 Lindley Hall   </address>::line_number::5
+<address>  Bloomington, IN 47405   </address>::line_number::7
+<address>  Nijmegen, The Netherlands,   October 1994.   </address>::line_number::6
+<address> Informatics, University of Nijmegen,   Toernooiveld 1, 6525 ED  </address>::line_number::31
+<address> Nijmegen, The Netherlands   </address>::line_number::32
+<address>  Toernooiveld 1  </address>::line_number::6
+<address> NL-6525 ED Nijmegen  </address>::line_number::7
+<address> The Netherlands   </address>::line_number::8
+<address> Institute, University of Nijmegen,   Nijmegen, The Netherlands,   September 1994.   </address>::line_number::12
+<address>  Manchester M13 9PL  </address>::line_number::4
+<address> United Kingdom   </address>::line_number::5
+<address>  Manchester M13 9PL  </address>::line_number::4
+<address> United Kingdom   </address>::line_number::5
+<address>  Corvallis, OR 97331-3202   </address>::line_number::6
+<address>  Dundee DD1 4HN, Scotland   </address>::line_number::6
+<address>  W-Lafayette, IN 47907-1398  </address>::line_number::10
+<address> USA   </address>::line_number::11
+<address>  Rochester, New York 14627   </address>::line_number::4
+<address>  Lexington, KY 40506, USA   </address>::line_number::4
+<address>  Rochester, NY 14627, USA   </address>::line_number::9
+<address>  07740 Jena, Germany   </address>::line_number::14
+<address>  Rochester, NY 14627-0226  </address>::line_number::6
+<address> USA   </address>::line_number::7
+<address>  Rochester, NY 14627-0226  </address>::line_number::11
+<address> USA   </address>::line_number::12
+<address>  10 King's College Road  </address>::line_number::5
+<address> Toronto, Canada M5S 1A4   </address>::line_number::6
+<address>  Toronto, Ontario, M5S 1A4, Canada   </address>::line_number::5
+<address>  Toronto, Ontario, M5S 3H5, Canada   </address>::line_number::6
+<address>  96 Falmouth Street  </address>::line_number::4
+<address> Portland, Maine 04103   </address>::line_number::5
+<address>  1100 East Fifty-eighth Street  </address>::line_number::10
+<address> Chicago, Illinois 60637   </address>::line_number::11
+<address>  Santa Barbara, CA 93106   </address>::line_number::4
+<address>  Amherst, MA 01003   </address>::line_number::4
+<address>  Amherst, MA 01003-4610   </address>::line_number::4
+<address>  Amherst, MA 01003-4610   </address>::line_number::9
+<address>  Boulder, CO 80309-0430   </address>::line_number::14
+<address>  Amherst, MA 01003-4610   </address>::line_number::9
+<address>  Amherst, Massachusetts 01003   </address>::line_number::4
+<address>  Tacoma, WA 98447   </address>::line_number::4
+<address>  Amherst, MA 01003   </address>::line_number::9
+<address>  44 Cummington Street  </address>::line_number::10
+<address> Boston, Massachusetts 02125   </address>::line_number::11
+<address>  Building 220, Room A-127  </address>::line_number::4
+<address> Gaithersburg, MD 20899   </address>::line_number::5
+<address>  College Park, MD 20742 USA  </address>::line_number::11
+<address>  </address>::line_number::12
+<address>  College Park, MD 20742 USA   </address>::line_number::19
+<address> University of Maryland,   College Park, MD 20742.   </address>::line_number::11
+<address>  College Park, MD 20742   </address>::line_number::6
+<address>  College Park, Maryland 20742   </address>::line_number::6
+<address>  Ilkovicova 3, 812 19 Bratislava, Slovakia   </address>::line_number::5
+<address>  4 Independence Way  </address>::line_number::9
+<address> Princeton, NJ 08540   </address>::line_number::10
+<address>  College Park, MD 20742   </address>::line_number::15
+<address>  College Park, MD 20742   </address>::line_number::20
+<address> of Maryland,   College Park, MD 20742.   This work was supported in part by the National Science  </address>::line_number::15
+<address> Foundation under grant CCR 95503126.  </address>::line_number::16
+<address>  </address>::line_number::17
+<address>  College Park, MD 20742-3255   </address>::line_number::5
+<address> University of Maryland,   College Park, MD 20742   </address>::line_number::3
+<address>  College Park, MD 20742   </address>::line_number::6
+<address> University of Maryland,   College Park, MD 20742-3255   </address>::line_number::6
+<address>  Chapel Hill, NC 27599-3175 USA   </address>::line_number::5
+<address>  Salt Lake City, UT 84112 USA   </address>::line_number::4
+<address>  Salt Lake City, UT 84112 USA   </address>::line_number::10
+<address>  1717 West Sixth Street, Suite 290  </address>::line_number::5
+<address> Austin, Texas 78703-4776   </address>::line_number::6
+<address>  Austin, TX 78712-1188   </address>::line_number::4
+<address>  Austin, TX 78712  </address>::line_number::5
+<address>  </address>::line_number::6
+<address>  Austin, Texas 78712   </address>::line_number::4
+<address>  Austin, Texas 78712   </address>::line_number::5
+<address>  Austin, TX 78712-1188  </address>::line_number::4
+<address> USA   </address>::line_number::5
+<address>  Taylor Hall 2.124  </address>::line_number::4
+<address> Austin, TX 78712-1188   </address>::line_number::5
+<address>  Charlottesville, VA 22903   </address>::line_number::7
+<address>  Seattle, WA 98195   </address>::line_number::9
+<address>  29 Oxford Street  </address>::line_number::14
+<address>  </address>::line_number::15
+<address>  Cambridge MA 02138  </address>::line_number::18
+<address>  </address>::line_number::19
+<address>  Seattle, WA 98195 USA   </address>::line_number::5
+<address>  Seattle, WA 98195   </address>::line_number::4
+<address>  Seattle, WA 98195   </address>::line_number::5
+<address>  Seattle, WA 98195   </address>::line_number::5
+<address>  Seattle, WA   </address>::line_number::3
+<address>  Box 352350  </address>::line_number::7
+<address> Seattle, WA 98195   </address>::line_number::8
+<address>  Box 352350, Seattle, WA 98195-2350 USA   </address>::line_number::6
+<address>  610 Walnut St.  </address>::line_number::22
+<address> Madison WI 53705   </address>::line_number::23
+<address>  Madison, Wisconsin 53706   </address>::line_number::4
+<address>  1210 West Dayton Street  </address>::line_number::7
+<address> Madison, WI 53706, USA   </address>::line_number::8
+<address>  Singapore 0511, Republic of Singapore   </address>::line_number::4
+<address>  Sydney, NSW 2052, Australia   </address>::line_number::9
+<address>  1210 West Dayton Street 205 Mathematical Sciences  </address>::line_number::4
+<address> Madison, WI 53706 Stillwater, OK 74078   </address>::line_number::5
+<address>  1210 W. Dayton Street  </address>::line_number::5
+<address> Madison, WI 53706   </address>::line_number::6
+<address>  Worcester, MA 01609   </address>::line_number::6
+<address>  P.O. Box 208285  </address>::line_number::5
+<address> Yale University  </address>::line_number::6
+<address> New Haven, CT, 06520   </address>::line_number::7
+<address>  CH-6928 Manno, Switzerland   </address>::line_number::10
+<address>  New Britain, CT 06050   </address>::line_number::4
+<address>  Shatin, N.T., Hong Kong   </address>::line_number::5
+<address> The University of New South Wales,   Sydney, Australia, 2052   </address>::line_number::3
+<address> University of NSW,   Australia   </address>::line_number::5
+<address>  Australia   </address>::line_number::10
+<address>  P.O.Box 94079  </address>::line_number::4
+<address> NL-1090 GB Amsterdam, The Netherlands   </address>::line_number::5
+<address>  P.O.Box 26, Department of Computer Science  </address>::line_number::12
+<address> FIN-00014 University of Helsinki, Finland   </address>::line_number::13
+<address>  6 King's College Road  </address>::line_number::4
+<address> Toronto, Ontario, Canada m4s 1a1   </address>::line_number::5
+<address> Hebrew University,   Jerusalem, Israel   </address>::line_number::4
+<address> University of Michigan,   Ann Arbor, Michigan 48109   </address>::line_number::6
+<address>  Ann Arbor, Michigan 48109-2110   </address>::line_number::7
+<address>  Ann Arbor, Michigan 48109   </address>::line_number::4
+<address>  4401 EECS, University of Michigan, Ann Arbor, MI 48109   </address>::line_number::3
+<address>  Ann Arbor, Michigan 48109-2110   </address>::line_number::7
+<address> University of Michigan,   Ann Arbor, MI 48109   </address>::line_number::6
+<address> Changsha Institute of Technology,   Changsha, Hunan, P.R. China   </address>::line_number::8
+<address>  1101 Beal Avenue  </address>::line_number::6
+<address> Ann Arbor, MI, 48109-2110   </address>::line_number::7
+<address>  Gainesville, FL 32611   </address>::line_number::5
+<address>  75675 Paris cedex 14, France   </address>::line_number::10
+<address>  Burnaby, B.C., Canada V5A 1S6   </address>::line_number::5
+<address>  Givat Ram, Jerusalem, Israel   </address>::line_number::6
+<address>  Honolulu, HI 96822   </address>::line_number::5
+<address>  Berkeley, CA 94720-1900, USA   </address>::line_number::6
+<address>  Honolulu, HI 96822, USA   </address>::line_number::10
+<address>  International Computer Science Institute, Berkeley, CA 94704.   email: aberer@icsi.berkeley.edu.   Supported by Schweizerische Gesellschaft zur Forderung der Informatik und ihrer Anwendungen   </address>::line_number::20
+<address> International Computer Science Institute,   Berkeley, CA   </address>::line_number::4
+<address>  I 1947 Center St. * Suite 600 * Berkeley, California 94704-1198   * (510) 643-9153 * FAX (510) 643-7684   </address>::line_number::1
+<address>  I 1947 Center St. * Suite 600 * Berkeley, California 94704-1198 *   (510) 643-9153 * FAX (510) 643-7684   </address>::line_number::1
+<address>  I 1947 Center St. * Suite 600 * Berkeley, California 94704-1198   * (510) 643-9153 * FAX (510) 643-7684   </address>::line_number::1
+<address>  Berkeley, California 94720, USA   </address>::line_number::7
+<address>  Universitatsring 15, D-54286 Trier, Germany   </address>::line_number::10
+<address>  I 1947 Center St. * Suite 600 * Berkeley, California 94704-1198    * (510) 643-9153 * FAX (510) 643-7684   </address>::line_number::1
+<address>  581 83 Linkoping, Sweden   </address>::line_number::5
+<address>  4676 Admiralty Way, Marina del Rey, CA 90292   </address>::line_number::11
+<address>  4676 Admiralty Way Marina del Rey, CA 90292   </address>::line_number::15
+<address>  4800 Oak Grove Drive M/S 525-3660  </address>::line_number::4
+<address> Pasadena, CA 91109-8099   </address>::line_number::5
+<address>  4676 Admiralty Way  </address>::line_number::10
+<address> Marina del Rey, CA 90292   </address>::line_number::11
+<address> University of Texas,   Austin, TX 78712-1084   </address>::line_number::4
+<address>  62 Picnic Rd.  </address>::line_number::4
+<address> Boxboro, MA 01719 USA   </address>::line_number::5
+<address>  545 Technology Square, room 420  </address>::line_number::4
+<address> Cambridge, MA 02139   </address>::line_number::5
+<address>  Am Hubland  </address>::line_number::4
+<address> D-97074 Wurzburg  </address>::line_number::5
+<address> Germany   </address>::line_number::6
+<address>  545 Technology Square, Cambridge, MA 02139   </address>::line_number::6
+<address>  One Microsoft Way  </address>::line_number::12
+<address> Redmond, WA 98052   </address>::line_number::13
+<address>  One Microsoft Way  </address>::line_number::10
+<address> Redmond, WA 98052   </address>::line_number::11
+<address>  Troy, NY 12180    </address>::line_number::6
+<address>  1210 West Dayton St.  </address>::line_number::2
+<address> Madison, WI 53706   </address>::line_number::3
+<address>  College Park, MD 20742   </address>::line_number::5
+<address>  Argonne, IL 60432   </address>::line_number::10
+<address>  Amherst, MA 01003   </address>::line_number::5
+<address>  Amherst, MA 01003   </address>::line_number::9
+<address>  Amherst, MA 01003   </address>::line_number::4
+<address>  Amherst, MA 01003   </address>::line_number::4
+<address>    Amherst, MA 01003, U.S.A   </address>::line_number::5
+<address>  1000 Ljubljana, Slovenia   (E-mail: Blaz.Zupan@ijs.si, Saso.Dzeroski@ijs.si)   </address>::line_number::5
+<address>  1210 W. Dayton Street  </address>::line_number::6
+<address> Madison, WI 53706 USA   </address>::line_number::7
+<address>  College Park, MD 20742 Syracuse, NY 13244   </address>::line_number::6
+<address>  Via Abbiategrasso 209  </address>::line_number::4
+<address> I-27100 PAVIA, ITALY   </address>::line_number::5
+<address>  Piazza Leonardo da Vinci 32  </address>::line_number::7
+<address> 20133 Milano, Italy   </address>::line_number::8
+<address> Universit Libre de Bruxelles,   CP 194/6  </address>::line_number::13
+<address> Avenue Franklin Roosevelt 50  </address>::line_number::14
+<address> 1050 Bruxelles, Belgium, European Union   </address>::line_number::15
+<address>  Contrada Sacchi, 3  </address>::line_number::23
+<address> 47023 Cesena, Italy   </address>::line_number::24
+<address> National Research Council,   Viale Marx 15, 00137 Rome, Italy   </address>::line_number::3
+<address> University of Aarhus,   Ny Munkegade, 8000 Aarhus C., Denmark   </address>::line_number::6
+<address>  Calgary, Alberta, Canada T2N 1N4   </address>::line_number::3
+<address> University of Utah,   Salt Lake City, UT 84112 USA   </address>::line_number::4
+<address>  Berkeley, CA 94720   </address>::line_number::6
+<address>  Milano (Italy)   </address>::line_number::5
+<address> Univ. of Maryland,   College Park   </address>::line_number::10
+<address> University of Durham,   DH1 3LE, UK   </address>::line_number::6
+<address>  Ann Arbor, Michigan 48109-2122.   </address>::line_number::5
+<address>  Berkeley, CA 94720.   </address>::line_number::11
+<address>  Seattle, WA 98195-2350   </address>::line_number::4
+<address>  P.O. Box 1892  </address>::line_number::8
+<address> Houston, TX 77251-1892   </address>::line_number::9
+<address> Caltech,   Pasadena CA 91125.   </address>::line_number::4
+<address> Caltech,   Pasadena CA 91125.   </address>::line_number::7
+<address>  Cambridge, Massachusetts 02139   </address>::line_number::3
+<address>  Cambridge, MA 02139, USA   </address>::line_number::6
+<address>  CWI  </address>::line_number::9
+<address> P.O. Box 94079, NL-1090 GB Amsterdam   </address>::line_number::10
+<address>  Kruislaan 403, NL-1098 SJ Amsterdam   </address>::line_number::14
+<address>  Cambridge, MA 02139, U.S.A.   </address>::line_number::6
+<address>  Cambridge, MA 02139   </address>::line_number::5
+<address>  2-120 Center for Science and Technology,   </address>::line_number::4
+<address> Syracuse University,   Syracuse, NY 13244-4100, U.S.A.   </address>::line_number::6
+<address>  New Brunswick, NJ 08904   </address>::line_number::5
+<address>  Piscataway, NJ 08855   </address>::line_number::5
+<address>  New Brunswick, New Jersey 08903   </address>::line_number::6
+<address>  Northern Ireland, UK, BT37 0QB   </address>::line_number::4
+<address> University of California,   Los Angeles, CA 90024   </address>::line_number::4
+<address> Universita di Genova,   via Dodecaneso 35, 16146 Genova, Italy   </address>::line_number::4
+<address> Universita di Salerno,   84081 Baronissi (SA), Italy   </address>::line_number::8
+<address> University of Waterloo,   Waterloo Ontario, N2L 3G1, Canada   </address>::line_number::12
+<address>  Pittsburgh, PA 15213   </address>::line_number::9
+<address>  Pittsburgh, Pennsylvania   </address>::line_number::12
+<address>  Jamova 39, 1111 Ljubljana, Slovenia   </address>::line_number::3
+<address>  Pittsburgh, PA 15213-3890   </address>::line_number::6
+<address>  Pittsburgh, PA 15213   </address>::line_number::5
+<address>  Pittsburgh, PA 15213   </address>::line_number::7
+<address> Stanford University,   CA 94305   </address>::line_number::5
+<address>  A-4040 Linz, Austria   </address>::line_number::5
+<address>  Urbana, IL 61801 Urbana, IL 61801   </address>::line_number::4
+<address>  Amherst, MA 01003   </address>::line_number::4
+<address>  200 Forest Street, MRO1-1/A65  </address>::line_number::7
+<address> Marlboro, MA 01752-9101   </address>::line_number::8
+<address>  Amherst, MA 01003   </address>::line_number::11
+<address>  Amherst, MA 01003-4610 USA   </address>::line_number::6
+<address>  Amherst, MA 01003-4610 USA   </address>::line_number::13
+<address> University of Massachusetts,   Amherst, MA 01003   </address>::line_number::3
+<address>  Jerusalem, Israel   </address>::line_number::6
+<address>  91904 Jerusalem, Israel   </address>::line_number::5
+<address>  One Microsoft Way  </address>::line_number::9
+<address> Redmond, WA 98052   </address>::line_number::10
+<address>  Rehovot, Israel   </address>::line_number::15
+<address>  Box 1679, Station B   </address>::line_number::5
+<address>  Nashville, TN 37235   </address>::line_number::7
+<address> UC Berkeley,   Berkeley, CA 94720   </address>::line_number::3
+<address> UCLA,   Los Angeles, CA 90095   </address>::line_number::7
+<address> UC Berkeley,   Berkeley, CA 94720   </address>::line_number::11
+<address>  Campus UAB, 08193 Bellaterra, Barcelona, Spain,   enric@iiia.csic.es    </address>::line_number::13
+<address>  Piscataway, New Jersey 08855-1179   </address>::line_number::8
+<address>  130 Lytton Avenue,  </address>::line_number::4
+<address> Palo Alto, California 94301   </address>::line_number::5
+<address>  445 South Street,  </address>::line_number::8
+<address> Morristown, New Jersey 07960   </address>::line_number::9
+<address>  Urbana, Illinois   </address>::line_number::11
+<address>  Campus Box 1045   </address>::line_number::6
+<address>  One Brookings Drive  </address>::line_number::8
+<address> St. Louis, MO 63130-4899   </address>::line_number::9
+<address>  Amherst, Mass. 01003, USA   </address>::line_number::5
+<address>  Seattle, WA 98195   </address>::line_number::5
+<address>  20 Ames St, E15-305  </address>::line_number::3
+<address> Cambridge, MA 02139   </address>::line_number::4
+<address>  Pittsburgh, PA 15213   </address>::line_number::6
+<address>  Pittsburgh, Pennsylvania 15213-3891   </address>::line_number::4
+<address>  405 N. Mathews Avenue  </address>::line_number::5
+<address> Urbana, IL 61801   </address>::line_number::6
+<address>  New Haven, CT 06520-8285   </address>::line_number::11
+<address>  P.O. Box 883,  </address>::line_number::16
+<address> Kenmore. Australia, 4069.   </address>::line_number::17
+<address>  CA 92697-3425.   </address>::line_number::5
+<address>  P.O. Box 80.000, 5600 JA Eindhoven, The Netherlands   </address>::line_number::4
+<address>  20 Ames Street, E15-320R/N  </address>::line_number::4
+<address> Cambridge, MA 02139 USA   </address>::line_number::5
+<address>  via Claudio 21  </address>::line_number::5
+<address> 80125 Napoli, Italy   </address>::line_number::6
+<address>  1304 W. Springfield Ave.  </address>::line_number::11
+<address> Urbana, IL 61801, USA   </address>::line_number::12
+<address>  Seattle, Washington 98195   </address>::line_number::5
+<address>  130 Lytton Avenue  </address>::line_number::7
+<address> Palo Alto, California 94301   </address>::line_number::8
+<address>  130 Lytton Avenue  </address>::line_number::7
+<address> Palo Alto, California 94301   </address>::line_number::8
+<address>  Iowa City, IA 52242 Schenectady, NY 12345 Oxford, UK Oxford, UK   </address>::line_number::5
+<address>  Los Angeles, California   </address>::line_number::5
+<address> Columbia University,   New York   </address>::line_number::8
+<address>  Berkeley, California   </address>::line_number::12
+<address>  Campus Box 430   </address>::line_number::3
+<address>  Boulder, CO 80309-0430 USA   </address>::line_number::5
+<address> University of Illinois at Urbana-Champaign,   IL 61801   </address>::line_number::4
+<address> University of Illinois at Urbana-Champaign,   IL 61801   </address>::line_number::4
+<address>  Langgassstrasse 51  </address>::line_number::5
+<address> CH-3012 Bern, Switzerland  </address>::line_number::6
+<address>  </address>::line_number::7
+<address> NASA Ames Research Center,   MS 269-2  </address>::line_number::3
+<address> Moffett Field, CA 94305 USA   </address>::line_number::4
+<address> Artificial Intelligence Research Group,   Sekr. FR 5-8,  </address>::line_number::4
+<address> Franklinstr. 28/29. D-10587 Berlin, Germany   </address>::line_number::5
+<address>  email: schaedle,schmid,compuman,herold@cs.tu-berlin.de   </address>::line_number::7
+<address> University of California,   Berkeley, CA 94720   </address>::line_number::5
+<address> University of California,   Berkeley, CA 94720-1774   </address>::line_number::3
+<address>  Corvallis, OR 97331-3202   </address>::line_number::5
+<address>  Madison, Wisconsin 53706, USA   </address>::line_number::5
+<address> University of North Carolina at Chapel Hill,   Chapel Hill, NC 27599-3255   </address>::line_number::7
+<address>  1304 W. Springfield Avenue   </address>::line_number::5
+<address>  Urbana, IL 61801, USA   </address>::line_number::7
+<address>  1304 W. Springfield Avenue   </address>::line_number::4
+<address>  Urbana, IL 61801, USA   </address>::line_number::6
+<address>  New Brunswick, NJ 08903   </address>::line_number::9
+<address> The University of Texas at Austin,   Austin, TX, USA   </address>::line_number::5
+<address>  Austin, TX. 78712-1084   </address>::line_number::5
+<address>  BERKELEY, CALIFORNIA 94720   August 17, 1997   </address>::line_number::2
+<address>  University of California, Berkeley  </address>::line_number::11
+<address> 94720   </address>::line_number::12
+<address> University of California,   Berkeley CA 94720   </address>::line_number::3
+<address> University of California,   Berkeley, CA 94720   </address>::line_number::4
+<address>  211-85 Cory Hall,   Department of EECS   </address>::line_number::3
+<address>  Berkeley, CA94720   </address>::line_number::5
+<address> University of California,   Berkeley, CA 94720   </address>::line_number::3
+<address>  MS 210-3,   NASA Ames Research Center,   Moffett Field CA 94035   </address>::line_number::4
+<address>  Berkeley, CA 94720   </address>::line_number::5
+<address>  Berkeley, CA 94720-1774   </address>::line_number::5
+<address>  Address: 211-109 Cory Hall, EECS, UC Berkeley, Berkeley, CA 94720-1772, USA.   Tel: (USA) 510-643-2383.   </address>::line_number::31
+<address>  Address: 211- 98 Cory Hall, EECS, UC Berkeley, Berkeley, CA 94720-1772, USA.   Tel: (USA) 510-643-5806.   </address>::line_number::32
+<address>  x Address: 269M Cory Hall, EECS, UC Berkeley, Berkeley, CA 94720-1772, USA.   Tel: (USA) 510-642-1857.   </address>::line_number::33
+<address>  Berkeley, CA 94720   </address>::line_number::8
+<address>  Stanford, California 94305   </address>::line_number::4
+<address>  2011 N. Shoreline Blvd  </address>::line_number::5
+<address> Mountain View, CA 94043-1389   </address>::line_number::6
+<address>  Berkeley, CA 94720   </address>::line_number::5
+<address>  Murray Hill, NJ 07063   </address>::line_number::6
+<address>  St. Louis, MO 63130   </address>::line_number::6
+<address>  Thomas-Dehler-Str. 27  </address>::line_number::7
+<address> D-81737 Mnchen, Germany   </address>::line_number::8
+<address>  Reumannplatz 7  </address>::line_number::14
+<address> A-1100 Vienna, Austria   </address>::line_number::15
+<address>  4001 Weston Pkwy, Cary, NC 27513-2303   </address>::line_number::4
+<address>  2800 Powder Mill Road  </address>::line_number::3
+<address> Adelphi, Maryland 20783-1197  </address>::line_number::4
+<address> U.S.A.   </address>::line_number::5
+<address>  Toronto, Ontario M3J 1P3  </address>::line_number::10
+<address> Canada   </address>::line_number::11
+<address>  545 Technology Square NE43, Cambridge, MA 02139, USA.   </address>::line_number::3
+<address>  Cambridge, MA 02139   </address>::line_number::4
+<address>  Amherst, MA 01003   </address>::line_number::5
+<address>  20 Ames Street, Cambridge MA 02139, U.S.A.   </address>::line_number::7
+<address>  Cambridge, MA 02139 Orlando, FL 32826   </address>::line_number::4
+<address>  Los Angeles, CA 90095-1596 USA Mountain View, CA 94039 USA   </address>::line_number::3
+<address>  LGRC, Box 34610  </address>::line_number::7
+<address> Amherst, MA 01003-4610 USA   </address>::line_number::8
+<address>  650 Harry Road, San Jose, CA 95120, USA.   </address>::line_number::5
+<address>  Santa Barbara, CA 93106, USA.   </address>::line_number::9
+<address>  Amherst, MA 01003, USA.   </address>::line_number::13
+<address>  Stanford, California 94305-9020   </address>::line_number::6
+<address>  Stanford, California 94305   </address>::line_number::14
+<address>  Stanford, California 94305   </address>::line_number::20
+<address>  Palo Alto, California   </address>::line_number::24
+<address>  5733 West Grover  </address>::line_number::27
+<address> Chicago, Illinois 60630   </address>::line_number::28
+<address>  Berkeley, California   </address>::line_number::33
+<address>  1304 W. Springfield Avenue  </address>::line_number::6
+<address> Urbana, IL 61801   </address>::line_number::7
+<address>  La Jolla, California 92093   </address>::line_number::6
+<address>  La Jolla, California 92093   </address>::line_number::11
+<address>  La Jolla, California 92093   </address>::line_number::16
+<address>  Amherst MA 01003-4610   </address>::line_number::6
+<address>  Princeton NJ, 08540   </address>::line_number::6
+<address>  Princeton, NJ 08544, USA   </address>::line_number::2
+<address>  Theresienstrae 39, 80333 Munich, Germany   </address>::line_number::3
+<address> University of California,   Berkeley CA 94720   </address>::line_number::4
+<address>  West Lafayette, Indiana   </address>::line_number::6
+<address>  Berkeley, California   </address>::line_number::10
+<address>  545 Technology Square #721  </address>::line_number::3
+<address> Cambridge, MA 02139   </address>::line_number::4
+<address>  1304 West Springfield Ave., Urbana, IL 61801-2987, U.S.A.   </address>::line_number::4
+<address>  Marina del Rey, CA 90292   </address>::line_number::5
+<address>  245 First Street  </address>::line_number::3
+<address> Cambridge, Massachusetts 02142   </address>::line_number::4
+<address>  P.O. Box 80.000, 5600 JA Eindhoven, The Netherlands   </address>::line_number::4
+<address>  Murray Hill, NJ   </address>::line_number::8
+<address>  Menlo Park, CA 94025   </address>::line_number::6
+<address>  Boulder, CO 80309   </address>::line_number::11
+<address>  Rehovot 76100, Israel   </address>::line_number::5
+<address>  College Park, MD 20740   </address>::line_number::4
+<address>  College Park, MD 20740   </address>::line_number::11
+<address>  College Park, MD 20742.   </address>::line_number::29
+<address>  333 Ravenswood Avenue  </address>::line_number::5
+<address> Menlo Park, California 94025   </address>::line_number::6
+<address> University of Minnesota,   Minneapolis MN 55455   </address>::line_number::5
+<address> Naval Research Laboratory,   Code 5510  </address>::line_number::4
+<address> Washington, DC 20375   </address>::line_number::5
+<address>  Washington, DC 20375   </address>::line_number::4
+<address>  Monterey, CA 93943   </address>::line_number::9
+<address>  Atlanta, GA 30332-0280   </address>::line_number::6
+<address>  Atlanta, Georgia 30332-0280   </address>::line_number::4
+<address>  Boston, MA 02115   </address>::line_number::6
+<address>  Cambridge, CB2 2SR, UK.   </address>::line_number::5
+<address>  Cambridge, CB2 1SB, UK.   </address>::line_number::9
+<address>  Cardiff, CF2 4YH, UK.   </address>::line_number::13
+<address>  2015 Neil Avenue  </address>::line_number::4
+<address> Columbus, OH 43210  </address>::line_number::5
+<address> USA   </address>::line_number::6
+<address>  Philadelphia, PA 19104   </address>::line_number::4
+<address>  Philadelphia, PA 19104   </address>::line_number::4
+<address>  Washington, D.C.   </address>::line_number::7
+<address>  A-8010 Graz, Austria.   </address>::line_number::6
+<address>  New York, NY 10027   </address>::line_number::9
+<address>  Brighton BN1 9QN   </address>::line_number::4
+<address> Queen Mary and Westfield College,   London E1 4NS, U.K.   </address>::line_number::4
+<address>  St. Catharines, Ontario, Canada L2S 3A1   </address>::line_number::4
+<address>  Tucson, AZ 85721-0077, USA   </address>::line_number::6
+<address>  Vancouver, BC V6T 1Z4, Canada   </address>::line_number::11
+<address>  Tucson, AZ 85721   </address>::line_number::5
+<address>  Berkeley, California 94720   </address>::line_number::7
+<address>  325 N. Santa Anita Ave.  </address>::line_number::6
+<address> Arcadia, CA 91006   </address>::line_number::7
+<address>  Tucson, AZ 85721   </address>::line_number::8
+<address>  2550 Garcia Ave.  </address>::line_number::5
+<address> Mountain View, CA 94043   </address>::line_number::6
+<address>  M/S 29-01  </address>::line_number::20
+<address> 2550 Garcia Avenue  </address>::line_number::21
+<address> Mountain View, CA 94043   </address>::line_number::22
+<address>  Cambridge, MA 02139, USA   </address>::line_number::6
+<address>  545 Soda Hall 485 Soda Hall 725 Soda Hall   </address>::line_number::6
+<address>  Berkeley, CA 94720-1776   </address>::line_number::9
+<address>  1210 W. Dayton St., Madison, WI 53706   </address>::line_number::3
+<address>  Berkeley, CA 94720   </address>::line_number::5
+<address>  Gates Building 1A  </address>::line_number::4
+<address> Stanford, CA 94305-9010   </address>::line_number::5
+<address> Almaden Research Center,   Dept. K53-B2  </address>::line_number::9
+<address> 650 Harry Road  </address>::line_number::10
+<address> San Jose, CA 95120-6099   </address>::line_number::11
+<address>  </address>::line_number::4
+<address> Gates Building 1A  </address>::line_number::5
+<address> Stanford, CA 94305-9010   </address>::line_number::6
+<address>  650 Harry Road  </address>::line_number::10
+<address> San Jose, CA 95120-6099   </address>::line_number::11
+<address>  Gates Building 1A  </address>::line_number::16
+<address> Stanford, CA 94305-9010   </address>::line_number::17
+<address>  Berkeley, CA 94720   </address>::line_number::3
+<address>  Berkeley, CA 94720   </address>::line_number::6
+<address>  Berkeley CA 94720   </address>::line_number::4
+<address>  Berkeley CA 94720   </address>::line_number::8
+<address>  Waltham, MA 02254   </address>::line_number::7
+<address>  85100 Potenza  </address>::line_number::9
+<address> Italy   </address>::line_number::10
+<address>  Providence, RI 02912-1910  </address>::line_number::17
+<address> USA   </address>::line_number::18
+<address>  00198 Roma  </address>::line_number::25
+<address> Italy   </address>::line_number::26
+<address>  Providence, R.I. 02912   </address>::line_number::4
+<address>  Box 1910,   Brown University   </address>::line_number::3
+<address>  Providence, RI 02906,  USA   </address>::line_number::4
+<address>  Vancouver, BC V6T 1Z4, Canada   </address>::line_number::9
+<address>  Boston, MA 02215   </address>::line_number::10
+<address>  Boston, MA 02215, U.S.A.   </address>::line_number::6
+<address>  Boston, MA 02215   </address>::line_number::9
+<address>  Wilhelminenstrasse 7, 64283 Darmstadt, Germany,   </address>::line_number::3
+<address>  Pittsburgh, PA 15213-3891   </address>::line_number::5
+<address>  Ramat-Gan, Israel   </address>::line_number::5
+<address>  Ithaca, NY 14853, USA   </address>::line_number::8
+<address> University of Wisconsin-Madison,   WI 53706, U.S.A.   </address>::line_number::5
+<address>  Pittsburgh PA 15213   </address>::line_number::5
+<address>  Pittsburgh, PA 15213, USA,   fqma, prsg@cs.cmu.edu   </address>::line_number::5
+<address> University of Kaiserslautern,   P.O.-Box 3049, D-67653 Kaiserslautern, Germany   </address>::line_number::6
+<address>  5000 Forbes Avenue, Pittsburgh, PA 15213   </address>::line_number::3
+<address>  5000 Forbes Avenue  </address>::line_number::5
+<address> Pittsburgh, PA 15213   </address>::line_number::6
+<address>  P.O. Box 704  </address>::line_number::4
+<address> Yorktown Heights, NY 10598   </address>::line_number::5
+<address>  Pittsburgh, PA 15213-3891, USA   </address>::line_number::6
+<address>  Claremont, CA 91711, USA   </address>::line_number::9
+<address>  Pittsburgh, PA 15213   </address>::line_number::6
+<address>  Pittsburgh, Pennsylvania 15213-3890   </address>::line_number::7
+<address>  Pittsburgh, PA 15213-3890   </address>::line_number::8
+<address>  Pittsburgh, PA 15213   </address>::line_number::7
+<address>  5000 Forbes Avenue, Pittsburgh, PA, 15213   </address>::line_number::3
+<address>  Pittsburgh, PA 15213   </address>::line_number::10
+<address>  Pittsburgh PA 15213-3890   </address>::line_number::8
+<address>  Tewksbury MA 01876-0901   </address>::line_number::14
+<address>  Pittsburgh, PA 15213-3891   </address>::line_number::5
+<address>  Pittsburgh, PA 15213-3891   </address>::line_number::11
+<address>  5000 Forbes Ave.  </address>::line_number::9
+<address> 2201 Hamburgh Hall  </address>::line_number::10
+<address> Pittsburgh, PA 15232   </address>::line_number::11
+<address>  5000 Forbes Ave.  </address>::line_number::17
+<address> 1201 Hamburgh Hall  </address>::line_number::18
+<address> Pittsburgh, PA 15232   </address>::line_number::19
+<address>  4616 Henry Street  </address>::line_number::10
+<address> Pittsburgh, PA 15213   </address>::line_number::11
+<address>  Pittsburgh, PA 15213   </address>::line_number::14
+<address>  545 Technology Square  </address>::line_number::16
+<address> Cambridge, MA 02139   </address>::line_number::17
+<address>  Pittsburgh, PA 15213 USA   </address>::line_number::3
+<address>  Pittsburgh, PA 15213 USA   </address>::line_number::3
+<address>  Pittsburgh, PA 15213-3891   </address>::line_number::5
+<address>  Madison, WI 53706-1685   </address>::line_number::10
+<address>  P.O. Box 1892  </address>::line_number::10
+<address> Houston, Texas 77251-1892   </address>::line_number::11
+<address>  4910 Forbes Avenue, Pittsburgh, PA 15213-3890   </address>::line_number::3
+<address>  Pittsburgh, PA 15213   </address>::line_number::7
+<address>  5000 Forbes Avenue, Pittsburgh, PA 15213, USA   </address>::line_number::4
+<address>  Urbana, Illinois 61801   </address>::line_number::5
+<address>  D-5205 St. Augustin, West Germany   </address>::line_number::4
+<address>  Boulder, CO 80309.   </address>::line_number::4
+<address>  Boulder, CO 80309-0430   </address>::line_number::6
+<address>  Campus Box 430  </address>::line_number::4
+<address> Boulder, CO 80309-0430   </address>::line_number::5
+<address>  1099 18th Street  </address>::line_number::9
+<address> Suite 2200  </address>::line_number::10
+<address> Denver, CO 80202-1925   </address>::line_number::11
+<address>  Robert-Mayer-Str. 11-15  </address>::line_number::6
+<address> D-60325 Frankfurt am Main, Germany   </address>::line_number::7
+<address>  Amherst, MA., USA. 01003   </address>::line_number::5
+<address>  Fort Collins, Colorado 80523 USA   </address>::line_number::4
+<address>  Fort Collins, CO 80523   </address>::line_number::4
+<address>  500 W. 120th St.  </address>::line_number::4
+<address> New York, NY 10027   </address>::line_number::5
+<address>  Rm. 4C-526  </address>::line_number::3
+<address> 101 Crawfords Corner Rd.  </address>::line_number::4
+<address> Holmdel, NJ 07733   </address>::line_number::5
+<address>  500 West 120th Street, New York, NY 10027   </address>::line_number::5
+<address>  Melbourne, FL 32901   </address>::line_number::5
+<address>  New York, NY 10027   </address>::line_number::11
+<address>  Ithaca, NY 14853.   </address>::line_number::4
+<address> and Computer Science   Upson Hall   </address>::line_number::4
+<address>  Middlebury, VT 05753, USA Ithaca, NY 14853, USA   </address>::line_number::6
+<address>  Stanford, CA 94305   </address>::line_number::4
+<address>  Princeton, NJ 08540   </address>::line_number::8
+<address>  Cambridge, MA 02139   </address>::line_number::13
+<address>  Cambridge, MA 02139   </address>::line_number::18
+<address>  Hanover, NH, 03755   </address>::line_number::23
+<address>  Hanover, NH 03755   </address>::line_number::4
+<address>  Cambridge, Massachusetts 02139   </address>::line_number::6
+<address>  Hanover, New Hampshire   </address>::line_number::12
+<address>  Stanford, CA94305   </address>::line_number::5
+<address>  Stanford, CA 94305   </address>::line_number::5
+<address>  3300 Zanker Road, MS SJ3C3  </address>::line_number::3
+<address> San Jose, CA 95134   </address>::line_number::4
+<address>  One Water Street, 2nd Floor  </address>::line_number::8
+<address> White Plains, NY 10601   </address>::line_number::9
+<address>  Box 90129  </address>::line_number::13
+<address> Durham, NC 27708-0129   </address>::line_number::14
+<address>  Durham, NC 27708 San Jose, CA 95161 Durham, NC 27708   </address>::line_number::5
+<address>  Atlanta, Georgia, USA   </address>::line_number::6
+<address>  Atlanta, GA 30332-0280   </address>::line_number::5
+<address>  Atlanta, Georgia 30332-0280, U.S.A.   </address>::line_number::4
+<address>  P.O. Box 26, FIN-00014 University of Helsinki, Finland   </address>::line_number::4
+<address>  FIN-00014   University of Helsinki,   Finland   </address>::line_number::3
+<address>  226 Atanasoff  </address>::line_number::7
+<address> Ames, IA 50011   </address>::line_number::8
+<address>  226 Atanasoff  </address>::line_number::8
+<address> Ames, IA 50011   </address>::line_number::9
+<address>  226 Atanasoff Hall   </address>::line_number::5
+<address>  Ames, IA 50011  </address>::line_number::7
+<address> U.S.A.   </address>::line_number::8
+<address>  Lindley Hall 215  </address>::line_number::4
+<address> Bloomington, Indiana 47405   </address>::line_number::5
+<address>  Lindley Hall 215, Bloomington, IN 47405   </address>::line_number::5
+<address>  Lindley Hall 215,   Indiana University   </address>::line_number::5
+<address>  Bloomington, IN 47405, U.S.A.   </address>::line_number::6
+<address>  1304 West Springfield Avenue  </address>::line_number::5
+<address> Urbana, Illinois 61801  </address>::line_number::6
+<address> USA   </address>::line_number::7
+<address>  Baltimore, MD 21218   </address>::line_number::6
+<address>  650 Harry Rd.  </address>::line_number::6
+<address> San Jose, CA 95120   </address>::line_number::7
+<address>  545 Technology Square  </address>::line_number::10
+<address> Cambridge, MA 02139   </address>::line_number::11
+<address>  1210 West Dayton St.  </address>::line_number::6
+<address> Madison, WI 53706   </address>::line_number::7
+<address>  College Park, MD 20742   </address>::line_number::5
+<address>  Baltimore, MD 21218   </address>::line_number::10
+<address>  Celestijnenlaan 200A, B-3001 Heverlee, Belgium   </address>::line_number::5
+<address>  East Lansing, MI 48824-1226, USA   </address>::line_number::5
+<address>  East Lansing, MI 48824   </address>::line_number::5
+<address>  Parkville, Victoria 3052  </address>::line_number::6
+<address> Australia   </address>::line_number::7
+<address>  Parkville, Victoria 3052, Australia   </address>::line_number::4
+<address>  Murray Hill, NJ 07974 USA   </address>::line_number::3
+<address>  Corvallis,Oregon 97331-3202   </address>::line_number::4
+<address>  Pittsburgh, PA 15260   </address>::line_number::4
+<address>  Pittsburgh, PA 15260   </address>::line_number::4
+<address>  Pittsburgh, PA 15260   </address>::line_number::10
+<address>  14924 N.W. Greenbrier Parkway   Stanford University   </address>::line_number::4
+<address>  Beaverton, OR 97006 Stanford, CA 94305   </address>::line_number::5
+<address> Stanford University   14924 NW Greenbrier Pkwy, CO6-09  </address>::line_number::4
+<address> Stanford, CA 94305 Beaverton, OR 97006   </address>::line_number::5
+<address>  Princeton, NJ 08544   </address>::line_number::5
+<address>  Murray Hill, NJ   </address>::line_number::4
+<address>  Princeton, NJ 08544   </address>::line_number::4
+<address>  Princeton, NJ 08544   </address>::line_number::8
+<address>  One Washington Square  </address>::line_number::5
+<address> San Jose, CA 95192-0103, U.S.A.   </address>::line_number::6
+<address>  D-44221 Dortmund, Germany   </address>::line_number::12
+<address>  W. Lafayette, IN 47906, USA   </address>::line_number::5
+<address>  West Lafayette, IN 47907   </address>::line_number::5
+<address> Computer Science, University of Crete,   Heraklion, Greece.   </address>::line_number::30
+<address>  West Lafayette, IN 47907-1398   </address>::line_number::6
+<address>  Santa Barbara  </address>::line_number::4
+<address> CA 93106, U.S.A.   </address>::line_number::5
+<address>  West Lafayette, IN 47907, USA   </address>::line_number::25
+<address>  Bldg. 305, DK-2800 Lyngby, Denmark   </address>::line_number::28
+<address>  Houston, TX 77005-1892   </address>::line_number::4
+<address>  Rochester, NY14627-0226   </address>::line_number::7
+<address>  Universitetsparken 1, 2100 Copenhagen, Denmark   </address>::line_number::8
+<address>  Houston, Texas 77251   </address>::line_number::9
+<address>  1000 Bay Area Blvd., Suite 206  </address>::line_number::12
+<address> Houston, TX 77058   </address>::line_number::13
+<address>  Troy, New York   </address>::line_number::13
+<address>  Troy, New York 12180, USA   </address>::line_number::5
+<address>  New Brunswick, NJ 08903   </address>::line_number::5
+<address>  New Brunswick, NJ 08903 USA   </address>::line_number::5
+<address>  Piscataway, NJ 08854   </address>::line_number::4
+<address> Rutgers University,   New Brunswick, NJ 08903   </address>::line_number::4
+<address>  New Brunswick, NJ, 08903 USA   </address>::line_number::6
+<address>  New Brunswick, NJ 08903   </address>::line_number::7
+<address>  2001,Commonwealth Blvd.,  </address>::line_number::3
+<address> Ann Arbor, Michigan 48105   </address>::line_number::4
+<address>  Toronto, Ontario M5S 1A4, Canada   </address>::line_number::4
+<address>  Princeton, NJ 08540, USA   </address>::line_number::8
+<address>  6 King's College Road, Toronto, Canada M5S 1A4   </address>::line_number::4
+<address>  755 College Road East   </address>::line_number::2
+<address>  Princeton, NJ 08540   </address>::line_number::4
+<address>  Toronto, Ontario M5S 1A4   </address>::line_number::9
+<address>  Toronto ON, CANADA M5S 1A4   </address>::line_number::3
+<address>  Wichita, KS 67260   </address>::line_number::4
+<address>  Princeton, NJ 08540   </address>::line_number::3
+<address>  Manchester M13 9PL  </address>::line_number::11
+<address> England   </address>::line_number::12
+<address>  Los Angeles, CA 90095   </address>::line_number::5
+<address>  87030 Rende; Italy LosAngeles; CA 90024   </address>::line_number::5
+<address>  Santa Barbara, CA 93106   </address>::line_number::5
+<address>  Santa Barbara, CA 93106.   </address>::line_number::4
+<address>  Santa Barbara, CA 93106   </address>::line_number::5
+<address> Stanford University,   CA 94305   </address>::line_number::4
+<address>  SANTA BARBARA, CA 93106   </address>::line_number::5
+<address>  Santa Barbara, CA 93106   </address>::line_number::4
+<address>  Santa Barbara, CA 93106   </address>::line_number::4
+<address>  Santa Barbara, CA 93106   </address>::line_number::5
+<address>  Str. Academiei 14, R70109, ROMANIA   </address>::line_number::4
+<address>  Berkeley, CA 94704-1198   </address>::line_number::11
+<address>  9500 Gilman Drive  </address>::line_number::16
+<address> La Jolla, CA 92093-0114   </address>::line_number::17
+<address>  Athens, GA 30602, U.S.A.   </address>::line_number::5
+<address>  Parkville, VIC 3052, Australia   </address>::line_number::9
+<address>  Amherst, MA 01003   </address>::line_number::4
+<address>  Amherst, MA 01003   </address>::line_number::8
+<address>  Amherst, MA 01003   </address>::line_number::12
+<address>  Amherst, MA 01003   </address>::line_number::16
+<address>  Amherst, MA 01003   </address>::line_number::20
+<address>  W. Lafayette, IN 47907   </address>::line_number::24
+<address>  W. Lafayette, IN 47907   </address>::line_number::28
+<address>  Amherst, MA 01003   </address>::line_number::4
+<address>  Amherst, MA 01003-4610   </address>::line_number::4
+<address>  Amherst, MA 01003-4610   </address>::line_number::9
+<address>  Boulder, CO 80309-0430   </address>::line_number::14
+<address>  2229 Route des Cr^etes  </address>::line_number::4
+<address> BP 193 - Sophia Antipolis FRANCE   </address>::line_number::5
+<address> University of Maryland,   College Park, MD 20742, USA   </address>::line_number::4
+<address>  College Park, MD 20742   </address>::line_number::5
+<address>  Riverside, CA 92521-0425   </address>::line_number::10
+<address>  College Park, MD 20742   </address>::line_number::5
+<address>  Pittsburgh, PA 15213   </address>::line_number::10
+<address>  3660 Technology Drive  </address>::line_number::5
+<address> Minneapolis, MN 55418   </address>::line_number::6
+<address>  3660 Technology Drive  </address>::line_number::7
+<address> Minneapolis, MN 55418   </address>::line_number::8
+<address>  College Park, MD 20742   </address>::line_number::4
+<address>  College Park, MD 20742   </address>::line_number::5
+<address>  Florham Park, NJ 07932   </address>::line_number::9
+<address>  College Park, MD 20742   </address>::line_number::15
+<address>  College Park, MD 20742   </address>::line_number::7
+<address>  Pittsburgh, PA 15213   </address>::line_number::12
+<address>  College Park, MD 20742   </address>::line_number::18
+<address>  Chapel Hill, NC 27599-3175 USA   </address>::line_number::5
+<address>  St. Louis, MO 63130, USA    </address>::line_number::5
+<address>  600 Mountain Ave.  </address>::line_number::4
+<address> Murray Hill, New Jersey 07974   </address>::line_number::5
+<address>  Seattle, Washington 98195   </address>::line_number::10
+<address>  Montreal, Quebec, CANADA H3A 2A7   </address>::line_number::7
+<address>  1906 Fox Drive  </address>::line_number::4
+<address> Champaign, IL 61821   </address>::line_number::5
+<address>  4-192 EE/CS Building  </address>::line_number::12
+<address> 200 Union Street SE  </address>::line_number::13
+<address> Minneapolis, MN 55455   </address>::line_number::14
+<address>  130 Lytton Ave., Palo Alto, CA 94301   </address>::line_number::3
+<address>  Minneapolis, MN 55455   </address>::line_number::7
+<address>  Minneapolis, MN 55455,   Technical Report: 96-036   </address>::line_number::8
+<address>  Minneapolis, MN 55455   </address>::line_number::5
+<address> Department of Computer Science,   4-192 EE/CS Bldg.  </address>::line_number::4
+<address> Minneapolis, MN 55455   </address>::line_number::5
+<address>  East Lansing, MI 48824   </address>::line_number::10
+<address>  Rolla, Missouri 65401   </address>::line_number::7
+<address>  3775 University St., Montreal, Quebec H3A 2B4   </address>::line_number::3
+<address>  Salt Lake City, UT 84112   </address>::line_number::4
+<address>  Urbana, Illinois 61801   </address>::line_number::8
+<address> University of Texas,   Austin, TX 78712   </address>::line_number::4
+<address>  Austin, Texas 78712   </address>::line_number::7
+<address>  Austin, TX 78712   </address>::line_number::7
+<address>  130 Lytton Ave, Palo Alto, CA 94301   </address>::line_number::6
+<address>  Taylor Hall 2.124, Austin, Texas 78712-1188, USA   </address>::line_number::4
+<address>  1717 West Sixth Street, Suite 290  </address>::line_number::4
+<address> Austin, Texas 78703-4776   </address>::line_number::5
+<address>  Moscow, Idaho 83844-1010   </address>::line_number::4
+<address>  15201 N.W. Greenbrier Pkwy  </address>::line_number::9
+<address> Beaverton, Oregon 97006   </address>::line_number::10
+<address>  Austin, Texas 78712-1188   </address>::line_number::15
+<address>  Pasadena, California 91125   </address>::line_number::20
+<address>  Austin, Texas 78712   </address>::line_number::9
+<address>  Austin, TX 78712,  ( 512) 471-9720 (Office), (512) 471-8885 (Fax),   rvdg@cs.utexas.edu.   </address>::line_number::25
+<address>  Austin, Texas 78712   </address>::line_number::5
+<address>  Austin, Texas 78712   </address>::line_number::10
+<address> UTK, Dept. of Computer Science   104, Ayres Hall. KNOXVILLE, TN 37996-1301.   </address>::line_number::4
+<address> UTK, Dept. of Computer Science   104, Ayres Hall. KNOXVILLE, TN 37996-1301.   </address>::line_number::9
+<address>  Clear Water Bay, Hong Kong   </address>::line_number::5
+<address>  Toronto, Canada M5S 3H5   </address>::line_number::10
+<address>  Clear Water Bay, Kowloon, Hong Kong   </address>::line_number::4
+<address>  Toronto, Canada M5S 1A4   </address>::line_number::5
+<address>  Charlottesville, VA 22903   </address>::line_number::5
+<address>  Munich, Germany   </address>::line_number::4
+<address> Stanford University,   Stanford CA 94305   </address>::line_number::4
+<address>  Seattle, WA 98195-2350 USA   </address>::line_number::5
+<address>  Box 352350, Seattle, WA 98195-2350   </address>::line_number::6
+<address>  22527 Hamburg, Germany   </address>::line_number::7
+<address>  PO Box 11-236  </address>::line_number::6
+<address> Beirut, Lebanon   </address>::line_number::7
+<address> University of Washington   7200 Lower Ridge, Unit B  </address>::line_number::3
+<address> Box 352350 Everett, WA 98203, U.S.A.  </address>::line_number::4
+<address> Seattle, WA 98195, U.S.A.   </address>::line_number::5
+<address>  P.O. Box 9512, 2300 RA Leiden  </address>::line_number::4
+<address> The Netherlands   </address>::line_number::5
+<address>  Cambridge, MA 02139   </address>::line_number::4
+<address>  Seattle, WA 98195   </address>::line_number::9
+<address>  Cambridge, MA 02139   </address>::line_number::14
+<address>  1210 West Dayton Street  </address>::line_number::5
+<address> Madison, WI 53706.   </address>::line_number::6
+<address>  Madison, WI 53706.   </address>::line_number::5
+<address>  1 Mangaldas Road  </address>::line_number::8
+<address> Pune 411 050, India.   </address>::line_number::9
+<address>  Madison, WI 53706   </address>::line_number::5
+<address>  Madison, WI 53706   </address>::line_number::11
+<address>  1210 West Dayton Street  </address>::line_number::7
+<address> Madison, WI 53706   </address>::line_number::8
+<address>  1210 W. Dayton St. 1210 W. Dayton St.  </address>::line_number::18
+<address> Madison, WI 53706 Madison, WI 53706   </address>::line_number::19
+<address>  Chung-Li, 320, Taiwan   </address>::line_number::4
+<address>  Madison, WI   </address>::line_number::9
+<address>  Amherst, MA 01003 USA   </address>::line_number::5
+<address>  1210 West Dayton Street, Madison, WI 53706 USA   </address>::line_number::3
+<address>  1210 West Dayton Street  </address>::line_number::6
+<address> Madison, WI 53706 USA   </address>::line_number::7
+<address>  2500 University Drive N.W.  </address>::line_number::4
+<address> Calgary, Alberta, Canada T2N 1N4   </address>::line_number::5
+<address>  St. Louis, MO 63130   </address>::line_number::10
+<address>  755 College Road East  </address>::line_number::14
+<address> Princeton, NJ 08540   </address>::line_number::15
+<address>  2500 University Drive N.W.  </address>::line_number::20
+<address> Calgary, Alberta, Canada T2N 1N4   </address>::line_number::21
+<address>  Department 1423   </address>::line_number::4
+<address>  St. Louis, MO 63130   </address>::line_number::12
+<address>  Campus Box 1045/Bryan 509   </address>::line_number::5
+<address>  One Brookings Drive  </address>::line_number::7
+<address> St. Louis, MO 63130, USA    </address>::line_number::8
+<address>  St. Louis, MO 63130, USA   </address>::line_number::5
+<address> Uppsala University,   P.O. Box 325, S-751 05 Uppsala, Sweden,   Fax: +46-(0)18-550225   </address>::line_number::3
+<address>  Pittsburgh, PA 15213, USA   </address>::line_number::5
+<address>  20000 N.W. Walker Rd., P.O. Box 91000  </address>::line_number::6
+<address> Portland, OR 97291-1000   </address>::line_number::7
+<address>  Trois-Rivires, Qubec, Canada G9A 5H7   </address>::line_number::5
+<address>  Ottawa, Ontario, Canada K1N 6N5   </address>::line_number::9
+<address>  Berkeley CA 94720   </address>::line_number::5
+<address>  Menlo Park CA 94025   </address>::line_number::11
+<address>  301A Dates Drive    Dept. of Computer Science   </address>::line_number::3
+<address>   Ithaca, NY 14850 Ithaca, NY 14853    </address>::line_number::4
+<address> Cornell University Cornell University   675 Massachusetts Ave.  </address>::line_number::3
+<address> Ithaca, NY 14853 Ithaca, NY 14853 Cambridge, MA 02139   </address>::line_number::4
+<address>  Menlo Park CA 94025   </address>::line_number::4
+<address>  333 Ravenswood Avenue 3701 North Fairfax Drive  </address>::line_number::3
+<address> Menlo Park, CA 94025 Arlington, VA 22203   </address>::line_number::4
+<address>  80 South Bridge, Edinburgh EH1 1HN, Scotland   </address>::line_number::4
+<address>  2 Buccleuch Place, Edinburgh EH8 9LW, Scotland   </address>::line_number::8
+<address>  Postfach 2080  </address>::line_number::4
+<address> 67608 Kaiserslautern  </address>::line_number::5
+<address> Germany   </address>::line_number::6
+<address>  Box 2080, 67608 Kaiserslautern, Germany   </address>::line_number::4
+<address> University of Massachusetts,   Amherst, MA 01003   </address>::line_number::4
+<address> University of Massachusetts,   Amherst, MA 01003, USA   </address>::line_number::4
+<address>  1301 Beal Avenue, Ann Arbor, MI 48109-2122   </address>::line_number::5
+<address>  Raleigh, NC 27695-7911 Ann Arbor, MI 48109-2122   </address>::line_number::4
+<address>  Ann Arbor, MI 48104   </address>::line_number::7
+<address>  Ann Arbor, MI 48109-2122   </address>::line_number::4
+<address>  Seattle, WA 98195   </address>::line_number::7
+<address>  1301 Beal Avenue  </address>::line_number::7
+<address> Ann Arbor, MI 48109-2122   </address>::line_number::8
+<address>  Ann Arbor, Michigan 48109-2122   </address>::line_number::6
+<address>  1301 Beal Ave.  </address>::line_number::4
+<address> Ann Arbor, Michigan 48109-2122   </address>::line_number::5
+<address>  Ann Arbor, MI 48109-2122  </address>::line_number::5
+<address> USA   </address>::line_number::6
+<address>  Pittsburgh, PA 15213   </address>::line_number::5
+<address>  Carretera de Salou, s/n. 43006-Tarragona   </address>::line_number::5
+<address> SRI International,   Menlo Park, CA 94025   </address>::line_number::3
+<address>  I 1947 Center St. * Suite 600 * Berkeley, California 94704-1198 *   (510) 643-9153 * FAX (510) 643-7684   </address>::line_number::1
+<address>  1947 Center St. Suite 600, Berkeley CA 94704   </address>::line_number::5
+<address> Norwegian University of Science and Technology,   Trondheim, Norway   </address>::line_number::4
+<address>  N-7034 Trondheim, Norway   </address>::line_number::4
+<address>  7034 Trondheim, Norway   </address>::line_number::4
+<address> INSA Lyon,   B^atiment 501, F-69621 Villeurbanne Cedex   </address>::line_number::3
+<address>  91403 Orsay cedex, FRANCE   </address>::line_number::4
+<address>  Santa Cruz, CA 95064   </address>::line_number::5
+<address>  Kent Ridge, Singapore 0511   </address>::line_number::4
+<address>  Kent Ridge, Singapore 0511   </address>::line_number::5
+<address>  Marina del Rey, CA 90292   </address>::line_number::4
+<address>  3011 Malibu Canyon Road 4676 Admiralty Way Suite 1001  </address>::line_number::3
+<address> Malibu CA 90265 Marina Del Rey, CA 90292   </address>::line_number::4
+<address>  4676 Admiralty Way  </address>::line_number::5
+<address> Marina del Rey, CA 90292, USA   </address>::line_number::6
+<address>  Los Angeles, CA 90089-0781   </address>::line_number::11
+<address>  4676 Admiralty Way, Marina del Rey, CA 90292   </address>::line_number::4
+<address>  4676 Admiralty Way, Marina del Rey, CA 90292   </address>::line_number::5
+<address>  3500 West Balcones Center Drive  </address>::line_number::3
+<address> Austin, TX 78759, U.S.A.   </address>::line_number::4
+<address>  4676 Admiralty Way, Marina del Rey, CA 90292   </address>::line_number::5
+<address>  2164 Staunton Court, Palo Alto, California 94306   </address>::line_number::4
+<address> Computer Science Dept.   Mail Stop 269-2   Xerox Corporation  </address>::line_number::4
+<address> Stanford University NASA Ames Research Center   3333 Coyote Hill Road  </address>::line_number::5
+<address> Stanford, CA 94305 Moffett Field, CA 94035 Palo Alto, CA 94304   </address>::line_number::6
+<address>  901 Cathedral of Learning   </address>::line_number::3
+<address>  Pittsburgh, PA 15260   </address>::line_number::5
+<address>  5000 Forbes Avenue, Pittsburgh, PA 15213   </address>::line_number::4
+<address>  Lindley Hall 215   </address>::line_number::4
+<address>  Bloomington, IN 47405 USA   </address>::line_number::6
+<address>  New Brunswick, NJ 08903   </address>::line_number::4
+<address>  New Brunswick, NJ 08903, USA   </address>::line_number::3
+<address>  New Brunswick, NJ 08903   </address>::line_number::10
+<address>  New Brunswick, NJ 08903   </address>::line_number::15
+<address> Center,   650 Harry Road, San Jose, CA 95120.   </address>::line_number::24
+<address> Aviv University,   Tel Aviv, Israel.   </address>::line_number::27
+<address>  20 Ames St.  </address>::line_number::5
+<address> Cambridge, MA 02139  </address>::line_number::6
+<address> USA   </address>::line_number::7
+<address>  20 Ames Street, E15-353  </address>::line_number::4
+<address> Cambridge MA, 02139   </address>::line_number::5
+<address>  Stanford, California 94305   </address>::line_number::5
+<address>  7-3-1 Hongo Bunkyo-ku, Tokyo 113, Japan   </address>::line_number::5
+<address>  R. Campo Alegre, 823, 2 - 4150 PORTO - PORTUGAL   </address>::line_number::4
+<address>  R.Campo Alegre, 823 - 2.  </address>::line_number::5
+<address> 4100 PORTO  </address>::line_number::6
+<address> PORTUGAL   </address>::line_number::7
+<address> University of Queensland,   St. Lucia 4072, Australia   </address>::line_number::6
+<address>  College Park, MD 20742   </address>::line_number::11
+<address>  4 Independence Way, Princeton, NJ 08540, U.S.A.   </address>::line_number::5
+<address>  4 Independence Way  </address>::line_number::5
+<address> Princeton, NJ 08540   </address>::line_number::6
+<address>  Sidlerstrasse 5, CH-3012 Bern, Switzerland  </address>::line_number::7
+<address>  </address>::line_number::8
+<address>  Zografou Campus, 15780 Zografou, GREECE   </address>::line_number::5
+<address>  Piazza Leonardo da Vinci, 32  </address>::line_number::4
+<address> 20133 Milano, Italy   </address>::line_number::5
+<address>  Corso Duca degli Abruzzi, 24  </address>::line_number::10
+<address> 10129 Torino, Italy   </address>::line_number::11
+<address>  Piazza Leonardo da Vinci, 32  </address>::line_number::16
+<address> 20133 Milano, Italy   </address>::line_number::17
+<address>  Princeton, NJ 08544   </address>::line_number::9
+<address> Science, Tel Aviv University,   Tel Aviv, Israel;   electronic mail mansour@math.tau.ac.il.   Y. Mansour was supported in part by  </address>::line_number::28
+<address> the Israel Science Foundation, administered by the Israel Academy of Science and Humanities, and by a grant of the Israeli  </address>::line_number::29
+<address> Ministry of Science and Technology.   </address>::line_number::30
+<address>  5000 Forbes Avenue  </address>::line_number::5
+<address> Pittsburgh, Pennsylvania 15213-3891   </address>::line_number::6
+<address>  Pittsburgh, PA 15213, USA   </address>::line_number::5
+<address>  Burnaby, BC V5A1S6, Canada   </address>::line_number::11
+<address>  Pittsburgh PA 15213   </address>::line_number::5
+<address>  Pittsburgh, PA 15213   </address>::line_number::6
+<address>  Yorktown Heights, New York, USA   </address>::line_number::7
+<address>  Pittsburgh, PA 15213   </address>::line_number::5
+<address> University of California,   Berkeley, CA 94720   </address>::line_number::5
+<address>  Pittsburgh, PA 15213   </address>::line_number::6
+<address>  Pittsburgh, PA 15213   </address>::line_number::6
+<address>  Pittsburgh, Pennsylvania 15213-3891   </address>::line_number::4
+<address>  Pittsburgh, Pennsylvania 15213   </address>::line_number::6
+<address>  Pittsburgh, PA 15213 USA   </address>::line_number::3
+<address>  Pittsburgh, PA 15213   </address>::line_number::5
+<address>  Pittsburgh, PA 15213 Toronto, Canada M5S 3G4   </address>::line_number::5
+<address>  Pittsburgh, PA 15213   </address>::line_number::4
+<address>  Pittsburgh, PA 15213, U.S.A.   </address>::line_number::7
+<address>  P.O. Box 217  </address>::line_number::5
+<address> NL-7500 AE Enschede  </address>::line_number::6
+<address> The Netherlands   </address>::line_number::7
+<address>  Roetersstraat 15  </address>::line_number::11
+<address> 1081 WB Amsterdam  </address>::line_number::12
+<address> The Netherlands   </address>::line_number::13
+<address>  Seattle, WA 98195   </address>::line_number::7
+<address>  M/S 29-01  </address>::line_number::29
+<address> 2550 Garcia Avenue  </address>::line_number::30
+<address> Mountain View, CA 94043   </address>::line_number::31
+<address>  Cambridge, MA 02139   </address>::line_number::4
+<address>  4 Independence Way  </address>::line_number::7
+<address> Princeton, NJ 08540   </address>::line_number::8
+<address>  College Park, MD 20742-3275   </address>::line_number::8
+<address>  Fulton Hall, Chestnut Hill, MA 02167.   Email: betke@cs.bc.edu   </address>::line_number::23
+<address>  600 South College Ave.   </address>::line_number::4
+<address>  Tulsa, OK 74104-3189   </address>::line_number::6
+<address>  5000 Forbes Avenue  </address>::line_number::4
+<address> Pittsburgh, PA 15213   </address>::line_number::5
+<address>  MS 116-81 | Pasadena, CA 91125 MS 525-3660 | Pasadena, CA 91109   </address>::line_number::4
+<address>  P.O. Box 80089, 3508 TB Utrecht, The Netherlands   </address>::line_number::4
+<address>  P.O. Box 80.089, 3508 TB Utrecht, the Netherlands   </address>::line_number::4
+<address>  P.O. Box 80.089, 3508 TB Utrecht, the Netherlands   </address>::line_number::7
+<address>  P.O. Box 9512, 2300 RA Leiden, The Netherlands   </address>::line_number::3
+<address>  Santa Barbara, CA 93106   </address>::line_number::4

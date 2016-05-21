@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*- 
+#该类生成各个类别的二元分类器
 import GenerateVector
 import os
 import pickle
@@ -28,7 +29,8 @@ class ModelTrainer:
 			count+=1
 	def initTrain(self, trainPath, modelOutPath):
 		print 'Training in Weka...'
-		self.result = os.popen('java -classpath '+Config.LIBSVM_CLASSPATH+' weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -seed 1 -t %s -d %s'%(trainPath,modelOutPath)).read()
+		#self.result = os.popen('java -classpath '+Config.LIBSVM_CLASSPATH+' weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -seed 1 -t %s -d %s'%(trainPath,modelOutPath)).read()
+		self.result = os.popen('java -classpath '+Config.WEKA_JAR_PATH+' weka.classifiers.trees.J48 -C 0.25 -M 2 -t %s -d %s'%(trainPath,modelOutPath)).read()
 		self.result = self.result.split('\n')
 		self.__getConfusionMatProcess()
 		print 'Training Complete!'
@@ -62,11 +64,11 @@ class ModelTrainer:
 		return self.cMat[1][0] + self.cMat[1][1]
 	def getAllModel(self):
 		trainPath = r'./vector.arff'
-		for file in os.listdir(r'./resource/allClassification'):
+		for file in os.listdir(r'./resource/allClassification_66per'):
 			print 'Now classifying '+ file
 			GenerateVector.generateVectorFor(file)
-			self.initTrain(trainPath, r'./resource/svm_result/'+file+'_svm.model')
-			self.outputResult2File(r'./resource/svm_result/'+file+'_svm.txt')
+			self.initTrain(trainPath, r'./resource/j48_result/'+file+'_j48_66per.model')
+			self.outputResult2File(r'./resource/j48_result/'+file+'_j48__66per.txt')
 	def getModelFor(self, cls):
 		trainPath = r'./vector.arff'
 		if not cls.endswith('.txt'):
@@ -77,7 +79,7 @@ class ModelTrainer:
 		self.outputResult2File(r'./resource/svm_result/'+cls+'_svm.txt')
 if __name__ == '__main__':
 	#ModelTrainer().getModelFor('abstract')
-	#ModelTrainer().getAllModel()
+	ModelTrainer().getAllModel()
 	
 	'''
 	path = './resource/svm_result'

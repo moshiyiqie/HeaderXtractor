@@ -1,0 +1,1535 @@
+<title>  Protocols for Collecting Responses  </title>::line_number::0
+<title> in Multi-hop Radio Networks   </title>::line_number::1
+<title>  A Model-Based Approach to  </title>::line_number::1
+<title> Analogical Reasoning and Learning in Design   </title>::line_number::2
+<title>  Fast Barrier Synchronization in Wormhole k-ary n-cube Networks  </title>::line_number::0
+<title> with Multidestination Worms    </title>::line_number::1
+<title>  A Trip-based Multicasting Model in  </title>::line_number::1
+<title> Wormhole-routed Networks with Virtual Channels   </title>::line_number::2
+<title>  Clustering and Intra-Processor Scheduling for  </title>::line_number::0
+<title> Explicitly-Parallel Programs on Distributed-Memory Systems   </title>::line_number::1
+<title>  Space Deformation using Ray Deectors   </title>::line_number::1
+<title>  An Asymptotically Optimal Minimum  </title>::line_number::0
+<title> Degree Ordering of Regular Grids   </title>::line_number::1
+<title>  Efficient Rasterization of Implicit Functions   </title>::line_number::0
+<title>  Multimedia Database Systems: Challenges and  </title>::line_number::0
+<title> Opportunities   </title>::line_number::1
+<title>  Alleviating Consumption Channel Bottleneck  </title>::line_number::0
+<title> in Wormhole-Routed k-ary n-cube Systems 1   </title>::line_number::1
+<title>  Classes as Assertions   </title>::line_number::0
+<title>  A Certificate Path Generation Algorithm for  </title>::line_number::0
+<title> Authenticated Signaling in ATM Networks    </title>::line_number::1
+<title>  A Neural Network Pole Balancer  </title>::line_number::0
+<title> that Learns and Operates on a Real Robot in Real Time   </title>::line_number::1
+<title>  A Neural Network for Attentional Spotlight   </title>::line_number::0
+<title>  THE USE OF PARTIAL QUANTITATIVE  </title>::line_number::0
+<title> INFORMATION WITH QUALITATIVE  </title>::line_number::1
+<title> REASONING   </title>::line_number::2
+<title>  Integrating Topological and Metric Maps for Mobile Robot Navigation:  </title>::line_number::0
+<title> A Statistical Approach   </title>::line_number::1
+<title>  Scheduling Issues in the Co-Synthesis of  </title>::line_number::0
+<title> Reactive Real-Time Systems 1   </title>::line_number::1
+<title>  Massively Parallel Computation for Three-Dimensional  </title>::line_number::0
+<title> Monte Carlo Semiconductor Device Simulation   </title>::line_number::1
+<title>  Extraction of Keyphrases from Text:   </title>::line_number::0
+<title> Evaluation of Four Algorithms   </title>::line_number::1
+<title>  On Hamiltonian Triangulations in Simple Polygons   </title>::line_number::0
+<title>  The SAMOS Active DBMS Prototype   </title>::line_number::0
+<title>  On the Robustness of the Damped V -cycle  </title>::line_number::0
+<title> of the Wavelet Frequency Decomposition  </title>::line_number::1
+<title> Multigrid Method   </title>::line_number::2
+<title>  Adaptive Wave Propagation Modeling   </title>::line_number::0
+<title>  Neuronal Goals: Efficient Coding and Coincidence Detection   </title>::line_number::0
+<title>  Computer Vulnerability Analysis   </title>::line_number::0
+<title>  Evolving Visually Guided Robots   </title>::line_number::0
+<title>  Pseudo-Network Drivers and Virtual Networks   </title>::line_number::0
+<title>  MPI: A Message Passing Interface  </title>::line_number::1
+<title> The MPI Forum   </title>::line_number::2
+<title>  Type-driven Defunctionalization   </title>::line_number::0
+<title>  Reactive Functional Programming   </title>::line_number::0
+<title>  Location Independent Names for Nomadic Computers   </title>::line_number::0
+<title>  Comparison of Statistical and Neural Classifiers  </title>::line_number::0
+<title> and Their Applications to  </title>::line_number::1
+<title> Optical Character Recognition and Speech Classification  </title>::line_number::2
+<title>  </title>::line_number::3
+<title>  On independent domination number of graphs  </title>::line_number::2
+<title> with given minimum degree   </title>::line_number::3
+<title>  Crowds: Anonymity for Web Transactions   </title>::line_number::3
+<title>  On the dimension of the Hilbert-cubes   </title>::line_number::2
+<title>  Kit: A Study in  </title>::line_number::0
+<title> Operating System Verification   </title>::line_number::1
+<title>  Towards an Effective Calculus for Object Query Languages   </title>::line_number::0
+<title>  Callee-save Registers in Continuation-passing Style   </title>::line_number::2
+<title>  Coordinated Resource Management  </title>::line_number::0
+<title> in a Replicated Object Server   </title>::line_number::1
+<title>   Discovering Compressive Partial Determinations  </title>::line_number::0
+<title> in Mixed Numerical and Symbolic Domains   </title>::line_number::1
+<title>  Vertex heaviest paths and cycles in quasi-transitive  </title>::line_number::0
+<title> digraphs   </title>::line_number::1
+<title>  A Knowledge-Sharing Strategy  </title>::line_number::0
+<title>  </title>::line_number::1
+<title>  PORTS: Experiences with a Scheduler for Dynamic Real-Time  </title>::line_number::0
+<title> Systems   </title>::line_number::1
+<title>  Core Selection Methods for  </title>::line_number::0
+<title> Multicast Routing   </title>::line_number::1
+<title>  Interactive Model-Based Image Understanding   </title>::line_number::0
+<title>  Implementing Schema-theoretic Models of  </title>::line_number::0
+<title> Animal Behavior in Robotic Systems   </title>::line_number::1
+<title>  Finding the Parts of Objects  </title>::line_number::0
+<title> in Range Images   </title>::line_number::1
+<title>  Hypertextual Concurrent Control  </title>::line_number::0
+<title> of a Lisp Kernel    </title>::line_number::1
+<title>  A SIMPLE APPROACH TO DISTRIBUTED POOLS   </title>::line_number::0
+<title>  Selection Predicate Indexing for Active Databases  </title>::line_number::0
+<title> Using Interval Skip Lists   </title>::line_number::1
+<title>  Shape Modeling with Front Propagation: A Level Set Approach   </title>::line_number::0
+<title>  Quality Management of Information Systems Development   </title>::line_number::0
+<title>  Times of Cryptographic Parameter Generation, and  </title>::line_number::0
+<title> Key Computation and Distribution for the Star-based  </title>::line_number::1
+<title> and Ring-based Conference Authentication Facilities 1   </title>::line_number::2
+<title>  UNSUPERVISED LEARNING OF  </title>::line_number::2
+<title> INVARIANT REPRESENTATIONS OF FACES  </title>::line_number::3
+<title> THROUGH TEMPORAL ASSOCIATION   </title>::line_number::4
+<title>  Temporal Difference Learning of  </title>::line_number::0
+<title> Position Evaluation in the Game of Go    </title>::line_number::1
+<title>  Displaying 3D Images: Algorithms for  </title>::line_number::0
+<title> Single Image Random Dot Stereograms   </title>::line_number::1
+<title>  Constructing a Configurable Group RPC Service   </title>::line_number::0
+<title>  Development of an Intelligent Monitoring and Control System for a  </title>::line_number::0
+<title> Heterogeneous Numerical Propulsion System Simulation   </title>::line_number::1
+<title>  Domain-specific Information Browsers for Man Page, File, and Font *   </title>::line_number::0
+<title>  Why Aren't  </title>::line_number::3
+<title> Operating Systems  </title>::line_number::4
+<title> Getting Faster As  </title>::line_number::5
+<title> Fast as Hardware?   </title>::line_number::6
+<title>  Evolution of Recursive Transition Networks for  </title>::line_number::0
+<title> Natural Language Recognition with Parallel  </title>::line_number::1
+<title> Distributed Genetic Programming   </title>::line_number::2
+<title>  Genetic Programming Bloat with Dynamic Fitness   </title>::line_number::1
+<title>  Why Ants are Hard   </title>::line_number::0
+<title>  GP-Music: An Interactive Genetic Programming System for  </title>::line_number::2
+<title> Music Generation with Automated Fitness Raters   </title>::line_number::3
+<title>  Low-Energy Asynchronous Memory Design   </title>::line_number::0
+<title>  A General Approach to  </title>::line_number::0
+<title> Performance Analysis and Optimization  </title>::line_number::1
+<title> of Asynchronous Circuits   </title>::line_number::2
+<title>  Checking Assumptions in Component  </title>::line_number::3
+<title> Dynamics at the Architectural Level   </title>::line_number::4
+<title>  A Facilitator Method for Upstream Design Activities  </title>::line_number::1
+<title> with Diverse Stakeholders   </title>::line_number::2
+<title>  Evaluating Software Deployment Languages and Schema  </title>::line_number::1
+<title> An Experience Report   </title>::line_number::2
+<title>  Global Optimization Methods for Protein Folding Problems   </title>::line_number::3
+<title>  Does Configuration Management Research Have a Future?   </title>::line_number::0
+<title>  Markov Decision Processes in Large State Spaces   </title>::line_number::0
+<title>  The Efficient Learning of Multiple Task  </title>::line_number::1
+<title> Sequences   </title>::line_number::2
+<title>  A Simple Algorithm for Nearest Neighbor Search  </title>::line_number::0
+<title> in High Dimensions   </title>::line_number::1
+<title>  Telecentric Optics for Computational Vision   </title>::line_number::0
+<title>  The Extruded Generalized Cylinder: A Deformable Model for  </title>::line_number::0
+<title> Object Recovery   </title>::line_number::1
+<title>  The complexity of multivariate elliptic problems with analytic data   </title>::line_number::0
+<title>  Predictive Dynamic Load Balancing of Parallel and Distributed Rule  </title>::line_number::0
+<title> and Query Processing    </title>::line_number::1
+<title>  A Foundation for Multi-Dimensional Databases   </title>::line_number::0
+<title>  On the Area Bisectors of a Polygon   </title>::line_number::1
+<title>  Numerical conformal mapping using cross-ratios  </title>::line_number::0
+<title> and Delaunay triangulation   </title>::line_number::1
+<title>  Asymptotically Tight Bounds for Performing  </title>::line_number::0
+<title> BMMC Permutations on Parallel Disk Systems   </title>::line_number::1
+<title>  TIAS: A Transportable  </title>::line_number::0
+<title> Intelligent Agent System   </title>::line_number::1
+<title>  The Galley Parallel File System   </title>::line_number::2
+<title>  Increasing the Resilience of  </title>::line_number::0
+<title> Distributed and Replicated Database Systems    </title>::line_number::1
+<title>  Relating Comprehension and Production  </title>::line_number::0
+<title> in the Acquisition of Morphology    </title>::line_number::1
+<title>  An Algebra for List-Oriented Applications   </title>::line_number::0
+<title>  Coir: A Thread-Model for Supporting Task- and Data- Parallelism  </title>::line_number::0
+<title> in Object-Oriented Parallel Languages   </title>::line_number::1
+<title>  Detecting Global Predicates in Distributed Systems with Clocks   </title>::line_number::0
+<title>  Finding Genes in DNA with a Hidden Markov Model   </title>::line_number::0
+<title>  A Feedback Mechanism for Query by Navigation   </title>::line_number::0
+<title> Weide.   A Feedback Mechanism for Query by  </title>::line_number::4
+<title>  A Unifying Framework  </title>::line_number::0
+<title> for  </title>::line_number::1
+<title> Conceptual Data Modelling Concepts   </title>::line_number::2
+<title>  Autonomous Acquisition of  </title>::line_number::0
+<title> Sensor-Motor Couplings in Robots   </title>::line_number::1
+<title>  Middle Scale Robot Navigation A Case Study   </title>::line_number::0
+<title>  Animal and Robot Navigation   </title>::line_number::0
+<title>  Error-Correcting Output Codes:  </title>::line_number::0
+<title> A General Method for Improving  </title>::line_number::1
+<title> Multiclass Inductive Learning Programs   </title>::line_number::2
+<title>  Bezier Nets, Convexity and Subdivision on Higher  </title>::line_number::0
+<title> Dimensional Simplices   </title>::line_number::1
+<title>  Analysis of Algorithms Generalizing B-Spline  </title>::line_number::0
+<title> Subdivision   </title>::line_number::1
+<title>  Performance of Temporal Reasoning Systems   </title>::line_number::0
+<title>  Utterance Units in Spoken Dialogue   </title>::line_number::0
+<title>  Tally NP Sets and Easy Census Functions   </title>::line_number::0
+<title>  Scalable Atomic Primitives for Distributed  </title>::line_number::0
+<title> Shared Memory Multiprocessors   </title>::line_number::1
+<title>  THE COMPLEXITY OF COMPUTING  </title>::line_number::0
+<title> MAXIMAL WORD FUNCTIONS   </title>::line_number::1
+<title>  Priors for Infinite Networks   </title>::line_number::0
+<title>  Generative Models for Discovering Sparse Distributed  </title>::line_number::0
+<title> Representations   </title>::line_number::1
+<title>  Hierarchical Non-linear Factor Analysis  </title>::line_number::2
+<title> and Topographic Maps   </title>::line_number::3
+<title>   Attentive Object Recognition in the Selective Tuning  </title>::line_number::0
+<title> Network   </title>::line_number::1
+<title>  Gap-Definable Counting Classes   </title>::line_number::0
+<title>  Evaluating Weak Memories with Maya   </title>::line_number::0
+<title>  Q-Learning for Bandit Problems   </title>::line_number::0
+<title>  Intra-Option Learning about Temporally Abstract Actions   </title>::line_number::0
+<title>  Humans Plus Agents  </title>::line_number::0
+<title> Maintain Schedules Better  </title>::line_number::1
+<title> than Either Alone   </title>::line_number::2
+<title>  Design-to-time Real-Time Scheduling   </title>::line_number::0
+<title>  Issues in Design-to-time Real-time Scheduling   </title>::line_number::0
+<title>  Interprocedural Transformations for Parallel Code Generation   </title>::line_number::0
+<title>  Integrated Signal Processing  </title>::line_number::0
+<title> and Signal Understanding 1   </title>::line_number::1
+<title>  An Application of Distributed Solid Modeling: Feature Recognition   </title>::line_number::0
+<title>  DTP: An Efficient Transport Protocol   </title>::line_number::0
+<title>  Invariant Subspaces  </title>::line_number::1
+<title> and  </title>::line_number::2
+<title> Capital Punishment  </title>::line_number::3
+<title> (A Participatory Paper)   </title>::line_number::4
+<title>  A SERVER OF DISTRIBUTED DISK PAGES  </title>::line_number::0
+<title> USING A CONFIGURABLE SOFTWARE BUS   </title>::line_number::1
+<title>  Hierarchical Inter-Domain Routing Protocol  </title>::line_number::0
+<title> with On-Demand ToS and Policy Resolution    </title>::line_number::1
+<title>  Finite State Machines and Recurrent Neural Networks -  </title>::line_number::0
+<title> Automata and Dynamical Systems Approaches   </title>::line_number::1
+<title>  On the Perturbation of  </title>::line_number::3
+<title> LU and Cholesky Factors    </title>::line_number::4
+<title>  The Relative Importance of  </title>::line_number::0
+<title> Concurrent Writers and Weak Consistency Models   </title>::line_number::1
+<title>  On Hybrid Synthesis for Hierarchical Structured Petri Nets   </title>::line_number::0
+<title>  Exploiting the Temporal Structure of MPEG Video  </title>::line_number::0
+<title> for the Reduction of Bandwidth Requirements    </title>::line_number::1
+<title>  Putting Visualization to Work:  </title>::line_number::1
+<title> ProgramFinder for Youth Placement   </title>::line_number::2
+<title>  An Empirical Study of Delay Jitter Management Policies *   </title>::line_number::1
+<title>  Real-Time Computing with Lock-Free Shared Objects   </title>::line_number::0
+<title>  Sync: A System for Mobile Collaborative Applications   </title>::line_number::0
+<title>  Automatic Phonetic Transcription of Words  </title>::line_number::3
+<title> Based On Sparse Data   </title>::line_number::4
+<title>  Strange Bedfellows: Issues in Object Naming Under Unix   </title>::line_number::0
+<title>  Persistence is Hard, Then You Die!  </title>::line_number::0
+<title> or  </title>::line_number::1
+<title> Compiler and Runtime Support for a Persistent  </title>::line_number::2
+<title> Common Lisp   </title>::line_number::3
+<title>  Testing the FM9001 Microprocessor   </title>::line_number::0
+<title>  On Automatically Generating and Using  </title>::line_number::0
+<title> Examples in a Computational Logic System  </title>::line_number::1
+<title> @shortTitle(Generating and Using Examples )   </title>::line_number::2
+<title>  Secure Group Communications Using Key Graphs   </title>::line_number::0
+<title>  Integrating Explanation-Based and Inductive Learning Techniques  </title>::line_number::0
+<title> to Acquire Search-Control for Planning    </title>::line_number::1
+<title>  Products of Domain Models   </title>::line_number::0
+<title>  A Family of 2-process Mutual Exclusion Algorithms  </title>::line_number::0
+<title> Notes on UNITY: 13-90   </title>::line_number::1
+<title>  Verifying adder circuits using powerlists   </title>::line_number::0
+<title>  Loop Optimizations for Acyclic Object-Oriented Queries   </title>::line_number::0
+<title>  Algorithms for Fence Design   </title>::line_number::0
+<title>  A Bandwidth Control Scheme for Connectionless ATM  </title>::line_number::1
+<title> Traffic with Multiple Traffic Classes   </title>::line_number::2
+<title>  Software Engineering  </title>::line_number::0
+<title> Beginning In  </title>::line_number::1
+<title> The First Computer Science Course 1   </title>::line_number::2
+<title>  Isotach Networks   </title>::line_number::0
+<title>  Shade: A Fast Instruction-Set Simulator  </title>::line_number::0
+<title> for Execution Profiling   </title>::line_number::1
+<title>  Dynamic Page Mapping Policies for Cache Conflict Resolution on  </title>::line_number::1
+<title> Standard Hardware   </title>::line_number::2
+<title>  A Portable Parallel N-body Solver   </title>::line_number::0
+<title>  Timing Analysis of Concurrent Systems  </title>::line_number::0
+<title> An Algorithm for Determining Time Separation of Events   </title>::line_number::1
+<title>  User-Level Threads and Interprocess Communication   </title>::line_number::0
+<title>  Utility Models for Goal-Directed  </title>::line_number::0
+<title> Decision-Theoretic Planners   </title>::line_number::1
+<title>  Interface Timing Verification with  </title>::line_number::0
+<title> Combined Max and Linear Constraints   </title>::line_number::1
+<title>  Hierarchical Image Caching for Accelerated  </title>::line_number::0
+<title> Walkthroughs of Complex Environments   </title>::line_number::1
+<title>  Fast Rendering of Subdivision Surfaces   </title>::line_number::0
+<title>  Emerging Opportunities for Theoretical Computer Science   </title>::line_number::0
+<title>  Random Striping for  </title>::line_number::0
+<title> News on Demand Servers   </title>::line_number::1
+<title>  The Cassowary Linear Arithmetic Constraint Solving  </title>::line_number::0
+<title> Algorithm: Interface and Implementation   </title>::line_number::1
+<title>  The Error in Polynomial Tensor-Product,  </title>::line_number::0
+<title> and Chung-Yao, Interpolation   </title>::line_number::1
+<title>  On multivariate polynomial interpolation   </title>::line_number::0
+<title>  Recovering Shape by Purposive Viewpoint Adjustment   </title>::line_number::0
+<title>   Human Expert-Level Performance on a Scientific Image Analysis Task  </title>::line_number::2
+<title> by a System Using Combined Artificial Neural Networks   </title>::line_number::3
+<title>  Team Learning of Formal Languages   </title>::line_number::0
+<title>  Mathematical Programming in Machine Learning   </title>::line_number::0
+<title>  Clustering via Concave Minimization   </title>::line_number::0
+<title>  MATHEMATICAL PROGRAMMING  </title>::line_number::0
+<title> APPROACHES TO MACHINE LEARNING  </title>::line_number::1
+<title> AND DATA MINING   </title>::line_number::2
+<title>  High-Bandwidth Address Translation  </title>::line_number::0
+<title> for Multiple-Issue Processors   </title>::line_number::1
+<title>  PARALLEL CONSTRAINT DISTRIBUTION   </title>::line_number::0
+<title>  OPTIMAL PROCESSOR ASSIGNMENT FOR PARALLEL  </title>::line_number::0
+<title> DATABASE DESIGN    </title>::line_number::1
+<title>  PIECEWISE LINEAR HOMOTOPIES AND  </title>::line_number::0
+<title> AFFINE VARIATIONAL INEQUALITIES   </title>::line_number::1
+<title>  1995 Computer Science Department MQP  </title>::line_number::0
+<title> Review   </title>::line_number::1
+<title>  What Tasks Can Be Performed with an Uncalibrated  </title>::line_number::0
+<title> Stereo Vision System?    </title>::line_number::1
+<title>   HPF and MPI Implementation of the NAS Parallel Benchmarks  </title>::line_number::2
+<title> Supported by Integrated Program Engineering Tools   </title>::line_number::3
+<title>  Explaining Anomalies as a Basis for Knowledge Base Refinement   </title>::line_number::0
+<title>  Confluent Preorder Parsing   </title>::line_number::0
+<title>  Assessing Responses to Situated Cognition   </title>::line_number::0
+<title>  Learning stable concepts in domains with hidden changes in context   </title>::line_number::1
+<title>  Minimum Encoding Approaches for Predictive Modeling   </title>::line_number::0
+<title>  A Space of Presentation Emphasis Techniques for Visualizing Graphs   </title>::line_number::0
+<title>  Proving Properties of Logic Programs by  </title>::line_number::0
+<title> Abstract Diagnosis   </title>::line_number::1
+<title>  The Semantics of the C Programming Language   </title>::line_number::0
+<title>  An Evolving Algebra Abstract Machine   </title>::line_number::0
+<title>  Defining the Java Virtual Machine as Platform  </title>::line_number::0
+<title> for Provably Correct Java Compilation ?   </title>::line_number::1
+<title>  Refining Abstract Machine Specifications of the  </title>::line_number::0
+<title> Steam Boiler Control to Well Documented  </title>::line_number::1
+<title> Executable Code   </title>::line_number::2
+<title>  Reasoning about Other Agents: Philosophy,  </title>::line_number::0
+<title> Theory, and Implementation.   </title>::line_number::1
+<title>  Observational Uncertainty in Plan Recognition Among Interacting  </title>::line_number::0
+<title> Robots    </title>::line_number::1
+<title>  Using MICE to Study Intelligent Dynamic Coordination   </title>::line_number::0
+<title>  PENALIZED LIKELIHOOD EMISSION IMAGE RECONSTRUCTION  </title>::line_number::0
+<title> WITH UNCERTAIN BOUNDARY INFORMATION   </title>::line_number::1
+<title>  Observational Uncertainty in Plan Recognition Among Interacting  </title>::line_number::0
+<title> Robots    </title>::line_number::1
+<title>  Route Guidance Support in Intelligent Transportation  </title>::line_number::0
+<title> Systems: An Encoded Path View Approach    </title>::line_number::1
+<title>  Hierarchical Path Views: A Model Based on Fragmentation and  </title>::line_number::0
+<title> Transportation Road Types    </title>::line_number::1
+<title>  Hierarchical Optimization of Optimal Path Finding for  </title>::line_number::0
+<title> Transportation Applications    </title>::line_number::1
+<title>  Optimal Factory Scheduling using Stochastic Dominance A*   </title>::line_number::2
+<title>  Eaton's Markov Chain, its Conjugate Partner  </title>::line_number::0
+<title> and P-admissibility   </title>::line_number::1
+<title>  Dynamic Generation and Refinement of Concept Hierarchies for  </title>::line_number::0
+<title> Knowledge Discovery in Databases    </title>::line_number::1
+<title>  Multi-Agent Planning as a Dynamic Search for Social Consensus   </title>::line_number::0
+<title>  SUPPORTING TECHNOLOGY TRANSFER OF FORMAL TECHNICAL REVIEW  </title>::line_number::0
+<title> THROUGH A COMPUTER SUPPORTED COLLABORATIVE REVIEW SYSTEM   </title>::line_number::1
+<title>  Experiences with CLARE: a Computer-Supported  </title>::line_number::0
+<title> Collaborative Learning Environment   </title>::line_number::1
+<title>  Combinatory Differential Fields:  </title>::line_number::0
+<title> An Algebraic Approach to  </title>::line_number::1
+<title> Approximate Computation and  </title>::line_number::2
+<title> Constructive Analysis    </title>::line_number::3
+<title>  A Study of Perceptually  </title>::line_number::0
+<title> Grounded Polysemy in a Spatial  </title>::line_number::1
+<title> Microdomain   </title>::line_number::2
+<title>  An Efficient Parallel Algorithm  </title>::line_number::0
+<title> for Computing a Maximal  </title>::line_number::1
+<title> Independent Set in a  </title>::line_number::2
+<title> Hypergraph of Dimension 3   </title>::line_number::3
+<title>  Efficient PRAM Simulation on a  </title>::line_number::0
+<title> Distributed Memory Machine   </title>::line_number::1
+<title>  Modeling a Copier Paper Path:  </title>::line_number::0
+<title> A Case Study in Modeling  </title>::line_number::1
+<title> Transportation Processes   </title>::line_number::2
+<title>  Parallel Sorting With Limited  </title>::line_number::0
+<title> Bandwidth   </title>::line_number::1
+<title>  Smoothing and Multiplexing  </title>::line_number::0
+<title> Tradeoffs for Deterministic  </title>::line_number::1
+<title> Performance Guarantees to VBR  </title>::line_number::2
+<title> Video   </title>::line_number::3
+<title>  Elementary Proofs of some  </title>::line_number::2
+<title> Results on Representations of  </title>::line_number::3
+<title> p-groups   </title>::line_number::4
+<title>  Managing ABR Capacity in  </title>::line_number::2
+<title> Reservation-based Slotted  </title>::line_number::3
+<title> Networks   </title>::line_number::4
+<title>  Structural Grobner Basis  </title>::line_number::2
+<title> Detection   </title>::line_number::3
+<title>  A Management Platform for  </title>::line_number::2
+<title> Global Area ATM Networks   </title>::line_number::3
+<title>  Design and Implementation  </title>::line_number::0
+<title> of a Web-based Tool for  </title>::line_number::1
+<title> ATM Connection Management   </title>::line_number::2
+<title>  On-line Load Balancing for  </title>::line_number::0
+<title> Related Machines   </title>::line_number::1
+<title>  Towards the Assessment of Logics for  </title>::line_number::0
+<title> Concurrent Actions   </title>::line_number::1
+<title>  On Learning Soccer Strategies   </title>::line_number::0
+<title>  PMoct: A Policy management tool for OCT based Design Systems for Multiple Domains   </title>::line_number::0
+<title>  PMoct: A Policy management tool for OCT  </title>::line_number::4
+<title> based Design Systems for Multiple Domains   </title>::line_number::5
+<title>  Induction as Knowledge Integration   </title>::line_number::0
+<title>  A Hybrid Intelligent Architecture for Refining Input Characterization and  </title>::line_number::0
+<title> Domain Knowledge   </title>::line_number::1
+<title>  Generality and Difficulty in Genetic Programming:  </title>::line_number::0
+<title> Evolving a Sort   </title>::line_number::1
+<title>  Representation Requirements for Supporting  </title>::line_number::0
+<title> Decision Model Formulation   </title>::line_number::1
+<title>  The Treadmill:  </title>::line_number::2
+<title> Real-Time Garbage Collection Without Motion Sickness   </title>::line_number::3
+<title>  Multilayer perceptrons may learn simple rules quickly   </title>::line_number::0
+<title>  Efficient Optimistic Concurrency Control  </title>::line_number::1
+<title> Using Loosely Synchronized Clocks   </title>::line_number::2
+<title>  Decision-Theoretic Troubleshooting: A Framework for  </title>::line_number::0
+<title> Repair and Experiment   </title>::line_number::1
+<title>  Context-Insensitive Alias Analysis  </title>::line_number::0
+<title> Reconsidered   </title>::line_number::1
+<title>  Global Tree Optimization:  </title>::line_number::0
+<title> A Non-greedy Decision Tree Algorithm   </title>::line_number::1
+<title>  Behavior Near Zero of the Distribution of GCV Smoothing  </title>::line_number::6
+<title> Parameter Estimates 1   </title>::line_number::7
+<title>  Selecting Tense, Aspect, and Connecting Words  </title>::line_number::0
+<title> In Language Generation   </title>::line_number::1
+<title>  Toward a Lexicalized Grammar for Interlinguas   </title>::line_number::2
+<title>  Binding as an Interface Condition:  </title>::line_number::1
+<title> An Investigation of Hindi Scrambling   </title>::line_number::2
+<title>  GROWING RADIAL BASIS FUNCTION NETWORKS   </title>::line_number::0
+<title>  MULTIMEDIA MEETS MACHINE LEARNING   </title>::line_number::0
+<title>  On Scheduling Two Classes of Real Time Traffic With Identical  </title>::line_number::0
+<title> Deadlines    </title>::line_number::1
+<title>  Real-Time Reliable Multicast Using Proactive Forward Error Correction   </title>::line_number::0
+<title>  The Effectiveness of Affinity-Based Scheduling in Multiprocessor Networking    </title>::line_number::1
+<title>  Loss Correlation for Queues with Bursty Input Streams   </title>::line_number::0
+<title>  Optimal Smoothing of Stored Video and the Impact on  </title>::line_number::0
+<title> Network Resource Requirements fly   </title>::line_number::1
+<title>  Acquiring and validating background knowledge  </title>::line_number::0
+<title> for machine learning using function  </title>::line_number::1
+<title> decomposition   </title>::line_number::2
+<title>  Paging Tradeoffs in Distributed-Shared-Memory Multiprocessors   </title>::line_number::2
+<title>  Runtime Support to Parallelize Adaptive Irregular  </title>::line_number::0
+<title> Programs    </title>::line_number::1
+<title>  Supporting Irregular Distributions in FORTRAN 90D/HPF  </title>::line_number::0
+<title> Compilers    </title>::line_number::1
+<title>  Semi-Analytical Techniques for Substrate Characterization in the  </title>::line_number::0
+<title> Design of Mixed-Signal ICs   </title>::line_number::1
+<title>  High Performance Verification Algorithms   </title>::line_number::0
+<title>  Interpretable Neural Networks with BP-SOM   </title>::line_number::0
+<title>  THE PAPIA2 MACHINE: HARDWARE AND SOFTWARE ARCHITECTURE   </title>::line_number::0
+<title>  METAHEURISTICS FOR HIGHSCHOOL  </title>::line_number::1
+<title> TIMETABLING   </title>::line_number::2
+<title>  Simulations with an Evolvable Fitness Formula   </title>::line_number::0
+<title>  Foundations for the Learning Web   </title>::line_number::0
+<title>  Layered, Server-based Support  </title>::line_number::0
+<title> for Object-Oriented Application Development   </title>::line_number::1
+<title>  Structured Markov Chain Monte Carlo   </title>::line_number::0
+<title>  Dynamic Management of Guaranteed Performance Multimedia Connections   </title>::line_number::1
+<title>  Estimating the Selectivity of Spatial Queries Using  </title>::line_number::0
+<title> the `Correlation' Fractal Dimension   </title>::line_number::1
+<title>  Probabilistic Independence Networks for Hidden  </title>::line_number::7
+<title> Markov Probability Models   </title>::line_number::8
+<title>   Visualisation of Large Networks in 3-D Space:  </title>::line_number::0
+<title> Issues in  </title>::line_number::1
+<title> Implementation and Experimental Evaluation    </title>::line_number::2
+<title>  Networks and the Best Approximation Property   </title>::line_number::7
+<title>  Virtual Model Control of a Biped Walking Robot   </title>::line_number::0
+<title>  Real-time Communication in Multi-hop Networks   </title>::line_number::0
+<title>  SEQUOIA 2000 -- A REFLECTION ON THE FIRST THREE YEARS   </title>::line_number::0
+<title>  The Chinook Hardware/Software Co-Synthesis System   </title>::line_number::0
+<title>  Parallelization of Linearized  </title>::line_number::0
+<title> Applications in Fortran D   </title>::line_number::1
+<title>  Dispersion Analysis of Numerical Wave Propagation  </title>::line_number::0
+<title> and its Computational Consequences   </title>::line_number::1
+<title>  Deterministic Parallel Fortran   </title>::line_number::0
+<title>  Trust-region interior-point algorithms for minimization problems  </title>::line_number::0
+<title> with simple bounds    </title>::line_number::1
+<title>  Optimizing Fortran90D/HPF for  </title>::line_number::2
+<title> Distributed-Memory Computers   </title>::line_number::3
+<title>  Space-time domain decomposition for parabolic  </title>::line_number::0
+<title> problems   </title>::line_number::1
+<title>  Using Multiple Node Types to Improve the  </title>::line_number::2
+<title> Performance of DMP (Dynamic Multilayer Perceptron)   </title>::line_number::3
+<title>  Instance-Based Learning with Genetically Derived Attribute Weights   </title>::line_number::2
+<title>  The weakest reasonable memory model   </title>::line_number::0
+<title>  Incremental Cryptography and Application to Virus Protection   </title>::line_number::0
+<title>  ON THE POWER OF TWO-POINTS BASED SAMPLING   </title>::line_number::0
+<title>  On Yao's XOR-Lemma   </title>::line_number::0
+<title>  Eventually-Serializable Data Services   </title>::line_number::0
+<title>  Incoercible Multiparty Computation   </title>::line_number::0
+<title>  Proactive RSA   </title>::line_number::0
+<title>  Forward and Backward Simulations  </title>::line_number::0
+<title> Part I: Untimed Systems   </title>::line_number::1
+<title>  Facial Expression Recognition using a Dynamic Model and Motion Energy   </title>::line_number::2
+<title>  Toward a Visual Thesaurus   </title>::line_number::2
+<title>  Multimodal Person Recognition using  </title>::line_number::0
+<title> Unconstrained Audio and Video   </title>::line_number::1
+<title>  Building Query Optimizers with Combinators:   </title>::line_number::0
+<title>  PARTIAL SHAPE MATCHING USING GENETIC  </title>::line_number::0
+<title> ALGORITHMS   </title>::line_number::1
+<title>  Description Logics are not just for the Flightless-Birds:  </title>::line_number::0
+<title> A New Look at the Utility and Foundations of Description Logics   </title>::line_number::1
+<title>  Finding pattern matchings for permutations   </title>::line_number::0
+<title>  On Algorithms for Simplicial Depth   </title>::line_number::0
+<title>  An Algorithm for Bayesian Belief Network Construction from Data   </title>::line_number::0
+<title>  Planning information gathering under uncertainty   </title>::line_number::0
+<title>  Evaluation of Architectural Support for Global Address-Based Communication  </title>::line_number::0
+<title> in Large-Scale Parallel Machines   </title>::line_number::1
+<title>  An Improved Algorithm for Performance Optimal Technology  </title>::line_number::0
+<title> Mapping with Retiming in LUT-Based FPGA Design   </title>::line_number::1
+<title>  Intelligent Sensors for Atomization Processing  </title>::line_number::0
+<title> of Molten Metals and Alloys   </title>::line_number::1
+<title>  Automation Tools for  </title>::line_number::1
+<title> NonDestructive Inspection of Aircraft:  </title>::line_number::2
+<title> Promise of Technology Transfer from the  </title>::line_number::3
+<title> Civilian to the Military Sector   </title>::line_number::4
+<title>  EFFICIENT COMPRESSION OF ARBITRARY  </title>::line_number::1
+<title> MULTI-VIEW VIDEO SIGNALS   </title>::line_number::2
+<title>  Feature selection for classification based on text hierarchy   </title>::line_number::0
+<title>  Unification and Polymorphism in Region Inference   </title>::line_number::0
+<title>  An Introduction to Software Architecture   </title>::line_number::0
+<title>  An Agenda for Research in  </title>::line_number::0
+<title> Large-Scale Distributed Data Repositories   </title>::line_number::1
+<title>  Agile Application-Aware Adaptation for Mobility   </title>::line_number::1
+<title>  Automatic Program Specialization for  </title>::line_number::0
+<title> Interactive Media   </title>::line_number::1
+<title>  RECENT ADVANCES IN JANUS:  </title>::line_number::0
+<title> A SPEECH TRANSLATION SYSTEM   </title>::line_number::1
+<title>  AURORA: A Vision-Based Roadway  </title>::line_number::0
+<title> Departure Warning System   </title>::line_number::1
+<title>  A Combinatorial Approach to Trajectory Planning for Binary  </title>::line_number::0
+<title> Manipulators   </title>::line_number::1
+<title>  An Overview of a Compiler for  </title>::line_number::0
+<title> Scalable Parallel Machines   </title>::line_number::1
+<title>  CC  </title>::line_number::0
+<title> ++ : A Declarative Concurrent  </title>::line_number::1
+<title> Object Oriented Programming Notation   </title>::line_number::2
+<title>  Distributed Simulation of DEVS-Based Multiformalism Models   </title>::line_number::0
+<title>  Building Scalable Parallel Processors Using  </title>::line_number::0
+<title> Networked Computers - A Tutorial For  </title>::line_number::1
+<title> Synergy V2.0   </title>::line_number::2
+<title>  Tolerating Latency with Dagger   </title>::line_number::0
+<title>  Projections: A Preliminary Performance Tool for Charm   </title>::line_number::0
+<title>  Inference Networks for Document Retrieval   </title>::line_number::0
+<title>  Comparison of Distributed Concurrency Control Protocols  </title>::line_number::0
+<title> on a Distributed Database Testbed    </title>::line_number::1
+<title>  Resolving Ambiguity for Cross-language Retrieval   </title>::line_number::0
+<title>  On computing global similarity in images   </title>::line_number::0
+<title>  Kinetic Binary Space Partitions for  </title>::line_number::0
+<title> Intersecting Segments and Disjoint Triangles   </title>::line_number::1
+<title>  Raising Roofs, Crashing Cycles, and Playing Pool:  </title>::line_number::0
+<title> Applications of a Data Structure for Finding Pairwise Interactions    </title>::line_number::1
+<title>  Transis: A Communication Sub-System  </title>::line_number::0
+<title> for  </title>::line_number::1
+<title> High Availability   </title>::line_number::2
+<title>  From Ordinal to Euclidean Reconstruction with Partial Scene  </title>::line_number::0
+<title> Calibration    </title>::line_number::1
+<title>  Iterative Optimization and Simplification of  </title>::line_number::0
+<title> Hierarchical Clusterings   </title>::line_number::1
+<title>  On the Analysis of Indexing Schemes   </title>::line_number::0
+<title>  -- IBROW3 --   </title>::line_number::0
+<title> An Intelligent Brokering Service for  </title>::line_number::1
+<title> Knowledge-Component Reuse on the   </title>::line_number::2
+<title> World-Wide Web   </title>::line_number::3
+<title>  Hilbert Series of Group Representations and  </title>::line_number::2
+<title> Grobner Bases for Generic Modules   </title>::line_number::3
+<title>  Finding a Shortest Diagonal of a Simple Polygon in Linear  </title>::line_number::0
+<title> Time   </title>::line_number::1
+<title>  A Randomized Linear-Time Algorithm for Finding Minimum Spanning  </title>::line_number::0
+<title> Trees   </title>::line_number::1
+<title>  Markov Chain Algorithms for Planar Lattice Structures   </title>::line_number::0
+<title>  HIGH PERFORMANCE IMPLEMENTATION  </title>::line_number::0
+<title> OF SERVER DIRECTED I/O   </title>::line_number::1
+<title>  Constraint Based Design of ATM  </title>::line_number::0
+<title> Networks, an Experimental Study   </title>::line_number::1
+<title>  Efficient Scheduling of Branching Computations on Rings of  </title>::line_number::0
+<title> Processors: An Empirical Study   </title>::line_number::1
+<title>  Using Real-Valued Genetic Algorithms to Evolve Rule Sets for  </title>::line_number::0
+<title> Classification    </title>::line_number::1
+<title>  The Interaction of  </title>::line_number::0
+<title> Architecture and Operating System Design   </title>::line_number::1
+<title>  A Multi-Agent Referral System for Matchmaking   </title>::line_number::0
+<title>  Translucent Sums: A Foundation for  </title>::line_number::0
+<title> Higher-Order Module Systems   </title>::line_number::1
+<title>  Optimizing ML with Run-Time Code Generation   </title>::line_number::0
+<title>  A Tutorial on Visual Servo Control   </title>::line_number::0
+<title>  Implementing Parallel Shortest Paths Algorithms   </title>::line_number::0
+<title>  Belief Networks, Hidden Markov Models, and Markov  </title>::line_number::0
+<title> Random Fields: a Unifying View    </title>::line_number::1
+<title>  Theory and Design of Multidimensional QMF Sub-Band Filters From  </title>::line_number::0
+<title> 1-D Filters and Polynomials Using Transforms   </title>::line_number::1
+<title>  Once Upon an Object...  </title>::line_number::0
+<title> Computationally-Augmented Toys for Storytelling   </title>::line_number::1
+<title>  3D Morphing   </title>::line_number::0
+<title>  MPI-FM: High Performance MPI on Workstation  </title>::line_number::0
+<title> Clusters   </title>::line_number::1
+<title>  Register Windows and User-Space Threads on the SPARC   </title>::line_number::0
+<title>  New-Value Logging in the Echo  </title>::line_number::1
+<title> Replicated File System   </title>::line_number::2
+<title>  Extensible Syntax with Lexical Scoping   </title>::line_number::4
+<title>  Using Global Consistency to Recognise Euclidean Objects with an  </title>::line_number::0
+<title> Uncalibrated Camera   </title>::line_number::1
+<title>  The Impact of Trends in Technology on  </title>::line_number::1
+<title> File System Design   </title>::line_number::2
+<title>  Importing Pre-packaged Software into Lisp: Experience with  </title>::line_number::0
+<title> Arbitrary-Precision Floating-Point Numbers   </title>::line_number::1
+<title>  Modeling and Optimization of a Multiresolution  </title>::line_number::0
+<title> Image Retrieval System    </title>::line_number::1
+<title>  Reducing Branch Costs via Branch Alignment   </title>::line_number::0
+<title>  Empirical Study of a Dataflow Language on the CM-5   </title>::line_number::0
+<title>  An Efficient Network   </title>::line_number::1
+<title> Interface for the RAID-II   </title>::line_number::2
+<title> File Server   </title>::line_number::3
+<title>  Comparing Data Forwarding and Prefetching  </title>::line_number::0
+<title> for Communication-Induced Misses in Shared-Memory MPs 1   </title>::line_number::1
+<title>  Optimizing Primary Data Caches for Parallel  </title>::line_number::0
+<title> Scientific Applications: The Pool Buffer Approach 1   </title>::line_number::1
+<title>  An Analysis of Message Sequence Charts  </title>::line_number::0
+<title>  </title>::line_number::1
+<title>  Relating Test Purposes to Formal Specifications:  </title>::line_number::0
+<title> Towards a Theoretical Foundation of Practical Testing   </title>::line_number::1
+<title>  SDL and MSC Based Test Case Generation -  </title>::line_number::0
+<title> An Overall View of the SAMSTAG Method   </title>::line_number::1
+<title>  Automated Decomposition of Model-based Learning Problems   </title>::line_number::0
+<title>  Generation of task-specific segmentation  </title>::line_number::0
+<title> procedures as a model selection task   </title>::line_number::1
+<title>  A Neural Net for Determining Structural  </title>::line_number::0
+<title> Similarity of Recursive Programs   </title>::line_number::1
+<title>  Nonlinear Poisson Solve for Boltzmann Electrons   </title>::line_number::2
+<title>  Refraction and Reflection of Ion Acoustic Solitons by Space Charge Sheath   </title>::line_number::0
+<title>  Update-in-place Analysis for Sets   </title>::line_number::1
+<title>  Economic Allocation of Computation Time  </title>::line_number::0
+<title> with Computation Markets   </title>::line_number::1
+<title>  Improving the Performance of Radial Basis  </title>::line_number::0
+<title> Function Networks by Learning Center Locations   </title>::line_number::1
+<title>  Search for Chargino and Neutralino  </title>::line_number::3
+<title> Production Using the OPAL Detector  </title>::line_number::4
+<title> at  </title>::line_number::5
+<title> s = 130 136 GeV at LEP  </title>::line_number::6
+<title> The OPAL Collaboration   </title>::line_number::7
+<title>  System Administration: Monitoring, Diagnosing, and Repairing   </title>::line_number::0
+<title>  Path integral approach to no-Coriolis  </title>::line_number::0
+<title> approximation in heavy-ion collisions   </title>::line_number::1
+<title>  RTsynchronizer: Language Support for  </title>::line_number::1
+<title> Real-Time Specifications in Distributed Systems    </title>::line_number::2
+<title>  A Visualization Model for Concurrent Systems   </title>::line_number::0
+<title>  Billing Users and Pricing for TCP   </title>::line_number::1
+<title>  Learning to Predict Rare Events in Event Sequences   </title>::line_number::4
+<title>  A Comparative Study of Three Paradigms for Object  </title>::line_number::0
+<title> Recognition Bayesian Statistics, Neural Networks and  </title>::line_number::1
+<title> Expert Systems.    </title>::line_number::2
+<title>  Evaluation and Ordering of Rules Extracted from Feedforward  </title>::line_number::0
+<title> Networks    </title>::line_number::1
+<title>  DART/HYESS Users Guide   </title>::line_number::0
+<title>  Network of Workstations Active Messages Target for  </title>::line_number::0
+<title> Ptolemy C Code Generation   </title>::line_number::1
+<title>  A PRELIMINARY STUDY OF  </title>::line_number::3
+<title> HIERARCHICAL FINITE STATE MACHINES  </title>::line_number::4
+<title> WITH MULTIPLE CONCURRENCY MODELS   </title>::line_number::5
+<title>  Digital Communication Over Rayleigh  </title>::line_number::0
+<title> Fading Channels   </title>::line_number::1
+<title>  Switching through Singularities   </title>::line_number::0
+<title>  Simulation as a Tool for Hybrid System Design   </title>::line_number::0
+<title>  Construction of Fuzzy Linguistic Model   </title>::line_number::0
+<title>  Hybrid Control in Air Traffic Management Systems   </title>::line_number::0
+<title>  A Fault Tolerant Control Architecture  </title>::line_number::0
+<title> for Automated Highway Systems    </title>::line_number::1
+<title>  Motion Recovery From Image Sequences: Discrete Viewpoint vs.  </title>::line_number::0
+<title> Differential Viewpoint    </title>::line_number::1
+<title>  SmartATMS : A SIMULATOR FOR AIR TRAFFIC MANAGEMENT SYSTEMS   </title>::line_number::0
+<title>  Depth Discontinuities by Pixel-to-Pixel Stereo   </title>::line_number::0
+<title>  FROM KNOWLEDGE TO BELIEF   </title>::line_number::0
+<title>  MineSet: An Integrated System for Data Mining   </title>::line_number::1
+<title>  Tioga: Providing Data Management Support for  </title>::line_number::0
+<title> Scientific Visualization Applications    </title>::line_number::1
+<title>  BigSur:  </title>::line_number::0
+<title> A System For the Management of Earth Science Data   </title>::line_number::1
+<title>  GEN++ | an analyzer generator for C++ programs   </title>::line_number::0
+<title>  The Use of Description Logics in KBSE systems  </title>::line_number::0
+<title> Survey Paper   </title>::line_number::1
+<title>  Dealing With Disaster:  </title>::line_number::9
+<title> Surviving Misbehaved Kernel Extensions   </title>::line_number::10
+<title>  Identifying Language from Raw Speech   </title>::line_number::1
+<title> An Application of Recurrent Neural Networks   </title>::line_number::2
+<title>  Efficient Restoration of Multicolor Images with  </title>::line_number::0
+<title> Independent Noise   </title>::line_number::1
+<title>  Coherence of an inference is equivalent to  </title>::line_number::0
+<title> existence of a countably additive prior   </title>::line_number::1
+<title>  Client/Server Architectures for Business  </title>::line_number::1
+<title> Information Systems  </title>::line_number::2
+<title> A Pattern Language   </title>::line_number::3
+<title>  Wolfgang Keller   </title>::line_number::12
+<title>  The Abstract Class Pattern   </title>::line_number::1
+<title>  ABSTRACT CLASS Class Behavioral   </title>::line_number::6
+<title>  Semantic Query Caching for Heterogeneous Databases   </title>::line_number::0
+<title>  Revisiting the Paxos algorithm   </title>::line_number::0
+<title>  Finding Maximum Flows in Undirected Graphs Seems Easier than  </title>::line_number::0
+<title> Bipartite Matching +L + </title>::line_number::1
+<title>  Bounds on the Time to Detect Failures  </title>::line_number::0
+<title> Using Bounded-capacity Message Links   </title>::line_number::1
+<title>  Electronic Lottery Tickets as Micropayments   </title>::line_number::0
+<title>  The Design and Implementation of SOLAR,  </title>::line_number::0
+<title> a Portable Library for Scalable Out-of-Core Linear Algebra Computations   </title>::line_number::1
+<title>  Compiler Technology for Portable Checkpoints   </title>::line_number::0
+<title>  Regression shrinkage and selection via the lasso   </title>::line_number::0
+<title>  Task Driven Perceptual Organization for Extraction of Rooftop  </title>::line_number::0
+<title> Polygons    </title>::line_number::1
+<title>  Generalized Image Matching:  </title>::line_number::2
+<title> Statistical Learning of Physically-Based Deformations   </title>::line_number::3
+<title>  Determining 3-D Hand Motion   </title>::line_number::0
+<title>  Optimal Algorithms for Substrate Testing  </title>::line_number::0
+<title> in Multi-Chip Modules    </title>::line_number::1
+<title>  Efficient Gate Delay Modeling for Large Interconnect Loads   </title>::line_number::0
+<title>  Gate Load Delay Computation Using Analytical Models   </title>::line_number::0
+<title>  Robust IP Watermarking Methodologies for Physical Design   </title>::line_number::0
+<title>  Concurrency and Recovery in Generalized Search Trees   </title>::line_number::0
+<title>  Quick Simulation of ATM Buffers with  </title>::line_number::0
+<title> On-off Multiclass Markov Fluid Sources 1   </title>::line_number::1
+<title>  Information Theory,  </title>::line_number::0
+<title> Inference,  </title>::line_number::1
+<title> and Learning Algorithms   </title>::line_number::2
+<title>  Inferring Reduced Ordered Decision Graphs of Minimal Description  </title>::line_number::0
+<title> Length   </title>::line_number::1
+<title>  A Method for Automatic Design Error Location and  </title>::line_number::1
+<title> Correction in Combinational Logic Circuits    </title>::line_number::2
+<title>  VIS : A System for Verification and Synthesis   </title>::line_number::0
+<title>  Latch Optimization in Circuits Generated from High-level  </title>::line_number::1
+<title> Descriptions   </title>::line_number::2
+<title>  Using Don't Cares in Logic Minimization for  </title>::line_number::0
+<title> LUT-Based FPGAs   </title>::line_number::1
+<title>  An Assume-Guarantee Rule For Checking Simulation   </title>::line_number::0
+<title>  Modeling TCP Throughput: A Simple Model and its Empirical Validation    </title>::line_number::1
+<title>  Exotica/FMQM: A Persistent  </title>::line_number::0
+<title> Message-Based Architecture for  </title>::line_number::1
+<title> Distributed Workflow Management   </title>::line_number::2
+<title>  Use of Architecture-Altering Operations to Dynamically  </title>::line_number::0
+<title> Adapt a Three-Way Analog Source Identification Circuit to  </title>::line_number::1
+<title> Accommodate a New Source   </title>::line_number::2
+<title>  Planar-Adaptive Routing: Low-cost Adaptive Networks for  </title>::line_number::0
+<title> Multiprocessors   </title>::line_number::1
+<title>  Learning to Retrieve Information   </title>::line_number::0
+<title>  Segregating Planners and Their Environments   </title>::line_number::0
+<title>  Higher Bandwidth X   </title>::line_number::0
+<title>  Fast Volume Rendering Using a Shear-Warp Factorization  </title>::line_number::0
+<title> of the Viewing Transformation   </title>::line_number::1
+<title>  Compression Performance of the Xremote Protocol   </title>::line_number::0
+<title>  Robust Meshes from Multiple Range Maps   </title>::line_number::0
+<title>  Constraint Satisfaction Problem as a Causal Theory   </title>::line_number::0
+<title>  Dis-equality Constraints in Linear/Integer  </title>::line_number::0
+<title> Programming   </title>::line_number::1
+<title>  THE AUTOMATED HIGHWAY SYSTEM: A TRANSPORTATION  </title>::line_number::0
+<title> TECHNOLOGY FOR THE 21ST CENTURY   </title>::line_number::1
+<title>  A Parallel Implementation of an MPEG1 Encoder:  </title>::line_number::0
+<title> Faster Than Real-Time!   </title>::line_number::1
+<title>  Kin Recognition, Similarity, and Group Behavior   </title>::line_number::0
+<title>  Structuring Graphical Paradigms in TkGofer   </title>::line_number::0
+<title>  REWRITING METHODS  </title>::line_number::0
+<title> FOR WORD PROBLEMS    </title>::line_number::1
+<title>  Disk Packings and Planar Separators   </title>::line_number::0
+<title>  THE PRACTICAL VALUE OF N-GRAMS IN  </title>::line_number::0
+<title> GENERATION   </title>::line_number::1
+<title>  Building Interpreters by Composing Monads   </title>::line_number::0
+<title>  RESTORATION OF LOSSY COMPRESSED NOISY IMAGES   </title>::line_number::0
+<title>  Theory and Design of Multidimensional QMF Sub-Band Filters From  </title>::line_number::0
+<title> 1-D Filters Using Transforms   </title>::line_number::1
+<title>  Optimal Multiple Description Transform  </title>::line_number::0
+<title> Coding of Gaussian Vectors   </title>::line_number::1
+<title>  Quantized Overcomplete Expansions in R  </title>::line_number::1
+<title> N  </title>::line_number::2
+<title> Analysis, Synthesis, and Algorithms   </title>::line_number::3
+<title>  Planning and Proof Planning   </title>::line_number::0
+<title>  The Role of Learning in Autonomous Robots   </title>::line_number::0
+<title>  Predicting Lifetimes in Dynamically  </title>::line_number::1
+<title> Allocated Memory   </title>::line_number::2
+<title>  A Perturbation Scheme for Spherical Arrangements  </title>::line_number::0
+<title> with Application to Molecular Modeling    </title>::line_number::1
+<title>  Observations on Cognitive Judgments   </title>::line_number::0
+<title>  Taxonomic Syntax for First Order Inference   </title>::line_number::0
+<title>  Complex Feature Recognition: A  </title>::line_number::3
+<title> Bayesian Approach for Learning to  </title>::line_number::4
+<title> Recognize Objects   </title>::line_number::5
+<title>  Anatomical origin and computational role of diversity  </title>::line_number::0
+<title> in the response properties of cortical neurons    </title>::line_number::1
+<title>  Toward an Analysis of Forward Pruning   </title>::line_number::0
+<title>  Parametric Models are Versatile:  </title>::line_number::0
+<title> The Case of Model Based Optimization   </title>::line_number::1
+<title>  A Data-Flow Graphical User Interface for Querying a Scientific  </title>::line_number::0
+<title> Database    </title>::line_number::1
+<title>  Cooperative Bayesian and Case-Based Reasoning  </title>::line_number::0
+<title> for Solving Multiagent Planning Tasks    </title>::line_number::1
+<title>  Cloud Classification Using Error-Correcting Output Codes   </title>::line_number::0
+<title>  THE LOAD, CAPACITY AND AVAILABILITY OF QUORUM  </title>::line_number::0
+<title> SYSTEMS    </title>::line_number::1
+<title>  Practical Data Breakpoints: Design and Implementation   </title>::line_number::0
+<title>  A SPEECH-BASED ROUTE ENQUIRY SYSTEM BUILT FROM  </title>::line_number::1
+<title> GENERAL-PURPOSE COMPONENTS 1   </title>::line_number::2
+<title>  Combining Knowledge Sources  </title>::line_number::1
+<title> to Reorder N-Best Speech Hypothesis Lists   </title>::line_number::2
+<title>  Needles in a Haystack : Plan Recognition in Large Spatial  </title>::line_number::1
+<title> Domains Involving Multiple Agents   </title>::line_number::2
+<title>  Multistrategy Learning of Adaptive Reactive Controllers   </title>::line_number::0
+<title>  The State of the Art in Ontology Design:  </title>::line_number::0
+<title> A Survey and Comparative Review   </title>::line_number::1
+<title>  Adaptive Markov Chain Monte Carlo through  </title>::line_number::0
+<title> Regeneration   </title>::line_number::1
+<title>  RESONANCE AND THE PERCEPTION OF  </title>::line_number::0
+<title> MUSICAL METER   </title>::line_number::1
+<title>  A Volumetric Approach to Virtual Simulation  </title>::line_number::0
+<title> of Functional Endoscopic Sinus Surgery   </title>::line_number::1
+<title>  Refining Interactions in a Distributed System   </title>::line_number::0
+<title>  Clustering Methods for Collaborative Filtering   </title>::line_number::0
+<title>  AUCTION-DRIVEN COORDINATION FOR  </title>::line_number::0
+<title> PLANTWIDE OPTIMIZATION   </title>::line_number::1
+<title>  Integrality and Separability of Input Devices   </title>::line_number::0
+<title>  Constructing Cyberspace:  </title>::line_number::1
+<title> Virtual Reality and Hypermedia   </title>::line_number::2
+<title>  Windows on the World:  </title>::line_number::1
+<title> 2D Windows for 3D Augmented Reality   </title>::line_number::2
+<title>  Type classes in Haskell   </title>::line_number::0
+<title>  Measuring the Difficulty of Specific Learning Problems   </title>::line_number::0
+<title>  Crooked Functions, Bent Functions, and Distance  </title>::line_number::0
+<title> Regular Graphs   </title>::line_number::1
+<title>  A Symbiosis of Animation and Music   </title>::line_number::0
+<title>  On the Maximum Tolerable Noise for  </title>::line_number::0
+<title> Reliable Computation by Formulas   </title>::line_number::1
+<title>  Implementing Atomic Sequences on Uniprocessors  </title>::line_number::0
+<title> Using Rollforward   </title>::line_number::1
+<title>  Virtual Radios   </title>::line_number::0
+<title>  Optimal Representations of Polymorphic Types with  </title>::line_number::0
+<title> Subtyping   </title>::line_number::1
+<title>  Myrinet - A Gigabit-per-Second Local-Area Network   </title>::line_number::1
+<title>  Network Subsystem Design:  </title>::line_number::0
+<title> A Case for an Integrated Data Path   </title>::line_number::1
+<title>  Virtual Memory Architecture in SunOS   </title>::line_number::0
+<title>  A Study of the Structure and Performance  </title>::line_number::0
+<title> of MMU Handling Software   </title>::line_number::1
+<title>  A Survey of Collective Communication in  </title>::line_number::0
+<title> Wormhole-Routed Massively Parallel Computers   </title>::line_number::1
+<title>  Empirical Evaluation of Global Memory Support  </title>::line_number::0
+<title> on the CRAY-T3D and CRAY-T3E   </title>::line_number::1
+<title>  Feature Correspondence by Interleaving Shape and Texture  </title>::line_number::0
+<title> Computations    </title>::line_number::1
+<title>  RUNTIME SUPPORT FOR PORTABLE DISTRIBUTED DATA STRUCTURES   Chih-Po Wen, Soumen Chakrabarti, Etienne Deprit, Arvind Krishnamurthy, Katherine Yelick   Computer Science Division, Department of EECS University of California,   Berkeley, California 94720 USA   </title>::line_number::0
+<title>  Narrowing Interval Bounds   </title>::line_number::2
+<title>  Modeling and Rendering Architecture from Photographs:  </title>::line_number::0
+<title> A hybrid geometry- and image-based approach   </title>::line_number::1
+<title>  A New O(n  </title>::line_number::0
+<title> 2 ) Algorithm for the Symmetric Tridiagonal  </title>::line_number::1
+<title> Eigenvalue/Eigenvector Problem   </title>::line_number::2
+<title>  Query Execution Techniques for Caching Expensive Methods   </title>::line_number::0
+<title>  Using Skeletons for Nonholonomic Path Planning among Obstacles   </title>::line_number::0
+<title>  Dynamic Procedure Placement Through Cache Windowing   </title>::line_number::0
+<title>  Belief Revision: A Critique   </title>::line_number::0
+<title>  First-Order Conditional Logic Revisited   </title>::line_number::0
+<title>  A Fast Algorithm for Incremental Distance Calculation   </title>::line_number::0
+<title>  Eraser: A Dynamic Data Race Detector for Multi-Threaded Programs   </title>::line_number::0
+<title>  High-Performance Sorting on Networks of Workstations   </title>::line_number::0
+<title>  An FFT algorithm on Vector Intelligent RAM   </title>::line_number::0
+<title>  The Interaction of Parallel and Sequential Workloads on a  </title>::line_number::0
+<title> Network of Workstations   </title>::line_number::1
+<title>  Software-only video production switcher for the  </title>::line_number::0
+<title> Internet MBone   </title>::line_number::1
+<title>  "Go With the Winners" Algorithms   </title>::line_number::0
+<title>  Qualia Structure and the  </title>::line_number::0
+<title> Compositional Interpretation of Compounds   </title>::line_number::1
+<title>  Stochastic Interaction and Linear Logic   </title>::line_number::0
+<title>  An Experimental Comparison of  </title>::line_number::0
+<title> Three Graph Drawing Algorithms    </title>::line_number::1
+<title>  Form(ers) Over Function(s): The KOLA Reference Manual   </title>::line_number::0
+<title>  OBJECT-ORIENTED QUERIES: EQUIVALENCE AND OPTIMIZATION   </title>::line_number::0
+<title>  The AQUA Approach to Querying Lists and  </title>::line_number::1
+<title> Trees in Object-Oriented Databases    </title>::line_number::2
+<title>  Decomposition Techniques for Planning in Stochastic Domains   </title>::line_number::0
+<title>  LOCALIZED TEMPORAL REASONING USING SUBGOALS  </title>::line_number::1
+<title> AND ABSTRACT EVENTS   </title>::line_number::2
+<title>  Hierarchical Solution of Markov Decision Processes using Macro-actions   </title>::line_number::0
+<title>  How good are genetic algorithms at finding  </title>::line_number::0
+<title> large cliques: an experimental study    </title>::line_number::1
+<title>  The Undecidability of  </title>::line_number::0
+<title> Mitchell's Subtyping Relationship    </title>::line_number::1
+<title>  Implementation and Performance Evaluation of TCP Boston  </title>::line_number::1
+<title> A Fragmentation-tolerant TCP Protocol for ATM Networks    </title>::line_number::2
+<title>  Transfer Equations in Global Illumination   </title>::line_number::0
+<title>  Generating CAD-models of teeth   </title>::line_number::0
+<title>  Sensing Polygon Poses by Inscription   </title>::line_number::0
+<title>  Bias-Driven Revision of Logical Domain Theories   </title>::line_number::1
+<title>  THE CORAL USER MANUAL  </title>::line_number::0
+<title> A Tutorial Introduction to CORAL    </title>::line_number::1
+<title>  A Middleware Service for Real-Time Push-Pull  </title>::line_number::0
+<title> Communications   </title>::line_number::1
+<title>  Quality-of-Service Routing for  </title>::line_number::0
+<title> Traffic with Performance  </title>::line_number::1
+<title> Guarantees   </title>::line_number::2
+<title>  Building and Refining Abstract Planning Cases  </title>::line_number::1
+<title> by Change of Representation Language   </title>::line_number::2
+<title>  Experience with Rover Navigation for Lunar-Like Terrains   </title>::line_number::0
+<title>  Automation Tools for  </title>::line_number::1
+<title> NonDestructive Inspection of Aircraft:  </title>::line_number::2
+<title> Promise of Technology Transfer from the  </title>::line_number::3
+<title> Civilian to the Military Sector   </title>::line_number::4
+<title>  Information Extraction from HTML:  </title>::line_number::0
+<title> Application of a General Machine Learning Approach    </title>::line_number::1
+<title>  The Candide System for Machine Translation   </title>::line_number::0
+<title>  Efficient Resource Management   </title>::line_number::0
+<title>  for Linear Logic Proof Search   </title>::line_number::3
+<title>  A Simplified Account of Polymorphic References   </title>::line_number::0
+<title>  Fast Probabilistic Modeling for Combinatorial Optimization   </title>::line_number::8
+<title>  New Approximation Techniques for Some Ordering Problems   </title>::line_number::0
+<title>  Interleaving Planning and Robot Execution  </title>::line_number::2
+<title> for Asynchronous User Requests   </title>::line_number::3
+<title>  Implementing Distributed Server Groups for the  </title>::line_number::0
+<title> World Wide Web   </title>::line_number::1
+<title>  Fast Soft Shadows   </title>::line_number::0
+<title>  Performance Measurements of the Multimedia  </title>::line_number::0
+<title> Testbed on Real-Time Mach   </title>::line_number::1
+<title>  Clustering Learning Tasks and the Selective Cross-Task  </title>::line_number::0
+<title> Transfer of Knowledge   </title>::line_number::1
+<title>  Moving target classification and tracking from real-time video   </title>::line_number::0
+<title>  Exploiting Weak Connectivity for Mobile File Access   </title>::line_number::0
+<title>  TIGHT ANALYSES OF TWO LOCAL LOAD BALANCING ALGORITHMS   </title>::line_number::0
+<title>  A PRINCIPLED REPRESENTATION OF ATTRIBUTIVE DESCRIPTIONS  </title>::line_number::0
+<title> FOR GENERATING INTEGRATED TEXT AND INFORMATION  </title>::line_number::1
+<title> GRAPHICS PRESENTATIONS   </title>::line_number::2
+<title>  A Note on Learning from Multiple-Instance  </title>::line_number::2
+<title> Examples   </title>::line_number::3
+<title>  Memory-based Stochastic Optimization for Automated Tuning  </title>::line_number::1
+<title> of Neural Network's High Level Parameters ?   </title>::line_number::2
+<title>  Interactive Physically-Based Manipulation  </title>::line_number::1
+<title> of Discrete/Continuous Models   </title>::line_number::2
+<title>  Agile Application-Aware Adaptation for Mobility   </title>::line_number::1
+<title>  Mixed-Initiative Management of Integrated Process-Planning and  </title>::line_number::0
+<title> Production-Scheduling Solutions   </title>::line_number::1
+<title>  Proportional-Share Scheduling: Implementation and  </title>::line_number::0
+<title> Evaluation in a Widely-Deployed Operating System   </title>::line_number::1
+<title>  Operant Conditioning in Skinnerbots   </title>::line_number::0
+<title>  Middleware Enabled Fault Management for   </title>::line_number::1
+<title> Commercial Operating Systems   </title>::line_number::2
+<title>  Improving Text Classification by Shrinkage in a Hierarchy of Classes   </title>::line_number::0
+<title>  Abstract Time Warping of Compound Events and Signals   </title>::line_number::0
+<title>  Remote Access to Interactive Media   </title>::line_number::0
+<title>  INFORMING LOADS: ENABLING SOFTWARE TO  </title>::line_number::0
+<title> OBSERVE AND REACT TO MEMORY BEHAVIOR   </title>::line_number::1
+<title>  Informing Memory Operations: Providing Memory  </title>::line_number::0
+<title> Performance Feedback in Modern Processors   </title>::line_number::1
+<title>  Using Neural Networks for Data Mining   </title>::line_number::1
+<title>  A Simple Algorithm for Finding the  </title>::line_number::0
+<title> Maximum Recoverable System State in  </title>::line_number::1
+<title> Optimistic Rollback Recovery Methods   </title>::line_number::2
+<title>  A Prototype Reading Coach that Listens   </title>::line_number::0
+<title>  Towards a Principled Representation  </title>::line_number::0
+<title> of Discourse Plans   </title>::line_number::1
+<title>  Simulating Soft Shadows  </title>::line_number::0
+<title> with Graphics Hardware   </title>::line_number::1
+<title>  NIFDY: A Low Overhead, High Throughput Network Interface   </title>::line_number::0
+<title>  Implementing Bit-addressing with Specialization   </title>::line_number::0
+<title>  Exploiting Global Input/Output Access Pattern Classification   </title>::line_number::0
+<title>  INVERSION IN TIME   </title>::line_number::1
+<title>  SUPRENUM: Perspectives and Performance   </title>::line_number::0
+<title>  Metamorphosis Networks:  </title>::line_number::0
+<title> An Alternative to Constructive Methods   </title>::line_number::1
+<title>  The Sybil Database Integration and Evolution Environment: An Overview   </title>::line_number::0
+<title>  Schema Evolution in Object Databases: Measuring  </title>::line_number::0
+<title> the Performance of Immediate and Deferred Updates   </title>::line_number::1
+<title>  Goal-Directed Classification using Linear Machine  </title>::line_number::0
+<title> Decision Trees    </title>::line_number::1
+<title>  Cellular Encoding Applied to Neurocontrol   </title>::line_number::0
+<title>  Efficient Indexing for Object Recognition Using Large Networks   </title>::line_number::0
+<title>  Measured Performance of a Wireless LAN   </title>::line_number::0
+<title>  Internet Telephony: A (Partial) Research Agenda   </title>::line_number::0
+<title>  Predictive Dynamic Load Balancing of Parallel Hash-Joins over  </title>::line_number::0
+<title> Heterogeneous Processors in the Presence of Data Skew    </title>::line_number::1
+<title>  Mining Audit Data to Build Intrusion Detection Models   </title>::line_number::0
+<title>  Scalability of Hierarchical Meta-Learning  </title>::line_number::0
+<title> on Partitioned Data    </title>::line_number::1
+<title>  Learning Distributions from Random Walks   </title>::line_number::0
+<title>  Compiling for distributed memory architectures   </title>::line_number::0
+<title>  Embedded Machine Learning Systems for  </title>::line_number::0
+<title> Natural Language Processing: A General  </title>::line_number::1
+<title> Framework   </title>::line_number::2
+<title>  Comparing Mostly-Copying and Mark-Sweep Conservative Collection   </title>::line_number::0
+<title>  On-Line Search in a Simple Polygon   </title>::line_number::0
+<title>  Visibility-Based Planning of Sensor Control Strategies   </title>::line_number::1
+<title>  Experimental Study of Minimum Cut Algorithms   </title>::line_number::0
+<title>  Performing Out-of-Core FFTs on Parallel Disk Systems   </title>::line_number::3
+<title>  Agent Tcl: Alpha Release 1.1   </title>::line_number::0
+<title>  Some applications of generalized FFTs   </title>::line_number::3
+<title>  A Hyperconcentrator Switch  </title>::line_number::0
+<title> for Routing Bit-Serial Messages   </title>::line_number::1
+<title>  Document Image Compression Via Pattern  </title>::line_number::0
+<title> Matching   </title>::line_number::1
+<title>  Probabilistic Analysis for Combinatorial  </title>::line_number::0
+<title> Functions of Moving Points    </title>::line_number::1
+<title>  Geometric Matching under Noise: Combinatorial Bounds and  </title>::line_number::0
+<title> Algorithms    </title>::line_number::1
+<title>  Lexicographic Bit Allocation for MPEG Video   </title>::line_number::0
+<title>  Scalable Mining for Classification Rules  </title>::line_number::0
+<title> in Relational Databases   </title>::line_number::1
+<title>  A Unified Analysis of Value-Function-Based  </title>::line_number::0
+<title> Reinforcement-Learning Algorithms   </title>::line_number::1
+<title>  Representing Moving Images with Layers   </title>::line_number::3
+<title>  An Extensible End-to-End Protocol and Framework   </title>::line_number::0
+<title>  A Protocol for Efficient Transfer of Data over Fiber/Cable Systems   </title>::line_number::0
+<title>  PARALLEL AND DISTRIBUTED SIMULATION   </title>::line_number::0
+<title>  Storage Systems for Movies-on-Demand Video Servers   </title>::line_number::0
+<title>  Evaluating Blocking Probability in Generalized  </title>::line_number::0
+<title> Connectors   </title>::line_number::1
+<title>  Reverse Engineering with a CASE Tool   </title>::line_number::0
+<title>  Discovery of frequent episodes in event sequences   </title>::line_number::3
+<title>  Finding Interesting Rules from Large Sets of Discovered Association Rules   </title>::line_number::0
+<title>  A structured document database system   </title>::line_number::0
+<title>  Lempel-Ziv Index for q-Grams   </title>::line_number::0
+<title>  Unifying Two-View and Three-View Geometry   </title>::line_number::2
+<title>  Using Queue Time Predictions for Processor Allocation   </title>::line_number::0
+<title>  Measure, Stochasticity, and the Density   </title>::line_number::0
+<title> of Hard Languages   </title>::line_number::1
+<title>  An Executable Semantics for a   </title>::line_number::0
+<title> Formalized Data Flow Diagram   </title>::line_number::1
+<title> Specification Language   </title>::line_number::2
+<title>  Coordination and Control Structures and Processes:  </title>::line_number::0
+<title> Possibilities for Connectionist Networks (CN)   </title>::line_number::1
+<title>  1 FEATURE SUBSET SELECTION USING A  </title>::line_number::0
+<title> GENETIC ALGORITHM   </title>::line_number::1
+<title>  EFFICIENT COMPILATION AND PROFILE-DRIVEN  </title>::line_number::0
+<title> DYNAMIC RECOMPILATION IN SCHEME   </title>::line_number::1
+<title>  Compiler Construction Using Scheme   </title>::line_number::0
+<title>  Using Goals and Experience to Guide Abduction   </title>::line_number::0
+<title>  Toward the Rigorous Use of  </title>::line_number::0
+<title> Diagrams in Reasoning about  </title>::line_number::1
+<title> Hardware   </title>::line_number::2
+<title>  Learning to Integrate Multiple Knowledge Sources  </title>::line_number::1
+<title> for Case-Based Reasoning   </title>::line_number::2
+<title>  A Ray Tracing Method for Illumination Calculation in  </title>::line_number::0
+<title> Diffuse-Specular Scenes   </title>::line_number::1
+<title>  3-D Stereo Using Photometric Ratios   </title>::line_number::0
+<title>  Best-Case Results for Nearest Neighbor  </title>::line_number::1
+<title> Learning   </title>::line_number::2
+<title>  Deterministic Sorting  </title>::line_number::0
+<title> in Nearly Logarithmic Time  </title>::line_number::1
+<title> on the Hypercube  </title>::line_number::2
+<title> and Related Computers   </title>::line_number::3
+<title>  Learning Symbolic Rules Using Artificial Neural Networks   </title>::line_number::2
+<title>  The Royal Tree Problem, a Benchmark for Single and  </title>::line_number::0
+<title> Multi-population Genetic Programming   </title>::line_number::1
+<title>  A Perspective on Word Sense Disambiguation Methods  </title>::line_number::0
+<title> and Their Evaluation   </title>::line_number::1
+<title>  Inductive Constraint Logic  </title>::line_number::0
+<title> and the Mutagenesis Problem   </title>::line_number::1
+<title>  Model-guided Segmentation of Corpus Callosum in MR Images   </title>::line_number::0
+<title>  Statistical Characteristics and Multiplexing of MPEG Streams   </title>::line_number::0
+<title>  Aditi-Prolog language manual +L + </title>::line_number::0
+<title>  An Agent-Based Approach  </title>::line_number::0
+<title> for Robot Vision System   </title>::line_number::1
+<title>  Agents for Citation Finding  </title>::line_number::0
+<title> on the World Wide Web   </title>::line_number::1
+<title>  Termination Analysis for Mercury   </title>::line_number::0
+<title>  Mixed Semidefinite-Quadratic-Linear Programs   </title>::line_number::0
+<title>  Methods for Handling Faults and Asynchrony  </title>::line_number::0
+<title> in Parallel Computation    </title>::line_number::1
+<title>  Toward the Automation of the Card-Playing  </title>::line_number::0
+<title> Component of Bridge   </title>::line_number::1
+<title>  The Development of the C Language   </title>::line_number::0
+<title>  Hierarchical Explanation-Based Reinforcement Learning   </title>::line_number::0
+<title>  DISTRIBUTED CONTROL IN OPTICAL WDM NETWORKS   </title>::line_number::0
+<title>  Contingency Selection in Plan Generation   </title>::line_number::0
+<title>  Working Sets, Cache Sizes, and Node Granularity Issues  </title>::line_number::0
+<title> for Large-Scale Multiprocessors   </title>::line_number::1
+<title>  Modeling Communication in Parallel Algorithms:  </title>::line_number::0
+<title> A Fruitful Interaction between Theory and Systems?   </title>::line_number::1
+<title>  Irregular Applications under Software Shared Memory   </title>::line_number::1
+<title>  Network Services for  </title>::line_number::0
+<title> Multi-User Virtual Environments   </title>::line_number::1
+<title>  Database and Display Algorithms for  </title>::line_number::0
+<title> Interactive Visualization of Architectural Models   </title>::line_number::1
+<title>  Simulating the Madness of Crowds:  </title>::line_number::0
+<title> Price Bubbles in an Auction-Mediated Robot Market   </title>::line_number::1
+<title>  Patience is a Virtue: The Effect of Delay on  </title>::line_number::2
+<title> Competitiveness for Admission Control   </title>::line_number::3
+<title>  An Evolutionary Approach to  </title>::line_number::0
+<title> Combinatorial Optimization Problems   </title>::line_number::1
+<title>  Investigating  </title>::line_number::0
+<title> Genetic Algorithms  </title>::line_number::1
+<title> for Scheduling   </title>::line_number::2
+<title>  Navigation in Three Dimensional Spaces   </title>::line_number::0
+<title>  A Color-based Technique for Measuring Visible Loss for Use  </title>::line_number::0
+<title> in Image Data Communication 1   </title>::line_number::1
+<title>  AFEC: An Adaptive Forward Error-Correction  </title>::line_number::0
+<title> Protocol and Its Analysis   </title>::line_number::1
+<title>  PYTHIA: A Knowledge Based System  </title>::line_number::0
+<title> for Intelligent Scientific Computing   </title>::line_number::1
+<title>  On the Collapse of the q-Gram Filtration   </title>::line_number::0
+<title>  Authorship Analysis: Identifying The  </title>::line_number::0
+<title> Author of a Program 1   </title>::line_number::1
+<title>  Efficient Disk Allocation for Fast Similarity Searching   </title>::line_number::0
+<title>  A Coarse-Grained Parallel  </title>::line_number::0
+<title> QR-Factorization Algorithm for  </title>::line_number::1
+<title> Sparse Least Squares Problems   </title>::line_number::2
+<title>  Efficient Finite-State Approximation of Context  </title>::line_number::0
+<title> Free Grammars   </title>::line_number::1
+<title>  Evaluating the Performance of Software Distributed Shared Memory  </title>::line_number::0
+<title> as a Target for Parallelizing Compilers   </title>::line_number::1
+<title>  Carlsberg: A Distributed Execution Environment  </title>::line_number::0
+<title> Providing Coherent Shared Memory and  </title>::line_number::1
+<title> Integrated Message Passing   </title>::line_number::2
+<title>  On the Accuracy of Anderson's Fast N-body Algorithm   </title>::line_number::1
+<title>  The Efficient Simulation of Parallel Computer Systems   </title>::line_number::1
+<title>  Synchronization, Coherence, and Consistency for  </title>::line_number::1
+<title> High Performance Shared-Memory  </title>::line_number::2
+<title> Multiprocessing   </title>::line_number::3
+<title>  Theoretical Foundations of Association Rules   </title>::line_number::0
+<title>  On GDM's: Geometrically Deformed Models for the Extraction of Closed  </title>::line_number::0
+<title> Shapes from Volume Data   </title>::line_number::1
+<title>  Modeling and the Adaptive Solution of  </title>::line_number::0
+<title> CVD Fiber-Coating Processes   </title>::line_number::1
+<title>  Automated Design Optimization for the P2 and P8  </title>::line_number::0
+<title> Hypersonic Inlets   </title>::line_number::1
+<title>  Predicting Sequences of User Actions   </title>::line_number::1
+<title>  Towards a Cost-Effective Parallel Data Mining Approach   </title>::line_number::0
+<title>  Intelligent Model Selection for Hillclimbing Search in  </title>::line_number::0
+<title> Computer-Aided Design   </title>::line_number::1
+<title>  Why Should Architectural Principles be  </title>::line_number::0
+<title> Enforced?   </title>::line_number::1
+<title>  Imposing The Law of Demeter and Its Variations   </title>::line_number::0
+<title>  Learning Novel Domains Through Curiosity and Conjecture   </title>::line_number::0
+<title>  Distributed parallel shooting for BVODEs   </title>::line_number::0
+<title>  Practical PAC Learning   </title>::line_number::0
+<title>  Continuous sigmoidal belief networks  </title>::line_number::0
+<title> trained using slice sampling   </title>::line_number::1
+<title>  Learning Useful Horn Approximations   </title>::line_number::0
+<title>  Powers of Trees   </title>::line_number::0
+<title>  Coding Segments Inside and Outside the Chromosome   </title>::line_number::0
+<title>  Learning to Select Useful Landmarks   </title>::line_number::0
+<title>  Support for Implementation of Evolutionary  </title>::line_number::0
+<title> Concurrent Systems in Concurrent  </title>::line_number::1
+<title> Programming Languages   </title>::line_number::2
+<title>  A VARIABLE TIME STEP METHOD FOR AN AGE-DEPENDENT  </title>::line_number::0
+<title> POPULATION MODEL WITH NONLINEAR DIFFUSION   </title>::line_number::1
+<title>  The Test Matrix Toolbox for Matlab (Version 3.0)   </title>::line_number::1
+<title>  User-Defined Aggregates  </title>::line_number::0
+<title> for Logical Data Languages   </title>::line_number::1
+<title>  Greedy Algorithms in  </title>::line_number::0
+<title> Greedy with Choice and Negation    </title>::line_number::1
+<title>  Semantics-based Failure Recovery in Distributed Systems  </title>::line_number::0
+<title> with Optimistic Message Logging    </title>::line_number::1
+<title>  Run-time Compilation for Parallel Sparse Matrix Computations   </title>::line_number::0
+<title>  A New Framework for Image Invariants using Basis Expansion    </title>::line_number::1
+<title>  A SUIF Java Compiler   </title>::line_number::0
+<title>  Jade: A High-Level, Machine-Independent Language for Parallel  </title>::line_number::0
+<title> Programming   </title>::line_number::1
+<title>  EXPLOITING COMMUTING OPERATIONS IN PARALLELIZING  </title>::line_number::0
+<title> SERIAL PROGRAMS   </title>::line_number::1
+<title>  A Concurrency Mechanism For Sequential Eiffel   </title>::line_number::0
+<title>  Scintilla: Cluster Computing with SCI   </title>::line_number::0
+<title>  Run-time Techniques for Exploiting Irregular Task  </title>::line_number::0
+<title> Parallelism on Distributed Memory Architectures    </title>::line_number::1
+<title>  Design and Implementation of a System to Support Integration of  </title>::line_number::2
+<title> Autonomous Database Systems   </title>::line_number::3
+<title>  The Institution of order-sorted equational logic   </title>::line_number::0
+<title>  How to Sign Given Any Trapdoor Permutation   </title>::line_number::2
+<title>  The Relative Complexity of NP Search Problems   </title>::line_number::0
+<title>  Mapping Parallel Applications to  </title>::line_number::1
+<title> Distributed Heterogeneous Systems   </title>::line_number::2
+<title>  Almost All Regular Graphs are  </title>::line_number::0
+<title> Hamiltonian   </title>::line_number::1
+<title>  Learning to Schedule Straight-Line Code   </title>::line_number::0
+<title>  Multi-time Models for Temporally Abstract  </title>::line_number::0
+<title> Planning   </title>::line_number::1
+<title>  Intra-Option Learning about Temporally Abstract Actions   </title>::line_number::0
+<title>  A Method Providing Identity Privacy to Mobile Users during  </title>::line_number::0
+<title> Authentication   </title>::line_number::1
+<title>  Composite Model Checking with Type Specific  </title>::line_number::0
+<title> Symbolic Encodings    </title>::line_number::1
+<title>  Mobile-End Transport Protocol:  </title>::line_number::0
+<title> An Alternative to TCP/IP Over Wireless Links    </title>::line_number::1
+<title>  Ratio Rules:  </title>::line_number::0
+<title> A New Paradigm for Fast, Quantifiable Data Mining   </title>::line_number::1
+<title>  Dynamic Abstraction Planning   </title>::line_number::1
+<title>  CIRCA and the Cassini Saturn Orbit Insertion:  </title>::line_number::2
+<title> Solving a Prepositioning Problem   </title>::line_number::3
+<title>  Quantum Computing | A treatise   </title>::line_number::0
+<title>  Within the Letter of the Law: open-textured planning   </title>::line_number::0
+<title>  A Comparison of Content-Based Image/Video Retrieval  </title>::line_number::0
+<title> Systems   </title>::line_number::1
+<title>  Efficiently Supporting Ad Hoc Queries in Large Datasets of Time  </title>::line_number::0
+<title> Sequences   </title>::line_number::1
+<title>  How to Be a Good  </title>::line_number::0
+<title> Graduate Student  </title>::line_number::1
+<title> Advisor   </title>::line_number::2
+<title>  GENERATING REDESIGN SUGGESTIONS TO REDUCE SETUP COST:  </title>::line_number::1
+<title> A STEP TOWARDS AUTOMATED REDESIGN   </title>::line_number::2
+<title>  Transport and Display Mechanisms For Multimedia  </title>::line_number::0
+<title> Conferencing Across Packet-Switched Networks *   </title>::line_number::1
+<title>  Supporting Stored Video: Reducing Rate Variability and End-to-End Resource  </title>::line_number::1
+<title> Requirements through Optimal Smoothing    </title>::line_number::2
+<title>  Alleviating Priority Inversion and Non-determinism  </title>::line_number::0
+<title> in Real-time CORBA ORB Core Architectures   </title>::line_number::1
+<title>  Reducing False Sharing on Shared Memory Multiprocessors  </title>::line_number::0
+<title> through Compile Time Data Transformations   </title>::line_number::1
+<title>  Is it a Tree, a DAG, or a Cyclic Graph?  </title>::line_number::3
+<title> A Shape Analysis for Heap-Directed Pointers in C   </title>::line_number::4
+<title>  Compiler Support for Maintaining Cache  </title>::line_number::0
+<title> Coherence Using Data Prefetching ?   </title>::line_number::1
+<title>  INTEGRATING FINE-GRAINED MESSAGE PASSING IN CACHE COHERENT  </title>::line_number::0
+<title> SHARED MEMORY MULTIPROCESSORS (*)   </title>::line_number::1
+<title>  Constraint-Based Animations   </title>::line_number::0
+<title>  Dynamic Resource Management for Continuous  </title>::line_number::0
+<title> Media Traffic over ATM Networks   </title>::line_number::1
+<title>  Parallel Multilevel k -way Partitioning Scheme for  </title>::line_number::4
+<title> Irregular Graphs   </title>::line_number::5
+<title>  Optimizing Multi-Join Queries in Parallel Relational Databases   </title>::line_number::0
+<title>  The COOL architecture and abstractions for object-oriented  </title>::line_number::1
+<title> distributed operating systems   </title>::line_number::2
+<title>  Using PVS to Analyze Hierarchical State-Based Requirements for  </title>::line_number::0
+<title> Completeness and Consistency    </title>::line_number::1
+<title>  AN ALGORITHM FOR GENERATING EXECUTABLE  </title>::line_number::0
+<title> ASSERTIONS FOR FAULT TOLERANCE    </title>::line_number::1
+<title>  A Framework for Implementing Objects and Scheduling Tasks in Lock-Free  </title>::line_number::1
+<title> Real-Time Systems    </title>::line_number::2
+<title>  Universal Constructions for Large Objects   </title>::line_number::0
+<title>  View-Dependent Simplification Of Arbitrary Polygonal Environments   </title>::line_number::0
+<title>  Modeling and Parameter Estimation of the Human Index Finger   </title>::line_number::0
+<title>  A Dossier Driven Persistent Objects Facility   </title>::line_number::0
+<title>  The Next Frontier: Interactive and Closed Loop Performance  </title>::line_number::0
+<title> Steering    </title>::line_number::1
+<title>  Compilation of Constraint Systems to  </title>::line_number::0
+<title> Procedural Parallel Programs   </title>::line_number::1
+<title>  Optimal Wire-Sizing Formula Under the Elmore Delay Model   </title>::line_number::0
+<title>  Model Decomposition and Simulation   </title>::line_number::3
+<title>  Programming the Web:  </title>::line_number::0
+<title> An Application-oriented Language for Hypermedia Services   </title>::line_number::1
+<title>  Stability and Chaos in an Inertial Two  </title>::line_number::0
+<title> Neuron System   </title>::line_number::1
+<title>  ON UNAPPROXIMABLE VERSIONS OF NP-COMPLETE  </title>::line_number::0
+<title> PROBLEMS    </title>::line_number::1
+<title>  Recursive Functions of Symbolic  </title>::line_number::0
+<title> Expressions and Their Computation by  </title>::line_number::1
+<title> Machine, Part I   </title>::line_number::2
+<title>  Frangipani: A Scalable Distributed File System   </title>::line_number::0
+<title>  The Cost of Recovery in Message Logging Protocols   </title>::line_number::0
+<title>  Constructing Scripts from Components:  </title>::line_number::0
+<title> Working Note 6   </title>::line_number::1
+<title>  Design Goals for ACL2   </title>::line_number::0
+<title>  Broadcasting on Meshes with Worm-Hole Routing   </title>::line_number::0
+<title>  Towards Usable and Lean  </title>::line_number::0
+<title> Parallel Linear Algebra Libraries    </title>::line_number::1
+<title>  Anatomy of a Parallel Out-of-Core Dense Linear Solver   </title>::line_number::0
+<title>  Automated Proof Support for  </title>::line_number::0
+<title> Reasoning about Distributed Mobile  </title>::line_number::1
+<title> Programs   </title>::line_number::2
+<title>  NetSolve: A Network Server  </title>::line_number::0
+<title> for Solving Computational Science Problems   </title>::line_number::1
+<title>  What robots can do:  </title>::line_number::0
+<title> Robot programs and effective achievability   </title>::line_number::1
+<title>  An Ordering on Subgoals for Planning   </title>::line_number::0
+<title>  How to Progress a Database (and Why)  </title>::line_number::0
+<title> I. Logical Foundations   </title>::line_number::1
+<title>  Specifying Instructions' Semantics Using CSDL  </title>::line_number::0
+<title> (Preliminary Report)   </title>::line_number::1
+<title>  Approaching the 5/4-Approximation  </title>::line_number::0
+<title> for Rectilinear Steiner Trees    </title>::line_number::1
+<title>  A Distributed Protocol for Channel-Based  </title>::line_number::0
+<title> Communication with Choice   </title>::line_number::1
+<title>  The New Jersey Machine-Code Toolkit   </title>::line_number::1
+<title>  Non-Tree Routing   </title>::line_number::0
+<title>  Scheduling and Page Migration for Multiprocessor Compute Servers   </title>::line_number::0
+<title>  Using Runtime Measured Workload Characteristics in  </title>::line_number::0
+<title> Parallel Processor Scheduling   </title>::line_number::1
+<title>  Semantic Query Optimization in Datalog Programs   </title>::line_number::0
+<title>  PCp  </title>::line_number::0
+<title> 3 : A C Front End for  </title>::line_number::1
+<title> Preprocessor Analysis and Transformation   </title>::line_number::2
+<title>  Automatic Dynamic Compilation Support for  </title>::line_number::0
+<title> Event Dispatching in Extensible Systems   </title>::line_number::1
+<title>  Effective Cache Prefetching on Bus-Based Multiprocessors   </title>::line_number::0
+<title>  SCREEN: Learning a Flat Syntactic and Semantic Spoken  </title>::line_number::1
+<title> Language Analysis Using Artificial Neural Networks   </title>::line_number::2
+<title>  Model-Based Diagnosis using Structured System  </title>::line_number::1
+<title> Descriptions   </title>::line_number::2
+<title>  Software Deviation Analysis: A "Safeware" Technique   </title>::line_number::0
+<title>  Partition Based Spatial-Merge Join   </title>::line_number::0
+<title>  Demand Interprocedural Dataflow Analysis   </title>::line_number::0
+<title>  Maximal-Munch Tokenization in Linear Time   </title>::line_number::0
+<title>  DEVise: Integrated Querying and  </title>::line_number::0
+<title> Visual Exploration of Large Datasets   </title>::line_number::1
+<title>  Cost-Aware WWW Proxy Caching Algorithms   </title>::line_number::0
+<title>  LATENT VARIABLES, MEASUREMENT ERROR AND  </title>::line_number::0
+<title> METHODS FOR ANALYZING LONGITUDINAL  </title>::line_number::1
+<title> ORDINAL DATA   </title>::line_number::2
+<title>  High Performance Computing Division   </title>::line_number::1
+<title>  Practical Comparison of call string and functional Approach in  </title>::line_number::0
+<title> Data Flow Analysis    </title>::line_number::1
+<title>  Kerberos: An Authentication Service for Open Network Systems   </title>::line_number::0
+<title>  DEVise: Integrated Querying and  </title>::line_number::0
+<title> Visual Exploration of Large Datasets   </title>::line_number::1
+<title>  Approximate Analysis of Parallel Processor Allocation Policies   </title>::line_number::0
+<title>  High-Order Accurate Schemes for Incompressible Viscous Flow   </title>::line_number::0
+<title>  Use of Application Characteristics and Limited Preemption for  </title>::line_number::0
+<title> Run-To-Completion Parallel Processor Scheduling Policies *   </title>::line_number::1
+<title>  RD-OPT: An Efficient Algorithm For Optimizing DCT  </title>::line_number::0
+<title> Quantization Tables    </title>::line_number::1
+<title>  Program Generalization for Software Reuse:  </title>::line_number::0
+<title> From C to C++    </title>::line_number::1
+<title>  Interconvertibility of Set Constraints and  </title>::line_number::0
+<title> Context-Free Language Reachability   </title>::line_number::1
+<title>  MULTI-COORDINATION METHODS FOR  </title>::line_number::0
+<title> PARALLEL SOLUTION OF  </title>::line_number::1
+<title> BLOCK-ANGULAR PROGRAMS   </title>::line_number::2
+<title>  A Comparison of Large Scale Mixed  </title>::line_number::2
+<title> Complementarity Problem Solvers *   </title>::line_number::3
+<title>  SYNCHRONOUS AND ASYNCHRONOUS MULTI-COORDINATION  </title>::line_number::0
+<title> METHODS FOR THE SOLUTION OF BLOCK-ANGULAR  </title>::line_number::1
+<title> PROGRAMS   </title>::line_number::2
+<title>  PRECONDITIONING FOR REGULAR ELLIPTIC SYSTEMS   </title>::line_number::0
+<title>  An Evaluation of Object Management System  </title>::line_number::0
+<title> Architectures for Software Engineering Applications   </title>::line_number::1
+<title>  Moufang Quasigroups   </title>::line_number::0
+<title>  Fast and Accurate Flow-Insensitive Points-To Analysis   </title>::line_number::0
+<title>  C**:  </title>::line_number::0
+<title> A Large-Grain, Object-Oriented, Data-Parallel  </title>::line_number::1
+<title> Programming Language   </title>::line_number::2
+<title>  Storage Estimation for Multidimensional Aggregates in  </title>::line_number::0
+<title> the Presence of Hierarchies    </title>::line_number::1
+<title>  Towards Effective and Efficient Free Space Management   </title>::line_number::0
+<title>  Asking Questions to Minimize Errors   </title>::line_number::0
+<title>  Learning One-Dimensional Geometric Patterns  </title>::line_number::0
+<title> Under One-Sided Random Misclassification  </title>::line_number::1
+<title> Noise   </title>::line_number::2
+<title>  Optimal Solution of Off-line and On-line Generalized Caching   </title>::line_number::0
+<title>  Advantages of a Leveled Commitment  </title>::line_number::0
+<title> Contracting Protocol   </title>::line_number::1
+<title>  Techniques for Developing and Measuring  </title>::line_number::0
+<title> High-Performance Web Servers over ATM Networks   </title>::line_number::1
+<title>  Measuring the Performance of Communication  </title>::line_number::0
+<title> Middleware on High-Speed Networks   </title>::line_number::1
+<title>  MINIMIZING MEMORY CACHE USAGE FOR MULTIGRID  </title>::line_number::0
+<title> ALGORITHMS IN TWO DIMENSIONS    </title>::line_number::1
+<title>  THE DOMAIN REDUCTION METHOD: HIGH WAY REDUCTION  </title>::line_number::0
+<title> IN THREE DIMENSIONS AND CONVERGENCE WITH INEXACT  </title>::line_number::1
+<title> SOLVERS    </title>::line_number::2
+<title>  GEMMW: A PORTABLE LEVEL 3 BLAS WINOGRAD VARIANT OF  </title>::line_number::0
+<title> STRASSEN'S MATRIX-MATRIX MULTIPLY ALGORITHM    </title>::line_number::1
+<title>  Dynamic Fault Diagnosis   </title>::line_number::2
+<title>  Constructing Logic Programs with  </title>::line_number::0
+<title> Higher-Order Predicates 1   </title>::line_number::1
+<title>  Facilitating Worst-Case Execution Times Analysis for Optimized Code   </title>::line_number::0
+<title>  Experience with MPI: 'Converting  </title>::line_number::0
+<title> pvmmake to mpimake under LAM'  </title>::line_number::1
+<title> and 'MPI and Parallel Genetic  </title>::line_number::2
+<title> Programming'   </title>::line_number::3
+<title>  An Object-Oriented Approach to Interoperation of  </title>::line_number::0
+<title> Heterogeneous Information Sources   </title>::line_number::1
+<title>  Microkernel Operating System Architecture and Mach   </title>::line_number::0
+<title>  Defining and Measuring Conflicts  </title>::line_number::0
+<title> in Optimistic Replication    </title>::line_number::1
+<title>  Weak and Strong Beta Normalisations  </title>::line_number::0
+<title> in Typed -Calculi   </title>::line_number::1
+<title>  Predictable File Access Latency for   </title>::line_number::1
+<title> Multimedia   </title>::line_number::2
+<title>  Realistic Parsing:  </title>::line_number::0
+<title> Practical Solutions of Difficult Problems   </title>::line_number::1
+<title>  Verifying a Self-Stabilizing Mutual Exclusion Algorithm   </title>::line_number::0
+<title>  Handling Infeasible Specifications of Cryptographic Protocols   </title>::line_number::0
+<title>  Integrating Security in a Group Oriented Distributed System   </title>::line_number::0
+<title>  Abstract Datatypes in PVS   </title>::line_number::0
+<title>  Toward a MAC policy framework   </title>::line_number::0
+<title>  Enriching the Expressive Power of Security Labels   </title>::line_number::1
+<title>  Using Linguistic Phenomena to Motivate a Set of Rhetorical  </title>::line_number::0
+<title> Relations   </title>::line_number::1
+<title>  Indexing PROLOG Procedures into DAGs  </title>::line_number::0
+<title> by Heuristic Classification   </title>::line_number::1
+<title>  A Relational-Functional Integration  </title>::line_number::0
+<title> for Declarative Programming   </title>::line_number::1
+<title>  Layer Reassignment for Antenna Effect  </title>::line_number::0
+<title> Minimization in 3-Layer Channel Routing    </title>::line_number::1
+<title>  Crosstalk Minimization in Three-Layer  </title>::line_number::0
+<title> HVH Channel Routing    </title>::line_number::1
+<title>  Optimal Routing Control: Game Theoretic Approach   </title>::line_number::0
+<title>  The Common Randomness Capacity of a  </title>::line_number::0
+<title> Pair of Independent Discrete Memoryless  </title>::line_number::1
+<title> Channels    </title>::line_number::2
+<title>  TIME-FREQUENCY SIGNAL MODELS FOR MUSIC ANALYSIS,  </title>::line_number::0
+<title> TRANSFORMATION, AND SYNTHESIS   </title>::line_number::1
+<title>  Reactive Modules   </title>::line_number::0
+<title>  Capacity, Mutual Information, and Coding  </title>::line_number::0
+<title> for Finite-State Markov Channels   </title>::line_number::1
+<title>  What's Decidable about Hybrid Automata?   </title>::line_number::0
+<title>  An Analysis of Geographical Push-Caching +L + </title>::line_number::0
+<title>  Modeling the Communication Performance of the IBM SP2   </title>::line_number::1
+<title>  Efficient Formulation for Optimal Modulo Schedulers   </title>::line_number::0
+<title>  A Chromaticity Space for Specularity, Illumination  </title>::line_number::0
+<title> Color- and Illumination Pose-Invariant 3-D Object  </title>::line_number::1
+<title> Recognition   </title>::line_number::2
+<title>  A Scalable Key Distribution Hierarchy   </title>::line_number::0
+<title>  An Introduction to Least Commitment  </title>::line_number::2
+<title> Planning   </title>::line_number::3
+<title>  A Novel Framework for Decentralized Supervisory Control with Communication   </title>::line_number::0
+<title>  MDARTS: A Multiprocessor Database Architecture for Real-Time  </title>::line_number::0
+<title> Systems   </title>::line_number::1
+<title>  Internet Routing Instability   </title>::line_number::0
+<title>  Spheres of Control:  </title>::line_number::0
+<title> An Approach to Advanced Recovery   </title>::line_number::1
+<title>  Distributed Pipeline Scheduling: End-to-End Analysis of  </title>::line_number::0
+<title> Heterogeneous, Multi-Resource Real-Time Systems   </title>::line_number::1
+<title>  Modelling rational inquiry in non-ideal agents   </title>::line_number::0
+<title>  Some Geographical Applications of  </title>::line_number::0
+<title> Genetic Programming on the Cray T3D  </title>::line_number::1
+<title> Supercomputer   </title>::line_number::2
+<title>  Simulation of Simplicity:  </title>::line_number::0
+<title> A Technique to Cope with Degenerate Cases  </title>::line_number::1
+<title> in Geometric Algorithms 1   </title>::line_number::2
+<title>  On the Optimality of the Simple Bayesian  </title>::line_number::2
+<title> Classifier under Zero-One Loss   </title>::line_number::3
+<title>  STATISTICAL LANGUAGE MODELING FOR SPEECH DISFLUENCIES   </title>::line_number::0
+<title>  Some MPEG Decoding Functions  </title>::line_number::2
+<title> on Spert  </title>::line_number::3
+<title> An Example for Assembly  </title>::line_number::4
+<title> Programmers   </title>::line_number::5
+<title>  Getting a Grip: A Computational Model of the  </title>::line_number::0
+<title> Acquisition of Verb Semantics for Hand Actions   </title>::line_number::1
+<title>  Storage of Two and Three Dimensional Raster Type Data for  </title>::line_number::0
+<title> Optimized Retrieval of One, Two or Three Dimensional Features   </title>::line_number::1
+<title>  Video Server on an ATM Connected Cluster of Workstations   </title>::line_number::0
+<title>  Write Optimized Object-Oriented Database Systems   </title>::line_number::0
+<title>  On the Computational Requirements of  </title>::line_number::0
+<title> Virtual Reality Systems 1   </title>::line_number::1
+<title>  Signal and Image Processing in Java   </title>::line_number::0
+<title>  A Rule-Based CQL for 2-Dimensional Tables   </title>::line_number::0
+<title>  SEE ME, HEAR ME: INTEGRATING AUTOMATIC SPEECH RECOGNITION AND  </title>::line_number::0
+<title> LIP-READING   </title>::line_number::1
+<title>  A Stochastic Case Frame Approach for Natural Language Understanding   </title>::line_number::0
+<title>  Tracking Drifting Concepts  </title>::line_number::0
+<title> By Minimizing Disagreements   </title>::line_number::1
+<title>  A Monotonic Measure for Optimal  </title>::line_number::0
+<title> Feature Selection   </title>::line_number::1
+<title>  Understanding Neural Networks via Rule Extraction   </title>::line_number::0
+<title>  Efficient Rule Induction from Noise Data   </title>::line_number::1
+<title>  Integrating Pedagogical Agents into Virtual Environments   </title>::line_number::2
+<title>  Generating Word Lattices from Abstract Meaning Representation   </title>::line_number::0
+<title>  A Multicast Congestion Control Mechanism Using Representatives   </title>::line_number::0
+<title>  A Tool for Massively Replicating Internet Archives:  </title>::line_number::0
+<title> Design, Implementation, and Experience   </title>::line_number::1
+<title>  Information Gathering Plans With Sensing Actions   </title>::line_number::0
+<title>  Rule Induction for Semantic Query Optimization   </title>::line_number::0
+<title>  A Synergy of Agent Components:  </title>::line_number::0
+<title> Social Comparison for Failure Detection   </title>::line_number::1
+<title>  Learning Finite Automata Using Local Distinguishing Experiments +L + </title>::line_number::0
+<title>  Adaptive Agent Tracking in Real-world  </title>::line_number::0
+<title> Multi-Agent Domains: A Preliminary Report   </title>::line_number::1
+<title>  Learning to Predict User Operations for Adaptive Scheduling   </title>::line_number::1
+<title>  Reactive and Automatic Behavior in Plan Execution   </title>::line_number::1
+<title>  Where Do SE-trees Perform? (Part I)   </title>::line_number::0
+<title>  Advanced Transaction Processing in Multilevel Secure File  </title>::line_number::0
+<title> Stores   </title>::line_number::1
+<title>  Image Indexing and Retrieval Based on  </title>::line_number::0
+<title> Human Perceptual Color Clustering    </title>::line_number::1
+<title>  Using Introspective Reasoning to Refine Indexing   </title>::line_number::1
+<title>  ACCESSIBILITY UNDER SAMPLING   </title>::line_number::0
+<title>  NEURAL NETWORKS FOR CONTROL   </title>::line_number::0
+<title>  Global Stabilization of Linear Discrete-Time Systems  </title>::line_number::0
+<title> with Bounded Feedback   </title>::line_number::1
+<title>  A Construction of a Cipher  </title>::line_number::0
+<title> From a Single Pseudorandom Permutation   </title>::line_number::1
+<title>  ON COMPUTABLE BELIEFS OF RATIONAL MACHINES   </title>::line_number::0
+<title>  Constructing Small Sample Spaces Satisfying Given  </title>::line_number::0
+<title> Constraints   </title>::line_number::1
+<title>  Optimization of Hologram Computation for Real-Time Display   </title>::line_number::1
+<title>  Authoring and Transcription Tools  </title>::line_number::0
+<title> for Speech-Based Hypermedia Systems   </title>::line_number::1
+<title>  The Evolution of Memory and Mental Models  </title>::line_number::0
+<title> Using Genetic Programming   </title>::line_number::1
+<title>  DESIGNING AN ECOLOGY OF DISTRIBUTED AGENTS   </title>::line_number::0
+<title>  State Reconstruction for Determining Predictability  </title>::line_number::0
+<title> in Driven Nonlinear Acoustical Systems   </title>::line_number::1
+<title>  Stability of the replica symmetric solution for the information  </title>::line_number::0
+<title> conveyed by a neural network   </title>::line_number::1
+<title>  An Optimal Weighting Criterion of Case Indexing for Both Numeric  </title>::line_number::0
+<title> and Symbolic Attributes   </title>::line_number::1
+<title>  A Comparative Study of Reliable Error Estimators  </title>::line_number::0
+<title> for Pruning Regression Trees   </title>::line_number::1
+<title>  Rule Combination  </title>::line_number::0
+<title> in  </title>::line_number::1
+<title> Inductive Learning   </title>::line_number::2
+<title>  Rule Revision with Recurrent Neural Networks   </title>::line_number::0
+<title>  A Delay Damage Model Selection Algorithm for NARX  </title>::line_number::0
+<title> Neural Networks    </title>::line_number::1
+<title>  What Size Neural Network Gives Optimal Generalization?  </title>::line_number::0
+<title> Convergence Properties of Backpropagation   </title>::line_number::1
+<title>  Inquirus, the NECI meta search engine   </title>::line_number::2
+<title>  On the uniqueness of the convolution theorem for  </title>::line_number::0
+<title> the fourier transform   </title>::line_number::1
+<title>  Scheduling To Minimize Average Completion Time:  </title>::line_number::1
+<title> Off-line and On-line Algorithms   </title>::line_number::2
+<title>  The Anisotropy in the Cosmic Microwave Background  </title>::line_number::0
+<title> At Degree Angular Scales.   </title>::line_number::1
+<title>  Relation between the simple, guessed,  </title>::line_number::1
+<title> and the complicated, derived,  </title>::line_number::2
+<title> super-Hamiltonians for shell dynamics   </title>::line_number::3
+<title>  Laser Remote Sensing Techniques for Vertical Profiling of Cloud and  </title>::line_number::0
+<title> Aerosol Extinction and Back-scatter in the Lower Atmosphere.  </title>::line_number::1
+<title> A Brief Review   </title>::line_number::2
+<title>  Designing Distributed Applications  </title>::line_number::0
+<title> with Mobile Code Paradigms   </title>::line_number::1
+<title>  The Dynamics of Prefrontal Cortico-Thalamo-Basal Ganglionic Loops and  </title>::line_number::3
+<title> Short-Term Memory Interference Phenomena   </title>::line_number::4
+<title>  Uniform Actions in Asynchronous Distributed  </title>::line_number::0
+<title> Systems   </title>::line_number::1
+<title>  On the Boosting Ability of Top-Down  </title>::line_number::0
+<title> Decision Tree Learning Algorithms    </title>::line_number::1
+<title>  Update rules for parameter estimation in Bayesian networks   </title>::line_number::0
+<title>  A Systematic Approach to  </title>::line_number::0
+<title> Host Interface Design for High-Speed Networks   </title>::line_number::1
+<title>  Automatically Selecting and Using Primary Effects  </title>::line_number::0
+<title> in Planning: Theory and Experiments   </title>::line_number::1
+<title>  DYNAMIC COUPLING OF  </title>::line_number::0
+<title> UNDERACTUATED MANIPULATORS   </title>::line_number::1
+<title>  Unification and Polymorphism in Region Inference   </title>::line_number::0
+<title>  A Linear Spine Calculus   </title>::line_number::0
+<title>  Sensor-based Registration and Stacking  </title>::line_number::0
+<title> of Electronic Substrate Layers   </title>::line_number::1
+<title>  Tactile Gestures for Human/Robot Interaction   </title>::line_number::0
+<title>  Fundamentals of Texture Mapping and Image Warping   </title>::line_number::0
+<title>  Using a DEM to Determine Geospatial Object Trajectories   </title>::line_number::0
+<title>  Optimizing ML with Run-Time Code Generation   </title>::line_number::0
+<title>  Protective Interface Specifications   </title>::line_number::2
+<title>  A Field Guide to Boxology:  </title>::line_number::0
+<title> Preliminary Classification of Architectural Styles for   </title>::line_number::1
+<title> Software Systems   </title>::line_number::2
+<title>  Geometric Sensing of Known Planar Shapes   </title>::line_number::0
+<title>  Exploiting Redundancy to Reduce Impact Force   </title>::line_number::0
+<title>  Remote Access to Interactive Media   </title>::line_number::0
+<title>  Improving Programming-by-Demonstration With Better Semantic Expression   </title>::line_number::0
+<title>  A Whole Sentence  </title>::line_number::0
+<title> Maximum Entropy Language Model   </title>::line_number::1
+<title>  TOLERATING LATENCY THROUGH  </title>::line_number::0
+<title> SOFTWARE-CONTROLLED DATA PREFETCHING   </title>::line_number::1
+<title>  Tolerating Latency Through Software-Controlled Prefetching  </title>::line_number::0
+<title> in Shared-Memory Multiprocessors   </title>::line_number::1
+<title>  Predicting Data Cache Misses in Non-Numeric Applications  </title>::line_number::0
+<title> Through Correlation Profiling   </title>::line_number::1
+<title>  Learning Maps for Indoor Mobile Robot Navigation   </title>::line_number::0
+<title>  WWW Electronic Commerce and Java Trojan Horses   </title>::line_number::0
+<title>  Bayesian Analysis of Variance Component Models via Rejection  </title>::line_number::0
+<title> Sampling   </title>::line_number::1
+<title>  Backfitting in Smoothing Spline ANOVA   </title>::line_number::0
+<title>  Uncovering Hidden Structure in Bond Futures Trading   </title>::line_number::5
+<title>  Problem Solving for Redesign   </title>::line_number::0
+<title>  An Extensible Protocol Architecture for  </title>::line_number::0
+<title> Application-Specific Networking   </title>::line_number::1
+<title>  The OPENET Architecture   </title>::line_number::1
+<title>  Two Computer Systems Paradoxes: Serialize-to-Parallelize,  </title>::line_number::0
+<title> and Queuing Concurrent-Writes   </title>::line_number::1
+<title>  Mobile Robot Localization using Landmarks   </title>::line_number::0
+<title>  Learning and Vision Algorithms for  </title>::line_number::0
+<title> Robot Navigation   </title>::line_number::1
+<title>  Information-Conserving Object Recognition   </title>::line_number::3
+<title>  Augmenting Collective Adaptation  </title>::line_number::0
+<title> with Simple Process Agents   </title>::line_number::1
+<title>  Parallel Algorithms   </title>::line_number::0
+<title>  Trainable Cataloging for Digital Image Libraries with Applications  </title>::line_number::0
+<title> to Volcano Detection   </title>::line_number::1
+<title>  Perfect Simulation of some Point Processes  </title>::line_number::0
+<title> for the Impatient User   </title>::line_number::1
+<title>  Progress for Local Variables in UNITY   </title>::line_number::1
+<title>  On the Relation Between Unity Properties  </title>::line_number::0
+<title> and Sequences of States   </title>::line_number::1
+<title>  Adaptive Information Filtering using Evolutionary Computation   </title>::line_number::0
+<title>  SuperWeb: Towards a Global Web-Based Parallel Computing Infrastructure   </title>::line_number::0

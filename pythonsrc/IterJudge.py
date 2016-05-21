@@ -100,7 +100,7 @@ def showIteResultExcel(iteResult):
 def iterJudge():
 	print 'Load Vector With Contextual Info from Disk ...'
 	vecList = pickle.load(open(r'./resource/向量化后_带上下文信息.pickle'))
-	vecList = vecList[int(0.7*len(vecList)):]
+	vecList = vecList[int(0.66*len(vecList)):]
 	print 'Load Complete!'
 	independentJudge = {}
 	independentPath= r'./resource/svm_result'

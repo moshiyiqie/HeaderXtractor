@@ -7,7 +7,7 @@ import pickle
 import VectorManager
 import Config
 os.chdir(Config.WORKSPACE)
-addrpre = r'./resource/allClassification/'
+addrpre = r'./resource/allClassification_66per/'
 startFlag=True
 '''
 def __printVector(vector):
@@ -74,6 +74,7 @@ def __handleTaggedLine(s,pos_neg,filename):
 		line = line.strip()
 		line = __removeTag(line)
 		line = line.strip()
+		if(len(line)==0): continue
 		line = line.replace(',',' ')
 		list = line.split()
 		for word in list:
@@ -104,6 +105,7 @@ def __getNegative(classification):
 			#__printVector(vector)
 '''
 生成向量文件到./vector.csv
+选取前percent%的数据
 classification: 文件名称 ，如address.txt
 '''
 def generateVectorFor(classification):

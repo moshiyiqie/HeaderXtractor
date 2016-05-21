@@ -1,0 +1,287 @@
+<degree>  A THESIS PROPOSAL  </degree>::line_number::5
+<degree> Presented to  </degree>::line_number::6
+<degree> The Academic Faculty  </degree>::line_number::7
+<degree> In Partial Fulfillment  </degree>::line_number::8
+<degree> of the Requirements for the Degree  </degree>::line_number::9
+<degree> Doctor of Philosophy  </degree>::line_number::10
+<degree> in Information and Computer Science  </degree>::line_number::11
+<degree> The Committee:  </degree>::line_number::12
+<degree> Dr. Ashok Goel (Advisor)  </degree>::line_number::13
+<degree> Dr. Richard Catrambone (Psy)  </degree>::line_number::14
+<degree> Dr. T. Govindaraj (ISyE)  </degree>::line_number::15
+<degree> Dr. Janet Kolodner  </degree>::line_number::16
+<degree> Dr. Ashwin Ram   </degree>::line_number::17
+<degree>  APPROVED BY  </degree>::line_number::3
+<degree> SUPERVISORY COMMITTEE:   </degree>::line_number::4
+<degree>  Thesis Proposal   </degree>::line_number::1
+<degree>  Thesis by   </degree>::line_number::3
+<degree>  In Partial Fulfillment of the Requirements  </degree>::line_number::5
+<degree> for the Degree of  </degree>::line_number::6
+<degree> Doctor of Philosophy   </degree>::line_number::7
+<degree>  Senior Thesis   </degree>::line_number::3
+<degree>  A thesis submitted in conformity with the requirements  </degree>::line_number::4
+<degree> for the degree of Master of Science   </degree>::line_number::5
+<degree>  A dissertation submitted in partial fulfillment of the  </degree>::line_number::5
+<degree> requirements for the degree of  </degree>::line_number::6
+<degree> Doctor of Philosophy  </degree>::line_number::7
+<degree> (Computer Sciences)  </degree>::line_number::8
+<degree> at the   </degree>::line_number::9
+<degree>  A thesis submitted in partial fulfillment of the  </degree>::line_number::4
+<degree> requirements for the degree of  </degree>::line_number::5
+<degree> Doctor of Philosophy  </degree>::line_number::6
+<degree> (Computer Sciences)  </degree>::line_number::7
+<degree> at the   </degree>::line_number::8
+<degree>  Bachelor of Arts in Linguistics, Stanford University (1987)  </degree>::line_number::5
+<degree> Master of Arts in Linguistics, Stanford University (1989)  </degree>::line_number::6
+<degree> Submitted to the Department of Linguistics and Philosophy in  </degree>::line_number::7
+<degree> Partial Fulfillment of the Requirements for the Degree of  </degree>::line_number::8
+<degree> Doctor of Philosophy  </degree>::line_number::9
+<degree> at the   </degree>::line_number::10
+<degree>  The author hereby grants to M.I.T permission to reproduce and  </degree>::line_number::13
+<degree> to distribute copies of this thesis document in whole or in  </degree>::line_number::14
+<degree> part.  </degree>::line_number::15
+<degree> Signature of Author   </degree>::line_number::16
+<degree> Department of Linguistics and Philosophy   </degree>::line_number::17
+<degree>  Certified by   </degree>::line_number::19
+<degree> Noam Chomsky  </degree>::line_number::20
+<degree> Institute Professor  </degree>::line_number::21
+<degree> Accepted by   </degree>::line_number::22
+<degree> Wayne O'Neil  </degree>::line_number::23
+<degree> Head, Department of Linguistics and Philosophy   </degree>::line_number::24
+<degree>  B.Tech. (Indian Institute of Technology, Bombay) 1989  </degree>::line_number::3
+<degree> M.S. (University of California at Berkeley, California) 1993  </degree>::line_number::4
+<degree> A dissertation submitted in partial satisfaction of the  </degree>::line_number::5
+<degree> requirements for the degree of  </degree>::line_number::6
+<degree> Doctor of Philosophy  </degree>::line_number::7
+<degree> in   </degree>::line_number::8
+<degree>  in the  </degree>::line_number::11
+<degree> GRADUATE DIVISION  </degree>::line_number::12
+<degree> of the   </degree>::line_number::13
+<degree>  Committee in charge:  </degree>::line_number::15
+<degree> Professor Alberto L. Sangiovanni-Vincentelli  </degree>::line_number::16
+<degree> Professor Robert K. Brayton  </degree>::line_number::17
+<degree> Professor Phillip Colella   </degree>::line_number::18
+<degree>  Submitted to the Department of Electrical Engineering and Computer Science  </degree>::line_number::3
+<degree> in partial fulfillment of the requirements for the degree of  </degree>::line_number::4
+<degree> Master of Engineering in Electrical Engineering and Computer Science  </degree>::line_number::5
+<degree> at the   </degree>::line_number::6
+<degree>  c Jerry E. Pratt, MCMXCV. All rights reserved.  </degree>::line_number::9
+<degree> The author hereby grants to MIT permission to reproduce and distribute publicly  </degree>::line_number::10
+<degree> paper and electronic copies of this thesis document in whole or in part, and to grant  </degree>::line_number::11
+<degree> others the right to do so.  </degree>::line_number::12
+<degree> Author : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :  </degree>::line_number::13
+<degree> Department of Electrical Engineering and Computer Science  </degree>::line_number::14
+<degree> August 25, 1995  </degree>::line_number::15
+<degree> Certified by : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :  </degree>::line_number::16
+<degree> Gill A. Pratt  </degree>::line_number::17
+<degree> Assistant Professor of Electrical Engineering and Computer Science  </degree>::line_number::18
+<degree> Thesis Supervisor  </degree>::line_number::19
+<degree> Accepted by : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :  </degree>::line_number::20
+<degree> F. R. Morgenthaler  </degree>::line_number::21
+<degree> Chairman, Department Committee on Graduate Theses   </degree>::line_number::22
+<degree>  A Thesis Submitted  </degree>::line_number::6
+<degree> in Partial Fulfillment of the  </degree>::line_number::7
+<degree> Requirements for the Degree  </degree>::line_number::8
+<degree> Doctor of Philosophy  </degree>::line_number::9
+<degree> Approved, Thesis Committee:  </degree>::line_number::10
+<degree> Ken Kennedy, Noah Harding Professor  </degree>::line_number::11
+<degree> Computer Science  </degree>::line_number::12
+<degree> John Mellor-Crummey, Faculty Fellow  </degree>::line_number::13
+<degree> Computer Science  </degree>::line_number::14
+<degree> William W. Symes, Professor  </degree>::line_number::15
+<degree> Computational and Applied Mathematics  </degree>::line_number::16
+<degree> R. Gregg Brickner, Technical Staff Member  </degree>::line_number::17
+<degree> Los Alamos National Laboratory  </degree>::line_number::18
+<degree> Houston, Texas   </degree>::line_number::19
+<degree>  Laurea, Universit a di Padova (1992)  </degree>::line_number::3
+<degree> Dottorato di Ricerca, Universit a di Padova (1996)  </degree>::line_number::4
+<degree> Submitted to the Department of Electrical Engineering and Computer  </degree>::line_number::5
+<degree> Science  </degree>::line_number::6
+<degree> in partial fulfillment of the requirements for the degree of  </degree>::line_number::7
+<degree> Master of Science  </degree>::line_number::8
+<degree> at the   </degree>::line_number::9
+<degree>  c Matteo Frigo, MCMXCVII. All rights reserved.  </degree>::line_number::12
+<degree> The author hereby grants to MIT permission to reproduce and distribute  </degree>::line_number::13
+<degree> publicly paper and electronic copies of this thesis document in whole or in  </degree>::line_number::14
+<degree> part, and to grant others the right to do so.  </degree>::line_number::15
+<degree> Author . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  </degree>::line_number::16
+<degree> Department of Electrical Engineering and Computer Science  </degree>::line_number::17
+<degree> January 28, 1998  </degree>::line_number::18
+<degree> Certified by . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  </degree>::line_number::19
+<degree> Charles E. Leiserson  </degree>::line_number::20
+<degree> Professor of Computer Science and Engineering  </degree>::line_number::21
+<degree> Thesis Supervisor  </degree>::line_number::22
+<degree> Accepted by . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  </degree>::line_number::23
+<degree> PUT NAME HERE  </degree>::line_number::24
+<degree> Chairman, Departmental Committee on Graduate Students   </degree>::line_number::25
+<degree>  A DISSERTATION  </degree>::line_number::3
+<degree> SUBMITTED TO THE GRADUATE SCHOOL  </degree>::line_number::4
+<degree> IN PARTIAL FULFILLMENT OF THE REQUIREMENTS  </degree>::line_number::5
+<degree> for the degree  </degree>::line_number::6
+<degree> DOCTOR OF PHILOSOPHY  </degree>::line_number::7
+<degree> in  </degree>::line_number::8
+<degree> ELECTRICAL AND COMPUTER ENGINEERING   </degree>::line_number::9
+<degree>  Submitted in partial fulfillment of the requirements  </degree>::line_number::8
+<degree> for the degree of Doctor of Philosophy.  </degree>::line_number::9
+<degree> Thesis Committee:  </degree>::line_number::10
+<degree> Peter Lee, Chair  </degree>::line_number::11
+<degree> William Scherlis  </degree>::line_number::12
+<degree> Andy Witkin  </degree>::line_number::13
+<degree> Olivier Danvy   </degree>::line_number::14
+<degree>  A Dissertation Presented  </degree>::line_number::1
+<degree> by   </degree>::line_number::2
+<degree>  Submitted to the Graduate School of the   </degree>::line_number::4
+<degree>  B.E, Birla Institute of Technology & Science, 1993  </degree>::line_number::4
+<degree> M.Sc, Birla Institute of Technology & Science, 1993  </degree>::line_number::5
+<degree> THESIS  </degree>::line_number::6
+<degree> Submitted in partial fulfillment of the requirements  </degree>::line_number::7
+<degree> for the degree of Master of Science in Computer Science  </degree>::line_number::8
+<degree> in the Graduate College of the   </degree>::line_number::9
+<degree>  Submitted in partial fulfillment of the requirements  </degree>::line_number::7
+<degree> for the degree of Doctor of Philosophy.  </degree>::line_number::8
+<degree> Thesis Committee:  </degree>::line_number::9
+<degree> Robert Harper, Chair  </degree>::line_number::10
+<degree> Peter Lee  </degree>::line_number::11
+<degree> John Reynolds  </degree>::line_number::12
+<degree> Luca Cardelli, DEC SRC   </degree>::line_number::13
+<degree>  a dissertation  </degree>::line_number::1
+<degree> submitted to the department of computer science  </degree>::line_number::2
+<degree> and the committee on graduate studies  </degree>::line_number::3
+<degree> of stanford university  </degree>::line_number::4
+<degree> in partial fulfillment of the requirements  </degree>::line_number::5
+<degree> for the degree of  </degree>::line_number::6
+<degree> doctor of philosophy   </degree>::line_number::7
+<degree>  B.Tech. (Indian Institute of Technology, Bombay) 1989  </degree>::line_number::5
+<degree> A dissertation submitted in partial satisfaction of the  </degree>::line_number::6
+<degree> requirements for the degree of  </degree>::line_number::7
+<degree> Doctor of Philosophy  </degree>::line_number::8
+<degree> in  </degree>::line_number::9
+<degree> Computer Science  </degree>::line_number::10
+<degree> in the  </degree>::line_number::11
+<degree> GRADUATE DIVISION  </degree>::line_number::12
+<degree> of the   </degree>::line_number::13
+<degree>  Committee in charge:  </degree>::line_number::15
+<degree> Professor James W. Demmel, Chair  </degree>::line_number::16
+<degree> Professor Beresford N. Parlett  </degree>::line_number::17
+<degree> Professor Phil Colella   </degree>::line_number::18
+<degree>  A Thesis  </degree>::line_number::2
+<degree> Submitted to the Faculty  </degree>::line_number::3
+<degree> in partial fulfillment of the requirements for the  </degree>::line_number::4
+<degree> degree of  </degree>::line_number::5
+<degree> Doctor of Philosophy  </degree>::line_number::6
+<degree> in   </degree>::line_number::7
+<degree>  Examining Committee:  </degree>::line_number::14
+<degree> (chairman) John Danskin  </degree>::line_number::15
+<degree> Henry Baird  </degree>::line_number::16
+<degree> Dennis Healy  </degree>::line_number::17
+<degree> Geoff Davis  </degree>::line_number::18
+<degree> Neal Young  </degree>::line_number::19
+<degree> Roger D. Sloboda  </degree>::line_number::20
+<degree> Dean of Graduate Studies   </degree>::line_number::21
+<degree>  Submitted to the faculty of the University Graduate School  </degree>::line_number::3
+<degree> in partial fulfillment of the requirements  </degree>::line_number::4
+<degree> for the degree  </degree>::line_number::5
+<degree> Doctor of Philosophy  </degree>::line_number::6
+<degree>  B.S. (Stanford University) 1983  </degree>::line_number::4
+<degree> M.S. (University of California at Los Angeles) 1989  </degree>::line_number::5
+<degree> A dissertation submitted in partial satisfaction of the  </degree>::line_number::6
+<degree> requirements for the degree of  </degree>::line_number::7
+<degree> Doctor of Philosophy  </degree>::line_number::8
+<degree> in   </degree>::line_number::9
+<degree>  in the  </degree>::line_number::11
+<degree> GRADUATE DIVISION  </degree>::line_number::12
+<degree> of the   </degree>::line_number::13
+<degree>  Committee in charge:  </degree>::line_number::15
+<degree> Professor Carlo H. Sequin , Chair  </degree>::line_number::16
+<degree> Professor Lawrence Rowe  </degree>::line_number::17
+<degree> Professor Jean Pierre Protzen   </degree>::line_number::18
+<degree>  MSc Dissertation   </degree>::line_number::4
+<degree>  A Thesis Submitted  </degree>::line_number::6
+<degree> in Partial Fulfillment of the  </degree>::line_number::7
+<degree> Requirements for the Degree  </degree>::line_number::8
+<degree> Doctor of Philosophy  </degree>::line_number::9
+<degree> Approved, Thesis Committee:  </degree>::line_number::10
+<degree> J Robert Jump, Co-Chairman  </degree>::line_number::11
+<degree> Professor  </degree>::line_number::12
+<degree> Electrical and Computer Engineering  </degree>::line_number::13
+<degree> James B. Sinclair, Co-Chairman  </degree>::line_number::14
+<degree> Associate Professor  </degree>::line_number::15
+<degree> Electrical and Computer Engineering  </degree>::line_number::16
+<degree> John K. Bennett  </degree>::line_number::17
+<degree> Assistant Professor  </degree>::line_number::18
+<degree> Electrical and Computer Engineering  </degree>::line_number::19
+<degree> Ken Kennedy  </degree>::line_number::20
+<degree> Professor  </degree>::line_number::21
+<degree> Computer Science  </degree>::line_number::22
+<degree> Houston, Texas   </degree>::line_number::23
+<degree>  A Thesis Submitted to the Graduate  </degree>::line_number::4
+<degree>  in Partial Fulfillment of the  </degree>::line_number::6
+<degree> Requirements for the Degree of  </degree>::line_number::7
+<degree> Master of Science  </degree>::line_number::8
+<degree> Approved:  </degree>::line_number::9
+<degree> Dr. Michael J. Wozny  </degree>::line_number::10
+<degree> Thesis Adviser   </degree>::line_number::11
+<degree>  A thesis submitted in partial satisfaction of the  </degree>::line_number::4
+<degree> requirements for the degree of  </degree>::line_number::5
+<degree> Master of Science  </degree>::line_number::6
+<degree> in  </degree>::line_number::7
+<degree> Computer Science   </degree>::line_number::8
+<degree>  Committee in charge:  </degree>::line_number::11
+<degree> Professor Jianwen Su, Chair  </degree>::line_number::12
+<degree> Professor Oscar Ibarra  </degree>::line_number::13
+<degree> Professor Amr El Abbadi   </degree>::line_number::14
+<degree>  A thesis  </degree>::line_number::3
+<degree> submitted in partial fulfilment  </degree>::line_number::4
+<degree> of the requirements for  </degree>::line_number::5
+<degree> the degree  </degree>::line_number::6
+<degree> of  </degree>::line_number::7
+<degree> Bachelor of Technology  </degree>::line_number::8
+<degree> in  </degree>::line_number::9
+<degree> Computer Science and Engineering   </degree>::line_number::10
+<degree>  under the guidance of  </degree>::line_number::14
+<degree> Dr Sanjiva Prasad   </degree>::line_number::15
+<degree>  A thesis submitted in partial fulfillment of the  </degree>::line_number::5
+<degree> requirements for the degree of  </degree>::line_number::6
+<degree> Doctor of Philosophy  </degree>::line_number::7
+<degree> (Computer Sciences and Mathematics)  </degree>::line_number::8
+<degree> at the   </degree>::line_number::9
+<degree>  B.A. Mathematics (1994)  </degree>::line_number::3
+<degree> Reed College   </degree>::line_number::4
+<degree>  Submitted to the Program in Media Arts and Sciences, School of Architecture and  </degree>::line_number::7
+<degree> Planning, in partial fulfillment of the requirements for the degree of Master of Science in  </degree>::line_number::8
+<degree> Media Arts and Sciences at the Massachusetts Institute of Technology   </degree>::line_number::9
+<degree>  Certified by  </degree>::line_number::16
+<degree> Pattie Maes  </degree>::line_number::17
+<degree> Associate Professor of Media Arts and Sciences  </degree>::line_number::18
+<degree> MIT Media Lab  </degree>::line_number::19
+<degree> Accepted by  </degree>::line_number::20
+<degree> Stephen A. Benton  </degree>::line_number::21
+<degree> Professor of Media Arts and Sciences  </degree>::line_number::22
+<degree> Chair, Departmental Committee on Graduate Students  </degree>::line_number::23
+<degree> Program in Media Arts and Sciences  </degree>::line_number::24
+<degree>  </degree>::line_number::25
+<degree>  Diploma Thesis   </degree>::line_number::2
+<degree>  Professor Neil Gershenfeld  </degree>::line_number::5
+<degree> Institut fur Elektrische Nachrichtentechnik  </degree>::line_number::6
+<degree> Rheinisch-Westphalische Technische Hochschule Aachen  </degree>::line_number::7
+<degree> Univ. Professor Dr.-Ing. H.D. Luke   </degree>::line_number::8
+<degree>  Master's Thesis  </degree>::line_number::1
+<degree> under the direction of Carlo Sequin   </degree>::line_number::2
+<degree>  Thesis Proposal   </degree>::line_number::1
+<degree>  a dissertation  </degree>::line_number::2
+<degree>  and the committee on graduate studies  </degree>::line_number::4
+<degree>  in partial fulfillment of the requirements  </degree>::line_number::6
+<degree> for the degree of  </degree>::line_number::7
+<degree> doctor of philosophy   </degree>::line_number::8
+<degree>  S.M., Massachusetts Institute of Technology (1992)  </degree>::line_number::4
+<degree> Science   in partial fulfillment of the requirements for the degree of  </degree>::line_number::6
+<degree> Doctor of Philosophy in Electrical Engineering and Computer Science  </degree>::line_number::7
+<degree> at the   </degree>::line_number::8
+<degree>  Author : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :   </degree>::line_number::12
+<degree>  Certified by : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :  </degree>::line_number::15
+<degree> Ronald L. Rivest  </degree>::line_number::16
+<degree> Professor  </degree>::line_number::17
+<degree> Thesis Supervisor  </degree>::line_number::18
+<degree> Accepted by : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :  </degree>::line_number::19
+<degree> F. R. Morgenthaler  </degree>::line_number::20
+<degree> Chairman, Department Committee on Graduate Students   </degree>::line_number::21

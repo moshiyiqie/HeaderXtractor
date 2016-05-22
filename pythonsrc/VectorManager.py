@@ -2,11 +2,13 @@
 import Config
 import re
 import os
+import copy
 os.chdir(Config.WORKSPACE)
 '''
 打印一个vectorList成csv文件格式，指定人工标注的tag列名，且该列放在最后
 '''
-def printVectorListToCSV(vectorList, outputPath, tagColName):
+def printVectorListToCSV(vectorListTmp, outputPath, tagColName, testTag = 'title'):
+	vectorList = copy.deepcopy(vectorListTmp)
 	if len(vectorList) == 0:
 		print '向量列表为空'
 		return
@@ -30,7 +32,7 @@ def printVectorListToCSV(vectorList, outputPath, tagColName):
 			if not vector.has_key(key):
 				print vector
 			fout.write(str(vector[key])+',')
-		if not vector.has_key(tagColName): vector[tagColName] = 'title'
+		if not vector.has_key(tagColName): vector[tagColName] = testTag
 		fout.write(str(vector[tagColName])+'\n')
 	fout.close()
 	
@@ -49,9 +51,10 @@ def printVectorListToARFF_mul(vectorList, outputPath, tagColName):
 打印一个vectorList成arff文件格式，指定人工标注的tag列名，且该列放在最后
 '''
 #只允许@attribute classification_tag 为true或者false
-def printVectorListToARFF(vectorList, outputPath, tagColName):
+def printVectorListToARFF(vectorListTmp, outputPath, tagColName, testTag = 'title'):
+	vectorList = copy.deepcopy(vectorListTmp)
 	tmpCSV_Addr = Config.TMP_ADDR+r'/tmp.csv'
-	printVectorListToCSV(vectorList,tmpCSV_Addr,tagColName)
+	printVectorListToCSV(vectorList,tmpCSV_Addr,tagColName, testTag)
 	print '正在转化为arff'
 	print r'java -classpath '+Config.WEKA_JAR_PATH+' weka.core.converters.CSVLoader %s -B 100000 > %s'%(tmpCSV_Addr, outputPath)
 	os.system(r'java -classpath '+Config.WEKA_JAR_PATH+' weka.core.converters.CSVLoader %s -B 100000 > %s'%(tmpCSV_Addr, outputPath))
@@ -65,7 +68,7 @@ def printVectorListToARFF(vectorList, outputPath, tagColName):
 			if '@attribute classification_tag' in line:
 				line = '@attribute classification_tag {true,false}\n'
 		else:
-			if '@attribute classification_tag' in line:
+			if '@attribute classification' in line:
 				line = '@attribute classification {title,author,pubnum,date,abstract,affiliation,address,page,email,degree,note,phone,intro,keyword,web}\n'
 		fout.write(line)
 	fout.close()

@@ -1,0 +1,7 @@
+开始迭代分类，j48_66_binary是二分类的分类器结果，可以看出没有上下文，二分类的keyword这些类别效果很不好
+
+ite0vector就是用j48_66_binary中的二分类分类器标记后用./resource/everyline/j48_model_66train_contexual.model这个带上下文的1to1的分类器分类完的结果
+
+ite1vector后面的都是迭代的用j48_model_66train_contexual.model这个分类的结果，分类-更新上下文-再分类
+
+结果却是越迭代越差，从judge01234中也可以看出来，+号越来越多

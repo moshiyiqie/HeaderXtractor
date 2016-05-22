@@ -65,6 +65,7 @@ class ModelTrainer:
 	def getAllModel(self):
 		trainPath = r'./vector.arff'
 		for file in os.listdir(r'./resource/allClassification_66per'):
+			if not file.endswith('.txt'): continue
 			print 'Now classifying '+ file
 			GenerateVector.generateVectorFor(file)
 			self.initTrain(trainPath, r'./resource/j48_result/'+file+'_j48_66per.model')

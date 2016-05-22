@@ -132,7 +132,8 @@ def shortPhrasePer(line):
 	
 flist = [dictWordNumPer, nonDictWordNumPer, cap1DicWordNumPer,
 		cap1NonDicWordNumPer, digitNumPer, affiNumPer, addrNumPer, 
-		dateNumPer, degreeNumPer, phoneNumPer, pubNumPer, noteNumPer,singleDigitNumPer]
+		dateNumPer, degreeNumPer, phoneNumPer, pubNumPer, noteNumPer,singleDigitNumPer,
+		cap1NumPer, capAllNumPer, comaNum, shortPhrasePer]
 
 def updateLineSpecificVector(line,vector):
 	for fun in flist:

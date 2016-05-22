@@ -6,6 +6,7 @@ import GenerateVector
 import copy
 import VectorManager
 import Config
+import MulJudger
 os.chdir(Config.WORKSPACE)
 #先用独立行分类Judger写上预测
 #更新contexual维度
@@ -17,7 +18,7 @@ os.chdir(Config.WORKSPACE)
 PRE_LIMIT = 5
 NEXT_LIMIT = 5
 INDEPENDENT_CLSTAG = 'classfication_tag'
-CONTEXTUAL_CLSTAG = 'classification_tag'
+CONTEXTUAL_CLSTAG = 'classification'
 classification=['abstract','address','affiliation','author','date','degree','email','intro','keyword','note','page','phone','pubnum','title','web']
 def updateContextualAttr(vecList, predict):
 	if len(vecList) != len(predict): print '!!!Error in updateContextualAttr'
@@ -42,7 +43,7 @@ def updateContextualAttr(vecList, predict):
 				if '1:true' in predict[i][cls]: ct = 0.5
 				vecList[i]['next'+str(next)+cls] = ct
 
-def printPresionRecall(vecList, predict, iteResult):
+def printPresionRecall(vecList, predict, iteResult, gen):
 	if len(vecList) != len(predict) : print '!!!Error in printPresionRecall'
 	for cls in classification:
 		aa=0
@@ -62,7 +63,7 @@ def printPresionRecall(vecList, predict, iteResult):
 		fval = 2*presion*recall/(presion+recall+0.000001)
 		if not iteResult.has_key(cls): iteResult[cls]=[]
 		iteResult[cls].append([presion, recall, fval])
-	showIteResultExcel(iteResult)
+	showIteResultExcel(iteResult, gen)
 	
 def getIndexDicPredictFromDicIndexPredict(dicIndexPredict):
 	indexDicPredict = []
@@ -88,8 +89,8 @@ def getVecListNoContext(vecListWithContext):
 		vecListNoContext.append(tmpVec)
 	return vecListNoContext
 
-def showIteResultExcel(iteResult):
-	fout = open(r'./pythonsrc/tmp/iteResult.csv','w')
+def showIteResultExcel(iteResult, gen):
+	fout = open(r'./pythonsrc/tmp/iteResult'+str(gen)+'gen.csv','w')
 	fout.write('类别,准确率,召回率,F值,样本数目\n')
 	for cls in classification:
 		for result in iteResult[cls]:
@@ -117,36 +118,58 @@ def toBinary(result):
 		label = classification[index]
 		dic_idx_predict[label][i] = '1:true'
 	return dic_idx_predict
-	
+
+def print2file(path,str):
+	fout = open(path,'w')
+	fout.write(str)
+	fout.close()
+
 def iterJudge():
 	print 'Load Vector With Contextual Info from Disk ...'
 	vecList = pickle.load(open(r'./resource/向量化后_带上下文信息_everyline.pickle'))
 	vecList = vecList[int(0.66*len(vecList)):]
 	print 'Load Complete!'
 	
+	#初始化二元分类器
+	independentJudge = {}
+	independentPath= r'./resource/j48_result'
+	for file in os.listdir(independentPath):
+		if file.endswith('.model'):
+			independentJudge[file[:file.find(".")]] = Judger.Judger(independentPath+'/'+file)
+	
+	#初始化上下文分类器
 	contexualJudge = {}
-	contexualPath = r'./resource/everyline/j48_model_66train_contexual.model'
-	contexualJudge= Judger.Judger(Config.WORKSPACE+contexualPath)
+	#contexualPath = r'./resource/everyline/j48_model_66train_contexual.model'
+	contexualPath = r'./resource/everyline/svm_model_66train_contexual.model'
+	contexualJudge= MulJudger.MulJudger(Config.WORKSPACE + contexualPath)
+	vecListNoContext = getVecListNoContext(copy.deepcopy(vecList))
 	
-	clearContexualInfo(vecList)#先清除训练集中已有的上下文信息，尝试一开始上下文信息为0
-	#pickle.dump(dic_idx_predict, open('./dic_idx_predict_indpdt.pc','w'))
-	#dic_idx_predict = pickle.load(open('./dic_idx_predict_indpdt.pc'))
 	
+	dic_idx_predict={}
+	for cls in classification:
+		dic_idx_predict[cls] = independentJudge[cls].judgeVectorList(vecListNoContext,INDEPENDENT_CLSTAG, 'true')
+	pickle.dump(dic_idx_predict, open('./dic_idx_predict_indpdt.pc','w'))
+	
+	
+	ITER_UP = 5
 	iteResult={}
-	for itTimes in range(0, 5):
+	for itTimes in range(0, ITER_UP):
 		print 'Now '+str(itTimes)+' Generation ...'
-		dic_idx_predict={}#清空预测结果
-		result = contexualJudge.judgeVectorList(vecList,CONTEXTUAL_CLSTAG)#获得预测结果，多类别的（非yes|no）
-		if len(result) != len(vecList): print 'Error:预测结果数目和被预测的向量数目不同' #断言
-		dic_idx_predict = toBinary(result)#多类别制作为二类别的，转化成为 [类别j][向量i]=向量i的类别j结果（yes|no）
-		
 		idx_dic_predict = getIndexDicPredictFromDicIndexPredict(dic_idx_predict) #从 [类别j][向量i]=向量i的类别j结果（yes|no） 变为 [向量i][类别j]=向量i的类别j结果
 		updateContextualAttr(vecList, idx_dic_predict)#用上一轮预测的结果更新向量的上下文信息
-		printPresionRecall(vecList, idx_dic_predict, iteResult)#打印上一轮预测的召准性能结果
-		VectorManager.printVectorListToCSV(vecList, r'./pythonsrc/tmp/ite'+str(itTimes)+'vector.csv', CONTEXTUAL_CLSTAG)#打印向量-debug用
+		printPresionRecall(copy.deepcopy(vecList), idx_dic_predict, iteResult, itTimes)#打印上一轮预测的召准性能结果
+		VectorManager.printVectorListToCSV(copy.deepcopy(vecList), r'./pythonsrc/tmp/ite'+str(itTimes)+'vector.csv', CONTEXTUAL_CLSTAG)#打印向量-debug用
+		
+		dic_idx_predict={}#清空预测结果
+		result = contexualJudge.judgeVectorList(copy.deepcopy(vecList),CONTEXTUAL_CLSTAG)#获得预测结果，多类别的（非yes|no）
+		#print2file('./mul_judge'+str(itTimes)+'.txt', result)
+		if len(result) != len(copy.deepcopy(vecList)): print 'Error:预测结果数目和被预测的向量数目不同' #断言
+		dic_idx_predict = toBinary(result)#多类别制作为二类别的，转化成为 [类别j][向量i]=向量i的类别j结果（yes|no）
 		
 		
-	showIteResultExcel(iteResult)
+		
+		
+	showIteResultExcel(iteResult, ITER_UP)
 	
 			
 if __name__ == '__main__':

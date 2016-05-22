@@ -64,6 +64,7 @@ def __handleTaggedLine(s,pos_neg,filename):
 			print filename+':'+str(line_count)+' row'
 		line_count+=1
 		list = oneline.split('::line_number::')
+		print list
 		line = list[0].strip()
 		linePos = list[1].strip()
 		
@@ -136,7 +137,7 @@ def generateVectorFor(classification):
 	
 if __name__ == '__main__':
 	#__clearCache()
-	#generateVectorFor('pubnum.txt')
+	#generateVectorFor('note.txt')
 	'''
 	≤‚ ‘
 	'''

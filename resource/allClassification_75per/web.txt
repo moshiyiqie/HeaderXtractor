@@ -1,0 +1,39 @@
+<web>  Url: http://www.cs.huji.ac.il/f~idish,~dolevg   </web>::line_number::7
+<web>  http://www.cs.toronto.edu/neuron/   </web>::line_number::7
+<web>  http://www/cs.umd.edu/projects/hcil/   </web>::line_number::7
+<web>  http://www.cscs.ch/Official/Project CSCS-NEC.html   </web>::line_number::11
+<web>  http://www.cwi.nl/~pdg/   </web>::line_number::6
+<web>  http://www.cs.Helsinki.FI/research/cosco/   </web>::line_number::14
+<web>  http://iridia.ulb.ac.be/dorigo/dorigo.html  </web>::line_number::18
+<web>  </web>::line_number::19
+<web>  http://www.csr.unibo.it/~maniezzo   </web>::line_number::28
+<web>  URL: http://www.disi.unige.it/phd/ateniese/ateniese.html   </web>::line_number::6
+<web>  URL: http://www.unisa.it/f~carblu, ~adsg   </web>::line_number::10
+<web>  http://ciir.cs.umass.edu/   </web>::line_number::7
+<web>  http://ciir.cs.umass.edu/   </web>::line_number::14
+<web>  http://www.vuse.vanderbilt.edu/~dfisher/dfisher.html   </web>::line_number::9
+<web>  http://iacoma.cs.uiuc.edu   </web>::line_number::6
+<web>  4. WWW URL: http://www.usenix.org   </web>::line_number::8
+<web>  http://www.sdm.de/g/arcus   </web>::line_number::11
+<web>  http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-8/   </web>::line_number::35
+<web>   http://www.cs.berkeley.edu/  </web>::line_number::3
+<web> marcel   </web>::line_number::4
+<web>   http://www.almaden.ibm.com/  </web>::line_number::8
+<web> cs/people/mohan   </web>::line_number::9
+<web>   http://www.cs.berkeley.edu/  </web>::line_number::13
+<web> jmh   </web>::line_number::14
+<web>  http://www.cs.umass.edu/~vfiroiu/   </web>::line_number::21
+<web>  http://www-cs  </web>::line_number::8
+<web> faculty.stanford.edu/~koza/   </web>::line_number::9
+<web>  URL: http://www.cam.sri.com/tr/crc033/paper.ps.Z   Eurospeech, Berlin, 1993   </web>::line_number::0
+<web>  URL: http://www.cam.sri.com/tr/crc044/paper.ps.ZARPA   (HLT) Proceedings, Princeton, 1994   </web>::line_number::0
+<web>  (http://www.myri.com)   </web>::line_number::8
+<web>  http://www.cs.cmu.edu/~khaigh http://www.cs.cmu.edu/~mmv   </web>::line_number::6
+<web>  URL: http://www.cs.cmu.edu/~ vsam   </web>::line_number::5
+<web>  World Wide Web: http://www.cs.cmu.edu/~ph   </web>::line_number::9
+<web>  http://www.dbis.informatik.uni-frankfurt.de   </web>::line_number::9
+<web>  http://www.ma.man.ac.uk/MCCM/MCCM.html  </web>::line_number::14
+<web> ftp://ftp.ma.man.ac.uk/pub/narep   </web>::line_number::15
+<web>  http://www.cs.ucsb.edu/f~cfu,~tyangg   </web>::line_number::5
+<web>  Web: http://www.cs.ucsb.edu/ yfwang   </web>::line_number::7
+<web>  http://www.cs.ucsb.edu/research/scintilla   </web>::line_number::6

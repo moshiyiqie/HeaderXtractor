@@ -1,0 +1,459 @@
+<email>  bhatta@cc.gatech.edu   </email>::line_number::4
+<email>  E-mail: panda@cis.ohio-state.edu   </email>::line_number::6
+<email>  -moeller, yagel-@cis.ohio-state.edu   </email>::line_number::5
+<email>  Email: fbasak,pandag@cis.ohio-state.edu   </email>::line_number::7
+<email>  e-mail: neelam@cis.ohio-state.edu   </email>::line_number::5
+<email>  fjun,singhalg@cis.ohio-state.edu   </email>::line_number::6
+<email>  hougen@cs.umn.edu jfischer@cs.umn.edu johnam@cs.umn.edu   </email>::line_number::3
+<email>  leow@cs.utexas.edu, risto@cs.utexas.edu   </email>::line_number::5
+<email>  e-mail: giri@next1.msci.memphis.edu   </email>::line_number::2
+<email>  nin@cns.brown.edu   </email>::line_number::4
+<email>  krsul@cs.purdue.edu   </email>::line_number::7
+<email>  smb@ulysses.att.com   </email>::line_number::2
+<email>  fbell,bellegar,hookg@cse.ogi.edu   </email>::line_number::7
+<email>  falpaydin,gurgeng@boun.edu.tr   </email>::line_number::8
+<email>  freiter,rubing@research.att.com   </email>::line_number::8
+<email>  email: ffegaras,maierg@cse.ogi.edu   </email>::line_number::6
+<email>  fbernhard, stefang@ai.univie.ac.at   </email>::line_number::6
+<email>  goldstn @ncat.edu, esterlin@ncat.edu   </email>::line_number::5
+<email>  fkali,arking@cc.gatech.edu   </email>::line_number::7
+<email>   Email: andre@lightning.mcrcim.mcgill.edu  </email>::line_number::7
+<email> ferrie@lightning.mcrcim.mcgill.edu   </email>::line_number::8
+<email>  fhanson,tedg@cis.ufl.edu   </email>::line_number::7
+<email>  email: gbeck@deakin.edu.au   </email>::line_number::2
+<email>  email: brian@deakin.edu.au   </email>::line_number::4
+<email>  (ddp@deakin.edu.au, ang@deakin.edu.au)   </email>::line_number::4
+<email>  marni@salk.edu, terry@salk.edu   </email>::line_number::7
+<email>  schraudo@salk.edu dayan@salk.edu terry@salk.edu   </email>::line_number::3
+<email> 786-467641;   email hwt@compsci.stirling.ac.uk   </email>::line_number::20
+<email> 856-2889; fax 838-4155;   email singlis@waikato.ac.NZ.   </email>::line_number::22
+<email> 838-4246; fax 838-4155;   email ihw@waikato.ac.NZ.   </email>::line_number::24
+<email>  E-mail: R.Poli@cs.bham.ac.uk   </email>::line_number::6
+<email>  fW.B.Langdon,R.Polig@cs.bham.ac.uk   http://www.cs.bham.ac.uk/~wbl, ~rmp   </email>::line_number::4
+<email>  fW.B.Langdon,R.Polig@cs.bham.ac.uk   http://www.cs.bham.ac.uk/~wbl, ~rmp   </email>::line_number::3
+<email>  bjohanso@stanford.edu   </email>::line_number::9
+<email>  R.Poli@cs.bham.ac.uk   </email>::line_number::16
+<email>  fregina.gonzales,alwg@cs.colorado.edu   </email>::line_number::8
+<email>  frickhall,dennis,alwg@cs.colorado.edu   </email>::line_number::7
+<email>  fandre,dennis,alwg@cs.colorado.edu   </email>::line_number::5
+<email>  lksaul@psyche.mit.edu, singh@psyche.mit.edu   </email>::line_number::2
+<email>  Email: odonnell@cs.columbia.edu alok@scr.siemens.com   </email>::line_number::7
+<email>  gyssens@charlie.luc.ac.be   </email>::line_number::5
+<email>  laks@cs.concordia.ca   </email>::line_number::10
+<email>  brd@cs.dartmouth.edu,   http://www.cs.dartmouth.edu/ brd/.   </email>::line_number::32
+<email>  iago@cs.dartmouth.edu   </email>::line_number::8
+<email>  fnils,dfkg@cs.dartmouth.edu   </email>::line_number::4
+<email>  E-mail: fidish,dolevg@cs.huji.ac.il   </email>::line_number::6
+<email>  colby@cs.indiana.edu   </email>::line_number::6
+<email>  nsundare@cs.indiana.edu gannon@cs.indiana.edu   </email>::line_number::3
+<email>  fpaulf,arthur,ernstlg@cs.kun.nl   </email>::line_number::9
+<email>  owenc@cs.man.ac.uk  </email>::line_number::6
+<email> u.nehmzow@cs.man.ac.uk   </email>::line_number::7
+<email>  u.nehmzow@cs.man.ac.uk   </email>::line_number::6
+<email>  goldsmit@cs.engr.uky.edu   </email>::line_number::5
+<email>  ogihara@cs.rochester.edu   </email>::line_number::10
+<email>  rothe@informatik.uni-jena.de   </email>::line_number::15
+<email>  E-mail: radford@cs.toronto.edu   </email>::line_number::7
+<email>  hinton@cs.toronto.edu, zoubin@cs.toronto.edu   </email>::line_number::6
+<email>  fzoubin,hintong@cs.toronto.edu   </email>::line_number::8
+<email>  duff@cs.umass.edu   </email>::line_number::5
+<email>  rich@cs.umass.edu   </email>::line_number::5
+<email>  dprecup@cs.umass.edu   </email>::line_number::10
+<email>  baveja@cs.colorado.edu   </email>::line_number::15
+<email>  CSNET: GARVEY@CS.UMASS.EDU   </email>::line_number::5
+<email>  Email: garveyaj@plu.edu   </email>::line_number::5
+<email>  Email: lesser@cs.umass.edu   </email>::line_number::10
+<email>  regli@cme.nist.gov   </email>::line_number::6
+<email>  skgupta@src.umd.edu   </email>::line_number::13
+<email>  nau@cs.umd.edu   </email>::line_number::20
+<email>  Email: tino@decef.elf.stuba.sk   </email>::line_number::6
+<email>  Email:  </email>::line_number::11
+<email> ftino,horne,gilesg@research.nj.nec.com   </email>::line_number::12
+<email>  keleher@cs.umd.edu   </email>::line_number::6
+<email>  flhong, jcpark, millerg@cs.umd.edu   </email>::line_number::4
+<email>  Email: krunz@cs.umd.edu   </email>::line_number::7
+<email>  jellis, rose, plaisant-@cs.umd.edu   </email>::line_number::8
+<email>  stone, jeffay-@cs.unc.edu   </email>::line_number::6
+<email>  mwo@asl1.ikp.uni-bonn.de   </email>::line_number::8
+<email>  antal@cs.unimaas.nl   </email>::line_number::11
+<email>  E-mail: dbo@cs.utah.edu, mecklen@cs.utah.edu, kuramkot@cs.utah.edu   </email>::line_number::5
+<email>  EMAIL: hunt@cli.com   </email>::line_number::8
+<email>  fckwong,gouda,lamg@cs.utexas.edu   </email>::line_number::5
+<email>  estlin@cs.utexas.edu   </email>::line_number::7
+<email>  batory@cs.utexas.edu   </email>::line_number::5
+<email>  misra@cs.utexas.edu   </email>::line_number::7
+<email>  e-mail: will@cs.utexas.edu   </email>::line_number::6
+<email>  fvsam,mirankerg@cs.utexas.edu   </email>::line_number::6
+<email>  rfc@eng.sun.com   </email>::line_number::4
+<email>  pardo@cs.washington.edu   </email>::line_number::7
+<email>  fromer,dlee,bershadg@cs.washington.edu   </email>::line_number::10
+<email>  bchen@das.harvard.edu   </email>::line_number::20
+<email>  fgjb,borningg@cs.washington.edu   </email>::line_number::7
+<email>  cherkauer@cs.wisc.edu   </email>::line_number::9
+<email>  sanjay@iscs.nus.sg   </email>::line_number::5
+<email>  arun@cse.unsw.edu.au   </email>::line_number::10
+<email>  email: paulb@cs.wisc.edu, olvi@cs.wisc.edu email:nstreet@cs.okstate.edu   </email>::line_number::6
+<email>  faustin,sohig@cs.wisc.edu   </email>::line_number::7
+<email>  E-mail: (gregory.hager, joao.hespanha, zachary.dodds, as.morse)@yale.edu   </email>::line_number::9
+<email>  email : ho052@cs.cuhk.hk and lwchan@cs.cuhk.hk   </email>::line_number::6
+<email>  timm@cse.unsw.edu.au;   http://www.cse.unsw.edu.au/~timm    </email>::line_number::4
+<email>  mbh@cse.unsw.edu.au   </email>::line_number::6
+<email>  kim@ags.com.au   </email>::line_number::11
+<email>  e-mail: noik@db.toronto.edu   </email>::line_number::6
+<email> 33102 Paderborn, Germany,   fgiusp,glaesserg@uni-paderborn.de   </email>::line_number::3
+<email> 33098 Paderborn, Germany,   igor@uni-paderborn.de   </email>::line_number::5
+<email>  boerger@di.unipi.it   </email>::line_number::4
+<email>  wolfram@informatik.uni-ulm.de   </email>::line_number::6
+<email>  piotr@cs.huji.ac.il, durfee@engin.umich.edu   </email>::line_number::7
+<email>  marcush@engin.umich.edu, durfee@engin.umich.edu   </email>::line_number::8
+<email>  durfee@caen.engin.umich.edu   </email>::line_number::6
+<email>  marcush@engin.umich.edu, durfee@engin.umich.edu   </email>::line_number::8
+<email>  e-mail: [ywh j jning j rundenst] @eecs.umich.edu   </email>::line_number::4
+<email>  e-mail: [ywh j jning j rundenst] @eecs.umich.edu   </email>::line_number::3
+<email>  jning@eecs.umich.edu   </email>::line_number::4
+<email>  ywh@eecs.umich.edu   </email>::line_number::7
+<email>  rundenst@eecs.umich.edu   </email>::line_number::10
+<email>  fpwurman, wellmang@umich.edu   </email>::line_number::8
+<email>  jhobert@stat.ufl.edu   </email>::line_number::6
+<email>  robert@ensae.fr   </email>::line_number::11
+<email>  fhan, yongjiang@cs.sfu.ca   </email>::line_number::6
+<email>  johnson@hawaii.edu   </email>::line_number::7
+<email>  fulrich@icsi.berkeley.edu, psk@cs.uct.ac.zag   </email>::line_number::6
+<email>  bernd@math.berkeley.edu   </email>::line_number::8
+<email>  wiegelm@uni-trier.de   </email>::line_number::11
+<email>  ulrich@icsi.berkeley.edu   </email>::line_number::5
+<email>  mbhard@icsi.berkeley.edu   </email>::line_number::4
+<email>  Email:berman@cse.psu.edu   </email>::line_number::16
+<email> Corporation.   E-mail: moses@cs.stanford.edu.   </email>::line_number::20
+<email> Grants 7097 and EC-US 030.   Email:marek@cs.uni-bonn.de   </email>::line_number::22
+<email>  E-mail: choyi@ida.liu.se   </email>::line_number::6
+<email>  e-mail: frafal, marco, juergeng@idsia.ch   </email>::line_number::3
+<email>  smith@aig.jpl.nasa.gov   </email>::line_number::6
+<email>  rosenbloom@isi.edu   </email>::line_number::12
+<email>  E-mail: fIsmail,Ghoshg@pine.ece.utexas.edu   </email>::line_number::5
+<email>  kim.kinnear@adapt.com   </email>::line_number::6
+<email>  (leong@lcs.mit.edu)   </email>::line_number::6
+<email>  fadya,gruber,liskov,umeshg@lcs.mit.edu   </email>::line_number::7
+<email>  &lt;breese|heckerma@microsoft.com&gt;   </email>::line_number::4
+<email>  erikruf@microsoft.com   </email>::line_number::3
+<email>  Email bennek@rpi.edu   </email>::line_number::3
+<email> Grant R01 EY09946.   e-mail wahba@stat.wisc.edu, wang@stat.wisc.edu   </email>::line_number::11
+<email>  bonnie@cs.umd.edu   </email>::line_number::6
+<email>  gaasterland@mcs.anl.gov   </email>::line_number::11
+<email>  fdrubenst, kurose, towsleyg@cs.umass.edu   </email>::line_number::5
+<email>  -salehi,kurose,towsley-@cs.umass.edu   </email>::line_number::4
+<email>  hgschulz,kurose,towsley@cs.umass.edu   </email>::line_number::5
+<email>  fsalehi,zhzhang,kurose,towsleyg@cs.umass.edu   </email>::line_number::7
+<email>  wwt@cs.wisc.edu   </email>::line_number::8
+<email>  email: colorni@elet.polimi.it   </email>::line_number::10
+<email>  email: mdorigo@ulb.ac.be   </email>::line_number::17
+<email>  email: maniezzo@csr.unibo.it   </email>::line_number::27
+<email>  e-mail: hhl@daimi.aau.dk domenico@gracco.irmkant.rm.cnr.it   </email>::line_number::8
+<email>  gaines@cpsc.ucalgary.ca, norrie@enme.ucalgary.ca, mildred@cpsc.ucalgary.ca   </email>::line_number::4
+<email>  fbanavar,dbo,lindstromg@cs.utah.edu   </email>::line_number::5
+<email>  parris, hzhang, ferrari@tenet.Berkeley.EDU   </email>::line_number::3
+<email>  e-mail: belussi@elet.polimi.it   </email>::line_number::6
+<email>  e-mail: christos@cs.umd.edu   </email>::line_number::11
+<email>  email: kgshin@alps.eecs.umich.edu   </email>::line_number::6
+<email>  email: tim@axon.cs.byu.edu, martinez@cs.byu.edu   </email>::line_number::6
+<email>  e-mail: randy@axon.cs.byu.edu, martinez@cs.byu.edu   </email>::line_number::4
+<email> U.S.A.   canetti,rosario@theory.lcs.mit.edu   </email>::line_number::17
+<email>  lynch@theory.lcs.mit.edu   </email>::line_number::7
+<email>  fritsv@cwi.nl   </email>::line_number::11
+<email>  picard@media.mit.edu,   http://www.media.mit.edu/~picard/   </email>::line_number::5
+<email>  ftanzeem,clarkson,jebara,sandyg@media.mit.edu   </email>::line_number::6
+<email>  eozcan/mohan@top.cis.syr.edu   </email>::line_number::3
+<email>  ibarra@paul.rutgers.edu   </email>::line_number::6
+<email>  email: -j.cheng, da.bell, w.liu-@ulst.ac.uk   </email>::line_number::5
+<email>  E-mail: ateniese@disi.unige.it   </email>::line_number::5
+<email>  E-mail: fcarblu,adsg@dia.unisa.it   </email>::line_number::9
+<email>  E-mail: Dunja.Mladenic@ijs.si, Marko.Grobelnik@ijs.si   </email>::line_number::5
+<email>  -meichen, tjochem, pomerlea-@ri.cmu.edu   </email>::line_number::3
+<email>  fgursoy,kaleg@cs.uiuc.edu   </email>::line_number::5
+<email>  email: sinha@cs.uiuc.edu email: kale@cs.uiuc.edu   </email>::line_number::5
+<email>  balleste@cs.umass.edu   </email>::line_number::2
+<email>  croftcs.umass.edu   </email>::line_number::9
+<email>  Email: fravela,manmathag@cs.umass.edu   </email>::line_number::4
+<email> NC 27708-0129, USA;   jeffe@cs.duke.edu;   http://www:cs:duke:edu/ ~ jeffe.   Research supported by NSF grant DMS-9627683 and by U. S. Army Research Office MURI grant DAAH04-96-1-0013.   </email>::line_number::26
+<email>  daphna@cs.huji.ac.il   </email>::line_number::6
+<email>  anandan@microsoft.com   </email>::line_number::11
+<email>  irani@wisdom.weizmann.ac.il   </email>::line_number::16
+<email>  dfisher@vuse.vanderbilt.edu   </email>::line_number::8
+<email>  jmh@cs.berkeley.edu   </email>::line_number::4
+<email>  elias@cs.ucla.edu   </email>::line_number::8
+<email>  christos@cs.berkeley.edu   </email>::line_number::12
+<email>  -dfe,studer-@aifb.uni-karlsruhe.de    </email>::line_number::7
+<email>  -E.Motta,Z.Zdrahal-@open.ac.uk    </email>::line_number::9
+<email> Amsterdam, The Netherlands,   -richard,schreiber,wielinga-@swi.psy.uva.nl    </email>::line_number::11
+<email>  E-mail: onn@dimacs.rutgers.edu   </email>::line_number::9
+<email>  fgao,gregory,rsnbrg,coheng@cs.umass.edu   </email>::line_number::6
+<email>  petel@cs.cmu.edu mleone@cs.cmu.edu   </email>::line_number::5
+<email>  Email: seth@uiuc.edu   </email>::line_number::7
+<email>  Email: hager@cs.yale.edu   </email>::line_number::13
+<email>  pic@brb.dmt.csiro.au   </email>::line_number::18
+<email>  smyth@ics.uci.edu   </email>::line_number::6
+<email>  Net: kalker@prl.philips.nl, shah@prl.philips.nl   </email>::line_number::5
+<email>  - jenglos, marinau-@media.mit.edu   </email>::line_number::7
+<email>  lauria@nadis.dis.unina.it.   </email>::line_number::7
+<email>  achien@cs.uiuc.edu   </email>::line_number::13
+<email>  dahlin@cs.berkeley.edu   </email>::line_number::5
+<email>  fcalder,grunwaldg@cs.colorado.edu   </email>::line_number::6
+<email>  dkoufaty@ichips.intel.com torrella@cs.uiuc.edu   </email>::line_number::5
+<email>  Email: lyang,torrella@csrd.uiuc.edu   </email>::line_number::5
+<email>  ladkin@iam.unibe.ch, leue@iam.unibe.ch   </email>::line_number::8
+<email>  E-mail: williams, millar@ptolemy.arc.nasa.gov   </email>::line_number::5
+<email>  email: ralfh|scheffer@cs.tu-berlin.de   </email>::line_number::6
+<email>  yung@cs.nyu.edu   </email>::line_number::6
+<email>  Email: f ren j agha g@cs.uiuc.edu   </email>::line_number::8
+<email>  Email: fastley j aghag@cs.uiuc.edu   </email>::line_number::9
+<email>  gmweiss@att.com, hirsh@cs.rutgers.edu   </email>::line_number::10
+<email>  email: aggarwaljk@mail.utexas.edu   </email>::line_number::6
+<email>  fismail,ghoshg@pine.ece.utexas.edu   </email>::line_number::6
+<email>  jhf@stat.stanford.edu   </email>::line_number::5
+<email>  fclairet, sastryg@eecs.berkeley.edu   </email>::line_number::4
+<email>  lygeros,godbole,sastry@eecs.berkeley.edu   </email>::line_number::5
+<email>  koo@robotics.eecs.berkeley.edu   </email>::line_number::6
+<email>  fsastry, gmeyer, clairet, lygeros, godbole, gpappas@eecs.berkeley.edug   </email>::line_number::5
+<email>  lygeros, godbole, mire@robotics.eecs.berkeley.edu   </email>::line_number::6
+<email>  fmayi, janka, sastryg@robotics.eecs.berkeley.edu   </email>::line_number::6
+<email>  koo,mayi,gpappas,clairet@eecs.berkeley.edu   </email>::line_number::9
+<email>  [birchfield, tomasi]@cs.stanford.edu   </email>::line_number::5
+<email>  fbrunk,jkelly,ronnykg@engr.sgi.com   </email>::line_number::7
+<email>  prem@research.att.com   </email>::line_number::3
+<email>  laurae@mozart.att.com  </email>::line_number::6
+<email>  </email>::line_number::7
+<email>  fprem,jonesg@research.att.com   </email>::line_number::5
+<email>  3. Email: office@usenix.org   </email>::line_number::7
+<email>  email: Klaus.Renzel@sdm.de   </email>::line_number::9
+<email>  email: WofgangWKeller@compuserve.com   </email>::line_number::16
+<email>  godfrey@arl.mil   </email>::line_number::6
+<email>  jarek@cs.yorku.ca   </email>::line_number::12
+<email>  rivest@theory.lcs.mit.edu   </email>::line_number::4
+<email>  strumpen@theory.lcs.mit.edu   </email>::line_number::5
+<email>  Email: @cs.umass.edu   </email>::line_number::6
+<email>  abk@cs.ucla.edu, sudhakar@cs.ucla.edu   </email>::line_number::3
+<email>  abk@cs.ucla.edu muddu@mti.sgi.com   </email>::line_number::4
+<email>  marcel@cs.berkeley.edu   </email>::line_number::5
+<email>  mohan@almaden.ibm.com   </email>::line_number::10
+<email>  jmh@cs.berkeley.edu   </email>::line_number::15
+<email>  Ayman.Wahba@imag.fr, Dominique.Borrione@imag.fr   </email>::line_number::5
+<email>  jitu@cs.umass.edu vfiroiu@cs.umass.edu towsley@cs.umass.edu kurose@cs.umass.edu   </email>::line_number::3
+<email>  E-mail: fgustavoa,rgunther,mohang@almaden.ibm.com   </email>::line_number::6
+<email>  E-mail: fagrawal,amrg@cs.ucsb.edu   </email>::line_number::10
+<email>  E-mail: kamath@cs.umass.edu   </email>::line_number::14
+<email>  koza@cs.stanford.edu   </email>::line_number::7
+<email>  forrest@evolute.com   </email>::line_number::15
+<email>  jlohn7@leland.stanford.edu   </email>::line_number::21
+<email>  makeane@ix.netcom.com   </email>::line_number::29
+<email>  dandre@cs.berkeley.edu   </email>::line_number::34
+<email>  achien@cs.uiuc.edu kim@cs.uiuc.edu   </email>::line_number::3
+<email>  fanderson,coheng@cs.umass.edu   </email>::line_number::7
+<email>  jmd@cs.princeton.edu   </email>::line_number::7
+<email>  rodosek@informatik.uni-muenchen.de   </email>::line_number::4
+<email>  mh10@doc.ic.ac.uk   </email>::line_number::4
+<email>  mire, varaiya@eclair.eecs.berkeley.edu   </email>::line_number::5
+<email>  maja@ai.mit.edu   </email>::line_number::7
+<email>  koen@cse.ogi.edu   </email>::line_number::3
+<email>  ton@informatik.uni-ulm.de   </email>::line_number::6
+<email>  erik@cse.ogi.edu   </email>::line_number::9
+<email>  ilangkil@isi.edu and knight@isi.edu   </email>::line_number::6
+<email>  gls@think.com   </email>::line_number::6
+<email>  1 osamakl@eedsp.gatech.edu   </email>::line_number::4
+<email>  2 rmm@eedsp.gatech.edu   </email>::line_number::5
+<email>  Net: kalker@prl.philips.nl, shah@prl.philips.nl   </email>::line_number::5
+<email>  v.goyal@ieee.org   </email>::line_number::5
+<email>  jelena@bell-labs.com   </email>::line_number::9
+<email>  cohn@harlequin.com   </email>::line_number::7
+<email>  baveja@cs.colorado.edu   </email>::line_number::12
+<email>  dam@ai.mit.edu   </email>::line_number::2
+<email> Cambridge Mass, 02139,   DAM@ai.mit.edu   </email>::line_number::20
+<email>  fkalanit,edelmang@wisdom.weizmann.ac.il bnmalach@weizmann.weizmann.ac.il   </email>::line_number::6
+<email>  sjsmith@cs.umd.edu   </email>::line_number::5
+<email>  nau@cs.umd.edu   </email>::line_number::12
+<email>  faha; liwug@aic.nrl.navy.mil   </email>::line_number::6
+<email>  aha@aic.nrl.navy.mil   </email>::line_number::5
+<email>  bankert@nrlmry.navy.mil   </email>::line_number::10
+<email>  Email: frwahbe, lucco, grahamg@cs.berkeley.edu   </email>::line_number::26
+<email>  markd@cc.gatech.edu  </email>::line_number::7
+<email> ashwin@cc.gatech.edu   </email>::line_number::8
+<email>  E-mail: fcarlos,ashwing@cc.gatech.edu   </email>::line_number::5
+<email>  -natasha, hafner-@ccs.neu.edu   </email>::line_number::7
+<email>  e-mail: neelam@cis.ohio-state.edu   </email>::line_number::7
+<email>  -feiner, bm, haupt, esolomon-@cs.columbia.edu   </email>::line_number::11
+<email>  Email: Chris.Thornton@cogs.susx.ac.uk   </email>::line_number::5
+<email>  T.Bending@mdx.ac.uk d.g.flaass@writeme.com   </email>::line_number::5
+<email>  frp94bg,brossg@sandcastle.cosc.brocku.ca   </email>::line_number::5
+<email>  will@cs.arizona.edu   </email>::line_number::3
+<email>  nicholas@cs.ubc.ca   </email>::line_number::8
+<email>  fdavidm,druschel,llpg@cs.arizona.edu   </email>::line_number::6
+<email>  yousef.khalidi@eng.sun.com  </email>::line_number::17
+<email> vikram.joshi@eng.sun.com  </email>::line_number::18
+<email> dock.williams@eng.sun.com   </email>::line_number::19
+<email>  email: beymer@ai.mit.edu   </email>::line_number::7
+<email>  debevec@cs.berkeley.edu camillo@cs.berkeley.edu malik@cs.berkeley.edu   </email>::line_number::5
+<email>  jmh@cs.berkeley.edu, naughton@cs.wisc.edu   </email>::line_number::4
+<email>  nir@cs.stanford.edu   </email>::line_number::6
+<email>  halpern@almaden.ibm.com   </email>::line_number::12
+<email>  nir@cs.stanford.edu   </email>::line_number::7
+<email>  halpern@almaden.ibm.com   </email>::line_number::12
+<email>  koller@cs.stanford.edu   </email>::line_number::18
+<email>  dusseau@cs.berkeley.edu   </email>::line_number::4
+<email>  remzi@cs.berkeley.edu   </email>::line_number::8
+<email>  culler@cs.berkeley.edu   </email>::line_number::12
+<email>  jmh@cs.berkeley.edu   </email>::line_number::16
+<email>  patterson@cs.berkeley.edu   </email>::line_number::20
+<email>  twong@cs.berkeley.edu   </email>::line_number::5
+<email>  johnston@cs.brandeis.edu federica@cs.brandeis.edu   </email>::line_number::8
+<email>  lincoln@csl.sri.com   SRI International Computer Science Laboratory,   Menlo Park  </email>::line_number::19
+<email>  jcm@cs.stanford.edu   http://theory.stanford.edu/people/jcm/home.html   Department of Computer Science, Stanford University,   Stanford, CA 94305.   Supported in part  </email>::line_number::21
+<email> by an NSF PYI Award, matching funds from Digital Equipment Corporation, the Pow-ell Foundation, and Xerox Corporation; and the Wallace F. and Lucille M. Davis Faculty  </email>::line_number::22
+<email> Scholarship.   </email>::line_number::23
+<email>  andre@cis.upenn.edu   http://www.cis.upenn.edu/~andre   Department of Mathematics, University of Pennsylvania,   Philadelphia, PA 19104-6395.   Partially supported by  </email>::line_number::24
+<email> NSF Grants CCR-91-02753 and CCR-94-00907 and by ONR Grant N00014-92-J-1916. Sce-drov is an American Mathematical Society Centennial Research Fellow.   </email>::line_number::25
+<email>  dibattista@iasi.rm.cnr.it   </email>::line_number::4
+<email>  rt@cs.brown.edu   </email>::line_number::6
+<email>  ag@cs.brown.edu   </email>::line_number::12
+<email>  tassinar@dis.uniroma1.it   </email>::line_number::14
+<email>  liotta@dis.uniroma1.it   </email>::line_number::20
+<email>  vargiu@dis.uniroma1.it   </email>::line_number::22
+<email>  Email: ftld,shlg@cs.brown.edu   </email>::line_number::5
+<email>  fmilos, nm, lpk, tldg@cs.brown.edu   </email>::line_number::5
+<email>  cebly@cs.ubc.ca   </email>::line_number::10
+<email>  carter@cs.bu.edu   </email>::line_number::3
+<email>  park@cs.bu.edu   </email>::line_number::5
+<email>  jbw@cs.bu.edu   </email>::line_number::3
+<email>  best@cs.bu.edu   </email>::line_number::4
+<email>  kgtjan@cs.bu.edu   </email>::line_number::6
+<email>  email: neugeb@igd.fhg.de   </email>::line_number::4
+<email>  fkjuvva, raj+g@cs.cmu.edu   </email>::line_number::6
+<email>  reids@cs.cmu.edu   </email>::line_number::4
+<email>  dayne@cs.cmu.edu   </email>::line_number::7
+<email>  e-mail: filianojfpg@cs.cmu.edu   </email>::line_number::7
+<email>  e-mail: hodas@cs.hmc.edu   </email>::line_number::10
+<email>  baluja@cs.cmu.edu   </email>::line_number::1
+<email>  scottd@cs.cmu.edu   </email>::line_number::5
+<email>  khaigh@cs.cmu.edu mmv@cs.cmu.edu   </email>::line_number::5
+<email>  email: fajljhironobujrajug@cs.cmu.edu   </email>::line_number::4
+<email>  nancy.green@cs.cmu.edu, fjmoore,careninig@cs.pitt.edu   </email>::line_number::5
+<email>  fHILDUM,SADEH,SFS,DAGg@ISL1.RI.CMU.EDU   </email>::line_number::10
+<email>  LALIBERTY THOMAS@CAEMAC.MSD.RAY.COM  </email>::line_number::16
+<email> MCANULTY@CAESUN.MSD.RAY.COM   </email>::line_number::17
+<email>  dpetrou@cs.cmu.edu, jwm@csua.berkeley.edu   </email>::line_number::3
+<email>  dst@cs.cmu.edu   </email>::line_number::6
+<email>  saksida@ri.cmu.edu   </email>::line_number::12
+<email>  email: crekiere@cs.cmu.edu   </email>::line_number::13
+<email>  email: dps@cs.cmu.edu   </email>::line_number::21
+<email>  mccallum@justresearch.com   </email>::line_number::2
+<email>  roni@cs.cmu.edu   </email>::line_number::4
+<email>  mitchell+@cs.cmu.edu   </email>::line_number::6
+<email>  ayn@ai.mit.edu   </email>::line_number::8
+<email>  dannenberg@cs.cmu.edu   </email>::line_number::4
+<email>  Email: dannenberg@cs.cmu.edu   </email>::line_number::4
+<email>  horowitz@ee.stanford.edu martonosi@princeton.edu tcm@eecg.toronto.edu smith@eecs.harvard.edu   </email>::line_number::6
+<email>  mark.craven@cs.cmu.edu   </email>::line_number::6
+<email>  shavlik@cs.wisc.edu   </email>::line_number::11
+<email>  mostow@cs.cmu.edu   </email>::line_number::4
+<email>  email: ph@cs.cmu.edu, herf+@cmu.edu   </email>::line_number::8
+<email>  ftimothyc,sethgg@cs.berkeley.edu   </email>::line_number::2
+<email>  ftara,reedg@cs.uiuc.edu   </email>::line_number::2
+<email>  Email: mcbryan@cs.colorado.edu   </email>::line_number::5
+<email>  roger@cs.colorado.edu, rick@cs.colorado.edu   </email>::line_number::6
+<email>  fferrandi,meyer,zicarig@dbis.informatik.uni-frankfurt.de   </email>::line_number::8
+<email>  bdraper@cs.umass.edu   </email>::line_number::6
+<email>  whitley,gruau,pyeatt@cs.colostate.edu +L + </email>::line_number::5
+<email>  fstevensm,anderson,rossg@cs.colostate.edu   </email>::line_number::5
+<email>  fdjd,nfrg@cs.columbia.edu   </email>::line_number::6
+<email>  jdrosen@bell-labs.com   </email>::line_number::6
+<email>  fwenke,sal,mokg@cs.columbia.edu   </email>::line_number::6
+<email>  pkc@cs.fit.edu   </email>::line_number::6
+<email>  sal@cs.columbia.edu   </email>::line_number::12
+<email>  fms@cs.cornell.edu   </email>::line_number::3
+<email>  jgm@cs.cornell.edu   </email>::line_number::6
+<email>  briggs@middlebury.edu brd@cs.cornell.edu   </email>::line_number::7
+<email>  chekuri@theory.stanford.edu   </email>::line_number::5
+<email>  avg@research.nj.nec.com   </email>::line_number::9
+<email>  karger@theory.lcs.mit.edu   </email>::line_number::14
+<email>  mslevine@theory.lcs.mit.edu   </email>::line_number::19
+<email>  cliff@cs.dartmouth.edu.   </email>::line_number::24
+<email>  E-mail: robert.s.gray@dartmouth.edu   </email>::line_number::5
+<email>  flizhang,harish,jbasch,indykg@cs.stanford.edu   </email>::line_number::6
+<email>  findyk,rajeev,sureshg@cs.stanford.edu   </email>::line_number::6
+<email>  dth@ricochet.net   </email>::line_number::5
+<email>  elliot.linzer@c-cube.com   </email>::line_number::10
+<email>  jsv@cs.duke.edu   </email>::line_number::15
+<email>  szepes@sol.cc.u-szeged.hu   </email>::line_number::7
+<email>  mlittman@cs.duke.edu   </email>::line_number::12
+<email>  fcalvert,robink,rdkg@cc.gatech.edu   </email>::line_number::7
+<email>  E-mail: (dolors,limb)@cc.gatech.edu   </email>::line_number::6
+<email>  mannila@cs.helsinki.fi   </email>::line_number::5
+<email>  fJuha.Karkkainen,Erkki.Sutineng@cs.Helsinki.FI   </email>::line_number::4
+<email>  favidan,shashuag@cs.huji.ac.il   </email>::line_number::4
+<email>  yangjhonavar-@cs.iastate.edu   </email>::line_number::9
+<email>  fehilsdal,jashley,dyb,dfried g@cs.indiana.edu   </email>::line_number::6
+<email>  leake@cs.indiana.edu   </email>::line_number::2
+<email>  barwise@indiana.edu   </email>::line_number::5
+<email>  fleake, akinley, davwilsg@cs.indiana.edu   </email>::line_number::7
+<email>  email: fcraven, shavlikg@cs.wisc.edu   </email>::line_number::8
+<email>  resnik@umiacs.umd.edu   </email>::line_number::6
+<email>  yarowsky@cs.jhu.edu   </email>::line_number::11
+<email>  Email:fWimV,Hendrik,LucDRg@cs.kuleuven.ac.be   </email>::line_number::6
+<email>  dmr@research.att.com   </email>::line_number::4
+<email>  ftadepalli,tgdg@research.cs.orst.edu   </email>::line_number::5
+<email>  liv,jps,li@cs.princeton.edu   </email>::line_number::6
+<email>  wass@cs.princeton.edu   </email>::line_number::9
+<email>  khuri@sjsumcs.sjsu.edu   </email>::line_number::7
+<email>  fbaeck,jokeg@ls11.informatik.uni-dortmund.de   </email>::line_number::13
+<email>  fmelli,auro,bbg@cs.purdue.edu   </email>::line_number::6
+<email>  park@cs.purdue.edu   </email>::line_number::6
+<email>  krsul@cs.purdue.edu   </email>::line_number::7
+<email>  fsunilp,agrawal,amrg@cs.ucsb.edu   </email>::line_number::6
+<email>  e-mail: tto@cs.purdue.edu   </email>::line_number::26
+<email>  e-mail: pch@imm.dtu.dk   </email>::line_number::29
+<email>  e-mail: luzz@sun2.dmu.dk   </email>::line_number::31
+<email>  cmr1001@cl.cam.ac.uk   </email>::line_number::5
+<email>  falc, hhl, willyg@cs.rice.edu   </email>::line_number::5
+<email>  sandhya@cs.rochester.edu   </email>::line_number::8
+<email>  fzaki,ogiharag@cs.rochester.edu   </email>::line_number::3
+<email>  fdavison,hirshg@cs.rutgers.edu   </email>::line_number::6
+<email>  fjarai,avirmanig@paul.rutgers.edu, iftode@cs.rutgers.edu   </email>::line_number::5
+<email>  fellman,keane,schwabacg@cs.rutgers.edu   </email>::line_number::5
+<email>  minsky@cs.rutgers.edu   </email>::line_number::3
+<email>  partha@cs.rutgers.edu   </email>::line_number::2
+<email>  minsky@cs.rutgers.edu   </email>::line_number::4
+<email>  E-mail : chow@cs.toronto.edu and enright@cs.toronto.edu   </email>::line_number::3
+<email>  dale@cs.toronto.edu   </email>::line_number::5
+<email>  greiner@scr.siemens.com   </email>::line_number::9
+<email>  greiner@learning.siemens.com   </email>::line_number::5
+<email>  dale@cs.toronto.edu   </email>::line_number::10
+<email>  kearney@cs.toronto.edu  </email>::line_number::4
+<email> dgc@cs.toronto.edu   </email>::line_number::5
+<email>  E-mail: haynes@cs.twsu.edu   </email>::line_number::5
+<email>  greiner@learning.siemens.com   </email>::line_number::4
+<email>  ramana@cs.rutgers.edu   </email>::line_number::8
+<email>  hxwang@cs.ucla.edu zaniolo@cs.ucla.edu   </email>::line_number::6
+<email>  greco@si:deis:unical:it zaniolo@cs:ucla:edu   </email>::line_number::6
+<email>  E-mail: yfwang@cs.ucsb.edu   </email>::line_number::6
+<email>  kienle@cs.uscb.edu   </email>::line_number::2
+<email>  Email: murat@cs.ucsb.edu, bruno@cs.ucsb.edu   </email>::line_number::5
+<email>  fibel,schauser,chriss,schmittmg@cs.ucsb.edu   </email>::line_number::5
+<email>  fcfu,tyangg@cs.ucsb.edu   </email>::line_number::6
+<email> Gilman Drive, La Jolla, CA 92093.   E-mail: mihir@cs.ucsd.edu.   Work done while author was at MIT, supported in  </email>::line_number::10
+<email> part by NSF grant CCR-87-19689.   </email>::line_number::11
+<email>  beame@cs.washington.edu   </email>::line_number::4
+<email>  sacook@cs.toronto.edu   </email>::line_number::8
+<email>  edmonds@icsi.berkeley.edu   </email>::line_number::12
+<email>  russell@cs.ucsd.edu   </email>::line_number::18
+<email>  toni@cs.pitt.edu   </email>::line_number::22
+<email>  -silvia,berman-@cs.ucsd.edu   </email>::line_number::6
+<email>  fdprecupjrichg@cs.umass.edu   </email>::line_number::5
+<email>  rich@cs.umass.edu   </email>::line_number::5
+<email>  dprecup@cs.umass.edu   </email>::line_number::10
+<email>  baveja@cs.colorado.edu   </email>::line_number::15
+<email>  fsamfat, molvag@eurecom.fr   </email>::line_number::6
+<email>  kwang@cs.umd.edu   </email>::line_number::6
+<email>  tripathi@engr.ucr.edu   </email>::line_number::11
+<email>  fflip,labrinid,kotidisg@cs.umd.edu   </email>::line_number::6
+<email>  christos@cs.cmu.edu   </email>::line_number::11
+<email>  fgoldman,musliner,krebsbac,boddyg@htc.honeywell.com   </email>::line_number::7
+<email>  fmusliner,goldmang@htc.honeywell.com   </email>::line_number::9
+<email>  sanders@cs.umd.edu   </email>::line_number::5

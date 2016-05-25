@@ -1,0 +1,1424 @@
+<affiliation>  College of Computing  </affiliation>::line_number::12
+<affiliation> Georgia Institute of Technology   </affiliation>::line_number::13
+<affiliation>  Georgia Institute of Technology   </affiliation>::line_number::18
+<affiliation>  Dept. of Computer and Information Science  </affiliation>::line_number::3
+<affiliation>  Department of Computer and Information Science  </affiliation>::line_number::3
+<affiliation> The Ohio State University   </affiliation>::line_number::4
+<affiliation>  Department of Computer and Information Science  </affiliation>::line_number::3
+<affiliation> The Ohio State University,   </affiliation>::line_number::4
+<affiliation>  Department of Computer and Information Science  </affiliation>::line_number::2
+<affiliation> The Ohio State University   </affiliation>::line_number::3
+<affiliation>  Dept. of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Maryland   </affiliation>::line_number::4
+<affiliation>  Department of Computer  </affiliation>::line_number::8
+<affiliation> and Information Science  </affiliation>::line_number::9
+<affiliation> The Ohio State University   </affiliation>::line_number::10
+<affiliation>  Dept. of Computer and Information Science  </affiliation>::line_number::3
+<affiliation> The Ohio State University   </affiliation>::line_number::4
+<affiliation>  Computer and Information Science  </affiliation>::line_number::2
+<affiliation> The Ohio State University   </affiliation>::line_number::3
+<affiliation>  Department of Computer and Information Science  </affiliation>::line_number::3
+<affiliation> The Ohio State University   </affiliation>::line_number::4
+<affiliation>  Artificial Intelligence, Robotics, and Vision Laboratory  </affiliation>::line_number::4
+<affiliation> Department of Computer and Information Sciences  </affiliation>::line_number::5
+<affiliation> University of Minnesota   </affiliation>::line_number::6
+<affiliation>  Department of Computer Sciences,  </affiliation>::line_number::3
+<affiliation>  1  Computer Science Department  2 Institut fur Informatik 3 Institut fur Informatik III 4 Computer Science Department  </affiliation>::line_number::3
+<affiliation> Carnegie Mellon University Universitat Freiburg University of Bonn University of Texas at Austin   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science and Engineering  </affiliation>::line_number::3
+<affiliation> University of Washington   </affiliation>::line_number::4
+<affiliation>  Department of Electrical Engineering and Computer Sciences  </affiliation>::line_number::4
+<affiliation>  Dipartimento di Elettronica e Informatica  </affiliation>::line_number::6
+<affiliation> Universita di Bologna, Italy   </affiliation>::line_number::7
+<affiliation>  National Research   </affiliation>::line_number::4
+<affiliation> Council Canada  </affiliation>::line_number::5
+<affiliation> Institute for   </affiliation>::line_number::6
+<affiliation> Information Technology  </affiliation>::line_number::7
+<affiliation> Conseil national   </affiliation>::line_number::8
+<affiliation> de recherches Canada  </affiliation>::line_number::9
+<affiliation> Institut de technologie   </affiliation>::line_number::10
+<affiliation> de linformation   </affiliation>::line_number::11
+<affiliation>  Dept. of Mathematical Sciences  </affiliation>::line_number::3
+<affiliation> The University of Memphis   </affiliation>::line_number::4
+<affiliation>  Institut fur Informatik,   Universitat uZrich 1   </affiliation>::line_number::2
+<affiliation>  Department of Mathematics,   Rice University   </affiliation>::line_number::2
+<affiliation>  School of Mathematical Sciences  </affiliation>::line_number::2
+<affiliation> Tel Aviv University   </affiliation>::line_number::3
+<affiliation>  The COAST Laboratory  </affiliation>::line_number::3
+<affiliation> Department of Computer Sciences  </affiliation>::line_number::4
+<affiliation> Purdue University   </affiliation>::line_number::5
+<affiliation>  The University of Sussex  </affiliation>::line_number::5
+<affiliation> School of Cognitive and Computing Sciences   </affiliation>::line_number::6
+<affiliation>  AT&T Bell Laboratories   </affiliation>::line_number::3
+<affiliation>  Pacific Software Research Center  </affiliation>::line_number::2
+<affiliation> Oregon Graduate Institute of Science & Technology   </affiliation>::line_number::3
+<affiliation>  Oregon Graduate Institute of Science & Technology   </affiliation>::line_number::2
+<affiliation>  Department of Computer Science and Engineering  </affiliation>::line_number::2
+<affiliation> Oregon Graduate Institute   </affiliation>::line_number::3
+<affiliation>  Department of Computer Engineering  </affiliation>::line_number::5
+<affiliation> Bogazi~ci University   </affiliation>::line_number::6
+<affiliation>  Institute of Mathematics   </affiliation>::line_number::6
+<affiliation>  Institute of Mathematics   </affiliation>::line_number::9
+<affiliation>  AT&T Labs|Research,    Murray Hill, New Jersey, USA   </affiliation>::line_number::7
+<affiliation>  Computational Logic Inc.   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science and Engineering  </affiliation>::line_number::2
+<affiliation> Oregon Graduate Institute of Science & Technology   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science,   Princeton University,    Princeton, NJ 08544-2087   </affiliation>::line_number::5
+<affiliation>  Austrian Research Institute for Artificial Intelligence   </affiliation>::line_number::3
+<affiliation>  Department of Mathematics and Computer Science  </affiliation>::line_number::4
+<affiliation>  North Carolina A&T State University   </affiliation>::line_number::3
+<affiliation>  College of Computing  </affiliation>::line_number::4
+<affiliation> Georgia Institute of Technology   </affiliation>::line_number::5
+<affiliation>  College of Computing  </affiliation>::line_number::24
+<affiliation> Georgia Institute of Technology   </affiliation>::line_number::25
+<affiliation>  Mobile Robot Laboratory  </affiliation>::line_number::3
+<affiliation> College of Computing  </affiliation>::line_number::4
+<affiliation> Georgia Institute of Technology   </affiliation>::line_number::5
+<affiliation>  Center for Intelligent Machines  </affiliation>::line_number::4
+<affiliation>  Department of Computer and Department of Computer Science and  </affiliation>::line_number::3
+<affiliation> Information Sciences Institute for Advanced Computer Studies  </affiliation>::line_number::4
+<affiliation> University of Florida University of Maryland   </affiliation>::line_number::5
+<affiliation>  University of Florida,   Department of Computer and information Sciences   </affiliation>::line_number::2
+<affiliation>  Computer and Information Sciences Department  </affiliation>::line_number::4
+<affiliation> University of Florida   </affiliation>::line_number::5
+<affiliation>  1 Lawrence Berkeley Laboratory  </affiliation>::line_number::2
+<affiliation> and  </affiliation>::line_number::3
+<affiliation> Department of Mathematics  </affiliation>::line_number::4
+<affiliation>  2 Department of Computer & Information Sciences  </affiliation>::line_number::6
+<affiliation>  School of Computing and Mathematics  </affiliation>::line_number::5
+<affiliation>  School of Computing and Mathematics  </affiliation>::line_number::5
+<affiliation> Deakin University   </affiliation>::line_number::6
+<affiliation>  Departments of Cognitive Science and Psychology, UCSD  </affiliation>::line_number::8
+<affiliation> Howard Hughes Medical Institute  </affiliation>::line_number::9
+<affiliation>  Computational Neurobiology Laboratory  </affiliation>::line_number::4
+<affiliation> The Salk Institute for Biological Studies   </affiliation>::line_number::5
+<affiliation>  Department of Psychology,   University of Stirling,    Stirling, Scotland.   Phone (+44) 786-467679; fax  </affiliation>::line_number::19
+<affiliation>  Department of Computer Science,   University of Waikato,   Hamilton, New Zealand.   Phone (+64 7)  </affiliation>::line_number::21
+<affiliation>  Department of Computer Science,   University of Waikato,   Hamilton, New Zealand.   Phone (+64 7)  </affiliation>::line_number::23
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Arizona   </affiliation>::line_number::3
+<affiliation>  Cleveland State University , The University of Arizona , University of Toledo *   </affiliation>::line_number::4
+<affiliation>  Department of Electrical Engineering and Computer Science  </affiliation>::line_number::2
+<affiliation> Computer Science Division  </affiliation>::line_number::3
+<affiliation> University of California,  Berkeley   </affiliation>::line_number::4
+<affiliation>  School of Computer Science  </affiliation>::line_number::4
+<affiliation> The University of Birmingham   </affiliation>::line_number::5
+<affiliation>  School of Computer Science,   University of Birmingham,   Birmingham B15 2TT, UK   </affiliation>::line_number::3
+<affiliation>  School of Computer Science,   The University of Birmingham,   Birmingham B15 2TT, UK   </affiliation>::line_number::2
+<affiliation>  School of Computer Science,   The University of Birmingham   </affiliation>::line_number::1
+<affiliation>  Stanford University   </affiliation>::line_number::5
+<affiliation>  University of Birmingham  </affiliation>::line_number::12
+<affiliation> School of Computer Science  </affiliation>::line_number::13
+<affiliation> The University of Birmingham   </affiliation>::line_number::14
+<affiliation>  California Institute of Technology   </affiliation>::line_number::2
+<affiliation>  California Institute of Technology   </affiliation>::line_number::8
+<affiliation>  1 Dipartimento di Matematica 2 Department of Computer Science  </affiliation>::line_number::6
+<affiliation> Universita di L'Aquila University of Colorado   </affiliation>::line_number::7
+<affiliation>  3 Departmento de Computacion  </affiliation>::line_number::9
+<affiliation> Universidad de Buenos Aires   </affiliation>::line_number::10
+<affiliation>  Software Engineering Research Laboratory  </affiliation>::line_number::4
+<affiliation> Department of Computer Science  </affiliation>::line_number::5
+<affiliation> University of Colorado   </affiliation>::line_number::6
+<affiliation>  Department of Computer Science  </affiliation>::line_number::4
+<affiliation> University of Colorado   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science, CB 430  </affiliation>::line_number::2
+<affiliation> University of Colorado   </affiliation>::line_number::3
+<affiliation>  Center for Biological and Computational Learning  </affiliation>::line_number::3
+<affiliation> Massachusetts Institute of Technology   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::4
+<affiliation> University of Massachusetts   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> Columbia University   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science,   Columbia University   </affiliation>::line_number::2
+<affiliation>  ? Dept. of Computer Science Siemens Corporate Research, Inc.  </affiliation>::line_number::4
+<affiliation>  Division of Science and Mathematics,   Fordham University   </affiliation>::line_number::3
+<affiliation>  and  </affiliation>::line_number::6
+<affiliation> Department of Computer Science  </affiliation>::line_number::7
+<affiliation> Columbia University   </affiliation>::line_number::8
+<affiliation>  Department of Computer Science  </affiliation>::line_number::4
+<affiliation>  Department WNI  </affiliation>::line_number::2
+<affiliation> University of Limburg (LUC)   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::7
+<affiliation> Concordia University   </affiliation>::line_number::8
+<affiliation>  Cornell University   </affiliation>::line_number::3
+<affiliation>  Dartmouth College   </affiliation>::line_number::5
+<affiliation>  Tel Aviv University   </affiliation>::line_number::7
+<affiliation>  Robotics & Vision Laboratory,   Department of Computer Science,   Cornell University.   Author's current  </affiliation>::line_number::28
+<affiliation> address:   ALPHA laboratory,   Dept. of Ind. Eng. and Op. Research,   University of California, Berkeley.    Email  </affiliation>::line_number::29
+<affiliation> address: karl@IEOR.Berkeley.EDU.   </affiliation>::line_number::30
+<affiliation>  Dept. of Computer Science,   Dartmouth College,   6211 Sudikoff Laboratory, Hanover, NH 03755-3510.   </affiliation>::line_number::31
+<affiliation>  x Department of Computer Science,   Tel Aviv University,   Tel Aviv 69978, ISRAEL.   Email address:  </affiliation>::line_number::33
+<affiliation>  Department of Mathematics and Computer Science  </affiliation>::line_number::5
+<affiliation> Dartmouth College   </affiliation>::line_number::6
+<affiliation>  Department of Computer Science  </affiliation>::line_number::4
+<affiliation> Dartmouth College   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science,   Dartmouth College,   Hanover, NH 03755-3510   </affiliation>::line_number::5
+<affiliation>  Institute of Computer Science,  </affiliation>::line_number::3
+<affiliation> The Hebrew University of Jerusalem,   </affiliation>::line_number::4
+<affiliation>  Indiana University   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> Indiana University   </affiliation>::line_number::3
+<affiliation>  Computer Science Department   </affiliation>::line_number::4
+<affiliation>  Indiana University   </affiliation>::line_number::6
+<affiliation>  Dept. of Computer Science, Indiana University,   Bloomington, IN 47405, USA   </affiliation>::line_number::2
+<affiliation>  Dept. of Information Systems, Faculty of Mathematics and  </affiliation>::line_number::30
+<affiliation>  Department of Information Systems  </affiliation>::line_number::4
+<affiliation> University of Nijmegen   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Manchester   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> Manchester University   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::4
+<affiliation> Oregon State University   </affiliation>::line_number::5
+<affiliation>  Department of Mathematics  </affiliation>::line_number::3
+<affiliation> and Computer Sciences  </affiliation>::line_number::4
+<affiliation> The University of Dundee   </affiliation>::line_number::5
+<affiliation>  Department of Computer Sciences  </affiliation>::line_number::8
+<affiliation> Purdue University   </affiliation>::line_number::9
+<affiliation>  The University of Rochester  </affiliation>::line_number::2
+<affiliation> Computer Science Department   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Kentucky   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::7
+<affiliation> University of Rochester   </affiliation>::line_number::8
+<affiliation>  Institut fur Informatik  </affiliation>::line_number::12
+<affiliation> Friedrich-Schiller-Universitat Jena   </affiliation>::line_number::13
+<affiliation>  Department of Computer Science  </affiliation>::line_number::4
+<affiliation> University of Rochester   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::9
+<affiliation> University of Rochester   </affiliation>::line_number::10
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Toronto   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Toronto   </affiliation>::line_number::4
+<affiliation>  Dept. of Computer Science, University of Toronto   </affiliation>::line_number::5
+<affiliation>  Graduate Department of Computer Science  </affiliation>::line_number::6
+<affiliation> University of Toronto   </affiliation>::line_number::7
+<affiliation>  Computer Science Department  </affiliation>::line_number::2
+<affiliation> University of Southern Maine   </affiliation>::line_number::3
+<affiliation>  Computer Science Department  </affiliation>::line_number::8
+<affiliation> University of Chicago   </affiliation>::line_number::9
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of California at Santa Barbara   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Massachusetts   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Massachusetts   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::7
+<affiliation> University of Massachusetts   </affiliation>::line_number::8
+<affiliation>  Department of Computer Science  </affiliation>::line_number::12
+<affiliation> University of Colorado   </affiliation>::line_number::13
+<affiliation>  Experimental Knowledge Systems Laboratory  </affiliation>::line_number::5
+<affiliation> Department of Computer Science, Box 34610  </affiliation>::line_number::6
+<affiliation> Lederle Graduate Research Center  </affiliation>::line_number::7
+<affiliation> University of Massachusetts   </affiliation>::line_number::8
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Massachusetts   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> Pacific Lutheran University   </affiliation>::line_number::3
+<affiliation>  Computer Science Department  </affiliation>::line_number::7
+<affiliation> University of Massachusetts   </affiliation>::line_number::8
+<affiliation>  Department of Computer Science, Rice University,   Houston, TX 77251-1892   </affiliation>::line_number::2
+<affiliation>  Electrical and Computer Engineering Dept.  </affiliation>::line_number::8
+<affiliation> Boston University   </affiliation>::line_number::9
+<affiliation>  National Institute of Standards and Technology  </affiliation>::line_number::2
+<affiliation> Manufacturing Systems Integration Division   </affiliation>::line_number::3
+<affiliation>  Mechanical Engineering Department  </affiliation>::line_number::8
+<affiliation> Institute for Systems Research  </affiliation>::line_number::9
+<affiliation> University of Maryland   </affiliation>::line_number::10
+<affiliation>  Computer Science Department  </affiliation>::line_number::15
+<affiliation> Institute for Advanced Computer Studies  </affiliation>::line_number::16
+<affiliation> Institute for Systems Research  </affiliation>::line_number::17
+<affiliation> University of Maryland   </affiliation>::line_number::18
+<affiliation>  Department of Computer Science, University of Maryland,   College Park,  </affiliation>::line_number::2
+<affiliation> MD 20742, USA   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science and Institute for Physical Science and Technology,  </affiliation>::line_number::10
+<affiliation>  Institute for Advanced Computer Studies and  </affiliation>::line_number::3
+<affiliation> The Department of Computer Science  </affiliation>::line_number::4
+<affiliation> University of Maryland   </affiliation>::line_number::5
+<affiliation>  Institute for Advanced Computer Studies  </affiliation>::line_number::3
+<affiliation> Department of Computer Science  </affiliation>::line_number::4
+<affiliation> University of Maryland   </affiliation>::line_number::5
+<affiliation>  a Department of Computer Science and Engineering  </affiliation>::line_number::3
+<affiliation> Slovak Technical University   </affiliation>::line_number::4
+<affiliation>  b NEC Research Institute  </affiliation>::line_number::7
+<affiliation>  </affiliation>::line_number::8
+<affiliation>  c Institute for Advanced Computer Studies  </affiliation>::line_number::13
+<affiliation> University of Maryland   </affiliation>::line_number::14
+<affiliation>  Institute for Advanced Computer Studies  </affiliation>::line_number::18
+<affiliation> University of Maryland   </affiliation>::line_number::19
+<affiliation>  University of Maryland College Park  </affiliation>::line_number::0
+<affiliation>  Department of Computer Science   TR-3535   </affiliation>::line_number::2
+<affiliation>  Department of Computer Science and Institute for Advanced Computer Studies, University  </affiliation>::line_number::14
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Maryland   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation>   Institute for Advanced Computer Studies  </affiliation>::line_number::3
+<affiliation> Department of Computer Science  </affiliation>::line_number::4
+<affiliation> University of Maryland    </affiliation>::line_number::5
+<affiliation>  Human-Computer Interaction Laboratory  </affiliation>::line_number::4
+<affiliation> Institute for Advanced Computer Studies  </affiliation>::line_number::5
+<affiliation>  University of North Carolina at Chapel Hill  </affiliation>::line_number::3
+<affiliation> Department of Computer Science   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science, University of North Carolina,   Chapel Hill, NC 27599-3175   </affiliation>::line_number::2
+<affiliation>  Department of Computer Science, University of North Carolina at Chapel Hill   </affiliation>::line_number::2
+<affiliation>  (i) Institut fur Kommunikationsforschung und Phonetik, Universitat Bonn   </affiliation>::line_number::6
+<affiliation>  (ii) Department of Computer Science, Universiteit Maastricht   </affiliation>::line_number::9
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Utah   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::8
+<affiliation> University of Utah   </affiliation>::line_number::9
+<affiliation>  Computational Logic, Inc.   </affiliation>::line_number::4
+<affiliation>  Department of Computer Sciences  </affiliation>::line_number::2
+<affiliation> University of Texas at Austin   </affiliation>::line_number::3
+<affiliation>  Department of Computer Sciences  </affiliation>::line_number::3
+<affiliation> University of Texas at Austin   </affiliation>::line_number::4
+<affiliation>  Department of Computer Sciences  </affiliation>::line_number::2
+<affiliation> The University of Texas   </affiliation>::line_number::3
+<affiliation>  Department of Computer Sciences  </affiliation>::line_number::3
+<affiliation> The University of Texas at Austin   </affiliation>::line_number::4
+<affiliation>  Department of Computer Sciences  </affiliation>::line_number::2
+<affiliation> The University of Texas at Austin   </affiliation>::line_number::3
+<affiliation>  The University of Texas at Austin  </affiliation>::line_number::2
+<affiliation> Department of Computer Sciences   </affiliation>::line_number::3
+<affiliation>  Computer Science Department, University of Virginia,   Charlottesville, VA 22903.   </affiliation>::line_number::4
+<affiliation>  School of ECE, Georgia Institute of Technology,   Atlanta, GA 30332.   </affiliation>::line_number::5
+<affiliation>  ? Hughes Network Systems, Hughes Network Systems,   Germantown, MD 20876.   </affiliation>::line_number::6
+<affiliation>  Department of Computer Science  </affiliation>::line_number::4
+<affiliation> School of Engineering and Applied Sciences  </affiliation>::line_number::5
+<affiliation> University of Virginia   </affiliation>::line_number::6
+<affiliation>  Sun Microsystems, Inc.   </affiliation>::line_number::3
+<affiliation>  University of Washington   </affiliation>::line_number::6
+<affiliation>  Department of Computer Science  </affiliation>::line_number::6
+<affiliation> and Engineering  </affiliation>::line_number::7
+<affiliation> University of Washington   </affiliation>::line_number::8
+<affiliation>   Division of Applied Sciences  </affiliation>::line_number::12
+<affiliation>  </affiliation>::line_number::13
+<affiliation>  Harvard University  </affiliation>::line_number::16
+<affiliation>  </affiliation>::line_number::17
+<affiliation>  Department of Computer Science and Engineering, FR-35  </affiliation>::line_number::3
+<affiliation> University of Washington   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science and Engineering, FR-35  </affiliation>::line_number::2
+<affiliation> University of Washington   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science and Engineering  </affiliation>::line_number::3
+<affiliation> University of Washington   </affiliation>::line_number::4
+<affiliation> 1  Department of EE & CS, University of Wisconsin-Milwaukee,   Milwaukee WI 53201   </affiliation>::line_number::8
+<affiliation>  Department of Computer Science and Engineering  </affiliation>::line_number::3
+<affiliation> University of Washington   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science and Engineering  </affiliation>::line_number::4
+<affiliation> University of Washington   </affiliation>::line_number::5
+<affiliation>  Microsoft Research   </affiliation>::line_number::6
+<affiliation>  University of Washington   </affiliation>::line_number::2
+<affiliation>  Silicon Graphics Inc.   </affiliation>::line_number::5
+<affiliation>  Columbia University  </affiliation>::line_number::2
+<affiliation>  </affiliation>::line_number::3
+<affiliation>  AT & T Research  </affiliation>::line_number::5
+<affiliation>  </affiliation>::line_number::6
+<affiliation>  University of Washington  </affiliation>::line_number::8
+<affiliation>  </affiliation>::line_number::9
+<affiliation>  Johns Hopkins University   </affiliation>::line_number::11
+<affiliation>  Amherst College   </affiliation>::line_number::13
+<affiliation>  University of California at Berkeley   </affiliation>::line_number::15
+<affiliation>  University of Southern California   </affiliation>::line_number::17
+<affiliation>  Department of Computer Science and Engineering  </affiliation>::line_number::5
+<affiliation> University of Washington   </affiliation>::line_number::6
+<affiliation>  Department of Computer Science and Engineering  </affiliation>::line_number::4
+<affiliation> University of Washington   </affiliation>::line_number::5
+<affiliation>  Center for Mathematical Sciences  </affiliation>::line_number::20
+<affiliation> University of Wisconsin-Madison   </affiliation>::line_number::21
+<affiliation>  Computer Sciences Department  </affiliation>::line_number::2
+<affiliation> University of Wisconsin   </affiliation>::line_number::3
+<affiliation>  Department of Computer Sciences  </affiliation>::line_number::5
+<affiliation> University of Wisconsin-Madison   </affiliation>::line_number::6
+<affiliation>  Dept. of Info. Systems & Computer Science  </affiliation>::line_number::2
+<affiliation> National University of Singapore   </affiliation>::line_number::3
+<affiliation>  School of Computer Science and Engineering  </affiliation>::line_number::7
+<affiliation> The University of New South Wales   </affiliation>::line_number::8
+<affiliation>  Computer Sciences Department Computer Science Department  </affiliation>::line_number::2
+<affiliation> University of Wisconsin Oklahoma State University   </affiliation>::line_number::3
+<affiliation>  UNIVERSITY OF WISCONSIN - MADISON   </affiliation>::line_number::10
+<affiliation>  Computer Sciences Department  </affiliation>::line_number::3
+<affiliation> University of Wisconsin-Madison   </affiliation>::line_number::4
+<affiliation>  UNIVERSITY OF WISCONSIN - MADISON   </affiliation>::line_number::9
+<affiliation>  Computer Science Department  </affiliation>::line_number::4
+<affiliation> Worcester Polytechnic Institute   </affiliation>::line_number::5
+<affiliation>  Center for Computational Vision and Control  </affiliation>::line_number::3
+<affiliation> c/o Computer Science Department   </affiliation>::line_number::4
+<affiliation>  Centro Svizzero di Calcolo Scientifico (CSCS/SCSC) and  </affiliation>::line_number::8
+<affiliation> NEC European Supercomputer Systems, Swiss Branch   </affiliation>::line_number::9
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> Central Connecticut State University   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> The Chinese University of Hong Kong   </affiliation>::line_number::4
+<affiliation>  Dept. of Artifical Intelligence, School of Computer Science and Engineering,  </affiliation>::line_number::2
+<affiliation>   Department of Artificial Intelligence  </affiliation>::line_number::3
+<affiliation> School of Computer Science and Engineering  </affiliation>::line_number::4
+<affiliation>  Predictive Strategies Unit  </affiliation>::line_number::8
+<affiliation> Australian Gilt Securities Limited   </affiliation>::line_number::9
+<affiliation>   CWI  </affiliation>::line_number::2
+<affiliation> Dept. of Algorithms and Architectures   </affiliation>::line_number::3
+<affiliation>  Complex Systems Computation Group (CoSCo)  </affiliation>::line_number::10
+<affiliation>  </affiliation>::line_number::11
+<affiliation>  Computer Systems Research Institute  </affiliation>::line_number::2
+<affiliation> University of Toronto   </affiliation>::line_number::3
+<affiliation>  1 Dipartimento di Informatica, Universita di Pisa,   Corso Italia 40, 56125 Pisa, Italy,  </affiliation>::line_number::3
+<affiliation>  EECS Department, University of Michigan,   Ann Arbor, MI 48109-2122, USA   </affiliation>::line_number::2
+<affiliation>  1 Heinz Nixdorf Institut, Universitat-GH Paderborn,    Furstenallee 11,  </affiliation>::line_number::2
+<affiliation>  2 FB Mathematik-Informatik, Universitat-GH Paderborn,   Warburger Str. 100,  </affiliation>::line_number::4
+<affiliation>  1 Universita di Pisa, Dipartimento di Informatica,   I-56125 Pisa, Italy   </affiliation>::line_number::3
+<affiliation>  2 Universitat Ulm, Fakultat fur Informatik,   D-89069 Ulm, Germany   </affiliation>::line_number::5
+<affiliation>  1 Fernuniversitat-GH Hagen,   Germany,   christoph.beierle@fernuni-hagen.de   </affiliation>::line_number::5
+<affiliation>  2 Universita di Pisa,   Italy,   boerger@di.unipi.it   </affiliation>::line_number::6
+<affiliation>  3 Universitat-GH Paderborn,   Germany,   igor@uni-paderborn.de   </affiliation>::line_number::7
+<affiliation>  4 Universitat-GH Paderborn,   Germany,   glaesser@uni-paderborn.de   </affiliation>::line_number::8
+<affiliation>  5 Universita di Catania,   Italy,   riccobene@dipmat.unict.it   </affiliation>::line_number::9
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation>  Department of Electrical Engineering and Computer Science  </affiliation>::line_number::5
+<affiliation>  Distributed Intelligent Agents Group (DIAG)  </affiliation>::line_number::4
+<affiliation> Artificial Intelligence Laboratory  </affiliation>::line_number::5
+<affiliation> The University of Michigan   </affiliation>::line_number::6
+<affiliation>  Department of Electrical Engineering and Computer Science  </affiliation>::line_number::2
+<affiliation> University of Michigan   </affiliation>::line_number::3
+<affiliation>  Distributed Intelligent Agents Group (DIAG)  </affiliation>::line_number::4
+<affiliation> Artificial Intelligence Laboratory  </affiliation>::line_number::5
+<affiliation> The University of Michigan   </affiliation>::line_number::6
+<affiliation>  Department of Electrical Engineering and Computer Science  </affiliation>::line_number::5
+<affiliation>  Department of Electrical Engineering  </affiliation>::line_number::7
+<affiliation>  Dept. of Electrical Engineering and Computer Science, Univ. of Michigan,   Ann Arbor, MI48109   </affiliation>::line_number::4
+<affiliation>  Dept. of Electrical Engineering, Changsha Institute of Technology,   Changsha, Hunan, China   </affiliation>::line_number::5
+<affiliation>  Changsha Institute of Technology   </affiliation>::line_number::3
+<affiliation>  University of Michigan   </affiliation>::line_number::6
+<affiliation>  University of Michigan   </affiliation>::line_number::9
+<affiliation>  University of Michigan  </affiliation>::line_number::4
+<affiliation> Artificial Intelligence Laboratory   </affiliation>::line_number::5
+<affiliation>  Department of Statistics  </affiliation>::line_number::3
+<affiliation> University of Florida   </affiliation>::line_number::4
+<affiliation>  Laboratoire de Statistique  </affiliation>::line_number::8
+<affiliation> CREST, INSEE   </affiliation>::line_number::9
+<affiliation>  School of Computing Science  </affiliation>::line_number::3
+<affiliation> Simon Fraser University   </affiliation>::line_number::4
+<affiliation>  Computer Science Department  </affiliation>::line_number::4
+<affiliation> Hebrew University   </affiliation>::line_number::5
+<affiliation>  Department of Information and Computer Sciences  </affiliation>::line_number::3
+<affiliation> University of Hawaii   </affiliation>::line_number::4
+<affiliation>  Center for Information Technology & Management  </affiliation>::line_number::3
+<affiliation> Walter A. Haas School of Business  </affiliation>::line_number::4
+<affiliation> University of California   </affiliation>::line_number::5
+<affiliation>  Department of Information and Computer Sciences  </affiliation>::line_number::8
+<affiliation> University of Hawaii   </affiliation>::line_number::9
+<affiliation> 1  Department of Computer Science, University of Bonn,   5300 Bonn 1.  </affiliation>::line_number::19
+<affiliation>  University of California at Berkeley and  </affiliation>::line_number::3
+<affiliation>  International Computer Science Institute,   Berkeley, CA   </affiliation>::line_number::6
+<affiliation>  and UC Berkeley   </affiliation>::line_number::7
+<affiliation>  Heinz Nixdorf Institute and Computer Science Department,   </affiliation>::line_number::9
+<affiliation>  University of Paderborn,    Germany   </affiliation>::line_number::10
+<affiliation>  Xerox Palo Alto Research Center,   3333 Coyote Hill Road, Palo Alto CA 94304 USA.   (vgupta@parc.xerox.com)   </affiliation>::line_number::14
+<affiliation>  Technical University of Munich,   Orleansstr. 34, D-81667 Munich, Germany.   (struss@informatik.tu-muenchen.de)   </affiliation>::line_number::15
+<affiliation>  Also with EECS Department, U.C. Berkeley   </affiliation>::line_number::5
+<affiliation>  INTERNATIONAL COMPUTER SCIENCE INSTITUTE   </affiliation>::line_number::0
+<affiliation>  INTERNATIONAL COMPUTER SCIENCE INSTITUTE   </affiliation>::line_number::0
+<affiliation>  The Networks Group  </affiliation>::line_number::7
+<affiliation> International Computer Science Institute, and  </affiliation>::line_number::8
+<affiliation> The Computer Science Depatrment  </affiliation>::line_number::9
+<affiliation> University of Cape Town   </affiliation>::line_number::10
+<affiliation>  INTERNATIONAL COMPUTER SCIENCE INSTITUTE   </affiliation>::line_number::0
+<affiliation>  Department of Mathematics, UC Berkeley   </affiliation>::line_number::6
+<affiliation>  Fachbereich Mathematik, Universitat Trier   </affiliation>::line_number::9
+<affiliation>  INTERNATIONAL COMPUTER SCIENCE INSTITUTE   </affiliation>::line_number::0
+<affiliation>  Dept. of Computer Science & Eng., Pennsylvania State University,   University Park, PA16802, USA   </affiliation>::line_number::15
+<affiliation>  Department of Computer Science, Stanford University,   Stanford, CA 94305-9045.   Supported by Stanford  </affiliation>::line_number::17
+<affiliation> School of Engineering Groswith Fellowship, an ARO MURI Grant DAAH04-96-1-0007 and NSF Award  </affiliation>::line_number::18
+<affiliation> CCR-9357849, with matching funds from IBM, Schlumberger Foundation, Shell Foundation, and Xerox  </affiliation>::line_number::19
+<affiliation>  Dept. of Computer Science, University of Bonn,    53117 Bonn,   and International Computer Science Institute,     Berkeley.     This research was partially supported by the DFG Grant KA 673/4-1, by the ESPRIT BR  </affiliation>::line_number::21
+<affiliation>   Department of Computer and Information Science  </affiliation>::line_number::3
+<affiliation> Linkoping University   </affiliation>::line_number::4
+<affiliation>  IDSIA,   Corso Elvezia 36, 6900 Lugano, Switzerland   </affiliation>::line_number::2
+<affiliation>  University of Southern California  </affiliation>::line_number::9
+<affiliation> Information Science Institute   </affiliation>::line_number::10
+<affiliation>  UNIVERSITY OF SOUTHERN CALIFORNIA INFORMATION SCIENCES INSTITUTE  </affiliation>::line_number::13
+<affiliation>  </affiliation>::line_number::14
+<affiliation>  Jet Propulsion Laboratory  </affiliation>::line_number::2
+<affiliation> California Institute of Technology   </affiliation>::line_number::3
+<affiliation>  Information Sciences Institute & Computer Science Dept.  </affiliation>::line_number::8
+<affiliation> University of Southern California   </affiliation>::line_number::9
+<affiliation>   Department of Electrical and Computer Engineering,  </affiliation>::line_number::3
+<affiliation>  Adaptive Computing Technology   </affiliation>::line_number::3
+<affiliation>  MIT Laboratory for Computer Science   </affiliation>::line_number::3
+<affiliation>  Nimble Computer Corporation,   16231 Meadow Ridge Way, Encino, CA 91436   </affiliation>::line_number::5
+<affiliation>  Institut fur theoretische Physik  </affiliation>::line_number::2
+<affiliation> Universitat Wurzburg   </affiliation>::line_number::3
+<affiliation>  Laboratory for Computer Science,  </affiliation>::line_number::4
+<affiliation> Massachusetts Institute of Technology,   </affiliation>::line_number::5
+<affiliation>  Microsoft Research  </affiliation>::line_number::9
+<affiliation> Advanced Technology Division  </affiliation>::line_number::10
+<affiliation> Microsoft Corporation   </affiliation>::line_number::11
+<affiliation>  Microsoft Research  </affiliation>::line_number::7
+<affiliation> Advanced Technology Division  </affiliation>::line_number::8
+<affiliation> Microsoft Corporation   </affiliation>::line_number::9
+<affiliation>  Department of Mathematical Sciences  </affiliation>::line_number::4
+<affiliation> Rensselaer Polytechnic Institute   </affiliation>::line_number::5
+<affiliation>  DEPARTMENT OF STATISTICS  </affiliation>::line_number::0
+<affiliation> University of Wisconsin   </affiliation>::line_number::1
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Maryland   </affiliation>::line_number::4
+<affiliation>  Mathematics and Computer Science Division  </affiliation>::line_number::8
+<affiliation> Argonne National Laboratory   </affiliation>::line_number::9
+<affiliation>  Department of Computer Science, University of Maryland,   College Park, MD 20742   </affiliation>::line_number::5
+<affiliation>  MASSACHUSETTS INSTITUTE OF TECHNOLOGY   </affiliation>::line_number::11
+<affiliation>  Centro di Scienza Cognitiva, Universita di Torino,   Via Lagrange 3, 10100 Torino, Italy.   e-mail:  </affiliation>::line_number::2
+<affiliation> blanzier@psych.unito.it   </affiliation>::line_number::3
+<affiliation>  flfl Institute for Real Time Systems and Robotics, University of Karlsruhe,   Germany.   </affiliation>::line_number::4
+<affiliation>  flflfl Dipartimento di Informatica, Universita di Torino,   C.so Svizzera 185, 10149 Torino, Italy.   email: attilio@di.unito.it   </affiliation>::line_number::5
+<affiliation>  Institute for Real-Time Computer Systems & Robotics, University of Karlsruhe,    Kaiserstr. 12,  </affiliation>::line_number::2
+<affiliation> D-76128 Karlsruhe, Germany.   </affiliation>::line_number::3
+<affiliation>  Dept. of Electrical and Computer Engineering  </affiliation>::line_number::3
+<affiliation> University of Masschusetts   </affiliation>::line_number::4
+<affiliation>  Dept. of Computer and Information Science  </affiliation>::line_number::7
+<affiliation> Univeristy of Massachusetts   </affiliation>::line_number::8
+<affiliation>  Computer Science Department  </affiliation>::line_number::2
+<affiliation> University of Massachusetts   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science   </affiliation>::line_number::7
+<affiliation>  Computer Science Department, University of Massachusetts,   Amherst MA 01003, USA   </affiliation>::line_number::3
+<affiliation>  Dept. of ECE Dept. of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Massachusetts   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Massachusetts   </affiliation>::line_number::4
+<affiliation>  Department of Intelligent Systems, Jozef Stefan Institute   </affiliation>::line_number::4
+<affiliation>  Computer Sciences Department  </affiliation>::line_number::4
+<affiliation> University of Wisconsin-Madison   </affiliation>::line_number::5
+<affiliation>  UMIACS and Computer Science Department Northeast Parallel Architectures Center  </affiliation>::line_number::4
+<affiliation> University of Maryland Syracuse University   </affiliation>::line_number::5
+<affiliation>  Cadence Design Systems Inc.,   San Jose, CA Texas Instruments Inc., Dallas, TX   </affiliation>::line_number::4
+<affiliation>  Department of EECS, University of California,   Berkeley, CA   </affiliation>::line_number::5
+<affiliation>  Engineering Electrical Engineering  </affiliation>::line_number::9
+<affiliation> and Computer Sciences   </affiliation>::line_number::10
+<affiliation>  UNIVERSITY of CALIFORNIA at BERKELEY   </affiliation>::line_number::14
+<affiliation>  1 Information Technology, Eindhoven University of Technology,   The Netherlands   </affiliation>::line_number::2
+<affiliation>  2 ILK / Computational Linguistics, Tilburg University,   The Netherlands   </affiliation>::line_number::3
+<affiliation>  3 Department of Computer Science, Universiteit Maastricht,   The Netherlands   </affiliation>::line_number::4
+<affiliation>  Dipartimento di Informatica e Sistemistica  </affiliation>::line_number::2
+<affiliation> University of Pavia   </affiliation>::line_number::3
+<affiliation>  Centro di Teoria dei Sistemi del CNR  </affiliation>::line_number::4
+<affiliation> Dipartimento di Elettronica e Informazione  </affiliation>::line_number::5
+<affiliation> Politecnico di Milano   </affiliation>::line_number::6
+<affiliation>  IRIDIA  </affiliation>::line_number::12
+<affiliation>  Scienze dellInformazione  </affiliation>::line_number::21
+<affiliation> Universit di Bologna   </affiliation>::line_number::22
+<affiliation>  Institute of Psychology  </affiliation>::line_number::2
+<affiliation>  - DAIMI  </affiliation>::line_number::5
+<affiliation>  University of Calgary   </affiliation>::line_number::2
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation>  1 Section of Biostatistics, Mayo Clinic   </affiliation>::line_number::2
+<affiliation>  2 Division of Biostatistics, School of Public Health, University of Minnesota   </affiliation>::line_number::3
+<affiliation>  Computer Science Division  </affiliation>::line_number::4
+<affiliation> University of California at Berkeley   </affiliation>::line_number::5
+<affiliation>  Dipartimento di Elettronica e Informatica  </affiliation>::line_number::3
+<affiliation> Politecnico di Milano   </affiliation>::line_number::4
+<affiliation>   Institute for Systems Research (ISR) and  </affiliation>::line_number::8
+<affiliation> Dept. of Computer Science  </affiliation>::line_number::9
+<affiliation>  MASSACHUSETTS INSTITUTE OF TECHNOLOGY  </affiliation>::line_number::0
+<affiliation> ARTIFICIAL INTELLIGENCE LABORATORY  </affiliation>::line_number::1
+<affiliation> and  </affiliation>::line_number::2
+<affiliation> CENTER FOR BIOLOGICAL AND COMPUTATIONAL LEARNING  </affiliation>::line_number::3
+<affiliation> DEPARTMENT OF BRAIN AND COGNITIVE SCIENCES   </affiliation>::line_number::4
+<affiliation>  MASSACHUSETTS INSTITUTE OF TECHNOLOGY  </affiliation>::line_number::0
+<affiliation> ARTIFICIAL INTELLIGENCE LABORATORY  </affiliation>::line_number::1
+<affiliation> and  </affiliation>::line_number::2
+<affiliation> CENTER FOR BIOLOGICAL INFORMATION PROCESSING  </affiliation>::line_number::3
+<affiliation> WHITAKER COLLEGE   </affiliation>::line_number::4
+<affiliation>  MASSACHUSETTS INSTITUTE OF TECHNOLOGY   </affiliation>::line_number::7
+<affiliation>  Artificial Intelligence Systems Research Group  </affiliation>::line_number::3
+<affiliation> Computer Science Division  </affiliation>::line_number::4
+<affiliation> School of Engineering and Computer Science  </affiliation>::line_number::5
+<affiliation>  Real-Time Computing Laboratory  </affiliation>::line_number::2
+<affiliation> Department of Elec. Engr. and Computer Science  </affiliation>::line_number::3
+<affiliation> The University of Michigan   </affiliation>::line_number::4
+<affiliation>  Computer Science Division  </affiliation>::line_number::8
+<affiliation> EE & CS Department  </affiliation>::line_number::9
+<affiliation> University of California   </affiliation>::line_number::10
+<affiliation>  EECS Department  </affiliation>::line_number::2
+<affiliation> University of California, Berkeley   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science & Engineering  </affiliation>::line_number::2
+<affiliation> University of Washington   </affiliation>::line_number::3
+<affiliation>  Center for Research on Parallel Computation  </affiliation>::line_number::6
+<affiliation> Rice University   </affiliation>::line_number::7
+<affiliation>  RICE UNIVERSITY  </affiliation>::line_number::0
+<affiliation>  </affiliation>::line_number::1
+<affiliation>  Applied Mathematics 217-50  </affiliation>::line_number::3
+<affiliation>  Applied Mathematics 217-50  </affiliation>::line_number::6
+<affiliation>  Computer Science Department, Brigham Young University,   Provo, Utah 84602   </affiliation>::line_number::5
+<affiliation>  Computer Science Department, Brigham Young University,   Provo, UT 84602, U.S.A.   </affiliation>::line_number::5
+<affiliation>  MASSACHUSETTS INSTITUTE OF TECHNOLOGY   </affiliation>::line_number::10
+<affiliation>  MIT Laboratory for Computer Science   </affiliation>::line_number::2
+<affiliation>  Institute for Computer Science, Hebrew University,   Jerusalem, Israel.   </affiliation>::line_number::17
+<affiliation>  x Institute for Computer Science, Hebrew University,   Jerusalem, Israel.   </affiliation>::line_number::18
+<affiliation>  Laboratory for Computer Science, Massachusetts Institute of Technology,    545 Technology Square, Cambridge MA 02139,  </affiliation>::line_number::16
+<affiliation>  Sandia National Labs,   P.O Box 5800, Albuquerque, NM 87185-1110,   yair@cs.sandia.gov   </affiliation>::line_number::32
+<affiliation>  Sandia National Labs,   P.O Box 5800, Albuquerque, NM 87185-1110,   psgemme@cs.sandia.gov   </affiliation>::line_number::33
+<affiliation>  Sandia National Labs,   P.O Box 5800, Albuquerque, NM 87185-1110,   philmac@cs.sandia.gov.   </affiliation>::line_number::34
+<affiliation>  x IBM T. J. Watson Research Center,   Yorktown Heights, NY,   moti@watson.ibm.com, moti@cs.columbia.edu   </affiliation>::line_number::35
+<affiliation>  </affiliation>::line_number::3
+<affiliation> MIT  </affiliation>::line_number::4
+<affiliation> Laboratory for Computer Science   </affiliation>::line_number::5
+<affiliation>  University of Amsterdam  </affiliation>::line_number::12
+<affiliation> Programming Research Group   </affiliation>::line_number::13
+<affiliation>  Perceptual Computing Group, The Media Laboratory,  </affiliation>::line_number::4
+<affiliation> Massachusetts Institute of Technology   </affiliation>::line_number::5
+<affiliation>  MIT Media Laboratory,   20 Ames St., Cambridge, MA 02139   </affiliation>::line_number::4
+<affiliation>  Perceptual Computing Group  </affiliation>::line_number::3
+<affiliation> MIT Media Laboratory   </affiliation>::line_number::4
+<affiliation>  Department of Electrical Engineering and Computer Science,  </affiliation>::line_number::5
+<affiliation>  Dept. of Computer Science  </affiliation>::line_number::3
+<affiliation> Rutgers University   </affiliation>::line_number::4
+<affiliation>  Dept. of Computer Science  </affiliation>::line_number::2
+<affiliation> Hill Center, Busch Campus  </affiliation>::line_number::3
+<affiliation> Rutgers University   </affiliation>::line_number::4
+<affiliation>  Department of Industrial Engineering   </affiliation>::line_number::2
+<affiliation>   Department of Computer Science  </affiliation>::line_number::4
+<affiliation> Rutgers University    </affiliation>::line_number::5
+<affiliation>  School of Information and Software Engineering  </affiliation>::line_number::2
+<affiliation> University of Ulster at Jordanstown   </affiliation>::line_number::3
+<affiliation>  Computer Science Department  </affiliation>::line_number::2
+<affiliation> University of Massachusetts at Amherst   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation>  1 Dipartimento di Informatica e Scienze dell'Informazione,  </affiliation>::line_number::3
+<affiliation>  2 Dipartimento di Informatica ed Applicazioni,  </affiliation>::line_number::7
+<affiliation>  3 Department of Combinatorics and Optimization  </affiliation>::line_number::11
+<affiliation>  (*) Department of Metallurgical Engineering and Materials Science  </affiliation>::line_number::6
+<affiliation> (**) The Robotics Institute  </affiliation>::line_number::7
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::8
+<affiliation>  1 Federal Aviation Administration, Technical Center,   Atlantic City NJ 08201   </affiliation>::line_number::6
+<affiliation>  2 Carnegie Mellon University, Robotics Institute,   Pittsburgh PA 15213   </affiliation>::line_number::7
+<affiliation>  3 Carnegie Mellon University, CMRI,   Pittsburgh PA 15213   </affiliation>::line_number::8
+<affiliation>  CARNEGIE MELLON UNIVERSITY   </affiliation>::line_number::0
+<affiliation>  Department of Intelligent Systems, J.Stefan Institute,   </affiliation>::line_number::2
+<affiliation>  School of Computer Science  </affiliation>::line_number::4
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::5
+<affiliation>  School of Computer Science  </affiliation>::line_number::3
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::4
+<affiliation>  School of Computer Science  </affiliation>::line_number::3
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::4
+<affiliation>  School of Computer Science  </affiliation>::line_number::5
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::6
+<affiliation>  Carnegie Mellon University  </affiliation>::line_number::4
+<affiliation> University of Karlsruhe   </affiliation>::line_number::5
+<affiliation>  The Robotics Institute, Carnegie Mellon University,   Pittsburgh PA 15213   </affiliation>::line_number::4
+<affiliation>  Department of Mechanical Engineering, Johns Hopkins University,   Baltimore, MD 21218   </affiliation>::line_number::4
+<affiliation>  Computer Systems Laboratory  </affiliation>::line_number::4
+<affiliation>  California Institute of Technology   </affiliation>::line_number::4
+<affiliation>  Institute of Systems Science  </affiliation>::line_number::2
+<affiliation> Systems Theory and Information Engineering  </affiliation>::line_number::3
+<affiliation> Johannes Kepler University Linz   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Illinois at Urbana-Champaign   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Illinois University of Illinois   </affiliation>::line_number::3
+<affiliation>  University of Massachusetts   in partial fulfillment  </affiliation>::line_number::5
+<affiliation> of the requirements for the degree of  </affiliation>::line_number::6
+<affiliation> Doctor of Philosophy   </affiliation>::line_number::7
+<affiliation>  Department of Computer and Information Science   </affiliation>::line_number::9
+<affiliation>  ECE Department, University of Massachusetts   </affiliation>::line_number::3
+<affiliation>  Digital Equipment Corporation   </affiliation>::line_number::6
+<affiliation>  COINS Department, University of Massachusetts   </affiliation>::line_number::10
+<affiliation>  Center for Intelligent Information Retrieval  </affiliation>::line_number::3
+<affiliation> Computer Science Department  </affiliation>::line_number::4
+<affiliation> University of Massachusetts   </affiliation>::line_number::5
+<affiliation>  Center for Intelligent Information Retrieval  </affiliation>::line_number::10
+<affiliation> Computer Science Department  </affiliation>::line_number::11
+<affiliation> University of Massachusetts   </affiliation>::line_number::12
+<affiliation>  Computer Science Department  </affiliation>::line_number::2
+<affiliation>  Department of Information and Computer Science, University of California,   Irvine, CA 92697, USA;   epp-stein@ics.uci.edu;   http://www:ics:uci:edu/ ~ eppstein.   Research partially supported by NSF grant CCR-9258355 and  </affiliation>::line_number::23
+<affiliation> by matching funds from Xerox Corporation.   </affiliation>::line_number::24
+<affiliation>  Center for Geometric Computing, Department of Computer Science, Duke University,   Box 90129, Durham,  </affiliation>::line_number::25
+<affiliation>  Computer Science department  </affiliation>::line_number::4
+<affiliation> The Hebrew University of Jerusalem   </affiliation>::line_number::5
+<affiliation>  Inst. of Computer Sci.  </affiliation>::line_number::3
+<affiliation> Hebrew University   </affiliation>::line_number::4
+<affiliation>  Microsoft Research   </affiliation>::line_number::8
+<affiliation>  Dept. of Appl. Math and CS  </affiliation>::line_number::13
+<affiliation> The Weizmann Inst. of Sci.   </affiliation>::line_number::14
+<affiliation>  Department of Computer Science   </affiliation>::line_number::4
+<affiliation>  Vanderbilt University   </affiliation>::line_number::6
+<affiliation>  Division of Computer Science  </affiliation>::line_number::2
+<affiliation>  Department of Computer Science  </affiliation>::line_number::6
+<affiliation>  Division of Computer Science  </affiliation>::line_number::10
+<affiliation>  1 University of Karlsruhe,   Institute AIFB, 76128 Karlsruhe, Germany,   </affiliation>::line_number::6
+<affiliation>  2 Knowledge Media Institute, The Open University,   Walton Hall, Milton Keynes, United Kingdom,   </affiliation>::line_number::8
+<affiliation>  3 Dept. of Social Science Informatics (SWI), University of Amsterdam,    Roetersstraat 15, 1018 WB  </affiliation>::line_number::10
+<affiliation>  4 Artificial Intelligence Research Institute (IIIA), Spanish Council for Scientific Research (CSIC),   </affiliation>::line_number::12
+<affiliation>  DIMACS  </affiliation>::line_number::6
+<affiliation> Rutgers University   </affiliation>::line_number::7
+<affiliation>  DEC/SRC   </affiliation>::line_number::3
+<affiliation>  Bellcore   </affiliation>::line_number::7
+<affiliation>  University of Illinois at Urbana-Champaign,   1996   </affiliation>::line_number::10
+<affiliation>  Department of Computer Science   </affiliation>::line_number::5
+<affiliation>  Washington University   </affiliation>::line_number::7
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Massachusetts   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science and Engineering  </affiliation>::line_number::3
+<affiliation> University of Washington   </affiliation>::line_number::4
+<affiliation>  MIT Media Lab   </affiliation>::line_number::2
+<affiliation>  School of Computer Science  </affiliation>::line_number::4
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::5
+<affiliation>  School of Computer Science  </affiliation>::line_number::2
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::3
+<affiliation>  Department of Electrical and Computer Engineering  </affiliation>::line_number::2
+<affiliation> The Beckman Institute for Advanced Science and Technology  </affiliation>::line_number::3
+<affiliation> University of Illinois at Urbana-Champaign   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::9
+<affiliation> Yale University   </affiliation>::line_number::10
+<affiliation>  CSIRO Division of Manufacturing Technology   </affiliation>::line_number::15
+<affiliation>  Department of Electrical Engineering and  </affiliation>::line_number::2
+<affiliation> Department of Computer Science  </affiliation>::line_number::3
+<affiliation> Yale University   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::6
+<affiliation> Yale University   </affiliation>::line_number::7
+<affiliation>  Information and Computer Science Department  </affiliation>::line_number::3
+<affiliation> University of California, Irvine   </affiliation>::line_number::4
+<affiliation>  Philips Research Laboratories,   </affiliation>::line_number::3
+<affiliation>  MIT Media Lab   </affiliation>::line_number::3
+<affiliation>  Dipartimento di Informatica e Sistemistica  </affiliation>::line_number::3
+<affiliation> Universita di Napoli "Federico II"   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::9
+<affiliation> University of Illinois at Urbana-Champaign   </affiliation>::line_number::10
+<affiliation>  Department of Computer Science and Engineering  </affiliation>::line_number::3
+<affiliation> University of Washington   </affiliation>::line_number::4
+<affiliation>  Systems Research Center   </affiliation>::line_number::6
+<affiliation>  Systems Research Center   </affiliation>::line_number::6
+<affiliation>  Computer Science General Electric Robotics Research Group Robotics Research Group  </affiliation>::line_number::3
+<affiliation> University of Iowa Center for Research and Development Oxford University Oxford University   </affiliation>::line_number::4
+<affiliation>  University of California, Berkeley   </affiliation>::line_number::4
+<affiliation>  University of California at Berkeley   </affiliation>::line_number::3
+<affiliation>  Dept. of Electrical Eng.-Systems  </affiliation>::line_number::3
+<affiliation> University of Southern California   </affiliation>::line_number::4
+<affiliation>  Dept. of Electrical Engineering and Center for Telecom. Research  </affiliation>::line_number::7
+<affiliation>  Dept. of Electrical Engineering and Computer Science  </affiliation>::line_number::10
+<affiliation> University of California,   </affiliation>::line_number::11
+<affiliation>  Department of Computer Science   </affiliation>::line_number::2
+<affiliation>  University of Colorado   </affiliation>::line_number::4
+<affiliation>  Computer Science Division  </affiliation>::line_number::5
+<affiliation> Department of Electrical Engineering and Computer Sciences  </affiliation>::line_number::6
+<affiliation> College of Engineering  </affiliation>::line_number::7
+<affiliation> University of California, Berkeley   </affiliation>::line_number::8
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation>  Center for Supercomputing Research and Development  </affiliation>::line_number::3
+<affiliation>  University of Berne  </affiliation>::line_number::3
+<affiliation> Institute for Informatics and Applied Mathematics   </affiliation>::line_number::4
+<affiliation>  Recom Technologies, Caelum Research  </affiliation>::line_number::2
+<affiliation>  Technische Universitat Berlin,  </affiliation>::line_number::3
+<affiliation>  Research Group "Methods of Artificial Intelligence"  </affiliation>::line_number::4
+<affiliation> Institute for Applied Computer Science, Technische Universitat  </affiliation>::line_number::5
+<affiliation> Berlin   </affiliation>::line_number::6
+<affiliation>  Electronics Research Laboratory  </affiliation>::line_number::4
+<affiliation>  Electronics Research Laboratory  </affiliation>::line_number::2
+<affiliation>  Computer Science Department  </affiliation>::line_number::3
+<affiliation> Courant Institute of Mathematical Sciences  </affiliation>::line_number::4
+<affiliation> New York University   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> Oregon State University   </affiliation>::line_number::4
+<affiliation>  1 Department of Physics, Tohoku University,   980-77 Sendai, Japan   </affiliation>::line_number::3
+<affiliation>  2 Physics Department, University of Wisconsin,   </affiliation>::line_number::4
+<affiliation>  3 Department of Physics and Astronomy,  </affiliation>::line_number::6
+<affiliation>  Department of Computer Science   </affiliation>::line_number::4
+<affiliation>  University of Illinois at Urbana-Champaign   </affiliation>::line_number::6
+<affiliation>  Open Systems Laboratory  </affiliation>::line_number::2
+<affiliation> Department of Computer Science   </affiliation>::line_number::3
+<affiliation>  University of Illinois at Urbana-Champaign   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::7
+<affiliation> Rutgers University   </affiliation>::line_number::8
+<affiliation>  Computer and Vision Research Center  </affiliation>::line_number::4
+<affiliation>  Laboratory of Artificial Neural Systems  </affiliation>::line_number::3
+<affiliation> University of Texas   </affiliation>::line_number::4
+<affiliation>  Department of Statistics and  </affiliation>::line_number::2
+<affiliation> Stanford Linear Accelerator Center  </affiliation>::line_number::3
+<affiliation> Stanford University   </affiliation>::line_number::4
+<affiliation>  DEPARTMENT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCE  </affiliation>::line_number::0
+<affiliation> UNIVERSITY OF CALIFORNIA   </affiliation>::line_number::1
+<affiliation>  ELECTRONICS RESEARCH LABORATORY  </affiliation>::line_number::9
+<affiliation> College of Engineering   </affiliation>::line_number::10
+<affiliation>  Department of Electrical Engineering and Computer Sciences  </affiliation>::line_number::2
+<affiliation>  Intelligent Machines and Robotics Laboratory  </affiliation>::line_number::2
+<affiliation> Department of Electrical Engineering and Computer Sciences  </affiliation>::line_number::3
+<affiliation>  Robotics and Intelligent Machines Laboratory   </affiliation>::line_number::2
+<affiliation>  University of California at Berkeley   </affiliation>::line_number::4
+<affiliation>  Department of Electrical Engineering & Computer Sciences,  </affiliation>::line_number::2
+<affiliation>  Department of Electrical Engineering and Computer Sciences  </affiliation>::line_number::3
+<affiliation> University of California, Berkeley   </affiliation>::line_number::4
+<affiliation>  Electronics Research Laboratory  </affiliation>::line_number::3
+<affiliation> University of California at Berkeley   </affiliation>::line_number::4
+<affiliation>  Robotics and Intelligent Machines Laboratory  </affiliation>::line_number::5
+<affiliation> Department of Electrical Engineering and Computer Sciences  </affiliation>::line_number::6
+<affiliation> University of California at Berkeley   </affiliation>::line_number::7
+<affiliation>  Computer Science Department  </affiliation>::line_number::2
+<affiliation> Stanford University   </affiliation>::line_number::3
+<affiliation>  Data Mining and Visualization  </affiliation>::line_number::3
+<affiliation> Silicon Graphics, Inc.   </affiliation>::line_number::4
+<affiliation>  Computer Science Division, EECS Department  </affiliation>::line_number::3
+<affiliation> University of California   </affiliation>::line_number::4
+<affiliation>  EECS Department  </affiliation>::line_number::3
+<affiliation> University of California, Berkeley   </affiliation>::line_number::4
+<affiliation>  EECS Department  </affiliation>::line_number::6
+<affiliation> University of California, Berkeley   </affiliation>::line_number::7
+<affiliation>  Articifial Intelligence Principles Research Department   </affiliation>::line_number::2
+<affiliation>  Object Oriented and Artificial Intelligence Technologies Group,   </affiliation>::line_number::5
+<affiliation>  Artificial Intelligence Principles Research Department  </affiliation>::line_number::3
+<affiliation> AT&T Bell Laboratories   </affiliation>::line_number::4
+<affiliation>  Harvard University   </affiliation>::line_number::12
+<affiliation>  Department of Computer Science  </affiliation>::line_number::4
+<affiliation> Washington Unversity   </affiliation>::line_number::5
+<affiliation>  Cornell University,   USA   </affiliation>::line_number::3
+<affiliation>  sd&m GmbH & Co. KG  </affiliation>::line_number::5
+<affiliation> Project ARCUS 1   </affiliation>::line_number::6
+<affiliation>  EA Generali   </affiliation>::line_number::13
+<affiliation>  Knowledge Systems Corp.   </affiliation>::line_number::3
+<affiliation>  U.S. Army Research Laboratory   </affiliation>::line_number::2
+<affiliation>  Department of Computer Science  </affiliation>::line_number::8
+<affiliation> York University   </affiliation>::line_number::9
+<affiliation>  MIT Laboratory for Computer Science   </affiliation>::line_number::2
+<affiliation>  MIT Laboratory for Computer Science   </affiliation>::line_number::3
+<affiliation>  MIT Lab for Computer Science  </affiliation>::line_number::2
+<affiliation> (RSA / Security Dynamics)   </affiliation>::line_number::3
+<affiliation>  IBM T.J. Watson Research Center   </affiliation>::line_number::3
+<affiliation>  Laboratory for Computer Science  </affiliation>::line_number::2
+<affiliation> Massachusetts Institute of Technology   </affiliation>::line_number::3
+<affiliation>  Department of Statistics  </affiliation>::line_number::2
+<affiliation> and  </affiliation>::line_number::3
+<affiliation> Division of Biostatistics  </affiliation>::line_number::4
+<affiliation> Stanford University   </affiliation>::line_number::5
+<affiliation>  Computer Science Department  </affiliation>::line_number::3
+<affiliation> University of Massachusetts   </affiliation>::line_number::4
+<affiliation>  Perceptual Computing Section, The Media Laboratory,  </affiliation>::line_number::5
+<affiliation> Massachusetts Institute of Technology   </affiliation>::line_number::6
+<affiliation>  Media Lab Computer Vision Lab  </affiliation>::line_number::2
+<affiliation> Massachusetts Institute of Technology University of Central Florida   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science, UCLA,   Los Angeles, CA 90024-1596   </affiliation>::line_number::3
+<affiliation>  y Department of Computer Science,   University of Virginia, Charlottesville, VA, 22903-2442   </affiliation>::line_number::4
+<affiliation>  z Department of Computer Science,   University of Washington, Seattle, WA 98195   </affiliation>::line_number::5
+<affiliation>  UCLA Computer Science Department,   Los Angeles, CA 90095-1596 USA   </affiliation>::line_number::2
+<affiliation>  UCLA Computer Science Department Silicon Graphics, Inc.   </affiliation>::line_number::2
+<affiliation>  UCLA Computer Science Dept.,   Los Angeles, CA 90095-1596   </affiliation>::line_number::3
+<affiliation>  UCSD Computer Science & Engineering Dept.,   La Jolla, CA 92093-0114   </affiliation>::line_number::4
+<affiliation>  U. C. Berkeley   </affiliation>::line_number::2
+<affiliation>  IBM Research Division   </affiliation>::line_number::7
+<affiliation>  U. C. Berkeley   </affiliation>::line_number::12
+<affiliation>  E & CE Dept, University of Waterloo,   Waterloo, Ontario, N2L 3G1, Canada.   </affiliation>::line_number::3
+<affiliation>  EECS Dept, University of California,   Berkeley, CA94720.   </affiliation>::line_number::5
+<affiliation>  Dept. of EECS, UC Berkeley,   Berkeley CA 94720   </affiliation>::line_number::4
+<affiliation>  Modelisation et Preuves de Circuits, TIMA Laboratory,   BP 53X, 38041 Grenoble Cedex FRANCE   </affiliation>::line_number::4
+<affiliation>  INSTITUT NATIONAL DE RECHERCHE EN INFORMATIQUE ET EN AUTOMATIQUE   </affiliation>::line_number::0
+<affiliation>  EECS Department, University of California at Berkeley,   CA 94720   </affiliation>::line_number::2
+<affiliation>   Department of Computer Science  </affiliation>::line_number::5
+<affiliation> University of Massachusetts   </affiliation>::line_number::6
+<affiliation>  IBM Almaden Research Center   </affiliation>::line_number::4
+<affiliation>  Computer Science Department, UC Santa Barbara,   </affiliation>::line_number::8
+<affiliation>  Computer Science Department, UM at Amherst,   </affiliation>::line_number::12
+<affiliation>  Computer Science Dept.  </affiliation>::line_number::4
+<affiliation> Stanford University   </affiliation>::line_number::5
+<affiliation>  Visiting Scholar  </affiliation>::line_number::11
+<affiliation> Computer Science Dept.  </affiliation>::line_number::12
+<affiliation> Stanford University   </affiliation>::line_number::13
+<affiliation>  Visiting Scholar  </affiliation>::line_number::17
+<affiliation> Computer Science Dept.  </affiliation>::line_number::18
+<affiliation> Stanford University   </affiliation>::line_number::19
+<affiliation>  Dunlap Consulting   </affiliation>::line_number::23
+<affiliation>  Martin Keane Inc.   </affiliation>::line_number::26
+<affiliation>  Computer Science Division  </affiliation>::line_number::31
+<affiliation> University of California   </affiliation>::line_number::32
+<affiliation>  Department of Computer Science  </affiliation>::line_number::4
+<affiliation> University of Illinois at Urbana-Champaign   </affiliation>::line_number::5
+<affiliation>  Encylopdia Britannica and  </affiliation>::line_number::2
+<affiliation> Institute for Neural Computation  </affiliation>::line_number::3
+<affiliation> Computer Science & Engineering  </affiliation>::line_number::4
+<affiliation> University of California, San Diego   </affiliation>::line_number::5
+<affiliation>  Institute for Neural Computation  </affiliation>::line_number::8
+<affiliation> Computer Science & Engineering  </affiliation>::line_number::9
+<affiliation> University of California, San Diego   </affiliation>::line_number::10
+<affiliation>  Institute for Neural Computation  </affiliation>::line_number::13
+<affiliation> Computer Science & Engineering  </affiliation>::line_number::14
+<affiliation> University of California, San Diego   </affiliation>::line_number::15
+<affiliation>  Experimental Knowledge Systems Laboratory  </affiliation>::line_number::3
+<affiliation> Computer Science Department, LGRC  </affiliation>::line_number::4
+<affiliation> University of Massachusetts   </affiliation>::line_number::5
+<affiliation>  Princeton University  </affiliation>::line_number::4
+<affiliation> Computer Science Department   </affiliation>::line_number::5
+<affiliation>  Computer Systems Laboratory  </affiliation>::line_number::3
+<affiliation> Stanford University   </affiliation>::line_number::4
+<affiliation>  Computer Science Department  </affiliation>::line_number::6
+<affiliation> Stanford University   </affiliation>::line_number::7
+<affiliation>   Princeton University   </affiliation>::line_number::1
+<affiliation>  Department of Computer Science, Princeton University   </affiliation>::line_number::2
+<affiliation>  University of Washington,   Seattle, WA   </affiliation>::line_number::3
+<affiliation>  Microsoft Research,   Redmond, WA   </affiliation>::line_number::4
+<affiliation>  University of Munich, Department of Computer Science   </affiliation>::line_number::2
+<affiliation>  IC-Parc, William Penny Laboratory, Imperial College,   London, SW7 2AZ.   </affiliation>::line_number::3
+<affiliation>  Department of Electrical Engineering and Computer Science  </affiliation>::line_number::3
+<affiliation>  Computer Vision and Image Processing Laboratory  </affiliation>::line_number::3
+<affiliation> School of Electrical Engineering  </affiliation>::line_number::4
+<affiliation> Purdue University   </affiliation>::line_number::5
+<affiliation>  Computer Science Division  </affiliation>::line_number::7
+<affiliation> Department of Electrical Engineering and Computer Science  </affiliation>::line_number::8
+<affiliation> University of California   </affiliation>::line_number::9
+<affiliation>  MIT Artificial Intelligence Laboratory   </affiliation>::line_number::2
+<affiliation>  OGI and Utrecht University   </affiliation>::line_number::2
+<affiliation>  Universitat Ulm   </affiliation>::line_number::5
+<affiliation>  OGI and Utrecht University   </affiliation>::line_number::8
+<affiliation>  Department of Computer Science, University of Illinois at Urbana-Champaign,   </affiliation>::line_number::3
+<affiliation>  U.C. Berkeley/MIT   </affiliation>::line_number::2
+<affiliation>  University of Minnesota   </affiliation>::line_number::4
+<affiliation>  Information Sciences Institute  </affiliation>::line_number::3
+<affiliation> University of Southern California   </affiliation>::line_number::4
+<affiliation>  Thinking Machines Corporation   </affiliation>::line_number::2
+<affiliation>  School of Electrical and Computer Engineering  </affiliation>::line_number::2
+<affiliation> Georgia Institute of Technology   </affiliation>::line_number::3
+<affiliation>  Philips Research Laboratories,   </affiliation>::line_number::3
+<affiliation>  Dept. of Elec. Eng. & Comp. Sci.  </affiliation>::line_number::3
+<affiliation> University of California, Berkeley   </affiliation>::line_number::4
+<affiliation>  Bell Laboratories   </affiliation>::line_number::7
+<affiliation>  Adaptive Systems Group  </affiliation>::line_number::4
+<affiliation> Harlequin, Inc.   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::9
+<affiliation> University of Colorado   </affiliation>::line_number::10
+<affiliation>  Tel Aviv University   </affiliation>::line_number::3
+<affiliation>  Massachusetts Institute of Technology   </affiliation>::line_number::5
+<affiliation>  - Minerva Center for Geometry at Tel Aviv University.   </affiliation>::line_number::22
+<affiliation>  Department of Computer Science, Tel Aviv University,   Tel Aviv 69978, Israel.   E-mail:  </affiliation>::line_number::23
+<affiliation> halperin@math.tau.ac.il.   </affiliation>::line_number::24
+<affiliation>  Department of Computer Science, MIT,   Cambridge, MA 02139.   E-mail: cshelton@ai.mit.edu.   Part of the  </affiliation>::line_number::25
+<affiliation> work on this paper was carried out while Christian Shelton was at the Department of Computer Science, Stanford  </affiliation>::line_number::26
+<affiliation> University   </affiliation>::line_number::27
+<affiliation>  Massachusetts Institute of Technology, Cambridge Massachusetts   </affiliation>::line_number::2
+<affiliation>  MASSACHUSETTS INSTITUTE OF TECHNOLOGY  </affiliation>::line_number::0
+<affiliation> ARTIFICIAL INTELLIGENCE LABORATORY   </affiliation>::line_number::1
+<affiliation>  Departments of Applied Mathematics and Computer Science and Neurobiology   </affiliation>::line_number::3
+<affiliation>  The Weizmann Institute of Science   </affiliation>::line_number::4
+<affiliation>  Computer Science Department  </affiliation>::line_number::2
+<affiliation> University of Maryland   </affiliation>::line_number::3
+<affiliation>  Institute for Advanced Computer Studies,  </affiliation>::line_number::7
+<affiliation> Computer Science Department,  </affiliation>::line_number::8
+<affiliation> and Institute for Systems Research  </affiliation>::line_number::9
+<affiliation> University of Maryland   </affiliation>::line_number::10
+<affiliation>  Artificial Intelligence Center  </affiliation>::line_number::3
+<affiliation> SRI International   </affiliation>::line_number::4
+<affiliation>  Computer Science Department  </affiliation>::line_number::4
+<affiliation>  Navy Center for Applied Research in AI  </affiliation>::line_number::3
+<affiliation>  Navy Center for Applied Research in Artificial Intelligence  </affiliation>::line_number::2
+<affiliation> Naval Research Laboratory   </affiliation>::line_number::3
+<affiliation>  Marine Meteorology Division  </affiliation>::line_number::7
+<affiliation> Naval Research Laboratory   </affiliation>::line_number::8
+<affiliation>  Computer Science Division,   571 Evans Hall   </affiliation>::line_number::2
+<affiliation>  UC Berkeley,   Berkeley CA, 94720   </affiliation>::line_number::3
+<affiliation>  SRI International,   23 Millers Yard, Cambridge, CB2 1RQ, UK   </affiliation>::line_number::4
+<affiliation>  Speech Research Unit, DRA Malvern,   St Andrews Road, Malvern, Worcs, WR14 3PS, UK   </affiliation>::line_number::5
+<affiliation>  (1) SRI International,   Suite 23, Millers Yard, Cambridge CB2 1RQ, UK   </affiliation>::line_number::4
+<affiliation>  (2) SRI International,   333 Ravenswood Ave., Menlo Park, CA 94025, USA   </affiliation>::line_number::5
+<affiliation>  College of Computing  </affiliation>::line_number::4
+<affiliation> Georgia Institute of Technology   </affiliation>::line_number::5
+<affiliation>  College of Computing  </affiliation>::line_number::2
+<affiliation> Georgia Institute of Technology   </affiliation>::line_number::3
+<affiliation>  College of Computer Science  </affiliation>::line_number::4
+<affiliation> Northeastern University   </affiliation>::line_number::5
+<affiliation>  Medical Research Council  </affiliation>::line_number::3
+<affiliation> Biostatistics Unit   </affiliation>::line_number::4
+<affiliation>  Statistical Laboratory  </affiliation>::line_number::7
+<affiliation> University of Cambridge   </affiliation>::line_number::8
+<affiliation>  School of Mathematics  </affiliation>::line_number::11
+<affiliation> University of Wales, Cardiff   </affiliation>::line_number::12
+<affiliation>  The Ohio State University   </affiliation>::line_number::4
+<affiliation>  1 Department of Otolaryngology, The Ohio State University Hospitals,   Columbus, OH   </affiliation>::line_number::4
+<affiliation>  2 The Ohio Supercomputer Center,   Columbus, OH   </affiliation>::line_number::5
+<affiliation>  3 Department of Computer and Information Science, The Ohio State University,   Columbus, OH   </affiliation>::line_number::6
+<affiliation>  4 Department of Radiology, The Ohio State University Hospitals,   Columbus, OH   </affiliation>::line_number::7
+<affiliation>  5 Immersion Corporation,   San Jose, CA   </affiliation>::line_number::8
+<affiliation>  Computer and Information Science  </affiliation>::line_number::2
+<affiliation> The Ohio State University   </affiliation>::line_number::3
+<affiliation>  CIS Dept. and Dept. of Statistics  </affiliation>::line_number::2
+<affiliation> University of Pennsylvania   </affiliation>::line_number::3
+<affiliation>  University of Pennsylvania   </affiliation>::line_number::3
+<affiliation>  Human-Computer Interaction Lab  </affiliation>::line_number::5
+<affiliation> Naval Research Laboratory   </affiliation>::line_number::6
+<affiliation>  Institute for Information Processing and Computer Supported New Media (IICM)  </affiliation>::line_number::4
+<affiliation> Graz University of Technology,   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::7
+<affiliation> Columbia University   </affiliation>::line_number::8
+<affiliation>  Glasgow University   </affiliation>::line_number::3
+<affiliation>  Cognitive and Computing Sciences  </affiliation>::line_number::2
+<affiliation> University of Sussex   </affiliation>::line_number::3
+<affiliation>  School of Mathematical Sciences,  </affiliation>::line_number::3
+<affiliation>  Brock University  </affiliation>::line_number::2
+<affiliation> Department of Computer Science   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::4
+<affiliation> The University of Arizona   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::9
+<affiliation> The University of British Columbia   </affiliation>::line_number::10
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Arizona   </affiliation>::line_number::4
+<affiliation>  Software Devices and Systems Group  </affiliation>::line_number::2
+<affiliation> Laboratory for Computer Science  </affiliation>::line_number::3
+<affiliation> Massachusetts Institute of Technology   </affiliation>::line_number::4
+<affiliation>  Computer Science Division (EECS)  </affiliation>::line_number::5
+<affiliation> University of California   </affiliation>::line_number::6
+<affiliation>  Myricom, Inc.   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::6
+<affiliation> University of Arizona   </affiliation>::line_number::7
+<affiliation>  Sun Microsystems, Inc.   </affiliation>::line_number::4
+<affiliation>  Computer Science Division  </affiliation>::line_number::3
+<affiliation> University of California, Berkeley   </affiliation>::line_number::4
+<affiliation>  Artificial Intelligence Laboratory, and  </affiliation>::line_number::3
+<affiliation> Center for Biological and Computational Learning  </affiliation>::line_number::4
+<affiliation> Massachusetts Institute of Technology   </affiliation>::line_number::5
+<affiliation>  Computer Science Division, University of California at Berkeley   </affiliation>::line_number::8
+<affiliation>  UNIVERSITY of CALIFORNIA, BERKELEY   </affiliation>::line_number::14
+<affiliation>  University of Wisconsin, Department of Computer Sciences   </affiliation>::line_number::2
+<affiliation>  Computer Science Division  </affiliation>::line_number::3
+<affiliation> University of California   </affiliation>::line_number::4
+<affiliation>  University of California, Berkeley   </affiliation>::line_number::3
+<affiliation>  Computer Science Department  </affiliation>::line_number::2
+<affiliation> Stanford University   </affiliation>::line_number::3
+<affiliation>  IBM Research Division  </affiliation>::line_number::8
+<affiliation>  Dept. of Computer Science  </affiliation>::line_number::2
+<affiliation> Stanford University   </affiliation>::line_number::3
+<affiliation>  IBM Almaden Research Center   </affiliation>::line_number::9
+<affiliation>  Dept. of Computer Science  </affiliation>::line_number::14
+<affiliation> Stanford University   </affiliation>::line_number::15
+<affiliation>  University of California, Berkeley   </affiliation>::line_number::2
+<affiliation>  Department of Computer Science and Engineering  </affiliation>::line_number::2
+<affiliation> University of Washington,  Seattle   </affiliation>::line_number::3
+<affiliation>  Digital Equipment Corporation  </affiliation>::line_number::5
+<affiliation> Systems Research Center   </affiliation>::line_number::6
+<affiliation>  Computer Science Division  </affiliation>::line_number::8
+<affiliation> University of California, Berkeley   </affiliation>::line_number::9
+<affiliation>  Computer Science Division  </affiliation>::line_number::2
+<affiliation> University of California, Berkeley   </affiliation>::line_number::3
+<affiliation>  Computer Science Division  </affiliation>::line_number::6
+<affiliation> University of California, Berkeley   </affiliation>::line_number::7
+<affiliation>  Computer Science Division  </affiliation>::line_number::10
+<affiliation> University of California, Berkeley   </affiliation>::line_number::11
+<affiliation>  Computer Science Division  </affiliation>::line_number::14
+<affiliation> University of California, Berkeley   </affiliation>::line_number::15
+<affiliation>  Computer Science Division  </affiliation>::line_number::18
+<affiliation> University of California, Berkeley   </affiliation>::line_number::19
+<affiliation>  Department of Electrical Engineering and Computer Science  </affiliation>::line_number::4
+<affiliation> University of California, Berkeley   </affiliation>::line_number::5
+<affiliation>  Computer Science Division  </affiliation>::line_number::4
+<affiliation> University of California, Berkeley   </affiliation>::line_number::5
+<affiliation>  Computer Science Division  </affiliation>::line_number::3
+<affiliation> University of California, Berkeley   </affiliation>::line_number::4
+<affiliation>  Department of Statistics  </affiliation>::line_number::2
+<affiliation> University of California   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::6
+<affiliation> University of California   </affiliation>::line_number::7
+<affiliation>  Research Lab for Linguistics and Computation,  </affiliation>::line_number::3
+<affiliation> Computer Science Department,  </affiliation>::line_number::4
+<affiliation> Volen Center for Complex Systems,  </affiliation>::line_number::5
+<affiliation> Brandeis University,   </affiliation>::line_number::6
+<affiliation>  D. I. F. A.  </affiliation>::line_number::7
+<affiliation> Univ. della Basilicata   </affiliation>::line_number::8
+<affiliation>  Dept. of Computer Science  </affiliation>::line_number::15
+<affiliation> Brown University   </affiliation>::line_number::16
+<affiliation>  Dip. Informatica e Sistemistica  </affiliation>::line_number::23
+<affiliation> Univ. di Roma "La Sapienza"   </affiliation>::line_number::24
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> Brown University   </affiliation>::line_number::3
+<affiliation>  Brown University Brown University   </affiliation>::line_number::4
+<affiliation>  Siena College Brown University   </affiliation>::line_number::6
+<affiliation>  Department of Computer Science   </affiliation>::line_number::2
+<affiliation>  Department of Computer Science, Brown University,   Providence, RI 02912   </affiliation>::line_number::4
+<affiliation>  Computer Science Department,   Box 1910   </affiliation>::line_number::3
+<affiliation>  Brown University,   Providence, RI 02912   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::7
+<affiliation> University of British Columbia   </affiliation>::line_number::8
+<affiliation>  Boston University  </affiliation>::line_number::8
+<affiliation> Computer Science Department   </affiliation>::line_number::9
+<affiliation>  Dept. of Computer Science  </affiliation>::line_number::4
+<affiliation> Boston University   </affiliation>::line_number::5
+<affiliation>  Computer Science Department  </affiliation>::line_number::7
+<affiliation> Boston University   </affiliation>::line_number::8
+<affiliation>  Program of Computer Graphics  </affiliation>::line_number::2
+<affiliation> Cornell University   </affiliation>::line_number::3
+<affiliation>  Fraunhofer-Institute for Computer Graphics,   </affiliation>::line_number::2
+<affiliation>  The Robotics Institute  </affiliation>::line_number::2
+<affiliation> School of Computer Science  </affiliation>::line_number::3
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::4
+<affiliation>  Department of Mathematics and Computer Science, Bar-Ilan University,   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science, Cornell University,   </affiliation>::line_number::7
+<affiliation>  Computer Sciences Department,  </affiliation>::line_number::4
+<affiliation>  Real-Time and Multimedia Laboratory  </affiliation>::line_number::3
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::4
+<affiliation>  Computer Science Department, Carnegie Mellon University   </affiliation>::line_number::4
+<affiliation>  Centre for Learning Systems and Applications (LSA)  </affiliation>::line_number::5
+<affiliation>  Robotics Institute, Carnegie Mellon University   </affiliation>::line_number::2
+<affiliation>  1 Federal Aviation Administration, Technical Center,   Atlantic City NJ 08201   </affiliation>::line_number::6
+<affiliation>  2 Carnegie Mellon University, Robotics Institute,   Pittsburgh PA 15213   </affiliation>::line_number::7
+<affiliation>  3 Carnegie Mellon University, CMRI,   Pittsburgh PA 15213   </affiliation>::line_number::8
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::4
+<affiliation>  IBM Thomas J. Watson Research Center   </affiliation>::line_number::3
+<affiliation>  1 Department of Computer Science, Carnegie Mellon University   </affiliation>::line_number::5
+<affiliation>  2 Computer Science Department, Harvey Mudd College   </affiliation>::line_number::8
+<affiliation>  School of Computer Science  </affiliation>::line_number::4
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::5
+<affiliation>  Justsystem Pittsburgh Research Center &  </affiliation>::line_number::2
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::3
+<affiliation>  School of Computer Science  </affiliation>::line_number::6
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::7
+<affiliation>  Computer Science Department, Carnegie Mellon University,   Pittsburgh PA 15213-3891   </affiliation>::line_number::7
+<affiliation>  School of Computer Science  </affiliation>::line_number::5
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::6
+<affiliation>   Computer Science Dept., Carnegie Mellon University,    Pittsburgh PA 15213-3891, USA.   http://www.cs.cmu.edu/ph,   herf+@cmu.edu,  </affiliation>::line_number::7
+<affiliation> ph@cs.cmu.edu.   </affiliation>::line_number::8
+<affiliation>  School of Computer Science  </affiliation>::line_number::6
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::7
+<affiliation>  School of Computer Science  </affiliation>::line_number::5
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::6
+<affiliation>  The Robotics Institute. Carnegie Mellon University   </affiliation>::line_number::2
+<affiliation>  School of Computer Science  </affiliation>::line_number::2
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::3
+<affiliation>  *Carnegie Mellon University, **University of Pittsburgh   </affiliation>::line_number::4
+<affiliation>  School of Computer Science, Carnegie Mellon University,   Pittsburgh, PA 15213   </affiliation>::line_number::6
+<affiliation>  The Robotics Institute, Carnegie Mellon University,   5000 Forbes Avenue, Pittsburgh, PA 15213, USA   </affiliation>::line_number::4
+<affiliation>  Department of Architecture   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science   </affiliation>::line_number::6
+<affiliation>  Robotics Institute  </affiliation>::line_number::8
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::9
+<affiliation>  School of Computer Science  </affiliation>::line_number::3
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::4
+<affiliation>  Intelligent Coordination and Logistics Laboratory  </affiliation>::line_number::4
+<affiliation> Center for Integrated Manufacturing Decision Systems  </affiliation>::line_number::5
+<affiliation> The Robotics Institute  </affiliation>::line_number::6
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::7
+<affiliation>  Software Engineering Laboratory  </affiliation>::line_number::11
+<affiliation> Raytheon Electronic Systems  </affiliation>::line_number::12
+<affiliation> Raytheon Company   </affiliation>::line_number::13
+<affiliation>  Computer Science Department &  </affiliation>::line_number::2
+<affiliation> Center for the Neural Basis of Cognition  </affiliation>::line_number::3
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::4
+<affiliation>  Robotics Institute &  </affiliation>::line_number::8
+<affiliation> Center for the Neural Basis of Cognition  </affiliation>::line_number::9
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::10
+<affiliation>  Carnegie Mellon University   </affiliation>::line_number::8
+<affiliation>  Carnegie Mellon University   </affiliation>::line_number::16
+<affiliation>  Just Research   </affiliation>::line_number::9
+<affiliation>  School of Computer Science  </affiliation>::line_number::12
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::13
+<affiliation>  MIT AI Lab   </affiliation>::line_number::15
+<affiliation>  Carnegie Mellon University   </affiliation>::line_number::2
+<affiliation>  Carnegie Mellon University, School of Computer Science   </affiliation>::line_number::2
+<affiliation>  Computer Systems Department of Department of Electrical Division of  </affiliation>::line_number::3
+<affiliation> Laboratory Electrical Engineering and Computer Engineering Applied Sciences  </affiliation>::line_number::4
+<affiliation> Stanford University Princeton University University of Toronto Harvard University   </affiliation>::line_number::5
+<affiliation>  School of Computer Science  </affiliation>::line_number::3
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::4
+<affiliation>  Computer Sciences Department  </affiliation>::line_number::8
+<affiliation> University of Wisconsin-Madison   </affiliation>::line_number::9
+<affiliation>  Department of Computer Science  </affiliation>::line_number::8
+<affiliation> Rice University   </affiliation>::line_number::9
+<affiliation>  Project LISTEN,   215 Cyert Hall,   Carnegie Mellon University Robotics Institute   </affiliation>::line_number::2
+<affiliation>  School of Computer Science  </affiliation>::line_number::5
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::6
+<affiliation>  Computer Science Division  </affiliation>::line_number::3
+<affiliation> University of California-Berkeley   </affiliation>::line_number::4
+<affiliation>  School of Computer Science  </affiliation>::line_number::2
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Illinois   </affiliation>::line_number::4
+<affiliation>  Gesellschaft fur Mathematik und Datenverarbeitung mbH   </affiliation>::line_number::3
+<affiliation>  Dept. of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Colorado   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science &  </affiliation>::line_number::3
+<affiliation> Institute of Cognitive Science  </affiliation>::line_number::4
+<affiliation> University of Colorado   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Colorado   </affiliation>::line_number::3
+<affiliation>  Unidata Inc.   </affiliation>::line_number::8
+<affiliation>  Johann Wolfgang Goethe-Universitat Frankfurt  </affiliation>::line_number::3
+<affiliation> Fachbereich Informatik (20)  </affiliation>::line_number::4
+<affiliation> Datenbanken und Informationssysteme (DBIS)   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Massachusetts   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> Colorado State University   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> Colorado State University   </affiliation>::line_number::3
+<affiliation>  Computer Science Department  </affiliation>::line_number::2
+<affiliation> Columbia University   </affiliation>::line_number::3
+<affiliation>  Bell Laboratories and Columbia U.   </affiliation>::line_number::2
+<affiliation>  Department of Computer Science, Columbia University,   New York, NY 10027   </affiliation>::line_number::4
+<affiliation>  Computer Science Department  </affiliation>::line_number::3
+<affiliation> Columbia University   </affiliation>::line_number::4
+<affiliation>  Computer Science  </affiliation>::line_number::3
+<affiliation> Florida Institute of Technology   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::9
+<affiliation> Columbia University   </affiliation>::line_number::10
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> Cornell University   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science, Cornell University,   Ithaca NY 14853, USA   </affiliation>::line_number::4
+<affiliation>  Cornell University   </affiliation>::line_number::2
+<affiliation>  Cornell University   </affiliation>::line_number::5
+<affiliation>  Department of Mathematics Department of Computer Science  </affiliation>::line_number::3
+<affiliation>  Middlebury College Cornell University   </affiliation>::line_number::5
+<affiliation>  Computer Science Department  </affiliation>::line_number::2
+<affiliation> Stanford University   </affiliation>::line_number::3
+<affiliation>  NEC Research Institute   </affiliation>::line_number::7
+<affiliation>  Laboratory for Computer Science  </affiliation>::line_number::11
+<affiliation> MIT   </affiliation>::line_number::12
+<affiliation>  Laboratory for Computer Science  </affiliation>::line_number::16
+<affiliation> MIT   </affiliation>::line_number::17
+<affiliation>  Department of Computer Science  </affiliation>::line_number::21
+<affiliation> Dartmouth College   </affiliation>::line_number::22
+<affiliation>  Dartmouth College  </affiliation>::line_number::6
+<affiliation> Department of Computer Science   </affiliation>::line_number::7
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> Dartmouth College   </affiliation>::line_number::3
+<affiliation>  Laboratory for Computer Science  </affiliation>::line_number::4
+<affiliation> Massachusetts Institute of Technology   </affiliation>::line_number::5
+<affiliation>  Computer Science   </affiliation>::line_number::8
+<affiliation>  DARTMOUTH COLLEGE   </affiliation>::line_number::11
+<affiliation>  Computer Science Department  </affiliation>::line_number::3
+<affiliation> Stanford University   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> Stanford University   </affiliation>::line_number::4
+<affiliation>  Sony Semiconductor of America   </affiliation>::line_number::2
+<affiliation>  C-Cube Microsystems   </affiliation>::line_number::7
+<affiliation>  Duke University   </affiliation>::line_number::12
+<affiliation>  Dept. of Computer Science Database Technology Institute Dept. of Computer Science  </affiliation>::line_number::3
+<affiliation> Duke University IBM Santa Teresa Lab Duke University   </affiliation>::line_number::4
+<affiliation>  Research Group on Artificial Intelligence  </affiliation>::line_number::3
+<affiliation> "Jozsef Attila" University   </affiliation>::line_number::4
+<affiliation>  Szeged 6720, Aradi vrt tere 1.  </affiliation>::line_number::5
+<affiliation> Hungary   </affiliation>::line_number::6
+<affiliation>  Department of Computer Science  </affiliation>::line_number::9
+<affiliation> Duke University   </affiliation>::line_number::10
+<affiliation>  Durham, NC 27708-0129   </affiliation>::line_number::11
+<affiliation>  College of Computing  </affiliation>::line_number::4
+<affiliation> Georgia Institute of Technology   </affiliation>::line_number::5
+<affiliation>  School of Electrical College of Computing  </affiliation>::line_number::2
+<affiliation> and Computer Engineering  </affiliation>::line_number::3
+<affiliation> Georgia Institute of Technology   </affiliation>::line_number::4
+<affiliation>  College of Computing  </affiliation>::line_number::2
+<affiliation> Georgia Institute of Technology   </affiliation>::line_number::3
+<affiliation>  University of Helsinki  </affiliation>::line_number::5
+<affiliation> Finland   </affiliation>::line_number::6
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Helsinki   </affiliation>::line_number::3
+<affiliation>  University of Helsinki   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science,   P.O. Box 26 (Teollisuuskatu 23),   </affiliation>::line_number::2
+<affiliation>  Institute of Computer Science, The Hebrew University,   Jerusalem 91904, Israel   </affiliation>::line_number::5
+<affiliation>  University of California at Berkeley  </affiliation>::line_number::2
+<affiliation> San Diego Supercomputer Center   </affiliation>::line_number::3
+<affiliation>  Iowa State University of Science and Technology  </affiliation>::line_number::5
+<affiliation> Department of Computer Science   </affiliation>::line_number::6
+<affiliation>  Iowa State University of Science and Technology  </affiliation>::line_number::6
+<affiliation> Department of Computer Science   </affiliation>::line_number::7
+<affiliation>  Computer Sciences Department  </affiliation>::line_number::3
+<affiliation> University of Wisconsin-Madison   </affiliation>::line_number::4
+<affiliation>  Artificial Intelligence Research Group  </affiliation>::line_number::3
+<affiliation> Department of Computer Science   </affiliation>::line_number::4
+<affiliation>  Iowa State University   </affiliation>::line_number::6
+<affiliation> in the   Department of Computer Science,  </affiliation>::line_number::7
+<affiliation> Indiana University   </affiliation>::line_number::8
+<affiliation>  Indiana University Computer Science Department   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science, Indiana University   </affiliation>::line_number::4
+<affiliation>  Departments of Philosophy, Mathematics, and Computer Science  </affiliation>::line_number::6
+<affiliation> Indiana University   </affiliation>::line_number::7
+<affiliation>  Visual Inference Laboratory  </affiliation>::line_number::9
+<affiliation> Indiana University  </affiliation>::line_number::10
+<affiliation> Indiana University Logic Group   </affiliation>::line_number::11
+<affiliation>  Computer Science Department   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Illinois   </affiliation>::line_number::4
+<affiliation>  Computer Vision Laboratory  </affiliation>::line_number::3
+<affiliation> Department of Computer Science  </affiliation>::line_number::4
+<affiliation> The Johns Hopkins University   </affiliation>::line_number::5
+<affiliation>  IBM Almaden Research Center   </affiliation>::line_number::5
+<affiliation>  MIT Laboratory for Computer Science   </affiliation>::line_number::9
+<affiliation>  Computer Sciences Department  </affiliation>::line_number::4
+<affiliation> University of Wisconsin   </affiliation>::line_number::5
+<affiliation>  Dept. of Linguistics/UMIACS  </affiliation>::line_number::3
+<affiliation> University of Maryland   </affiliation>::line_number::4
+<affiliation>  Dept. of Computer Science/CLSP  </affiliation>::line_number::8
+<affiliation> Johns Hopkins University   </affiliation>::line_number::9
+<affiliation>  Department of Computer Science, Katholieke Universiteit Leuven   </affiliation>::line_number::4
+<affiliation>  1 Section for Medical Image Analysis and Informatics, Department of Physiology   </affiliation>::line_number::2
+<affiliation>  University of Bergen,   Arstadveien 19, N-5009 Bergen, Norway   </affiliation>::line_number::3
+<affiliation>  2 Department of Computer Science and Engineering, Michigan State University   </affiliation>::line_number::4
+<affiliation>  Department of Electrical Engineering  </affiliation>::line_number::2
+<affiliation> Department of Computer Science  </affiliation>::line_number::3
+<affiliation> Michigan State University   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::4
+<affiliation> The University of Melbourne   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> The University of Melbourne   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> Courant Institute of Mathematical Sciences  </affiliation>::line_number::4
+<affiliation> New York University   </affiliation>::line_number::5
+<affiliation>  AT&T Bell Laboratories   </affiliation>::line_number::2
+<affiliation>  Computer Science Department  </affiliation>::line_number::2
+<affiliation> Oregon State University   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Pittsburgh   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Pittsburgh   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::7
+<affiliation> and Intelligent Systems Program  </affiliation>::line_number::8
+<affiliation> University of Pittsburgh   </affiliation>::line_number::9
+<affiliation>  Intel Supercomputer Systems Division Computer Systems Laboratory   </affiliation>::line_number::3
+<affiliation>  * Computer Systems Laboratory Intel Supercomputer Systems  </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> Princeton University   </affiliation>::line_number::4
+<affiliation>  AT&T Bell Laboratories   </affiliation>::line_number::3
+<affiliation>  Computer Science   </affiliation>::line_number::10
+<affiliation>  UNIVERSITY of CALIFORNIA at BERKELEY   </affiliation>::line_number::14
+<affiliation>  Dept. of Computer Science, Princeton University   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::6
+<affiliation> Princeton University   </affiliation>::line_number::7
+<affiliation>  Department of Mathematics & Computer Science  </affiliation>::line_number::3
+<affiliation> San Jose State University   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::9
+<affiliation> University of Dortmund  </affiliation>::line_number::10
+<affiliation> Systems Analysis Research Group, LSXI   </affiliation>::line_number::11
+<affiliation>  Department of Artificial Intelligence  </affiliation>::line_number::5
+<affiliation> University of Edinburgh   </affiliation>::line_number::6
+<affiliation>  Department of Computer Sciences  </affiliation>::line_number::3
+<affiliation> Purdue University   </affiliation>::line_number::4
+<affiliation>  Department of Computer Sciences  </affiliation>::line_number::3
+<affiliation> Purdue University   </affiliation>::line_number::4
+<affiliation>  Purdue University   </affiliation>::line_number::3
+<affiliation>  University of Crete   </affiliation>::line_number::6
+<affiliation>  University of Helsinki,   Finland   </affiliation>::line_number::2
+<affiliation>  Purdue University,   U.S.A.   </affiliation>::line_number::4
+<affiliation>  The COAST Project  </affiliation>::line_number::3
+<affiliation> Department of Computer Sciences  </affiliation>::line_number::4
+<affiliation> Purdue University   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of California   </affiliation>::line_number::3
+<affiliation>  Purdue University, Department of Computer Science,   </affiliation>::line_number::24
+<affiliation>  Institute of Mathematical Modelling, Technical University of Denmark,   </affiliation>::line_number::27
+<affiliation>  National Environmental Research Institute,   Frederiksborgvej 399, DK-4000 Roskilde, Denmark   </affiliation>::line_number::30
+<affiliation>  Computer Laboratory  </affiliation>::line_number::3
+<affiliation> University of Cambridge   </affiliation>::line_number::4
+<affiliation>  Rice University   </affiliation>::line_number::3
+<affiliation>  University of Rochester   </affiliation>::line_number::6
+<affiliation>  Department of Computer Science, University of Copenhagen (DIKU)   </affiliation>::line_number::7
+<affiliation>  Jet Propulsion Laboratory,   125-233  </affiliation>::line_number::3
+<affiliation> 4800 Oak Grove Drive  </affiliation>::line_number::4
+<affiliation> Pasadena, CA 91109   </affiliation>::line_number::5
+<affiliation>  Department of Electrical and Computer Engineering  </affiliation>::line_number::7
+<affiliation> Rice University   </affiliation>::line_number::8
+<affiliation>  Coherent Systems, Inc.   </affiliation>::line_number::11
+<affiliation>  RICE UNIVERSITY   </affiliation>::line_number::0
+<affiliation>  Computer Science Department, University of Rochester,   Rochester NY 14627   </affiliation>::line_number::2
+<affiliation> Faculty of   Rensselaer Polytechnic Institute   </affiliation>::line_number::5
+<affiliation>  Rensselaer Polytechnic Institute   </affiliation>::line_number::12
+<affiliation>  Scientific Computation Research Center  </affiliation>::line_number::3
+<affiliation> Rensselaer Polytechnic Institute   </affiliation>::line_number::4
+<affiliation>  Rutgers, the State University of New Jersey   </affiliation>::line_number::4
+<affiliation>  Postdoctoral Research Associate, Dept. of Mechanical and Aerospace Engineering. AIAA Member.  </affiliation>::line_number::22
+<affiliation> Assistant Professor, Computer Science Dept. AIAA Member.  </affiliation>::line_number::23
+<affiliation> Graduate Student, Computer Science Dept.  </affiliation>::line_number::24
+<affiliation> Assistant Professor, Computer Science Dept.  </affiliation>::line_number::25
+<affiliation> Professor, Dept. of Mechanical and Aerospace Engineering. AIAA Associate Fellow.   </affiliation>::line_number::26
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> Rutgers, The State University of New Jersey   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> Rutgers University   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science, Hill Center for Mathematical Sciences  </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::4
+<affiliation> Rutgers University   </affiliation>::line_number::5
+<affiliation>  Department of Computer Science  </affiliation>::line_number::5
+<affiliation> Rutgers University   </affiliation>::line_number::6
+<affiliation>  Center for Machine Intelligence   </affiliation>::line_number::2
+<affiliation>  Department of Computer Science, University of Toronto   </affiliation>::line_number::2
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Toronto   </affiliation>::line_number::3
+<affiliation>  Siemens Corporate Research   </affiliation>::line_number::7
+<affiliation>  Department of Computer Science, University of Toronto   </affiliation>::line_number::3
+<affiliation>  Siemens Corporate Research   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::7
+<affiliation> University of Toronto   </affiliation>::line_number::8
+<affiliation>  Department of Computer Science, University of Toronto,   </affiliation>::line_number::2
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> Wichita State University   </affiliation>::line_number::3
+<affiliation>  Siemens Corporate Research   </affiliation>::line_number::2
+<affiliation>  Department of Computer Science  </affiliation>::line_number::6
+<affiliation> Rutgers University   </affiliation>::line_number::7
+<affiliation>  1 Computer Science Department, University of California,   Davis, CA 95616    2 Department of Computer Sciences, The University of Texas,   Austin, TX 78712   </affiliation>::line_number::4
+<affiliation>  Department of Mathematics  </affiliation>::line_number::9
+<affiliation> University of Manchester   </affiliation>::line_number::10
+<affiliation>  Computer Science Department  </affiliation>::line_number::3
+<affiliation> University of California at Los Angeles   </affiliation>::line_number::4
+<affiliation>  Dip: Elettr: Informatica Sist: Computer Science Dept:  </affiliation>::line_number::3
+<affiliation> Universita della Calabria Univ: of California at Los Angeles   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of California   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of California,   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of California   </affiliation>::line_number::4
+<affiliation>  Computer Systems Laboratory  </affiliation>::line_number::3
+<affiliation>  DEPARTMENT OF COMPUTER SCIENCE  </affiliation>::line_number::3
+<affiliation> UNIVERSITY OF CALIFORNIA, SANTA BARBARA   </affiliation>::line_number::4
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of California   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of California, Santa Barbara   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of California   </affiliation>::line_number::4
+<affiliation>  UNIVERSITY of CALIFORNIA  </affiliation>::line_number::0
+<affiliation> Santa Barbara   </affiliation>::line_number::1
+<affiliation>  University of Bucharest, Faculty of Mathematics,  </affiliation>::line_number::2
+<affiliation> Department of Computer Science   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science & Engineering,   Mail Code 0114,   University of California at San Diego,   9500  </affiliation>::line_number::9
+<affiliation>  MIT Laboratory for Computer Science,   545 Technology Square, Cambridge, MA 02139.   Supported in part by  </affiliation>::line_number::12
+<affiliation> NSF grant DCR-84-13577 and ARO grant DAALO3-86-K-0171.   </affiliation>::line_number::13
+<affiliation>  Computer Science and Engineering  </affiliation>::line_number::2
+<affiliation> University of Washington   </affiliation>::line_number::3
+<affiliation>  Computer Science Dept.  </affiliation>::line_number::6
+<affiliation> University of Toronto   </affiliation>::line_number::7
+<affiliation>  I.C.S.I.   </affiliation>::line_number::10
+<affiliation>  Computer Science and Engineering  </affiliation>::line_number::14
+<affiliation> UC, San Diego   </affiliation>::line_number::15
+<affiliation>  Mathematics and Computer Science  </affiliation>::line_number::20
+<affiliation> University of Pittsburgh   </affiliation>::line_number::21
+<affiliation>  Department of Computer Science and Engineering  </affiliation>::line_number::4
+<affiliation> University of California, San Diego   </affiliation>::line_number::5
+<affiliation>  Computer Science Department  </affiliation>::line_number::3
+<affiliation> University of Georgia   </affiliation>::line_number::4
+<affiliation>  Department of Mathematics  </affiliation>::line_number::7
+<affiliation> University of Melbourne   </affiliation>::line_number::8
+<affiliation>  Dept. of Comp. Sci.  </affiliation>::line_number::2
+<affiliation> Univ. of Mass.   </affiliation>::line_number::3
+<affiliation>  Dept. of Comp. Sci.  </affiliation>::line_number::6
+<affiliation> Univ. of Mass.   </affiliation>::line_number::7
+<affiliation>  Dept. of Comp. Sci.  </affiliation>::line_number::10
+<affiliation> Univ. of Mass.   </affiliation>::line_number::11
+<affiliation>  Dept. of Comp. Sci.  </affiliation>::line_number::14
+<affiliation> Univ. of Mass.   </affiliation>::line_number::15
+<affiliation>  Dept. of Comp. Sci.  </affiliation>::line_number::18
+<affiliation> Univ. of Mass.   </affiliation>::line_number::19
+<affiliation>  Sch. of Elec. and Comp. Eng.  </affiliation>::line_number::22
+<affiliation> Purdue University   </affiliation>::line_number::23
+<affiliation>  Sch. of Elec. and Comp. Eng.  </affiliation>::line_number::26
+<affiliation> Purdue University   </affiliation>::line_number::27
+<affiliation>  University of Massachusetts   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Massachusetts   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::7
+<affiliation> University of Massachusetts   </affiliation>::line_number::8
+<affiliation>  Department of Computer Science  </affiliation>::line_number::12
+<affiliation> University of Colorado   </affiliation>::line_number::13
+<affiliation>  Institut Eurecom   </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Maryland   </affiliation>::line_number::4
+<affiliation>  Bourns College of Engineering  </affiliation>::line_number::8
+<affiliation> University of California   </affiliation>::line_number::9
+<affiliation>  Department of Computer Science  </affiliation>::line_number::3
+<affiliation> University of Maryland   </affiliation>::line_number::4
+<affiliation>  Computer Science Department  </affiliation>::line_number::8
+<affiliation> Carnegie Mellon University   </affiliation>::line_number::9
+<affiliation>  Automated Reasoning Group  </affiliation>::line_number::3
+<affiliation> Honeywell Technology Center   </affiliation>::line_number::4
+<affiliation>  Automated Reasoning Group  </affiliation>::line_number::5
+<affiliation> Honeywell Technology Center   </affiliation>::line_number::6
+<affiliation>  Department of Computer Science  </affiliation>::line_number::2
+<affiliation> University of Maryland   </affiliation>::line_number::3

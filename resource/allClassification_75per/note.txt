@@ -1,0 +1,746 @@
+<note>  This work has been supported by research grants from the Office of Naval Research (contract  </note>::line_number::20
+<note> N00014-92-J-1234) and NSF, a CER grant from NSF (grant CCR-86-19886), and equipment  </note>::line_number::21
+<note> donated by IBM, NCR, and Symbolics.   </note>::line_number::22
+<note>  IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS, VOL. XX, NO. Y, MONTH 1999 1   </note>::line_number::0
+<note>  A short version of this report will appear in  </note>::line_number::5
+<note> International Parallel Processing Symposium, 1994.   </note>::line_number::6
+<note>  Submitted to SIGGRAPH95.   </note>::line_number::0
+<note>  AMS(MOS) subject classifications: 65F05, 65F50, 68R10   </note>::line_number::16
+<note>  1 This research is supported in part by NSF Grant MIP-9309627, Faculty Early Career Development Award MIP-9502294, and an Ohio State University Presidential Fellowship. A preliminary version of this paper[4] has been  </note>::line_number::26
+<note>  This work was partially supported by NSA Grant MDA904-96-1-0111.   </note>::line_number::25
+<note>  submitted to AAAI-98   </note>::line_number::6
+<note>  1 An edited version of ths report appears in IEEE Micro, August 1994.  </note>::line_number::8
+<note> 2 This work was supported by an NSF Graduate Fellowship (Walkup), a PYI Award (MIP-8858782),  </note>::line_number::9
+<note> and by the ARPA/CSTO Microsystems Program under an ONR monitored contract (N00014-91-J-4041). The authors' email addresses are fchou,walkup,gaetanog@cs.washington.edu.   </note>::line_number::10
+<note>  Copyright 1997 by  </note>::line_number::13
+<note> National Research Council of Canada  </note>::line_number::14
+<note> Permission is granted to quote short excerpts and to reproduce figures and tables from this report,   </note>::line_number::15
+<note> provided that the source of such material is fully acknowledged.    </note>::line_number::16
+<note>  References  </note>::line_number::24
+<note> [IK] C. Icking and R. Klein, "The two guards problem," Proc. 7th Annual ACM Symp. on  </note>::line_number::25
+<note> Computational Geometry, 1991, pp. 166-175.  </note>::line_number::26
+<note> [AHMS] E.M. Arkin, M. Held, J.S.B. Mitchell, S.S. Skienna, "Hamiltonian Triangulations  </note>::line_number::27
+<note> for Fast Rendering," Proc. of the 2nd ESA, 1994.  </note>::line_number::28
+<note> 1 Supported in part by NSF Grant CCR-940-9752  </note>::line_number::29
+<note>  Subject classification: AMS(MOS) 65F10, 65N30  </note>::line_number::14
+<note> 1 supported partially by AFOSR under grant number 90-0334 which was funded by  </note>::line_number::15
+<note> DARPA  </note>::line_number::16
+<note> partially supported by a Feodor Lynen-Fellowship of the Alexander von Humboldt  </note>::line_number::17
+<note> Foundation   </note>::line_number::18
+<note>  A version of this paper appears in:  </note>::line_number::10
+<note> Proceedings of SAB92,  </note>::line_number::11
+<note> the Second International Conference on Simulation of Adaptive Behaviour  </note>::line_number::12
+<note> J.-A. Meyer, H. Roitblat, and S. Wilson, editors,  </note>::line_number::13
+<note> MIT Press Bradford Books, Cambridge, MA, 1993.   </note>::line_number::14
+<note>  Copyright 1993 ACM 0-8186-4340-4/93/0011 Permission to copy for non-commercial use granted by the Association for Computing Machinery.   </note>::line_number::0
+<note>  Neural Network Systems Techniques and Applications (in print)  </note>::line_number::9
+<note> C. T. Leondes (Ed.), c flACADEMIC Press   </note>::line_number::10
+<note>  DIMACS is a partnership of Rutgers University, Princeton University, AT&T  </note>::line_number::11
+<note> Research, Bellcore, and Bell Laboratories.  </note>::line_number::12
+<note> DIMACS is an NSF Science and Technology Center, funded under contract  </note>::line_number::13
+<note> STC-91-19999; and also receives support from the New Jersey Commission  </note>::line_number::14
+<note> on Science and Technology.   </note>::line_number::15
+<note>   1 Permanent Member  </note>::line_number::9
+<note> 2 Permanent Member  </note>::line_number::10
+<note> DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs, Bellcore, and Bell Labs.  </note>::line_number::11
+<note> DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999; and also receives  </note>::line_number::12
+<note> support from the New Jersey Commission on Science and Technology.   </note>::line_number::13
+<note>  1 Research partially supported by Hungarian National Foundation for Scientific Research, Grant No.  </note>::line_number::5
+<note> T025617 and by DIMACS (Center for Discrete Mathematics and Theoretical Computer Science)  </note>::line_number::6
+<note> NSF-STC-91-19999.  </note>::line_number::7
+<note> DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs-Research,  </note>::line_number::8
+<note> Bell Labs, Bellcore and NEC Research Institute.  </note>::line_number::9
+<note> DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999;  </note>::line_number::10
+<note> and also receives support from the New Jersey Commission on Science and Technology.   </note>::line_number::11
+<note>  This research was supported in part by the U.S.  </note>::line_number::8
+<note> Government. The views and conclusions contained in this  </note>::line_number::9
+<note> document are those of the author and should not be  </note>::line_number::10
+<note> interpreted as representing the official policies, either  </note>::line_number::11
+<note> expressed or implied, of the Defense Advanced Research  </note>::line_number::12
+<note> Projects Agency or the U.S. Government. This work was  </note>::line_number::13
+<note> sponsored in part at Computational Logic, Inc. by the  </note>::line_number::14
+<note> Defense Advanced Research Projects Agency, ARPA  </note>::line_number::15
+<note> Orders 6082 and 9151, and at the University of Texas at  </note>::line_number::16
+<note> Austin by the Defense Advanced Research Projects  </note>::line_number::17
+<note> Agency, ARPA Order 5246, issued by the Space and  </note>::line_number::18
+<note> Naval Warfare Systems Command under Contract  </note>::line_number::19
+<note> N00039-85-K-0085.   </note>::line_number::20
+<note>  LISP AND SYMBOLIC COMPUTATION: An International Journal, 5, 191-221, 1992  </note>::line_number::0
+<note> c 1992 Kluwer Academic Publishers Manufactured in The Netherlands   </note>::line_number::1
+<note>  (Extended Abstract)   </note>::line_number::2
+<note>  fl1 Supported in part by the Applied Mathematical Sciences Subprogram of the Office of Energy Research, U.S.  </note>::line_number::27
+<note> Dept. of Energy under Contract DE-AC03-76SD00098 and by the NSF ARPA under grant DMS-8919074.  </note>::line_number::28
+<note> 2 Supported in part by NSF grant ECS-9210648.   </note>::line_number::29
+<note>  1. This work was supported by the Australian Research Council under Grant A48831034, Australian  </note>::line_number::17
+<note>  In press: The Neurobiology of Computation: Proceedings of the Annual Compu--tational Neuroscience Meeting. J.M. Bower, ed. Kluwer Academic Publishers,  </note>::line_number::0
+<note> Boston.   </note>::line_number::1
+<note>  * Please address all correspondence to Ian H. Witten   </note>::line_number::25
+<note>   USENIX Summer Conference  </note>::line_number::0
+<note> June 11-15, 1990  </note>::line_number::1
+<note> Anaheim, California   </note>::line_number::2
+<note>  Submitted to EuroGP-98, Paris, 16-17 April, 1998   </note>::line_number::0
+<note>  From the Proceedings of the Second International Conference on Coordination Models  </note>::line_number::0
+<note> and Languages, LNCS 1282, Springer, Berlin, 1997  </note>::line_number::1
+<note> 46   </note>::line_number::2
+<note>  From the Proc. of the 1996 Inter. Conf. on Requirements Engineering, Colorado Springs, Colorado, April 15-18, 1996   </note>::line_number::0
+<note>  To appear in the Proc. of the 1998 Inter. Conf. on Software Maintenance, Bethesda, Maryland, USA, November 1998   </note>::line_number::0
+<note>  DIMACS Series in Discrete Mathematics  </note>::line_number::0
+<note> and Theoretical Computer Science  </note>::line_number::1
+<note> Volume 00, 19xx   </note>::line_number::2
+<note>  As appears in Neural Information Processing Systems 4, pp. 251-258, 1992.   </note>::line_number::0
+<note>  (This paper appeared in the Proceedings of the 1994 ACM SIGMOD Conference.)   </note>::line_number::7
+<note>  Submitted for review to Discrete and Computational Geometry, September 1997.   </note>::line_number::0
+<note>   Work on this paper by Karl-Friedrich Bohringer and Bruce Randall Donald has been supported in  </note>::line_number::19
+<note> part by the National Science Foundation under grants No. IRI-8802390, IRI-9000532, IRI-9201699, and  </note>::line_number::20
+<note> by a Presidential Young Investigator award to Bruce Donald, in part by NSF/ARPA Special Grant for  </note>::line_number::21
+<note> Experimental Research No. IRI-9403903, and in part by the Air Force Office of Sponsored Research, the  </note>::line_number::22
+<note> Mathematical Sciences Institute, Intel Corporation, and AT&T Bell laboratories. Work on this paper by  </note>::line_number::23
+<note> Dan Halperin has been supported in part by an Alon Fellowship, by ESPRIT IV LTR Project No. 21957  </note>::line_number::24
+<note> (CGAL), by the USA-Israel Binational Science Foundation, and by the Hermann Minkowski - Minerva  </note>::line_number::25
+<note> Center for Geometry at Tel Aviv University. A preliminary and abridged version of the paper appeared in  </note>::line_number::26
+<note> proc. 13th ACM Symp. on Computational Geometry, Nice, 1997, pp. 457-459.   </note>::line_number::27
+<note> halperin@math.tau.ac.il.   Part of the work on this paper was carried out while D.H. was at the Robotics  </note>::line_number::34
+<note> Laboratory, Department of Computer Science, Stanford University.   </note>::line_number::35
+<note>  To appear in Parallel Computing, 1997.   </note>::line_number::0
+<note>  Available at URL   ftp://ftp.cs.dartmouth.edu/kotz/papers/nieuwejaar:jgalley.ps.Z   </note>::line_number::1
+<note>  The author was supported by a grant from the Indiana Corporation for Science and Technology.   </note>::line_number::15
+<note>  Published as:   F.C. Berger and Th.P. van der  </note>::line_number::3
+<note>  Classification: AMS 68P20; CR H.3.3, H.5.1   </note>::line_number::34
+<note>  Published as:   P.J.M. Frederiks, A.H.M. ter Hofstede, and E. Lippe.   A Unifying Framework  </note>::line_number::10
+<note>  Classification: 68P99 (AMS-1991), H.1.0. (CR-1991)   </note>::line_number::22
+<note>  1 supported by NSF grant 9396164-CCR   </note>::line_number::13
+<note>   AMS subject classification: 65D17, 65D07, 68U07  </note>::line_number::12
+<note> Abbreviated title: Generalized B-Spline Subdivision   </note>::line_number::13
+<note>  1 Supported in part by NSF grant CCR-9315354.  </note>::line_number::17
+<note> 2 Supported in part by NSF CAREER Award CCR-9701911.  </note>::line_number::18
+<note> 3 Supported in part by grants NSF-INT-9513368/DAAD-315-PRO-fo-ab and NSF-CCR-9322513  </note>::line_number::19
+<note> and by a NATO Postdoctoral Science Fellowship from the Deutscher Akademischer Austausch-dienst ("Gemeinsames Hochschulsonderprogramm III von Bund und Landern"). Current address:  </note>::line_number::20
+<note> Department of Computer Science, University of Rochester, Rochester, NY 14627, USA. Work done  </note>::line_number::21
+<note> in part while visiting the University of Kentucky and the University of Rochester.   </note>::line_number::22
+<note>  (Extended Abstract)   </note>::line_number::2
+<note>  Subject classifications. 68Q15,68Q25,68Q45.   </note>::line_number::17
+<note>  A modified version to appear in Philosophical Transactions of the Royal Society B, 1997.   </note>::line_number::8
+<note>  To appear in Jordan, MI, Kearns MJ, and Solla, SA Advances in Neural Information  </note>::line_number::0
+<note> Processing Systems 10. MIT Press: Cambridge, MA, 1998.   </note>::line_number::1
+<note>  c Copyright by David C. Dolson 1997   </note>::line_number::8
+<note>  Work done while the first author was a graduate student at the University of Chicago Computer Science Depart  </note>::line_number::13
+<note> ment, supported in part by a University of Chicago Fellowship.  </note>::line_number::14
+<note> Supported by NSF Grant CCR-9009936   </note>::line_number::15
+<note>  This research is supported by ARPA-AFOSR contract F30602-91-C-0076.   </note>::line_number::20
+<note>  1 This work was partly supported by the Office of Naval Research under a University Research Initiative  </note>::line_number::19
+<note>  1 This work was supported by the Office of Naval Research under University Research Initiative  </note>::line_number::19
+<note>   Available as CS-TR-3375, UMIACS-TR-94-126, ISR-TR 94-82.   </note>::line_number::21
+<note>  This work was supported in part by NSF Grants IRI9306580, DDM-9201779, EEC 94-02384 and a forgivable loan from  </note>::line_number::43
+<note> General Electric Corporation awarded to the first author. Any opinions, findings, and conclusions or recommendations expressed  </note>::line_number::44
+<note> in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.  </note>::line_number::45
+<note> Also affiliated with: Computer Science Department and Institute for Systems Research, University of Maryland, College  </note>::line_number::46
+<note> Park.   </note>::line_number::47
+<note>  With oversight by Office of Naval Research, this research is supported by ARPA/SISTO in  </note>::line_number::17
+<note> conjunction with the Domain Specific Software Architectures project.   </note>::line_number::18
+<note>  This work is supported in part by ARPA and Philips Labs under contract DASG60-92-0055 to Department  </note>::line_number::26
+<note> of Computer Science, University of Maryland, and by National Science Foundation Grant No. NCR 89-04590. The  </note>::line_number::27
+<note> views, opinions, and/or findings contained in this report are those of the author(s) and should not be interpreted as  </note>::line_number::28
+<note> representing the official policies, either expressed or implied, of the Advanced Research Projects Agency, PL, NSF,  </note>::line_number::29
+<note> or the U.S. Government. Computer facilities were provided in part by NSF grant CCR-8811954.   </note>::line_number::30
+<note>  This report is available by anonymous ftp from thales.cs.umd.edu in the directory  </note>::line_number::12
+<note> pub/reports.   </note>::line_number::13
+<note>  This research was supported by NASA Grant No. NAG 5-2648.   </note>::line_number::23
+<note>  This research was partially supported by the NSF grant # CCR 9318933.   </note>::line_number::24
+<note>  In: Multimedia Systems, Volume 2, Number 6, (January 1995) pages 267-279.   </note>::line_number::0
+<note>  Pages 61 to 70 of W. Daelemans, A. van den Bosch, and A. Weijters (Editors),  </note>::line_number::0
+<note> Workshop Notes of the ECML/MLnet Workshop on Empirical Learning of Natural  </note>::line_number::1
+<note> Language Processing Tasks, April 26, 1997, Prague, Czech Republic   </note>::line_number::2
+<note>  1  This research was sponsored by the Advanced Research Projects Agency (DOD), monitored by the   </note>::line_number::16
+<note>  This work was supported in part at Computational Logic, Inc. and by the  </note>::line_number::9
+<note> Defense Advanced Research Projects Agency, ARPA Orders 6082 and 9151. The  </note>::line_number::10
+<note> views and conclusions contained in this document are those of the author(s) and  </note>::line_number::11
+<note> should not be interpreted as representing the official policies, either expressed or  </note>::line_number::12
+<note> implied, of Computational Logic, Inc.   </note>::line_number::13
+<note>  Copyright c 1995 Computational Logic, Inc.   </note>::line_number::14
+<note>  The contents of this technical report originally  </note>::line_number::5
+<note> appeared as the author's dissertation.   </note>::line_number::6
+<note>  This research was supported by the NASA Graduate Student Researchers Program, grant number NGT  </note>::line_number::32
+<note> 51332.   </note>::line_number::33
+<note>  To Appear: Proc. IEEE ICC'96 Conference, Dallas, June 1996.   </note>::line_number::0
+<note>  Appears in "Proceedings of the First Symposium on Operating Systems Design and Implementation," Usenix Association, November 1994.   </note>::line_number::0
+<note>  This informal technical report describes the latest version of the Cassowary algorithm. It is  </note>::line_number::16
+<note> derived from the paper "Solving Linear Arithmetic Constraints for User Interface Applications"  </note>::line_number::17
+<note> by Alan Borning, Kim Marriott, Peter Stuckey, and Yi Xiao [7], published in the UIST'97  </note>::line_number::18
+<note> Proceedings. The UIST paper also contains a description of QOCA, a closely related solver  </note>::line_number::19
+<note> that finds least-squares solutions to linear constraints. This technical report, which is intended  </note>::line_number::20
+<note> to be self-contained, includes material on Cassowary from the UIST paper, plus a description  </note>::line_number::21
+<note> of the Java, C++, and Smalltalk implementations and their interfaces. along with additional  </note>::line_number::22
+<note> details, corrections, and clarifications.  </note>::line_number::23
+<note> An earlier technical report also discussed QOCA and the similarities between Cassowary and  </note>::line_number::24
+<note> that algorithm [6].   </note>::line_number::25
+<note>  Surface Fitting and Multiresolution Methods 35  </note>::line_number::4
+<note> A. Le Mehaute, C. Rabut, and L. L. Schumaker (eds.), pp. 35-50.  </note>::line_number::5
+<note> Copyright o c 1997 by Vanderbilt University Press, Nashville, TN.  </note>::line_number::6
+<note> ISBN 0-8265-1294-1.  </note>::line_number::7
+<note> All rights of reproduction in any form reserved.  </note>::line_number::8
+<note>  </note>::line_number::9
+<note>  AMS (MOS) Subject Classifications: primary 41A05, 41A63, 41A10; secondary 65D05, 41A30   </note>::line_number::17
+<note>  Authors' affiliation and address:   </note>::line_number::19
+<note>  1 supported in part by the National Science Foundation under Grant No. DMS-8701275 and by  </note>::line_number::24
+<note> the United States Army under Contract No. DAAL03-87-K-0030   </note>::line_number::25
+<note>  The support of the National Science Foundation under Grant No. IRI-9002582 is gratefully acknowledged.   </note>::line_number::20
+<note>  Appears in Working Notes, Integrating Multiple Learned Models for Improving and Scaling Machine Learning Algorithms  </note>::line_number::0
+<note> Workshop, Thirteenth National Conference on Artificial Intelligence, Portland, OR: AAAI Press (1996).   </note>::line_number::1
+<note>  Submitted to IJCV special issue on vision research at Yale.  </note>::line_number::15
+<note> This research was supported by the National Science Foundation, the Army Research Office, and the  </note>::line_number::16
+<note> Air Force Office of Scientific Research   </note>::line_number::17
+<note>  In Proc. 8th IASTED Int'l Conf. on Parallel and Distributed Computing and Systems (Chicago, IL, USA),  </note>::line_number::0
+<note> c IASTED/ACTA Press (Anaheim/Calgary/Z urich), pp. 144-148, Oct. 1996. [ISBN: 0-88986-213-3]   </note>::line_number::1
+<note>  DRAFT   June 2, 1996:   </note>::line_number::0
+<note>  To appear in the Proceedings of the Fourteenth International Conference on Uncertainty in Artificial Intelligence  </note>::line_number::15
+<note> (Madison, WI, July 1998).   </note>::line_number::16
+<note>  This paper first appeared in [GH2], and incorporates the corrections indicated in [GH3].   </note>::line_number::4
+<note>  0 This research was sponsored, in part, by the University of Michigan under a Rackham Faculty Research  </note>::line_number::22
+<note> Grant, and by a Bell Northern Research Postgraduate Award.   </note>::line_number::23
+<note>  This work was supported in part by the University of Michigan ITS Center of Excellence grant (DTFH61-93-X-00017-Sub)  </note>::line_number::28
+<note> sponsored by the U.S. Department of Transportation and by the Michigan Department of Transportation. Ning Jing, on leave  </note>::line_number::29
+<note> from the Changsha Institute of Technology, is currently visiting the University of Michigan and likes to thank the State Education  </note>::line_number::30
+<note> Commission of P.R. China.   </note>::line_number::31
+<note>  In Proceedings of the Twelfth Conference on Uncertainty in Artificial Intelligence (UAI-96),  </note>::line_number::0
+<note> Portland, OR, USA, August 1996   </note>::line_number::1
+<note>  The first author acknowledges partial support from the Center for Research in Economics and  </note>::line_number::13
+<note> Statistics (CREST) at the French National Institute of Statistics and Economic Studies (INSEE),  </note>::line_number::14
+<note> Paris, France.   </note>::line_number::15
+<note>  AMS 1991 subject classifications. Primary 62C15; secondary 60J05   </note>::line_number::16
+<note>  This paper is a revised and expanded version of one appearing in the Proceedings of the 1994 ACM  </note>::line_number::22
+<note> Conference on Computer Supported Cooperative Work, October 22-26, 1994, Chapel Hill, North Carolina,  </note>::line_number::23
+<note> U.S.A.   </note>::line_number::24
+<note>  Part of this work was done while the author was at ETH Zurich. Submitted to Journal of Symbolic  </note>::line_number::18
+<note> Computation.   </note>::line_number::19
+<note>  The author has been supported by a scholarship from The Swedish Institute and may be reached by  </note>::line_number::17
+<note> e-mail as zlatev@icsi.Berkeley.EDU or jordan@ling.su.se.   </note>::line_number::18
+<note>  Research partially supported by NSF/DARPA Grant CCR-9005448  </note>::line_number::27
+<note> Research partially supported by NSF operating grant CCR-9016468 and by grant No. 89-00312 from  </note>::line_number::28
+<note> the United States-Israel Binational Science Foundation (BSF), Jerusalem, Israel.  </note>::line_number::29
+<note> Part of work was done during a visit at the International Computer Science Institute at Berkeley;  </note>::line_number::30
+<note> supported in part by DFG-Forschergruppe "Effiziente Nutzung massiv paralleler Systeme, Teilprojekt 4",  </note>::line_number::31
+<note> and by the Esprit Basic Research Action Nr. 7141 (ALCOM II).   </note>::line_number::32
+<note>  Supported by a Schlumberger Foundation Graduate Fellowship.  </note>::line_number::22
+<note> Supported by a GAANN Graduate Fellowship.  </note>::line_number::23
+<note> Supported by NSF grant number CCR-9005448   </note>::line_number::24
+<note>  Pieter Kritzinger is in the Computer Science Depatrment, University of Cape Town, private  </note>::line_number::27
+<note> Bag, Rondbosch 7700   </note>::line_number::28
+<note>  In W. Gerstner, A. Germond, M. Hasler, and J.-D. Nicoud, editors,  </note>::line_number::4
+<note> Proceedings of the Seventh International Conference on Artificial  </note>::line_number::5
+<note> Neural Networks (ICANN'97), volume 1327 of Lecture Notes in Computer  </note>::line_number::6
+<note> Science, pages 769-774. Springer-Verlag Berlin Heidelberg, 1997.   </note>::line_number::7
+<note>  Unclassified/Unlimited   </note>::line_number::12
+<note>  ACM Sigplan Notices 27,3 (March 1992),66-70.  </note>::line_number::0
+<note> Copyright 1991 by Nimble Computer Corporation 1   </note>::line_number::1
+<note>  Appears in the Proceedings of the ACM SIGMOD International Conference on Management of Data, San Jose, CA, May 1995   </note>::line_number::0
+<note>  Also appears in the Proceedings of the Twelfth Conference on Uncertainty in Artificial Intelligence,  </note>::line_number::14
+<note> August, 1996   </note>::line_number::15
+<note>  This report is a preprint of the paper "Context-Insensitive Alias Analysis Reconsidered," to appear in ACM SIGPLAN  </note>::line_number::12
+<note> '95 Conference on Programming Language Design and Implementation (PLDI'95), La Jolla, California, June 1995.  </note>::line_number::13
+<note> Copyright c 1995 by the Association for Computing Machinery, Inc. Permission to make digital or hard copies of all or  </note>::line_number::14
+<note> part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed  </note>::line_number::15
+<note> for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights  </note>::line_number::16
+<note> for components of this work owned by others than ACM must be honored. Abstracting with credit is permitted. To  </note>::line_number::17
+<note> copy otherwise, to republish, to post on servers, or to redistribute to lists, requires prior specific permission and/or a  </note>::line_number::18
+<note> fee. Request permissions from Publications Dept, ACM Inc., fax + 1 (212) 869-0481, or permissions@acm.org.   </note>::line_number::19
+<note>  1 Supported by the National Science Foundation under Grant DMS-9121003 and the National Eye Institute under  </note>::line_number::10
+<note>  Machine Translation, 10:1-2, 139-180 (1995)  </note>::line_number::0
+<note> c 1995 Kluwer Academic Publishers, Boston. Manufactured in The Netherlands.   </note>::line_number::1
+<note>  v4.9 1   </note>::line_number::0
+<note>  To appear in Proc. IEEE INFOCOM, March 1996   </note>::line_number::0
+<note>  An earlier version of this paper appeared at the 1996 ACM SIGMETRICS conference.  </note>::line_number::19
+<note> This work was supported by NSF under grant NCR-9206908 and by ARPA under ESD/AVS contract F-19628-92-C  </note>::line_number::20
+<note> 0089.   </note>::line_number::21
+<note>  Appears in: "Supercomputing '94," Nov. 1994.  </note>::line_number::0
+<note> Reprinted by permission of IEEE.   </note>::line_number::1
+<note>  This work was sponsored in part by ARPA (NAG-1-1485), NSF (ASC 9213821), and ONR (SC292-1-22913).   </note>::line_number::23
+<note>  TO APPEAR IN COMPUTATIONAL OPTIMIZATION AND APPLICATIONS JOURNAL, 1997   </note>::line_number::0
+<note>  To Appear in the ACM Multimedia Journal   </note>::line_number::0
+<note>  Copyright c Massachusetts Institute of Technology, 1996  </note>::line_number::23
+<note> This report describes research done at the Department of Information and Computer Science, University of  </note>::line_number::24
+<note> California, Irvine, the Jet Propulsion Laboratory, California Institute of Technology, Microsoft Research, the  </note>::line_number::25
+<note> Center for Biological and Computational Learning, and the Artificial Intelligence Laboratory of the Massachusetts  </note>::line_number::26
+<note> Institute of Technology. The authors can be contacted as pjs@aig.jpl.nasa.gov, heckerma@microsoft.com,  </note>::line_number::27
+<note> and jordan@psyche.mit.edu. Support for CBCL is provided in part by a grant from the NSF (ASC-9217041).  </note>::line_number::28
+<note> Support for the laboratory's artificial intelligence research is provided in part by the Advanced Research Projects  </note>::line_number::29
+<note> Agency of the Dept. of Defense. MIJ gratefully acknowledges discussions with Steffen Lauritzen on the application  </note>::line_number::30
+<note> of the IPF algorithm to UPINs.   </note>::line_number::31
+<note>  c Massachusetts Institute of Technology,1994  </note>::line_number::19
+<note> This paper describes research done within the Center for Biological Information Processing, in the Department of Brain and Cognitive Sciences, and at the Artificial Intelligence  </note>::line_number::20
+<note> Laboratory. This research is sponsored by a grant from the Office of Naval Research  </note>::line_number::21
+<note> (ONR), Cognitive and Neural Sciences Division; by the Artificial Intelligence Center of  </note>::line_number::22
+<note> Hughes Aircraft Corporation; by the Alfred P. Sloan Foundation; by the National Science Foundation. Support for the A. I. Laboratory's artificial intelligence research is provided by the Advanced Research Projects Agency of the Department of Defense under  </note>::line_number::23
+<note> Army contract DACA76-85-C-0010, and in part by ONR contract N00014-85-K-0124.   </note>::line_number::24
+<note>  The authors can be contacted by emailing J.E.Hazan@durham.ac.uk. FAX: +44 (0)91 374 3741. This  </note>::line_number::16
+<note> research is funded by a grant from the Science and Engineering Research Council of Great Britain.   </note>::line_number::17
+<note>  The work reported here is supported in part by an IBM Graduate Fellowship and by the Office of Naval  </note>::line_number::25
+<note> Research under Contract N00014-85-K-0122. Any opinions, findings, and conclusions or recommendations  </note>::line_number::26
+<note> expressed in this paper are those of the authors and do not necessarily reflect the views of the funding agencies.   </note>::line_number::27
+<note>  This research was supported by: Center for Research on  </note>::line_number::10
+<note> Parallel Computation, a National Science Foundation Science and Technology Center, through Cooperative Agreement No. CCR-9120008, NSF/NASA Agreement No.  </note>::line_number::11
+<note> ASC-9213821, and ONR Agreement No. N00014-93-1-0158. Use of the Intel i860 was provided under a Texas  </note>::line_number::12
+<note> CER Grant No. CISE 8619893.   </note>::line_number::13
+<note>  (Submitted to the Journal of Scientific Computing)   </note>::line_number::3
+<note>  AMS subject classification. 49M37, 90C20, 90C30   </note>::line_number::14
+<note>  Reference: Proceedings of the IASTED International Conference on Artificial Intelligence, Expert Systems and Neural Networks, pp.  </note>::line_number::0
+<note> 249-252, 1996.   </note>::line_number::1
+<note>  Proceedings of the International Conference on Artificial Intelligence, Expert Systems and Neural Networks  </note>::line_number::0
+<note> (AIE96), pp. 11-14, 1996.   </note>::line_number::1
+<note>  Abstract to appear in Proceedings of the 27th ACM Symposium on the Theory of Computing, May 1995.   </note>::line_number::19
+<note>  Work done in part while the authors were visiting BRICS, Basic Research in Computer Science, Center  </note>::line_number::12
+<note> of the Danish National Research Foundation.  </note>::line_number::13
+<note> Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot,  </note>::line_number::14
+<note> Israel. Partially supported by grant No. 92-00226 from the United States - Israel Binational Science  </note>::line_number::15
+<note> Foundation (BSF), Jerusalem, Israel.   </note>::line_number::16
+<note>  (Extended Abstract)    </note>::line_number::1
+<note>  1991 Mathematics Subject Classification: 68Q60, 68Q68.  </note>::line_number::29
+<note> 1991 CR Categories: F.1.1, F.3.1.   </note>::line_number::30
+<note>  Notes: This work was supported by ONR contracts N00014-85-K-0168 and N00014-91-J-1988, by NSF grants CCR-8915206 and CCR-9225124, by DARPA contracts N00014-89-J-1988 and N00014-92-J-4033, and ONR-AFOSR contract F49620-94-1-0199.   </note>::line_number::33
+<note>  Appears: International Conference on Computer Vision '95, Cambridge, MA, June 20-23, 1995   </note>::line_number::1
+<note>  Also to appear: Springer Verlag Workshops in Computing, MIRO 95, Invited Paper, Glasgow, Sep. 95   </note>::line_number::1
+<note>  Dissertation Proposal   </note>::line_number::1
+<note>  Final Version,   94-Mar-17,   1 of 9    </note>::line_number::0
+<note>  Dedicated to Robin Milner on the occasion of his 60th birthday.   </note>::line_number::3
+<note>  Also published as An Introduction to Software Architecture, Advances in Software Engineering  </note>::line_number::7
+<note> and Knowledge Engineering, Volume I, edited by V.Ambriola and G.Tortora, World Scientific  </note>::line_number::8
+<note> Publishing Company, New Jersey, 1993.  </note>::line_number::9
+<note> Also appears as CMU Software Engineering Institute Technical Report  </note>::line_number::10
+<note> CMU/SEI-94-TR-21, ESC-TR-94-21.  </note>::line_number::11
+<note> 1994 by David Garlan and Mary Shaw  </note>::line_number::12
+<note> This work was funded in part by the Department of Defense Advanced Research Project Agency under grant  </note>::line_number::13
+<note> MDA972-92-J-1002, by National Science Foundation Grants CCR-9109469 and CCR-9112880, and by a grant  </note>::line_number::14
+<note> from Siemens Corporate Research. It was also funded in part by the Carnegie Mellon University School of  </note>::line_number::15
+<note> Computer Science and Software Engineering Institute (which is sponsored by the U.S. Department of Defense).  </note>::line_number::16
+<note> The views and conclusions contained in this document are those of the authors and should not be interpreted  </note>::line_number::17
+<note> as representing the official policies, either expressed or implied, of the U.S. Government, the Department of  </note>::line_number::18
+<note> Defense, the National Science Foundation, Siemens Corporation, or Carnegie Mellon University.   </note>::line_number::19
+<note>  Invited Paper for  </note>::line_number::6
+<note> Workshop on Operating Systems of the 90s and Beyond  </note>::line_number::7
+<note>  This work has been supported by the Defense Advanced Research Projects Agency (Avionics Lab, Wright Research and Development Center,  </note>::line_number::19
+<note> Aeronautical Systems Division (AFSC), U.S. Air Force, Wright-Patterson AFB, Ohio, 45433-6543 under Contract F33615-90-C-1465, ARPA  </note>::line_number::20
+<note> Order No. 7597), the National Science Foundation (PYI Award), and the IBM Corporation (Research Initiation Grant). The views and  </note>::line_number::21
+<note> conclusion expressed in this paper are those of the author, and should not be interpreted as those of the funding agencies or Carnegie Mellon  </note>::line_number::22
+<note> University.   </note>::line_number::23
+<note>  To appear in the Proceedings of the 16th ACM Symposium on Operating System Principles   </note>::line_number::0
+<note>  c fl1997 Scott Draves  </note>::line_number::15
+<note> This research was sponsored in part by the Defense Advanced Research Projects Agency  </note>::line_number::16
+<note> CSTO under the title The Fox Project: Advanced Languages for Systems Software, ARPA Order No. C533, issued by ESC/ENS under Contract No. F19628-95-C-0050. The views and  </note>::line_number::17
+<note> conclusions contained in this document are those of the authors and should not be interpreted as  </note>::line_number::18
+<note> representing the official policies, either expressed or implied, of the Defense Advanced Research  </note>::line_number::19
+<note> Projects Agency or the U.S. Government.   </note>::line_number::20
+<note>  Urbana IL 61801, USA   </note>::line_number::4
+<note>  This work was supported by the National Science Foundation, grant number SDB-8418216 and by a grant from  </note>::line_number::12
+<note> Digital Equipment Corporation.  </note>::line_number::13
+<note> Walter H. Kohler is manager of High Performance Transaction Processing System group at Digital Equipment  </note>::line_number::14
+<note> Corporation.   </note>::line_number::15
+<note>  (Extended Abstract)   </note>::line_number::2
+<note>  Submitted to Discrete & Computational Geometry   </note>::line_number::3
+<note>  An extended abstract of this paper was presented at the 14th Annual ACM Symposium on Computational  </note>::line_number::21
+<note> Geometry [29]. See http://www:cs:duke:edu/ ~ jeffe/pubs/cycles:html for the most recent version of this paper.   </note>::line_number::22
+<note>  1 Research was supported by the Mittag-Le*er Institute, by the Mathematical Sciences Institute  </note>::line_number::10
+<note> at Cornell University, and by the Center for Discrete Mathematics and Theoretical Computer  </note>::line_number::11
+<note> Science at Rutgers University.  </note>::line_number::12
+<note> DIMACS is a cooperative project of Rutgers University, Princeton University, AT&T Bell  </note>::line_number::13
+<note> Laboratories and Bellcore.  </note>::line_number::14
+<note> DIMACS is an NSF Science and Technology Center, funded under contract STC-88-09648;  </note>::line_number::15
+<note> and also receives support from the New Jersey Commission on Science and Technology.   </note>::line_number::16
+<note>  (Extended Abstract)   </note>::line_number::1
+<note>  This work was supported in part by the National Science  </note>::line_number::25
+<note> Foundation under Grants No. CCR-8703049, CCR-8619663, and  </note>::line_number::26
+<note> CCR-8907666, by the Washington Technology Center, by the Digital Equipment Corporation Systems Research Center and External Research Program, and by IBM and AT&T Fellowships.  </note>::line_number::27
+<note> Bershad is now with the School of Computer Science, Carnegie  </note>::line_number::28
+<note> Mellon University.   </note>::line_number::29
+<note>  Copyright c fl1997 Mark Lillibridge  </note>::line_number::14
+<note> This research was sponsored by the Air Force Materiel Command (AFMC) and the Defense Advanced Research Projects Agency (DARPA) under contract number, F19628-95-C-0050. The U.S. Government is authorized to reproduce and distribute reprints for Government purposes notwithstanding  </note>::line_number::15
+<note> any copyright notation thereon.  </note>::line_number::16
+<note> The views and conclusions contained in this document are those of the author and should not be  </note>::line_number::17
+<note> interpreted as representing the official policies or endorsements, either expressed or implied, of the U.S.  </note>::line_number::18
+<note> Government.   </note>::line_number::19
+<note>  Visiting at time of writing   </note>::line_number::25
+<note>  DRAFT 1   January 23, 1996   </note>::line_number::0
+<note>  IEEE/ACM Transactions on Networking, Submitted, July 1994   </note>::line_number::14
+<note>  This work was presented in part at the IS&T/SPIE Symp. on Electronic Imaging Science & Tech  </note>::line_number::27
+<note> nology '94, San Jose, CA, Feb. 94 and at Infocom '94, Toronto, Canada, Jun. 94.  </note>::line_number::28
+<note> Work supported in part by the Fulbright Commission and the Ministry of Education of Spain. This  </note>::line_number::29
+<note> work was done while at the Dept. of Electrical Eng. and Center for Telecom. Research, Columbia  </note>::line_number::30
+<note> University.   </note>::line_number::31
+<note>  A masters report   </note>::line_number::5
+<note>  Supported by ONR-AASERT N100014-94-1-1033  </note>::line_number::20
+<note> Supported by the Air Force Office of Scientific Research-MURI under grant F49620-95-1-0253  </note>::line_number::21
+<note> Supported by the Air Force Office of Scientific Research-under grant FDF49620-96-1-0154   </note>::line_number::22
+<note>  Acknowledgments: This research is supported by ONR grant number N00014-90-J-1198 and ONR-AASERT 23057.   </note>::line_number::4
+<note>  Survey Paper   </note>::line_number::0
+<note>  c Copyright 1994 by Nathaniel R. Bogan  </note>::line_number::4
+<note> This report is a reset version of a masters thesis submitted to the Department of Electrical  </note>::line_number::5
+<note> Engineering and Computer Science on May 15, 1994 in partial fulfillment of the requirements  </note>::line_number::6
+<note> for the degree of Master of Engineering.   </note>::line_number::7
+<note>  Advances in Neural Information Processing Systems 4  </note>::line_number::6
+<note> Edited by J.E.Moody, S.J.Hanson, and R.P.Lippmann,  </note>::line_number::7
+<note> Morgan Kaufmann Publishers, San Mateo, CA, 1992   </note>::line_number::8
+<note>  EUROPEAN ORGANISATION FOR NUCLEAR RESEARCH  </note>::line_number::0
+<note> CERN-PPE/96-xxx   </note>::line_number::1
+<note>  Submitted to Physics Letters   </note>::line_number::19
+<note>  ACM SIGPLAN Workshop on Languages, Compilers and Tools for Real-Time Systems, La Jolla, California, June 1995.   </note>::line_number::0
+<note>  The research described has been made possible by support from the Office of Naval Research (ONR contract numbers N00014-90-J-1899 and N00014-93-1-0273), by an Incentives for Excellence Award from the Digital Equipment Corporation Faculty Program, and by joint support from the Defense  </note>::line_number::30
+<note> Advanced Research Projects Agency and the National Science  </note>::line_number::31
+<note> Foundation (NSF CCR 90-07195). The authors would like to  </note>::line_number::32
+<note> thank Mark Astley, Brian Nielsen, Masahiko Saitoh and Daniel  </note>::line_number::33
+<note> Sturman for helpful discussions concerning the manuscript.   </note>::line_number::34
+<note>  Author for contact.   </note>::line_number::24
+<note>  IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS, VOL. 13, NO. 7, SEPTEMBER 1995 1   </note>::line_number::0
+<note>  Appears in Proceedings of the 4  </note>::line_number::0
+<note> th  </note>::line_number::1
+<note> International Conference on Knowledge Discovery and Data Mining,  </note>::line_number::2
+<note> AAAI Press, 1998, 359-363.   </note>::line_number::3
+<note>  Submitted to the Department of Electrical Engineering and Computer Science, University of Cal-ifornia at Berkeley, in partial satisfaction of the requirements for the degree of Master of Science,  </note>::line_number::5
+<note> Plan II.   </note>::line_number::6
+<note>  Research supported by the California PATH program, Institute of Transportation Studies, University of  </note>::line_number::15
+<note> California, Berkeley, under MOU-135   </note>::line_number::16
+<note>  Research is supported by ARO under the MURI grant DAAH04-96-1-0341, "An Integrated Approach to Intelligent  </note>::line_number::29
+<note> Systems".   </note>::line_number::30
+<note>  This research was supported by the National Science Foundation under a Graduate Research Fellowship and under contract IRI-9506064, and by the Department of Defense under  </note>::line_number::6
+<note> MURI contract DAAH04-96-1-0007 monitored by ARO and under a subcontract of STTR  </note>::line_number::7
+<note> contract F49620-95-C-0078 monitored by AFOSR.   </note>::line_number::8
+<note>  Appears in KDD-97   </note>::line_number::0
+<note>  This research was sponsored by NSF Grant IRI-9107455, ARO Grant DAAL03-91-G-0183, and DARPA  </note>::line_number::17
+<note> Contract DABT63-92-C-0007. Additional support was  </note>::line_number::18
+<note> provided by the University of California and Digital Equipment Corporation under Research Grant #1243.  </note>::line_number::19
+<note> Other industrial and government partners include the  </note>::line_number::20
+<note> State of California Department of Water Resources, United  </note>::line_number::21
+<note> States Geological Survey, Construction Engineering Research Laboratory (CERL) of the U.S. Army Corps of  </note>::line_number::22
+<note> Engineers, the National Aeronautics and Space Administration (NASA), Epoch Systems, Inc., Hewlett-Packard  </note>::line_number::23
+<note> Corp., Hughes Aircraft Company, MCI, Metrum Corporation, PictureTel Corporation, Research Systems Inc., Science Applications International Corporation, Siemens Inc.,  </note>::line_number::24
+<note> and TRW Space and Electronics.   </note>::line_number::25
+<note>  The following paper was originally published in the  </note>::line_number::0
+<note> Proceedings of the USENIX 2nd Symposium on  </note>::line_number::1
+<note> Operating Systems Design and Implementation  </note>::line_number::2
+<note> Seattle, Washington, October 1996  </note>::line_number::3
+<note> For more information about USENIX Association contact:   </note>::line_number::4
+<note>  5th Midwest Artificial Intelligence and Cognitive Science Conference   </note>::line_number::0
+<note>  Client/Server Architectures for Business Information Systems Page 1   </note>::line_number::0
+<note>  Copyright 1997, Klaus Renzel, Wolfgang Keller  </note>::line_number::18
+<note> Permission granted to copy for PLoP97 Conference.  </note>::line_number::19
+<note> All other rights reserved.   </note>::line_number::20
+<note>  The copyright of this paper belongs to the papers authors. Permission to copy without fee all or part of this material is granted  </note>::line_number::29
+<note> provided that the copies are not made or distributed for direct  </note>::line_number::30
+<note> commercial advantage.  </note>::line_number::31
+<note> Proceedings of the 4th KRDB Workshop  </note>::line_number::32
+<note> Athens, Greece, 30-August-1997  </note>::line_number::33
+<note> (F. Baader, M.A. Jeusfeld, W. Nutt, eds.)   </note>::line_number::34
+<note>  Supported by an NSF Graduate Fellowship   </note>::line_number::26
+<note>  Appears in: Fourth European Conference on Computer Vision, Cambridge, UK, April 1996.   </note>::line_number::1
+<note>  ACM TOMACS, Vol. 3, No. 3, pp. 269-276, July, 1993.   </note>::line_number::6
+<note>  c fl1995, 1996, 1997, 1998   </note>::line_number::4
+<note>  Draft 1.6.1   August 31, 1998   </note>::line_number::5
+<note>  Kluwer Academic Publishers, Boston. Manufactured in The Netherlands.   </note>::line_number::0
+<note>  Received ??. Revised ??.   </note>::line_number::6
+<note>  N 2943   </note>::line_number::4
+<note>  THE ME 1   </note>::line_number::6
+<note>  Submitted to ACM SIGCOMM '98   </note>::line_number::0
+<note>  Corresponding Author   </note>::line_number::20
+<note>  To be published in the proceedings of the  </note>::line_number::8
+<note> Spring Symposium on Integrated Planning Applications   </note>::line_number::9
+<note>  (Extended Abstract)  </note>::line_number::1
+<note> Submitted to ACM MULTIMEDIA '94   </note>::line_number::2
+<note>  This is a preprint of a paper that is to appear  </note>::line_number::35
+<note> in the Proceedings of the Twenty-first Annual ACM  </note>::line_number::36
+<note> SIGPLAN-SIGACT Symposium on Principles of Programming Languages, January 1994.   </note>::line_number::37
+<note>  Proc. IEEE Data Compression Conference 1998, pp. 388-397. c fl1998 IEEE  </note>::line_number::10
+<note> Includes minor corrections.   </note>::line_number::11
+<note>  16 IEEE TRANSACTIONS ON INFORMATION THEORY, VOL. 44, NO. 1, JANUARY 1998   </note>::line_number::0
+<note>  Appears in M. Mozer, M. Jordan and T. Petsche, eds., Advances In Neural Information Processing Systems 9, MIT Press, 1997   </note>::line_number::0
+<note>  This work has been supported in part by a grant from Pfizer Central Research. Dan Halperin has also been  </note>::line_number::20
+<note> supported by an Alon Fellowship, by ESPRIT IV LTR Project No. 21957 (CGAL), and by the Hermann Minkowski   </note>::line_number::21
+<note>  This report describes research done at the Artificial Intelligence Laboratory of the Massachusetts  </note>::line_number::12
+<note> Institute of Technology. Support for the work described in this paper was provided in part by  </note>::line_number::13
+<note> Misubishi Electric Research Laboratories, Inc. Support for the laboratory's artificial intelligence  </note>::line_number::14
+<note> research is provided in part by the Advanced Research Projects Agency of the Department of  </note>::line_number::15
+<note> Defense under Office of Naval Research contract N00014-85-K-0124.  </note>::line_number::16
+<note> This paper appeared in AAAI-91. A postscript electronic source for this paper can be found in  </note>::line_number::17
+<note> ftp.ai.mit.edu:/pub/dam/aaai91a.ps. A bibtex reference can be found in ftp.ai.mit.edu:/pub/dam/dam.bib.   </note>::line_number::18
+<note>  This research was supported in part by National Science Foundation Grant IRI-8819624 and in part by the Advanced Research Projects Agency of the Department  </note>::line_number::17
+<note> of Defense under Office of Naval Research contract N00014-85-K-0124 and N00014-89-J-3202.   </note>::line_number::18
+<note>  Author's Address:   MIT Artificial Intelligence Laboratory,   545 Technology Square,  </note>::line_number::19
+<note>  This paper appeared in JACM, vol. 40, no. 2, April 1993. A postscript electronic source  </note>::line_number::21
+<note> for this paper can be found in ftp.ai.mit.edu:/pub/dam/jacm1.ps. A bibtex reference can  </note>::line_number::22
+<note> be found in internet file ftp.ai.mit.edu:/pub/dam/dam.bib.   </note>::line_number::23
+<note>  This publication can be retrieved by anonymous ftp to publications.ai.mit.edu.   </note>::line_number::7
+<note>  Copyright c Massachusetts Institute of Technology, 1996  </note>::line_number::27
+<note> This report describes research done at the Artificial Intelligence Laboratory of the Massachusetts  </note>::line_number::28
+<note> Institute of Technology. Support for this research was provided in part by the Advanced Research  </note>::line_number::29
+<note> Projects Agency of the Department of Defense under Office of Naval Research contract N00014-96-1-0311.   </note>::line_number::30
+<note>  Address correspondence to   Dana S. Nau,   Computer Science Dept., University of Maryland,   </note>::line_number::28
+<note>  This work supported in part by an AT&T Ph.D. scholarship to Stephen J. J. Smith, Maryland Industrial Part  </note>::line_number::30
+<note> nerships (MIPS) grant 501.15, Great Game Products, and NSF grants IRI-8907890 and NSFD CDR-88003012.   </note>::line_number::31
+<note>  Submission to AI Applications: Natural Resources, Agriculture, and Environmental Science.  </note>::line_number::12
+<note> Corresponding author: The first author is the corresponding author for this submission. David's  </note>::line_number::13
+<note> phone number is (202) 767-9006 and FAX number is (202) 767-3172.  </note>::line_number::14
+<note> Suggested running head: "Cloud Classification Using Error-Correcting Output Codes"  </note>::line_number::15
+<note> Available as NCARAI Technical Note AIC-96-024   </note>::line_number::16
+<note>  AMS subject classifications. 60K35, 62N05, 68M10, 68Q22, 68R05, 90A28, 90C05.   </note>::line_number::25
+<note>  This research was sponsored in part by the Defense Advanced Research Projects Agency under grant MDA972-92-J-1028 and contract DABT63-92-C-0026. The content of the paper does not necessarily reflect the position or the policy of the  </note>::line_number::24
+<note> Government and no official endorsement should be inferred.   </note>::line_number::25
+<note>  To appear in Proceedings of the ACM SIGPLAN'93 Symposium on Programming Language Design and Implementation, Albuquerque, NM, June 23-25 1993.   </note>::line_number::27
+<note>  AAAI-98, Madison, WI, to appear   </note>::line_number::0
+<note>  Connection Science, 6 (1), 177 - 208.   </note>::line_number::17
+<note>  Email address of contact author:   ungar@cis.upenn.edu   </note>::line_number::21
+<note>  Phone number of contact author:   215 898-7449   </note>::line_number::22
+<note>  To appear in Proceedings of Virtual Reality Vienna '93   </note>::line_number::0
+<note>  Proc. UIST '93 (ACM Symp. on User Interface Software and Technology), Atlanta GA, November 3-5, 1993, 145-155   </note>::line_number::0
+<note>  Permission to copy without fee all or part of this material is granted  </note>::line_number::44
+<note> ture and describe our current implementation. provided that the copies are not made or distributed for direct  </note>::line_number::45
+<note> commercial advantage, the ACM copyright notice and the title of  </note>::line_number::46
+<note> the publication and its date appear, and notice is given that copying  </note>::line_number::47
+<note> is by permission of the Association for Computing Machinery. To  </note>::line_number::48
+<note> copy otherwise, or to republish, requires a fee and/or specific  </note>::line_number::49
+<note> permission.  </note>::line_number::50
+<note> 1993 ACM 0-89791-628-X/93/0011 ... $1.50  </note>::line_number::51
+<note> November 3-5, 1993 UIST '93 145   </note>::line_number::52
+<note>  Submitted:  March 25, 1998;  Accepted:  June 30, 1998.   </note>::line_number::6
+<note>  1991 Mathematical Subject Classification: 05E30, 05B20   </note>::line_number::7
+<note>  * This research was supported by an NSERC Canada International Fellowship.  </note>::line_number::16
+<note> ** This research was supported by an NSERC Research Grant.   </note>::line_number::17
+<note>  Draft 16   Nov 94   - 1 - To appear IEEE MICRO Feb 1995   </note>::line_number::0
+<note>  (Based on a keynote talk presented by Charles L. Seitz)   </note>::line_number::2
+<note>  email addresses:   </note>::line_number::16
+<note>  Submitted for publication, June 1994.   </note>::line_number::6
+<note>  See also:   http://www.cs.berkeley.edu/~debevec/Research/   </note>::line_number::25
+<note>  A revised version appears in : "Advances in Linear Logic", ed. by J.-Y. Girard et  </note>::line_number::16
+<note> al., London Mathematical Society Lecture Notes Series, Volume 222, Cambridge University  </note>::line_number::17
+<note> Press, 1995, pp. 147-166.   </note>::line_number::18
+<note> CA 94025 USA.   Work supported under NSF Grant CCR-9224858.   </note>::line_number::20
+<note>  (Extended Abstract)   </note>::line_number::2
+<note>  To appear in Proc. 11th Intl. Conf. on Data Engg., 1995   </note>::line_number::0
+<note>  Computational Intelligence, Volume 12, Number 3, 1996   </note>::line_number::0
+<note>  Part of this research was presented at the 2nd DIMACS Implementation Challenge on Combinatorial Optimiza  </note>::line_number::32
+<note> tion, DIMACS, October, 1993.  </note>::line_number::33
+<note> Supported in part by NSF grant CCR-9204284   </note>::line_number::34
+<note>  In Proceedings of ICC'97: The IEEE International Conference onCommunications, Montreal, Canada, June 1997.   </note>::line_number::0
+<note>  Journal of Artificial Intelligence Research 1 (1994) 159-208 Submitted 8/93; published 2/94   </note>::line_number::0
+<note>  The authors' e-mail addresses are fraghu,divesh,praveeng@cs.wisc.edu; sudarsha@research.att.com.   </note>::line_number::6
+<note>  Journal of Artificial Intelligence Research 3 (1995) 53-118 Submitted 3/95; published 7/95   </note>::line_number::0
+<note>  Final Version, 94-Mar-17,1of 9   </note>::line_number::0
+<note>  This paper will appear in the proceedings of the 1996 International Workshop on  </note>::line_number::1
+<note> Extensions of Logic Programming, Leipzig, Germany, March 28-30 1996.   </note>::line_number::2
+<note>  This research was sponsored by the Defense Advanced Research Projects Agency, CSTO, under the title "The Fox  </note>::line_number::12
+<note> Project: Advanced Development of Systems Software", ARPA Order No. 8313, issued by ESD/AVS under Contract  </note>::line_number::13
+<note> No. F19628-91-C-0168.  </note>::line_number::14
+<note> The views and conclusions contained in this document are those of the author and should not be interpreted as  </note>::line_number::15
+<note> representing official policies, either expressed or implied, of the Defense Advanced Research Projects Agency or the  </note>::line_number::16
+<note> U.S. Government.   </note>::line_number::17
+<note>  To appear in Proceedings of Ninth Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), January 1998.  </note>::line_number::35
+<note> Research supported by NEC Research Institute, 4 Independence Way, Princeton, NJ 08540; satish@research.nj.nec.com.  </note>::line_number::36
+<note> Research supported in part by NSF NYI Award No. CCR-9457766, ARPA Contract F33615-93-1-1330, NEC Research Institute, and DIMACS. School of Computer Science, Carnegie Mellon  </note>::line_number::37
+<note> University, Pittsburgh, PA 15213, aricha@cs.cmu.edu.   </note>::line_number::38
+<note>  Autonomous Robots, ??, 1-18 (??)  </note>::line_number::0
+<note> c ?? Kluwer Academic Publishers, Boston. Manufactured in The Netherlands.   </note>::line_number::1
+<note>  This research is sponsored in part by the Wright Laboratory, Aeronautical SystemsCenter, Air Force Materiel Command, USAF,  </note>::line_number::15
+<note> and the Advanced Research Projects Agency (ARPA) under grant F33615-93-1-1330. The US Government is authorized to reproduce and distribute reprints for Government purposes, notwithstanding any copyright notation thereon. Support also came from the  </note>::line_number::16
+<note> Air Force Materiel Command under contract number F19628-93-C-0171. Views and conclusions contained in this document are  </note>::line_number::17
+<note> those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of Wright Laboratory or the United States Government.   </note>::line_number::18
+<note>  This research was performed by the Carnegie Mellon Information Technology Center and  </note>::line_number::19
+<note> supported by the IBM Corporation.   </note>::line_number::20
+<note>  The first author is also affiliated with the Computer Science Department III of the University of  </note>::line_number::8
+<note> Bonn, Germany, where part of this research was carried out.  </note>::line_number::9
+<note> This research is sponsored in part by the National Science Foundation under award IRI-9313367,  </note>::line_number::10
+<note> and by the Wright Laboratory, Aeronautical Systems Center, Air Force Materiel Command, USAF,  </note>::line_number::11
+<note> and the Advanced Research Projects Agency (ARPA) under grant number F33615-93-1-1330. The  </note>::line_number::12
+<note> views and conclusions contained in this document are those of the author and should not be interpreted  </note>::line_number::13
+<note> as necessarily representing official policies or endorsements, either expressed or implied, of NSF,  </note>::line_number::14
+<note> Wright Laboratory or the United States Government.   </note>::line_number::15
+<note>  AMS subject classification: 68Q22   </note>::line_number::18
+<note>  , , 1-8 ()   </note>::line_number::0
+<note>  c Kluwer Academic Publishers, Boston. Manufactured in The Netherlands.   </note>::line_number::1
+<note>  Proceedings of the 4th International Symposium on Intelligent Robotic Systems SIRS'96, Lisbon, Portugal, July 22-26, 1996   </note>::line_number::0
+<note>  SIGGRAPH 95, Los Angeles, August 6-11 COMPUTER GRAPHICS Proceedings, Annual Conference Series, 1995   </note>::line_number::0
+<note>  To appear in the Proceedings of the 16th ACM Symposium on Operating System Principles   </note>::line_number::0
+<note>  Draft 12/20/1997. Send feedback to the authors.   </note>::line_number::4
+<note>  To appear in Adaptive Behavior 5(3/4), 1997.  </note>::line_number::13
+<note> Copyright c 1997 The MIT Press.   </note>::line_number::14
+<note>  Running Head: Operant Conditioning in Skinnerbots   </note>::line_number::26
+<note>  for submission to: Software Reliability and Fault Tolerance Track of the Computer Science Division at the   </note>::line_number::4
+<note> 15th Annual International Conference of the AOM/IAOM  </note>::line_number::5
+<note> Author Information:   </note>::line_number::6
+<note>  (also numbered STAN-CS-95-673)   </note>::line_number::7
+<note>  This research has been supported by ARPA contract DABT63-94-C-0054.  </note>::line_number::9
+<note> In addition, Margaret Martonosi is supported in part by a National Science Foundation  </note>::line_number::10
+<note> Career Award (CCR-9502516). Todd C. Mowry is supported by a Research Grant  </note>::line_number::11
+<note> from the Natural Sciences and Engineering Research Council of Canada. Michael D.  </note>::line_number::12
+<note> Smith is supported by the National Science Foundation under a Young Investigator  </note>::line_number::13
+<note> Grant No. CCR-9457779.   </note>::line_number::14
+<note>  Submitted to the Future Generation Computer Systems special issue on Data Mining.   </note>::line_number::0
+<note>  This research was supported in part by the National Science Foundation under grants CCR-8716914 and  </note>::line_number::13
+<note> CDA-8619893, and by the Office of Naval Research under contract ONR N00014-88-K-0140.   </note>::line_number::14
+<note>  COPYRIGHT NOTICE  </note>::line_number::5
+<note> This publication and its companion video and transcript (Mostow et al, 1994c) are copyrighted:  </note>::line_number::6
+<note> J. Mostow, S. Roth, A. G. Hauptmann, and M. Kane. (August 1994). A Prototype Reading Coach that Listens. Proceedings  </note>::line_number::7
+<note> of the Twelfth National Conference on Artificial Intelligence (AAAI-94). Seattle, WA, American Association for  </note>::line_number::8
+<note> Artificial Intelligence, Recipient of the AAAI-94 Outstanding Paper Award.  </note>::line_number::9
+<note> J. Mostow, S. Roth, A. Hauptmann, M. Kane, A. Swift, L. Chase, and B. Weide. (August 1994). A Reading Coach that  </note>::line_number::10
+<note> Listens (6-minute video). Video Track of the Twelfth National Conference on Artificial Intelligence (AAAI94). Seattle,  </note>::line_number::11
+<note> WA, American Association for Artificial Intelligence.  </note>::line_number::12
+<note> J. Mostow, S. Roth, A. Hauptmann, M. Kane, A. Swift, L. Chase, and B. Weide. (August 1994). A reading coach that  </note>::line_number::13
+<note> listens: (edited) video transcript. Proceedings of the Twelfth National Conference on Artificial Intelligence (AAAI94).  </note>::line_number::14
+<note> Seattle, WA.  </note>::line_number::15
+<note> Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee  </note>::line_number::16
+<note> provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the  </note>::line_number::17
+<note> full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored.  </note>::line_number::18
+<note> Abstracting with credit is permitted. To copy otherwise, to republish, to post on servers or to redistribute to lists, requires  </note>::line_number::19
+<note> prior specific permission and/or a fee.  </note>::line_number::20
+<note> newpage  </note>::line_number::21
+<note> The following notice appears on page xiv of the proceedings:  </note>::line_number::22
+<note> AAAI-94  </note>::line_number::23
+<note> Outstanding Paper Award  </note>::line_number::24
+<note> A Prototype Reading Coach that Listens  </note>::line_number::25
+<note> Jack Mostow, Steven F. Roth, Alexander G. Hauptmann, and Matthew Kane  </note>::line_number::26
+<note> This year, AAAI's National Conference on Artifical Intelligence honors a paper that exemplifies high standards in  </note>::line_number::27
+<note> technical contribution and exposition. Papers were nominated for the Outstanding Paper Award by members of the program  </note>::line_number::28
+<note> committee during the NCAI review process. These nominations were then reviewed once again by a smaller subset of the  </note>::line_number::29
+<note> program committee to select the winning paper. Care was taken during the review process to ensure that our final decisions  </note>::line_number::30
+<note> were based on the opinions of impartial readers who are free from personal biases and conflicts of interest.   </note>::line_number::31
+<note>  This paper was written in April 1996. An abbreviated version appeared in [Michael Herf and Paul S. Heckbert, Fast  </note>::line_number::10
+<note> Soft Shadows, Visual Proceedings, SIGGRAPH 96, Aug. 1996, p. 145].   </note>::line_number::11
+<note>  This work was supported by NSF Young Investigator award CCR-9357763. The views and conclusions contained in this document are those of the authors and  </note>::line_number::23
+<note> should not be interpreted as representing the official policies, either expressed or implied, of NSF or the U.S. government.   </note>::line_number::24
+<note>  In: Proceedings of EURASIP Workshop, February 15-17, 1990, Portugal   </note>::line_number::0
+<note>  * Research supported in part by NSF Grand Challenges Applications Group grant ASC-9217394 and by  </note>::line_number::23
+<note> NASA HPCC Group Grant NAG5-2218.  </note>::line_number::24
+<note> To appear in Parallel Computing, October 1994.   </note>::line_number::25
+<note>  (This is an extended version of the paper that appeared in the Proceedings of the  </note>::line_number::6
+<note> 3rd International Conference on Parallel and Distributed Information Systems.)   </note>::line_number::7
+<note>  Contact Author:   Wenke Lee,   wenke@cs.columbia.edu,   (212) 939-7078.   </note>::line_number::19
+<note>  This research is supported in part by grants from DARPA (F30602-96-1-0311) and NSF (IRI-96-32225 and CDA-96-25374).   </note>::line_number::20
+<note>  This work was partially funded by grants from NSF (IRI-96-32225 & CDA-96-25374), ARPA (F30602  </note>::line_number::32
+<note> 96-1-0311), and NYSSTF (423115-445).   </note>::line_number::33
+<note>  In Wermter, S. and Riloff, E. and Scheler, Gabriele (eds.), Connectionist, Statistical and  </note>::line_number::5
+<note> Symbolic Approaches to Learning for Natural Language Processing, Lecture Notes in  </note>::line_number::6
+<note> Artificial Intelligence, 315-328, Springer, 1996.   </note>::line_number::7
+<note>  This work was supported in part by the Sloan Fellowship and NSF PYI award of Eva Tardos. Author  </note>::line_number::23
+<note> is supported by an ONR Graduate Fellowship  </note>::line_number::24
+<note> Laboratory for Computer Science, MIT, Cambridge MA 02139 USA.   </note>::line_number::25
+<note>  Submitted to the special Algorithmica issue of Algorithmic Foundations of Robotics   </note>::line_number::0
+<note>  Support for this work was provided in part by the National Science Foundation under grants  </note>::line_number::21
+<note> No. IRI-8802390, IRI-9000532, IRI-9201699, and by a Presidential Young Investigator award to  </note>::line_number::22
+<note> Bruce Donald, and in part by the Air Force Office of Sponsored Research, the Mathematical Sciences Institute, Intel Corporation, and AT&T Bell laboratories. The first author was additionally  </note>::line_number::23
+<note> supported by an AT&T Bell Laboratories Graduate Fellowship sponsored by the AT&T Foundation.   </note>::line_number::24
+<note>  Supported by NSF Award CCR-9357849, with matching funds from IBM, Mitsubishi, Schlumberger Foun  </note>::line_number::33
+<note> dation, Shell Foundation, and Xerox Corporation.  </note>::line_number::34
+<note> Research partly supported by ARPA contract N00014-95-1-1246.  </note>::line_number::35
+<note> Research partly supported by a grant from the World Wide Web Consortium. Some of this work was done  </note>::line_number::36
+<note> while visiting the second author at NEC.  </note>::line_number::37
+<note> x Research partly supported by NSF Award CCR-9308701, a Walter Burke Research Initiation Award and a  </note>::line_number::38
+<note> Dartmouth College Research Initiation Award. Some of this work was done while visiting the second author at  </note>::line_number::39
+<note> NEC, and while visiting Stanford University.   </note>::line_number::40
+<note>  (Revised September 1996)   </note>::line_number::2
+<note>  Supported by AFOSR contract F49620-93-1-0266 and ONR contract N00014-95-1-1204   </note>::line_number::22
+<note>  DIMACS Series in Discrete Mathematics  </note>::line_number::0
+<note> and Theoretical Computer Science  </note>::line_number::1
+<note> Volume 00, 19xx   </note>::line_number::2
+<note>  Supported in part by the Defense Advanced Research Projects Agency under Contracts N00014-80-C-0622 and N00014-87-K-0825 and by a National Science Foundation  </note>::line_number::7
+<note> Fellowship.  </note>::line_number::8
+<note> Supported in part by the Defense Advanced Research Projects Agency under Contracts  </note>::line_number::9
+<note> N00014-80-C-0622 and N00014-87-K-0825 and by an NSF Presidential Young Investigator Award with matching funds provided by AT&T Bell Laboratories, IBM Corporation,  </note>::line_number::10
+<note> and Xerox Corporation.   </note>::line_number::11
+<note>  This paper appeared in the proceedings of the 13th Symposium of Computational Geometry (1997) as a communication  </note>::line_number::32
+<note> Supported in part by National Science Foundation grant CCR-9623851 and by US Army MURI grant DAAH04-96-1-0007.  </note>::line_number::33
+<note> Supported in part by the Okawa Foundation.  </note>::line_number::34
+<note> x Supported in part by ARO MURI Grant DAAH04-96-1-0007 and by NSF Award CCR-9357849, with matching funds  </note>::line_number::35
+<note> from IBM, Mitsubishi, Schlumberger Foundation, Shell Foundation, and Xerox Corporation.   </note>::line_number::36
+<note>  This research is supported in part by a grant from Pfizer Central Research.  </note>::line_number::34
+<note> Supported by NSF Award CCR-9357849, with matching funds from IBM, Mitsubishi, Schlumberger Foundation, Shell  </note>::line_number::35
+<note> Foundation, and Xerox Corporation.  </note>::line_number::36
+<note> Supported by an Alfred P. Sloan Research Fellowship, an IBM Faculty Partnership Award, an ARO MURI Grant DAAH04-96-1-0007, and NSF Young Investigator Award CCR-9357849, with matching funds from IBM, Mitsubishi, Schlumberger Foun  </note>::line_number::37
+<note> dation, Shell Foundation, and Xerox Corporation.   </note>::line_number::38
+<note>  1 We use the term "metric" only for convenience; formally, none of the above measures satisfy all the properties of a metric.  </note>::line_number::39
+<note>  Appears in the IEEE Transactions on Image Processing Special Issue: Image Sequence Compression,  </note>::line_number::1
+<note> vol 3, no. 5, p. 625-638, September 1994. Revised: May, 1994   </note>::line_number::2
+<note>  Research advisors: Spencer Rugaber and Rich LeBlanc   </note>::line_number::2
+<note>  ??, ??, 1-10 (??)  </note>::line_number::0
+<note> c ?? Kluwer Academic Publishers, Boston. Manufactured in The Netherlands.   </note>::line_number::1
+<note>  Received ??. Revised ??.   </note>::line_number::6
+<note>  1 The work described here was supported in part by the Defense Advanced Research Projects Agency,  </note>::line_number::24
+<note>  Proceedings of the Fifteenth International Joint Conference on Artificial Intelligence, Morgan Kaufmann, San Francisco, 1997.   </note>::line_number::0
+<note>  IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE, VOL. 17, NO. 6, JUNE 1995 599   </note>::line_number::0
+<note>  Supported by an NSERC postdoctoral fellowship, and DARPA contracts N00014-87-K-825 and N00014  </note>::line_number::19
+<note> 89-J-1988.   </note>::line_number::20
+<note>  Appears in Machine Learning: Proceedings of the Tenth International Conference,  </note>::line_number::0
+<note> P. E. Utgoff (editor), Morgan Kaufmann, San Mateo, CA, 1993   </note>::line_number::1
+<note>  appears in "Advances in Genetic Programming II", MIT Press, Pete Angeline and  </note>::line_number::2
+<note> Kim Kinnear, editors   </note>::line_number::3
+<note>  nilufer@cs.pitt.edu   </note>::line_number::5
+<note>  pollack@cs.pitt.edu   </note>::line_number::11
+<note>  1 Permanent Member  </note>::line_number::10
+<note> DIMACS is a partnership of Rutgers University, Princeton University, AT&T Labs-Research,  </note>::line_number::11
+<note> Bell Labs and Bellcore.  </note>::line_number::12
+<note> DIMACS is an NSF Science and Technology Center, funded under contract STC-91-19999;  </note>::line_number::13
+<note> and also receives support from the New Jersey Commission on Science and Technology.   </note>::line_number::14
+<note>  Copyright c 1993 ACM Press. All rights reserved.  </note>::line_number::14
+<note> To appear in the proceedings of CSC'94  </note>::line_number::15
+<note> Phoenix Arizona, March 8-10, 1994.   </note>::line_number::16
+<note>  Work supported in part by AFOSR award 91-F49620, NSF awards CCR 86-19817, CCR 92-02536,  </note>::line_number::27
+<note> and ASC 9404859.   </note>::line_number::28
+<note>  Authors' addresses:   S. Weerawarana, E.N. Houstis, J.R. Rice and A. Joshi:   Department of Computer Sciences, Purdue University,   West Lafayette, IN 47907, USA;   C.E. Houstis:   Department of  </note>::line_number::29
+<note>  1 This paper was originally written as a Master's thesis at Purdue University.   </note>::line_number::10
+<note>  Appeared in Proc. 10th ACM Symposium on Parallel Algorithms and Architectures (SPAA '98), Puerto Vallarta, Mexico   </note>::line_number::17
+<note>  A Position/Work-in-Progress Paper presented at  </note>::line_number::3
+<note> Nordic Workshop on Programming Environment Research, NWPER'94,  </note>::line_number::4
+<note> Lund, Sweden, June, 1994   </note>::line_number::5
+<note>  8th SIAM Conference on Parallel Processing for Scientific Computing, Minneapolis, MN, March 1997.   </note>::line_number::0
+<note>  Reprinted from International Journal in Computer Simulation, Vol. 1, pp. 31-58 (1991)   </note>::line_number::0
+<note>  This research was supported by Texas Instruments Grant No. TI720845RJ, NSF/ONR Grant No. N00014-87-K  </note>::line_number::26
+<note> 0324, SDSU/SDIO Contract No. N66001-85-D-0203, NASA Grant No. NAG 0-208, and a Shell Doctoral  </note>::line_number::27
+<note> Fellowship.   </note>::line_number::28
+<note>  To appear in Journal of Aircraft, Vol 34, No. 2, March-April 1997  </note>::line_number::7
+<note> Copyright c by Vijay Shukla, Andrew Gelsey, Mark Schwabacher, Donald Smith and Doyle D. Knight.   </note>::line_number::8
+<note>  To be presented at the AAAI/ICML 1998 Workshop on Predicting the Future: AI Approaches to Time-Series Analysis 1   </note>::line_number::0
+<note>  Work supported in part by NSF grants No. CCR-9308773   </note>::line_number::23
+<note>  Appears in  </note>::line_number::10
+<note> Proceedings of the Fourteenth International Conference on Artificial Intelligence (IJCAI-95),  </note>::line_number::11
+<note> Montreal, August 1995.   </note>::line_number::12
+<note>  Appears in the  </note>::line_number::30
+<note> Proceedings of the Third International Conference on Knowledge Representation and Reasoning,  </note>::line_number::31
+<note> 25-29 October 1992, Cambridge, MA.   </note>::line_number::32
+<note>  Appears in the  </note>::line_number::9
+<note> Proceedings of the Twelfth National Conference on Artificial Intelligence (AAAI-94),  </note>::line_number::10
+<note> Seattle, Washington, July 1994.   </note>::line_number::11
+<note>  ISSN 1360-1725   </note>::line_number::0
+<note>  Manchester Centre for Computational Mathematics  </note>::line_number::5
+<note> Numerical Analysis Reports  </note>::line_number::6
+<note> DEPARTMENTS OF MATHEMATICS  </note>::line_number::7
+<note> Reports available from:   </note>::line_number::8
+<note>  And over the World-Wide Web from URLs   </note>::line_number::13
+<note>  An abridged version of this paper appears in the Proceedings of the 14th International Conference on Distributed Computing  </note>::line_number::21
+<note> Systems as Using Message Semantics to Reduce Rollback in Optimistic Message Logging Recovery Schemes.  </note>::line_number::22
+<note> This research is supported in part by the NSF under grant number IRI-9117094.   </note>::line_number::23
+<note>  This research has been supported by the Lawrence Liver-more National Labs; grant no: ISCR/LLNL 89-22,90-22   </note>::line_number::22
+<note>  Appears in Journal of the ACM, Vol. 39, No. 1, January 1992, pp. 214-233. Prelimanary version  </note>::line_number::0
+<note> in Proceedings of the 20th Annual Symposium on Theory of Computing, ACM, 1988.   </note>::line_number::1
+<note>  Research supported by NSF grants CCR-8858799 and CCR-9303017  </note>::line_number::36
+<note> Research supported by an NSERC operating grant and the Information Technology Research Centre  </note>::line_number::37
+<note> Supported by an NSF postdoctoral fellowship and by a Canadian  </note>::line_number::38
+<note> NSERC postdoctoral fellowship  </note>::line_number::39
+<note> x Research Supported by NSF YI Award CCR-92-570979, Sloan  </note>::line_number::40
+<note> Research Fellowship BR-3311, grant #93025 of the joint US-Czechoslovak Science and Technology Program, and USA-Israel BSF  </note>::line_number::41
+<note> Grant 92-00043  </note>::line_number::42
+<note> Research supported by an NSF postdoctoral fellowship and by  </note>::line_number::43
+<note> NSF Grant CCR-9457782   </note>::line_number::44
+<note>  Research supported by the Australian Research Council   </note>::line_number::18
+<note>  Original: This work has not been submitted elsewhere.  </note>::line_number::43
+<note> Presentation: We prefer oral presentation.  </note>::line_number::44
+<note> Contact author: Eliot Moss   </note>::line_number::45
+<note>  This research is supported in part by ONR grant N00014-94-10228 and NSF CCR-9619808.   </note>::line_number::18
+<note>  Work performed while at the University of Maryland. This  </note>::line_number::30
+<note> research was partially funded by the Institute for Systems Research (ISR), and by the National Science Foundation under  </note>::line_number::31
+<note> Grants No. EEC-94-02384, IRI-9205273 and IRI-9625428.  </note>::line_number::32
+<note> Permission to copy without fee all or part of this material is  </note>::line_number::33
+<note> granted provided that the copies are not made or distributed for  </note>::line_number::34
+<note> direct commercial advantage, the VLDB copyright notice and  </note>::line_number::35
+<note> the title of the publication and its date appear, and notice is  </note>::line_number::36
+<note> given that copying is by permission of the Very Large Data Base  </note>::line_number::37
+<note> Endowment. To copy otherwise, or to republish, requires a fee  </note>::line_number::38
+<note> and/or special permission from the Endowment.  </note>::line_number::39
+<note> Proceedings of the 24th VLDB Conference  </note>::line_number::40
+<note> New York, USA, 1998   </note>::line_number::41
+<note>  To appear in Proc. AAAI'97   </note>::line_number::0
+<note>  Appears in Working Notes of the NASA Workshop on Planning and Scheduling for Space  </note>::line_number::0
+<note> Oxnard, CA, October 1997   </note>::line_number::1

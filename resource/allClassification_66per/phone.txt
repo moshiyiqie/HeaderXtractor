@@ -58,26 +58,3 @@
 <phone>  (212) 939-7080   </phone>::line_number::13
 <phone>  Tel: +45 35 32 14 18 Fax: +45 35 32 14 01   E-mail: koch,fowler@diku.dk   </phone>::line_number::9
 <phone>  Phone: (316) 978-3925   </phone>::line_number::6
-<phone>  217-356-2288   </phone>::line_number::6
-<phone>  TEL: +1 512 322 9951   </phone>::line_number::6
-<phone>  (206) 685-2094; fax: (206) 543-2969   </phone>::line_number::7
-<phone>  Tel. +31 71 5277037   </phone>::line_number::7
-<phone>  Phone: (608) 262-6627   </phone>::line_number::6
-<phone>  Phone: (608) 262-0856   </phone>::line_number::12
-<phone>  608/262-0016 608/262-2091   </phone>::line_number::20
-<phone>  +1 413 545 3787   </phone>::line_number::6
-<phone>  TEL: (314) 935-4215 FAX: (314) 935-7302   </phone>::line_number::4
-<phone>  (503) 690-1121   </phone>::line_number::8
-<phone>  Phone: (510)642-1490   </phone>::line_number::6
-<phone>  Phone: (415)859-5272   </phone>::line_number::12
-<phone>  Phone: (415)859-5272   </phone>::line_number::5
-<phone>  (313) 763-0391   </phone>::line_number::7
-<phone>  Tel : 72 43 85 88 Fax: 72 43 87 13   </phone>::line_number::4
-<phone>  Tel: (+65)-772-6563; Fax: (+65) 779-4580   </phone>::line_number::7
-<phone>  Phone: +1 617-253-2245   </phone>::line_number::6
-<phone>  Phone : (+351) 2 607 8830 Fax : (+351) 2 600 3654   </phone>::line_number::5
-<phone>  Telf. : (+351) 2 600 16 72 - Ext. 115  </phone>::line_number::8
-<phone> Fax : (+351) 2 600 3654   </phone>::line_number::9
-<phone>  +39-2-2399-3638   </phone>::line_number::6
-<phone>  +39-11-564-7008   </phone>::line_number::12
-<phone>  +39-2-2399-3666   </phone>::line_number::18

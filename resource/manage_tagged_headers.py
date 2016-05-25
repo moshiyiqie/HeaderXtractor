@@ -19,7 +19,7 @@ def getLinePosInfo():
 def genToAllClassificationFolder():
 	dic={}
 	list = open(r'D:\ÌÎwork\gitDomainPractice\HeaderXtractor\resource\tagged_headers_everyline.txt').readlines()
-	#list = list[:int(0.66*len(list))]
+	list = list[:int(0.66*len(list))]
 	for line in list:
 		line=line.strip()
 		filename = re.findall(r'<\w+>', line)[0][1:-1]+'.txt'

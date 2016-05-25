@@ -145,24 +145,3 @@
 <pubnum>  TRCS 97-02   </pubnum>::line_number::0
 <pubnum>  Technical Report TRCS98-18   </pubnum>::line_number::3
 <pubnum>  TR - UCSD - CS96-484   </pubnum>::line_number::0
-<pubnum>  CS/TR-92-80   </pubnum>::line_number::0
-<pubnum>  CSC-92-01   </pubnum>::line_number::3
-<pubnum>  Technical Report 101   August, 1994   </pubnum>::line_number::2
-<pubnum>  Technical Report UW-CSE-95-10-01   </pubnum>::line_number::6
-<pubnum>  UW Technical Report #1126   </pubnum>::line_number::8
-<pubnum>  WUCS-93-23   </pubnum>::line_number::24
-<pubnum>  WUCS-94-01   </pubnum>::line_number::14
-<pubnum>  CMPSCI Technical Report 95-72   </pubnum>::line_number::5
-<pubnum>  YALEU/DCS/TR-1056   </pubnum>::line_number::4
-<pubnum>  Technical report UCLA-CSD-950033   </pubnum>::line_number::4
-<pubnum>  TR-94-027   </pubnum>::line_number::7
-<pubnum>  Technical Report  </pubnum>::line_number::7
-<pubnum> UMIACS-TR-96-22 and CS-TR-3617   </pubnum>::line_number::8
-<pubnum>  TR 94-1447   </pubnum>::line_number::3
-<pubnum>  CMU-CS-97-125   </pubnum>::line_number::3
-<pubnum>  CMU-CS-95-205   </pubnum>::line_number::3
-<pubnum>  Working Paper IS-98-01 (Information Systems)   </pubnum>::line_number::0
-<pubnum>  SMLI TR-95-37   December 1995   </pubnum>::line_number::8
-<pubnum>  CAR-TR-858  </pubnum>::line_number::0
-<pubnum> N00014-95-1-0521   </pubnum>::line_number::1
-<pubnum>  Computation and Neural Systems Technical Report  </pubnum>::line_number::6

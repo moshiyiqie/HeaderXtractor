@@ -37,15 +37,3 @@
 <web>  http://www.cs.ucsb.edu/f~cfu,~tyangg   </web>::line_number::5
 <web>  Web: http://www.cs.ucsb.edu/ yfwang   </web>::line_number::7
 <web>  http://www.cs.ucsb.edu/research/scintilla   </web>::line_number::6
-<web> METIS is available on WWW at URL:   http://www.cs.umn.edu/karypis/metis/metis.html   </web>::line_number::3
-<web>  URL: http://www.cs.utexas.edu/users/fsriram,lorenzo,ving   </web>::line_number::6
-<web>  http://www.cs.utk.edu/~casanova   </web>::line_number::6
-<web>  http://www.netlib.org/utk/people/JackDongarra.html   </web>::line_number::11
-<web>  URL: http://www.csl.sri.com/sri-csl-fm.html   </web>::line_number::7
-<web>  http://www.infm.ulst.ac.uk/research/preprints.html   </web>::line_number::5
-<web>  http://www.media.mit.edu/nelson/   </web>::line_number::6
-<web>  http://www.neci.nj.nec.com/homepages/lawrence   </web>::line_number::28
-<web>  http://www.neci.nj.nec.com/homepages/giles.html   </web>::line_number::30
-<web>  http://www.cs.cmu.edu/~eugene   </web>::line_number::7
-<web>  http://fas.sfu.ca/cs/people/Faculty/Yang   </web>::line_number::13
-<web>  http://www.stern.nyu.edu/~aweigend/Research/Papers/TradeStyles   </web>::line_number::4

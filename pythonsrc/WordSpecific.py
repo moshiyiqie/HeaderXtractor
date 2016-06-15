@@ -22,7 +22,8 @@ def isDegree(x):
 	
 #-----------attribute in paper---------------
 def isEmail(x):
-	s=re.findall(r'\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*',x)
+	#s=re.findall(r'\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*',x)
+	s = re.findall(r'.+@\w+\.\w+', x)
 	return len(s)>0
 def isURL(x):
 	s=re.findall(r'[a-zA-z]+://[^\s]*',x)

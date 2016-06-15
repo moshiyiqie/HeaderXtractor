@@ -24,7 +24,7 @@ import org.apache.pdfbox.util.TextPosition;
 public class PdfExtractor {
 	public static void main(String args[]) throws IOException{
 		//Document luceneDocument = LucenePDFDocument.getDocument( ... );
-	    PDDocument pdd = PDDocument.load("C:/ZONE/TaoResearch/pdf_use_style_info.pdf");
+	    PDDocument pdd = PDDocument.load("C:/ZONE/test2.pdf");
 	    final StringBuffer extractedText = new StringBuffer();
 	    ArrayList<Integer> xbox= new ArrayList<Integer>();
 	    PDFTextStripper textStripper = new PDFTextStripper(){

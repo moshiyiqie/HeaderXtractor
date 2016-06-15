@@ -77,6 +77,7 @@ public class PDFManager {
 		for(ArrayList<TextPosition> tps:txtPosMat.get(i)){
 			for(TextPosition tp:tps){
 				sb.append(tp.getCharacter());
+				//System.out.println(tp.getCharacter());
 			}
 			sb.append('\n');
 		}
@@ -117,9 +118,11 @@ public class PDFManager {
 	
 	public static void main(String args[]) throws IOException{
 		PDFManager pdfm = new PDFManager();
-		pdfm.loadPDF("C:/Users/raint/OneDrive/NLP/NLP-2/5.1/crf_8page.pdf");
-		
-		System.out.println(pdfm.getAllText("C:/Users/raint/OneDrive/NLP/NLP-2/5.1/crf_8page.pdf"));
+		String path = "C:/ZONE/test3.pdf";
+		//String path = args[0];
+		pdfm.loadPDF(path);
+		System.out.println(pdfm.getIthPagePlainText(0));
+		//System.out.println(pdfm.getAllText(path));
 		
 		//System.out.println(pdfm.getIthPagePlainText(0));
 		/*

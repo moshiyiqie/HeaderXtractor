@@ -59,7 +59,7 @@ def hasBigComma(s, tmpStr):
 	
 #获得PDF文件的头部
 def getHeader(pdfpath):
-	oscmd='java -jar ./py_scikit/PDFManager.jar '+pdfpath
+	oscmd='java -jar ./py_scikit/PDFManager-openjdk.jar '+pdfpath
 	pdfContent = os.popen(oscmd).readlines()
 	header=[]
 	lineNo=1

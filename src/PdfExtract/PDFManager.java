@@ -118,11 +118,11 @@ public class PDFManager {
 	
 	public static void main(String args[]) throws IOException{
 		PDFManager pdfm = new PDFManager();
-		String path = "C:/ZONE/test3.pdf";
-		//String path = args[0];
+		//String path = "C:/ZONE/test3.pdf";
+		String path = args[0];
 		pdfm.loadPDF(path);
-		System.out.println(pdfm.getIthPagePlainText(0));
-		//System.out.println(pdfm.getAllText(path));
+		//System.out.println(pdfm.getIthPagePlainText(0));
+		System.out.println(pdfm.getAllText(path));
 		
 		//System.out.println(pdfm.getIthPagePlainText(0));
 		/*

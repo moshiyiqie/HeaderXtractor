@@ -22,6 +22,34 @@ def updateContextual(onepage, onepageTag):
 		for next in range(1,NEXT_LIMIT):
 			if i+next >= len(onepage) : break
 			onepage[i]['next'+str(next)+onepageTag[i+next]] = 0.5
+			
+#将头部转化为向量
+def transformHeader2Vector(theader):
+	header = []
+	tmpNo = 0
+	for x in theader:
+		x = '<title>'+x+'</title>::line_number::' + str(tmpNo)
+		header.append(x)
+		tmpNo+=1
+	l=header
+	allVec=[]
+	for oneline in l:
+		if len(GenerateVector.__removeTag(oneline.split('::line_number::')[0]).strip()) == 0:
+			print '空行:'+oneline
+			continue
+		basicVec = GenerateVector.__getBasicVector(oneline)
+		pos = oneline.split('::line_number::')[1].strip()
+		basicVec['classification'] = VectorManager.getTag(oneline)
+		basicVec['z_pageNo'] = 0
+		basicVec['z_origin'] = '"'+oneline.strip().replace('"','')+'"'
+		allVec.append(basicVec)
+	VectorManager.printVectorListToCSV(allVec,r'./pythonsrc/tmp/look.csv', 'classification' )
+	
+	pickle.dump(allVec,open(r'./pythonsrc/tmp/header2vector.pickle','w'),0)
+	#print '[Step1]Header to vector success!'
+	#print allVec
+	return allVec
+
 #生成所有向量到磁盘，包括一个csv文件和一个对象序列化pickle文件
 def genMulLinesVectorToDisk():
 	add=r'./resource/tagged_headers_everyline.txt'

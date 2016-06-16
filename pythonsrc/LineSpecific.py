@@ -130,11 +130,13 @@ def shortPhrasePer(line):
 #CRFneed
 	
 	
+#flist = [dictWordNumPer, nonDictWordNumPer, cap1DicWordNumPer,
+#		cap1NonDicWordNumPer, digitNumPer, affiNumPer, addrNumPer, 
+#		dateNumPer, degreeNumPer, phoneNumPer, pubNumPer, noteNumPer,singleDigitNumPer,
+#		cap1NumPer, capAllNumPer, comaNum, shortPhrasePer]
 flist = [dictWordNumPer, nonDictWordNumPer, cap1DicWordNumPer,
 		cap1NonDicWordNumPer, digitNumPer, affiNumPer, addrNumPer, 
-		dateNumPer, degreeNumPer, phoneNumPer, pubNumPer, noteNumPer,singleDigitNumPer,
-		cap1NumPer, capAllNumPer, comaNum, shortPhrasePer]
-
+		dateNumPer, degreeNumPer, phoneNumPer, pubNumPer, noteNumPer,singleDigitNumPer]
 def updateLineSpecificVector(line,vector):
 	for fun in flist:
 		if not vector.has_key(fun.__name__):

@@ -3,6 +3,7 @@ import os
 import Config
 os.chdir(Config.WORKSPACE)
 from sklearn.datasets import load_svmlight_file
+import pickle
 import numpy as np
 from sklearn.svm import SVC
 from sklearn.svm import NuSVC
@@ -106,15 +107,22 @@ def randomSampleRandomAlgorithmForWeakClf(X, y, ratio):
 	
 	return func[clsidx](X_s, y_s, 1)
 
+def outputModel():
+	print 'Training model...'
+	#data = Data.Data()
+	#data.transform2LibsvmStyle('./pythonsrc/tmp/tmp.svmdata')
+	X, y = load_svmlight_file('./resource/向量化后_everyline.svmdata')
+	clf = trainRF(X,y,0.85)
+	print 'Pickle model to disk...'
+	pickle.dump(clf,open('./RandomForestScikitModel','w'),0)
+	print 'Training complete, got model!'
+	#limit = int(len(y)*0.85)
+	#y_pred = clf.predict(X[limit:])
+	#print classification_report(y[limit:], y_pred)
+	
 if __name__ == '__main__':
-	data = Data.Data()
-	for cls in classification:
-		data.transform2LibsvmStyleForOneClass('./pythonsrc/tmp/tmp.svmdata',cls)
-		X, y = load_svmlight_file('./pythonsrc/tmp/tmp.svmdata')
-		clf = trainRF(X,y,0.7)
-		limit = int(len(y)*0.7)
-		y_pred = clf.predict(X[limit:])
-		print cls,'\t',classification_report(y[limit:], y_pred).split('\n')[-4]
+	outputModel()
+	#print classification_report(y[limit:], y_pred).split('\n')[-4]
 	'''
 	for cls in classification:
 		data.transform2LibsvmStyleForOneClass('./pythonsrc/tmp/tmp.svmdata',cls)

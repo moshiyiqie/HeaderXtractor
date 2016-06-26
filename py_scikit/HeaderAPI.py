@@ -25,4 +25,7 @@ def run(pdfpath):
 	return title, dicSet, header, predictLabel
 
 if __name__ == '__main__':
-	run('./test.pdf')
+	#path = './test.pdf'
+	path = 'C:/ZONE/ceshiPDF/P15-1001.pdf'
+	title, dicSet, header, predictLabel=run(path)
+	print header, predictLabel

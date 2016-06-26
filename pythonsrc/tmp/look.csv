@@ -1,12 +1,12 @@
 addrNumPer,affiNumPer,cap1DicWordNumPer,cap1NonDicWordNumPer,dateNumPer,degreeNumPer,dictWordNumPer,digitNumPer,isAbstract,isAddr,isAffi,isCity,isCountry,isDegree,isEmail,isIntro,isKeyWord,isMayName,isMonth,isNote,isPage,isPhone,isPostCode,isPrep,isPubNum,isSingleCap,isState,isURL,linePos,nonDictWordNumPer,noteNumPer,phoneNumPer,pubNumPer,singleDigitNumPer,z_origin,z_pageNo,classification
-0.0,0.0,0.2,0.8,0.0,0.0,0.4,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0.6,0.0,0.0,0.0,0.0,"<title>PDFX: Fully-automated PDF-to-XML Conversion of</title>::line_number::0",0,title
-0.0,0.0,0.333333333333,0.666666666667,0.0,0.0,0.5,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0.5,0.0,0.0,0.0,0.0,"<title>Scientific Literature</title>::line_number::1",0,title
-0.0,0.0,0.333333333333,0.666666666667,0.0,0.0,0.5,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2,0.5,0.0,0.0,0.0,0.0,"<title>Alexandru Constantin</title>::line_number::2",0,title
-0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,"<title>aconstantin@cs.man.ac.uk</title>::line_number::3",0,title
-0.0,0.0,0.333333333333,0.666666666667,0.0,0.0,0.5,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0.5,0.0,0.0,0.0,0.0,"<title>Steve Pettifer</title>::line_number::4",0,title
-0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0.0,0.0,0.0,0.0,0.0,"<title>steve.pettifer@cs.man.ac.uk</title>::line_number::5",0,title
-0.0,0.0,0.333333333333,0.666666666667,0.0,0.0,0.5,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,0.5,0.0,0.0,0.0,0.0,"<title>Andrei Voronkov</title>::line_number::6",0,title
-0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0.0,0.0,0.0,0.0,0.0,"<title>voronkov@cs.man.ac.uk</title>::line_number::7",0,title
-0.0,0.25,0.75,0.25,0.0,0.5,1.0,0.0,0,0,1,0,0,2,0,0,0,0,0,2,0,0,0,1,0,0,0,0,8,0.0,0.5,0.0,0.0,0.0,"<title>School of Computer Science</title>::line_number::8",0,title
-0.0,0.142857142857,0.5,0.5,0.0,0.142857142857,0.571428571429,0.0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,9,0.428571428571,0.0,0.0,0.142857142857,0.0,"<title>The University of Manchester, United Kingdom</title>::line_number::9",0,title
-0.2,0.0,0.75,0.25,0.0,0.0,0.6,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,10,0.4,0.0,0.0,0.0,0.176470588235,"<title>Oxford Road, M13 9PL</title>::line_number::10",0,title
+0.0,0.0,0.714285714286,0.285714285714,0.0,0.0,0.583333333333,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0,0,0,0,0,0.416666666667,0.0833333333333,0.0,0.0,0.025974025974,"<title>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics</title>::line_number::0",0,title
+0.0,0.0,0.714285714286,0.285714285714,0.0,0.0,0.5,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,4,0,1,0,0,1,0.5,0.142857142857,0.0,0.0,0.0533333333333,"<title>and the 7th International Joint Conference on Natural Language Processing, pages 1¨C10,</title>::line_number::1",0,title
+0.0,0.0,0.857142857143,0.142857142857,0.0769230769231,0.0,0.461538461538,0.0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,5,0,0,0,0,2,0.538461538462,0.0,0.0,0.0,0.171428571429,"<title>Beijing, China, July 26-31, 2015. c2015 Association for Computational Linguistics</title>::line_number::2",0,title
+0.0,0.0,0.142857142857,0.857142857143,0.0,0.0,0.142857142857,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0.857142857143,0.0,0.0,0.0,0.0,"<title>On Using Very Large Target Vocabulary for</title>::line_number::3",0,title
+0.0,0.0,0.5,0.5,0.0,0.0,0.666666666667,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0.333333333333,0.0,0.0,0.0,0.0,"<title>Neural Machine Translation</title>::line_number::4",0,title
+0.0,0.0,0.4,0.6,0.0,0.0,0.5,0.0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,5,0.5,0.0,0.0,0.0,0.0,"<title>Sebastien Jean Kyunghyun Cho</title>::line_number::5",0,title
+0.0,0.0,0.333333333333,0.666666666667,0.0,0.0,0.5,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,0.5,0.0,0.0,0.0,0.0,"<title>Roland Memisevic</title>::line_number::6",0,title
+0.0,0.0,0.0,1.0,0.0,0.0,0.333333333333,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,0.666666666667,0.0,0.0,0.0,0.0,"<title>Universite de Montreal</title>::line_number::7",0,title
+0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1.0,0.0,0.0,0.0,0.0,"<title>Yoshua Bengio</title>::line_number::8",0,title
+0.0,0.0,0.0,1.0,0.0,0.0,0.333333333333,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9,0.666666666667,0.0,0.0,0.0,0.0,"<title>Universite de Montreal</title>::line_number::9",0,title
+0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1.0,0.0,0.0,0.0,0.0,"<title>CIFAR Senior Fellow</title>::line_number::10",0,title

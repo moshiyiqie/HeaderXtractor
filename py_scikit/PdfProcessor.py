@@ -10,6 +10,8 @@ import GenerateCRF
 import GenerateVectorMulLines_everyline
 import Data
 from sklearn.datasets import load_svmlight_file
+import PdfMiner
+import RuleEngine
 #作者类
 class Author:
 	name=''
@@ -71,12 +73,50 @@ def getHeader(pdfpath):
 		header.append(line)
 		lineNo+=1
 	return header
+#获得PDF文件的头部、字体、大小
+def getHeaderFontsSizesByPDFbox(pdfpath):
+	oscmd='java -jar ./py_scikit/PDFManagerSizeFont-openjdk.jar '+pdfpath
+	pdfContent = os.popen(oscmd).readlines()
+	header=[]
+	fonts = []
+	sizes = []
+	ypos = []
+	lineNo=1
+	for line in pdfContent:
+		line = line.strip()
+		line = line.replace('?','')#去掉不能识别的问号
+		if len(line)==0: continue
+		if lineNo>=2 and 'abstract' in line.lower(): break
+		first = True
+		content = ''
+		for one in line.split():
+			fontSizeWord = one.split('|||')
+				
+			if first:
+				first = False
+				fonts.append(fontSizeWord[0])
+				sizes.append(fontSizeWord[1])
+				ypos.append(fontSizeWord[2])
+			content += fontSizeWord[3] + ' '
+		header.append(content)
+		lineNo+=1
+	return header,fonts,sizes,ypos
+
+def sortByYpos(header, fonts, sizes, ypos):
+	length = len(ypos)
+	for i in range(length):
+		for j in range(i+1, length):
+			if ypos[i] > ypos[j]:
+				ypos[i], ypos[j] = ypos[j], ypos[i]
+				header[i], header[j] = header[j], header[i]
+				fonts[i], fonts[j] = fonts[j], fonts[i]
+				sizes[i], sizes[j] = sizes[j], sizes[i]
 	
 #获取分类器对每行所属类别的判断-用CRF++
 def getPredictLabelWithCRF(header):
 	GenerateCRF.generateTestFileFromHeaderText(header)
 	oscmd=Config.WORKSPACE+'/CRF++/crf_test -m ./CRF++/train/model ./CRF++/train/crf_test.txt'
-	os.system(oscmd);
+	#os.popen(oscmd);
 	result = os.popen(oscmd).readlines()
 	label = [line.strip().split()[-1] for line in result if len(line.strip())>0]
 	return label
@@ -145,6 +185,7 @@ def getAffliations(header, label):
 	affliationsLine = []
 	for i in range(len(header)):
 		if label[i] == '<affiliation>':
+			print 'debug:',header[i]
 			originLen = len(affliations)
 			if hasDigit(header[i]):
 				affliations += re.split(r'\d(?:,\d)*', header[i])
@@ -212,11 +253,9 @@ def getEmails(header, label):
 			else:
 				emails.append(text)
 			text = ''.join(tmp)
-			print text
 			text = re.sub(r' ,|, ',' ', text)
 			list = text.split()
 			for one in list:
-				print one
 				if '#' in one:
 					at = one.index('@')
 					line = one[:at]
@@ -289,13 +328,27 @@ def handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliati
 def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	#获取Header
 	#pdfpath = 'C:/ZONE/ceshiPDF/P15-1008.pdf'
-	header = getHeader(pdfpath)
+	header, fonts, sizes, ypos = getHeaderFontsSizesByPDFbox(pdfpath)
 	
+	#header = getHeader(pdfpath)
+	assert(len(header) == len(fonts))
+	assert(len(fonts) == len(sizes))
+	assert(len(sizes) == len(ypos))
+	
+	#根据ypos排序
+	sortByYpos(header, fonts, sizes, ypos)
 	
 	#获取预测结果
-	label = getPredictLabelWithScikit(header)
+	#label = getPredictLabelWithScikit(header)
+	label = getPredictLabelWithCRF(header)
+	print header
+	print label
 	#header长度和预测的每行结果的长度必须相同
 	assert(len(header) == len(label))
+	
+	#规则修正
+	label = RuleEngine.fixForSameSizeSameLabel(fonts, sizes, label)
+	label = RuleEngine.fixForAt(header, label)
 	
 	#处理作者
 	authors, authorsIndex, authorsLine = getAuthors(header, label)

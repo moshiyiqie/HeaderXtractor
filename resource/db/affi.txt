@@ -1,4 +1,6 @@
 university
+Technologies
+Stanford
 univ
 department
 institute

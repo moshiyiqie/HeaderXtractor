@@ -77,6 +77,9 @@ def getHeader(pdfpath):
 def getHeaderFontsSizesByPDFbox(pdfpath):
 	oscmd='java -jar ./py_scikit/PDFManagerSizeFont-openjdk.jar '+pdfpath
 	pdfContent = os.popen(oscmd).readlines()
+	
+	#open('./py_scikit/tmp/pdfContentDEBUG.txt','w').writelines(pdfContent)
+	
 	header=[]
 	fonts = []
 	sizes = []
@@ -95,8 +98,8 @@ def getHeaderFontsSizesByPDFbox(pdfpath):
 			if first:
 				first = False
 				fonts.append(fontSizeWord[0])
-				sizes.append(fontSizeWord[1])
-				ypos.append(fontSizeWord[2])
+				sizes.append(float(fontSizeWord[1]))
+				ypos.append(float(fontSizeWord[2]))
 			content += fontSizeWord[3] + ' '
 		header.append(content)
 		lineNo+=1
@@ -343,6 +346,7 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	label = getPredictLabelWithCRF(header)
 	print header
 	print label
+	
 	#header长度和预测的每行结果的长度必须相同
 	assert(len(header) == len(label))
 	

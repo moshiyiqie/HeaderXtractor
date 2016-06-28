@@ -12,52 +12,9 @@ import Data
 from sklearn.datasets import load_svmlight_file
 import PdfMiner
 import RuleEngine
-#作者类
-class Author:
-	name=''
-	address=''
-	affliation=''
-	email=''
-	def __init__(self, name='', address='', affliation='', email=''):
-		self.name = name
-		self.address = address
-		self.affliation = affliation
-		self.email = email
-	def toString(self):
-		outStr = ''
-		if len(self.name)>0: outStr += '[Author name]:' + self.name + '\n'
-		if len(self.address)>0: outStr += '[Address]:' + self.address + '\n'
-		if len(self.affliation)>0: outStr += '[Affliation]:' + self.affliation + '\n'
-		if len(self.email)>0: outStr += '[Email]:' + self.email + '\n'
-		return outStr
-	def toDic(self):
-		dic={}
-		dic['name'] = self.name
-		dic['address'] = self.address
-		dic['affliation'] = self.affliation
-		dic['email'] = self.email
-		return dic
-	
-#是否包含数字
-def hasDigit(s):
-	for ch in s:
-		if str.isdigit(ch): return True
-	return False
-
-#是否有大逗号，指的是非角标编号中的逗号
-def hasBigComma(s, tmpStr):
-	has = False
-	s = s.replace(' and ', ' , ')
-	s = s.replace('*', '')
-	tmp=''
-	for word in s.split():
-		for i in range(len(word)):
-			if word[i]==',' and (i==0 or not str.isdigit(word[i-1]) ) and (i+1==len(word) or not str.isdigit(word[i+1])  ):
-				word= word[:i] + '#' + word[i+1:]
-				has = True
-		tmp += word + ' '
-	tmpStr.append(tmp)
-	return has
+import AffliManager
+import StringManager
+import Author
 	
 #获得PDF文件的头部
 def getHeader(pdfpath):
@@ -134,19 +91,7 @@ def getPredictLabelWithScikit(header):
 	label = [ '<'+ Data.CLASSIFICATION[int(x)]+'>' for x in y_pred]
 	return label
 
-#把本应该是同一行的归属聚集起来
-def clusterSameLine(property, propertyLine):
-	length = len(property)
-	for i in range(1, length):
-		if i >= length: break
-		if propertyLine[i] - 1 == propertyLine[i-1]:
-			if not hasDigit(property[i]):
-				property[i-1] += ' ' + property[i]
-				#print 'pop '+str(i) + ' '+ property[i] + '  lineno:' + str(propertyLine[i])
-				property.pop(i)
-				propertyLine.pop(i)
-		length = len(property)
-	assert(len(property) == len(propertyLine))
+
 	
 #获取作者、作者编号、对应的行
 def getAuthors(header, label):
@@ -157,9 +102,9 @@ def getAuthors(header, label):
 		if label[i] == '<author>':
 			tmpStr=[]
 			originLen = len(authors)
-			if hasBigComma(header[i], tmpStr):
+			if StringManager.hasBigComma(header[i], tmpStr):
 				authors += tmpStr[0].split('#')
-			elif hasDigit(header[i]):
+			elif StringManager.hasDigit(header[i]):
 				authors += re.split(r'\d(?:,\d)*', header[i])
 			else:
 				authors.append(header[i])
@@ -170,48 +115,19 @@ def getAuthors(header, label):
 			authorsIndex = [x.strip() for x in authorsIndex if x not in ['']]
 	
 	assert(len(authors) == len(authorsLine))
+	
+	length = len(authors)
+	i=0
+	while i < length:
+		if authors[i] == '':
+			authors.pop(i)
+			authorsLine.pop(i)
+		i+=1
+		length = len(authors)
+	
 	return authors, authorsIndex, authorsLine
 
-#根据获取到的作者、作者编号、对应的行， 做作者名到作者编号的映射
-def getDicForAuthor(authors, authorsIndex):
-	idAuthors={}
-	for i in range(len(authorsIndex)):
-		idxList = authorsIndex[i].split(',')
-		idxList = [int(x.strip()) for x in idxList if x != '' and x.isdigit()]
-		idAuthors[authors[i]] = idxList
-	return idAuthors
 
-#获得归属、归属编号、对应的行
-def getAffliations(header, label):
-	affliations=[]
-	affliationsIndex = []
-	affliationsLine = []
-	for i in range(len(header)):
-		if label[i] == '<affiliation>':
-			print 'debug:',header[i]
-			originLen = len(affliations)
-			if hasDigit(header[i]):
-				affliations += re.split(r'\d(?:,\d)*', header[i])
-			else:
-				affliations.append(header[i])
-			affliations = [x.strip() for x in affliations if x not in ['']]
-			for j in range(len(affliations) - originLen):
-				affliationsLine.append(i)
-			affliationsIndex += re.findall(r'\d(?:,\d)*', header[i])
-			affliationsIndex = [x.strip() for x in affliationsIndex if x not in ['']]
-	assert(len(affliations) == len(affliationsLine))
-	clusterSameLine(affliations, affliationsLine)
-	return affliations, affliationsIndex, affliationsLine
-#根据获取到的归属、归属编号、对应的行， 做归属编号到归属的映射
-def getDicForAffliations(affliations, affliationsIndex):
-	idAffliations={}
-	for i in range(len(affliationsIndex)):
-		s = affliationsIndex[i].strip()
-		if affliationsIndex[i].strip().isdigit():
-			idx = int(affliationsIndex[i].strip())
-			idAffliations[idx] = affliations[idx-1]
-			
-	return idAffliations
 
 
 #获得地址、地址编号、对应的行
@@ -226,9 +142,48 @@ def getAddress(header, label):
 			for j in range(len(address) - originLen):
 				addressLine.append(i)
 	assert(len(address) == len(addressLine))
-	clusterSameLine(address, addressLine)
+	StringManager.clusterSameLine(address, addressLine)
 	return address, addressLine
 	
+#处理有角标的PDF的作者-地址等匹配
+def handleResultWithIndex(authors, idAuthor, authorsLine, idAffliations, emails, address, addressLine):
+	authorInfo=[]
+	for i in range(len(authors)):
+		name = authors[i]
+		if idAuthor.has_key(authors[i]): 
+			affliation=''
+			for idx in idAuthor[authors[i]]:
+				affliation += idAffliations[idx] + ' ||| '
+			affliation = affliation[:-5]
+		if i < len(emails): 
+			email = emails[i]
+		authorInfo.append(Author.Author(name=name,affliation=affliation, email=email))
+	
+	updateAddress(authors, address, authorInfo, authorsLine, addressLine)
+	
+	return authorInfo
+
+#处理没有角标的PDF的作者-地址等匹配
+def handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliationsLine, address,addressLine):
+	authorInfo=[]
+	for i in range(len(authors)):
+		authorInfo.append(Author.Author(name = authors[i]))
+	
+	if len(authors) == len(affliations):#作者数目和收集到的归属数目相同
+		for i in range(len(authors)):
+			authorInfo[i].affliation = affliations[i]
+	else:#数目不同，找离自己最近的
+		for i in range(len(authors)):
+			lineno = authorsLine[i]
+			for j in range(len(affliations)):
+				if affliationsLine[j] > lineno:
+					authorInfo[i].affliation = affliations[j]
+					break
+	
+	updateAddress(authors, address, authorInfo, authorsLine, addressLine)
+	for i in range(len(emails)):
+		authorInfo[i].email = emails[i]
+	return authorInfo
 	
 
 #获取Email，处理了{}这种情况
@@ -253,6 +208,9 @@ def getEmails(header, label):
 					elif between and ch == ' ':
 						continue
 					else: tmp.append(ch)
+			elif ',' in text:
+				for one in text.split(','):
+					emails.append(one)
 			else:
 				emails.append(text)
 			text = ''.join(tmp)
@@ -286,46 +244,6 @@ def updateAddress(authors, address, authorInfo, authorsLine, addressLine):
 				if addressLine[j] > lineno:
 					authorInfo[i].address = address[j]
 					break
-	
-#处理有角标的PDF的作者-归属等匹配
-def handleResultWithIndex(authors, idAuthor, authorsLine, idAffliations, emails, address, addressLine):
-	authorInfo=[]
-	for i in range(len(authors)):
-		name = authors[i]
-		if idAuthor.has_key(authors[i]): 
-			affliation=''
-			for idx in idAuthor[authors[i]]:
-				affliation += idAffliations[idx] + ' ||| '
-			affliation = affliation[:-5]
-		if i < len(emails): 
-			email = emails[i]
-		authorInfo.append(Author(name=name,affliation=affliation, email=email))
-	
-	updateAddress(authors, address, authorInfo, authorsLine, addressLine)
-	
-	return authorInfo
-
-#处理没有角标的PDF的作者-归属等匹配
-def handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliationsLine, address,addressLine):
-	authorInfo=[]
-	for i in range(len(authors)):
-		authorInfo.append(Author(name = authors[i]))
-	
-	if len(authors) == len(affliations):#作者数目和收集到的归属数目相同
-		for i in range(len(authors)):
-			authorInfo[i].affliation = affliations[i]
-	else:#数目不同，找离自己最近的
-		for i in range(len(authors)):
-			lineno = authorsLine[i]
-			for j in range(len(affliations)):
-				if affliationsLine[j] > lineno:
-					authorInfo[i].affliation = affliations[j]
-					break
-	
-	updateAddress(authors, address, authorInfo, authorsLine, addressLine)
-	for i in range(len(emails)):
-		authorInfo[i].email = emails[i]
-	return authorInfo
 
 
 def run(pdfpath = 'C:/ZONE/test5.pdf'):
@@ -356,11 +274,12 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	
 	#处理作者
 	authors, authorsIndex, authorsLine = getAuthors(header, label)
-	idAuthor = getDicForAuthor(authors, authorsIndex)
+	idAuthor = AffliManager.getDicForAuthor(authors, authorsIndex)
+	print 'authors', authors
 	
 	#处理机构
-	affliations, affliationsIndex, affliationsLine  = getAffliations(header, label)
-	idAffliations = getDicForAffliations(affliations, affliationsIndex)
+	affliations, affliationsIndex, affliationsLine  = AffliManager.getAffliations(header, label)
+	idAffliations = AffliManager.getDicForAffliations(affliations, affliationsIndex)
 	
 	#处理地址
 	address, addressLine  = getAddress(header, label)

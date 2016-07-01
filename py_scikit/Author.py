@@ -3,6 +3,8 @@ import os
 import Config
 import sys
 os.chdir(Config.WORKSPACE)
+import re
+import StringManager
 #作者类
 class Author:
 	name=''
@@ -28,3 +30,59 @@ class Author:
 		dic['affliation'] = self.affliation
 		dic['email'] = self.email
 		return dic
+
+def splitByBigSpace(line, xpos):
+	words = line.strip().split()
+	averageDist = 0
+	for i in range(1,len(words)):
+		averageDist += xpos[i][0] - xpos[i-1][1]
+	averageDist /= len(words) - 1
+	
+	authors = []
+	one = words[0]
+	for i in range(1,len(words)):
+		if xpos[i][0] - xpos[i-1][1] > averageDist:
+			authors.append(one)
+			one = words[i]
+		else:
+			one += ' ' + words[i]
+	if one != '':
+		authors.append(one)
+	#print 'in splitByBigSpace():', authors, averageDist, xpos
+	return authors
+
+#获取作者、作者编号、对应的行
+def getAuthors(header, label, xpos):
+	authors = []
+	authorsIndex = []
+	authorsLine = []
+	for i in range(len(header)):
+		if label[i] == '<author>':
+			tmpStr=[]
+			originLen = len(authors)
+			if StringManager.hasBigComma(header[i], tmpStr):
+				authors += tmpStr[0].split('#')
+			elif StringManager.hasDigit(header[i]):
+				authors += re.split(r'\d(?:,\d)*', header[i])
+			elif len(header[i].strip().split()) >= 4:
+				authors += splitByBigSpace(header[i], xpos[i])
+			else:
+				authors.append(header[i])
+			authors = [x.strip() for x in authors if x not in ['']]
+			for j in range(len(authors) - originLen):
+				authorsLine.append(i)
+			authorsIndex += re.findall(r'\d(?:,\d)*', header[i])
+			authorsIndex = [x.strip() for x in authorsIndex if x not in ['']]
+	
+	assert(len(authors) == len(authorsLine))
+	
+	length = len(authors)
+	i=0
+	while i < length:
+		if authors[i] == '':
+			authors.pop(i)
+			authorsLine.pop(i)
+		i+=1
+		length = len(authors)
+	
+	return authors, authorsIndex, authorsLine

@@ -41,6 +41,7 @@ def getHeaderFontsSizesByPDFbox(pdfpath):
 	fonts = []
 	sizes = []
 	ypos = []
+	xpos = []
 	lineNo=1
 	for line in pdfContent:
 		line = line.strip()
@@ -57,12 +58,14 @@ def getHeaderFontsSizesByPDFbox(pdfpath):
 				fonts.append(fontSizeWord[0])
 				sizes.append(float(fontSizeWord[1]))
 				ypos.append(float(fontSizeWord[2]))
-			content += fontSizeWord[3] + ' '
+				xpos.append([])
+			xpos[-1].append([float(fontSizeWord[3]), float(fontSizeWord[5])])
+			content += fontSizeWord[4] + ' '
 		header.append(content)
 		lineNo+=1
-	return header,fonts,sizes,ypos
+	return header,fonts,sizes,ypos,xpos
 
-def sortByYpos(header, fonts, sizes, ypos):
+def sortByYpos(header, fonts, sizes, ypos, xpos):
 	length = len(ypos)
 	for i in range(length):
 		for j in range(i+1, length):
@@ -71,6 +74,7 @@ def sortByYpos(header, fonts, sizes, ypos):
 				header[i], header[j] = header[j], header[i]
 				fonts[i], fonts[j] = fonts[j], fonts[i]
 				sizes[i], sizes[j] = sizes[j], sizes[i]
+				xpos[i], xpos[j] = xpos[j], xpos[i]
 	
 #获取分类器对每行所属类别的判断-用CRF++
 def getPredictLabelWithCRF(header):
@@ -80,6 +84,7 @@ def getPredictLabelWithCRF(header):
 	result = os.popen(oscmd).readlines()
 	label = [line.strip().split()[-1] for line in result if len(line.strip())>0]
 	return label
+	
 #获取分类器对每行所属类别的判断-用Scikit
 def getPredictLabelWithScikit(header):
 	clfScikit = pickle.load(open(r'./RandomForestScikitModel'))
@@ -90,44 +95,6 @@ def getPredictLabelWithScikit(header):
 	y_pred = clfScikit.predict(X)
 	label = [ '<'+ Data.CLASSIFICATION[int(x)]+'>' for x in y_pred]
 	return label
-
-
-	
-#获取作者、作者编号、对应的行
-def getAuthors(header, label):
-	authors = []
-	authorsIndex = []
-	authorsLine = []
-	for i in range(len(header)):
-		if label[i] == '<author>':
-			tmpStr=[]
-			originLen = len(authors)
-			if StringManager.hasBigComma(header[i], tmpStr):
-				authors += tmpStr[0].split('#')
-			elif StringManager.hasDigit(header[i]):
-				authors += re.split(r'\d(?:,\d)*', header[i])
-			else:
-				authors.append(header[i])
-			authors = [x.strip() for x in authors if x not in ['']]
-			for j in range(len(authors) - originLen):
-				authorsLine.append(i)
-			authorsIndex += re.findall(r'\d(?:,\d)*', header[i])
-			authorsIndex = [x.strip() for x in authorsIndex if x not in ['']]
-	
-	assert(len(authors) == len(authorsLine))
-	
-	length = len(authors)
-	i=0
-	while i < length:
-		if authors[i] == '':
-			authors.pop(i)
-			authorsLine.pop(i)
-		i+=1
-		length = len(authors)
-	
-	return authors, authorsIndex, authorsLine
-
-
 
 
 #获得地址、地址编号、对应的行
@@ -249,7 +216,7 @@ def updateAddress(authors, address, authorInfo, authorsLine, addressLine):
 def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	#获取Header
 	#pdfpath = 'C:/ZONE/ceshiPDF/P15-1008.pdf'
-	header, fonts, sizes, ypos = getHeaderFontsSizesByPDFbox(pdfpath)
+	header, fonts, sizes, ypos, xpos = getHeaderFontsSizesByPDFbox(pdfpath)
 	
 	#header = getHeader(pdfpath)
 	assert(len(header) == len(fonts))
@@ -257,7 +224,7 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	assert(len(sizes) == len(ypos))
 	
 	#根据ypos排序
-	sortByYpos(header, fonts, sizes, ypos)
+	sortByYpos(header, fonts, sizes, ypos, xpos)
 	
 	#获取预测结果
 	#label = getPredictLabelWithScikit(header)
@@ -273,7 +240,7 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	label = RuleEngine.fixForAt(header, label)
 	
 	#处理作者
-	authors, authorsIndex, authorsLine = getAuthors(header, label)
+	authors, authorsIndex, authorsLine = Author.getAuthors(header, label, xpos)
 	idAuthor = AffliManager.getDicForAuthor(authors, authorsIndex)
 	print 'authors', authors
 	

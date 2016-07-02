@@ -86,3 +86,12 @@ def getAuthors(header, label, xpos):
 		length = len(authors)
 	
 	return authors, authorsIndex, authorsLine
+	
+#根据获取到的作者、作者编号、对应的行， 做作者名到作者编号的映射
+def getDicForAuthor(authors, authorsIndex):
+	idAuthors={}
+	for i in range(len(authorsIndex)):
+		idxList = authorsIndex[i].split(',')
+		idxList = [int(x.strip()) for x in idxList if x != '' and x.isdigit()]
+		idAuthors[authors[i]] = idxList
+	return idAuthors

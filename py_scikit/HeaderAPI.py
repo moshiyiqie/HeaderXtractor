@@ -26,7 +26,7 @@ def run(pdfpath):
 
 if __name__ == '__main__':
 	#path = './test.pdf'
-	path = 'C:/ZONE/ceshiPDF2/P15-1050.pdf'
+	path = 'C:/ZONE/ceshiPDF2/P15-1023.pdf'
 	title, dicSet, header, predictLabel=run(path)
 	#print header
 	#print predictLabel

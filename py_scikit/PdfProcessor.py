@@ -15,7 +15,7 @@ import RuleEngine
 import AffliManager
 import StringManager
 import Author
-	
+import AddressManager
 #获得PDF文件的头部
 def getHeader(pdfpath):
 	oscmd='java -jar ./py_scikit/PDFManager-openjdk.jar '+pdfpath
@@ -95,29 +95,13 @@ def getPredictLabelWithScikit(header):
 	y_pred = clfScikit.predict(X)
 	label = [ '<'+ Data.CLASSIFICATION[int(x)]+'>' for x in y_pred]
 	return label
-
-
-#获得地址、地址编号、对应的行
-def getAddress(header, label):
-	address=[]
-	addressLine = []
-	for i in range(len(header)):
-		if label[i] == '<address>':
-			originLen = len(address)
-			address.append(header[i])
-			address = [x.strip() for x in address if x not in ['']]
-			for j in range(len(address) - originLen):
-				addressLine.append(i)
-	assert(len(address) == len(addressLine))
-	StringManager.clusterSameLine(address, addressLine)
-	return address, addressLine
 	
 #处理有角标的PDF的作者-地址等匹配
 def handleResultWithIndex(authors, idAuthor, authorsLine, idAffliations, emails, address, addressLine):
 	authorInfo=[]
 	for i in range(len(authors)):
 		name = authors[i]
-		if idAuthor.has_key(authors[i]): 
+		if idAuthor.has_key(authors[i]) and len(idAffliations) > 0: 
 			affliation=''
 			for idx in idAuthor[authors[i]]:
 				affliation += idAffliations[idx] + ' ||| '
@@ -126,7 +110,7 @@ def handleResultWithIndex(authors, idAuthor, authorsLine, idAffliations, emails,
 			email = emails[i]
 		authorInfo.append(Author.Author(name=name,affliation=affliation, email=email))
 	
-	updateAddress(authors, address, authorInfo, authorsLine, addressLine)
+	#AddressManager.updateAddress(authors, address, authorInfo, authorsLine, addressLine)
 	
 	return authorInfo
 
@@ -147,7 +131,7 @@ def handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliati
 					authorInfo[i].affliation = affliations[j]
 					break
 	
-	updateAddress(authors, address, authorInfo, authorsLine, addressLine)
+	AddressManager.updateAddress(authors, address, authorInfo, authorsLine, addressLine)
 	for i in range(len(emails)):
 		authorInfo[i].email = emails[i]
 	return authorInfo
@@ -199,18 +183,7 @@ def getTitle(header, label):
 		if label[i] == '<title>':
 			title += header[i].strip() + ' '
 	return title.strip()
-#为authorInfo更新每个作者的地址信息
-def updateAddress(authors, address, authorInfo, authorsLine, addressLine):
-	if len(authors) == len(address):#作者数目和收集到的归属数目相同
-		for i in range(len(authors)):
-			authorInfo[i].address = address[i]
-	else:#数目不同，找离自己最近的
-		for i in range(len(authors)):
-			lineno = authorsLine[i]
-			for j in range(len(address)):
-				if addressLine[j] > lineno:
-					authorInfo[i].address = address[j]
-					break
+
 
 
 def run(pdfpath = 'C:/ZONE/test5.pdf'):
@@ -230,7 +203,7 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	#label = getPredictLabelWithScikit(header)
 	label = getPredictLabelWithCRF(header)
 	print header
-	print label
+	print '[Before Rule]',label
 	
 	#header长度和预测的每行结果的长度必须相同
 	assert(len(header) == len(label))
@@ -238,18 +211,21 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	#规则修正
 	label = RuleEngine.fixForSameSizeSameLabel(fonts, sizes, label)
 	label = RuleEngine.fixForAt(header, label)
+	print '[After Rule]',label
 	
 	#处理作者
 	authors, authorsIndex, authorsLine = Author.getAuthors(header, label, xpos)
-	idAuthor = AffliManager.getDicForAuthor(authors, authorsIndex)
-	print 'authors', authors
+	idAuthor = Author.getDicForAuthor(authors, authorsIndex)
+	#print 'authors', authors
 	
 	#处理机构
 	affliations, affliationsIndex, affliationsLine  = AffliManager.getAffliations(header, label)
 	idAffliations = AffliManager.getDicForAffliations(affliations, affliationsIndex)
+	#print affliations
 	
 	#处理地址
-	address, addressLine  = getAddress(header, label)
+	address, addressLine  = AddressManager.getAddress(header, label)
+	idAddress = AddressManager.getDicForAddress(affliations, affliationsIndex)
 	
 	#处理Email
 	emails = getEmails(header, label)

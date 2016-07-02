@@ -31,14 +31,7 @@ def getAffliations(header, label):
 	StringManager.clusterSameLine(affliations, affliationsLine)
 	return affliations, affliationsIndex, affliationsLine
 
-#根据获取到的作者、作者编号、对应的行， 做作者名到作者编号的映射
-def getDicForAuthor(authors, authorsIndex):
-	idAuthors={}
-	for i in range(len(authorsIndex)):
-		idxList = authorsIndex[i].split(',')
-		idxList = [int(x.strip()) for x in idxList if x != '' and x.isdigit()]
-		idAuthors[authors[i]] = idxList
-	return idAuthors
+
 
 #根据获取到的归属、归属编号、对应的行， 做归属编号到归属的映射
 def getDicForAffliations(affliations, affliationsIndex):
@@ -48,5 +41,4 @@ def getDicForAffliations(affliations, affliationsIndex):
 		if affliationsIndex[i].strip().isdigit():
 			idx = int(affliationsIndex[i].strip())
 			idAffliations[idx] = affliations[idx-1]
-			
 	return idAffliations

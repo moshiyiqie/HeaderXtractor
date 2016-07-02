@@ -12,10 +12,10 @@ import Data
 from sklearn.datasets import load_svmlight_file
 import PdfMiner
 import RuleEngine
-import AffliManager
 import StringManager
 import Author
 import AddressManager
+import AttributeWithIndex
 #获得PDF文件的头部
 def getHeader(pdfpath):
 	oscmd='java -jar ./py_scikit/PDFManager-openjdk.jar '+pdfpath
@@ -97,19 +97,15 @@ def getPredictLabelWithScikit(header):
 	return label
 	
 #处理有角标的PDF的作者-地址等匹配
-def handleResultWithIndex(authors, idAuthor, authorsLine, idAffliations, emails, address, addressLine):
+def handleResultWithIndex(authors, idAuthor, idAffliations, idAddress,  emails):
 	authorInfo=[]
 	for i in range(len(authors)):
 		name = authors[i]
-		if idAuthor.has_key(authors[i]) and len(idAffliations) > 0: 
-			affliation=''
-			for idx in idAuthor[authors[i]]:
-				affliation += idAffliations[idx] + ' ||| '
-			affliation = affliation[:-5]
+		affliation = AttributeWithIndex.matchAuthorAttributes(authors[i], idAuthor, idAffliations)
+		addr = AttributeWithIndex.matchAuthorAttributes(authors[i], idAuthor, idAddress)
 		if i < len(emails): 
 			email = emails[i]
-		authorInfo.append(Author.Author(name=name,affliation=affliation, email=email))
-	
+		authorInfo.append(Author.Author(name=name,affliation=affliation, email=email, address = addr))
 	#AddressManager.updateAddress(authors, address, authorInfo, authorsLine, addressLine)
 	
 	return authorInfo
@@ -219,23 +215,25 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	#print 'authors', authors
 	
 	#处理机构
-	affliations, affliationsIndex, affliationsLine  = AffliManager.getAffliations(header, label)
-	idAffliations = AffliManager.getDicForAffliations(affliations, affliationsIndex)
+	affliations, affliationsIndex, affliationsLine  = AttributeWithIndex.getAttributes(header, label)
+	idAffliations = AttributeWithIndex.getDicForAttributes(affliations, affliationsIndex)
 	#print affliations
 	
 	#处理地址
-	address, addressLine  = AddressManager.getAddress(header, label)
-	idAddress = AddressManager.getDicForAddress(affliations, affliationsIndex)
+	address, addressIndex, addressLine  = AttributeWithIndex.getAttributes(header, label)
+	idAddress = AttributeWithIndex.getDicForAttributes(address, addressIndex)
+	print address, idAddress
 	
 	#处理Email
 	emails = getEmails(header, label)
 	
 	#处理title
 	title = getTitle(header, label)
+	
 	#输出
 	authorInfo = []
 	if len(idAuthor) != 0:
-		authorInfo = handleResultWithIndex(authors, idAuthor, authorsLine, idAffliations, emails, address, addressLine)#针对有角标的pdf输出
+		authorInfo = handleResultWithIndex(authors, idAuthor, idAffliations, idAddress,  emails)#针对有角标的pdf输出
 	else:
 		authorInfo = handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliationsLine, address,addressLine)#针对无角标的pdf输出
 	

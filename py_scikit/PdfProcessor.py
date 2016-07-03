@@ -16,6 +16,8 @@ import StringManager
 import Author
 import AddressManager
 import AttributeWithIndex
+import Pdf
+import EmailManager
 #获得PDF文件的头部
 def getHeader(pdfpath):
 	oscmd='java -jar ./py_scikit/PDFManager-openjdk.jar '+pdfpath
@@ -30,51 +32,6 @@ def getHeader(pdfpath):
 		header.append(line)
 		lineNo+=1
 	return header
-#获得PDF文件的头部、字体、大小
-def getHeaderFontsSizesByPDFbox(pdfpath):
-	oscmd='java -jar ./py_scikit/PDFManagerSizeFont-openjdk.jar '+pdfpath
-	pdfContent = os.popen(oscmd).readlines()
-	
-	#open('./py_scikit/tmp/pdfContentDEBUG.txt','w').writelines(pdfContent)
-	
-	header=[]
-	fonts = []
-	sizes = []
-	ypos = []
-	xpos = []
-	lineNo=1
-	for line in pdfContent:
-		line = line.strip()
-		line = line.replace('?','')#去掉不能识别的问号
-		if len(line)==0: continue
-		if lineNo>=2 and 'abstract' in line.lower(): break
-		first = True
-		content = ''
-		for one in line.split():
-			fontSizeWord = one.split('|||')
-				
-			if first:
-				first = False
-				fonts.append(fontSizeWord[0])
-				sizes.append(float(fontSizeWord[1]))
-				ypos.append(float(fontSizeWord[2]))
-				xpos.append([])
-			xpos[-1].append([float(fontSizeWord[3]), float(fontSizeWord[5])])
-			content += fontSizeWord[4] + ' '
-		header.append(content)
-		lineNo+=1
-	return header,fonts,sizes,ypos,xpos
-
-def sortByYpos(header, fonts, sizes, ypos, xpos):
-	length = len(ypos)
-	for i in range(length):
-		for j in range(i+1, length):
-			if ypos[i] > ypos[j]:
-				ypos[i], ypos[j] = ypos[j], ypos[i]
-				header[i], header[j] = header[j], header[i]
-				fonts[i], fonts[j] = fonts[j], fonts[i]
-				sizes[i], sizes[j] = sizes[j], sizes[i]
-				xpos[i], xpos[j] = xpos[j], xpos[i]
 	
 #获取分类器对每行所属类别的判断-用CRF++
 def getPredictLabelWithCRF(header):
@@ -133,45 +90,7 @@ def handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliati
 	return authorInfo
 	
 
-#获取Email，处理了{}这种情况
-def getEmails(header, label):
-	emails = []
-	for i in range(len(header)):
-		if label[i] == '<email>':
-			text = header[i].strip()
-			tmp = []
-			if '{' in text:
-				between = False
-				for ch in text:
-					if ch == '{': 
-						tmp.append(ch)
-						between = True
-					elif ch == '}':
-						tmp.append(ch)
-						between = False
-					elif ch == ',':
-						if between: tmp.append('#')
-						else: tmp.append(',')
-					elif between and ch == ' ':
-						continue
-					else: tmp.append(ch)
-			elif ',' in text:
-				for one in text.split(','):
-					emails.append(one)
-			else:
-				emails.append(text)
-			text = ''.join(tmp)
-			text = re.sub(r' ,|, ',' ', text)
-			list = text.split()
-			for one in list:
-				if '#' in one:
-					at = one.index('@')
-					line = one[:at]
-					for pre in line.split('#'):
-						emails.append((pre.strip() + one[at:]).strip().replace('{','').replace('}',''))
-				else:
-					emails.append(one.strip().replace('{','').replace('}',''))
-	return emails
+
 #处理title
 def getTitle(header, label):
 	title = ''
@@ -185,15 +104,15 @@ def getTitle(header, label):
 def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	#获取Header
 	#pdfpath = 'C:/ZONE/ceshiPDF/P15-1008.pdf'
-	header, fonts, sizes, ypos, xpos = getHeaderFontsSizesByPDFbox(pdfpath)
-	
-	#header = getHeader(pdfpath)
-	assert(len(header) == len(fonts))
-	assert(len(fonts) == len(sizes))
-	assert(len(sizes) == len(ypos))
+	pdf = Pdf.Pdf()
+	pdf.loadPdfByPDFbox(pdfpath)
 	
 	#根据ypos排序
-	sortByYpos(header, fonts, sizes, ypos, xpos)
+	pdf.sortByYpos()
+	
+	header, fonts, sizes, ypos, xpos = pdf.header, pdf.fonts, pdf.sizes, pdf.ypos, pdf.xpos
+	
+	
 	
 	#获取预测结果
 	#label = getPredictLabelWithScikit(header)
@@ -207,25 +126,27 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	#规则修正
 	label = RuleEngine.fixForSameSizeSameLabel(fonts, sizes, label)
 	label = RuleEngine.fixForAt(header, label)
+	label = RuleEngine.fixForContainUniversity(header, label)
 	print '[After Rule]',label
 	
 	#处理作者
-	authors, authorsIndex, authorsLine = Author.getAuthors(header, label, xpos)
+	authors, authorsIndex, authorsLine = Author.getAuthors(header, label, xpos, pdf)
 	idAuthor = Author.getDicForAuthor(authors, authorsIndex)
-	#print 'authors', authors
+	print 'authors,idAuthor', authors,idAuthor
 	
 	#处理机构
-	affliations, affliationsIndex, affliationsLine  = AttributeWithIndex.getAttributes(header, label)
+	affliations, affliationsIndex, affliationsLine  = AttributeWithIndex.getAttributes(header, label, 'affiliation', pdf)
 	idAffliations = AttributeWithIndex.getDicForAttributes(affliations, affliationsIndex)
-	#print affliations
+	#print 'affliations, affliationsIndex', affliations, affliationsIndex
+	print 'affliations, idAffliations', affliations, idAffliations
 	
 	#处理地址
-	address, addressIndex, addressLine  = AttributeWithIndex.getAttributes(header, label)
+	address, addressIndex, addressLine  = AttributeWithIndex.getAttributes(header, label, 'address', pdf)
 	idAddress = AttributeWithIndex.getDicForAttributes(address, addressIndex)
-	print address, idAddress
+	
 	
 	#处理Email
-	emails = getEmails(header, label)
+	emails = EmailManager.getEmails(header, label)
 	
 	#处理title
 	title = getTitle(header, label)

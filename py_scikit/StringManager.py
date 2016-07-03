@@ -4,6 +4,7 @@ import Config
 import sys
 import PdfProcessor
 os.chdir(Config.WORKSPACE)
+import Pdf
 
 #是否包含数字
 def hasDigit(s):
@@ -27,13 +28,13 @@ def hasBigComma(s, tmpStr):
 	return has
 	
 #把本应该是同一行的归属聚集起来
-def clusterSameLine(property, propertyLine):
+def clusterSameLine(property, propertyLine, pdf):
 	length = len(property)
-	i=0
+	i=1
 	while i<length:
 		if i >= length: break
 		if propertyLine[i] - 1 == propertyLine[i-1]:
-			if not hasDigit(property[i]):
+			if not pdf.hasIndex(propertyLine[i]):
 				property[i-1] += ' ' + property[i]
 				#print 'pop '+str(i) + ' '+ property[i] + '  lineno:' + str(propertyLine[i])
 				property.pop(i)

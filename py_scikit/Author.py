@@ -52,7 +52,7 @@ def splitByBigSpace(line, xpos):
 	return authors
 
 #获取作者、作者编号、对应的行
-def getAuthors(header, label, xpos):
+def getAuthors(header, label, xpos, pdf):
 	authors = []
 	authorsIndex = []
 	authorsLine = []
@@ -62,8 +62,13 @@ def getAuthors(header, label, xpos):
 			originLen = len(authors)
 			if StringManager.hasBigComma(header[i], tmpStr):
 				authors += tmpStr[0].split('#')
-			elif StringManager.hasDigit(header[i]):
-				authors += re.split(r'\d(?:,\d)*', header[i])
+			#elif StringManager.hasDigit(header[i]):
+			#	authors += re.split(r'\d(?:,\d)*', header[i])
+			elif pdf.hasIndex(i):
+				print 'AUTHOR HAS INDEX'
+				authorListTmp, authorIndexTmp = pdf.handleIndex(i)
+				authors += authorListTmp
+				authorsIndex += authorIndexTmp
 			elif len(header[i].strip().split()) >= 4:
 				authors += splitByBigSpace(header[i], xpos[i])
 			else:
@@ -71,8 +76,8 @@ def getAuthors(header, label, xpos):
 			authors = [x.strip() for x in authors if x not in ['']]
 			for j in range(len(authors) - originLen):
 				authorsLine.append(i)
-			authorsIndex += re.findall(r'\d(?:,\d)*', header[i])
-			authorsIndex = [x.strip() for x in authorsIndex if x not in ['']]
+			#authorsIndex += re.findall(r'\d(?:,\d)*', header[i])
+			#authorsIndex = [x.strip() for x in authorsIndex if x not in ['']]
 	
 	assert(len(authors) == len(authorsLine))
 	
@@ -84,14 +89,31 @@ def getAuthors(header, label, xpos):
 			authorsLine.pop(i)
 		i+=1
 		length = len(authors)
-	
+	print 'authors, authorsIndex', authors, authorsIndex
 	return authors, authorsIndex, authorsLine
 	
 #根据获取到的作者、作者编号、对应的行， 做作者名到作者编号的映射
 def getDicForAuthor(authors, authorsIndex):
+	if len(authorsIndex) == 0: return {}
 	idAuthors={}
 	for i in range(len(authorsIndex)):
-		idxList = authorsIndex[i].split(',')
-		idxList = [int(x.strip()) for x in idxList if x != '' and x.isdigit()]
-		idAuthors[authors[i]] = idxList
+		if i >= range(len(authors)):
+			break
+		idAuthors[authors[i]] = authorsIndex[i]
 	return idAuthors
+	'''
+	if authorsIndex[0].strip().isdigit():
+		idAuthors={}
+		for i in range(len(authorsIndex)):
+			idxList = authorsIndex[i].split(',')
+			idxList = [int(x.strip()) for x in idxList if x != '' and x.isdigit()]
+			idAuthors[authors[i]] = idxList
+		return idAuthors
+	else:
+		idAuthors={}
+		for i in range(len(authorsIndex)):
+			if i >= range(len(authors)):
+				break
+			idAuthors[authors[i]] = [authorsIndex[i]]
+		return idAuthors
+	'''

@@ -31,11 +31,33 @@ def getAttributes(header, label, attributeKind, pdf):
 	assert(len(attributes) == len(attributesLine))
 	#print 'attribute and lineNo', attributes, attributesLine
 	StringManager.clusterSameLine(attributes, attributesLine, pdf)
-	print 'attributes, attributesIndex', attributes, attributesIndex
+	#print 'attributes, attributesIndex', attributes, attributesIndex
 	return attributes, attributesIndex, attributesLine
 
 #根据获取到的属性、属性编号、对应的行， 做属性编号到属性的映射
 def getDicForAttributes(attributes, attributesIndex):
+	if len(attributesIndex) ==0 : return {}
+	print 'attributesIndex', attributesIndex
+	attributesIndexTmp = [x[0] for x in attributesIndex]
+	idAttributes={}
+	for i in range(len(attributesIndexTmp)):
+		if i >= range(len(attributes)):
+			break
+		idAttributes[attributesIndexTmp[i]] = attributes[i]
+	return idAttributes
+
+def matchAuthorAttributes(author, idAuthor, idAttributes):
+	attribute=''
+	if idAuthor.has_key(author) and len(idAttributes) > 0: 
+		for idx in idAuthor[author]:
+			if idAttributes.has_key(idx):
+				attribute += idAttributes[idx] + ' ||| '
+		attribute = attribute[:-5]
+	return attribute
+	
+'''
+#根据获取到的属性、属性编号、对应的行， 做属性编号到属性的映射
+def getDicForAttributesOLD(attributes, attributesIndex):
 	if len(attributesIndex) ==0 : return {}
 	attributesIndexTmp = [x[0] for x in attributesIndex]
 	if attributesIndexTmp[0].strip().isdigit():
@@ -53,12 +75,4 @@ def getDicForAttributes(attributes, attributesIndex):
 				break
 			idAttributes[attributesIndexTmp[i]] = attributes[i]
 		return idAttributes
-
-def matchAuthorAttributes(author, idAuthor, idAttributes):
-	attribute=''
-	if idAuthor.has_key(author) and len(idAttributes) > 0: 
-		for idx in idAuthor[author]:
-			if idAttributes.has_key(idx):
-				attribute += idAttributes[idx] + ' ||| '
-		attribute = attribute[:-5]
-	return attribute
+'''

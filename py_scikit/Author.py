@@ -60,15 +60,15 @@ def getAuthors(header, label, xpos, pdf):
 		if label[i] == '<author>':
 			tmpStr=[]
 			originLen = len(authors)
-			if StringManager.hasBigComma(header[i], tmpStr):
-				authors += tmpStr[0].split('#')
 			#elif StringManager.hasDigit(header[i]):
 			#	authors += re.split(r'\d(?:,\d)*', header[i])
-			elif pdf.hasIndex(i):
-				print 'AUTHOR HAS INDEX'
+			if pdf.hasIndex(i):
+				#print 'AUTHOR HAS INDEX'
 				authorListTmp, authorIndexTmp = pdf.handleIndex(i)
 				authors += authorListTmp
 				authorsIndex += authorIndexTmp
+			elif StringManager.hasBigComma(header[i], tmpStr):
+				authors += tmpStr[0].split('#')
 			elif len(header[i].strip().split()) >= 4:
 				authors += splitByBigSpace(header[i], xpos[i])
 			else:
@@ -78,7 +78,7 @@ def getAuthors(header, label, xpos, pdf):
 				authorsLine.append(i)
 			#authorsIndex += re.findall(r'\d(?:,\d)*', header[i])
 			#authorsIndex = [x.strip() for x in authorsIndex if x not in ['']]
-	
+	authors = [x.replace(',','') for x in authors]
 	assert(len(authors) == len(authorsLine))
 	
 	length = len(authors)

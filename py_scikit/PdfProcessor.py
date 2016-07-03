@@ -124,9 +124,10 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	assert(len(header) == len(label))
 	
 	#规则修正
-	label = RuleEngine.fixForSameSizeSameLabel(fonts, sizes, label)
 	label = RuleEngine.fixForAt(header, label)
 	label = RuleEngine.fixForContainUniversity(header, label)
+	label = RuleEngine.fixForCheckIfNoAuthor(header, label)
+	label = RuleEngine.fixForSameSizeSameLabel(fonts, sizes, label)
 	print '[After Rule]',label
 	
 	#处理作者

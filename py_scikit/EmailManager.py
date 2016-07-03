@@ -21,7 +21,7 @@ def getEmails(header, label):
 					elif ch == '}':
 						tmp.append(ch)
 						between = False
-					elif ch == ',':
+					elif ch == ',' or ch == '|':
 						if between: tmp.append('#')
 						else: tmp.append(',')
 					elif between and ch == ' ':

@@ -1,1 +1,1 @@
-wordList[i], lineCharSizes[i] 10 6 Dyer♣♠
+wordList[i], lineCharSizes[i] 19 18 Universita¨tsstraße

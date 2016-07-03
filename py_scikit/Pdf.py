@@ -87,7 +87,7 @@ class Pdf:
 		assert(len(wordList) == len(lineCharSizes))
 		for i in range(len(wordList)):
 			if len(wordList[i]) != len(lineCharSizes[i]):
-				open('./py_scikit/tmp/debug.txt','w').writelines(' '.join(['wordList[i], lineCharSizes[i]', str(len(wordList[i])), str(len(lineCharSizes[i])), wordList[i]]))
+				open('./py_scikit/tmp/debug.txt','w').writelines(' '.join(['wordList[i], lineCharSizes[i]', str(len(wordList[i])), str(len(lineCharSizes[i])), utf8(wordList[i])]))
 			assert(len(list(wordList[i])) == len(lineCharSizes[i]))
 			for j in range(len(wordList[i])):
 				if lineCharSizes[i][j] < averageCharSize:
@@ -115,13 +115,13 @@ class Pdf:
 				else:
 					line.append(wordList[i][j])
 					if tmpIndex != '': 
-						tmpIndex = tmpIndex.replace(u'(','').replace(u')','').replace('{','').replace('}','')
+						tmpIndex = tmpIndex.replace(u'(','').replace(u')','').replace('{','').replace('}','').replace(u'*','').replace(u'\u2217','')
 						attributesIndex.append(Tools.flatList([x for x in tmpIndex.split(u',') if x != u'']))
 					tmpIndex=''
 			line.append(' ')
 		attributesList = [x for x in ''.join(line).split('#') if x != '']
 		if tmpIndex != '': 
-			tmpIndex = tmpIndex.replace(u'(','').replace(u')','').replace('{','').replace('}','')
+			tmpIndex = tmpIndex.replace(u'(','').replace(u')','').replace('{','').replace('}','').replace(u'*','').replace(u'\u2217','')
 			attributesIndex.append(Tools.flatList([x for x in tmpIndex.split(u',') if x != u'']))
 		#print '.join(line)', ''.join(line)
 		#print 'attributesList,attributesIndex', attributesList, attributesIndex

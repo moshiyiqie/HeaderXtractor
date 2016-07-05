@@ -7,6 +7,7 @@ import re
 import Author
 os.chdir(Config.WORKSPACE)
 import Tools
+import copy
 def uni(s):
 		return unicode(s,'utf-8')
 def utf8(s):
@@ -53,20 +54,80 @@ class Pdf:
 		assert(len(self.header) == len(self.fonts))
 		assert(len(self.fonts) == len(self.sizes))
 		assert(len(self.sizes) == len(self.ypos))
-		
+	
+	def swapAllDataIJ(self,i, j):
+		self.ypos[i], self.ypos[j] = self.ypos[j], self.ypos[i]
+		self.header[i], self.header[j] = self.header[j], self.header[i]
+		self.fonts[i], self.fonts[j] = self.fonts[j], self.fonts[i]
+		self.sizes[i], self.sizes[j] = self.sizes[j], self.sizes[i]
+		self.xpos[i], self.xpos[j] = self.xpos[j], self.xpos[i]
+		self.charSizes[i], self.charSizes[j] = self.charSizes[j], self.charSizes[i]
+	
 	#根据每一行的y坐标进行排序
 	def sortByYpos(self):
+		LINE_BETWEEN = 5.0 #行间距
+		
 		length = len(self.ypos)
 		for i in range(length):
 			for j in range(i+1, length):
-				if self.ypos[i] > self.ypos[j]:
-					self.ypos[i], self.ypos[j] = self.ypos[j], self.ypos[i]
-					self.header[i], self.header[j] = self.header[j], self.header[i]
-					self.fonts[i], self.fonts[j] = self.fonts[j], self.fonts[i]
-					self.sizes[i], self.sizes[j] = self.sizes[j], self.sizes[i]
-					self.xpos[i], self.xpos[j] = self.xpos[j], self.xpos[i]
-					self.charSizes[i], self.charSizes[j] = self.charSizes[j], self.charSizes[i]
-	
+				if self.ypos[i] - LINE_BETWEEN >= self.ypos[j]:
+					self.swapAllDataIJ(i,j)
+				elif abs(self.ypos[i] - self.ypos[j]) <= LINE_BETWEEN:
+					if self.xpos[i] > self.xpos[j]:
+						self.swapAllDataIJ(i,j)
+		
+		print 'YPOS::', self.ypos
+		lineVec=[[0]]
+		for i in range(1, length):
+			if abs(self.ypos[i] - self.ypos[i-1]) < LINE_BETWEEN:
+				lineVec[-1].append(i)
+				j = len(lineVec[-1]) - 1
+				while j >=1 and self.xpos[lineVec[-1][j]][0] < self.xpos[lineVec[-1][j-1]][0]:
+					lineVec[-1][j], lineVec[-1][j-1] = lineVec[-1][j-1], lineVec[-1][j]
+					j -= 1
+			else:
+				lineVec.append([i])
+		print 'lineVec::',lineVec
+		verVec = []
+		for i in range(len(lineVec)):
+			for j in range(len(lineVec[i])):
+				if len(verVec) - 1 < j:
+					verVec.append([lineVec[i][j]])
+				else: 
+					verVec[j].append(lineVec[i][j])
+		print 'verVec::', verVec
+		#将数组变为排出的顺序
+		finalSeq = []
+		for col in verVec:
+			for No in col:
+				finalSeq.append(No)
+		
+		header=copy.deepcopy(self.header)
+		fonts=copy.deepcopy(self.fonts)
+		sizes=copy.deepcopy(self.sizes)
+		ypos=copy.deepcopy(self.ypos)
+		xpos=copy.deepcopy(self.xpos)
+		charSizes=copy.deepcopy(self.charSizes)
+		
+		i=0
+		for No in finalSeq:
+			header[i] = self.header[No]
+			fonts[i] = self.fonts[No]
+			sizes[i] = self.sizes[No]
+			ypos[i] = self.ypos[No]
+			xpos[i] = self.xpos[No]
+			charSizes[i] = self.charSizes[No]
+			i+=1
+		
+		
+		self.header=header
+		self.fonts=fonts
+		self.sizes=sizes
+		self.ypos=ypos
+		self.xpos=xpos
+		self.charSizes=charSizes
+		
+		
 	#得到lineNo行的平均字体大小
 	def getAverageCharSizeForLine(self,lineNo):
 		i = lineNo

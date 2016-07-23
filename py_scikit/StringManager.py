@@ -44,3 +44,22 @@ def clusterSameLine(property, propertyLine, pdf):
 		length = len(property)
 		i+=1
 	assert(len(property) == len(propertyLine))
+#不改变header[i]的情况下，将字符串中leftOp和rightOp中间的removedCh都去掉，返回处理后的字符串
+def removeCharBetween(str, leftOp,rightOp,removedCh):
+	s=[]
+	between = 0
+	for ch in str:
+		if ch == leftOp:
+			between += 1
+			s.append(ch)
+		elif ch == removedCh:
+			if between>0:
+				continue
+			else:
+				s.append(ch)
+		elif ch == rightOp:
+			between -= 1
+			s.append(ch)
+		else:
+			s.append(ch)
+	return ''.join(s)

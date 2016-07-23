@@ -5,6 +5,7 @@ import sys
 import StringManager
 import re
 import Author
+import PdfBoxOutputAdapter
 os.chdir(Config.WORKSPACE)
 import Tools
 import copy
@@ -27,17 +28,26 @@ class Pdf:
 		os.system(oscmd)
 		#pdfContent = os.popen(oscmd).readlines()
 		pdfContent = open(pdfboxOutputPath).readlines()
-		#open('./py_scikit/tmp/pdfContentDEBUG.txt','w').writelines(pdfContent)
+		pdfContent = PdfBoxOutputAdapter.adapt2WordExpression(pdfContent)
+		open('./py_scikit/tmp/pdfContentDEBUG.txt','w').writelines(pdfContent)
 		lineNo=1
+		
+		#====================pdfContent 格式====================
+		#fonts sizes ypos xpos content xpos charSizes	charXpos
+		#0	   1 	 2 	  3    4       5    6			7
 		for line in pdfContent:
+			#print 'line:', line
 			line = line.strip()
 			#line = line.replace('?','')#去掉不能识别的问号
 			if len(line)==0: continue
-			if lineNo>=2 and 'abstract' in line.lower(): break
+			if (lineNo>=2 and 'abstract' in line.lower()) or lineNo>=25: break
 			first = True
 			content = ''
+			
 			for one in line.split():
+				#print 'one',one
 				fontSizeWord = one.split('|||')
+				#print 'fontSizeWord',fontSizeWord
 					
 				if first:
 					first = False
@@ -76,7 +86,7 @@ class Pdf:
 					if self.xpos[i] > self.xpos[j]:
 						self.swapAllDataIJ(i,j)
 		
-		print 'YPOS::', self.ypos
+		#print 'YPOS::', self.ypos
 		lineVec=[[0]]
 		for i in range(1, length):
 			if abs(self.ypos[i] - self.ypos[i-1]) < LINE_BETWEEN:
@@ -87,7 +97,7 @@ class Pdf:
 					j -= 1
 			else:
 				lineVec.append([i])
-		print 'lineVec::',lineVec
+		#print 'lineVec::',lineVec
 		verVec = []
 		for i in range(len(lineVec)):
 			for j in range(len(lineVec[i])):
@@ -95,7 +105,7 @@ class Pdf:
 					verVec.append([lineVec[i][j]])
 				else: 
 					verVec[j].append(lineVec[i][j])
-		print 'verVec::', verVec
+		#print 'verVec::', verVec
 		#将数组变为排出的顺序
 		finalSeq = []
 		for col in verVec:
@@ -191,3 +201,40 @@ class Pdf:
 			for j in range(len(attributesIndex[i])):
 				attributesIndex[i][j] = utf8(attributesIndex[i][j])
 		return attributesList, attributesIndex
+	
+	#第lineNo行是否有明显的大空格
+	def hasObviousBigSpace(self,lineNo):
+		words = self.header[lineNo].strip().split()
+		if len(words) == 1:
+			return False
+		
+		averageDist = 0
+		for i in range(1,len(words)):
+			averageDist += self.xpos[lineNo][i][0] - self.xpos[lineNo][i-1][1]
+		averageDist /= len(words) - 1
+		
+		for i in range(1,len(words)):
+			if self.xpos[lineNo][i][0] - self.xpos[lineNo][i-1][1] > averageDist*5:
+				return True
+		return False
+	
+	#第lineNo行用明显的大空格分列
+	def splitByObviousBigSpace(self,lineNo):
+		words = self.header[lineNo].strip().split()
+		if len(words) == 1:
+			return words
+		averageDist = 0
+		for i in range(1,len(words)):
+			averageDist += self.xpos[lineNo][i][0] - self.xpos[lineNo][i-1][1]
+		averageDist /= len(words) - 1
+		list = []
+		one = words[0]
+		for i in range(1,len(words)):
+			if self.xpos[lineNo][i][0] - self.xpos[lineNo][i-1][1] > averageDist*5:
+				list.append(one)
+				one = words[i]
+			else:
+				one += ' ' + words[i]
+		if one != '':
+			list.append(one)
+		return list

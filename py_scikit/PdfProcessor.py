@@ -54,14 +54,26 @@ def getPredictLabelWithScikit(header):
 	return label
 	
 #处理有角标的PDF的作者-地址等匹配
-def handleResultWithIndex(authors, idAuthor, idAffliations, idAddress,  emails):
+def handleResultWithIndex(authors, idAuthor, idAffliations, idAddress,  emails, affiEmailMap):
+	qMap = {}
+	if len(affiEmailMap)!=0:
+		for idtf in idAffliations.keys():
+			qMap[idtf] = affiEmailMap[idtf]
+	
 	authorInfo=[]
 	for i in range(len(authors)):
 		name = authors[i]
 		affliation = AttributeWithIndex.matchAuthorAttributes(authors[i], idAuthor, idAffliations)
 		addr = AttributeWithIndex.matchAuthorAttributes(authors[i], idAuthor, idAddress)
-		if i < len(emails): 
-			email = emails[i]
+		if len(emails) !=0:
+			if i < len(emails): 
+				email = emails[i]
+		elif len(affiEmailMap)!=0:
+			idtf = idAuthor[name][0]
+			email = ''
+			if len(qMap[idtf])!=0:
+				email = qMap[idtf][0]
+				qMap[idtf].pop(0)
 		authorInfo.append(Author.Author(name=name,affliation=affliation, email=email, address = addr))
 	#AddressManager.updateAddress(authors, address, authorInfo, authorsLine, addressLine)
 	
@@ -107,7 +119,7 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	pdf = Pdf.Pdf()
 	pdf.loadPdfByPDFbox(pdfpath)
 	
-	#根据ypos排序
+	#根据排序,包含分列
 	pdf.sortByYpos()
 	
 	header, fonts, sizes, ypos, xpos = pdf.header, pdf.fonts, pdf.sizes, pdf.ypos, pdf.xpos
@@ -117,8 +129,8 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	#获取预测结果
 	#label = getPredictLabelWithScikit(header)
 	label = getPredictLabelWithCRF(header)
-	print header
-	print '[Before Rule]',label
+	#print header
+	#print '[Before Rule]',label
 	
 	#header长度和预测的每行结果的长度必须相同
 	assert(len(header) == len(label))
@@ -128,26 +140,27 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	label = RuleEngine.fixForContainUniversity(header, label)
 	label = RuleEngine.fixForCheckIfNoAuthor(header, label)
 	label = RuleEngine.fixForSameSizeSameLabel(fonts, sizes, label)
-	print '[After Rule]',label
+	label = RuleEngine.fixForDistantTitle(label)
+	#print '[After Rule]',label
 	
 	#处理作者
 	authors, authorsIndex, authorsLine = Author.getAuthors(header, label, xpos, pdf)
 	idAuthor = Author.getDicForAuthor(authors, authorsIndex)
-	print 'authors,idAuthor', authors,idAuthor
+	#print 'authors,idAuthor', authors,idAuthor
 	
 	#处理机构
 	affliations, affliationsIndex, affliationsLine  = AttributeWithIndex.getAttributes(header, label, 'affiliation', pdf)
 	idAffliations = AttributeWithIndex.getDicForAttributes(affliations, affliationsIndex)
 	#print 'affliations, affliationsIndex', affliations, affliationsIndex
-	print 'affliations, idAffliations', affliations, idAffliations
+	#print 'affliations, idAffliations', affliations, idAffliations
 	
 	#处理地址
 	address, addressIndex, addressLine  = AttributeWithIndex.getAttributes(header, label, 'address', pdf)
 	idAddress = AttributeWithIndex.getDicForAttributes(address, addressIndex)
 	
-	
 	#处理Email
-	emails = EmailManager.getEmails(header, label)
+	affiEmailMap = {}
+	emails = EmailManager.getEmails(header, label,affliationsIndex, affiEmailMap, pdf)
 	
 	#处理title
 	title = getTitle(header, label)
@@ -155,7 +168,7 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	#输出
 	authorInfo = []
 	if len(idAuthor) != 0:
-		authorInfo = handleResultWithIndex(authors, idAuthor, idAffliations, idAddress,  emails)#针对有角标的pdf输出
+		authorInfo = handleResultWithIndex(authors, idAuthor, idAffliations, idAddress,  emails, affiEmailMap)#针对有角标的pdf输出
 	else:
 		authorInfo = handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliationsLine, address,addressLine)#针对无角标的pdf输出
 	

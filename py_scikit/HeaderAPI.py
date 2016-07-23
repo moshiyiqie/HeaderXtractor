@@ -12,21 +12,24 @@ import Classifier
 #	dicSet:包含作者信息的字典列表
 #	header:PDF中抽取的头部部分原文
 #	predictLabel:header对应的每行的算法预测的类别
-def run(pdfpath):
+def run(pdfpath, toPath):
 	if not os.path.exists(r'./RandomForestScikitModel'):
 		Classifier.outputModel()
 	title, authorInfo, header , predictLabel = PdfProcessor.run(pdfpath)
 	dicSet = []
-	print '[Title]:' + title
-	print ''
+	output = ''
+	output += '[Title]:' + title + '\n\n'
 	for author in authorInfo:
-		print author.toString()
+		output += author.toString() + '\n'
 		dicSet.append(author.toDic())
+	print output
+	open(toPath+'/'+os.path.split(pdfpath)[1], 'w').writelines(output)
 	return title, dicSet, header, predictLabel
 
 if __name__ == '__main__':
-	#path = './test.pdf'
-	path = 'C:/ZONE/ceshiPDF2/P15-1038.pdf'
-	title, dicSet, header, predictLabel=run(path)
-	#print header
-	#print predictLabel
+	path = 'D:/acm_paper/TAO-TEST/2_p106-vogelaere.pdf.pdf'
+	#path = 'C:/ZONE/ceshiPDF2/P15-1021.pdf'
+	title, dicSet, header, predictLabel=run(path, 'D:/acm_paper/TAO-TEST-HEAD')
+	#for file in os.listdir('D:/acm_paper/TAO-TEST'):
+	#	path = 'D:/acm_paper/TAO-TEST/'+file
+	#	title, dicSet, header, predictLabel=run(path, 'D:/acm_paper/TAO-TEST-HEAD')

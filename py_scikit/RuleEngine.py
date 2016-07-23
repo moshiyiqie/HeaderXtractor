@@ -47,3 +47,13 @@ def fixForContainUniversity(header, label):
 		if 'university' in header[i].lower() or 'univercity' in header[i].lower() or 'universite' in header[i].lower() or 'institute' in header[i].lower():
 			newLabel[i] = '<affiliation>'
 	return newLabel
+def fixForDistantTitle(label):
+	newLabel = label[:]
+	titleNo=[]
+	for i in range(0, len(label)):
+		if label[i] == '<title>':
+			titleNo.append(i)
+	for i in range(1,len(titleNo)):
+		if titleNo[i] - titleNo[i-1] > 1:
+			newLabel[titleNo[i]] = '<unknow>'
+	return newLabel

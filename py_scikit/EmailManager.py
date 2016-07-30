@@ -21,7 +21,7 @@ def getEmails(header,label, affiliationsIndex, affiEmailMap, pdf):
 		emails=[]
 		for emailBlock in emailBlocks:
 			emails += handleOneEmailBlock(emailBlock)
-		return emails
+		return [x for x in emails if '@' in x]
 
 #获得email块列表
 def getEmailBlocks(pdf,label):

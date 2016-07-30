@@ -23,13 +23,22 @@ def run(pdfpath, toPath):
 		output += author.toString() + '\n'
 		dicSet.append(author.toDic())
 	print output
-	open(toPath+'/'+os.path.split(pdfpath)[1], 'w').writelines(output)
+	open(toPath+'/'+os.path.split(pdfpath)[1].replace('.pdf','.txt'), 'w').writelines(output)
 	return title, dicSet, header, predictLabel
 
 if __name__ == '__main__':
-	path = 'D:/acm_paper/TAO-TEST/2_p106-vogelaere.pdf.pdf'
-	#path = 'C:/ZONE/ceshiPDF2/P15-1021.pdf'
+	#path = 'D:/acm_paper/TAO-TEST/3.pdf'
+	#title, dicSet, header, predictLabel=run(path, 'D:/acm_paper/TAO-TEST-HEAD')
+	
+	path = 'D:/acm_paper/TAO-TEST-1/14.pdf'
+	print '================'+os.path.split(path)[1]+'================='
 	title, dicSet, header, predictLabel=run(path, 'D:/acm_paper/TAO-TEST-HEAD')
-	#for file in os.listdir('D:/acm_paper/TAO-TEST'):
-	#	path = 'D:/acm_paper/TAO-TEST/'+file
-	#	title, dicSet, header, predictLabel=run(path, 'D:/acm_paper/TAO-TEST-HEAD')
+	'''
+	for file in os.listdir('D:/acm_paper/TAO-TEST'):
+		path = 'D:/acm_paper/TAO-TEST/'+file
+		try:
+			title, dicSet, header, predictLabel=run(path, 'D:/acm_paper/TAO-TEST-HEAD')
+		except Exception,e:
+			print '[Error]: File ',file
+			continue
+	'''

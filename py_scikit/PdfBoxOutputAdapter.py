@@ -7,12 +7,12 @@ os.chdir(Config.WORKSPACE)
 #将一行的富文本信息转换为以词为单位的富文本信息
 def manageLine(line):
 	nline = line.split('|||')
+	#print 'nline', nline
 	content = nline[4]
+	if content.strip() == '':
+		return ''
 	chSizes = [x for x in nline[6].split(',') if x != '']
 	chXpos = [x for x in nline[7].split(',') if x != '']
-	#print 'len(content)',len(content)
-	#print 'len(chSizes)',len(chSizes)
-	#print 'len(chXpos)',len(chXpos)
 	if len(content) > len(chSizes) or len(content) > len(chXpos): return ''
 	
 	while len(content) < len(chSizes): chSizes.pop()
@@ -29,10 +29,10 @@ def manageLine(line):
 			szque.append(chSizes[i])
 			xposque.append(chXpos[i])
 		else:
-			#print 'here!!!'
-			block4 = ''.join(chque)
-			block6 = ','.join(szque)
-			que.append('|||'.join(nline[0:3] + [xposque[0], block4, xposque[-1], block6] ) )
+			if len(xposque) > 0:
+				block4 = ''.join(chque)
+				block6 = ','.join(szque)
+				que.append('|||'.join(nline[0:3] + [xposque[0], block4, xposque[-1], block6] ) )
 			chque=[]
 			szque=[]
 			xposque=[]
@@ -52,6 +52,8 @@ def adapt2WordExpression(pdfcontent):
 	hasSpace = False
 	for line in pdfcontent:
 		line = line.strip()
+		if not '|||' in line:
+			continue
 		if ' ' in line.split('|||')[4]:
 			hasSpace = True
 			break

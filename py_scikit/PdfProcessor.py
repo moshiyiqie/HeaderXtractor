@@ -61,6 +61,7 @@ def handleResultWithIndex(authors, idAuthor, idAffliations, idAddress,  emails, 
 			qMap[idtf] = affiEmailMap[idtf]
 	
 	authorInfo=[]
+	email=''
 	for i in range(len(authors)):
 		name = authors[i]
 		affliation = AttributeWithIndex.matchAuthorAttributes(authors[i], idAuthor, idAffliations)
@@ -97,7 +98,7 @@ def handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliati
 					break
 	
 	AddressManager.updateAddress(authors, address, authorInfo, authorsLine, addressLine)
-	for i in range(len(emails)):
+	for i in range(min(len(authorInfo),len(emails))):
 		authorInfo[i].email = emails[i]
 	return authorInfo
 	
@@ -129,8 +130,8 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	#获取预测结果
 	#label = getPredictLabelWithScikit(header)
 	label = getPredictLabelWithCRF(header)
-	#print header
-	#print '[Before Rule]',label
+	print header
+	print '[Before Rule]',label
 	
 	#header长度和预测的每行结果的长度必须相同
 	assert(len(header) == len(label))
@@ -138,10 +139,16 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	#规则修正
 	label = RuleEngine.fixForAt(header, label)
 	label = RuleEngine.fixForContainUniversity(header, label)
+	label = RuleEngine.fixByStanfordNER(header, label)#利用stanford ner来进行机构、地址、作者的修正
 	label = RuleEngine.fixForCheckIfNoAuthor(header, label)
-	label = RuleEngine.fixForSameSizeSameLabel(fonts, sizes, label)
+	label = RuleEngine.fixForCheckIfNoTitle(header, label)
+	label = RuleEngine.fixForNoteAfterTitle(header, label)
 	label = RuleEngine.fixForDistantTitle(label)
-	#print '[After Rule]',label
+	label = RuleEngine.fixForSameSizeSameLabel(header, fonts, sizes, label)
+	
+	
+	
+	print '[After Rule]',label
 	
 	#处理作者
 	authors, authorsIndex, authorsLine = Author.getAuthors(header, label, xpos, pdf)
@@ -173,8 +180,8 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 		authorInfo = handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliationsLine, address,addressLine)#针对无角标的pdf输出
 	
 	return title, authorInfo, header, label
-	for author in authorInfo:
-		print author.toString()
+	#for author in authorInfo:
+	#	print author.toString()
 	
 if __name__ == '__main__':
 	#vec = pickle.load(open(r'./resource/xlhh.pickle'))

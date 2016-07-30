@@ -28,6 +28,7 @@ class Pdf:
 		os.system(oscmd)
 		#pdfContent = os.popen(oscmd).readlines()
 		pdfContent = open(pdfboxOutputPath).readlines()
+		open('./py_scikit/tmp/pdfContentDEBUGbeforeAdapter.txt','w').writelines(pdfContent)
 		pdfContent = PdfBoxOutputAdapter.adapt2WordExpression(pdfContent)
 		open('./py_scikit/tmp/pdfContentDEBUG.txt','w').writelines(pdfContent)
 		lineNo=1
@@ -40,7 +41,7 @@ class Pdf:
 			line = line.strip()
 			#line = line.replace('?','')#去掉不能识别的问号
 			if len(line)==0: continue
-			if (lineNo>=2 and 'abstract' in line.lower()) or lineNo>=25: break
+			if (lineNo>=2 and ('abstract' in line.lower() or 'introduction' in line.lower())) or lineNo>=25: break
 			first = True
 			content = ''
 			

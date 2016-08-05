@@ -9,7 +9,7 @@ os.chdir(Config.WORKSPACE)
 def __flatList(nested_list, to):
     for item in nested_list:
         if isinstance(item, (list, tuple)):
-            for sub_item in expand_list(item):
+            for sub_item in flatList(item):
                 to.append(sub_item)
         else:
             to.append(item)

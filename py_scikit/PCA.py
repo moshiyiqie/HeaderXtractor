@@ -7,7 +7,7 @@ from sklearn.datasets import load_svmlight_file
 from sklearn.decomposition import PCA 
 from sklearn.feature_selection import VarianceThreshold
 def PCA_func():
-	X, y = load_svmlight_file('./resource/向量化后_带上下文信息_everyline.svmdata')
+	X, y = load_svmlight_file('./resource/鍚戦噺鍖栧悗_甯︿笂涓嬫枃淇℃伅_everyline.svmdata')
 	print Classifier.trainTestReportRF(X.toarray(),y,0.70)
 	for ite in range(1,31):
 		print 'ite:'+str(ite)+'\t',

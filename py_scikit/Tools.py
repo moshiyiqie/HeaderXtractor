@@ -5,7 +5,7 @@ import sys
 import PdfProcessor
 os.chdir(Config.WORKSPACE)
 
-#½«Ç¶Ì×µÄÁĞ±í±äÎªÒ»Î¬ÁĞ±í
+#å°†åµŒå¥—çš„åˆ—è¡¨å˜ä¸ºä¸€ç»´åˆ—è¡¨
 def __flatList(nested_list, to):
     for item in nested_list:
         if isinstance(item, (list, tuple)):
@@ -17,3 +17,9 @@ def flatList(nested_list):
 	to = []
 	__flatList(nested_list,to)
 	return to
+
+def reArrangeByIdxList(olist, sortedIdxList):
+	nlist = []
+	for idx in sortedIdxList:
+		nlist.append(olist[idx])
+	return nlist

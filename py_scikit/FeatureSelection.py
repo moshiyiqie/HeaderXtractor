@@ -10,7 +10,7 @@ from sklearn.feature_selection import SelectKBest
 from sklearn.feature_selection import chi2
 from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.feature_selection import SelectFromModel
-X, y = load_svmlight_file('./resource/向量化后_带上下文信息_everyline.svmdata')
+X, y = load_svmlight_file('./resource/鍚戦噺鍖栧悗_甯︿笂涓嬫枃淇℃伅_everyline.svmdata')
 
 limit = int(y.shape[0]*0.7)
 clf = Classifier.trainRF(X,y,0.7)

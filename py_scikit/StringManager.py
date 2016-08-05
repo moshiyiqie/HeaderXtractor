@@ -6,13 +6,13 @@ import PdfProcessor
 os.chdir(Config.WORKSPACE)
 import Pdf
 
-#ÊÇ·ñ°üº¬Êı×Ö
+#æ˜¯å¦åŒ…å«æ•°å­—
 def hasDigit(s):
 	for ch in s:
 		if str.isdigit(ch): return True
 	return False
 	
-#ÊÇ·ñÓĞ´ó¶ººÅ£¬Ö¸µÄÊÇ·Ç½Ç±ê±àºÅÖĞµÄ¶ººÅ
+#æ˜¯å¦æœ‰å¤§é€—å·ï¼ŒæŒ‡çš„æ˜¯éè§’æ ‡ç¼–å·ä¸­çš„é€—å·
 def hasBigComma(s, tmpStr):
 	has = False
 	s = s.replace(' and ', ' , ')
@@ -27,7 +27,7 @@ def hasBigComma(s, tmpStr):
 	tmpStr.append(tmp)
 	return has
 	
-#°Ñ±¾Ó¦¸ÃÊÇÍ¬Ò»ĞĞµÄ¹éÊô¾Û¼¯ÆğÀ´
+#æŠŠæœ¬åº”è¯¥æ˜¯åŒä¸€è¡Œçš„å½’å±èšé›†èµ·æ¥
 def clusterSameLine(property, propertyLine, pdf):
 	length = len(property)
 	i=1
@@ -44,7 +44,7 @@ def clusterSameLine(property, propertyLine, pdf):
 		length = len(property)
 		i+=1
 	assert(len(property) == len(propertyLine))
-#²»¸Ä±äheader[i]µÄÇé¿öÏÂ£¬½«×Ö·û´®ÖĞleftOpºÍrightOpÖĞ¼äµÄremovedCh¶¼È¥µô£¬·µ»Ø´¦ÀíºóµÄ×Ö·û´®
+#ä¸æ”¹å˜header[i]çš„æƒ…å†µä¸‹ï¼Œå°†å­—ç¬¦ä¸²ä¸­leftOpå’ŒrightOpä¸­é—´çš„removedChéƒ½å»æ‰ï¼Œè¿”å›å¤„ç†åçš„å­—ç¬¦ä¸²
 def removeCharBetween(str, leftOp,rightOp,removedCh):
 	s=[]
 	between = 0
@@ -63,7 +63,7 @@ def removeCharBetween(str, leftOp,rightOp,removedCh):
 		else:
 			s.append(ch)
 	return ''.join(s)
-#È¥³ı×óÓÒÓĞ·ÇÓ¢ÎÄ×ÖÄ¸×Ö·ûµÄ¿Õ¸ñ£¨ĞŞÕıÒ»¸öµç×ÓÓÊ¼şÖĞÄªÃûÆäÃî¶à³öÀ´µÄ¿Õ¸ñ£©
+#å»é™¤å·¦å³æœ‰éè‹±æ–‡å­—æ¯å­—ç¬¦çš„ç©ºæ ¼ï¼ˆä¿®æ­£ä¸€ä¸ªç”µå­é‚®ä»¶ä¸­è«åå…¶å¦™å¤šå‡ºæ¥çš„ç©ºæ ¼ï¼‰
 def removeSpaceAdjacentNonAlpha(s):
 	#print 'in SM:',s
 	res = []

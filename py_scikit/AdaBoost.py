@@ -41,20 +41,20 @@ class AdaBoost:
 			else: res[i] = 0
 		return res
 	def train(self):
-		self.alpha={}#·ÖÀàÆ÷È¨ÖØ
-		for i in range(self.M):#Ñ­»·¼ÆËãÃ¿¸ö·ÖÀàÆ÷µÄÈ¨ÖØ
-			#print 'ÕıÔÚ´¦ÀíµÚ%d¸ö·ÖÀàÆ÷'%(i)
-			sg = self.G[i].predict(self.X_test).transpose()#Êä³öÑµÁ·Æ÷µÄÅĞ¶Ï½á¹û
+		self.alpha={}#åˆ†ç±»å™¨æƒé‡
+		for i in range(self.M):#å¾ªç¯è®¡ç®—æ¯ä¸ªåˆ†ç±»å™¨çš„æƒé‡
+			#print 'æ­£åœ¨å¤„ç†ç¬¬%dä¸ªåˆ†ç±»å™¨'%(i)
+			sg = self.G[i].predict(self.X_test).transpose()#è¾“å‡ºè®­ç»ƒå™¨çš„åˆ¤æ–­ç»“æœ
 			print 'W sum',sum([x for x in self.W])
 			np.array(sorted(self.W, reverse = True)).tofile('./pythonsrc/tmp/W'+str(i)+'.npdata', '\t' )
 			print 'sg,',sg
 			print 'self.y_test,',self.y_test
-			e = sum([self.W[j] for j in range(sg.shape[0]) if sg[j] != self.y_test[j] ])#¼ÆËãÎó²îÂÊ
+			e = sum([self.W[j] for j in range(sg.shape[0]) if sg[j] != self.y_test[j] ])#è®¡ç®—è¯¯å·®ç‡
 			if e > 0.5:
-				#print 'Îó²îÂÊ¹ı´ó£¬×÷·Ï'
+				#print 'è¯¯å·®ç‡è¿‡å¤§ï¼Œä½œåºŸ'
 				continue
 			print 'e value:',e
-			self.alpha[i] = 1.0/2*np.log((1-e)/(e+0.0000001))*(i+1)#¼ÆËã·ÖÀàÆ÷È¨ÖØ
+			self.alpha[i] = 1.0/2*np.log((1-e)/(e+0.0000001))*(i+1)#è®¡ç®—åˆ†ç±»å™¨æƒé‡
 			Z = self.W * np.exp(-self.alpha[i] * self.y_test * np.array(sg))
 			self.W=(Z/Z.sum()).flatten(1)
 			if self.updateSumGetErrorNum(i)==0:
@@ -62,13 +62,13 @@ class AdaBoost:
 				break
 			self.printFinalResult()
 		self.testOnTestSet(self.X_testT, self.y_testT)
-	def updateSumGetErrorNum(self,t):#¼ÆËã·ÖÀà´íÎóµÄ¸öÊı
+	def updateSumGetErrorNum(self,t):#è®¡ç®—åˆ†ç±»é”™è¯¯çš„ä¸ªæ•°
 		#print 'alpha ',self.alpha[t]
 		self.sums=self.sums+self.G[t].predict(self.X_test).flatten(1)*self.alpha[t]
 		pre_y=self.sign(self.sums)
 		t = sum([pre_y[i] != self.y[i] for i in range(pre_y.shape[0]) ])
 		print 'sum:',self.sums
-		print '´íÎóÊı:',t
+		print 'é”™è¯¯æ•°:',t
 		return t
 	def printFinalResult(self):
 		pre_y=self.sign(self.sums)

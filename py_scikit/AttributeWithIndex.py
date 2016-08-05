@@ -7,7 +7,7 @@ import re
 import Author
 os.chdir(Config.WORKSPACE)
 
-#»ñµÃÊôĞÔ¡¢ÊôĞÔ±àºÅ¡¢¶ÔÓ¦µÄĞĞ
+#è·å¾—å±æ€§ã€å±æ€§ç¼–å·ã€å¯¹åº”çš„è¡Œ
 def getAttributes(header, label, attributeKind, pdf):
 	attributes=[]
 	attributesIndex = []
@@ -34,7 +34,7 @@ def getAttributes(header, label, attributeKind, pdf):
 	#print 'attributes, attributesIndex', attributes, attributesIndex
 	return attributes, attributesIndex, attributesLine
 
-#¸ù¾İ»ñÈ¡µ½µÄÊôĞÔ¡¢ÊôĞÔ±àºÅ¡¢¶ÔÓ¦µÄĞĞ£¬ ×öÊôĞÔ±àºÅµ½ÊôĞÔµÄÓ³Éä
+#æ ¹æ®è·å–åˆ°çš„å±æ€§ã€å±æ€§ç¼–å·ã€å¯¹åº”çš„è¡Œï¼Œ åšå±æ€§ç¼–å·åˆ°å±æ€§çš„æ˜ å°„
 def getDicForAttributes(attributes, attributesIndex):
 	if len(attributesIndex) ==0 : return {}
 	print 'attributesIndex', attributesIndex
@@ -56,7 +56,7 @@ def matchAuthorAttributes(author, idAuthor, idAttributes):
 	return attribute
 	
 '''
-#¸ù¾İ»ñÈ¡µ½µÄÊôĞÔ¡¢ÊôĞÔ±àºÅ¡¢¶ÔÓ¦µÄĞĞ£¬ ×öÊôĞÔ±àºÅµ½ÊôĞÔµÄÓ³Éä
+#æ ¹æ®è·å–åˆ°çš„å±æ€§ã€å±æ€§ç¼–å·ã€å¯¹åº”çš„è¡Œï¼Œ åšå±æ€§ç¼–å·åˆ°å±æ€§çš„æ˜ å°„
 def getDicForAttributesOLD(attributes, attributesIndex):
 	if len(attributesIndex) ==0 : return {}
 	attributesIndexTmp = [x[0] for x in attributesIndex]

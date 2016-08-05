@@ -6,12 +6,12 @@ os.chdir(Config.WORKSPACE)
 import PdfProcessor
 import Classifier
 
-#ÊäÈëpdfpath ´ú±ípdfÎÄ¼şÂ·¾¶£¨Ê¹ÓÃ¾ø¶ÔÂ·¾¶£©
-#º¯Êı·µ»ØËÄ¸ö±äÁ¿
-#	title:ÎÄÕÂ±êÌâ
-#	dicSet:°üº¬×÷ÕßĞÅÏ¢µÄ×ÖµäÁĞ±í
-#	header:PDFÖĞ³éÈ¡µÄÍ·²¿²¿·ÖÔ­ÎÄ
-#	predictLabel:header¶ÔÓ¦µÄÃ¿ĞĞµÄËã·¨Ô¤²âµÄÀà±ğ
+#è¾“å…¥pdfpath ä»£è¡¨pdfæ–‡ä»¶è·¯å¾„ï¼ˆä½¿ç”¨ç»å¯¹è·¯å¾„ï¼‰
+#å‡½æ•°è¿”å›å››ä¸ªå˜é‡
+#	title:æ–‡ç« æ ‡é¢˜
+#	dicSet:åŒ…å«ä½œè€…ä¿¡æ¯çš„å­—å…¸åˆ—è¡¨
+#	header:PDFä¸­æŠ½å–çš„å¤´éƒ¨éƒ¨åˆ†åŸæ–‡
+#	predictLabel:headerå¯¹åº”çš„æ¯è¡Œçš„ç®—æ³•é¢„æµ‹çš„ç±»åˆ«
 def run(pdfpath, toPath):
 	if not os.path.exists(r'./RandomForestScikitModel'):
 		Classifier.outputModel()

@@ -18,6 +18,7 @@ import AddressManager
 import AttributeWithIndex
 import Pdf
 import EmailManager
+import BlockManager
 #获得PDF文件的头部
 def getHeader(pdfpath):
 	oscmd='java -jar ./py_scikit/PDFManager-openjdk.jar '+pdfpath
@@ -120,11 +121,16 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	pdf = Pdf.Pdf()
 	pdf.loadPdfByPDFbox(pdfpath)
 	
-	#根据排序,包含分列
-	pdf.sortByYpos()
-	
+	##根据排序,包含分列
+	#pdf.sortByYpos()
 	header, fonts, sizes, ypos, xpos = pdf.header, pdf.fonts, pdf.sizes, pdf.ypos, pdf.xpos
 	
+	sortedIdxList = BlockManager.BlockUnionProcess(header, sizes, ypos, xpos)
+	header = Tools.reArrangeByIdxList(header, sortedIdxList)
+	fonts = Tools.reArrangeByIdxList(fonts, sortedIdxList)
+	sizes = Tools.reArrangeByIdxList(sizes, sortedIdxList)
+	ypos = Tools.reArrangeByIdxList(ypos, sortedIdxList)
+	xpos = Tools.reArrangeByIdxList(xpos, sortedIdxList)
 	
 	
 	#获取预测结果

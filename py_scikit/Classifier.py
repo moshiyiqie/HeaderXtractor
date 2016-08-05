@@ -17,7 +17,7 @@ from sklearn.ensemble import BaggingClassifier
 from sklearn.ensemble import ExtraTreesClassifier
 import Data
 import random
-#X_trian, y_train = load_svmlight_file('./resource/ÏòÁ¿»¯ºó_´øÉÏÏÂÎÄĞÅÏ¢_everyline.svmdata')
+#X_trian, y_train = load_svmlight_file('./resource/å‘é‡åŒ–å_å¸¦ä¸Šä¸‹æ–‡ä¿¡æ¯_everyline.svmdata')
 classification = ['abstract','address','affiliation','author','date','degree','email','intro','keyword','note','page','phone','pubnum','title','web']
 def trainCSVC(X, y, ratio):
 	limit = int(X.shape[0] * ratio)
@@ -71,8 +71,8 @@ def randomSample(X,y):
 	idx = idx[:sampleLen]
 	X_s = np.array([XX[i] for i in idx])
 	y_s = np.array([yy[i] for i in idx])
-	#print '²ÉÑù³¤¶È:',sampleLen
-	#print '²ÉÑù:',X_s
+	#print 'é‡‡æ ·é•¿åº¦:',sampleLen
+	#print 'é‡‡æ ·:',X_s
 	return X_s, y_s
 
 def randomEqualSample(X,y):
@@ -92,8 +92,8 @@ def randomEqualSample(X,y):
 	random.shuffle(n_idx)
 	X_s = np.array([XX[i] for i in p_idx[:sampleLen]] + [XX[i] for i in n_idx[:sampleLen]] )
 	y_s = np.array([yy[i] for i in p_idx[:sampleLen]] + [yy[i] for i in n_idx[:sampleLen]] )
-	#print '²ÉÑù³¤¶È:',sampleLen,len(y_s)
-	#print '²ÉÑù:',X_s
+	#print 'é‡‡æ ·é•¿åº¦:',sampleLen,len(y_s)
+	#print 'é‡‡æ ·:',X_s
 	return X_s, y_s
 
 def randomSampleRandomAlgorithmForWeakClf(X, y, ratio):
@@ -103,7 +103,7 @@ def randomSampleRandomAlgorithmForWeakClf(X, y, ratio):
 	func=[trainLinearSVC,trainDT,trainRF]
 	X_s, y_s = randomSample(X_train, y_train)
 	clsidx = random.randint(0,len(func)-1)
-	#print 'ÓÃ'+str(clsidx)+'Ëã·¨' 
+	#print 'ç”¨'+str(clsidx)+'ç®—æ³•' 
 	
 	return func[clsidx](X_s, y_s, 1)
 
@@ -111,7 +111,7 @@ def outputModel():
 	print 'Training model...'
 	#data = Data.Data()
 	#data.transform2LibsvmStyle('./pythonsrc/tmp/tmp.svmdata')
-	X, y = load_svmlight_file('./resource/ÏòÁ¿»¯ºó_everyline.svmdata')
+	X, y = load_svmlight_file('./resource/å‘é‡åŒ–å_everyline.svmdata')
 	clf = trainRF(X,y,0.85)
 	print 'Pickle model to disk...'
 	pickle.dump(clf,open('./RandomForestScikitModel','w'),0)

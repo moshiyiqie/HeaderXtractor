@@ -34,7 +34,7 @@ class Data:
 		classification=['abstract','address','affiliation','author','date','degree','email','intro','keyword','note','page','phone','pubnum','title','web']
 		if len(self.vecList) == 0:
 			#print 'Loading vecList...'
-			self.vecList = pickle.load(open(r'./resource/向量化后_带上下文信息_everyline.pickle'))
+			self.vecList = pickle.load(open(r'./resource/鍚戦噺鍖栧悗_甯︿笂涓嬫枃淇℃伅_everyline.pickle'))
 			#print 'Load Complete!'
 		toidx=getItemIndexRelation()
 		for vector in self.vecList:
@@ -48,7 +48,7 @@ class Data:
 		fout = open(path, 'w')
 		if len(self.vecList) == 0:
 			#print 'Loading vecList...'
-			self.vecList = pickle.load(open(r'./resource/向量化后_带上下文信息_everyline.pickle'))
+			self.vecList = pickle.load(open(r'./resource/鍚戦噺鍖栧悗_甯︿笂涓嬫枃淇℃伅_everyline.pickle'))
 			#print 'Load Complete!'
 		toidx={}
 		idx = 0
@@ -68,4 +68,4 @@ class Data:
 			fout.write(s + '\n')
 		fout.close()
 if __name__ == '__main__':
-	transform2LibsvmStyle('./resource/向量化后_带上下文信息_everyline.svmdata')
+	transform2LibsvmStyle('./resource/鍚戦噺鍖栧悗_甯︿笂涓嬫枃淇℃伅_everyline.svmdata')

@@ -7,7 +7,7 @@ import re
 import Author
 os.chdir(Config.WORKSPACE)
 
-#»ñµÃµØÖ·¡¢¶ÔÓ¦µÄĞĞ
+#è·å¾—åœ°å€ã€å¯¹åº”çš„è¡Œ
 def getAddress(header, label):
 	address=[]
 	addressLine = []
@@ -22,12 +22,12 @@ def getAddress(header, label):
 	StringManager.clusterSameLine(address, addressLine)
 	return address, addressLine
 
-#ÎªauthorInfo¸üĞÂÃ¿¸ö×÷ÕßµÄµØÖ·ĞÅÏ¢
+#ä¸ºauthorInfoæ›´æ–°æ¯ä¸ªä½œè€…çš„åœ°å€ä¿¡æ¯
 def updateAddress(authors, address, authorInfo, authorsLine, addressLine):
-	if len(authors) == len(address):#×÷ÕßÊıÄ¿ºÍÊÕ¼¯µ½µÄ¹éÊôÊıÄ¿ÏàÍ¬
+	if len(authors) == len(address):#ä½œè€…æ•°ç›®å’Œæ”¶é›†åˆ°çš„å½’å±æ•°ç›®ç›¸åŒ
 		for i in range(len(authors)):
 			authorInfo[i].address = address[i]
-	else:#ÊıÄ¿²»Í¬£¬ÕÒÀë×Ô¼º×î½üµÄ
+	else:#æ•°ç›®ä¸åŒï¼Œæ‰¾ç¦»è‡ªå·±æœ€è¿‘çš„
 		for i in range(len(authors)):
 			lineno = authorsLine[i]
 			for j in range(len(address)):

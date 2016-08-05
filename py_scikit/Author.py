@@ -5,7 +5,7 @@ import sys
 os.chdir(Config.WORKSPACE)
 import re
 import StringManager
-#×÷ÕßÀà
+#ä½œè€…ç±»
 class Author:
 	name=''
 	address=''
@@ -51,7 +51,7 @@ def splitByBigSpace(line, xpos):
 	#print 'in splitByBigSpace():', authors, averageDist, xpos
 	return authors
 
-#»ñÈ¡×÷Õß¡¢×÷Õß±àºÅ¡¢¶ÔÓ¦µÄĞĞ
+#è·å–ä½œè€…ã€ä½œè€…ç¼–å·ã€å¯¹åº”çš„è¡Œ
 def getAuthors(header, label, xpos, pdf):
 	authors = []
 	authorsIndex = []
@@ -92,7 +92,7 @@ def getAuthors(header, label, xpos, pdf):
 	print 'authors, authorsIndex', authors, authorsIndex
 	return authors, authorsIndex, authorsLine
 	
-#¸ù¾İ»ñÈ¡µ½µÄ×÷Õß¡¢×÷Õß±àºÅ¡¢¶ÔÓ¦µÄĞĞ£¬ ×ö×÷ÕßÃûµ½×÷Õß±àºÅµÄÓ³Éä
+#æ ¹æ®è·å–åˆ°çš„ä½œè€…ã€ä½œè€…ç¼–å·ã€å¯¹åº”çš„è¡Œï¼Œ åšä½œè€…ååˆ°ä½œè€…ç¼–å·çš„æ˜ å°„
 def getDicForAuthor(authors, authorsIndex):
 	if len(authorsIndex) == 0: return {}
 	idAuthors={}

@@ -6,7 +6,7 @@ import PdfProcessor
 os.chdir(Config.WORKSPACE)
 import re
 import StringManager
-#»ñµÃemailÁĞ±í
+#è·å¾—emailåˆ—è¡¨
 def getEmails(header,label, affiliationsIndex, affiEmailMap, pdf):
 	emailBlocks = getEmailBlocks(pdf,label)
 	#print 'emailBlocks::',emailBlocks
@@ -23,7 +23,7 @@ def getEmails(header,label, affiliationsIndex, affiEmailMap, pdf):
 			emails += handleOneEmailBlock(emailBlock)
 		return [x for x in emails if '@' in x]
 
-#»ñµÃemail¿éÁĞ±í
+#è·å¾—emailå—åˆ—è¡¨
 def getEmailBlocks(pdf,label):
 	emailBlocks = []
 	for i in range(len(pdf.header)):
@@ -32,11 +32,11 @@ def getEmailBlocks(pdf,label):
 			s = StringManager.removeSpaceAdjacentNonAlpha(s)
 			blockList = s.split()
 			emailBlocks += blockList
-	print 'emailBlocks',emailBlocks###ÕâÀïÓĞÎÊÌâ£¡£¡
+	print 'emailBlocks',emailBlocks###è¿™é‡Œæœ‰é—®é¢˜ï¼ï¼
 	return emailBlocks
 
 
-#´¦ÀíÒ»¸öemail¿é£¬·µ»Ø½âÎöµÃµ½µÄemail
+#å¤„ç†ä¸€ä¸ªemailå—ï¼Œè¿”å›è§£æå¾—åˆ°çš„email
 def handleOneEmailBlock(emailBlock):
 	emails = []
 	text = emailBlock
@@ -77,7 +77,7 @@ def handleOneEmailBlock(emailBlock):
 	
 	
 #=============================================================================================================
-#OLD FUNCTION!!»ñÈ¡Email£¬´¦ÀíÁË{}ÕâÖÖÇé¿ö
+#OLD FUNCTION!!è·å–Emailï¼Œå¤„ç†äº†{}è¿™ç§æƒ…å†µ
 def OLDgetEmails(header, label):
 	emails = []
 	for i in range(len(header)):

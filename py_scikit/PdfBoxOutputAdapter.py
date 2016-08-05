@@ -3,8 +3,8 @@ import os
 import Config
 import sys
 os.chdir(Config.WORKSPACE)
-#½«pdfboxÊä³ö½á¹û´ÓĞĞ±íÊ¾»»Îª´Ê±íÊ¾
-#½«Ò»ĞĞµÄ¸»ÎÄ±¾ĞÅÏ¢×ª»»ÎªÒÔ´ÊÎªµ¥Î»µÄ¸»ÎÄ±¾ĞÅÏ¢
+#å°†pdfboxè¾“å‡ºç»“æœä»è¡Œè¡¨ç¤ºæ¢ä¸ºè¯è¡¨ç¤º
+#å°†ä¸€è¡Œçš„å¯Œæ–‡æœ¬ä¿¡æ¯è½¬æ¢ä¸ºä»¥è¯ä¸ºå•ä½çš„å¯Œæ–‡æœ¬ä¿¡æ¯
 def manageLine(line):
 	nline = line.split('|||')
 	#print 'nline', nline
@@ -46,9 +46,9 @@ def manageLine(line):
 		xposque=[]
 	return ' '.join(que)
 
-#½«Ò»ĞĞµÄ¸»ÎÄ±¾ĞÅÏ¢×ª»»ÎªÒÔ´ÊÎªµ¥Î»µÄ¸»ÎÄ±¾ĞÅÏ¢
+#å°†ä¸€è¡Œçš„å¯Œæ–‡æœ¬ä¿¡æ¯è½¬æ¢ä¸ºä»¥è¯ä¸ºå•ä½çš„å¯Œæ–‡æœ¬ä¿¡æ¯
 def adapt2WordExpression(pdfcontent):
-	#Ã»ÓĞ¿Õ¸ñÇé¿ö²»´¦Àí
+	#æ²¡æœ‰ç©ºæ ¼æƒ…å†µä¸å¤„ç†
 	hasSpace = False
 	for line in pdfcontent:
 		line = line.strip()
@@ -60,7 +60,7 @@ def adapt2WordExpression(pdfcontent):
 	if hasSpace == False:
 		return pdfcontent
 	
-	#´¦ÀíÄÚÈİº¬¿Õ¸ñµÄÇé¿ö£¬Ïàµ±ÓÚ·Ö´Ê
+	#å¤„ç†å†…å®¹å«ç©ºæ ¼çš„æƒ…å†µï¼Œç›¸å½“äºåˆ†è¯
 	nContent=[]
 	for line in pdfcontent:
 		line = line.strip()

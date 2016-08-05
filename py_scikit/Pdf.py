@@ -88,6 +88,7 @@ class Pdf:
 						self.swapAllDataIJ(i,j)
 		
 		#print 'YPOS::', self.ypos
+		#print 'Header::', self.header
 		lineVec=[[0]]
 		for i in range(1, length):
 			if abs(self.ypos[i] - self.ypos[i-1]) < LINE_BETWEEN:

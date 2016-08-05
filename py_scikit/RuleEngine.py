@@ -44,12 +44,13 @@ def fixForCheckIfNoAuthor(header, label):
 	return newLabel
 #含有university和institute，直接判定为affiliation
 def fixForContainUniversity(header, label):
-	words=['universit', 'university', 'univercity', 'universite', 'institute', 'departamen']
+	words = ['universit', 'university', 'univercity', 'universite', 'institute', 'departamen', 'lab']
 	newLabel = label[:]
 	for i in range(len(label)):
 		if any([(word in header[i].lower()) for word in words ]):
 			newLabel[i] = '<affiliation>'
 	return newLabel
+	
 def fixForDistantTitle(label):
 	newLabel = label[:]
 	titleNo=[]
@@ -91,13 +92,14 @@ def fixByStanfordNER(header, label):
 	for i in range(len(label)):
 		res = StanfordNER.getNerResult(header[i])
 		#if u'PERSON' in res.keys(): print 'FOUND person!!', header[i], label[i]
-		if u'PERSON' in res.keys() and label[i] != '<author>':
+		if u'PERSON' in res.keys() and label[i] != '<author>'  and label[i] != '<title>':
 			print '[NER-person] ', header[i], label[i]
 			newLabel[i] = '<author>'
-		elif u'ORGANIZATION' in res.keys() and label[i] != '<affiliation>' and label[i] != '<abstract>':
+		elif u'ORGANIZATION' in res.keys() and label[i] != '<affiliation>' and label[i] != '<abstract>' and label[i] != '<title>' and len(header[i]) <= 4:
 			print '[NER-affiliation] ', header[i], label[i]
 			newLabel[i] = '<affiliation>'
-		elif u'LOCATION' in res.keys() and label[i] != '<address>' and label[i] != '<abstract>':
-			print '[NER-address] ', header[i], label[i]
-			newLabel[i] = '<address>'
+		#elif u'LOCATION' in res.keys() and label[i] != '<address>' and label[i] != '<abstract>':
+		#	print '[NER-address] ', header[i], label[i]
+		#	newLabel[i] = '<address>'
 	return newLabel
+

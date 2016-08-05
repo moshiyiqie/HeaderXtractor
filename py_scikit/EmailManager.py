@@ -28,8 +28,11 @@ def getEmailBlocks(pdf,label):
 	emailBlocks = []
 	for i in range(len(pdf.header)):
 		if label[i] == '<email>':
-			blockList = StringManager.removeCharBetween(pdf.header[i], '{','}',' ').strip().split()
+			s = StringManager.removeCharBetween(pdf.header[i], '{','}',' ').strip()
+			s = StringManager.removeSpaceAdjacentNonAlpha(s)
+			blockList = s.split()
 			emailBlocks += blockList
+	print 'emailBlocks',emailBlocks###这里有问题！！
 	return emailBlocks
 
 

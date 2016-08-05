@@ -63,3 +63,17 @@ def removeCharBetween(str, leftOp,rightOp,removedCh):
 		else:
 			s.append(ch)
 	return ''.join(s)
+#去除左右有非英文字母字符的空格（修正一个电子邮件中莫名其妙多出来的空格）
+def removeSpaceAdjacentNonAlpha(s):
+	#print 'in SM:',s
+	res = []
+	for i in range(len(s)):
+		if s[i]!=' ':
+			res.append(s[i])
+		else:
+			if (i>0 and not str.isalpha(s[i-1])) or (i+1<len(s) and not str.isalpha(s[i+1])):
+				continue
+			else:
+				res.append(s[i])
+	#print 'in SM:',''.join(res)
+	return ''.join(res)

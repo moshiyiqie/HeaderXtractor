@@ -25,20 +25,28 @@ def run(pdfpath, toPath):
 	print output
 	open(toPath+'/'+os.path.split(pdfpath)[1].replace('.pdf','.txt'), 'w').writelines(output)
 	return title, dicSet, header, predictLabel
-
+'''
+if __name__ == '__main__':
+	srcPath = sys.argv[1]
+	resultFolderPath = sys.argv[2]
+	#print 'sys.argv', sys.argv
+	title, dicSet, header, predictLabel=run(srcPath, resultFolderPath)
+	
+'''
 if __name__ == '__main__':
 	#path = 'D:/acm_paper/TAO-TEST/3.pdf'
 	#title, dicSet, header, predictLabel=run(path, 'D:/acm_paper/TAO-TEST-HEAD')
 	
-	path = 'D:/acm_paper/TAO-TEST-1/14.pdf'
+	path = 'D:/acm_paper/TAO-TEST/84.pdf'
 	print '================'+os.path.split(path)[1]+'================='
 	title, dicSet, header, predictLabel=run(path, 'D:/acm_paper/TAO-TEST-HEAD')
-	'''
-	for file in os.listdir('D:/acm_paper/TAO-TEST'):
-		path = 'D:/acm_paper/TAO-TEST/'+file
-		try:
-			title, dicSet, header, predictLabel=run(path, 'D:/acm_paper/TAO-TEST-HEAD')
-		except Exception,e:
-			print '[Error]: File ',file
-			continue
-	'''
+
+	#
+	#for file in os.listdir('D:/acm_paper/TAO-TEST'):
+	#	path = 'D:/acm_paper/TAO-TEST/'+file
+	#	try:
+	#		title, dicSet, header, predictLabel=run(path, 'D:/acm_paper/TAO-TEST-HEAD')
+	#	except Exception,e:
+	#		print '[Error]: File ',file
+	#		continue
+	#

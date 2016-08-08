@@ -39,9 +39,9 @@ class Pdf:
 		for line in pdfContent:
 			#print 'line:', line
 			line = line.strip()
-			#line = line.replace('?','')#去掉不能识别的问号
+			line = line.replace('*','')#去掉*号，不认为*号是角标
 			if len(line)==0: continue
-			if (lineNo>=2 and ('abstract' in line.lower() or 'introduction' in line.lower())) or lineNo>=25: break
+			if (lineNo>=2 and ('abstract' in line.lower() or 'introduction' in line.lower())) or lineNo>=35: break
 			first = True
 			content = ''
 			
@@ -147,6 +147,8 @@ class Pdf:
 		charNum = 0
 		for word in self.charSizes[lineNo]:
 			for sz in word:
+				#print self.header[lineNo]
+				#print 'sz',sz
 				averageCharSize += sz
 				charNum += 1
 		averageCharSize /= charNum
@@ -154,6 +156,7 @@ class Pdf:
 		
 	#是否含有角标
 	def hasIndex(self, lineNo):
+		#print self.header[lineNo]
 		lineCharSizes = self.charSizes[lineNo]
 		averageCharSize = self.getAverageCharSizeForLine(lineNo)
 		wordList = uni(self.header[lineNo]).strip().split()
@@ -161,7 +164,15 @@ class Pdf:
 		for i in range(len(wordList)):
 			if len(wordList[i]) != len(lineCharSizes[i]):
 				open('./py_scikit/tmp/debug.txt','w').writelines(' '.join(['wordList[i], lineCharSizes[i]', str(len(wordList[i])), str(len(lineCharSizes[i])), utf8(wordList[i])]))
-			assert(len(list(wordList[i])) == len(lineCharSizes[i]))
+			#print 'wordList[i]', wordList[i]
+			#print 'list(wordList[i])', list(wordList[i])
+			#print 'lineCharSizes[i]', lineCharSizes[i]
+
+			#assert(len(list(wordList[i])) == len(lineCharSizes[i]))
+			while len(lineCharSizes[i]) < len(list(wordList[i])):#对assert的修补
+				lineCharSizes[i].append(lineCharSizes[-1])#对assert的修补
+
+
 			for j in range(len(wordList[i])):
 				if lineCharSizes[i][j] < averageCharSize:
 					return True

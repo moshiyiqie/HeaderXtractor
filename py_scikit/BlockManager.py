@@ -8,7 +8,9 @@ import Geometry
 import Tools
 import copy
 import GraphicManager
-
+import Author
+import StringManager
+import EmailManager
 BLOCK_HEIGHT_RATIO = 0.7
 class Block:
 	header=''
@@ -18,10 +20,15 @@ class Block:
 	d=0.0
 	rectangle = Geometry.Rectangle()
 	originIdx = 0
+	label=''
 	def __init__(self, headerContent, xposList,sizesList,ypos,originIdx):
 		self.header = headerContent
-		self.l = xposList[0][0] - sizesList[0][0]
-		self.r = xposList[-1][-1] + sizesList[-1][-1]
+		#self.l = xposList[0][0] - sizesList[0][0]
+		#self.r = xposList[-1][-1] + sizesList[-1][-1]
+		length = xposList[-1][-1] - xposList[0][0]
+		self.l = xposList[0][0] + length / 4.0 #trick避免错误合并，以竖直方向合并为主
+		self.r = xposList[-1][-1] - length / 4.0 #trick避免错误合并，以竖直方向合并为主
+
 		averageSz = sum([float(x) for x in Tools.flatList(sizesList)])*1.0 / len(Tools.flatList(sizesList))
 		self.u = ypos - averageSz * BLOCK_HEIGHT_RATIO
 		self.d = ypos + averageSz * BLOCK_HEIGHT_RATIO
@@ -60,7 +67,9 @@ def getBlockSetList(dsu, blockList):
 
 #该函数利用并查集通过词框合并得到一个个块，最后排序输出给分类器进行分类，排序规则如下
 #计算块集合的平均高度y，首先输出平均高度y较小的块，块内按y从小到大
+blockSetList=[]
 def BlockUnionProcess(header, charSizes, ypos, xpos):
+	global blockSetList
 	dsu = DisjointSet.DisjointSet(len(header))
 	blockList = []
 	for i in range(len(header)):
@@ -78,3 +87,43 @@ def BlockUnionProcess(header, charSizes, ypos, xpos):
 		for block in blockset:
 			sortedIdxList.append(block.originIdx)
 	return sortedIdxList
+
+def matchInBlocks(label):
+	authorInfo = []
+	i=0
+	for blockset in blockSetList:
+		for block in blockset:
+			block.label = label[i]
+			i+=1
+	for blockset in blockSetList:
+		name=[]
+		address=''
+		affiliation=''
+		email=[]
+		for block in blockset:
+			#if block.label == '<author>':
+			#	name.append(block.header)
+			if block.label == '<author>':#抽一行的作者，一行可能有多个作者
+				tmpStr=[]
+				if StringManager.hasBigComma(block.header, tmpStr):
+					name += tmpStr[0].split('#')
+				elif len(block.header.strip().split()) >= 4:
+					name += splitByBigSpace(block.header, xpos[i])
+				else:
+					name.append(block.header)
+
+			if block.label == '<affiliation>':
+				affiliation += block.header
+			if block.label == '<address>':
+				address += block.header
+			if block.label == '<email>':
+				#email.append(block.header)
+				email += EmailManager.handleOneEmailBlock(block.header)
+			emailId=0
+		for a_name in name:
+			a_email = ''
+			if emailId < len(email):
+				a_email = email[emailId]
+				emailId += 1
+			authorInfo.append(Author.Author(a_name, address, affiliation, a_email))
+	return authorInfo

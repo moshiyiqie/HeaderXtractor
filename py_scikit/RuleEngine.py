@@ -92,14 +92,14 @@ def fixByStanfordNER(header, label):
 	for i in range(len(label)):
 		res = StanfordNER.getNerResult(header[i])
 		#if u'PERSON' in res.keys(): print 'FOUND person!!', header[i], label[i]
-		if u'PERSON' in res.keys() and label[i] != '<author>'  and label[i] != '<title>':
+		if u'PERSON' in res.keys() and label[i] != '<author>'  and label[i] != '<title>' and label[i] != '<abstract>':
 			print '[NER-person] ', header[i], label[i]
 			newLabel[i] = '<author>'
 		elif u'ORGANIZATION' in res.keys() and label[i] != '<affiliation>' and label[i] != '<abstract>' and label[i] != '<title>' and len(header[i]) <= 4:
 			print '[NER-affiliation] ', header[i], label[i]
 			newLabel[i] = '<affiliation>'
-		#elif u'LOCATION' in res.keys() and label[i] != '<address>' and label[i] != '<abstract>':
-		#	print '[NER-address] ', header[i], label[i]
-		#	newLabel[i] = '<address>'
+		elif u'LOCATION' in res.keys() and label[i] != '<address>' and label[i] != '<abstract>'  and label[i] != '<title>':
+			print '[NER-address] ', header[i], label[i]
+			newLabel[i] = '<address>'
 	return newLabel
 

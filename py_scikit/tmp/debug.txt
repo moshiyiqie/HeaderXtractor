@@ -1,1 +1,1 @@
-wordList[i], lineCharSizes[i] 5 4 Shafi
+wordList[i], lineCharSizes[i] 10 9 {cwfletch,

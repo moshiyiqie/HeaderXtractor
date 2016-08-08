@@ -83,6 +83,7 @@ def handleResultWithIndex(authors, idAuthor, idAffliations, idAddress,  emails, 
 	return authorInfo
 
 #处理没有角标的PDF的作者-地址等匹配
+#!!!已被BlockManager.matchInBlocks()代替
 def handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliationsLine, address,addressLine):
 	authorInfo=[]
 	for i in range(len(authors)):
@@ -137,16 +138,15 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	#获取预测结果
 	#label = getPredictLabelWithScikit(header)
 	label = getPredictLabelWithCRF(header)
-	print header
-	print '[Before Rule]',label
+	print '[Before Rule]',zip(header, label)
 	
 	#header长度和预测的每行结果的长度必须相同
 	assert(len(header) == len(label))
 	
 	#规则修正
 	label = RuleEngine.fixForAt(header, label)
-	label = RuleEngine.fixForContainUniversity(header, label)
 	label = RuleEngine.fixByStanfordNER(header, label)#利用stanford ner来进行机构、地址、作者的修正
+	label = RuleEngine.fixForContainUniversity(header, label)
 	label = RuleEngine.fixForCheckIfNoAuthor(header, label)
 	label = RuleEngine.fixForCheckIfNoTitle(header, label)
 	label = RuleEngine.fixForNoteAfterTitle(header, label)
@@ -155,7 +155,7 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	
 	
 	
-	print '[After Rule]',label
+	print '[After Rule]',zip(header, label)
 	
 	#处理作者
 	authors, authorsIndex, authorsLine = Author.getAuthors(header, label, xpos, pdf)
@@ -184,7 +184,8 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	if len(idAuthor) != 0:
 		authorInfo = handleResultWithIndex(authors, idAuthor, idAffliations, idAddress,  emails, affiEmailMap)#针对有角标的pdf输出
 	else:
-		authorInfo = handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliationsLine, address,addressLine)#针对无角标的pdf输出
+		#authorInfo = handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliationsLine, address,addressLine)#针对无角标的pdf输出
+		authorInfo = BlockManager.matchInBlocks(label)
 	
 	return title, authorInfo, header, label
 	#for author in authorInfo:

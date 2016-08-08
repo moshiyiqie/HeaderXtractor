@@ -89,6 +89,8 @@ def getAuthors(header, label, xpos, pdf):
 			authorsLine.pop(i)
 		i+=1
 		length = len(authors)
+	authors = [x for x in authors if len(x)>0]
+	authorsIndex = [x for x in authorsIndex if len(x)>0]
 	print 'authors, authorsIndex', authors, authorsIndex
 	return authors, authorsIndex, authorsLine
 	

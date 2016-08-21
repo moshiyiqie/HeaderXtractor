@@ -80,7 +80,7 @@ def BlockUnionProcess(header, charSizes, ypos, xpos):
 		blockSetList[i].sort(key = lambda x: (x.u+x.d)/2.0)
 	#print 'blockSetList', blockSetList
 
-	GraphicManager.printRecWithWords(Tools.flatList(blockSetList))
+	#GraphicManager.printRecWithWords(Tools.flatList(blockSetList))#绘图查看分块效果
 
 	sortedIdxList = []
 	for blockset in blockSetList:

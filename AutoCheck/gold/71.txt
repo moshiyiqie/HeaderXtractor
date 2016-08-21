@@ -1,0 +1,17 @@
+[Title]:Single Spin Image-ICP matching for Efficient 3D Object Recognition
+
+[Author name]:Arvid Halma 
+[Email]:arvid.halma@tno.nl 
+
+[Author name]:Frank ter Haar 
+[Email]:frank.terhaar@tno.nly 
+
+[Author name]:Pieter Eendebak 
+[Email]:pieter.eendebak@tno.nl 
+
+[Author name]:Adam van Eekeren 
+[Email]:adam.vaneekeren@tno.nly 
+
+[Author name]:Ernst Bovenkamp 
+[Email]:ernst.bovenkamp@tno.nl 
+

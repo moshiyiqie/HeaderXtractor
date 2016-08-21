@@ -1,0 +1,7 @@
+Improving the Performance of Speculatively -><title>
+Parallel Applications on the Hydra CMP -><title>
+Kunle Olukotun, Lance Hammond and Mark Wiley -><author>
+Computer Systems Laboratory -><affiliation>
+Stanford University -><affiliation>
+Stanford, CA 943054070 -><address>
+http://www-hydra.stanford.edu/ -><web>

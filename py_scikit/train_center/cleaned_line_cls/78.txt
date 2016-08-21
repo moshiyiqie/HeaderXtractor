@@ -1,0 +1,16 @@
+Unique Shape Context for 3D Data Description -><title>
+Samuele Salti -><author>
+DEIS/ARCES -><affiliation>
+University of Bologna -><affiliation>
+Bologna, Italy -><address>
+samuele.salti@unibo.it -><email>
+Luigi Di Stefano -><author>
+DEIS/ARCES -><affiliation>
+University of Bologna -><affiliation>
+Bologna, Italy -><address>
+luigi.distefano@unibo.it -><email>
+Federico Tombari -><author>
+DEIS/ARCES -><affiliation>
+University of Bologna -><affiliation>
+Bologna, Italy -><address>
+federico.tombari@unibo.it -><email>

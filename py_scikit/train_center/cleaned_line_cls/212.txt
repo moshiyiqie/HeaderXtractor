@@ -1,0 +1,12 @@
+Balancing Conflict and Cost in the Selection of Negotiation -><title>
+Opponents -><title>
+Michael Luck -><author>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton, UK -><address>
+mml@ecs.soton.ac.uk -><email>
+Steve Munroe -><author>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton, UK -><address>
+sjm@ecs.soton.ac.uk -><email>

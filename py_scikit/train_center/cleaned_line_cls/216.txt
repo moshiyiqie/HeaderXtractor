@@ -1,0 +1,9 @@
+﻿Buyer’s Coalition for Optimal Search -><title>
+David Sarne -><author>
+Department of Computer Science -><affiliation>
+Bar-Ilan University, Ramat Gan 52900, Israel -><address>
+Sarit Kraus -><author>
+Department of Computer Science -><affiliation>
+Bar-Ilan University, Ramat Gan 52900, Israel -><affiliation>
+and Institute for Advanced Computer Studies -><affiliation>
+University of Maryland, College Park, MD 20742 -><affiliation>

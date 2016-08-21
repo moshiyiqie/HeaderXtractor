@@ -1,0 +1,7 @@
+Agent-Based Integration of Web Services with Workflow -><title>
+Management Systems -><title>
+Bastin Tony Roy Savarimuthu, Maryam Purvis, Martin Purvis, Stephen Cranefield -><author>
+Department of Information Science -><affiliation>
+University of Otago -><affiliation>
+P O Box 56, Dunedin, New Zealand -><address>
+tonyr@infoscience.otago.ac.nz -><email>

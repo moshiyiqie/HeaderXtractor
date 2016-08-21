@@ -1,0 +1,18 @@
+Dealing with Imprecise Quality Factors -><title>
+in Software Design -><title>
+Joost Noppen, Pim van den Broek & Mehmet Aksit -><author>
+Trese Group, Dept. of Computer Science -><affiliation>
+P.O. Box 217, 7500 AE Enschede -><address>
+The Netherlands -><address>
+ciseness can manifest itself in for instance the require- -><abstract>
+ments or performance estimations. While it is common to -><abstract>
+eliminate the impreciseness by information that can not be -><abstract>
+justified , it is better to model the impreciseness since it is -><abstract>
+the most accurate description that is available at the cur- -><affiliation>
+rent point in time. In this paper we present an approach, -><abstract>
+which allows the explicit specification of quality estima- -><abstract>
+tions and quality requirements including the imprecise -><abstract>
+nature. In this approach the impreciseness is modeled and -><abstract>
+addressed using representations from probability theory -><abstract>
+and fuzzy set theory. -><abstract>
+40 -><intro>

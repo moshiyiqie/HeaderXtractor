@@ -1,0 +1,7 @@
+Fault Tolerance for Internet Agent Systems: -><title>
+in cases of stop failure and Byzantine failure -><title>
+Tadashi Araragi -><author>
+NIPPON TELEGRAPH AND TELEPHONE CORPORATION -><affiliation>
+NTT Communication Science Laboratories -><affiliation>
+2-4, Hikaridai, Seika-cho, Soraku-gun, Kyoto 619-0237 Japan -><address>
+araragi@cslab.kecl.ntt.co.jp -><email>

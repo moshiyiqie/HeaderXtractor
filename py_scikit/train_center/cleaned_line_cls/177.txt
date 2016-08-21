@@ -1,0 +1,10 @@
+﻿A Logic of Reasoning, Communication and Cooperation -><title>
+with Syntactic Knowledge -><title>
+Michal Walicki -><author>
+Department of Informatics, University of Bergen -><affiliation>
+PB. 7800, N-5020 Bergen, Norway -><affiliation>
+michal@ii.uib.no -><email>
+Thomas A˚gotnes -><author>
+Department of Informatics, University of Bergen -><affiliation>
+PB. 7800, N-5020 Bergen, Norway -><author>
+agotnes@ii.uib.no -><email>

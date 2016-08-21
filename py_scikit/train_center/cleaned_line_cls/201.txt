@@ -1,0 +1,5 @@
+A Framework for Specifying -><title>
+Group Decision-Making Mechanisms -><title>
+Luke Hunsberger -><author>
+Computer Science Department, Vassar College, Poughkeepsie, NY 12604 -><affiliation>
+hunsberg@cs.vassar.edu -><email>

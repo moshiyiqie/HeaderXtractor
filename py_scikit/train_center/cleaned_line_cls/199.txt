@@ -1,0 +1,22 @@
+Reducing Coalition Structures via Agreement Specification -><title>
+Guido Boella -><author>
+Dip. di Informatica -><affiliation>
+Universita` di Torino -><affiliation>
+Italy -><address>
+guido@di.unito.it -><email>
+Luigi Sauro -><author>
+Dip. di Informatica -><affiliation>
+Universita` di Torino -><affiliation>
+Italy -><address>
+sauro@di.unito.it -><email>
+Leendert van der Torre -><author>
+CWI Amsterdam -><affiliation>
+and Delft Univ. of Technology -><affiliation>
+The Netherlands -><address>
+torre@cwi.nl -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Distributed Artificial Intelligence]: Multiagent systems -><note>
+General Terms -><note>
+MAS theory -><note>
+Keywords -><keyword>
+Coalition formation, power theory -><keyword>

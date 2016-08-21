@@ -1,0 +1,11 @@
+Task and Social Coordination in Agent Organizations -><title>
+Frank Dignum -><author>
+Institute for Information and Computing Sciences -><affiliation>
+Utrecht University -><affiliation>
+Utrecht, The Netherlands -><address>
+dignum@cs.uu.nl -><email>
+Virginia Dignum -><author>
+Institute for Information and Computing Sciences -><affiliation>
+Utrecht University -><affiliation>
+Utrecht, The Netherlands -><address>
+virginia@cs.uu.nl -><email>

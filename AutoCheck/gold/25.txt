@@ -1,0 +1,17 @@
+[Title]:Improving the Performance of Speculatively ication Level Scheduling of Gene Sequen Comparison on Metacomputerw Parallel Applications on the Hydra CMP
+
+[Author name]:Neil Spring 
+[Affliation]:Computer Systems Laboratory 
+
+[Author name]:Kunle Olukotun
+[Affliation]:Computer Systems Laboratory 
+
+[Author name]: Lance Hammond 
+[Affliation]:Computer Systems Laboratory 
+
+[Author name]: Mark Wiley 
+[Affliation]:Computer Systems Laboratory 
+
+[Author name]:Rich Wolskit 
+[Affliation]:Computer Systems Laboratory 
+

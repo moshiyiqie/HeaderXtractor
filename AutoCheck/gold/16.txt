@@ -1,0 +1,22 @@
+[Title]:Author Retrospective for Author Retrospective for Author’s Retrospective for: PYRROS: Static Task Scheduling and Code Generation for Array Privatization for Parallel Execution of Loops Optimizing for Parallelism and Data Locality Message Passing Multiprocessors
+
+[Author name]:Kathryn S. McKinley 
+[Address]:West Lafayette, Indiana, USA 
+[Affliation]:Microsoft Research Department of Computer Science Purdue University 250 North University Street 
+[Email]:mckinley@microsoft.com 
+
+[Author name]:Zhiyuan Li 
+[Address]:West Lafayette, Indiana, USA 
+[Affliation]:Microsoft Research Department of Computer Science Purdue University 250 North University Street 
+[Email]:zhiyuanli@purdue.edu 
+
+[Author name]:Tao Yang 
+[Address]:Santa Barbara, CA 93106, USA 
+[Affliation]:Department of Computer Science University of California 
+[Email]:tyang@cs.ucsb.edu 
+
+[Author name]:Apostolos Gerasoulis 
+[Address]:New Brunswick, NJ 08903, USA 
+[Affliation]:Department of Computer Science Rutgers University 
+[Email]:gerasoul@cs.rutgers.edu 
+

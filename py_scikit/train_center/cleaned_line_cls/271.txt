@@ -1,0 +1,12 @@
+Evaluating the Minority Game Strategy in Agent Role -><title>
+Assignments -><title>
+Jiming Liu -><author>
+Department of Computer Science -><affiliation>
+Hong Kong Baptist University -><affiliation>
+Kowloon Tong, Hong Kong -><affiliation>
+jiming@comp.hkbu.edu.hk -><email>
+Tingting Wang -><author>
+Department of Computer Science -><affiliation>
+Hong Kong Baptist University -><affiliation>
+Kowloon Tong, Hong Kong -><address>
+ttwang@comp.hkbu.edu.hk -><email>

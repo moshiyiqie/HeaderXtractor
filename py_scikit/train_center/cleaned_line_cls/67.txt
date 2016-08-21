@@ -1,0 +1,11 @@
+Adaptive, Secure, and Scalable Distributed Data -><affiliation>
+Outsourcing: A Vision Paper -><title>
+Vaidy Sunderam -><author>
+Emory University -><affiliation>
+vss@emory.edu -><email>
+Li Xiong -><author>
+Emory University -><affiliation>
+lxiong@emory.edu -><email>
+Slawomir Goryczka -><author>
+Emory University -><affiliation>
+sgorycz@emory.edu -><email>

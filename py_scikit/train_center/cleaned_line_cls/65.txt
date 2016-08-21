@@ -1,0 +1,18 @@
+Author Retrospective -><title>
+Compiler-Directed Data Prefetching -><title>
+in Multiprocessors with Memory Hierarchies -><title>
+Elana Granston -><author>
+Cutting Edge Consulting -><affiliation>
+cuttingedgeconsulting@outlook.com -><email>
+Alexander V. Veidenbaum -><author>
+Dept. of Computer Science -><affiliation>
+University of California Irvine -><affiliation>
+Irvine, CA 92697-3435 -><address>
+(949)-824-6188 -><phone>
+alexv@ics.uci.edu -><email>
+Eddie Gornish -><author>
+Nvidia Corporation -><affiliation>
+2001 Walsh Avenue -><address>
+Santa Clara, CA 95050 -><address>
+(408) 562-7599 -><phone>
+gornish@gmail.com -><email>

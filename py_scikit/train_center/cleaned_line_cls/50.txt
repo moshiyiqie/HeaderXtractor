@@ -1,0 +1,34 @@
+﻿Author Retrospective for -><title>
+Array Expansion, Array Shrinking, -><title>
+or There and Back Again -><title>
+Paul Feautrier -><author>
+Ecole Normale Supérieure de Lyon, Lyon, France -><affiliation>
+Paul.Feautrier@ens-lyon.fr -><email>
+In the late 1980’s, I was recovering from a long stint as the man- -><abstract>
+ager of Paris University computing facility (yes, there were still -><abstract>
+computing facilities, and PCs were just coming of age) and I was -><abstract>
+teaching old fashioned automatic parallelization to postgraduate -><abstract>
+students. I had heard of scalar expansion and privatization, and it -><abstract>
+was a natural question whether it could be extended to arrays. I first -><abstract>
+concocted partial solutions – for instance, valid only for the inner- -><abstract>
+most loop – and then decided to try for the general case: converting -><abstract>
+array accesses to single assignment form. I soon realized that this -><abstract>
+implied finding the source, or last write before a given read, and -><abstract>
+that the solution must be a function of the position of the read in the -><abstract>
+temporal execution of the program. It was obvious that this could -><abstract>
+not be done for arbitrary complex programs, hence I specified a set -><abstract>
+of restriction: the polyhedral model. I also introduced the execu- -><abstract>
+tion order, now known as the “happens-before” relation. Finding -><abstract>
+the last write then became an integer programming problem with -><abstract>
+some unfamiliar features: lexicographic order took the place of the -><abstract>
+economic function, the problem had to be solved exactly, and the -><abstract>
+coordinates of the read operation were acting as parameters. Hence, -><abstract>
+I had first to build PIP (a parametric integer programming tool [2]) -><abstract>
+before solving my problem. PIP was developed on a 80286 PC, -><abstract>
+using Borland TurboC and LeLisp. -><abstract>
+It then took me about two years to have an improved form of the -><abstract>
+ICS paper published by a journal [3]. Here, the emphasis was more -><abstract>
+on single assignment conversion and its use for program compre- -><abstract>
+hension. I also formalized a comparison algorithm, which is needed -><abstract>
+when there are several potential sources. But it was not until [4] that -><abstract>
+I managed to prove its termination. -><abstract>

@@ -1,0 +1,6 @@
+From Silhouettes to 3D Points to Mesh -><title>
+Towards Free Viewpoint Video -><title>
+Jordi Salvador, Xavier Suau and Josep R. Casas -><author>
+Image and Video Processing Group -><affiliation>
+Technical University of Catalonia -><affiliation>
+{jordi.salvador, xavier.suau, josep.ramon.casas}@upc.edu -><email>

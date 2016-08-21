@@ -1,0 +1,17 @@
+﻿Comparative Analysis of Top–Down and Bottom–up -><title>
+Methodologies for Multi–Agent System Design -><title>
+Kristina Lerman -><author>
+Information Sciences Institute -><affiliation>
+Univ. of Southern California -><affiliation>
+Marina del Rey, CA -><address>
+lerman@isi.edu -><email>
+Aram Galstyan -><affiliation>
+Information Sciences Institute -><affiliation>
+Univ. of Southern California -><affiliation>
+Marina del Rey, CA -><address>
+galstyan@isi.edu -><email>
+Valentino Crespi -><author>
+Dept. Computer Science -><affiliation>
+Cal State Los Angeles -><affiliation>
+Los Angeles, CA -><address>
+vcrespi@calstatela.edu -><email>

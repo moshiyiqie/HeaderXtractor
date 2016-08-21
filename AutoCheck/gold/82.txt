@@ -1,0 +1,21 @@
+[Title]:Recognition of 3D Faces with Missing Parts based on Profile Networks
+
+[Author name]:Stefano Berretti
+[Address]:Firenze, Italy 
+[Affliation]:Dipartimento di Sistemi e Informatica University of Firenze 
+[Email]:berretti@dsi.unifi.it
+
+[Author name]: Alberto Del Bimbo
+[Address]:Firenze, Italy 
+[Affliation]:Dipartimento di Sistemi e Informatica University of Firenze 
+[Email]:delbimbo@dsi.unifi.it
+
+[Author name]: 
+[Address]:Firenze, Italy 
+[Affliation]:Dipartimento di Sistemi e Informatica University of Firenze 
+[Email]:pala@dsi.unifi.it
+
+[Author name]: Pietro Pala 
+[Address]:Firenze, Italy 
+[Affliation]:Dipartimento di Sistemi e Informatica University of Firenze 
+

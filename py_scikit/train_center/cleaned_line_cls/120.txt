@@ -1,0 +1,15 @@
+A Case Study of Open Source Tools and Practices -><title>
+in a Commercial Setting -><title>
+James D. Herbsleb -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 USA -><address>
++1 412 268 8933 -><phone>
+jdh@cs.cmu.edu -><email>
+Vijay K. Gurbani, Anita Garvert -><author>
+Lucent Technologies/Bell Labs Innovations -><affiliation>
+2000 Lucent Lane -><address>
+Naperville, IL 60566 USA -><address>
++1 630 224 0216 -><phone>
+{vkg,agarvert}@lucent.com -><email>
+24 -><date>

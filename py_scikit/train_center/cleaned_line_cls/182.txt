@@ -1,0 +1,26 @@
+﻿Stability and Control of Agent Ecosystems -><title>
+Maxim D. Peysakhov -><author>
+Drexel University -><affiliation>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Philadelphia PA 19104 -><address>
+umpeysak@cs.drexel.edu -><email>
+Robert N. Lass -><author>
+Drexel University -><affiliation>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Philadelphia PA 19104 -><address>
+urlass@cs.drexel.edu -><email>
+William C. Regli -><author>
+Drexel University -><affiliation>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Philadelphia PA 19104 -><address>
+regli@drexel.edu -><email>
+Categories and Subject Descriptors -><note>
+D.2.10 [Software Engineering]: Design—Methodologies -><keyword>
+General Terms -><keyword>
+Stability theory -><keyword>
+Keywords -><keyword>
+agents & complex systems; computational ecosystems, agents & -><note>
+networks: web agents, semantic web, grid, web services, P2P -><note>

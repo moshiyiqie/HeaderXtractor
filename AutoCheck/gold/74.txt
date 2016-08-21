@@ -1,0 +1,7 @@
+[Title]:Shape Comparison through Mutual Distances of Real Functions
+
+[Author name]:Silvia Biasotti 
+[Address]:Genova, Italy 
+[Affliation]:Istituto di Matematica Applicata e Tecnologie Informatiche Consiglio Nazionale delle Ricerche 
+[Email]:silvia@ge.imati.cnr.it 
+

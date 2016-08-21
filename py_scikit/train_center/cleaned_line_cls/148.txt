@@ -1,0 +1,7 @@
+Using Tabu Best-Response Search to Find Pure Strategy -><title>
+Nash Equilibria in Normal Form Games -><title>
+Ashish Sureka Peter R. Wurman -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-7535 -><address>
+asureka@unity.ncsu.edu wurman@csc.ncsu.edu -><email>

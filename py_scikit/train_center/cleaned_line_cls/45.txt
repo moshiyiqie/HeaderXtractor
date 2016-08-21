@@ -1,0 +1,7 @@
+Author Retrospective of Dynamic Application Scheduling -><title>
+Using On-line Analytics – Then and Now -><title>
+Rich Wolski -><author>
+Department of Computer Science -><affiliation>
+University of California, Santa Barbara -><affiliation>
+Santa Barbara, CA 93106 -><address>
+rich@cs.ucsb.edu -><email>

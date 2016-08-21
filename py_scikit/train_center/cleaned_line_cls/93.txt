@@ -1,0 +1,15 @@
+﻿Self-occlusion Handling for Human Body Motion Tracking -><title>
+from 3D ToF Image Sequence -><title>
+∗ -><title>
+Daijin Kim† -><author>
+POSTECH, Department of Computer Science -><affiliation>
+and Engineering -><affiliation>
+San 31, Hyoja-Dong, Nam-Gu -><address>
+Pohang, South Korea -><address>
+dkim@postech.ac.kr -><email>
+Daehwan Kim -><author>
+POSTECH, Department of Computer Science -><affiliation>
+and Engineering -><affiliation>
+San 31, Hyoja-Dong, Nam-Gu -><address>
+Pohang, South Korea -><address>
+msoul98@postech.ac.kr -><email>

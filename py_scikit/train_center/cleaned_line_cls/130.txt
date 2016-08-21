@@ -1,0 +1,5 @@
+Debugging Object-Oriented Programs with Behavior Views -><title>
+Donglin Liang and Kai Xu -><author>
+University of Minnesota -><affiliation>
+Minneapolis, MN 55455, USA -><address>
+{dliang,kai}@cs.umn.edu -><email>

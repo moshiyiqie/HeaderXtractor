@@ -1,0 +1,4 @@
+Cooperative Cache Partitioning for Chip Multiprocessors -><title>
+Jichuan Chang and Gurindar S. Sohi -><author>
+Computer Sciences Department -><affiliation>
+University of Wisconsin-Madison -><affiliation>

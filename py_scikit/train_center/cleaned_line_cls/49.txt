@@ -1,0 +1,8 @@
+Author Retrospective for -><title>
+Adaptive Reduction Parallelization Techniques -><title>
+Hao Yu -><author>
+IBM T.J. Watson Research Center -><affiliation>
+yuh@us.ibm.com -><email>
+Lawrence Rauchwerger -><author>
+Parasol Lab, Texas A&M University -><affiliation>
+rwerger@cse.tamu.edu -><email>

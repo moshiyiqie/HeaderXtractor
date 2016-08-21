@@ -1,0 +1,23 @@
+A Real Time Measure of Software System Families -><title>
+Andreas Speck -><author>
+Commercial Information Systems -><affiliation>
+Faculty of Economics and -><affiliation>
+Business Administration -><affiliation>
+University of Jena -><affiliation>
+Germany -><address>
+andreas.speck@uni-jena.de -><email>
+Bogdan Franczyk -><author>
+Information Systems Institute -><affiliation>
+Faculty of Economics and -><affiliation>
+Management -><affiliation>
+University of Leipzig -><affiliation>
+Germany -><address>
+franczyk@wifa.uni-leipzig.de -><email>
+Sebastian Kiebusch -><author>
+Information Systems Institute -><affiliation>
+Faculty of Economics and -><affiliation>
+Management -><affiliation>
+University of Leipzig -><affiliation>
+Germany -><address>
+kiebusch@wifa.uni-leipzig.de -><email>
+57 -><date>

@@ -1,0 +1,11 @@
+Computing the Communication Costs of Item Allocation -><title>
+Timothy W. Rauenbusch -><author>
+Artificial Intelligence Center -><affiliation>
+SRI International -><affiliation>
+Menlo Park, CA 94025 -><address>
+rauenbusch@ai.sri.com -><email>
+Stuart M. Shieber and Barbara J. Grosz -><author>
+Division of Engineering and Applied Sciences -><affiliation>
+Harvard University -><affiliation>
+Cambridge, MA 02138 -><address>
+shieber,grosz@eecs.harvard.edu -><email>

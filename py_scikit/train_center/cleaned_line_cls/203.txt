@@ -1,0 +1,19 @@
+﻿Cooperation In Stochastic Games Through Communication -><title>
+Alain Dutech -><author>
+Loria \ INRIA-Lorraine -><affiliation>
+B.P. 239, Campus Scientifique -><address>
+Vandœuvre-le`s-Nancy, France -><address>
+Cedex 54506, France -><address>
+dutech@loria.fr -><email>
+Franc¸ois Charpillet -><author>
+Loria \ INRIA-Lorraine -><affiliation>
+B.P. 239, Campus Scientifique -><address>
+Vandœuvre-le`s-Nancy, France -><address>
+Cedex 54506, France -><address>
+charpillet@loria.fr -><email>
+Raghav Aras -><author>
+Loria \ INRIA-Lorraine -><affiliation>
+B.P. 239, Campus Scientifique -><address>
+Vandœuvre-le`s-Nancy, France -><address>
+Cedex 54506, France -><address>
+aras@loria.fr -><email>

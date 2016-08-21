@@ -1,0 +1,11 @@
+Efficient Information Retrieval Using Mobile Agents -><title>
+Irene Sygkouna -><author>
+National Technical University of Athens -><affiliation>
+9, Heroon Polytechneiou Str., 15773, Zografou, -><address>
+Athens, Greece -><address>
+isygk@telecom.ntua.gr -><email>
+Miltiades Anagnostou -><author>
+National Technical University of Athens -><affiliation>
+9, Heroon Polytechneiou Str., 15773, Zografou, -><address>
+Athens, Greece -><address>
+miltos@central.ntua.gr -><email>

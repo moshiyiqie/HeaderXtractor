@@ -1,0 +1,12 @@
+Using iDAVE to Determine Availability Requirements -><title>
+LiGuo Huang -><author>
+Computer Science Department -><affiliation>
+University of Southern California -><affiliation>
+(213)-740-6470 -><phone>
+liguohua@sunset.usc.edu -><email>
+Barry Boehm -><author>
+Computer Science Department -><affiliation>
+University of Southern California -><affiliation>
+(213)-740-8163 -><phone>
+boehm@sunset.usc.edu -><email>
+7 -><pubnum>

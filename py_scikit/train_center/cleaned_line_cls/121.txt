@@ -1,0 +1,14 @@
+Open Source Software Maintenance Process Framework -><title>
+Virpi Hotti -><author>
+Department of Computer Science -><affiliation>
+University of Kuopio -><affiliation>
+Box 163, 70211 Kuopio, Finland -><address>
++358-17-162105 -><phone>
+virpi.hotti@uku.fi -><email>
+Timo Koponen -><author>
+Department of Computer Science -><affiliation>
+University of Kuopio -><affiliation>
+Box 163, 70211 Kuopio, Finland -><address>
++358-17-162388 -><phone>
+timo.koponen@uku.fi -><email>
+30 -><date>

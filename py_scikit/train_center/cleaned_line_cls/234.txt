@@ -1,0 +1,6 @@
+A Drosophila for Computational Dialectics -><title>
+Simon Wells and Chris Reed -><author>
+University of Dundee -><affiliation>
+Division of Applied Computing -><affiliation>
+Park Wynd, Dundee, U.K. -><address>
+swells, chris@computing.dundee.ac.uk -><email>

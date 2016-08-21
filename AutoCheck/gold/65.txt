@@ -1,0 +1,16 @@
+[Title]:Author Retrospective Compiler-Directed Data Prefetching in Multiprocessors with Memory Hierarchies
+
+[Author name]:Elana Granston 
+[Affliation]:Cutting Edge Consulting 
+[Email]:cuttingedgeconsulting@outlook.com 
+
+[Author name]:Alexander V. Veidenbaum 
+[Address]:Irvine, CA 92697-3435 
+[Affliation]:Dept. of Computer Science University of California Irvine 
+[Email]:alexv@ics.uci.edu 
+
+[Author name]:Eddie Gornish 
+[Address]:2001 Walsh Avenue Santa Clara, CA 95050 
+[Affliation]:Nvidia Corporation 
+[Email]:gornish@gmail.com 
+

@@ -1,0 +1,6 @@
+Just in Time Mobile Agent Generation and Management -><title>
+G. Jayaputera, S. W. Loke, A. Zaslavsky -><author>
+School of Computer Science and Software Engineering, Monash University -><affiliation>
+900 Dandenong Road, Caulfield East, Victoria 3145, Australia -><address>
++61 3 9903 2787 -><phone>
+{glenn.jayaputera, seng.loke, arkady.zaslavsky}@infotech.monash.edu.au -><email>

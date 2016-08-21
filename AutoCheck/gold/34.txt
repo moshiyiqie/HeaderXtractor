@@ -1,0 +1,22 @@
+[Title]:AEGIS: Architecture for Tamper-Evident and Tamper-Resistant Processing
+
+[Author name]:G. Edward Suh
+[Address]:Cambridge, MA 02139 
+[Affliation]:Laboratory for Computer Science Massachusetts Institute of Technology 
+
+[Author name]: Dwaine Clarke
+[Address]:Cambridge, MA 02139 
+[Affliation]:Laboratory for Computer Science Massachusetts Institute of Technology 
+
+[Author name]: Blaise Gassend
+[Address]:Cambridge, MA 02139 
+[Affliation]:Laboratory for Computer Science Massachusetts Institute of Technology 
+
+[Author name]: Marten van Dijk
+[Address]:Cambridge, MA 02139 
+[Affliation]:Laboratory for Computer Science Massachusetts Institute of Technology 
+
+[Author name]: Srinivas Devadas 
+[Address]:Cambridge, MA 02139 
+[Affliation]:Laboratory for Computer Science Massachusetts Institute of Technology 
+

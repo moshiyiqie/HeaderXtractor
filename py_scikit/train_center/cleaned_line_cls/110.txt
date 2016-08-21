@@ -1,0 +1,7 @@
+Investigating Quality in Large-Scale Open Source Software -><title>
+Uzma Raja, Evelyn Barry -><author>
+Texas A&M University -><affiliation>
+College Station, TX -><affiliation>
+1-979-845-6995 -><phone>
+{uraja,ebarry}@mays.tamu.edu -><email>
+43 -><date>

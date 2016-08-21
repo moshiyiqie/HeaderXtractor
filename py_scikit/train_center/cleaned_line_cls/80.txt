@@ -1,0 +1,22 @@
+﻿Indexing of 3D Models -><title>
+Based on Graph of Surfacic Regions -><title>
+Michel Jordan -><author>
+ETIS, CNRS ENSEA -><affiliation>
+Université Cergy-Pontoise -><affiliation>
+F-95000 Cergy-Pontoise -><address>
+michel.jordan@u-cergy.fr -><email>
+Sylvie Philipp-Foliguet -><author>
+ETIS, CNRS ENSEA -><affiliation>
+Université Cergy-Pontoise -><affiliation>
+F-95000 Cergy-Pontoise -><address>
+sylvie.philipp@ensea.fr -><email>
+Matthias Fuzier -><author>
+ETIS, CNRS ENSEA -><affiliation>
+Université Cergy-Pontoise -><affiliation>
+F-95000 Cergy-Pontoise -><address>
+matthias.fuzier@ensea.fr -><email>
+Philippe-Henri Gosselin -><author>
+ETIS, CNRS ENSEA -><title>
+Université Cergy-Pontoise -><affiliation>
+F-95000 Cergy-Pontoise -><address>
+gosselin@ensea.fr -><email>

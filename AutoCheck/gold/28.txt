@@ -1,0 +1,39 @@
+[Title]:Improving the Performance of Speculatively ication Level Scheduling of Gene Sequen Synthesizing Transformations for Locality Enhancement Comparison on Metacomputerw Parallel Applications on the Hydra CMP of Imperfectly-nested Loop Nests
+
+[Author name]:Neil Spring 
+[Address]:Stanford, CA 943054070 Ithaca, NY 14853 
+[Affliation]:Computer Systems Laboratory Stanford University Department of Computer Science Cornell University 
+[Email]:nawaaz@
+
+[Author name]:Kunle Olukotun
+[Address]:Stanford, CA 943054070 Ithaca, NY 14853 
+[Affliation]:Computer Systems Laboratory Stanford University Department of Computer Science Cornell University 
+[Email]:mateev@
+
+[Author name]: Lance Hammond 
+[Address]:Stanford, CA 943054070 Ithaca, NY 14853 
+[Affliation]:Computer Systems Laboratory Stanford University Department of Computer Science Cornell University 
+[Email]:pingali@
+
+[Author name]: Mark Wiley 
+[Address]:Stanford, CA 943054070 Ithaca, NY 14853 
+[Affliation]:Computer Systems Laboratory Stanford University Department of Computer Science Cornell University 
+[Email]:cs.comell
+
+[Author name]:Rich Wolskit 
+[Address]:Stanford, CA 943054070 Ithaca, NY 14853 
+[Affliation]:Computer Systems Laboratory Stanford University Department of Computer Science Cornell University 
+[Email]:.edu
+
+[Author name]:Nawaaz Ahmed
+[Address]:Stanford, CA 943054070 Ithaca, NY 14853 
+[Affliation]:Computer Systems Laboratory Stanford University Department of Computer Science Cornell University 
+
+[Author name]: Nikolay Mateev
+[Address]:Stanford, CA 943054070 Ithaca, NY 14853 
+[Affliation]:Computer Systems Laboratory Stanford University Department of Computer Science Cornell University 
+
+[Author name]: Keshav Pingali 
+[Address]:Stanford, CA 943054070 Ithaca, NY 14853 
+[Affliation]:Computer Systems Laboratory Stanford University Department of Computer Science Cornell University 
+

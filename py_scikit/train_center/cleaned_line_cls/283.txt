@@ -1,0 +1,34 @@
+﻿On the Performance of On-line Concurrent Reinforcement -><title>
+Learners -><title>
+Bikramjit Banerjee -><author>
+Department of Electrical Engineering & Computer Science -><affiliation>
+Tulane University -><affiliation>
+New Orleans, LA 70118. USA -><address>
+banerjee@eecs.tulane.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Distributed Artificial Intelligence]: Multiagent Systems; -><note>
+I.2.6 [Artificial Intelligence]: LearningConcept Learning -><note>
+General Terms -><keyword>
+Algorithms, Theory, Performance -><keyword>
+Keywords -><keyword>
+Multiagent Learning, Game Theory -><abstract>
+Multiagent Learning (MAL) is significantly complicated relative -><abstract>
+to Machine Learning (ML) by the fact that multiple learners render -><abstract>
+each other’s environments non-stationary. While ML focuses on -><abstract>
+learning a fixed target function, MAL deals with learning a “mov- -><abstract>
+ing target function”. In contrast to classical Reinforcement Learn- -><abstract>
+ing, MAL deals with an extra level of uncertainty in the form of -><abstract>
+the behaviors of the other learners in the domain. Existing learning -><abstract>
+methods provide guarantees about the performance of the learners -><abstract>
+only in the limit since a learner approaches its desired behavior -><abstract>
+asymptotically. There is little insight into how well or how poorly -><abstract>
+an on-line learner can perform while it is learning. This is the core -><abstract>
+problem studied in this thesis, resulting in the following contribu- -><abstract>
+tions. -><abstract>
+First, it sets up a novel mix of goals for a new MAL algorithm -><abstract>
+that will achieve some basic learning objectives without knowing -><abstract>
+the type of the other agents, such as (1) learn the best response be- -><abstract>
+havior when other agents in the domain are (eventually) stationary -><abstract>
+and (2) jointly converge on a mutual equilibrium behavior in case -><abstract>
+the other agents are using the same learning algorithm, and will -><abstract>
+also ensure that in case the other agents are neither of the above -><abstract>

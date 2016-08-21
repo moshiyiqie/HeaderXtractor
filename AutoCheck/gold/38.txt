@@ -1,0 +1,10 @@
+[Title]:Design Tradeoffs for Tiled CMP On-Chip Networks ∗
+
+[Author name]:James Balfour 
+[Affliation]:Computer Systems Laboratory Stanford University 
+
+[Affliation]:Computer Systems Laboratory Stanford University 
+
+[Author name]: William J. Dally 
+[Affliation]:Computer Systems Laboratory Stanford University 
+

@@ -1,0 +1,7 @@
+Code Coverage Testing Using Hardware Performance -><title>
+Monitoring Support -><title>
+Alex Shye Matthew Iyer Vijay Janapa Reddi Daniel A. Connors -><author>
+Department of Electrical and -><affiliation>
+Computer Engineering -><affiliation>
+University of Colorado at Boulder -><affiliation>
+{shye, iyer, janapare, dconnors}@colorado.edu -><email>

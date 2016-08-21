@@ -1,0 +1,13 @@
+Author Retrospective -><title>
+Analytical Cache Models with Applications to Cache -><title>
+Partitioning -><title>
+George Kurian, Srinivas Devadas, Larry Rudolph∗ -><author>
+Computer Science and Artificial Intelligence Laboratory -><affiliation>
+Massachusetts Institute of Technology -><affiliation>
+Cambridge, MA -><address>
+{gkurian, devadas, rudolph}@csail.mit.edu -><email>
+G. Edward Suh -><author>
+Electrical and Computer Engineering -><affiliation>
+Cornell University -><affiliation>
+Ithaca, NY -><address>
+suh@csl.cornell.edu -><email>

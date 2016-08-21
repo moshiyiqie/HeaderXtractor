@@ -1,0 +1,8 @@
+Author Retrospective for -><title>
+Counting Solutions to Linear and Nonlinear Constraints -><title>
+Through Ehrhart Polynomials: Applications to analyze and -><title>
+transform Scientific Programs -><title>
+Philippe Clauss -><author>
+INRIA, ICube Lab., CNRS -><affiliation>
+University of Strasbourg, France -><affiliation>
+clauss@unistra.fr -><email>

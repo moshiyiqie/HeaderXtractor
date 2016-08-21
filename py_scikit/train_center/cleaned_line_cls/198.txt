@@ -1,0 +1,7 @@
+Towards a Formal Model for Task Allocation via Coalition -><title>
+Formation -><title>
+Leila Amgoud -><author>
+IRIT - CNRS -><affiliation>
+118, route de Narbonne -><address>
+Toulouse, France -><address>
+amgoud@irit.fr -><email>

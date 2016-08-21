@@ -1,0 +1,14 @@
+[Title]:Local Visual Patch for 3D Shape Retrieval
+
+[Author name]:Hedi Tabia 
+[Affliation]:University Lille 1, France 
+
+[Author name]:Mohamed Daoudi 
+[Affliation]:Institut TELECOM, France 
+
+[Author name]:Olivier Colot 
+[Affliation]:University Lille 1, France 
+
+[Author name]:Vandeborre 
+[Affliation]:Institut TELECOM, France 
+

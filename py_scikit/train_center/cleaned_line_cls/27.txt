@@ -1,0 +1,11 @@
+Author Retrospective -><title>
+Compilation Techniques for Block-Cyclic Distributions -><title>
+Ajay Sethi -><author>
+Accel Partners -><affiliation>
+ajay@accel.com -><email>
+John Mellor-Crummey -><author>
+Rice University -><affiliation>
+johnmc@rice.edu -><email>
+Seema Hiranandani -><author>
+Synopsys, Inc. -><affiliation>
+seemah@synopsys.com -><email>

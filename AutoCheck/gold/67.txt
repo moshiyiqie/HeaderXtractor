@@ -1,0 +1,14 @@
+[Title]:Outsourcing: A Vision Paper
+
+[Author name]:Vaidy Sunderam 
+[Affliation]:Emory University 
+[Email]:vss@emory.edu 
+
+[Author name]:Li Xiong 
+[Affliation]:Emory University 
+[Email]:lxiong@emory.edu 
+
+[Author name]:Slawomir Goryczka 
+[Affliation]:Emory University 
+[Email]:sgorycz@emory.edu 
+

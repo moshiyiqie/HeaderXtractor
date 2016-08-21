@@ -1,0 +1,13 @@
+﻿Analyzing & Debugging ILP Data Mining Query Execution -><title>
+Gerda Janssens -><author>
+Katholieke Universiteit Leuven -><affiliation>
+Dept. of Computer Science -><affiliation>
+Celestijnenlaan 200A -><address>
+B-3001 Leuven, Belgium -><address>
+gerda.janssens@cs.kuleuven.be -><email>
+Remko Tronc¸on -><author>
+Katholieke Universiteit Leuven -><affiliation>
+Dept. of Computer Science -><affiliation>
+Celestijnenlaan 200A -><address>
+B-3001 Leuven, Belgium -><address>
+remko.troncon@cs.kuleuven.be -><email>

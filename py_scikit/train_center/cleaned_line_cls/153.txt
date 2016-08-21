@@ -1,0 +1,17 @@
+Acquiring and Adapting Probabilistic Models of Agent -><title>
+Conversation -><title>
+Gerhard Weiss -><author>
+weissg@cs.tum.edu -><email>
+Department of Informatics -><affiliation>
+Technical University of Munich -><affiliation>
+85748 Garching, Germany -><address>
+Michael Rovatsos -><author>
+mrovatso@inf.ed.ac.uk -><email>
+School of Informatics -><affiliation>
+University of Edinburgh -><affiliation>
+Edinburgh EH8 9LE, UK -><address>
+Felix Fischer -><author>
+fischerf@cs.tum.edu -><email>
+Department of Informatics -><affiliation>
+Technical University of Munich -><affiliation>
+85748 Garching, Germany -><address>

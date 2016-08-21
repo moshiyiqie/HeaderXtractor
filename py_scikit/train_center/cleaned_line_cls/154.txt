@@ -1,0 +1,14 @@
+A Cost Minimization Approach to -><title>
+Human Behavior Recognition -><title>
+Katia Sycara -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave. -><address>
+Pittsburgh, PA -><address>
+katia+@cs.cmu.edu -><email>
+Gita Sukthankar -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave. -><address>
+Pittsburgh, PA -><address>
+gitars@cs.cmu.edu -><email>

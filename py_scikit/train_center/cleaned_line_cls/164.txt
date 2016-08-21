@@ -1,0 +1,20 @@
+﻿Coordinated Exploration in Multi-Agent Reinforcement -><title>
+Learning: An Application to Load-balancing -><title>
+Katja Verbeeck -><author>
+Computational Modeling Lab -><affiliation>
+Vrije Universiteit Brussel -><affiliation>
+Pleinlaan 2, 1050 Brussel, -><address>
+Belgium -><address>
+kaverbee@vub.ac.be -><email>
+Ann Nowe´ -><author>
+Computational Modeling Lab -><affiliation>
+Vrije Universiteit Brussel -><affiliation>
+Pleinlaan 2, 1050 Brussel, -><address>
+Belgium -><address>
+ann.nowe@vub.ac.be -><email>
+Karl Tuyls -><author>
+Theoretical Computer Science -><degree>
+Group -><degree>
+University of Limburg -><affiliation>
+Diepenbeek, Belgium -><address>
+Karl.Tuyls@luc.ac.be -><email>

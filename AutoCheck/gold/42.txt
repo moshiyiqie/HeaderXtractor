@@ -1,0 +1,26 @@
+[Title]:Biomedical Image Analysis on a Cooperative Cluster of GPUs and Multicores∗
+
+[Author name]:Timothy D. R. Hartley
+[Affliation]:Departments of Biomedical Informatics and Electrical and Computer Engineering, The Ohio State University, Columbus, OH, USA.
+[Email]:hartleyt@bmi.osu.edu
+
+[Author name]: Umit Catalyurek
+[Affliation]:Departments of Biomedical Informatics and Electrical and Computer Engineering, The Ohio State University, Columbus, OH, USA.
+[Email]:umit@bmi.osu.edu
+
+[Author name]: Antonio Ruiz
+[Affliation]:Computer Architecture Department, University of Malaga, Malaga, Spain.
+[Email]:aruiz@ac.uma.es
+
+[Author name]:Francisco Igual
+[Affliation]:Department of Computer Engineering and Computer Science, University Jaume I, Castellon, Spain.
+[Email]:figual@icc.uji.es
+
+[Author name]: Rafael Mayo
+[Affliation]:Department of Computer Engineering and Computer Science, University Jaume I, Castellon, Spain.
+[Email]:mayo@icc.uji.es
+
+[Author name]: Manuel Ujaldon
+[Affliation]:Computer Architecture Department, University of Malaga, Malaga, Spain.
+[Email]:ujaldon@ac.uma.es
+

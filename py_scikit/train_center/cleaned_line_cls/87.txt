@@ -1,0 +1,10 @@
+Novel View Synthesis for Stereoscopic Cinema: Detecting -><title>
+and Removing Artifacts ∗ -><title>
+Frédéric Devernay -><author>
+INRIA Grenoble -><affiliation>
+Rhone-Alpes, France -><address>
+frederic.devernay@inrialpes.fr -><email>
+Adrian Ramos Peon -><author>
+INRIA Grenoble -><affiliation>
+Rhône-Alpes, France -><address>
+adrian.ramos-peon@inrialpes.fr -><email>

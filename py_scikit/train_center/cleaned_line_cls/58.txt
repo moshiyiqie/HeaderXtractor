@@ -1,0 +1,8 @@
+Author Retrospective for -><title>
+Design Tradeoffs for Tiled CMP On-Chip Networks -><title>
+William J. Dally -><author>
+NVIDIA & Stanford -><affiliation>
+dally@stanford.edu -><email>
+James Balfour -><author>
+Google Inc. -><affiliation>
+jbalfour@google.com -><email>

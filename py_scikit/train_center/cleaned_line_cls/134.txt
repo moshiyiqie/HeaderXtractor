@@ -1,0 +1,11 @@
+﻿Automated Bug Isolation via Program Chipping∗ -><title>
+Chad D. Sterling† -><author>
+Department of Computer Science -><affiliation>
+University of California, Davis -><affiliation>
+Davis, CA 95616-8562 USA -><address>
+sterling@cs.ucdavis.edu -><email>
+Ronald A. Olsson -><author>
+Department of Computer Science -><affiliation>
+University of California, Davis -><affiliation>
+Davis, CA 95616-8562 USA -><address>
+olsson@cs.ucdavis.edu -><email>

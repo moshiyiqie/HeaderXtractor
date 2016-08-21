@@ -1,0 +1,19 @@
+﻿Towards An Agent Oriented Programming Language with -><title>
+Caste and Scenario Mechanisms ∗ -><title>
+Hong Zhu -><author>
+Department of Computing -><affiliation>
+Oxford Brookes University -><affiliation>
+Oxford, OX33 1HX, UK -><address>
+hzhu@brookes.ac.uk -><email>
+Rui Shen -><author>
+National Laboratory for -><affiliation>
+Parallel and Distributed -><affiliation>
+Processing -><affiliation>
+Changsha, 410073, China -><address>
+shenrui98@yahoo.com -><email>
+Ji Wang -><author>
+National Laboratory for -><affiliation>
+Parallel and Distributed -><affiliation>
+Processing -><affiliation>
+Changsha, 410073, China -><address>
+jiwang@mail.edu.cn -><email>

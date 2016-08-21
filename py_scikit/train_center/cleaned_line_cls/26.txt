@@ -1,0 +1,7 @@
+Characterizing Processor Architectures -><title>
+for Programmable Network Interfaces -><title>
+Patrick Crowley, Marc E. Fiuczynski, Jean-Loup Baer, and Brian N. Bershad -><author>
+Department of Computer Science & Engineering -><affiliation>
+University of Washington -><affiliation>
+Seattle, WA 98195 -><address>
+{pcrowley,mef,baer, bershad} @cs.washington.edu -><email>

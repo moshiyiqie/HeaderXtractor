@@ -1,0 +1,6 @@
+﻿Intelligent Agents for Wireless Sensor Networks -><title>
+Richard Tynan, David Marsh, Donal O’Kane and G.M.P. O’Hare -><author>
+Adaptive Information Cluster, Smart Media Institute -><affiliation>
+Department of Computer Science, University College Dublin -><affiliation>
+Belfield, Dublin 4, Ireland -><address>
+E-mail: {richard.tynan, david.marsh, donal.okane, gregory.ohare}@ucd.ie -><email>

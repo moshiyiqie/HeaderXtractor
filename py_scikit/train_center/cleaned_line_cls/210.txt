@@ -1,0 +1,11 @@
+A Decentralized Bargaining Protocol on Dependent -><title>
+Continuous Multi-Issue for Approximate Pareto Optimal -><title>
+Outcomes -><title>
+Francesco Amigoni -><author>
+Dipartimento di Elettronica e Informazione -><affiliation>
+Politecnico di Milano, Milano, Italy -><address>
+amigoni@elet.polimi.it -><email>
+Nicola Gatti -><author>
+Dipartimento di Elettronica e Informazione -><affiliation>
+Politecnico di Milano, Milano, Italy -><address>
+ngatti@elet.polimi.it -><email>

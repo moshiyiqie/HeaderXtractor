@@ -1,0 +1,15 @@
+﻿Data Storage in Unreliable Multi›agent Networks¤ -><title>
+Patrick Dewilde -><author>
+Delft University of Technology -><affiliation>
+Faculty of Electrical Engineering, -><affiliation>
+Mathematics and Informatics -><affiliation>
+Mekelweg 4 -><address>
+2628 CD Delft, Netherlands -><address>
+p.m.dewilde@ewi.tudelft.nl -><email>
+Filip Mileti·c -><author>
+Delft University of Technology -><affiliation>
+Faculty of Electrical Engineering, -><affiliation>
+Mathematics and Informatics -><affiliation>
+Mekelweg 4 -><address>
+2628 CD Delft, Netherlands -><address>
+f.miletic@ewi.tudelft.nl -><email>

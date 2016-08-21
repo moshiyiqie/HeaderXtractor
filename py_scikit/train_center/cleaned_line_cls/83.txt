@@ -1,0 +1,16 @@
+3D Shape Retrieval Based on Best View Selection -><title>
+Michela Mortara -><author>
+IMATI-CNR -><affiliation>
+Via De Marini 6 -><affiliation>
+I-16149 Genova, Italy -><address>
+michela@ge.imati.cnr.it -><email>
+Michela Spagnuolo -><author>
+IMATI-CNR -><affiliation>
+Via De Marini 6 -><affiliation>
+I-16149 Genova, Italy -><address>
+michi@ge.imati.cnr.it -><email>
+Daniela Giorgi -><author>
+IMATI-CNR -><affiliation>
+Via De Marini 6 -><affiliation>
+I-16149 Genova, Italy -><address>
+daniela@ge.imati.cnr.it -><email>

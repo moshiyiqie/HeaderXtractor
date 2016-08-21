@@ -1,0 +1,10 @@
+An Empirical Assessment of Using Stereotypes to Improve Reading Techniques -><title>
+in Software Inspections -><title>
+Miroslaw Staron, Ludwik Kuzniarz, Christian Thurn -><author>
+Department of Systems and Software Engineering -><affiliation>
+School of Engineering -><affiliation>
+Blekinge Institute of Technology -><affiliation>
+Box 520, Soft Center -><address>
+SE-372 25 Ronneby, Sweden -><address>
+(Miroslaw.Staron, Ludwik.Kuzniarz)@bth.se, Christian.Thurn@ipbolaget.com -><email>
+63 -><note>

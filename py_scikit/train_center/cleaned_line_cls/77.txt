@@ -1,0 +1,15 @@
+Incorporating Several Features in the Protein Ray -><title>
+Descriptor for More Accurate Protein 3D Structure -><title>
+Retrieval -><title>
+Georgina Mirceva -><author>
+Ss. Cyril and Methodius University, Faculty of Electrical -><affiliation>
+Engineering and Information Technologies, -><affiliation>
+Karpos 2 bb, P.O.Box 574, 1000 Skopje, Macedonia, -><address>
++389 2 3099 157 -><phone>
+georgina@feit.ukim.edu.mk -><email>
+Danco Davcev -><author>
+Ss. Cyril and Methodius University, Faculty of Electrical -><affiliation>
+Engineering and Information Technologies, -><affiliation>
+Karpos 2 bb, P.O.Box 574, 1000 Skopje, Macedonia, -><address>
++389 2 3099 155 -><phone>
+etfdav@feit.ukim.edu.mk -><email>

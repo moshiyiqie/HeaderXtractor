@@ -1,0 +1,23 @@
+﻿Strategy/False-name Proof Protocols for Combinatorial -><title>
+Multi-Attribute Procurement Auction: Handling Arbitrary -><title>
+Utility of the Buyer -><title>
+Takayuki Suyama -><author>
+NTT Communication Science Laboratories, -><affiliation>
+NTT Corporation -><affiliation>
+2-4 Hikaridai, Seika-cho, Soraku-gun, -><address>
+Kyoto, 619-0237, Japan -><address>
+http://www.kecl.ntt.co.jp/csl/ccrg/members/suyama/ -><web>
+suyama@cslab.kecl.ntt.co.jp -><email>
+Makoto Yokoo -><author>
+Graduate School of Information Science -><affiliation>
+and Electrical Engineering, Kyushu University -><affiliation>
+6-10-1 Hakozaki, Higashi-ku, -><address>
+Fukuoka, 812-8581, Japan -><address>
+http://lang.is.kyushu-u.ac.jp/˜yokoo/ -><web>
+yokoo@is.kyushu-u.ac.jp -><email>
+Categories and Subject Descriptors -><note>
+J.4 [Social and Behavioral Sciences]: Economics -><keyword>
+General Terms -><keyword>
+Design, Economics, Theory -><keyword>
+Keywords -><keyword>
+false-name-proof, multi-attribute, combinatorial auction -><keyword>

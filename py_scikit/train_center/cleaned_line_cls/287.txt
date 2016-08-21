@@ -1,0 +1,7 @@
+A Multi Agent Methodology for Holonic Manufacturing -><title>
+Systems -><title>
+Adriana Giret -><author>
+Departamento de Sistemas Informa´ticos y Computacio´n -><affiliation>
+Universidad Polite´cnica de Valencia -><affiliation>
+46020 Valencia, Spain -><address>
+agiret@dsic.upv.es -><email>

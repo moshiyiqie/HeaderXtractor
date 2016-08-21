@@ -1,0 +1,15 @@
+Open source software reliability model: an empirical -><title>
+approach -><title>
+Joseph DAVIS -><author>
+School of Information Technologies -><affiliation>
+The University of Sydney -><affiliation>
+Sydney, NSW 2006 Australia -><address>
+Tel: 61 2 9351 4291 -><phone>
+Email: jdavis@it.usyd.edu.au -><email>
+Ying ZHOU -><author>
+School of Information Technologies -><affiliation>
+The University of Sydney -><affiliation>
+Sydney, NSW 2006 Australia -><address>
+Tel: 61 2 93513215 -><phone>
+Email: zhouy@it.usyd.edu.au -><email>
+67 -><date>

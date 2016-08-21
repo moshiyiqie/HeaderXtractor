@@ -1,0 +1,19 @@
+Author Retrospective for -><title>
+Search and Replication In unstructured Peer-to-peer -><title>
+Networks -><title>
+Edith Cohen -><author>
+Microsoft Research -><affiliation>
+edith@cohenwang.com -><email>
+Qin Lv -><author>
+University of Colorado Boulder -><affiliation>
+qin.lv@colorado.edu -><email>
+Pei Cao -><author>
+Google, Inc. -><affiliation>
+cao@cs.stanford.edu -><email>
+Kai Li -><author>
+Princeton University -><affiliation>
+li@cs.princeton.edu -><email>
+Scott Shenker -><author>
+University of California, -><affiliation>
+Berkeley -><affiliation>
+shenker@icsi.berkeley.edu -><email>

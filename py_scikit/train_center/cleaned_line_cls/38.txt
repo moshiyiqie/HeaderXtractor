@@ -1,0 +1,7 @@
+Design Tradeoffs for Tiled CMP On-Chip Networks -><title>
+∗ -><title>
+James Balfour -><author>
+, William J. Dally -><author>
+Computer Systems Laboratory -><affiliation>
+Stanford University -><affiliation>
+{jbalfour,billd}@cva.stanford.edu -><email>

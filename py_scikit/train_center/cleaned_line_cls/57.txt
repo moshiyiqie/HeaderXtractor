@@ -1,0 +1,16 @@
+Author Retrospective for -><title>
+A NUCA Substrate for Flexible CMP Cache Sharing -><title>
+Jaehyuk Huh -><author>
+KAIST -><affiliation>
+Changkyu Kim -><author>
+Google -><affiliation>
+Hazim Shafi -><author>
+Samsung -><affiliation>
+Doug Burger -><author>
+Microsoft Research -><affiliation>
+Stephen W. Keckler -><author>
+NVIDIA and UT-Austin -><affiliation>
+Lixin Zhang -><author>
+Institute of Computing -><affiliation>
+Technology -><affiliation>
+Chinese Academy of Sciences -><affiliation>

@@ -1,0 +1,24 @@
+﻿Attacking the Migration Bottleneck of Mobile Agents -><title>
+Steffen Kern -><author>
+Friedrich Schiller University Jena -><affiliation>
+Department of Computer Science -><affiliation>
+Ernst-Abbe-Platz 2, 07743 Jena, Germany -><address>
+steffen.kern@informatik.uni-jena.de -><email>
+Peter Braun -><author>
+Swinburne University of Technology -><affiliation>
+Faculty of Information and Communication -><affiliation>
+Technologies -><affiliation>
+John St, Hawthorn, Victoria 3122, Australia -><address>
+pbraun@ict.swin.edu.au -><email>
+Ingo Mu¨ller -><author>
+Swinburne University of Technology -><affiliation>
+Faculty of Information and Communication -><affiliation>
+Technologies -><affiliation>
+John St, Hawthorn, Victoria 3122, Australia -><address>
+imueller@ict.swin.edu.au -><email>
+Ryszard Kowalczyk -><author>
+Swinburne University of Technology -><affiliation>
+Faculty of Information and Communication -><affiliation>
+Technologies -><affiliation>
+John St, Hawthorn, Victoria 3122, Australia -><address>
+rkowalczyk@ict.swin.edu.au -><email>

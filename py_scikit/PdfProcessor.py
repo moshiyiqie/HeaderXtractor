@@ -115,16 +115,17 @@ def getTitle(header, label):
 			title += header[i].strip() + ' '
 	return title.strip()
 
-
-
-def run(pdfpath = 'C:/ZONE/test5.pdf'):
+#前置处理，处理出header, fonts, sizes, ypos, xpos, charSizes, pdf, label 这些信息
+def preProcedure(pdfpath):
 	#获取Header
 	#pdfpath = 'C:/ZONE/ceshiPDF/P15-1008.pdf'
 	pdf = Pdf.Pdf()
+	#print 'pdf.header', pdf.header
 	pdf.loadPdfByPDFbox(pdfpath)
-	
 	##根据排序,包含分列
 	#pdf.sortByYpos()
+
+	#根据分块来排序
 	header, fonts, sizes, ypos, xpos, charSizes = pdf.header, pdf.fonts, pdf.sizes, pdf.ypos, pdf.xpos, pdf.charSizes
 	sortedIdxList = BlockManager.BlockUnionProcess(header, charSizes, ypos, xpos)
 	header = Tools.reArrangeByIdxList(header, sortedIdxList)
@@ -152,10 +153,14 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 	label = RuleEngine.fixForNoteAfterTitle(header, label)
 	label = RuleEngine.fixForDistantTitle(label)
 	label = RuleEngine.fixForSameSizeSameLabel(header, fonts, sizes, label)
-	
-	
-	
+
 	print '[After Rule]',zip(header, label)
+	return header, fonts, sizes, ypos, xpos, charSizes, pdf, label
+
+def run(pdfpath = 'C:/ZONE/test5.pdf'):
+
+	header, fonts, sizes, ypos, xpos, charSizes, pdf, label = preProcedure(pdfpath)
+	open('./py_scikit/tmp/gcrf.txt','w').writelines(GenerateCRF.generateCrfFileFromHeaderTextWithRichInfo(header, fonts, sizes, label, ypos))
 	
 	#处理作者
 	authors, authorsIndex, authorsLine = Author.getAuthors(header, label, xpos, pdf)

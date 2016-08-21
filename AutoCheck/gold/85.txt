@@ -1,0 +1,22 @@
+[Title]:Wide-Baseline Multi-View Video Segmentation for 3D Reconstruction
+
+[Author name]:Adrian Hilton 
+[Affliation]:University of Surrey, UK 
+[Email]:a.hilton@surrey.ac.uk 
+
+[Author name]:Jean-Yves Guillemaut 
+[Affliation]:University of Surrey, UK 
+[Email]:j.guillemaut@surrey.ac.uk 
+
+[Author name]:Muhammad Sarim 
+[Affliation]:University of Surrey, UK 
+[Email]:m.sarim@surrey.ac.uk 
+
+[Author name]:Takeshi Takai 
+[Affliation]:University of Surrey, UK 
+[Email]:t.takai@surrey.ac.uk 
+
+[Author name]:Hansung Kim 
+[Affliation]:University of Surrey, UK 
+[Email]:h.kim@surrey.ac.uk 
+

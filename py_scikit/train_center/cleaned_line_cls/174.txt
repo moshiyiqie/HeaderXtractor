@@ -1,0 +1,6 @@
+Bounded Model Checking Knowledge and Branching Time -><title>
+in Synchronous Multi-agent Systems ∗ -><title>
+Xiangyu Luo1, Kaile Su1,2, Abdul Sattar2, Qingliang Chen1, Guanfeng Lv1 -><author>
+1Department of Computer Science, Sun Yat-sen University, Guangzhou, P.R. China -><affiliation>
+2Institute for Integrated and Intelligent Systems, Griffith University, Brisbane, Australia -><affiliation>
+xiang yu luo@yahoo.com.cn -><email>

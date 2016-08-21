@@ -1,0 +1,14 @@
+﻿Allocation Of Indivisible Goods: A General Model And -><title>
+Some Complexity Results -><title>
+He´le`ne Fargier and Je´roˆme Lang -><author>
+IRIT-CNRS -><affiliation>
+118, route de Narbonne -><address>
+F-31062 Toulouse cedex -><address>
+fargier@irit.fr -><email>
+lang@irit.fr -><email>
+Sylvain Bouveret and Michel Lemaıˆtre -><author>
+ONERA, Centre de Toulouse -><affiliation>
+2, avenue E. Belin, B.P. 4025 -><affiliation>
+F-31055 Toulouse cedex 4 -><phone>
+sylvain.bouveret@onera.fr -><email>
+michel.lemaitre@onera.fr -><email>

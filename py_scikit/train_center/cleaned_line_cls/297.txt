@@ -1,0 +1,7 @@
+Cognitive Agent Programming -><title>
+Semantics and Logics -><title>
+M. Birna van Riemsdijk -><author>
+Utrecht University -><affiliation>
+The Netherlands -><address>
+birna@cs.uu.nl -><email>
+Supervisors: John-Jules Ch. Meyer, Frank S. de Boer, Mehdi Dastani -><author>

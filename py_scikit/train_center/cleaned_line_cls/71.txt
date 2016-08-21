@@ -1,0 +1,14 @@
+Single Spin Image-ICP matching -><title>
+for Efficient 3D Object Recognition -><title>
+Arvid Halma -><author>
+arvid.halma@tno.nl -><email>
+Frank ter Haar -><author>
+frank.terhaar@tno.nly -><email>
+Pieter Eendebak -><author>
+pieter.eendebak@tno.nl -><email>
+Adam van Eekeren -><author>
+adam.vaneekeren@tno.nly -><email>
+Ernst Bovenkamp -><author>
+ernst.bovenkamp@tno.nl -><email>
+ TNO Science and Industry, Delft, The Netherlands -><affiliation>
+y TNO Defence, Security and Safety, The Hague, The Netherlands -><affiliation>

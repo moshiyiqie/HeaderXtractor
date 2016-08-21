@@ -1,0 +1,16 @@
+[Title]:Orientation Invariant 3D Object Classification using Hough Transform Based Methods
+
+[Author name]:Jan Knopp 
+
+[Author name]:Mukta Prasad 
+
+[Author name]:Luc Van Gool 
+
+[Author name]:KU Leuven 
+[Email]:jan.knopp@esat.kuleuven.be 
+
+[Author name]:KU Leuven
+[Email]:luc.vangool@esat.kuleuven.be 
+
+[Author name]: ETH Zurich 
+

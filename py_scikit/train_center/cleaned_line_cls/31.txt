@@ -1,0 +1,20 @@
+Search and Replication in -><title>
+Unstructured Peer-to-Peer Networks -><title>
+Edith Cohen -><author>
+AT&T Labs-Research -><affiliation>
+edith@research.att.com -><email>
+Pei Cao -><author>
+Cisco Systems, Inc. -><affiliation>
+cao@cisco.com -><email>
+Qin Lv -><author>
+Dept. of Computer Science -><affiliation>
+Princeton University -><affiliation>
+qlv@CS.Princeton.EDU -><email>
+Scott Shenker -><author>
+ICSI -><author>
+shenker@icsi.berkeley.edu -><email>
+Kai Li -><author>
+Dept. of Computer Science -><affiliation>
+Princeton University -><affiliation>
+li@CS.Princeton.EDU -><email>
+

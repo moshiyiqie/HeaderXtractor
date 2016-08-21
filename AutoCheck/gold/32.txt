@@ -1,0 +1,20 @@
+[Title]:Bloom Filtering Cache Misses for Accurate Data Speculation and Prefetching
+
+[Author name]:Jih-Kwon Peir 
+[Affliation]:CISE Department University of Florida 
+[Email]:peir@cise.ufl.edu 
+
+[Author name]:Shih-Chang Lai 
+[Affliation]:ECE Department Oregon State University 
+[Email]:laish@ece.orst.edu 
+
+[Author name]:Shih-Lien Lu 
+[Affliation]:Microprocessor Research Intel Labs 
+[Email]:shih-lien.l.lu@intel.com 
+
+[Author name]:Jared Stark 
+[Affliation]:Microprocessor Research Intel Labs 
+
+[Author name]:Konrad Lai 
+[Affliation]:Microprocessor Research Intel Labs 
+

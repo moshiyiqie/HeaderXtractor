@@ -1,0 +1,21 @@
+﻿Humans and Agents in 3D Electronic Institutions -><title>
+Anton Bogdanovych -><author>
+Faculty of Information Technology -><affiliation>
+University of Technology Sydney -><affiliation>
+Sydney, NSW, Australia -><address>
+anton@it.uts.edu.au -><email>
+Helmut Berger -><author>
+Electronic Commerce Competence Center – ec3 -><affiliation>
+Donau-City-Strasse 1, A-1220 -><address>
+Vienna, Austria -><address>
+helmut.berger@ec3.at -><email>
+Carles Sierra -><author>
+Artificial Intelligence Research Institute, IIIA -><affiliation>
+Spanish Council for Scientific Research, CSIC -><affiliation>
+Barcelona, Catalonia, Spain -><address>
+sierra@iiia.csic.es -><email>
+Simeon Simoff -><author>
+Faculty of Information Technology -><affiliation>
+University of Technology Sydney -><affiliation>
+Sydney, NSW, Australia -><address>
+simeon@it.uts.edu.au -><email>

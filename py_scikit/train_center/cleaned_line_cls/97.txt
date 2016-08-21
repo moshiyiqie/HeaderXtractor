@@ -1,0 +1,7 @@
+ARIES: Refactoring Support Tool for Code Clone -><title>
+Yoshiki Higo1 Toshihiro Kamiya2 Shinji Kusumoto1 Katsuro Inoue1 -><author>
+1Graduate School of Information Science and Technorogy, Osaka University -><affiliation>
+2PRESTO, Japan Science and Technology Agency -><address>
++81(06)6850-6571 -><phone>
+{y-higo,kamiya,kusumoto,inoue}@ist.osaka-u.ac.jp -><email>
+53 -><date>

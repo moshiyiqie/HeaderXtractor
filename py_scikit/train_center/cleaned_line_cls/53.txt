@@ -1,0 +1,23 @@
+Author Retrospective -><title>
+Bloom Filtering Cache Misses for Accurate Data -><title>
+Speculation and Prefetching -><title>
+Shih-Chang Kevin Lai -><author>
+ARM Taiwan Ltd. -><affiliation>
+7F, No.2, Li-Hsin 6th Road, -><address>
+Hsinchu,Taiwan, 30078 -><address>
+886-03-5657116 -><phone>
+kevin.lai@arm.com -><email>
+Jih-Kwon Peir -><author>
+CISE Department -><affiliation>
+University of Florida -><affiliation>
+P.O. Box 116120 -><address>
+Gainesville, FL 32611 -><address>
+(352) 505-1573 -><phone>
+peir@cise.ufl.edu -><email>
+Shih-Lien Liu, Jared Stark, -><author>
+Konrad Lai  -><author>
+Intel Corporation -><affiliation>
+2111 NE 25th Ave, -><address>
+Hillsboro, OR 97124 -><address>
+(503) 712-2750 -><phone>
+{shih-lien.l.lu,jared.w.stark}@intel.com -><email>

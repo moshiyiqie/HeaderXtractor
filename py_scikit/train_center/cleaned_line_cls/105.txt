@@ -1,0 +1,14 @@
+Quality, Cleanroom and Formal Methods -><title>
+Anne Banks Pidduck -><author>
+School of Computer Science -><affiliation>
+University of Waterloo -><affiliation>
+Waterloo, On, Canada -><address>
+1-519-888-4567 -><phone>
+apidduck@uwaterloo.ca -><email>
+Zarrin Langari -><author>
+School of Computer Science -><affiliation>
+University of Waterloo -><affiliation>
+Waterloo, On, Canada -><address>
+1-519-888-4567 -><phone>
+zlangari@uwaterloo.ca -><email>
+35 -><date>

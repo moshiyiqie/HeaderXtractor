@@ -1,0 +1,8 @@
+Adaptive Reuse of Libre Software Systems for Supporting -><title>
+On-line Collaboration -><affiliation>
+Paul Adams, Cornelia Boldyreff, David Nutter and Stephen Rank -><author>
+University of Lincoln -><affiliation>
+Lincoln, UK -><address>
++441522837310 -><phone>
+{padams,cboldyreff,dnutter,srank}@hemswell.lincoln.ac.uk -><email>
+1 -><date>

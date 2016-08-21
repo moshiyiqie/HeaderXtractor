@@ -1,0 +1,21 @@
+[Title]:Elastic Radial Curves to Model 3D Facial Deformations
+
+[Author name]:Hassen Drira 
+[Affliation]:Université de Lille 1, France. 
+[Email]:hassen.drira@lifl.fr 
+
+[Author name]:Boulbaba ben Amor 
+[Address]:TELECOM Lille 1, France. 
+[Affliation]:Institut TELECOM ; 
+[Email]:boulbaba.benamor@telecom- 
+
+[Author name]:Anuj Srivastava 
+[Address]:FSU, Tallahassee, FL 32306,USA. 
+[Affliation]:Departement of Statistics 
+[Email]:asrivastava@fsu.edu 
+
+[Author name]:Mohamed Daoudi 
+[Address]:TELECOM Lille 1, France. 
+[Affliation]:Institut TELECOM ; 
+[Email]:mohamed.daoudi@telecom- 
+

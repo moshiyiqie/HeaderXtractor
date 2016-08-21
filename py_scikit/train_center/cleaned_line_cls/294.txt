@@ -1,0 +1,34 @@
+Learning Team Behaviors with Adaptive Heterogeneity -><title>
+Liviu Panait -><author>
+Department of Computer Science -><affiliation>
+George Mason University -><affiliation>
+lpanait@cs.gmu.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Distributed Artificial Intelligence]: Multiagent Systems -><note>
+General Terms -><unknow>
+Experimentation -><title>
+Keywords -><author>
+multiagent learning, dynamic role allocation -><abstract>
+The task of hard-coding agent behaviors to achieve desired team -><abstract>
+behaviors is very difficult, if not intractable. The complexity of -><abstract>
+multiagent problems can also rise exponentially with the number of -><abstract>
+agents and their behavioral sophistication. The field of cooperative -><abstract>
+multiagent learning promises solutions to these issues by employ- -><abstract>
+ing automatic search methods to discover agent behaviors, and as -><abstract>
+such it has been the focus of numerous studies in recent years. -><abstract>
+Research in cooperative multiagent learning usually concentrates -><abstract>
+on two opposite approaches, each generating a different range of -><abstract>
+questions. First, there are techniques to learn homogeneous be- -><abstract>
+haviors for large swarms of identical agents; they assume all agents -><abstract>
+have identical behavior (a significant reduction to the search space), -><abstract>
+but the potential of specialization to different tasks is minimized. -><abstract>
+Second, there are techniques that allow each agent to specialize to -><abstract>
+a unique behavior, thus creating a wide range of potential solutions; -><abstract>
+these methods are however applicable to only small teams due to -><abstract>
+the increased complexity that comes with larger numbers of agents. -><abstract>
+My interests target the middle-ground, namely moderately large -><abstract>
+teams of agents with heterogeneous behaviors. Combining the -><abstract>
+desideratum for scalability of learning to larger teams with the need -><affiliation>
+for agent specialization is not an easy task; one solution is to de- -><abstract>
+compose the team into multiple groups, where all agents within a -><abstract>
+group have identical behavior (1; 2; 3). Current approaches only al- -><abstract>

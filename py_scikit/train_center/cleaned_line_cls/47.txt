@@ -1,0 +1,14 @@
+Author Retrospective for -><title>
+Characterizing Processor Architectures -><title>
+for Programmable Network Interfaces -><title>
+Patrick Crowley -><author>
+Dept. of Computer Science & Engineering -><affiliation>
+Washington University in St. Louis -><affiliation>
+St. Louis, MO 63130-4899 USA -><address>
+pcrowley@wustl.edu -><email>
+Original paper: http://dx.doi.org/10.1145/335231.335237 -><web>
+Categories and Subject Descriptors -><keyword>
+C.1.2 [Multiple Data Stream Architectures (Multiprocessors)] -><keyword>
+C.2.6 [Internetworking]: Routers -><keyword>
+General Terms -><keyword>
+Performance, Design, Experimentation. -><keyword>

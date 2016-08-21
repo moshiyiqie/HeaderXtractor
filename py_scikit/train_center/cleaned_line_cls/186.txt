@@ -1,0 +1,20 @@
+From Concepts to Agents: Towards a Framework for -><title>
+Multi-Agent System Modelling -><title>
+Richard Hill -><author>
+Web-Based and Multi-Agents -><affiliation>
+Research Group -><affiliation>
+Sheffield Hallam University -><affiliation>
+Sheffield, United Kingdom -><address>
+r.hill@shu.ac.uk -><email>
+Simon Polovina -><author>
+Web-Based and Multi-Agents -><affiliation>
+Research Group -><affiliation>
+Sheffield Hallam University -><affiliation>
+Sheffield, United Kingdom -><address>
+s.polovina@shu.ac.uk -><email>
+Martin Beer -><author>
+Web-Based and Multi-Agents -><affiliation>
+Research Group -><affiliation>
+Sheffield Hallam University -><affiliation>
+Sheffield, United Kingdom -><address>
+m.beer@shu.ac.uk -><email>

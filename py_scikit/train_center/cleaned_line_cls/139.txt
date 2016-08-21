@@ -1,0 +1,21 @@
+Divide-and-Query and Subterm Dependency Tracking -><title>
+in the Mercury Declarative Debugger -><title>
+Ian MacLarty -><author>
+Dept. of Computer Science -><affiliation>
+and Software Engineering -><affiliation>
+University of Melbourne, -><affiliation>
+Australia -><address>
+maclarty@cs.mu.OZ.AU -><email>
+Mark Brown -><author>
+Dept. of Computer Science -><affiliation>
+and Software Engineering -><affiliation>
+University of Melbourne, -><affiliation>
+Australia -><address>
+mark@cs.mu.OZ.AU -><email>
+Zoltan Somogyi -><author>
+NICTA Victoria Laboratory -><affiliation>
+Dept. of Computer Science -><affiliation>
+and Software Engineering -><affiliation>
+University of Melbourne, -><affiliation>
+Australia -><address>
+zs@cs.mu.OZ.AU -><email>

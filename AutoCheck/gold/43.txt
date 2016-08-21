@@ -1,0 +1,18 @@
+[Title]:Author Retrospective for Optimizing Matrix Multiply using PHiPAC: a Portable High-Performance ANSI C Coding Methodology
+
+[Author name]:Krste Asanovic´ 
+[Affliation]:EECS Department University of California, Berkeley 
+[Email]:krste@eecs.berkeley.edu 
+
+[Author name]:Jeff Bilmes 
+[Affliation]:EE Department University of Washington, Seattle 
+[Email]:bilmes@ee.washington.edu 
+
+[Author name]:Jim Demmel 
+[Affliation]:EECS Department University of California, Berkeley 
+[Email]:demmel@cs.berkeley.edu 
+
+[Author name]:Chee-Whye Chin 
+[Affliation]:Department of Mathematics National University of Singapore 
+[Email]:cheewhye@math.nus.edu.sg 
+

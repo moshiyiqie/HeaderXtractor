@@ -1,0 +1,19 @@
+Nonrigid Stereo Reconstruction Using Linear -><title>
+Programming -><title>
+Shuhan Shen -><author>
+Institute of Automation -><affiliation>
+Chinese Academy of Sciences -><affiliation>
+Beijing, China -><address>
+shshen@nlpr.ia.ac.cn -><email>
+Chenhao Wang -><author>
+Institute of Image Processing -><affiliation>
+and Pattern Recognition -><affiliation>
+Shanghai Jiao Tong University -><affiliation>
+Shanghai, China -><address>
+wangchenhao@sjtu.edu.cn -><email>
+Yuncai Liu -><author>
+Institute of Image Processing -><affiliation>
+and Pattern Recognition -><affiliation>
+Shanghai Jiao Tong University -><affiliation>
+Shanghai, China -><address>
+whomliu@sjtu.edu.cn -><email>

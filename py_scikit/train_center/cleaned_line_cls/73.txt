@@ -1,0 +1,14 @@
+Local Visual Patch for 3D Shape Retrieval -><title>
+Hedi Tabia -><author>
+LAGIS FRE CNRS 3303 -><address>
+University Lille 1, France -><affiliation>
+Mohamed Daoudi -><author>
+LIFL UMR CNRS 8022 -><address>
+Institut TELECOM, France -><affiliation>
+Olivier Colot -><author>
+LAGIS FRE CNRS 3303 -><address>
+University Lille 1, France -><affiliation>
+Jean-Philippe -><author>
+Vandeborre -><author>
+LIFL UMR CNRS 8022 -><address>
+Institut TELECOM, France -><affiliation>

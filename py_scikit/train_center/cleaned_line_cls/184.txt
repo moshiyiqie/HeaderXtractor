@@ -1,0 +1,17 @@
+﻿A Hybrid Transfer of Control Model for Adjustable -><title>
+Autonomy Multiagent Systems -><title>
+Michael Y.K. Cheng -><author>
+School of Computer Science -><affiliation>
+University of Waterloo -><affiliation>
+Waterloo ON, N2L 3G1, Canada -><address>
+mycheng@cs.uwaterloo.ca -><email>
+Robin Cohen -><author>
+School of Computer Science -><affiliation>
+University of Waterloo -><affiliation>
+Waterloo ON, N2L 3G1, Canada -><address>
+rcohen@cs.uwaterloo.ca -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial In- -><note>
+telligence—intelligent agents, multiagent systems -><note>
+Keywords -><keyword>
+adjustable autonomy, interaction -><keyword>

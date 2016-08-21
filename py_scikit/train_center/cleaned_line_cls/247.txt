@@ -1,0 +1,5 @@
+A BDI Architecture for Goal Deliberation -><title>
+Alexander Pokahr, Lars Braubach, Winfried Lamersdorf -><author>
+Distributed Systems and Information Systems -><affiliation>
+Computer Science Department, University of Hamburg -><affiliation>
+{pokahr (|) braubach (|) lamersd}@informatik.uni-hamburg.de -><email>

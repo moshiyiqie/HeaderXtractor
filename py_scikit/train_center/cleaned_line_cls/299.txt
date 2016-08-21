@@ -1,0 +1,5 @@
+Towards Fault Tolerance For Multiagent Systems -><title>
+Yingqian Zhang -><author>
+School of Computer Science, University of Manchester -><affiliation>
+Oxford Road, Manchester, M13 9PL, UK -><address>
+zhangy@cs.man.ac.uk -><email>

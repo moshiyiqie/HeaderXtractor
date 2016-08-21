@@ -1,0 +1,20 @@
+Raging Incrementalism: Harnessing Change with -><title>
+Open-Source Software -><title>
+John C. Georgas -><author>
+Institute for Software Research -><affiliation>
+University of California, Irvine -><affiliation>
+Irvine, CA 92697, U.S.A -><address>
++1 949 824 5160 -><phone>
+jgeorgas@ics.uci.edu -><email>
+Michael M. Gorlick -><author>
+The Aerospace Corporation -><affiliation>
+P.O. Box 92957 -><address>
+Los Angeles, CA 90009, U.S.A -><address>
++1 310 336 8661 -><phone>
+gorlick@aero.org -><email>
+Richard N. Taylor -><author>
+Institute for Software Research -><affiliation>
+University of California, Irvine -><affiliation>
+Irvine, CA 92697, U.S.A -><address>
++1 949 824 6429 -><phone>
+taylor@ics.uci.edu -><email>

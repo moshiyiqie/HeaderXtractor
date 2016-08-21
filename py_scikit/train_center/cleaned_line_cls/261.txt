@@ -1,0 +1,15 @@
+Engineering Agent Interactions from ACL-based Reusable -><title>
+Connectors ∗ -><title>
+Juan Manuel Serrano, Sascha Ossowski, Sergio Saugar -><author>
+Artificial Intelligence Group -><affiliation>
+School of Engineering -><affiliation>
+University Rey Juan Carlos -><affiliation>
+JuanManuel.Serrano@urjc.es, Sascha.Ossowski@urjc.es, Sergio.Saugar@urjc.es -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelli- -><web>
+gence—multiagent systems -><web>
+General Terms -><keyword>
+Design, Theory, Standardization -><keyword>
+Keywords -><keyword>
+Agent Communication Languages and Protocols, Multi-agent pro- -><keyword>
+gramming frameworks, JADE -><keyword>

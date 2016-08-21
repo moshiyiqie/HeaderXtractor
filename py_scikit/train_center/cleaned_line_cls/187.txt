@@ -1,0 +1,7 @@
+Multi-agent Concepts as Basis for -><title>
+Dynamic Plug-in Software Architectures -><title>
+Lawrence Cabac, Michael Duvigneau, Daniel Moldt, Heiko Rölke -><author>
+University of Hamburg, Faculty of Informatics, Group TGI -><affiliation>
+Vogt-Kölln-Strasse 30 -><address>
+22527 Hamburg, Germany -><address>
+cabac,duvigneau,moldt,roelke@informatik.uni-hamburg.de -><email>

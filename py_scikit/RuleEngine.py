@@ -46,6 +46,7 @@ def fixForCheckIfNoAuthor(header, label):
 def fixForContainUniversity(header, label):
 	words = ['universit', 'university', 'univercity', 'universite', 'institute', 'departamen', 'lab']
 	newLabel = label[:]
+	if(len(header[i].split()) >= 10) return newLabel
 	for i in range(len(label)):
 		if any([(word in header[i].lower()) for word in words ]):
 			newLabel[i] = '<affiliation>'
@@ -98,8 +99,8 @@ def fixByStanfordNER(header, label):
 		elif u'ORGANIZATION' in res.keys() and label[i] != '<affiliation>' and label[i] != '<abstract>' and label[i] != '<title>' and len(header[i]) <= 4:
 			print '[NER-affiliation] ', header[i], label[i]
 			newLabel[i] = '<affiliation>'
-		elif u'LOCATION' in res.keys() and label[i] != '<address>' and label[i] != '<abstract>'  and label[i] != '<title>':
-			print '[NER-address] ', header[i], label[i]
-			newLabel[i] = '<address>'
+		#elif u'LOCATION' in res.keys() and label[i] != '<address>' and label[i] != '<abstract>'  and label[i] != '<title>':
+		#	print '[NER-address] ', header[i], label[i]
+		#	newLabel[i] = '<address>'
 	return newLabel
 

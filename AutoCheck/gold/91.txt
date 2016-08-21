@@ -1,0 +1,17 @@
+[Title]:OTESC: Online Transformation Estimation between Stereo Cameras
+
+[Author name]:André Redert 
+[Address]:Eindhoven, The Netherlands 
+[Affliation]:Philips Research Europe 
+[Email]:Andre.Redert@philips.com 
+
+[Author name]:Emile A. Hendriks 
+[Address]:Delft, The Netherlands 
+[Affliation]:Delft University of Technology Department of Mediamatics 
+[Email]:E.A.Hendriks@tudelft.nl 
+
+[Author name]:Tiemen Schreuder 
+[Address]:Delft, The Netherlands 
+[Affliation]:Delft University of Technology Department of Mediamatics 
+[Email]:tiemenschreuder@gmail.nl 
+

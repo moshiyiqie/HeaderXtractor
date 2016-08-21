@@ -1,0 +1,16 @@
+﻿Fuzzy Number Approach to Trust in Coalition Environment∗ -><title>
+Martin Reha´k -><author>
+Center for Applied Cybernetics -><affiliation>
+Czech Technical University -><affiliation>
+Technicka´ 2, Prague, Czech R. -><address>
+rehakm1@labe.felk.cvut.cz -><affiliation>
+Michal Peˇchoucˇek -><author>
+Department of Cybernetics -><affiliation>
+Czech Technical University -><affiliation>
+Technicka´ 2, Prague, Czech R. -><address>
+pechouc@labe.felk.cvut.cz -><affiliation>
+Petr Benda -><author>
+Department of Cybernetics -><affiliation>
+Czech Technical University -><affiliation>
+Technicka´ 2, Prague, Czech R. -><address>
+bendap1@labe.felk.cvut.cz -><affiliation>

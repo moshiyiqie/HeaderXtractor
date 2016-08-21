@@ -1,0 +1,8 @@
+The Use of Open Source Software Platforms by -><title>
+Independent Software Vendors: Issues and Opportunities -><title>
+Herwig Mannaert and Kris Ven -><author>
+University of Antwerp -><affiliation>
+Prinsstraat 13 -><address>
+B-2000 Antwerp, Belgium -><address>
+{herwig.mannaert,kris.ven}@ua.ac.be -><email>
+35 -><date>

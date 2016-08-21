@@ -1,0 +1,12 @@
+[Title]:Author Retrospective Improving Data Cache Performance by Pre-executing Instructions Under a Cache Miss
+
+[Author name]:Trevor Mudge 
+[Affliation]:University of Michigan 
+[Email]:tnm@eecs.umich.edu 
+
+[Author name]:Ann Arbor
+[Affliation]:University of Michigan 
+
+[Author name]: MI 
+[Affliation]:University of Michigan 
+

@@ -1,0 +1,22 @@
+[Title]:A Joint Multi-View Plus Depth Image Coding Scheme Based on 3D-Warping
+
+[Author name]:Marco Zamarin
+[Affliation]:Technical University of Denmark, Department of Photonics Engineering, Denmark
+[Email]:mzam@fotonik.dtu.dk,pietro.zanuttigh#simone.milani#corte@dei.unipd.it
+
+[Author name]: Pietro Zanuttigh
+[Affliation]:University of Padova, Department of Information Engineering, Italy
+[Email]:sofo@fotonik.dtu.dk,pietro.zanuttigh#simone.milani#corte@dei.unipd.it
+
+[Author name]: Simone Milani
+[Affliation]:University of Padova, Department of Information Engineering, Italy
+[Email]:sofo@fotonik.dtu.dk,pietro.zanuttigh#simone.milani#corte@dei.unipd.it
+
+[Author name]:Guido M. Cortelazzo
+[Affliation]:University of Padova, Department of Information Engineering, Italy
+[Email]:sofo@fotonik.dtu.dk,pietro.zanuttigh#simone.milani#corte@dei.unipd.it
+
+[Author name]: Søren Forchhammer
+[Affliation]:Technical University of Denmark, Department of Photonics Engineering, Denmark
+[Email]:sofo@fotonik.dtu.dk,pietro.zanuttigh#simone.milani#corte@dei.unipd.it
+

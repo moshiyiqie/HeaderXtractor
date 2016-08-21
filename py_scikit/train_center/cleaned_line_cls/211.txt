@@ -1,0 +1,11 @@
+﻿Strategical Considerations for Negotiating Agents -><title>
+Souhila Kaci -><title>
+CRIL - CNRS -><affiliation>
+Rue de l’Universite´ SP 16 -><affiliation>
+62307 Lens, France -><address>
+kaci@cril.univ-artois.fr -><email>
+Leila Amgoud -><author>
+IRIT - CNRS -><affiliation>
+118, route de Narbonne -><address>
+Toulouse, France -><address>
+amgoud@irit.fr -><email>

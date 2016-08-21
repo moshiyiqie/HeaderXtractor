@@ -1,0 +1,7 @@
+[Title]:Invited Talk Elastic Riemannian Frameworks and Statistical Tools for Shape Analysis
+
+[Author name]:Anuj Srivastava 
+[Address]:Tallahassee, FL 32306, USA 
+[Affliation]:Departement of Statistics, Florida State University 
+[Email]:anuj@stat.fsu.edu 
+

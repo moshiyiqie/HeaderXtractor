@@ -1,0 +1,4 @@
+Towards Jungle Computing with Ibis/Constellation -><title>
+Jason Maassen, Niels Drost, Henri E. Bal, Frank J. Seinstra -><author>
+Department of Computer Science, VU University -><affiliation>
+Amsterdam, The Netherlands{jason,niels,bal,fjseins}@cs.vu.nl -><email>

@@ -21,6 +21,13 @@ class Pdf:
 	ypos=[]
 	xpos=[]
 	charSizes=[]
+	def __init__(self):
+		self.header=[]
+		self.fonts=[]
+		self.sizes=[]
+		self.ypos=[]
+		self.xpos=[]
+		self.charSizes=[]
 	#获得PDF文件的头部、字体、大小
 	def loadPdfByPDFbox(self,pdfpath):
 		pdfboxOutputPath = './py_scikit/tmp/pdfboxResult.txt'

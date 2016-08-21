@@ -1,0 +1,9 @@
+OpenEC/B: Electronic Commerce and Free/Open Source -><title>
+Software Development -><title>
+Walt Scacchi -><author>
+Institute for Software Research -><affiliation>
+Donald Bren School of Information and Computer Sciences -><affiliation>
+University of California, Irvine -><affiliation>
+Irvine, CA 92697-3425 USA -><address>
+http://www.ics.uci.edu/~wscacchi -><web>
+52 -><date>

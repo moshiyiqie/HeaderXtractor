@@ -1,0 +1,14 @@
+﻿Negotiating Agents: From Full Autonomy to Dynamic -><title>
+Degrees of Delegation -><title>
+Diemo Urbig -><author>
+Department of Computer Science -><affiliation>
+Humboldt-Universität zu Berlin -><affiliation>
+Unter den Linden 6 -><address>
+10099 Berlin, Germany -><address>
+urbig@informatik.hu-berlin.de -><email>
+Kay Schro¨ter -><author>
+Department of Computer Science, -><affiliation>
+Humboldt-Universität zu Berlin -><affiliation>
+Unter den Linden 6 -><address>
+10099 Berlin, Germany -><address>
+kschroet@informatik.hu-berlin.de -><email>

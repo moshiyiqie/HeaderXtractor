@@ -1,0 +1,36 @@
+[Title]:Author Retrospective for Bloom Filtering Cache Misses for Accurate Data Optimum Modulo Schedules for Minimum Speculation and Prefetching Register Requirements
+
+[Author name]:Edward S. Davidson 
+[Affliation]:1100 Chestnut Rd. ECE Department Oregon State University 
+[Email]:laish@ece.orst.edu 
+
+[Author name]:Shih-Chang Lai 
+[Affliation]:1100 Chestnut Rd. ECE Department Oregon State University 
+[Email]:davidson@umich.edu 
+
+[Author name]:Ann Arbor
+[Affliation]:1100 Chestnut Rd. ECE Department Oregon State University 
+
+[Author name]: MI 48104 
+[Affliation]:1100 Chestnut Rd. ECE Department Oregon State University 
+
+[Author name]:Jih-Kwon Peir 
+[Address]:PO Box 218 Yorktown Heights, NY 10514 
+[Affliation]:IBM T.J. Watson Research Center CISE Department University of Florida 
+[Email]:Alexandre E. Eichenberger 
+
+[Author name]:Shih-Lien Lu 
+[Address]:San Jose, CA 95112 
+[Affliation]:Advanced Processor Laboratory Intel Labs 
+[Email]:Santosh G. Abraham 
+
+[Author name]:Jared Stark 
+[Address]:San Jose, CA 95112 
+[Affliation]:Advanced Processor Laboratory Intel Labs 
+[Email]:shih-lien.l.lu@intel.com 
+
+[Author name]:Konrad Lai 
+[Address]:San Jose, CA 95112 
+[Affliation]:Advanced Processor Laboratory Intel Labs 
+[Email]:sg.abraham@samsung.com 
+

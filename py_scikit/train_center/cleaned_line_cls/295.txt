@@ -1,0 +1,5 @@
+Market-Based Task Allocation and Control for -><title>
+Distributed Logistics -><title>
+Valentin Robu -><author>
+CWI, Dutch National Center for Mathematics and Computer Science -><affiliation>
+Kruislaan 413, NL-1098 SJ Amsterdam, The Netherlands -><address>

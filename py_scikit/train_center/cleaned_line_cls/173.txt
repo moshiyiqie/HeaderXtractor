@@ -1,0 +1,5 @@
+Temporal Logics for -><title>
+Normative Agent Communication Protocols -><title>
+Ulle Endriss -><author>
+Department of Computing, Imperial College London (UK) -><affiliation>
+ue@doc.ic.ac.uk -><email>

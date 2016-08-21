@@ -1,0 +1,8 @@
+ACM International Conference on Supercomputing 25th Anniversary Volume -><note>
+25th Anniversary Volume Editor -><title>
+is proud to include this ICS paper -><title>
+Analysis of Interprocedural Side Effects in a Parallel -><title>
+Programing Environment -><title>
+David Callahan, Ken Kennedy -><author>
+http://link.springer.com/chapter/10.1007/3-540-18991-2_10 -><web>
+87 -><date>

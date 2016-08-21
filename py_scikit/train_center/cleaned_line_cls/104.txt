@@ -1,0 +1,12 @@
+Software Quality Development and Assurance -><title>
+in RUP, MSF and XP - A Comparative Study -><title>
+Stefan Heil -><author>
+Capgemini Consulting Austria -><affiliation>
+stefan.heil@capgemini.com -><email>
+Thomas Grechenig -><author>
+Vienna University of Technology -><affiliation>
+thomas.grechenig@inso.tuwien.ac.at -><email>
+Wolfgang Zuser -><author>
+Vienna University of Technology -><affiliation>
+wolfgang.zuser@inso.tuwien.ac.at -><email>
+29 -><pubnum>

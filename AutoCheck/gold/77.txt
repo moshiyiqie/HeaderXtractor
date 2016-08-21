@@ -1,0 +1,10 @@
+[Title]:Incorporating Several Features in the Protein Ray Descriptor for More Accurate Protein 3D Structure Retrieval
+
+[Author name]:Georgina Mirceva 
+[Address]:Karpos 2 bb, P.O.Box 574, 1000 Skopje, Macedonia, 
+[Affliation]:Ss. Cyril and Methodius University, Faculty of Electrical Engineering and Information Technologies, 
+
+[Author name]:Danco Davcev 
+[Address]:Karpos 2 bb, P.O.Box 574, 1000 Skopje, Macedonia, 
+[Affliation]:Ss. Cyril and Methodius University, Faculty of Electrical Engineering and Information Technologies, 
+

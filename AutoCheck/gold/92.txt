@@ -1,0 +1,12 @@
+[Title]:Multiple View Human Articulated Tracking using Charting and Particle Swarm Optimisation
+
+[Author name]:Emanuele Trucco 
+[Address]:Dundee, United Kingdom 
+[Affliation]:University of Dundee School of Computing 
+[Email]:manueltrucco@computing.dundee.ac.uk 
+
+[Author name]:Vijay John 
+[Address]:Dundee, United Kingdom 
+[Affliation]:University of Dundee School of Computing 
+[Email]:vijayjohn@computing.dundee.ac.uk 
+

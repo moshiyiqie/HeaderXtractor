@@ -1,0 +1,7 @@
+A Real-World Approach to Secure and Trusted -><title>
+Negotiation in MASs -><title>
+Roberto Bianchi, Andrea Fontana, Federico Bergenti -><author>
+Dipartimento di Ingegneria dell’Informazione -><affiliation>
+Universita` degli Studi di Parma -><affiliation>
+Parco Area delle Scienze 181/A, 43100 Parma, Italy -><address>
+{rbianchi,afontana,bergenti}@ce.unipr.it -><email>

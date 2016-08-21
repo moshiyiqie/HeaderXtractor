@@ -1,0 +1,11 @@
+3D Feature Extraction from Uncalibrated Video Clips -><title>
+Xiuwen Liu -><author>
+Department of Computer Science -><affiliation>
+Florida State University -><affiliation>
+Tallahassee, FL 32306 -><address>
+liux@cs.fsu.edu -><email>
+Arturo Donate -><author>
+Department of Computer Science -><affiliation>
+Florida State University -><affiliation>
+Tallahassee, FL 32306 -><address>
+donate@cs.fsu.edu -><email>

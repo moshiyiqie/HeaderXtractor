@@ -1,0 +1,21 @@
+﻿Space-Time Visual Effects as a Post-Production Process -><title>
+Christian Linz -><author>
+Computer Graphics Lab -><affiliation>
+TU Braunschweig, Germany -><affiliation>
+linz@cg.cs.tu-bs.de -><email>
+Christian Lipski -><author>
+Computer Graphics Lab -><affiliation>
+TU Braunschweig, Germany -><address>
+lipski@cg.cs.tu-bs.de -><email>
+Lorenz Rogge -><author>
+Computer Graphics Lab -><affiliation>
+TU Braunschweig, Germany -><address>
+rogge@cg.cs.tu-bs.de -><email>
+Christian Theobalt -><author>
+Max Planck Institute Informatik -><affiliation>
+Saarbrücken, Germany -><address>
+theobalt@mpii.de -><email>
+Marcus Magnor -><author>
+Computer Graphics Lab -><affiliation>
+TU Braunschweig, Germany -><address>
+magnor@cg.cs.tu-bs.de -><email>

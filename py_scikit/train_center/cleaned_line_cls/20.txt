@@ -1,0 +1,34 @@
+Author Retrospective for -><title>
+Increasing the Instruction Fetch Rate via Multiple Branch -><title>
+Prediction and a Branch Address Cache -><title>
+Deborah T. Marr -><author>
+Intel Corporation -><affiliation>
+Hillsboro, OR -><address>
+debbie.marr@intel.com -><email>
+Yale N. Patt -><author>
+The University of Texas at Austin -><affiliation>
+Austin, TX -><address>
+patt@ece.utexas.edu -><email>
+Tse-Yu Yeh -><author>
+Apple Inc. -><affiliation>
+Cupertino, CA -><address>
+tyyeh@apple.com -><email>
+Original paper: http://dx.doi.org/10.1145/165939.165956 -><web>
+Categories and Subject Descriptors -><keyword>
+C.1.1 [Computer Systems Organization]: Processor Ar- -><keyword>
+chitectures—Single data stream architectures -><keyword>
+Keywords -><keyword>
+Branch prediction -><abstract>
+“Increasing the Instruction Fetch Rate via Multiple Branch -><abstract>
+Prediction and a Branch Address Cache”was the first paper -><abstract>
+to propose a highly accurate hardware mechanism for pre- -><abstract>
+dicting and fetching multiple non-contiguous basic blocks -><abstract>
+using leading-edge aggressive branch predictors of the time. -><abstract>
+Prior to this paper, the methods to increase fetch bandwidth -><abstract>
+relied on software and compiler mechanisms to increase the -><abstract>
+size of the basic blocks themselves. The publication of our -><abstract>
+paper inspired an explosion of research to further improve -><abstract>
+the accuracy of multiple branch prediction, reduce complex- -><abstract>
+ity of fetching multiple basic blocks, or increase the fetch -><abstract>
+bandwidth in other ways. -><abstract>
+Our HPS research group defied conventional wisdom in a -><abstract>

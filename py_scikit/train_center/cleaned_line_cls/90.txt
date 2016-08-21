@@ -1,0 +1,7 @@
+A Novel Blind Watermarking Scheme for Depth-Image- -><title>
+Based Rendering 3D Images -><title>
+Yu-Hsun Lin2 and Ja-Ling Wu1,2 -><author>
+National Taiwan University -><affiliation>
+1Department of Computer Science and Information Engineering -><affiliation>
+2Graduate Institute of Networking and Multimedia -><affiliation>
+{lymanblue,wjl}@cmlab.csie.ntu.edu.tw -><email>

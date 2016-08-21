@@ -1,0 +1,6 @@
+[Title]:Author Retrospective for Array Expansion, Array Shrinking, or There and Back Again
+
+[Author name]:Paul Feautrier 
+[Affliation]:Ecole Normale Supérieure de Lyon, Lyon, France 
+[Email]:Paul.Feautrier@ens-lyon.fr 
+

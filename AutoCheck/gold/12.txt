@@ -1,0 +1,16 @@
+[Title]:Author Retrospective for Author Retrospective for PYRROS: Static Task Scheduling and Code Generation for Optimizing for Parallelism and Data Locality Message Passing Multiprocessors
+
+[Author name]:Kathryn S. McKinley 
+[Affliation]:Microsoft Research 
+[Email]:mckinley@microsoft.com 
+
+[Author name]:Tao Yang 
+[Address]:Santa Barbara, CA 93106, USA 
+[Affliation]:Department of Computer Science University of California 
+[Email]:tyang@cs.ucsb.edu 
+
+[Author name]:Apostolos Gerasoulis 
+[Address]:New Brunswick, NJ 08903, USA 
+[Affliation]:Department of Computer Science Rutgers University 
+[Email]:gerasoul@cs.rutgers.edu 
+

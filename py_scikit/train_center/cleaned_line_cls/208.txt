@@ -1,0 +1,6 @@
+﻿Experimental Analysis of Negotiation Meta Strategies -><title>
+Raquel Ros, Carles Sierra -><author>
+Artificial Intelligence Research Institute —IIIA -><affiliation>
+Spanish Council for Scientific Research —CSIC -><affiliation>
+08193 Bellaterra, Barcelona, Catalonia, Spain. -><address>
+{ros,sierra}@iiia.csic.es -><email>

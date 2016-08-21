@@ -1,0 +1,6 @@
+Discovering Strategic Multi-Agent Behavior -><title>
+in a Robotic Soccer Domain -><title>
+Andraz Bezek -><author>
+Jozef Stefan Institute -><affiliation>
+Department of Intelligent Systems -><affiliation>
+andraz.bezek@ijs.si -><email>

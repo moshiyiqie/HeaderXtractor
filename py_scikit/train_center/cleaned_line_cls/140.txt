@@ -1,0 +1,5 @@
+Jockey: A User-space Library for Record-replay Debugging -><title>
+Yasushi Saito -><author>
+Hewlett-Packard Laboratories1 Google, Inc. -><affiliation>
+Palo Alto, CA, USA Mountain View, CA, USA -><address>
+yasushi.saito@gmail.com -><email>

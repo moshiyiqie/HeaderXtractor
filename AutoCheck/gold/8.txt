@@ -1,0 +1,6 @@
+[Title]:Author Retrospective for Optimizing for Parallelism and Data Locality
+
+[Author name]:Kathryn S. McKinley 
+[Affliation]:Microsoft Research 
+[Email]:mckinley@microsoft.com 
+

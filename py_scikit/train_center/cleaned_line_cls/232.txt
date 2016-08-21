@@ -1,0 +1,6 @@
+Liberalizing Protocols for Argumentation -><title>
+in Multi-agent Systems -><title>
+Gerard A.W. Vreeswijk -><author>
+Dept. of Computer Science -><affiliation>
+Utrecht University, The Netherlands -><affiliation>
+gv@cs.uu.nl -><email>

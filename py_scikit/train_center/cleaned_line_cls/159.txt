@@ -1,0 +1,12 @@
+Design and Evaluation of Expressive Gesture Synthesis -><title>
+for Embodied Conversational Agents -><title>
+C. Pelachaud -><author>
+University of Paris-8 -><affiliation>
+M. Mancini -><author>
+University of Paris-8 -><affiliation>
+B. Hartmann -><author>
+Stanford University -><affiliation>
+and University of Paris-8 -><affiliation>
+S. Buisine -><address>
+LIMSI-CNRS -><affiliation>
+and LCPI-ENSAM -><affiliation>

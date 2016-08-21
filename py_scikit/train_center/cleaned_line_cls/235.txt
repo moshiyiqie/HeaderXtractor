@@ -1,0 +1,17 @@
+Agent Synthesis: Partnership and Agreement in -><title>
+Cooperative Mobile Agents -><title>
+Fuyuki Ishikawa -><author>
+The University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan -><address>
+f-ishikawa@nii.ac.jp -><email>
+Nobukazu Yoshioka -><author>
+National Institute of Informatics -><affiliation>
+2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo, Japan -><address>
+nobukazu@nii.ac.jp -><email>
+Yasuyuki Tahara -><author>
+National Institute of Informatics -><affiliation>
+tahara@nii.ac.jp -><email>
+Shinichi Honiden -><author>
+National Institute of Informatics -><affiliation>
+and The University of Tokyo -><affiliation>
+honiden@nii.ac.jp -><email>

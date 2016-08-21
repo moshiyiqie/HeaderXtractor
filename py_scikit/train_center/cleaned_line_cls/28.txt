@@ -1,0 +1,7 @@
+Synthesizing Transformations for Locality Enhancement -><title>
+of Imperfectly-nested Loop Nests -><title>
+Nawaaz Ahmed, Nikolay Mateev, Keshav Pingali -><author>
+Department of Computer Science -><affiliation>
+Cornell University -><affiliation>
+Ithaca, NY 14853 -><address>
+{ nawaaz,mateev, pingali }@ cs.comell .edu -><email>

@@ -1,0 +1,4 @@
+A Benchmark for Best View Selection of 3D Objects -><title>
+Helin Dutagaci, Chun Pan Cheung, Afzal Godil -><author>
+National Institute of Standards and Technology -><affiliation>
+{helin, bcheung, godil}@nist.gov -><email>

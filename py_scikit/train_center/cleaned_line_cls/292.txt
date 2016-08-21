@@ -1,0 +1,6 @@
+Polymorphic Self- Agents using Game Theory for -><title>
+Large-Scale Complex Systems -><title>
+Derek Messie -><author>
+Department of Electrical Engineering and Computer Science -><affiliation>
+Syracuse University, Syracuse, NY 13244 USA -><affiliation>
+dsmessie@syr.edu -><email>

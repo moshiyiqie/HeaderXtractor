@@ -1,0 +1,18 @@
+[Title]:Improving the Performance of Speculatively Parallel Applications on the Hydra CMP
+
+[Author name]:Kunle Olukotun
+[Address]:Stanford, CA 94305-4070 
+[Affliation]:Computer Systems Laboratory Stanford University 
+
+[Author name]: Lance Hammond
+[Address]:Stanford, CA 94305-4070 
+[Affliation]:Computer Systems Laboratory Stanford University 
+
+[Author name]: 
+[Address]:Stanford, CA 94305-4070 
+[Affliation]:Computer Systems Laboratory Stanford University 
+
+[Author name]: Mark Willey 
+[Address]:Stanford, CA 94305-4070 
+[Affliation]:Computer Systems Laboratory Stanford University 
+

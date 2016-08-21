@@ -1,0 +1,34 @@
+Author Retrospective for -><title>
+Optimum Modulo Schedules for Minimum -><title>
+Register Requirements -><title>
+Edward S. Davidson -><author>
+1100 Chestnut Rd. -><affiliation>
+Ann Arbor, MI 48104 -><author>
++1 734 973-0751 -><phone>
+davidson@umich.edu -><email>
+Alexandre E. Eichenberger -><author>
+IBM T.J. Watson Research Center -><affiliation>
+PO Box 218 -><address>
+Yorktown Heights, NY 10514 -><address>
++1 914 945 1812 -><phone>
+alexe@us.ibm.com -><email>
+Santosh G. Abraham -><author>
+Advanced Processor Laboratory -><affiliation>
+Samsung Research America -><affiliation>
+1732 N. 1st Street -><address>
+San Jose, CA 95112 -><address>
++1 408 605-5813 -><phone>
+sg.abraham@samsung.com -><email>
+Original paper: http://dx.doi.org/10.1145/224538.224542 -><web>
+1. Origins -><web>
+Modulo Scheduling is an approach to scheduling loops where -><abstract>
+successive iterations of a given loop are initiated at a constant rate -><abstract>
+using the same instruction schedule for each iteration. This -><abstract>
+scheduling approach was inspired by work on designing hardware -><abstract>
+pipelines that maximizes the throughput of a single function -><abstract>
+pipeline. In this earlier work, the resource pattern of the single -><abstract>
+pipeline was optimized; namely, when given enough buffers, -><abstract>
+stages could be delayed, so as to achieve an optimal -><abstract>
+throughput[1]. This work formalized the resource optimization -><abstract>
+problem using reservation tables, which had one row per resource -><abstract>
+and one column per time unit modulo the period of the initiation -><abstract>

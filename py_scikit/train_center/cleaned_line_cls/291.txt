@@ -1,0 +1,34 @@
+﻿Model-based Diagnosis of Multi-agent Systems -><title>
+Meir Kalech and Gal A. Kaminka -><author>
+The MAVERICK Group -><affiliation>
+Computer Science Department -><affiliation>
+Bar Ilan University, Israel -><address>
+{kalechm, galk}@cs.biu.ac.il -><email>
+1. BACKGROUND AND MOTIVATION -><abstract>
+One of the key requirements in collaborating distributed appli- -><affiliation>
+cations is that their sub-systems remain synchronized during their -><abstract>
+joint operation. There is an increasing need to be able to respond -><abstract>
+to failures that occur in their synchronization and coordinated op- -><abstract>
+eration, in particular to be able to diagnose the causes for synchro- -><abstract>
+nization failures that may occur. -><abstract>
+We choose to use a model-based diagnosis approach (MBD) [1] -><abstract>
+that relies on a model of the diagnosed system, which is utilized to -><abstract>
+simulate the behavior of the system given the operational context -><abstract>
+(typically, the system’s inputs). The resulting simulated behavior -><abstract>
+(typically, outputs) are compared to the actual behavior to detect -><abstract>
+discrepancies indicating failures. The model can then be used to -><abstract>
+pinpoint possible failing components within the system. MBD is -><abstract>
+increasingly being applied in distributed and multi-agent systems. -><abstract>
+While successfully addressing key challenges, MBD has been dif- -><abstract>
+ficult to apply to diagnosing coordination failures. This is because -><abstract>
+many such failures take place at the boundaries between the agent -><abstract>
+and their environment, including other agents. -><abstract>
+For instance, in a team, an agent may send a message that an- -><abstract>
+other agent, due to a broken radio, did not receive. As a result, the -><abstract>
+two agents come to disagree on an action to be taken. Lacking an -><abstract>
+omniscient diagnoser that knows of the sending of the message, the -><abstract>
+receiver has no way to detect and diagnose its fault. Surprisingly, it -><abstract>
+is still often possible to detect and diagnose coordination failures, -><abstract>
+given the actions of agents, and the coordination constraints that -><abstract>
+should ideally hold between them. In the example above, knowing -><abstract>
+that the two agents should be in agreement as to their actions, and -><abstract>

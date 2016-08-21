@@ -1,0 +1,5 @@
+Generating Intentions Through Argumentation -><title>
+Katie Atkinson, Trevor Bench-Capon and Peter McBurney, -><author>
+Department of Computer Science, -><affiliation>
+University of Liverpool, UK. -><affiliation>
+{k.m.atkinson,tbc,p.j.mcburney}@csc.liv.ac.uk -><email>

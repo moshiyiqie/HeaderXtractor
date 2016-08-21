@@ -1,0 +1,17 @@
+[Title]:3D Face Landmark Labelling
+
+[Author name]:Nick Pears 
+[Address]:York, U.K. 
+[Affliation]:University of York Department of Computer Science 
+[Email]:nep@cs.york.ac.uk 
+
+[Author name]:Clement Creusot 
+[Address]:York, U.K. 
+[Affliation]:University of York Department of Computer Science 
+[Email]:creusot@cs.york.ac.uk 
+
+[Author name]:Jim Austin 
+[Address]:York, U.K. 
+[Affliation]:University of York Department of Computer Science 
+[Email]:austin@cs.york.ac.uk 
+

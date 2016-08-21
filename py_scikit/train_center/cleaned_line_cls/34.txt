@@ -1,0 +1,7 @@
+AEGIS: Architecture for Tamper-Evident and -><title>
+Tamper-Resistant Processing -><title>
+G. Edward Suh, Dwaine Clarke, Blaise Gassend, Marten van Dijk, Srinivas Devadas -><author>
+Laboratory for Computer Science -><affiliation>
+Massachusetts Institute of Technology -><affiliation>
+Cambridge, MA 02139 -><address>
+{suh,declarke,gassend,marten,devadas}@mit.edu -><email>

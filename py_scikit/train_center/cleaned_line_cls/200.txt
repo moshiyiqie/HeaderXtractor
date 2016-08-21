@@ -1,0 +1,6 @@
+﻿An Organisation Infrastructure for Multi-Agent Systems -><title>
+based on Agent Coordination Contexts -><title>
+Mirko Viroli, Alessandro Ricci, Andrea Omicini -><author>
+DEIS, Alma Mater Studiorum – Universita` di Bologna a Cesena -><affiliation>
+Via Venezia 52, 47023 Cesena, Italy -><address>
+{mviroli,aricci,aomicini}@deis.unibo.it -><email>

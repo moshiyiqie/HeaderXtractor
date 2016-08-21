@@ -1,0 +1,6 @@
+Author Retrospective for -><title>
+Anatomy of a Message In the Alewife Multiprocessor -><title>
+John Kubiatowicz -><author>
+Computer Science Division -><affiliation>
+University of California, Berkeley -><affiliation>
+kubitron@cs.berkeley.edu -><email>

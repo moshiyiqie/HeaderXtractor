@@ -1,0 +1,7 @@
+[Title]:Author Retrospective for Synthesizing Transformations for Locality Enhancement of Imperfectly-nested Loop Nests
+
+[Author name]:Keshav Pingali 
+[Address]:Texas, USA 78712 
+[Affliation]:Department of Computer Science The University of Texas at Austin 
+[Email]:pingali@cs.utexas.edu 
+

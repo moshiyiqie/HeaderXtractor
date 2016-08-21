@@ -1,0 +1,17 @@
+﻿A Negotiation Model for Autonomous Agents: -><title>
+Key Features and Comparison with Existing Models -><title>
+Nuno Mamede -><author>
+INESC-ID/IST, L2F -><affiliation>
+R. Alves Redol 9 -><address>
+1000-029 Lisboa, Portugal -><address>
+Nuno.Mamede@inesc-id.pt -><email>
+Helder Coelho -><author>
+UL, FC, DI -><affiliation>
+Edifı´cio C6, Campo Grande -><author>
+1749-016 Lisboa, portugal -><author>
+hcoelho@di.fc.ul.pt -><email>
+Fernando Lopes∗, A.Q. Novais -><author>
+INETI, DMS -><affiliation>
+Est. do Pac¸o do Lumiar -><address>
+1649-038 Lisboa, Portugal -><address>
+∗fernando.lopes@ineti.pt -><email>

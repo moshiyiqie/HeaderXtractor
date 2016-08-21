@@ -1,0 +1,12 @@
+Distance Metric Learning and Feature Combination -><title>
+for Shape-Based 3D Model Retrieval -><title>
+Ryutarou Ohbuchi -><author>
+University of Yamanashi -><affiliation>
+4-3-11 Takeda, Kofu-shi -><address>
+Yamanashi-ken, 400-8511, Japan -><address>
+ohbuchiAT yamanashi.ac.jp -><email>
+Takahiko Furuya -><author>
+University of Yamanashi -><affiliation>
+4-3-11 Takeda, Kofu-shi -><address>
+Yamanashi-ken, 400-8511, Japan -><address>
+snc49925AT gmail.com -><email>

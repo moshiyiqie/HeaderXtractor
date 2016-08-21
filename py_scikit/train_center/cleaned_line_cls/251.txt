@@ -1,0 +1,11 @@
+﻿Game›Theoretic Golog under Partial Observability -><title>
+Alberto Finzi -><author>
+Institut fu¨r Informationssysteme, TU Wien -><affiliation>
+Favoritenstraße 9-11, 1040 Vienna, Austria -><address>
+DIS, Universita` di Roma “La Sapienza” -><affiliation>
+Via Salaria 113, 00198 Rome, Italy -><address>
+Thomas Lukasiewicz -><author>
+Institut fu¨r Informationssysteme, TU Wien -><affiliation>
+Favoritenstraße 9-11, 1040 Vienna, Austria -><address>
+DIS, Universita` di Roma “La Sapienza” -><affiliation>
+Via Salaria 113, 00198 Rome, Italy -><address>

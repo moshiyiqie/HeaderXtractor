@@ -1,1 +1,1 @@
-wordList[i], lineCharSizes[i] 10 9 {cwfletch,
+wordList[i], lineCharSizes[i] 10 9 Artificial

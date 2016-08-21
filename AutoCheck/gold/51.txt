@@ -1,0 +1,22 @@
+[Title]:Author Retrospective Analytical Cache Models with Applications to Cache Partitioning
+
+[Author name]:George Kurian
+[Address]:Cambridge, MA 
+[Affliation]:Computer Science and Artificial Intelligence Laboratory Massachusetts Institute of Technology 
+[Email]:gkurian@csail.mit.edu
+
+[Author name]: Srinivas Devadas
+[Address]:Cambridge, MA 
+[Affliation]:Computer Science and Artificial Intelligence Laboratory Massachusetts Institute of Technology 
+[Email]:devadas@csail.mit.edu
+
+[Author name]: Larry Rudolph∗ 
+[Address]:Cambridge, MA 
+[Affliation]:Computer Science and Artificial Intelligence Laboratory Massachusetts Institute of Technology 
+[Email]:rudolph@csail.mit.edu
+
+[Author name]:G. Edward Suh 
+[Address]:Ithaca, NY 
+[Affliation]:Electrical and Computer Engineering Cornell University 
+[Email]:suh@csl.cornell.edu 
+

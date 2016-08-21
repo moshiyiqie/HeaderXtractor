@@ -1,0 +1,10 @@
+[Title]:Author Retrospective for Code Scheduling and Register Allocation in Large Basic Blocks
+
+[Author name]:James R. Goodman 
+[Affliation]:Emeritus Professor, Computer Sciences Department University of Wisconsin-Madison 
+
+[Author name]:Wei Chung Hsu 
+[Address]:Taipei, Taiwan, R.O.C. 
+[Affliation]:Department of CSIE National Taiwan University 
+[Email]:hsuwc@csie.ntu.edu.tw 
+

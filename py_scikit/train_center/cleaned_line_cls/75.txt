@@ -1,0 +1,21 @@
+Volumetric Heat Kernel Signatures -><title>
+Dan Raviv -><author>
+Dept. of Computer Science, -><affiliation>
+Technion -><affiliation>
+Haifa, Israel -><address>
+darav@cs.technion.ac.il -><email>
+Michael M. Bronstein -><author>
+Dept. of Computer Science, -><affiliation>
+Technion -><affiliation>
+Haifa, Israel -><address>
+mbron@cs.technion.ac.il -><email>
+Alexander M. Bronstein -><author>
+Dept. of Electrical -><affiliation>
+Engineering, Tel-Aviv Univ. -><affiliation>
+Tel-Aviv, Israel -><address>
+bron@eng.tau.ac.il -><email>
+Ron Kimmel -><author>
+Dept. of Computer Science, -><affiliation>
+Technion -><affiliation>
+Haifa, Israel -><address>
+ron@cs.technion.ac.il -><email>

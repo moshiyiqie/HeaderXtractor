@@ -1,0 +1,17 @@
+[Title]:Nonrigid Stereo Reconstruction Using Linear Programming
+
+[Author name]:Shuhan Shen 
+[Address]:Beijing, China 
+[Affliation]:Institute of Automation Chinese Academy of Sciences 
+[Email]:shshen@nlpr.ia.ac.cn 
+
+[Author name]:Chenhao Wang 
+[Address]:Shanghai, China 
+[Affliation]:Institute of Image Processing and Pattern Recognition Shanghai Jiao Tong University 
+[Email]:wangchenhao@sjtu.edu.cn 
+
+[Author name]:Yuncai Liu 
+[Address]:Shanghai, China 
+[Affliation]:Institute of Image Processing and Pattern Recognition Shanghai Jiao Tong University 
+[Email]:whomliu@sjtu.edu.cn 
+

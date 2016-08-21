@@ -1,0 +1,22 @@
+﻿Elastic Radial Curves to Model 3D Facial Deformations -><title>
+Hassen Drira -><author>
+LIFL (UMR USTL/CNRS 8022) -><address>
+Université de Lille 1, France. -><affiliation>
+hassen.drira@lifl.fr -><email>
+Boulbaba ben Amor -><author>
+LIFL (UMR USTL/CNRS 8022) -><address>
+Institut TELECOM ; -><affiliation>
+TELECOM Lille 1, France. -><address>
+boulbaba.benamor@telecom- -><email>
+lille1.eu -><email>
+Anuj Srivastava -><author>
+Departement of Statistics -><affiliation>
+FSU, Tallahassee, FL -><affiliation>
+32306,USA. -><address>
+asrivastava@fsu.edu -><email>
+Mohamed Daoudi -><author>
+LIFL (UMR USTL/CNRS 8022) -><address>
+Institut TELECOM ; -><affiliation>
+TELECOM Lille 1, France. -><address>
+mohamed.daoudi@telecom- -><email>
+lille1.eu -><web>

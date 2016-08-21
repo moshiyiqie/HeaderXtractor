@@ -1,0 +1,6 @@
+Justification and Debugging of Answer Set Programs in -><title>
+ASP− PROLOG -><title>
+Omar El-Khatib, Enrico Pontelli, Tran Cao Son -><author>
+Dept. Computer Science -><affiliation>
+New Mexico State University -><affiliation>
+{okhatib,epontell,tson}@cs.nmsu.edu -><email>

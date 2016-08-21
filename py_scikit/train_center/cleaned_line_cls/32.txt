@@ -1,0 +1,16 @@
+Bloom Filtering Cache Misses for Accurate Data -><title>
+Speculation and Prefetching -><title>
+Jih-Kwon Peir -><author>
+CISE Department -><affiliation>
+University of Florida -><affiliation>
+peir@cise.ufl.edu -><email>
+Shih-Chang Lai -><author>
+ECE Department -><affiliation>
+Oregon State University -><affiliation>
+laish@ece.orst.edu -><email>
+Shih-Lien Lu -><author>
+Jared Stark -><author>
+Konrad Lai -><author>
+Microprocessor Research -><affiliation>
+Intel Labs -><affiliation>
+shih-lien.l.lu@intel.com -><email>

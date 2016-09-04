@@ -1,0 +1,14 @@
+Manipulation of Copeland Elections -><title>
+Edith Hemaspaandra -><author>
+Rochester Institute of -><affiliation>
+Technology, USA -><address>
+eh@cs.rit.edu -><email>
+Piotr Faliszewski -><author>
+AGH University of Science -><affiliation>
+and Technology, Poland -><address>
+faliszew@agh.edu.pl -><email>
+Henning Schnoor -><author>
+Christian-Albrechts-Universität -><affiliation>
+Kiel, Germany -><address>
+schnoor@ti.informatik.uni- -><email>
+kiel.de -><email>

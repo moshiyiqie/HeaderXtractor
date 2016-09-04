@@ -1,0 +1,5 @@
+Multiagent Simulation Meets the Real World -><title>
+Toru Ishida -><author>
+Department of Social Informatics, Kyoto University -><affiliation>
+Kyoto 606-8501, Japan -><address>
+ishida@i.kyoto-u.ac.jp -><email>

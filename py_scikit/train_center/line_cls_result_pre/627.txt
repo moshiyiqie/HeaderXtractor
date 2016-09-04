@@ -1,0 +1,7 @@
+On the Response of EMT-based Control -><title>
+to Interacting Targets and Models -><title>
+Zinovi Rabinovich Jeffrey S. Rosenschein -><author>
+School of Engineering and Computer Science -><affiliation>
+The Hebrew University of Jerusalem -><affiliation>
+Jerusalem, Israel -><address>
+{nomad, jeff}@cs.huji.ac.il -><email>

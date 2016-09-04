@@ -1,0 +1,11 @@
+Multiply-Constrained Distributed Constraint Optimization -><title>
+M. Yokoo -><author>
+Dept. of Intelligent Systems -><affiliation>
+Kyushu University -><affiliation>
+Fukuoka, 812-8581 Japan -><address>
+yokoo@is.kyushu-u.ac.jp -><email>
+E. Bowring, M. Tambe -><author>
+Computer Science Dept. -><affiliation>
+Univ. of Southern California -><affiliation>
+Los Angeles, CA 90089 -><address>
+{bowring,tambe}@usc.edu -><email>

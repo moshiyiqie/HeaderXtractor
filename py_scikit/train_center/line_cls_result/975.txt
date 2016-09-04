@@ -1,0 +1,17 @@
+Aggregating Preferences in Multi-Issue Domains -><title>
+by Using Maximum Likelihood Estimators -><title>
+Lirong Xia -><author>
+Dept. of Computer Science -><affiliation>
+Duke University -><affiliation>
+Durham, NC 27708, USA -><address>
+lxia@cs.duke.edu -><email>
+Jérôme Lang -><author>
+LAMSADE -><affiliation>
+Université Paris-Dauphine -><affiliation>
+75775 Paris Cedex, France -><address>
+lang@lamsade.dauphine.fr -><email>
+Vincent Conitzer -><author>
+Dept. of Computer Science -><affiliation>
+Duke University -><affiliation>
+Durham, NC 27708, USA -><address>
+conitzer@cs.duke.edu -><email>

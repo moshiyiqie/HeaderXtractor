@@ -1,0 +1,12 @@
+Formation of Cooperation Structure by Interaction Network -><title>
+in Directed Multi-Agent -><title>
+Kosuke Sekiyama -><author>
+Department of Human and Artificial Intelligence -><affiliation>
+Systems, University of Fukui -><affiliation>
+3-9-1 Bunkyo, Fukui, Japan -><address>
+sekiyama@dis.his.fukui-u.ac.jp -><email>
+Yukihisa Okade -><author>
+Department of Human and Artificial Intelligence -><affiliation>
+Systems, University of Fukui -><affiliation>
+3-9-1 Bunkyo, Fukui, Japan -><address>
+okade@dis.his.fukui-u.ac.jp -><email>

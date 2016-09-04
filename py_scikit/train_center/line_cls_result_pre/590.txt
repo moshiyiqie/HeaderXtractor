@@ -1,0 +1,11 @@
+Real-Time Adaptive A -><title>
+Maxim Likhachev -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213-3891 -><address>
+Sven Koenig -><author>
+Computer Science Department -><affiliation>
+University of Southern California -><affiliation>
+Los Angeles, CA 90089-0781 -><address>
+maxim+@cs.cmu.edu -><email>
+skoenig@usc.edu -><email>

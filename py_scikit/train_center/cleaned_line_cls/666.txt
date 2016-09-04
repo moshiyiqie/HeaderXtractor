@@ -1,0 +1,14 @@
+Role-Based Semantics for Agent Communication -><title>
+Embedding of the ‘Mental Attitudes’ and ‘Social Commitments’ Semantics -><title>
+Joris Hulstijn -><author>
+Vrije Univ. Amsterdam -><affiliation>
+The Netherlands -><address>
+jhulstijn@feweb.vu.nl -><email>
+Guido Boella, Rossana Damiano -><author>
+Universita` di Torino -><affiliation>
+Italy -><address>
+{guido,rossana}@di.unito.it -><email>
+Leendert van der Torre -><author>
+University of Luxembourg -><affiliation>
+Luxembourg -><address>
+leendert@vandertorre.com -><email>

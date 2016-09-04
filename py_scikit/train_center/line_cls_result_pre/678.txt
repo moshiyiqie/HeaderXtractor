@@ -1,0 +1,12 @@
+The Use of Agents in Human Learning Systems -><title>
+Elizabeth Sklar -><author>
+Dept of Computer and Information Science -><affiliation>
+Brooklyn College, City University of New York -><affiliation>
+2900 Bedford Ave, Brooklyn, NY, USA 11210 -><address>
+Debbie Richards -><author>
+Dept of Computing, Div of Information and -><affiliation>
+Communication Sciences -><affiliation>
+Macquarie University -><affiliation>
+Sydney NSW 2109 AUSTRALIA -><address>
+sklar@sci.brooklyn.cuny.edu -><email>
+richards@ics.mq.edu.au -><email>

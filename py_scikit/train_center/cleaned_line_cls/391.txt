@@ -1,0 +1,10 @@
+﻿Decentralized Control of E’GV Transportation Systems -><title>
+Tom Lefever -><author>
+Egemin N.V. -><affiliation>
+Baarbeek 1, B-2070 Zwijndrecht, Belgium -><address>
+tom.lefever@egemin.be -><email>
+Danny Weyns, Kurt Schelfthout, -><author>
+Tom Holvoet -><author>
+AgentWise, DistriNet, K.U.Leuven -><affiliation>
+Celestijnenlaan 200A, B-3001 Leuven, Belgium -><address>
+<first name.name>@cs.kuleuven.ac.be -><email>

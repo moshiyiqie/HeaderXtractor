@@ -1,0 +1,12 @@
+To Teach or not to Teach? -><title>
+Decision Making Under Uncertainty in Ad Hoc Teams -><title>
+Sarit Kraus -><author>
+Department of CS Inst. for Advanced CS -><affiliation>
+Bar-Ilan University University of Maryland -><affiliation>
+Ramat Gan, 52900 Israel College Park, MD 20742 -><address>
+sarit@cs.biu.ac.il -><email>
+Peter Stone -><author>
+Department of Computer Science -><affiliation>
+The University of Texas at Austin -><affiliation>
+Austin, TX, 78712-0233 USA -><address>
+pstone@cs.utexas.edu -><email>

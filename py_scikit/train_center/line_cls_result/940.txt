@@ -1,0 +1,21 @@
+Coalition Structure Generation in Multi-Agent Systems -><title>
+with Mixed Externalities -><title>
+Bikramjit Banerjee -><author>
+School of Computing -><affiliation>
+The University of Southern Mississippi -><affiliation>
+118 College Dr. # 5106 -><address>
+Hattiesburg, MS 39406, USA -><address>
+Bikramjit.Banerjee@usm.edu -><email>
+Landon Kraemer -><author>
+School of Computing -><affiliation>
+The University of Southern Mississippi -><affiliation>
+118 College Dr. # 5106 -><address>
+Hattiesburg, MS 39406, USA -><address>
+Landon.Kraemer@eagles.usm.edu -><email>
+Categories and Subject Descriptors -><keyword>
+I.2.11 [Artiﬁcial Intelligence]: Distributed Artiﬁcial Intelligence— -><keyword>
+Multiagent Systems -><keyword>
+General Terms -><keyword>
+Algorithms, Theory, Performance -><keyword>
+Keywords -><keyword>
+Coalition Structure Generation, Branch and Bound -><keyword>

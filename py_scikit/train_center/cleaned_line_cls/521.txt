@@ -1,0 +1,20 @@
+﻿Convergence Analysis for Collective Vocabulary -><title>
+Development ∗ -><title>
+Jim Houk -><author>
+Department of Physiology -><affiliation>
+Northwestern University -><affiliation>
+Medical School -><affiliation>
+Chicago, IL -><address>
+j-houk@northwestern.edu -><email>
+Les Gasser -><author>
+Graduate School of Library -><affiliation>
+and Information Science -><affiliation>
+University of Illinois at -><affiliation>
+Urbana-Champaign -><phone>
+gasser@uiuc.edu -><email>
+Jun Wang -><author>
+Graduate School of Library -><affiliation>
+and Information Science -><affiliation>
+University of Illinois at -><affiliation>
+Urbana-Champaign -><affiliation>
+junwang4@uiuc.edu -><email>

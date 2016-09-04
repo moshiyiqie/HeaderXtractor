@@ -1,0 +1,16 @@
+﻿Knowing How to Play: Uniform Choices in Logics of -><title>
+Agency -><title>
+Andreas Herzig -><author>
+CNRS, Institut de Recherche en Informatique de -><affiliation>
+Toulouse -><affiliation>
+Université Paul Sabatier -><affiliation>
+Toulouse, France -><address>
+herzig@irit.fr -><email>
+Nicolas Troquard -><author>
+Institut de Recherche en Informatique de -><affiliation>
+Toulouse -><affiliation>
+Université Paul Sabatier, Toulouse, France -><affiliation>
+and -><affiliation>
+Laboratorio di Ontologia Applicata -><affiliation>
+Università degli Studi di Trento, Trento, Italy -><affiliation>
+troquard@irit.fr -><email>

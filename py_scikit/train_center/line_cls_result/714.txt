@@ -1,0 +1,23 @@
+Mitsuru Ishizuka -><title>
+Dept. of Information and -><title>
+Communication Eng. -><title>
+Arturo Nakasone -><author>
+Dept. of Information and -><affiliation>
+Communication Eng. -><affiliation>
+Web Presentation System using RST Events -><affiliation>
+Helmut Prendinger -><affiliation>
+National Institute of Informatics -><address>
+2-1-2 Hitotsubashi, Chiyoda Ku -><address>
+Tokyo 101-8430, Japan -><address>
++81-3-4212-2650 -><phone>
+helmut@nii.ac.jp -><email>
+University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo Ku -><address>
+Tokyo 113-8656, Japan -><address>
++81-3-5841-6347 -><phone>
+ishizuka@i.u-tokyo.ac.jp -><email>
+University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo Ku -><address>
+Tokyo 113-8656, Japan -><address>
++81-3-5841-6347 -><phone>
+arturo@mi.ci.i.u-tokyo.ac.jp -><email>

@@ -1,0 +1,20 @@
+ALIVE: An Agent-based Framework for Dynamic and -><title>
+Robust Service-oriented Applications -><title>
+J. Vázquez-Salceda -><author>
+Univ. Politécnica de Catalunya -><author>
+jvazquez@lsi.upc.edu -><email>
+W. W. Vasconcelos -><author>
+University of Aberdeen -><affiliation>
+w.w.vasconcelos@abdn.ac.uk -><email>
+J. Padget -><author>
+University of Bath -><affiliation>
+jap@cs.bath.ac.uk -><email>
+F. Dignum -><author>
+Universiteit Utrecht -><affiliation>
+dignum@cs.uu.nl -><email>
+M. Palau Roig -><address>
+Tech Media Telecom Factory -><phone>
+manel.palau@tmtfactory.com -><email>
+S. Clarke -><author>
+Trinity College Dublin -><affiliation>
+Siobhan.Clarke@cs.tcd.ie -><email>

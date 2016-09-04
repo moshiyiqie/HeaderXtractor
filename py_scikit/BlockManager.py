@@ -35,6 +35,9 @@ class Block:
 		self.rectangle = Geometry.Rectangle(self.l, self.r, self.u, self.d)
 		self.originIdx = originIdx
 
+	def hash(self):
+		return int(self.l)*10000+int(self.u)
+
 #合并相交的词块矩形
 def unionBlockByRectangleIntersect(dsu, blockList):
 	for i in range(len(blockList)):
@@ -45,6 +48,33 @@ def unionBlockByRectangleIntersect(dsu, blockList):
 			#	print 'res::',blockList[i].rectangle.isIntersect(blockList[j].rectangle)
 			if blockList[i].rectangle.isIntersect(blockList[j].rectangle):
 				dsu.unite(i,j)
+#返回块集合范围
+def getBlockSetRange(blockSet):
+	l = blockSet[0].l
+	r = blockSet[0].r
+	u = blockSet[0].u
+	d = blockSet[0].d
+	for block in blockSet:
+		l = min(l, block.l)
+		r = max(r, block.r)
+		u = min(u, block.u)
+		d = max(d, block.d)
+	return l,r,u,d
+
+#将落单的单行含有@符号的块挂到正上方的块上
+def fixSingleBlockContainAt(dsu, blockSetList, idInDSU):
+	for i in range(len(blockSetList)):
+		l1,r1,u1,d1 = getBlockSetRange(blockSetList[i])
+		if len(blockSetList[i]) == 1 and '@' in blockSetList[i][0].header:
+			for j in range(len(blockSetList)):
+				if i == j or len(blockSetList[j])<=1:continue
+				l2,r2,u2,d2 = getBlockSetRange(blockSetList[j])
+				if (l1+r1)*1.0/2 < r2 and (l1+r1)*1.0/2 > l2 and u1 - d2 <= 10 and u1 - d2>=0:
+					id1 = idInDSU[blockSetList[i][0].hash()]
+					id2 = idInDSU[blockSetList[j][0].hash()]
+					dsu.unite(dsu.find(id1), dsu.find(id2))
+
+
 #将合并后的块按块平均高度排序后输出块列表
 def getBlockSetList(dsu, blockList):
 	blockSet = {}
@@ -68,19 +98,24 @@ def getBlockSetList(dsu, blockList):
 #该函数利用并查集通过词框合并得到一个个块，最后排序输出给分类器进行分类，排序规则如下
 #计算块集合的平均高度y，首先输出平均高度y较小的块，块内按y从小到大
 blockSetList=[]
+
 def BlockUnionProcess(header, charSizes, ypos, xpos):
 	global blockSetList
+	idInDSU={}#通过块位置获得在并查集中的下标
 	dsu = DisjointSet.DisjointSet(len(header))
 	blockList = []
 	for i in range(len(header)):
 		blockList.append( Block(header[i], xpos[i], charSizes[i], ypos[i], i) )
+		idInDSU[blockList[-1].hash()] = i
 	unionBlockByRectangleIntersect(dsu, blockList)
+	blockSetList = getBlockSetList(dsu, blockList)
+	fixSingleBlockContainAt(dsu, blockSetList, idInDSU)
 	blockSetList = getBlockSetList(dsu, blockList)
 	for i in range(len(blockSetList)):
 		blockSetList[i].sort(key = lambda x: (x.u+x.d)/2.0)
 	#print 'blockSetList', blockSetList
 
-	#GraphicManager.printRecWithWords(Tools.flatList(blockSetList))#绘图查看分块效果
+	#GraphicManager.printRecWithWords(Tools.flatList(blockSetList), idInDSU, dsu)#绘图查看分块效果
 
 	sortedIdxList = []
 	for blockset in blockSetList:

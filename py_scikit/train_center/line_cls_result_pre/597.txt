@@ -1,0 +1,7 @@
+Exploring Sensor Networks using Mobile Agents -><title>
+Daniel Massaguer†, Chien-Liang Fok‡, Nalini Venkatasubramanian†, -><author>
+Gruia-Catalin Roman‡, and Chenyang Lu‡ -><author>
+†Donald Bren School of Information and Computer Science ‡Department of Computer Science and Engineering -><affiliation>
+University of California, Irvine Washington University in Saint Louis -><address>
+Irvine, CA 92697, USA Saint Louis, MO, 63130, USA -><address>
+{dmassagu, nalini}@uci.edu {liang, roman, lu}@cse.wustl.edu -><email>

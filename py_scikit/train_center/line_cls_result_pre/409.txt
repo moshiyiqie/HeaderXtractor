@@ -1,0 +1,21 @@
+Diagnosis of Single and Multi-Agent Plans -><title>
+Cees Witteveen -><title>
+Faculty EEMCS -><author>
+Delft University of Technology -><affiliation>
+P.O.Box 5031, NL-2600 GA Delft -><address>
+Nico Roos -><author>
+Dept. of Computer Science -><affiliation>
+Universiteit Maastricht -><affiliation>
+P.O.Box 616, NL-6200 MD Maastricht -><address>
+witt@ewi.tudelft.nl -><email>
+roos@cs.unimaas.nl -><email>
+Roman van der Krogt -><author>
+Faculty EEMCS -><affiliation>
+Delft University of Technology -><affiliation>
+P.O.Box 5031, NL-2600 GA Delft -><address>
+Mathijs de Weerdt -><author>
+Faculty EEMCS -><affiliation>
+Delft University of Technology -><affiliation>
+P.O.Box 5031, NL-2600 GA Delft -><address>
+r.p.j.vanderkrogt@ewi.tudelft.nl -><email>
+m.m.deweerdt@ewi.tudelft.nl -><email>

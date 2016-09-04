@@ -1,0 +1,20 @@
+An Agent Based General Solution Model -><title>
+For the Course Timetabling Problem -><title>
+Raman Paranjape -><author>
+Electronic Systems Engineering -><affiliation>
+TRLabs Regina -><affiliation>
+University of Regina -><affiliation>
+1-306-7916137 -><phone>
+raman.paranjape@uregina.ca -><email>
+Luigi Benedicenti -><author>
+Software Systems Engineering -><affiliation>
+TRLabs Regina -><affiliation>
+University of Regina -><affiliation>
+1-306-5854855 -><phone>
+luigi.benedicenti@uregina.ca -><email>
+Yan Yang -><author>
+Electronic Systems Engineering -><affiliation>
+TRLabs Regina -><affiliation>
+University of Regina -><affiliation>
+1-306-7916141 -><phone>
+roc_young@hotmail.com -><email>

@@ -1,0 +1,14 @@
+Adaptive Agent Negotiation via Argumentation -><title>
+Pavlos Moraitis -><author>
+Dept. of Mathematics and Computer -><affiliation>
+Science -><affiliation>
+Antonis Kakas -><author>
+Dept. of Computer Science -><affiliation>
+University of Cyprus -><affiliation>
+75 Kallipoleos Str. -><address>
+1678 Nicosia, Cyprus -><address>
++35722892706 -><phone>
+75270 Paris Cedex 6, France -><address>
++33144553559 -><phone>
+antonis@cs.ucy.ac.cy -><email>
+pavlos@math-info.univ-paris5.fr -><email>

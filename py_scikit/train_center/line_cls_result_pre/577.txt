@@ -1,0 +1,16 @@
+Operationalisation of Norms for Usage in Electronic -><title>
+Institutions -><title>
+Huib Aldewereld∗ -><author>
+Frank Dignum -><author>
+Institute of Information and Computing Sciences -><affiliation>
+Utrecht University -><affiliation>
+The Netherlands -><address>
+Andre´s Garcı´a-Camino† -><unknow>
+Pablo Noriega -><author>
+Juan Antonio Rodrı´guez-Aguilar -><author>
+Carles Sierra -><author>
+Artificial Intelligence Research Institute, IIIA -><affiliation>
+Spanish Council for Scientific Research, CSIC -><note>
+Campus de la UAB, Barcelona, Spain -><affiliation>
+{huib, dignum}@cs.uu.nl -><email>
+{andres, pablo, jar, sierra}@iiia.csic.es -><email>

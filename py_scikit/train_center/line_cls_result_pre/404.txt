@@ -1,0 +1,12 @@
+ECASL : A Model of Rational Agency for Communicating -><title>
+Agents -><title>
+Yves Lespe´rance -><author>
+Department of Computer Science -><affiliation>
+York University -><affiliation>
+Toronto, ON, Canada M3J 1P3 -><address>
+Shakil M. Khan -><author>
+Department of Computer Science -><affiliation>
+York University -><affiliation>
+Toronto, ON, Canada M3J 1P3 -><address>
+lesperan@cs.yorku.ca -><email>
+skhan@cs.yorku.ca -><email>

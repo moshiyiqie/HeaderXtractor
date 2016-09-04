@@ -1,0 +1,22 @@
+Learning a Common Language Through an Emergent -><title>
+Interaction Topology -><title>
+Samarth Swarup -><author>
+Dept. of Computer Science, -><affiliation>
+University of Illinois at -><affiliation>
+Urbana-Champaign, -><address>
+Urbana, IL, USA -><address>
+Kiran Lakkaraju -><author>
+Dept. of Computer Science, -><affiliation>
+University of Illinois at -><affiliation>
+Urbana-Champaign, -><address>
+Urbana, IL, USA -><address>
+Les Gasser -><author>
+Graduate School of Library -><affiliation>
+and Information Science, and -><affiliation>
+Dept. of Computer Science, -><affiliation>
+University of Illinois at -><affiliation>
+Urbana-Champaign, -><address>
+Urbana, IL, USA -><address>
+swarup@uiuc.edu -><email>
+klakkara@uiuc.edu -><email>
+gasser@uiuc.edu -><email>

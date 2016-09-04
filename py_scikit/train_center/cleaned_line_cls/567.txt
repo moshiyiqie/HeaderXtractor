@@ -1,0 +1,6 @@
+Model Checking Knowledge, Strategies, and Games in -><title>
+Multi-Agent Systems -><title>
+Alessio Lomuscio, Franco Raimondi -><author>
+Department of Computer Science -><affiliation>
+University College London – London, UK -><affiliation>
+{a.lomuscio,f.raimondi}@cs.ucl.ac.uk -><email>

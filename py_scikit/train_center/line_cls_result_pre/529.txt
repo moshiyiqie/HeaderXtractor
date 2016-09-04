@@ -1,0 +1,8 @@
+Experimental analysis of privacy loss in DCOP algorithms -><title>
+Rachel Greenstadt∗ -><author>
+Harvard University -><affiliation>
+Jonathan P. Pearce, Emma Bowring and -><author>
+Milind Tambe† -><author>
+University of Southern California -><affiliation>
+greenie@eecs.harvard.edu -><email>
+{jppearce,bowring,tambe}@usc.edu -><email>

@@ -1,0 +1,14 @@
+﻿A Scalable Method for Online Learning of Non-linear -><title>
+Preferences Based on Anonymous Negotiation Data -><title>
+J.A. La Poutre´ -><author>
+CWI and Technical Univ. Eindhoven -><affiliation>
+School of Techn. Management -><affiliation>
+P.O. Box 513, 5600 MB Eindhoven, The -><address>
+Netherlands -><address>
+hlp@cwi.nl -><email>
+D.J.A. Somefun -><author>
+CWI, Center for Mathematics and Computer -><affiliation>
+Science -><affiliation>
+P.O. Box 94079, 1090 GB Amsterdam,The -><address>
+Netherlands -><address>
+koye@cwi.nl -><email>

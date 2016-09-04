@@ -1,0 +1,6 @@
+﻿Autonomous Agents for Air-Traffic Deconfliction -><title>
+Michal Peˇchoucˇek, David ˇSisˇla´k, Dusˇan Pavlı´cˇek and Miroslav Uller -><author>
+Gerstner Laboratory – Agent Technology Group -><affiliation>
+Department of Cybernetics, Czech Technical University -><affiliation>
+Technicka´ 2, Prague, 166 27, Czech Republic -><address>
+pechouc@labe.felk.cvut.cz -><email>

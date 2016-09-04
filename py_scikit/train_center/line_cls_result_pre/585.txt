@@ -1,0 +1,17 @@
+Decentralized Planning under Uncertainty -><title>
+for Teams of Communicating Agents -><title>
+Matthijs T.J. Spaan -><author>
+University of Amsterdam -><affiliation>
+Kruislaan 403, 1098 SJ -><address>
+Amsterdam, The Netherlands -><address>
+Geoffrey J. Gordon -><author>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213, USA -><address>
+Nikos Vlassis -><author>
+University of Amsterdam -><affiliation>
+Kruislaan 403, 1098 SJ -><address>
+Amsterdam, The Netherlands -><address>
+mtjspaan@science.uva.nl -><email>
+vlassis@science.uva.nl -><email>
+ggordon@cs.cmu.edu -><email>

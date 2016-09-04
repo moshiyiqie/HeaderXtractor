@@ -1,0 +1,5 @@
+Decision Making with Dynamically Arriving Information -><title>
+Meir Kalech1 -><author>
+Avi Pfeffer2 -><pubnum>
+1Information Systems Engineering Department, Ben-Gurion University, Israel, kalech@bgu.ac.il -><affiliation>
+2Charles River Analytics, USA, apfeffer@cra.com -><email>

@@ -1,0 +1,13 @@
+Symbolic Negotiation Revisited -><title>
+Peep Ku¨ngas -><author>
+Norwegian University of Science and Technology -><affiliation>
+Department of Computer and Information -><affiliation>
+Science -><affiliation>
+Trondheim, Norway -><address>
+Mihhail Matskin -><affiliation>
+Royal Institute of Technology -><affiliation>
+Department of Microelectronics -><affiliation>
+and Information Technology -><affiliation>
+Kista, Sweden -><address>
+misha@imit.kth.se -><email>
+peep@idi.ntnu.no -><email>

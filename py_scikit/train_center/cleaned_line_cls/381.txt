@@ -1,0 +1,6 @@
+Personalisation for User Agents -><title>
+J.J. Cole, M.J. Gray, J.W. Lloyd, and K.S. Ng -><author>
+Computer Sciences Laboratory -><affiliation>
+Research School of Information Sciences and Engineering -><affiliation>
+The Australian National University -><affiliation>
+{Joshua.Cole, Matt.Gray, John.Lloyd, Kee.Ng}@anu.edu.au -><email>

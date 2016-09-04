@@ -49,6 +49,17 @@ def singleDigitNumPer(line):
 			if str.isdigit(ch):
 				num+=1
 	return num*1.0/(all+1)
+
+def singleAlphaNumPer(line):
+	num=0
+	all=0
+	for word in line.split():
+		for ch in word:
+			all+=1
+			if str.isalpha(ch):
+				num+=1
+	return num*1.0/(all+1)
+
 def affiNumPer(line):
 	return countDic(line,WordSpecific.isAffi)[1]
 def addrNumPer(line):
@@ -146,7 +157,7 @@ def updateLineSpecificVector(line,vector):
 #CRFµÄÌØÕ÷Ñ¡Ôñ
 pickedFeature_CRF = [cap1NumPer, capAllNumPer, containDigit, allDigit, phoneNumPer, 
 					containDot, containDash, lonelyInitialPer, singleCharPer,
-					cap1Per, puncPer, emailPer, urlPer, authorPer, dateNumPer, noteNumPer, affiNumPer,keywordPer, shortPhrasePer]
+					cap1Per, puncPer, emailPer, urlPer, authorPer, dateNumPer, noteNumPer, affiNumPer,keywordPer, shortPhrasePer, singleDigitNumPer, singleAlphaNumPer]
 def updateForCRF(line,vector):
 	for fun in pickedFeature_CRF:
 		if not vector.has_key(fun.__name__):

@@ -1,0 +1,7 @@
+Avoiding the Prisoner’s Dilemma in Auction-based -><title>
+Negotiations for Highly Rugged Utility Spaces -><title>
+Ivan Marsa-Maestre, Miguel A. Lopez-Carmona, Juan R. Velasco and Enrique de la Hoz -><author>
+Computer Engineering Department, Universidad de Alcala -><affiliation>
+Ediﬁcio Politecnico, Ctra. N-II, Km 36.500 -><address>
+28871 Alcala de Henares (Madrid), Spain -><address>
+{ivan.marsa,miguelangel.lopez,juanramon.velasco,enrique.delahoz}@uah.es -><email>

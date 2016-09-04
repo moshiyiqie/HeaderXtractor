@@ -1,0 +1,7 @@
+An Online POMDP Algorithm for Complex Multiagent -><title>
+Environments -><title>
+Se´bastien Paquet, Ludovic Tobin and Brahim Chaib-draa -><author>
+DAMAS Laboratory -><affiliation>
+Department of Computer Science and Software Engineering -><affiliation>
+Laval University, Canada -><affiliation>
+{spaquet;tobin;chaib}@damas.ift.ulaval.ca -><email>

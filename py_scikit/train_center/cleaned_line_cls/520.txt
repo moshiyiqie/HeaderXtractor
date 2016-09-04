@@ -1,0 +1,9 @@
+﻿The MAPa Language of Agent Dialogues -><title>
+Marı´a Adela Grando∗ † -><author>
+Research Group on Mathematical Linguistics, -><affiliation>
+Rovira i Virgili University, -><affiliation>
+Tarragona, Spain. -><address>
+Christopher D. Walton‡ -><author>
+Centre for Intelligent Systems and their -><affiliation>
+Applications, School of Informatics, -><affiliation>
+University of Edinburgh, UK. -><affiliation>

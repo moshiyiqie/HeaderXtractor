@@ -1,0 +1,8 @@
+Stackelberg vs. Nash in Security Games: -><title>
+Interchangeability, Equivalence, and Uniqueness∗ -><title>
+Zhengyu Yin1, Dmytro Korzhyk2, Christopher Kiekintveld1, -><author>
+Vincent Conitzer2, and Milind Tambe1 -><author>
+1University of Southern California, Los Angeles, CA 90089, USA -><affiliation>
+{zhengyuy, kiekintv, tambe}@usc.edu -><email>
+2Duke University, Durham, NC 27708, USA -><affiliation>
+{dima, conitzer}@cs.duke.edu -><email>

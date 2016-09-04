@@ -1,0 +1,6 @@
+Distributed Automatic Target Recognition -><title>
+Using Multi-agent UAV Swarms -><title>
+Prithviraj Dasgupta -><author>
+Computer Science Department, -><affiliation>
+University of Nebraska, Omaha, NE 68182, USA -><affiliation>
+pdasgupta@mail.unomaha.edu -><email>

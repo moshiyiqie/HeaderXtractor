@@ -1,0 +1,8 @@
+Performance of Digital Pheromones for Swarming Vehicle -><title>
+Control -><title>
+John A. Sauter, Robert Matthews, H. Van Dyke Parunak, and Sven A. Brueckner -><author>
+Altarum Institute -><affiliation>
+3520 Green Court, Suite 300 -><address>
+Ann Arbor, MI 48105 USA -><author>
+734-302-4600 -><phone>
+{john.sauter, robert.matthews, van.parunak, sven.brueckner}@altarum.org -><email>

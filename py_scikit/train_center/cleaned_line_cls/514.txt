@@ -1,0 +1,9 @@
+Contextualizing Commitment Protocols∗ -><title>
+Munindar P. Singh -><author>
+North Carolina State University -><affiliation>
+Department of Computer Science -><affiliation>
+singh@ncsu.edu -><email>
+Amit K. Chopra∗ -><author>
+North Carolina State University -><affiliation>
+Department of Computer Science -><affiliation>
+akchopra@ncsu.edu -><email>

@@ -1,0 +1,11 @@
+﻿A Specification of the Agent Reputation and Trust (ART) -><title>
+Testbed: Experimentation and Competition for Trust in -><title>
+Agent Societies -><title>
+Karen K. Fullam1, Tomas B. Klos2, Guillaume Muller3, Jordi Sabater4, Andreas Schlosser5, Zvi -><author>
+Topol6, K. Suzanne Barber1, Jeffrey S. Rosenschein6, Laurent Vercouter3, and Marco Voss5 -><author>
+1Laboratory for Intelligent Processes and Systems, University of Texas at Austin, USA -><affiliation>
+2Center for Mathematics and Computer Science (CWI), Amsterdam, The Netherlands -><affiliation>
+3SMA/G2I— ´Ecole Nationale Supe´rieure des Mines, Saint- ´Etienne, France -><affiliation>
+4Institute of Cognitive Science and Technology (ISTC), National Research Council (CNR), Rome, Italy -><affiliation>
+5IT Transfer Office, Darmstadt University of Technology, Darmstadt, Germany -><affiliation>
+6Multiagent Systems Research Group—Critical MAS, Hebrew University, Jerusalem, Israel -><affiliation>

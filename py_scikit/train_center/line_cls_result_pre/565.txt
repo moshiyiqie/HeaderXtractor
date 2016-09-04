@@ -1,0 +1,17 @@
+Utility-based Collaboration among Autonomous Agents for -><affiliation>
+Resource Allocation in Data Centers -><affiliation>
+Rajarshi Das -><title>
+IBM Thomas J. Watson -><author>
+Research Center -><affiliation>
+Hawthorne, New York 10532 -><address>
+Ian Whalley -><author>
+IBM Thomas J. Watson -><affiliation>
+Research Center -><affiliation>
+Hawthorne, New York 10532 -><address>
+Jeffrey O. Kephart -><author>
+IBM Thomas J. Watson -><affiliation>
+Research Center -><affiliation>
+Hawthorne, New York 10532 -><address>
+rajarshi@us.ibm.com -><email>
+inw@us.ibm.com -><email>
+kephart@us.ibm.com -><email>

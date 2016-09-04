@@ -1,0 +1,11 @@
+Mathematical Programming for Deliberation Scheduling in -><title>
+Time-limited Domains -><title>
+∗ -><author>
+Jianhui Wu -><author>
+EECS Department, University of Michigan -><affiliation>
+Ann Arbor, MI 48109 USA -><affiliation>
+Edmund H. Durfee -><author>
+EECS Department, University of Michigan -><affiliation>
+Ann Arbor, MI 48109 USA -><author>
+jianhuiw@umich.edu -><email>
+durfee@umich.edu -><email>

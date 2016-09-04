@@ -1,0 +1,7 @@
+Extending the Recognition-Primed Decision Model to -><title>
+Support Human-Agent Collaboration -><title>
+Xiaocong Fan, Shuang Sun, Michale McNeese, and John Yen -><author>
+School of Information Sciences and Technology -><affiliation>
+The Pennsylvania State University -><affiliation>
+University Park, PA 16802 -><affiliation>
+{zfan, ssun, mmcneese, jyen}@ist.psu.edu -><email>

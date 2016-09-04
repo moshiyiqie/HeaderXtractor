@@ -1,0 +1,7 @@
+Merging Example Plans into Generalized Plans for -><title>
+Non-deterministic Environments -><title>
+Siddharth Srivastava Neil Immerman Shlomo Zilberstein -><author>
+Deptartment of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003 -><address>
+{siddharth, immerman, shlomo}@cs.umass.edu -><email>

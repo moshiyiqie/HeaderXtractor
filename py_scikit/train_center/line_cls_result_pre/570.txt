@@ -1,0 +1,13 @@
+Reasoning about Action and Cooperation -><title>
+Luigi Sauro -><author>
+Wiebe van der Hoek -><author>
+Michael Wooldridge -><author>
+Jelle Gerbrandy -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool, United Kingdom -><affiliation>
+Dipartimento di Informatica -><affiliation>
+University of Torino, Italia -><affiliation>
+jelle@gerbrandy.com -><email>
+wiebe@csc.liv.ac.uk -><email>
+mjw@csc.liv.ac.uk -><email>
+sauro@di.unito.it -><email>

@@ -1,0 +1,4 @@
+SeSAm: Implementation of Agent-Based Simulation Using -><title>
+Visual Programming -><title>
+Germany -><author>
+{kluegl, herrler, fehler}@informatik.uni-wuerzburg.de -><email>

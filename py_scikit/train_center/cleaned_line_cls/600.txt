@@ -1,0 +1,11 @@
+Real Time Target Evaluation Search -><title>
+Faruk Polat -><author>
+Department of Computer Engineering -><affiliation>
+Middle East Technical University -><affiliation>
+06531 Ankara, Turkey -><address>
+polat@ceng.metu.edu.tr -><email>
+Cagatay Undeger -><author>
+Department of Computer Engineering -><affiliation>
+Middle East Technical University -><affiliation>
+06531 Ankara, Turkey -><address>
+cundeger@ceng.metu.edu.tr -><email>

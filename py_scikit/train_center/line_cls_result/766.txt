@@ -1,0 +1,22 @@
+Modeling Recursive Reasoning by Humans Using -><title>
+Empirically Informed Interactive POMDPs -><title>
+Adam Goodie -><author>
+Dept. of Psychology -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA 30602 -><address>
+goodie@uga.edu -><email>
+Xia Qu -><author>
+Dept. of Computer Science -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA 30602 -><address>
+quxia@uga.edu -><email>
+Prashant Doshi -><author>
+Dept. of Computer Science -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA 30602 -><address>
+pdoshi@cs.uga.edu -><email>
+Diana Young -><author>
+Dept. of Psychology -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA 30602 -><address>
+dlyoung@uga.edu -><email>

@@ -1,0 +1,7 @@
+Communication Management Using Abstraction in -><title>
+Distributed Bayesian Networks -><title>
+Jiaying Shen and Victor Lesser -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003-4610 -><address>
+{jyshen, lesser}@cs.umass.edu -><email>

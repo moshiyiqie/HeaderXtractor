@@ -1,0 +1,5 @@
+Learning the Task Allocation Game ∗ -><title>
+Sherief Abdallah† and Victor Lesser -><author>
+University of Massachusetts -><affiliation>
+Amherst, MA -><address>
+{shario,lesser}@cs.umass.edu -><email>

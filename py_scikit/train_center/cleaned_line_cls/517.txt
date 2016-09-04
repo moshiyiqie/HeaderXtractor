@@ -1,0 +1,16 @@
+﻿An Ontology of Social Control Tools -><title>
+Philippe Pasquier -><author>
+DAMAS Laboratory -><affiliation>
+Laval University -><affiliation>
+G1K 7P4, Québec, Canada -><address>
+pasquier@iad.ift.ulaval.ca -><email>
+Brahim Chaib-draa -><author>
+DAMAS Laboratory -><affiliation>
+Laval University -><affiliation>
+G1K 7P4, Québec, Canada -><address>
+chaib@iad.ift.ulaval.ca -><email>
+Roberto A. Flores -><author>
+Christopher Newport -><affiliation>
+University -><affiliation>
+Newport News, VA 23606 -><address>
+flores@pcs.cnu.edu -><email>

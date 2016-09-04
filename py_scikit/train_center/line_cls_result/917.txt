@@ -1,0 +1,16 @@
+Markku Turunen -><author>
+University of Tampere -><affiliation>
+Kanslerinrinne 1 -><affiliation>
+How Was Your Day? A Companion ECA -><title>
+Raul Santos de la Camara -><author>
+Telefonica I+D -><degree>
+C / Emilio Vargas 6 -><degree>
+28043 Madrid -><phone>
+e.rsai@tid.es -><email>
+Marc Cavazza -><author>
+School of Computing -><affiliation>
+Teesside University -><affiliation>
+Middlesbrough TS1 3BA -><address>
+m.o.cavazza@tees.ac.uk -><email>
+FI-33014 -><phone>
+mturunen@cs.uta.fi -><email>

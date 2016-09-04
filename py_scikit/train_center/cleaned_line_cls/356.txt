@@ -1,0 +1,7 @@
+Exploiting a Sensed Environment to Improve Human-Agent -><title>
+Communication -><title>
+Shana Watters, Tim Miller, Praveen Balachandran, William Schuler, Richard Voyles -><author>
+Department of Computer Science and Engineering -><affiliation>
+University of Minnesota -><affiliation>
+Minneapolis, MN 55345 -><address>
+{watters,tmill,pkbalac,schuler,voyles}@cs.umn.edu -><email>

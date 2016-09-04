@@ -1,0 +1,12 @@
+Analyzing Characteristics of Task Structures to Develop -><title>
+GPGP Coordination Mechanisms -><title>
+Wei Chen -><author>
+University of Delaware -><affiliation>
+Department of Computer & Information Sciences -><affiliation>
+Newark, DE 19716 -><address>
+Keith S. Decker -><author>
+University of Delaware -><affiliation>
+Department of Computer & Information Sciences -><affiliation>
+Newark, DE 19716 -><address>
+decker@cis.udel.edu -><email>
+wchen@cis.udel.edu -><email>

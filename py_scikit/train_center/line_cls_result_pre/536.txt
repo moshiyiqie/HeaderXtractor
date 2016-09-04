@@ -1,0 +1,6 @@
+Asynchronous Chess Competition -><title>
+Nathaniel Gemelli, Robert Wright, James Lawton and Andrew Boes -><author>
+US Air Force Research Lab -><affiliation>
+Rome Research Site -><affiliation>
+Rome, NY, USA -><address>
+{Nathaniel.Gemelli, Robert.Wright, James.Lawton, Andrew.Boes}@rl.af.mil -><email>

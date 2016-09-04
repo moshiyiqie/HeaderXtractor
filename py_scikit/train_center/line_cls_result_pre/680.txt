@@ -1,0 +1,22 @@
+Learning to Cooperate in Multi-Agent Social Dilemmas -><title>
+Marcello Restelli -><author>
+Politecnico di Milano -><affiliation>
+Department of Electronics and -><affiliation>
+Information -><unknow>
+piazza Leonardo da Vinci 32, -><title>
+I-20133 Milan, Italy -><note>
+Alessandro Lazaric -><author>
+Politecnico di Milano -><affiliation>
+Department of Electronics and -><affiliation>
+Information -><unknow>
+piazza Leonardo da Vinci 32, -><note>
+I-20133 Milan, Italy -><note>
+Enrique Munoz de Cote -><author>
+Politecnico di Milano -><degree>
+Department of Electronics and -><degree>
+Information -><degree>
+piazza Leonardo da Vinci 32, -><degree>
+I-20133 Milan, Italy -><address>
+restelli@elet.polimi.it -><email>
+lazaric@elet.polimi.it -><email>
+munoz@elet.polimi.it -><email>

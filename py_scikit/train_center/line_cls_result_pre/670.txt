@@ -1,0 +1,11 @@
+Robust Game Play Against Unknown Opponents -><title>
+Michael Bowling -><author>
+Department of Computing Science -><affiliation>
+University of Alberta -><affiliation>
+Edmonton, Alberta, Canada T6G 2E8 -><address>
+Nathan Sturtevant -><author>
+Department of Computing Science -><affiliation>
+University of Alberta -><affiliation>
+Edmonton, Alberta, Canada T6G 2E8 -><address>
+bowling@cs.ualberta.ca -><email>
+nathanst@cs.ualberta.ca -><email>

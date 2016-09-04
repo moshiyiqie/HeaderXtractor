@@ -1,0 +1,8 @@
+Aggregation-mediated Collective Perception and Action in -><title>
+a Group of Miniature Robots -><title>
+Grégory Mermoud Loïc Matthey William C. Evans Alcherio Martinoli -><author>
+Distributed Intelligent Systems and Algorithms Laboratory -><affiliation>
+EPFL-ENAC-IIE-DISAL -><unknow>
+École Polytechnique Fédérale de Lausanne -><author>
+Lausanne, Switzerland -><address>
+{gregory.mermoud, loic.matthey, william.evans, alcherio.martinoli}@epfl.ch -><email>

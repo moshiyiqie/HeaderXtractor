@@ -1,0 +1,14 @@
+A Probabilistic Model for Trust and Reputation -><title>
+Ian MacGillivray -><author>
+Aston University -><affiliation>
+Birmingham, UK -><unknow>
+George Vogiatzis -><author>
+Computer Science -><affiliation>
+Aston University -><affiliation>
+Birmingham, UK -><address>
+g.vogiatzis@aston.ac.uk -><email>
+Maria Chli -><author>
+Computer Science -><affiliation>
+Aston University -><affiliation>
+Birmingham, UK -><address>
+m.chli@aston.ac.uk -><email>

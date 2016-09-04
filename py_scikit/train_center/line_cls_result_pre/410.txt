@@ -1,0 +1,12 @@
+Multi-Agent Reward Analysis for Learning in Noisy -><title>
+Domains -><title>
+Kagan Tumer -><author>
+NASA Ames Research Center -><affiliation>
+Mailstop 269-4 -><address>
+Moffett Field, CA 94035, USA -><address>
+Adrian Agogino -><author>
+UC Santa Cruz, NASA Ames Research Center -><affiliation>
+Mailstop 269-3 -><address>
+Moffett Field, CA 94035, USA -><address>
+ktumer@mail.arc.nasa.gov -><email>
+adrian@email.arc.nasa.gov -><email>

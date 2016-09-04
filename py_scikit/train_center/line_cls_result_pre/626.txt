@@ -1,0 +1,9 @@
+Multi-Agent Strategic Modeling -><title>
+in a Robotic Soccer Domain -><title>
+Ivan Bratko -><author>
+Andraz Bezek, Matjaz Gams -><author>
+Department of Intelligent Systems -><affiliation>
+Faculty of Computer and Information Science -><affiliation>
+University of Ljubljana -><affiliation>
+{andraz.bezek, matjaz.gams}@ijs.si -><email>
+bratko@fri.uni-lj.si -><email>

@@ -1,0 +1,11 @@
+Agent-Based Trust Model Involving Multiple Qualities -><title>
+E. Michael Maximilien -><author>
+IBM Almaden Research Center -><affiliation>
+650 Harry Road -><address>
+San Jose, CA 95120 -><address>
+maxim@us.ibm.com -><email>
+Munindar P. Singh -><author>
+North Carolina State University -><affiliation>
+Department of Computer Science -><affiliation>
+Raleigh, NC 27695 -><address>
+singh@ncsu.edu -><email>

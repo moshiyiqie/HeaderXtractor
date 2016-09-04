@@ -1,0 +1,16 @@
+﻿Camera-based Observation of Football Games -><title>
+for Analyzing Multi-agent Activities -><title>
+Michael Beetz -><author>
+beetz@in.tum.de -><email>
+Jan Bandouch -><author>
+bandouch@in.tum.de -><email>
+Suat Gedikli -><author>
+gedikli@in.tum.de -><email>
+Nico v. Hoyningen-Huene -><author>
+hoyninge@in.tum.de -><email>
+Bernhard Kirchlechner -><author>
+kirchlec@in.tum.de -><email>
+Alexis Maldonado -><author>
+maldonad@in.tum.de -><email>
+Intelligent Autonomous Systems Group -><affiliation>
+Technische Universita¨t Mu¨nchen, Munich, Germany -><affiliation>

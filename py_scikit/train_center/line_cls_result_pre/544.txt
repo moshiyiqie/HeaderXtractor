@@ -1,0 +1,12 @@
+CONOISE-G: Agent-Based Virtual Organisations -><title>
+Jigar Patel, W.T. Luke Teacy, Nicholas R. Jennings, Michael Luck -><author>
+School of Electronics and Computer Science, University of Southampton, UK -><affiliation>
+{jp03r,wtlt03r,nrj,mml}@ecs.soton.ac.uk -><email>
+Stuart Chalmers, Nir Oren, Timothy J. Norman, Alun Preece, Peter M. D. Gray -><author>
+Department of Computing Science, University of Aberdeen, UK -><affiliation>
+{schalmer,noren,tnorman,apreece}@csd.abdn.ac.uk -><email>
+Gareth Shercliff, Patrick J. Stockreisser, Jianhua Shao, W. Alex Gray, Nick J. Fiddian -><author>
+School of Computer Science, Cardiff University, UK -><affiliation>
+{p.j.stockreisser,g.shercliff,j.shao,w.a.gray,n.j.fiddian}@cs.cardiff.ac.uk -><email>
+Simon Thompson, BT Group, Adastral Park, United Kingdom -><author>
+simon.2.thompson@bt.com -><email>

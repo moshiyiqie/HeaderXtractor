@@ -1,0 +1,7 @@
+Participatory, Embodied, Multi-Agent Simulation -><title>
+Paulo Blikstein William Rand Uri Wilensky -><author>
+Northwestern University -><affiliation>
+2120 N. Campus Dr. -><address>
+Evanston, IL 60208 USA -><address>
++1 (847) 467-7329 -><phone>
+{paulo, wrand, uri}@northwestern.edu -><email>

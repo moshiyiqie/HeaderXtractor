@@ -1,0 +1,13 @@
+Optimal Design in Collaborative Design Network -><title>
+J. Chen -><author>
+University of Guelph -><affiliation>
+Canada -><address>
+junjiang@uoguelph.ca -><email>
+W.S. Havens -><author>
+Simon Fraser University -><affiliation>
+Canada -><address>
+havens@cs.sfu.ca -><email>
+Y. Xiang -><author>
+University of Guelph -><affiliation>
+Canada -><address>
+yxiang@cis.uoguelph.ca -><email>

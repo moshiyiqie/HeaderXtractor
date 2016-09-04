@@ -46,8 +46,8 @@ def fixForCheckIfNoAuthor(header, label):
 def fixForContainUniversity(header, label):
 	words = ['universit', 'university', 'univercity', 'universite', 'institute', 'departamen', 'lab']
 	newLabel = label[:]
-	if(len(header[i].split()) >= 10) return newLabel
 	for i in range(len(label)):
+		if(len(header[i].split()) >= 10): continue
 		if any([(word in header[i].lower()) for word in words ]):
 			newLabel[i] = '<affiliation>'
 	return newLabel

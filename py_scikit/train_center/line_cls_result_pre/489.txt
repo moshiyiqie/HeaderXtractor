@@ -1,0 +1,6 @@
+Developing a Composite Trust Model -><title>
+for Multi-agent Systems -><title>
+Xiaoqing Zheng, Zhaohui Wu, Huajun Chen, Yuxin Mao -><author>
+College of Computer Science, Zhejiang University, Hangzhou 310027, China -><affiliation>
++86 - 0571 - 87953703 -><phone>
+{zxqingcn, wzh, huajunsir, maoyx}zju.edu.cn -><email>

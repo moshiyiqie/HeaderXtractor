@@ -1,0 +1,8 @@
+Modeling Uncertain Domains with Polyagents -><title>
+H. Van Dyke Parunak, Sven Brueckner -><author>
+Altarum Institute -><affiliation>
+3520 Green Court -><address>
+Suite 300 -><address>
+Ann Arbor, MI 48105 USA -><author>
++1 734 302 4600 -><phone>
+{van.parunak, sven.brueckner}@altarum.org -><email>

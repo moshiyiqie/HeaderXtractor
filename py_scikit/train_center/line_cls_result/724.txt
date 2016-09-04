@@ -1,0 +1,15 @@
+Modeling Collision Avoidance Behavior for Virtual Humans -><title>
+∗ -><title>
+Stephen J. Guy -><author>
+Dept. of Computer Science -><affiliation>
+UNC - Chapel Hill, NC -><address>
+sjguy@cs.unc.edu -><email>
+Ming C. Lin -><author>
+Dept. of Computer Science -><affiliation>
+UNC - Chapel Hill, NC -><affiliation>
+lin@cs.unc.edu -><email>
+Dinesh Manocha -><author>
+Dept. of Computer Science -><affiliation>
+UNC - Chapel Hill, NC -><address>
+dm@cs.unc.edu -><email>
+http://gamma.cs.unc.edu/research/crowds/ -><web>

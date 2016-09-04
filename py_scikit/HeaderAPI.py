@@ -37,7 +37,7 @@ if __name__ == '__main__':
 	#path = 'D:/acm_paper/TAO-TEST/3.pdf'
 	#title, dicSet, header, predictLabel=run(path, 'D:/acm_paper/TAO-TEST-HEAD')
 	
-	path = 'D:/acm_paper/TAO-TEST/32.pdf'
+	path = 'D:/acm_paper/TAO-TEST/305.pdf'
 	print '================'+os.path.split(path)[1]+'================='
 	title, dicSet, header, predictLabel=run(path, 'D:/acm_paper/TAO-TEST-HEAD')
 

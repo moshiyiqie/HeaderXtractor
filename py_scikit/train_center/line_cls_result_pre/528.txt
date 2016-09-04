@@ -1,0 +1,8 @@
+The DynCOAA Algorithm for Dynamic Constraint -><title>
+Optimization Problems -><title>
+Koenraad Mertens, Tom Holvoet, Yolande Berbers -><author>
+AgentWise, Distrinet -><affiliation>
+Department of Computer Science, K.U.Leuven -><affiliation>
+200A, Celestijnenlaan -><address>
+3001 Leuven, Belgium -><address>
+{Koenraad.Mertens, Tom.Holvoet, Yolande.Berbers}@cs.kuleuven.be -><email>

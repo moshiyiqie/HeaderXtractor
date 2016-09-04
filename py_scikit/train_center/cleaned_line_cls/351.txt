@@ -1,0 +1,5 @@
+An Integrated Token-Based Algorithm for Scalable -><affiliation>
+Coordination -><title>
+Yang Xu+, Paul Scerri∗, Bin Yu∗, Steven Okamoto∗, Michael Lewis+ and Katia Sycara∗ -><author>
++ University of Pittsburgh, ∗ Carnegie Mellon University -><affiliation>
+yxu@sis.pitt.edu, {pscerri, byu, sokamoto}@cs.cmu.edu, ml@sis.pitt.edu, katia@cs.cmu.edu -><email>

@@ -1,0 +1,12 @@
+Implantable Medical Devices as Agents and Part of -><title>
+Multiagent Systems -><title>
+Maria Gini -><author>
+University of Minnesota -><affiliation>
+4-192 EE/CSci, 200 Union St SE -><address>
+Minneapolis, MN 55455 -><address>
+Touby Drew -><author>
+Medtronic Neurological, Inc. -><affiliation>
+800 53rd Avenue NE; MS N240 -><address>
+Columbia Heights, MN, 55421-1200 -><address>
+gini@cs.umn.edu -><email>
+touby.drew@medtronic.com -><email>

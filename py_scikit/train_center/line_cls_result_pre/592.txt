@@ -1,0 +1,7 @@
+Resource Allocation Among Agents with Preferences -><title>
+Induced by Factored MDPs -><title>
+Dmitri Dolgov and Edmund Durfee -><author>
+Department of Electrical Engineering and Computer Science -><affiliation>
+University of Michigan -><affiliation>
+Ann Arbor, MI 48109 -><author>
+{ddolgov, durfee}@umich.edu -><email>

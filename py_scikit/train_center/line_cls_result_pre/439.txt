@@ -1,0 +1,14 @@
+Hierarchical Planning in BDI Agent Programming -><title>
+Languages: A Formal Approach∗ -><title>
+Sebastian Sardina -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+Lavindra de Silva -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+Lin Padgham -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+ssardina@cs.rmit.edu.au -><email>
+ldesilva@cs.rmit.edu.au -><email>
+linpa@cs.rmit.edu.au -><email>

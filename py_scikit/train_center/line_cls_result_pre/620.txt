@@ -1,0 +1,11 @@
+Managing Social Influences through -><title>
+Argumentation-Based Negotiation -><title>
+Nishan C. Karunatillake1, Nicholas R. Jennings1, Iyad Rahwan2, Sarvapali D. Ramchurn1 -><author>
+1 School of Electronics and Computer Science -><affiliation>
+2Institute of Informatics -><affiliation>
+University of Southampton -><address>
+Southampton, SO17 1BJ, UK. -><address>
+The British University in Dubai -><affiliation>
+P.O.Box 502216 Dubai, UAE. -><address>
+{nnc02r,nrj,sdr}@ecs.soton.ac.uk -><email>
+irahwan@acm.org -><email>

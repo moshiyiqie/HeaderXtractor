@@ -1,0 +1,34 @@
+UAV Airspace Management System UAMS ∗ -><title>
+Regis Vincent -><author>
+SRI International -><affiliation>
+333 Ravenswood Ave -><address>
+Menlo Park, CA 94403 -><address>
+Osher Yagdar -><author>
+SRI International -><affiliation>
+333 Ravenswood Ave -><address>
+Menlo Park, CA 94403 -><address>
+Andrew Agno -><author>
+SRI International -><affiliation>
+333 Ravenswood Ave -><address>
+Menlo Park, CA 94403 -><address>
+vincent@ai.sri.com -><email>
+yagdar@ai.sri.com -><email>
+agno@ai.sri.com -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial In- -><note>
+telligence—coherence and coordination, intelligent agents, -><note>
+languages and structures, multiagent systems.complexity mea- -><abstract>
+sures, performance measures -><abstract>
+Keywords -><abstract>
+multi-agent simulation, air space management, robotics -><abstract>
+1. UAV COLLISION AVOIDANCE -><abstract>
+As technology advances, unmanned aerial vehicles (UAVs) -><abstract>
+are capable of more complex missions. Miniaturization re- -><abstract>
+sults in a migration of capability from larger to smaller UAV -><abstract>
+platforms and in cost reduction. According to the DoDs -><abstract>
+Unmanned Aircraft Systems Roadmap 2005-2030, military -><abstract>
+UAVs are now required to execute intelligence, surveillance, -><abstract>
+reconnaissance, strike, suppression of enemy air defense, elec- -><abstract>
+tronic attack, communications, aerial delivery, and resupply -><abstract>
+missions. It is therefore evident that UAV developments re- -><abstract>
+quire a more intelligent and autonomous airspace and mis- -><abstract>

@@ -1,0 +1,19 @@
+Characterising and Matching Iterative and Recursive Agent -><title>
+Interaction Protocols -><title>
+Tim Miller -><author>
+Dept. of Computer Science and Software Eng. -><affiliation>
+University of Melbourne -><affiliation>
+Victoria, 3010, Australia -><address>
+tmiller@unimelb.edu.au -><email>
+Peter McBurney -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool, L69 7ZF, UK -><address>
+mcburney@liverpool.ac.uk -><email>
+Categories and Subject Descriptors -><keyword>
+I.2.11 [Artiﬁcial Intelligence]: Distributed Artiﬁcial In- -><keyword>
+telligence—Multiagent systems -><keyword>
+General Terms -><keyword>
+Algorithms, Languages -><keyword>
+Keywords -><keyword>
+multi-agent systems, interaction protocols, characterisation -><keyword>

@@ -1,0 +1,6 @@
+On Events in Multi-Robot Patrol in Adversarial -><title>
+Environments -><title>
+Noa Agmon -><author>
+Department of Computer Science and Applied Mathematics -><affiliation>
+Weizmann Institute of Science, Israel -><affiliation>
+noa.agmon@weizmann.ac.il -><email>

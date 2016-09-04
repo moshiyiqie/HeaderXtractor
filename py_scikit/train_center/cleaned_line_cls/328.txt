@@ -1,0 +1,7 @@
+IDReAM: Intrusion Detection and Response executed with -><title>
+Agent Mobility -><title>
+Architecture and Implementation -><title>
+Noria Foukia -><author>
+Information Sciences Institute (USC) -><affiliation>
+Network Systems Laboratory -><affiliation>
+foukia@isi.edu -><email>

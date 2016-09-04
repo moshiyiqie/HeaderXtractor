@@ -1,0 +1,6 @@
+Winning back the CUP for distributed POMDPs: Planning -><title>
+over continuous belief spaces -><title>
+Pradeep Varakantham, Ranjit Nair∗, Milind Tambe, Makoto Yokoo∗∗ -><author>
+University of Southern California, Los Angeles, CA 90089, {varakant, tambe}@usc.edu -><email>
+∗ Automation and Control Solutions, Honeywell Laboratories, Minneapolis, MN 55418, ranjit.nair@honeywell.com -><email>
+∗∗ Dept. of Intelligent Systems, Kyushu University, Fukuoka, 812-8581 Japan, yokoo@is.kyushu-u.ac.jp -><email>

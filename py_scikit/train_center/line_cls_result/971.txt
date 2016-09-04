@@ -1,0 +1,18 @@
+On the Role of Distances in Deﬁning Voting Rules -><title>
+Arkadii Slinko -><author>
+Department of Mathematics -><affiliation>
+University of Auckland -><affiliation>
+New Zealand -><address>
+slinko@math.auckland.ac.nz -><email>
+Edith Elkind -><author>
+School of Physical and -><affiliation>
+Mathematical Sciences -><affiliation>
+Nanyang Technological -><affiliation>
+University, Singapore -><affiliation>
+eelkind@gmail.com -><email>
+Piotr Faliszewski -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+AGH University of Science -><affiliation>
+and Technology, Poland -><address>
+faliszew@agh.edu.pl -><email>

@@ -1,0 +1,13 @@
+Efficient Learning of Multi-step Best Response -><title>
+Jing Peng -><author>
+Department of Electrical Engineering & -><affiliation>
+Computer Science -><affiliation>
+Tulane University -><affiliation>
+New Orleans, LA 70118. USA -><address>
+jp@eecs.tulane.edu -><email>
+Bikramjit Banerjee -><author>
+Department of Electrical Engineering & -><affiliation>
+Computer Science -><affiliation>
+Tulane University -><affiliation>
+New Orleans, LA 70118. USA -><address>
+banerjee@eecs.tulane.edu -><email>

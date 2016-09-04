@@ -1,0 +1,16 @@
+On Learning In Agent-Centered Search -><title>
+Vadim Bulitko -><author>
+Dept. of Computing Science -><affiliation>
+University of Alberta -><affiliation>
+Edmonton, Alberta, Canada -><address>
+bulitko@ualberta.ca -><email>
+Nathan R. Sturtevant -><author>
+Dept. of Computing Science -><affiliation>
+University of Alberta -><affiliation>
+Edmonton, Alberta, Canada -><address>
+nathanst@cs.ualberta.ca -><email>
+Yngvi Björnsson -><author>
+School of Computer Science -><affiliation>
+Reykjavik University -><affiliation>
+Reykjavik, Iceland -><address>
+yngvi@ru.is -><email>

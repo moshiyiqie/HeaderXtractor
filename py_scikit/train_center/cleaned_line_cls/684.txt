@@ -1,0 +1,6 @@
+Learning Executable Agent Behaviors from Observation -><title>
+Andrew Guillory, Hai Nguyen, Tucker Balch, Charles Lee Isbell, Jr. -><author>
+College of Computing -><affiliation>
+Georgia Institute of Technology -><affiliation>
+Atlanta, GA 30332 -><address>
+{guillory, haidai, tucker, isbell}@cc.gatech.edu -><email>

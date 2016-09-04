@@ -1,0 +1,7 @@
+Exploiting Belief Bounds: Practical POMDPs for Personal -><title>
+Assistant Agents -><title>
+Pradeep Varakantham, Rajiv Maheswaran, and Milind Tambe -><author>
+Department of Computer Science -><affiliation>
+University of Southern California -><affiliation>
+Los Angeles, CA, 90089 -><address>
+{varakant, maheswar, tambe}@usc.edu -><email>

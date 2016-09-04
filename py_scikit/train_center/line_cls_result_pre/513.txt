@@ -1,0 +1,11 @@
+On the Semantics of Conditional Commitment -><title>
+Yves Lespe´rance -><author>
+Department of Computer Science and -><affiliation>
+Engineering -><affiliation>
+Toronto, ON, Canada M3J 1P3 -><address>
+Shakil M. Khan -><author>
+Department of Computer Science and -><affiliation>
+Engineering -><affiliation>
+Toronto, ON, Canada M3J 1P3 -><address>
+lesperan@cs.yorku.ca -><email>
+skhan@cs.yorku.ca -><email>

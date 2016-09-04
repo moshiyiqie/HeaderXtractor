@@ -1,0 +1,11 @@
+A Logical Framework for Prioritized Goal Change -><title>
+Shakil M. Khan -><author>
+Dept. of Computer Science and Engineering -><affiliation>
+York University -><affiliation>
+Toronto, ON, Canada -><address>
+skhan@cse.yorku.ca -><email>
+Yves Lespérance -><author>
+Dept. of Computer Science and Engineering -><affiliation>
+York University -><affiliation>
+Toronto, ON, Canada -><address>
+lesperan@cse.yorku.ca -><email>

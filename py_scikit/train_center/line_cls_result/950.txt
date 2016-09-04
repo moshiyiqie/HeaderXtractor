@@ -1,0 +1,6 @@
+Exploiting Scale Invariant Dynamics for Efﬁcient -><title>
+Information Propagation in Large Teams -><title>
+Robin Glinton, Paul Scerri, Katia Sycara -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+rglinton,pscerri,katia@cs.cmu.edu -><email>

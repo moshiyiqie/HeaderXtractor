@@ -1,0 +1,19 @@
+Performance of Pheromone Model for -><title>
+Predicting Traffic Congestion -><title>
+Shinichi Honiden -><author>
+National Institute of Informatics -><affiliation>
+Tokyo 101-8430, Japan -><address>
+Yasushi Ando, -><author>
+Yoshiaki Fukazawa -><author>
+Department of Science and -><affiliation>
+Engineering, Waseda University -><affiliation>
+Tokyo 169-8555, Japan -><address>
+Osamu Masutani, -><author>
+Hirotoshi Iwasaki -><author>
+DENSO IT Laboratory, Inc. -><affiliation>
+Tokyo 150-0002, Japan -><address>
+{omasutani,hiwasaki}@d- -><email>
+itlab.co.jp -><affiliation>
+honiden@nii.ac.jp -><email>
+ando@fuka.info.waseda.ac.jp, -><email>
+fukazawa@waseda.jp -><email>

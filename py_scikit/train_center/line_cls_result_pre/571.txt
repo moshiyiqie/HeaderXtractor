@@ -1,0 +1,8 @@
+Agent Interface Enhancement: -><title>
+Making Multiagent Graphical Models Accessible -><title>
+Yang Xiang -><author>
+University of Guelph, Canada -><affiliation>
+Kun Zhang -><author>
+University of Guelph, Canada -><affiliation>
+yxiang@cis.uoguelph.ca -><email>
+zhangk@uoguelph.ca -><email>

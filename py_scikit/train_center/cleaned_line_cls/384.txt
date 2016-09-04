@@ -1,0 +1,14 @@
+AmbieAgents: A Scalable Infrastructure for Mobile and -><title>
+Context-Aware Information Services -><title>
+Till C. Lech -><author>
+CognIT a.s -><affiliation>
+Meltzersgt. 4 -><address>
+N-0257 Oslo, Norway -><address>
++47 22540520 -><phone>
+Till.Lech@cognit.no -><email>
+Leendert W. M. Wienhofen -><author>
+CognIT a.s -><affiliation>
+Meltzersgt. 4 -><address>
+N-0257 Oslo, Norway -><address>
++47 22540520 -><phone>
+Leendert.Wienhofen@cognit.no -><email>

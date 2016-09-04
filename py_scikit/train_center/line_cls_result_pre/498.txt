@@ -1,0 +1,26 @@
+Belief Revision for AgentSpeak Agents -><title>
+Rafael H. Bordini -><author>
+University of Durham -><affiliation>
+Dept. of Computer Science -><affiliation>
+Durham, UK -><address>
+Natasha Alechina -><author>
+University of Nottingham -><affiliation>
+School of Computer Science -><affiliation>
+Nottingham, UK -><address>
+Jomi Fred Hu¨bner -><author>
+Univ. Regional de Blumenau -><affiliation>
+Dept. Sistemas e Computac¸a˜o -><affiliation>
+Blumenau, SC, Brazil -><address>
+r.bordini@durham.ac.uk -><email>
+jomi@inf.furb.br -><email>
+nza@cs.nott.ac.uk -><email>
+Brian Logan -><author>
+University of Nottingham -><affiliation>
+School of Computer Science -><affiliation>
+Nottingham, UK -><unknow>
+Mark Jago -><author>
+University of Nottingham -><affiliation>
+School of Computer Science -><affiliation>
+Nottingham, UK -><address>
+mtw@cs.nott.ac.uk -><email>
+bsl@cs.nott.ac.uk -><email>

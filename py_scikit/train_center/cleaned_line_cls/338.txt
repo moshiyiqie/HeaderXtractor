@@ -1,0 +1,14 @@
+﻿Emerging Collective Behavior in a Simple Artificial -><title>
+Financial Market -><title>
+Alexandre T. Baraviera -><author>
+Instituto de Matema´tica, UFRGS -><affiliation>
+91509-900 Porto Alegre RS Brazil -><address>
+baravi@mat.ufrgs.br -><email>
+Roberto da Silva and Ana L. C. Bazzan -><author>
+Instituto de Informa´tica, UFRGS -><affiliation>
+C.P. 15064 – 91501-970 Porto Alegre, RS, Brazil -><address>
+{rdasilva,bazzan}@inf.ufrgs.br -><email>
+Sı´lvio R. Dahmen -><author>
+Instituto de Fı´sica, UFRGS -><affiliation>
+C.P. 15051 – 90570-051 Porto Alegre RS Brazil -><address>
+dahmen@if.ufrgs.br -><email>

@@ -1,0 +1,18 @@
+Internal Implementation ∗ -><title>
+Yoav Shoham -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+Stanford University -><affiliation>
+Ashton Anderson -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+Stanford University -><affiliation>
+ashton@cs.stanford.edu -><email>
+Alon Altman -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+Stanford University -><affiliation>
+epsalon@stanford.edu -><email>
+Microsoft Israel R&D Center -><affiliation>
+Herzliya Pituach, Israel -><address>
+shoham@stanford.edu -><email>

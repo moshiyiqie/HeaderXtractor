@@ -1,0 +1,15 @@
+Exact Solutions of Interactive POMDPs Using Behavioral -><title>
+Equivalence -><title>
+Prashant Doshi -><author>
+Dept. of Computer Science -><affiliation>
+University of Georgia -><affiliation>
+Piotr Gmytrasiewicz -><author>
+Dept. of Computer Science -><affiliation>
+University of Illinois at Chicago -><affiliation>
+Bharanee -><unknow>
+Rathnasabapathy -><author>
+Dept. of Computer Science -><affiliation>
+University of Illinois at Chicago -><affiliation>
+pdoshi@cs.uga.edu -><email>
+piotr@cs.uic.edu -><email>
+brathnas@cs.uic.edu -><email>

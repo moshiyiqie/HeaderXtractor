@@ -1,0 +1,12 @@
+How important are updating schemes in multi-agent -><title>
+systems? An illustration on a multi-turmite model. -><title>
+Nazim Fatès -><title>
+INRIA Nancy Grand-Est - LORIA -><author>
+615 rue du Jardin Botanique -><author>
+54 600 Villers-lès-Nancy ; France -><phone>
+nazim.fates@loria.fr -><email>
+Vincent Chevrier -><author>
+Nancy University UHP - LORIA -><affiliation>
+Campus Scientiﬁque — B.P. 239 -><address>
+54 506 Vandoeuvre-lès-Nancy, France -><address>
+vincent.chevrier@loria.fr -><email>

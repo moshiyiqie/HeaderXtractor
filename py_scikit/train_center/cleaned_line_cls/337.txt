@@ -1,0 +1,7 @@
+Global Convergence of Local Agent Behaviors -><title>
+H. Van Dyke Parunak, Sven A. Brueckner, John A. Sauter, Robert Matthews -><author>
+Altarum Institute -><affiliation>
+3520 Green Court, Suite 300 -><address>
+Ann Arbor, MI 48105 USA -><address>
+1-734-302-4600 -><phone>
+{van.parunak, sven.brueckner, john.sauter, robert.matthews}@altarum.org -><email>

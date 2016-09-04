@@ -1,0 +1,9 @@
+Auctioning Transformable Goods -><title>
+Andrea Giovannucci -><author>
+Juan A. Rodrı´guez-Aguilar -><author>
+IIIA-CSIC, Campus UAB, 08193 Bellaterra, Spain -><address>
+{andrea, jar}@iiia.csic.es -><email>
+Jesu´s Cerquides -><author>
+Dept. de Matema`tica Aplicada i Ana`lisi, Universitat de -><affiliation>
+Barcelona, Gran Via, 585, 08007, Barcelona, Spain -><address>
+cerquide@maia.ub.es -><email>

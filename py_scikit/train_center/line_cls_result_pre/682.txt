@@ -1,0 +1,15 @@
+Multi-agent Reinforcement Learning Algorithm -><title>
+to Handle Beliefs of Other Agents’ Policies -><title>
+and Embedded Beliefs -><title>
+Kazuyuki Aihara -><author>
+Institute of Industrial Science, the University of Tokyo -><affiliation>
+4-6-1 Komaba, Meguro-ku, Tokyo 153-8505 Japan -><address>
+Takaki Makino -><author>
+Dept. of Frontier Sciences and Science -><affiliation>
+Integration, the University of Tokyo -><affiliation>
+5-1-5 Kashiwa-no-ha, -><address>
+Kashiwa, Chiba, 277-8568 Japan -><address>
+ERATO Aihara Complexity Modelling Project, JST -><affiliation>
+3-23-5 Uehara, Shibuya-ku, Tokyo 151-0064 Japan -><address>
+mak@cb.k.u-tokyo.ac.jp -><email>
+aihara@sat.t.u-tokyo.ac.jp -><email>

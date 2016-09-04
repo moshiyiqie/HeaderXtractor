@@ -1,0 +1,7 @@
+﻿Implementing Norms in Electronic Institutions -><title>
+A. Garcia-Camino, P. Noriega, J. A. Rodrı´guez-Aguilar -><author>
+Artificial Intelligence Research Institute, IIIA -><affiliation>
+Spanish Council for Scientific Research, CSIC -><affiliation>
+Campus de la UAB -><affiliation>
+08193 Bellaterra, Barcelona, Spain -><address>
+{andres,jar,pablo}@iiia.csic.es -><email>

@@ -123,8 +123,8 @@ def getOneLineFeatureStr(line):
 			feature += 'MID '
 	
 	wordDic={}
-	for word in text.split():
-		WordSpecific.updateWordSpecificVector(word, wordDic)
+	#for word in text.split():
+	WordSpecific.updateWordSpecificVectorOneLine(text[:], wordDic)
 	for key in wordDic:
 		wordDic[key] = wordDic[key]*1.0/len(text.split())
 		#feature += key + ':' + str(wordDic[key]*1.0/len(text.split())) + ' '

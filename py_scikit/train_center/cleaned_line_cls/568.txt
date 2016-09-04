@@ -1,0 +1,5 @@
+Model Checking for Multivalued Logic of Knowledge and Time -><title>
+Beata Konikowska and Wojciech Penczek ∗ -><author>
+Institute of Computer Science, PAS -><affiliation>
+Ordona 21, 01-237 Warsaw, Poland -><address>
+email: {beatak,penczek}@ipipan.waw.pl -><email>

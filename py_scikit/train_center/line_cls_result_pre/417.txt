@@ -1,0 +1,10 @@
+Reciprocal Resource Sharing in P2P Environments -><title>
+Prithviraj Dasgupta -><author>
+Computer Science Department -><affiliation>
+University of Nebraska, Omaha -><affiliation>
+Dipyaman Banerjee, Sabyasachi Saha, -><unknow>
+Sandip Sen -><author>
+Department of Math & Computer Science -><affiliation>
+The University of Tulsa -><affiliation>
+pdasgupta@mail.unomaha.edu -><email>
+{dipu,saby,sandip}@utulsa.edu -><email>

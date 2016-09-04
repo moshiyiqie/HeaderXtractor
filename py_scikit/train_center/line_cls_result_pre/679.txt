@@ -1,0 +1,7 @@
+Reinforcement Learning for -><title>
+Declarative Optimization-Based Drama Management -><title>
+Mark J. Nelson, David L. Roberts, Charles L. Isbell, Jr., Michael Mateas -><author>
+College of Computing -><affiliation>
+Georgia Institute of Technology -><affiliation>
+Atlanta, Georgia, USA -><address>
+{mnelson, robertsd, isbell, michaelm}@cc.gatech.edu -><email>

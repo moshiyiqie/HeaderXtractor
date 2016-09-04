@@ -1,0 +1,9 @@
+Commercializing a Multiagent-Supported Collaborative -><title>
+System -><title>
+Leen-Kiat Soh and Hong Jiang -><author>
+I-MINDS, LLC -><affiliation>
+Computer Science and Engineering -><affiliation>
+University of Nebraska-Lincoln -><affiliation>
+256 Avery Hall, Lincoln, NE 66588-0115 -><address>
+1-402-472-6738 -><phone>
+{lksoh, jiang}@cse.unl.edu -><email>

@@ -1,0 +1,10 @@
+What Agents Can Achieve under Incomplete Information -><title>
+∗ -><title>
+Wojciech Jamroga -><author>
+Institute of Computer Science -><affiliation>
+Clausthal University of Technology, Germany -><affiliation>
+Thomas Ågotnes -><author>
+Department of Informatics -><affiliation>
+University of Bergen, Norway -><affiliation>
+wjamroga@in.tu-clausthal.de -><email>
+agotnes@ii.uib.no -><email>

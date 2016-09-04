@@ -1,0 +1,6 @@
+Rapid On-line Temporal Sequence Prediction by an -><title>
+Adaptive Agent -><title>
+Steven Jensen, Daniel Boley, Maria Gini, and Paul Schrater -><author>
+Department of Computer Science and Engineering -><affiliation>
+University of Minnesota -><affiliation>
+{sjensen,boley,gini,schrater}@cs.umn.edu -><email>

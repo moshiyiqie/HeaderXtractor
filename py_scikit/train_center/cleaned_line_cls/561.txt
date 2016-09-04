@@ -1,0 +1,17 @@
+﻿A Hotel Information System implementation using MAS -><title>
+technology -><title>
+Marco Julio Robles P. -><author>
+Héctor Hernández T. -><author>
+Victor Soto Ramírez. -><author>
+Edgar Gutiérrez S. -><author>
+TCA Research Group -><affiliation>
+Monterrey, N.L. Me´xico -><address>
+{mjrobles,hhernandez,vsoto,egutierrez} -><email>
+@grupotca.com -><email>
+Armando Robles P. -><author>
+Pablo Noriega B.V. -><author>
+Institut d’Investigacio´ en Intel·lige`ncia Artificial -><affiliation>
+IIIA-CSIC. -><address>
+Bellaterra, Barcelona, Spain -><address>
+{arobles,pablo}@iiia.csic.es -><email>
+

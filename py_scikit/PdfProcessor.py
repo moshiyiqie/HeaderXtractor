@@ -116,7 +116,7 @@ def getTitle(header, label):
 	return title.strip()
 
 #前置处理，处理出header, fonts, sizes, ypos, xpos, charSizes, pdf, label 这些信息
-def preProcedure(pdfpath):
+def preProcedure(pdfpath, needLabel = True):
 	#获取Header
 	#pdfpath = 'C:/ZONE/ceshiPDF/P15-1008.pdf'
 	pdf = Pdf.Pdf()
@@ -135,6 +135,7 @@ def preProcedure(pdfpath):
 	xpos = Tools.reArrangeByIdxList(xpos, sortedIdxList)
 	charSizes = Tools.reArrangeByIdxList(charSizes, sortedIdxList)
 	
+	if needLabel == False: return header, fonts, sizes, ypos, xpos, charSizes, pdf
 	
 	#获取预测结果
 	#label = getPredictLabelWithScikit(header)

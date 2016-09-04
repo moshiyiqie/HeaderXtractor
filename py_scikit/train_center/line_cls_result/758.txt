@@ -1,0 +1,21 @@
+Heuristic Search for Identical Payoff Bayesian Games -><title>
+Frans A. Oliehoek -><author>
+Informatics Institute, -><affiliation>
+University of Amsterdam -><affiliation>
+Amsterdam, The Netherlands -><address>
+F.A.Oliehoek@uva.nl -><email>
+Matthijs T.J. Spaan -><author>
+Inst. for Systems and Robotics -><affiliation>
+Instituto Superior Técnico -><affiliation>
+Lisbon, Portugal -><address>
+mtjspaan@isr.ist.utl.pt -><email>
+Christopher Amato -><author>
+Dept. of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003 USA -><address>
+camato@cs.umass.edu -><email>
+Jilles S. Dibangoye -><author>
+Laval University, Canada -><affiliation>
+University of Caen -><affiliation>
+Basse-Normandie, France -><address>
+gdibango@info.unicaen.fr -><email>

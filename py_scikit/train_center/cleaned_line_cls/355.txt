@@ -1,0 +1,19 @@
+Coordination and Composition in Multi-Agent Systems -><title>
+Frank de Boer -><author>
+CWI -><affiliation>
+P.O. Box 94079 -><address>
+1090 GB Amsterdam -><address>
+The Netherlands -><address>
+F.S.de.Boer@cwi.nl -><email>
+Farhad Arbab -><author>
+CWI -><affiliation>
+P.O. Box 94079 -><address>
+1090 GB Amsterdam -><address>
+The Netherlands -><address>
+farhad@cwi.nl -><email>
+Mehdi Dastani -><author>
+Utrecht University -><affiliation>
+P.O.Box 80.089 -><address>
+3508 TB Utrecht -><address>
+The Netherlands -><address>
+mehdi@cs.uu.nl -><email>

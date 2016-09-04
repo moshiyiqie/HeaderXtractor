@@ -1,0 +1,12 @@
+Scalable and Reliable Data Delivery in Mobile Ad Hoc -><title>
+Sensor Networks -><title>
+Yang Xu, Michael Lewis -><author>
+School of Information Sciences -><affiliation>
+University of Pittsburgh -><affiliation>
+Pittsburgh, PA 15260, USA -><address>
+{xuy,ml}@sis.pitt.edu -><email>
+Bin Yu, Paul Scerri, and Katia Sycara -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>
+{byu, pscerri, katia}@cs.cmu.edu -><email>

@@ -1,0 +1,10 @@
+﻿A Service-Oriented Language -><title>
+for Programming Mobile Agents -><title>
+Luı´s Lopes -><author>
+Faculdade de Cieˆncias, -><affiliation>
+Universidade do Porto, Portugal -><affiliation>
+lblopes@dcc.fc.up.pt -><email>
+Herve´ Paulino -><author>
+Faculdade de Cieˆncias e Tecnologia, -><affiliation>
+Universidade Nova de Lisboa, Portugal -><affiliation>
+herve@di.fct.unl.pt -><email>

@@ -1,0 +1,5 @@
+Negotiation-based coalitions in the physical world -><title>
+Majid Ali Khan and Ladislau Bo¨lo¨ni -><author>
+School of Electrical Engineering and Computer Science -><affiliation>
+University of Central Florida -><affiliation>
+khan@bond.cs.ucf.edu, lboloni@cs.ucf.edu -><email>

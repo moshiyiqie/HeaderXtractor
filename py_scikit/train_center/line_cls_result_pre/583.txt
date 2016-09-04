@@ -1,0 +1,11 @@
+Modeling Mental States in the Analysis of Multiagent -><title>
+Systems Requirements -><title>
+Alexei Lapouchnian -><author>
+Department of Computer Science -><affiliation>
+University of Toronto -><affiliation>
+Toronto, ON, M5S 3G4, Canada -><address>
+Department of Computer Science and Engineering -><affiliation>
+York University -><affiliation>
+Toronto, ON, M3J 1P3, Canada -><address>
+lesperan@cs.yorku.ca -><email>
+alexei@cs.toronto.edu -><email>

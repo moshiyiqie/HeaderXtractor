@@ -1,0 +1,12 @@
+From Team Plan to Individual Plans: a Petri Net-based -><title>
+Approach -><title>
+Catherine Tessier -><author>
+Onera-CERT / DCSD -><affiliation>
+2, avenue E. Belin -><author>
+31055 Toulouse cedex 4 FRANCE -><note>
+Olivier Bonnet-Torres -><author>
+ENSAE-Supaero & Onera-CERT / DCSD -><affiliation>
+2, avenue E. Belin -><author>
+31055 Toulouse cedex 4 FRANCE -><phone>
+catherine.tessier@onera.fr -><email>
+olivier.bonnet@onera.fr -><email>

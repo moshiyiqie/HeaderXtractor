@@ -1,0 +1,10 @@
+Strategic voting when aggregating partially ordered -><title>
+preferences -><title>
+T. Walsh -><author>
+NICTA and School of CSE, UNSW -><affiliation>
+Sydney, Australia. -><address>
+tw@cse.unsw.edu.au -><email>
+M. S. Pini, F. Rossi, K. B. Venable -><author>
+Department of Pure and Applied Mathematics -><affiliation>
+University of Padova, Italy -><affiliation>
+{mpini,frossi,kvenable}@math.unipd.it -><email>

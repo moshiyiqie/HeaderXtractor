@@ -1,0 +1,17 @@
+Commercial Applications of Agents: -><title>
+Lessons, Experiences and Challenges -><title>
+Roxana A. Belecheanu, Steve Munroe, Michael Luck, Terry Payne -><author>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton, United Kingdom -><address>
+{rab2, sjm, mml, trp}@ecs.soton.ac.uk -><email>
+Tim Miller, Peter McBurney -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool, United Kingdom -><address>
+{t.miller, p.j.mcburney}@csc.liv.ac.uk -><email>
+Michal Peˇchoucˇek -><author>
+Department of Cybernetics -><affiliation>
+Czech Technical University in Prague -><affiliation>
+166 27 Prague 6, Czech Republic -><address>
+pechouc@labe.felk.cvut.cz -><affiliation>

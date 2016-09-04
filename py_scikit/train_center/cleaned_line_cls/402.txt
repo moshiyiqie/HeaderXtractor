@@ -1,0 +1,7 @@
+PowerMatcher: -><title>
+Multiagent Control in the Electricity Infrastructure -><title>
+J.K. Kok, C.J. Warmer, I.G. Kamphuis -><author>
+Energy research Center of the Netherlands (ECN) -><affiliation>
+Sustainable Energy in the Built Environment -><affiliation>
+P.O. Box 1, 1755 ZG, Petten, The Netherlands -><address>
+{j.kok, warmer, kamphuis}@ecn.nl -><email>

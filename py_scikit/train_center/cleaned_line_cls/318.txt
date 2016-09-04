@@ -1,0 +1,7 @@
+﻿Towards a Theory of “Local to Global” in Distributed -><title>
+Multi-Agent Systems (II) -><title>
+Daniel Yamins -><author>
+Harvard University -><affiliation>
+33 Oxford St. -><address>
+Cambridge, MA 02138 USA -><address>
+yamins@fas.harvard.edu -><email>

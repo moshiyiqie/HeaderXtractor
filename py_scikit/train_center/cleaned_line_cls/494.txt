@@ -1,0 +1,6 @@
+Goal-Oriented Modularity in Agent Programming -><title>
+M. Birna van Riemsdijk1 Mehdi Dastani1 John-Jules Ch. Meyer1 Frank S. de Boer1,2 -><author>
+Utrecht University1 -><affiliation>
+CWI, Amsterdam2 -><affiliation>
+The Netherlands -><address>
+[birna (|) mehdi (|) jj (|) frankb]@cs.uu.nl -><email>

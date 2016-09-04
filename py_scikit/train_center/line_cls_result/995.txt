@@ -1,0 +1,8 @@
+Agent Interaction, Multiple Perspectives, and Swarming -><title>
+Simulation -><title>
+H. Van Dyke Parunak Robert Bisson Sven A. Brueckner -><author>
+Vector Research Center, division of TTGSI -><affiliation>
+3520 Green Court, Suite 250 -><address>
+Ann Arbor, MI 48105 -><author>
++1 734 302 4684 -><phone>
+{van.parunak, robert.bisson, sven.brueckner}@newvectors.net -><email>

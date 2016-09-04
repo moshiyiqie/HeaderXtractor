@@ -1,0 +1,4 @@
+An Agent-based Market Platform for Smart Grids -><title>
+Steffen Lamparter, Silvio Becher, Jan-Gregor Fischer -><author>
+Corporate Technology, Siemens AG, Munich -><affiliation>
+{ﬁrstname.lastname}@siemens.com -><email>

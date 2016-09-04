@@ -1,0 +1,21 @@
+IOM/T: An Interaction Description Language for -><title>
+Multi-Agent Systems -><title>
+Takuo DOI -><author>
+University of Tokyo -><affiliation>
+7-3-1, Hongo, Bunkyo-ku -><address>
+Tokyo, Japan -><address>
+Yasuyuki TAHARA -><author>
+National Institute of -><affiliation>
+Informatics -><unknow>
+2-1-2 Hitotsubashi, -><title>
+Chiyoda-ku -><author>
+Tokyo, Japan -><affiliation>
+Shinichi HONIDEN -><author>
+National Institute of -><affiliation>
+Informatics -><keyword>
+2-1-2 Hitotsubashi, -><keyword>
+Chiyoda-ku -><intro>
+Tokyo, Japan -><address>
+tdoi@nii.ac.jp -><email>
+tahara@nii.ac.jp -><email>
+honiden@nii.ac.jp -><email>

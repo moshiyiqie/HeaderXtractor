@@ -1,0 +1,11 @@
+﻿An Information-Based model for Trust -><title>
+John Debenham -><author>
+Faculty of Information Technology -><affiliation>
+University of Technology, Sydney -><affiliation>
+NSW, Australia -><address>
+debenham@it.uts.edu.au -><email>
+Carles Sierra -><author>
+Institut d’Investigacio en Intel.ligencia Artificial -><affiliation>
+Spanish Scientific Research Council, UAB -><affiliation>
+08193 Bellaterra, Catalonia, Spain -><address>
+sierra@iiia.csic.es -><email>

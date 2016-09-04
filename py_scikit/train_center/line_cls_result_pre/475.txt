@@ -1,0 +1,22 @@
+A Robust Combinatorial Auction Mechanism -><title>
+against Shill Bidders -><title>
+∗ -><author>
+Robert W. Day -><author>
+School of Business in -><affiliation>
+University of Connecticut -><affiliation>
+Takayuki Ito -><author>
+CCS, Sloan School of -><affiliation>
+Management, Massachusetts -><address>
+Institute of Technology -><address>
+Tokuro Matsuo -><affiliation>
+Graduate School of -><affiliation>
+Engineering, Nagoya Institute -><affiliation>
+of Technology -><affiliation>
+Toramatsu Shintani -><affiliation>
+Graduate School of -><affiliation>
+Engineering, Nagoya Institute -><affiliation>
+of Technology -><affiliation>
+Bob.Day@business.uconn.edu -><email>
+tmatsuo@ics.nitech.ac.jp -><email>
+takayuki@mit.edu -><email>
+tora@ics.nitech.ac.jp -><email>

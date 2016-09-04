@@ -1,0 +1,16 @@
+Solution Sets for DCOPs and Graphical Games -><title>
+Rajiv T. Maheswaran -><author>
+Information Sciences Institute -><affiliation>
+Univ. of Southern California -><affiliation>
+Los Angeles, CA 90292 -><address>
+maheswar@isi.edu -><email>
+Jonathan P. Pearce -><author>
+Computer Science Dept. -><affiliation>
+Univ. of Southern California -><affiliation>
+Los Angeles, CA 90089 -><address>
+jppearce@usc.edu -><email>
+Milind Tambe -><author>
+Computer Science Dept. -><affiliation>
+Univ. of Southern California -><affiliation>
+Los Angeles, CA 90089 -><address>
+tambe@usc.edu -><email>

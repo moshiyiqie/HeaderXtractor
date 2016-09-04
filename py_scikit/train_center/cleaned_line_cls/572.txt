@@ -1,0 +1,5 @@
+Logics of Propositional Control -><title>
+Jelle Gerbrandy -><author>
+Dipartimento di Informatica -><affiliation>
+Torino, Italia -><address>
+jelle@gerbrandy.com -><email>

@@ -1,0 +1,5 @@
+Frequency Adjusted Multi-agent Q-learning -><title>
+Michael Kaisers and Karl Tuyls -><author>
+Maastricht University -><affiliation>
+Maastricht, The Netherlands -><address>
+{michael.kaisers, k.tuyls} @maastrichtuniversity.nl -><affiliation>

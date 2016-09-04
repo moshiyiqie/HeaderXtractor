@@ -1,0 +1,6 @@
+Multiagent Simulation of Learning Environments -><title>
+Elizabeth Sklar and Mathew Davies -><author>
+Dept of Computer Science -><affiliation>
+Columbia University -><affiliation>
+New York, NY 10027 USA -><address>
+sklar,mdavies@cs.columbia.edu -><email>

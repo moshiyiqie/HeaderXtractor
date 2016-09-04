@@ -1,0 +1,9 @@
+Kaa: Policy-based Explorations of a Richer Model for -><title>
+Adjustable Autonomy -><title>
+Jeffrey M. Bradshaw, Hyuckchul Jung, Shri Kulkarni, Matthew Johnson, Paul Feltovich, James -><author>
+Allen, Larry Bunch, Nathanael Chambers, Lucian Galescu, Renia Jeffers, Niranjan Suri, -><author>
+William Taysom, Andrzej Uszok -><author>
+Florida Institute for Human and Machine Cognition (IHMC) -><affiliation>
+40 South Alcaniz Street, Pensacola, FL 32502, USA -><address>
+{jbradshaw, hjung, skulkarni, mjohnson, pfeltovich, jallen, lbunch, nchambers, lgalescu, -><email>
+rjeffers, nsuri, wtaysom, auszok}@ihmc.us -><email>

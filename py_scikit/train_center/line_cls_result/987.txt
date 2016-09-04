@@ -1,0 +1,11 @@
+Agent Programming via Planning Programs -><title>
+Sebastian Sardina -><author>
+School of Computer Science and IT -><affiliation>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+sebastian.sardina@cs.rmit.edu.au -><email>
+Giuseppe De Giacomo and Fabio Patrizi -><author>
+Dipartimento di Informatica e Sistemistica -><affiliation>
+Sapienza Università di Roma -><affiliation>
+Roma, Italy -><address>
+{patrizi,degiacomo}@dis.uniroma1.it -><email>

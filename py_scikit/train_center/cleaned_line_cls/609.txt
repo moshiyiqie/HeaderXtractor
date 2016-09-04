@@ -1,0 +1,17 @@
+Support-based Distributed Search -><title>
+A new approach for multiagent constraint processing -><title>
+Chee Fon Chang -><author>
+Decision Systems Laboratory -><affiliation>
+University of Wollongong -><affiliation>
+NSW, Australia -><address>
+c03@uow.edu.au -><email>
+Peter Harvey -><author>
+Decision Systems Laboratory -><affiliation>
+University of Wollongong -><affiliation>
+NSW, Australia -><address>
+pah06@uow.edu.au -><email>
+Aditya Ghose -><author>
+Decision Systems Laboratory -><affiliation>
+University of Wollongong -><affiliation>
+NSW, Australia -><address>
+aditya@uow.edu.au -><email>

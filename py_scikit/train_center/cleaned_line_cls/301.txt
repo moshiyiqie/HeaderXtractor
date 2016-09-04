@@ -1,0 +1,16 @@
+Dynamic Epistemic Logic with Assignment -><title>
+B.P. Kooi -><author>
+Philosophy -><affiliation>
+University of Groningen -><affiliation>
+the Netherlands -><address>
+barteld@philos.rug.nl -><email>
+W. van der Hoek -><author>
+Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+United Kingdom -><address>
+wiebe@csc.liv.ac.uk -><email>
+H.P. van Ditmarsch -><author>
+Computer Science -><affiliation>
+University of Otago -><affiliation>
+New Zealand -><address>
+hans@cs.otago.ac.nz -><email>

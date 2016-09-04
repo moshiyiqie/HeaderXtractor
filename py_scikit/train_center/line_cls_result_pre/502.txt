@@ -1,0 +1,6 @@
+ActorNet: An Actor Platform for Wireless Sensor Networks -><title>
+YoungMin Kwon, Sameer Sundresh, Kirill Mechitov and Gul Agha ∗ -><author>
+Department of Computer Science -><affiliation>
+University of Illinois at Urbana Champaign -><affiliation>
+Urbana, IL 61801, USA -><address>
+{ykwon4 (|) sundresh (|) mechitov (|) agha}@cs.uiuc.edu -><email>

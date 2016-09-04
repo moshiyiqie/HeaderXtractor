@@ -1,0 +1,17 @@
+Multiagent Systems as Software Architecture -><title>
+Another Perspective on Software Engineering with Multiagent Systems -><title>
+Danny Weyns -><author>
+Katholieke Universiteit Leuven -><affiliation>
+Celestijnenlaan 200A -><address>
+3001 Leuven, Belgium -><address>
+Tom Holvoet -><author>
+Katholieke Universiteit Leuven -><affiliation>
+Celestijnenlaan 200A -><address>
+3001 Leuven, Belgium -><address>
+Kurt Schelfthout -><author>
+Katholieke Universiteit Leuven -><affiliation>
+Celestijnenlaan 200A -><address>
+3001 Leuven, Belgium -><address>
+danny@cs.kuleuven.be -><email>
+tom@cs.kuleuven.be -><email>
+kurts@cs.kuleuven.be -><email>

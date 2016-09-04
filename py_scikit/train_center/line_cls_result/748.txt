@@ -1,0 +1,12 @@
+Distributed Multiagent Learning with a -><title>
+Broadcast Adaptive Subgradient Method -><title>
+I. Yamada -><author>
+Tokyo Institute of Technology -><affiliation>
+Dept. of Communications and Integrated -><unknow>
+Systems -><author>
+isao@comm.ss.titech.ac.jp -><email>
+R. L. G. Cavalcante, A. Rogers, -><author>
+N. R. Jennings -><author>
+University of Southampton -><affiliation>
+School of Electronics and Computer Science -><affiliation>
+{rlgc,acr,nrj}@ecs.soton.ac.uk -><email>

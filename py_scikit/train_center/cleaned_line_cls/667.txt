@@ -1,0 +1,11 @@
+Teaching New Teammates -><title>
+Sandip Sen -><author>
+Department of Mathematics & Computer Science -><affiliation>
+The University of Tulsa -><affiliation>
+USA -><address>
+sandip@utulsa.edu -><email>
+Doran Chakraborty -><author>
+Department of Mathematics & Computer Science -><affiliation>
+The University of Tulsa -><affiliation>
+USA -><address>
+doran@utulsa.edu -><email>

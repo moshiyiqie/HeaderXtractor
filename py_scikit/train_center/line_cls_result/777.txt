@@ -1,0 +1,8 @@
+Inter-Robot Transfer Learning -><title>
+for Perceptual Classiﬁcation -><title>
+Zsolt Kira -><author>
+College of Computing -><affiliation>
+Georgia Institute of Technology -><affiliation>
+85 Fifth Street N.W. -><address>
+Atlanta, GA, 30308 -><address>
+zkira@gatech.edu -><email>

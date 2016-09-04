@@ -1,0 +1,22 @@
+A Novel Method for Automatic Strategy Acquisition in -><title>
+N-player Non-zero-sum Games -><title>
+S. Phelps -><author>
+Dept. of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 3BX -><pubnum>
+United Kingdom -><unknow>
+S. Parsons -><author>
+Dept. of Computer Science -><affiliation>
+City University of New York -><affiliation>
+365, 5th Avenue -><address>
+New York, NY 10016, USA -><address>
+M. Marcinkiewicz -><author>
+Dept. of Computer Science -><affiliation>
+Graduate Center -><affiliation>
+City University of New York -><affiliation>
+365, 5th Avenue -><address>
+New York, NY 10016 -><address>
+USA -><address>
+parsons@sci.brooklyn.cuny.edu -><email>
+sphelps@csc.liv.ac.uk -><email>
+marek@sci.brooklyn.cuny.edu -><email>

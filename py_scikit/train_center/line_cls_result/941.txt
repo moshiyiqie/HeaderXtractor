@@ -1,0 +1,14 @@
+Convoy Protection by Self-Organized Teams of UAVs -><title>
+Osher Yadgar -><author>
+SRI International -><affiliation>
+333 Ravenswood Ave. -><address>
+Menlo Park, CA 94025 -><address>
+yadgar@ai.sri.com -><email>
+Categories and Subject Descriptors -><note>
+I.2.9 [Robotics]: Autonomous vehicles; I.2.11 [Distributed -><note>
+Artificial Intelligence]: Coherence and coordination -><unknow>
+General Terms -><author>
+Experimentation, Performance -><keyword>
+Keywords -><keyword>
+Robot teams, multi robot systems, robot coordination; Emer- -><author>
+gent behavior; Self-organization 1 -><intro>

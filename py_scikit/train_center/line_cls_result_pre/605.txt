@@ -1,0 +1,14 @@
+An Argumentation›based Approach for Practical -><title>
+Reasoning -><title>
+Iyad Rahwan,1,2 Leila Amgoud3 -><author>
+1Institute of Informatics -><affiliation>
+2(Fellow) School of Informatics -><date>
+3IRIT -><pubnum>
+British University in Dubai -><affiliation>
+POBox 502216, Dubai, UAE -><address>
+University of Edinburgh -><affiliation>
+Edinburgh, UK -><address>
+118, route de Narbonne -><address>
+31062, Toulouse, France -><address>
+irahwan@acm.org -><email>
+amgoud@irit.fr -><email>

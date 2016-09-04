@@ -1,0 +1,7 @@
+Inﬂuence of Different Execution Models -><title>
+on Patrolling Ant Behaviors: from Agents to Robots -><title>
+Arnaud Glad Olivier Simonin Olivier Buffet François Charpillet -><author>
+MAIA Team, LORIA -><affiliation>
+INRIA / Nancy University -><affiliation>
+Nancy, France -><address>
+ﬁrstname.lastname@loria.fr -><email>

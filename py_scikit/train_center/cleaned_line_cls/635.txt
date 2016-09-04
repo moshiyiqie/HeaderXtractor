@@ -1,0 +1,14 @@
+﻿Modeling one Human Decision Maker with a Multi-Agent -><title>
+System: the CODAGE Approach -><title>
+Samuel Thiriot -><author>
+Université Paris 6 and France Télécom R&D -><affiliation>
+Laboratoire d’Informatique (LIP6) -><affiliation>
+8 rue du Capitaine Scott -><address>
+75015 Paris, France -><address>
+Samuel.Thiriot@francetelecom.com -><email>
+Jean-Daniel Kant -><author>
+Université Paris 6 -><affiliation>
+Laboratoire d’Informatique (LIP6) -><affiliation>
+8 rue du Capitaine Scott -><address>
+75015 Paris, France -><address>
+Jean-Daniel.Kant@lip6.fr -><email>

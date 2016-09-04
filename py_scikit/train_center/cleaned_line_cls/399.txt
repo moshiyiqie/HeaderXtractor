@@ -1,0 +1,12 @@
+﻿Progressive Ontology Alignment for Meaning -><title>
+Coordination: An Information-Theoretic Foundation -><title>
+Yannis Kalfoglou -><author>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton SO17 1BJ, England, UK -><address>
+y.kalfoglou@ecs.soton.ac.uk -><email>
+Marco Schorlemmer -><author>
+Institut d’Investigacio´ en Intel·lige`ncia Artificial -><affiliation>
+Consell Superior d’Investigacions Cientı´fiques -><affiliation>
+08193 Bellaterra (Barcelona), Catalonia, Spain -><address>
+marco@iiia.csic.es -><email>

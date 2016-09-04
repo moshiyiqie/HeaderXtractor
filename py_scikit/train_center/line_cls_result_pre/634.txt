@@ -1,0 +1,7 @@
+Junta Distributions and the Average-Case Complexity of -><title>
+Manipulating Elections -><title>
+Ariel D. Procaccia Jeffrey S. Rosenschein -><author>
+School of Engineering and Computer Science -><affiliation>
+The Hebrew University of Jerusalem -><affiliation>
+Jerusalem, Israel -><address>
+{arielpro, jeff}@cs.huji.ac.il -><email>

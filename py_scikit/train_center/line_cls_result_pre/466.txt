@@ -1,0 +1,12 @@
+Sequences of Take-It-or-Leave-It Offers: Near-Optimal -><title>
+Auctions Without Full Valuation Revelation∗ -><title>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+Andrew Gilpin -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+sandholm@cs.cmu.edu -><email>
+gilpin@cs.cmu.edu -><email>

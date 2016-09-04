@@ -1,0 +1,14 @@
+Failures of the VCG Mechanism in -><title>
+Combinatorial Auctions and Exchanges∗ -><title>
+Tuomas Sandholm -><author>
+Carnegie Mellon University -><affiliation>
+Computer Science Department -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213, USA -><address>
+sandholm@cs.cmu.edu -><email>
+Vincent Conitzer -><author>
+Carnegie Mellon University -><affiliation>
+Computer Science Department -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213, USA -><address>
+conitzer@cs.cmu.edu -><email>

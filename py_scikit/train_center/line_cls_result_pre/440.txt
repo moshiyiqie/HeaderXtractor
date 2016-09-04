@@ -1,0 +1,9 @@
+Modular BDI Architecture -><title>
+∗ -><title>
+Jürgen Dix -><author>
+Peter Novák -><author>
+peter.novak@in.tu-clausthal.de -><email>
+dix@tu-clausthal.de -><email>
+Department of Computer Science -><affiliation>
+Clausthal University of Technology -><affiliation>
+Julius-Albert-Str. 4, D-38678 Clausthal-Zellerfeld, Germany -><address>

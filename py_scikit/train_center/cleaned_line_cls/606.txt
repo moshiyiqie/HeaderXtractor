@@ -1,0 +1,14 @@
+﻿Predicting partner’s behaviour in agent negotiation -><title>
+∗ -><title>
+Ryszard Kowalczyk -><author>
+Faculty of Information and Communication -><affiliation>
+Technologies -><affiliation>
+Swinburne University of Technology -><affiliation>
+Hawthorn, Victoria 3122, Australia -><address>
+rkowalczyk@it.swin.edu.au -><email>
+Jakub Brzostowski -><author>
+Faculty of Information and Communication -><affiliation>
+Technologies -><affiliation>
+Swinburne University of Technology -><affiliation>
+Hawthorn, Victoria 3122, Australia -><address>
+jbrzostowski@it.swin.edu.au -><email>

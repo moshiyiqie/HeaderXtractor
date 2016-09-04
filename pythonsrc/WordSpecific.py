@@ -13,7 +13,14 @@ def __fileContain(path, x):
 	else:
 		file_cache[path]=[line.strip().lower() for line in open(path).readlines()]
 		return file_cache[path].count(x.lower()) > 0
-
+#文件中的词是否出现在该行
+def __fileWordAppearInLine(path, line):
+	if not file_cache.has_key(path):
+		file_cache[path]=[line.strip().lower() for line in open(path).readlines()]
+	for one in file_cache[path]:
+		if one in line.lower():
+			return True
+	return False
 def isPhone(x):
 	return isdigit(x) and len(x)>=6
 def isDegree(x):
@@ -51,42 +58,49 @@ def isMonth(x):
 	return __fileContain(path,x)
 def isPrep(x):
 	return 'at' in x.lower() or 'in' in x.lower() or 'of' in x.lower()
-def isPubNum(x):
+def isPubNum(line):
 	path = sourceDir+r'/db/pubnum.txt'#ok
-	return __fileContain(path,x)
+	return __fileWordAppearInLine(path,line)
 def isNote(x):
 	path = sourceDir+r'/db/note.txt'#ok
 	return __fileContain(path,x)
-def isAffi(x):
+def isAffi(line):
 	path = sourceDir+r'/db/affi.txt'#ok
-	return __fileContain(path,x)
+	return __fileWordAppearInLine(path,line)
 def isAddr(x):
 	path = sourceDir+r'/db/addr.txt'#ok
 	return __fileContain(path,x)
-def isCity(x):
+def isCity(line):
 	path = sourceDir+r'/db/cityname.txt'#ok
-	return __fileContain(path,x)
-def isState(x):
+	return __fileWordAppearInLine(path,line)
+def isState(line):
 	path = sourceDir+r'/db/state.txt'#ok
-	return __fileContain(path,x)
-def isCountry(x):
+	return __fileWordAppearInLine(path,line)
+def isCountry(line):
 	path = sourceDir+r'/db/country.txt'#ok
-	return __fileContain(path,x)
+	return __fileWordAppearInLine(path,line)
 def isMayName(x):
 	path = sourceDir+r'/db/humanname.txt'#ok
 	return __fileContain(path,x)
 
 flist = [isEmail,isURL,isSingleCap,isPostCode,isAbstract,
 			isPage,isKeyWord, isIntro, isPhone, isMonth, isPrep,
-			isPubNum, isNote, isAffi, isAddr, isCity, 
-			isState, isCountry, isMayName, isDegree]
+			isNote, isAddr, 
+			isMayName, isDegree]
+lineflist = [isAffi,isCity,isState,isCountry,isPubNum]
 diclist = flist[:]
-def updateWordSpecificVector(word,vector):
-	for fun in flist:
+def updateWordSpecificVectorOneLine(line,vector):
+	for word in line.split():
+		for fun in flist:
+			if not vector.has_key(fun.__name__):
+				vector[fun.__name__]=0
+			vector[fun.__name__] += int(fun(word))
+	for fun in lineflist:
 		if not vector.has_key(fun.__name__):
 			vector[fun.__name__]=0
-		vector[fun.__name__] += int(fun(word))
+		vector[fun.__name__] += int(fun(line))
 if __name__ == '__main__':
+	#print isCountry('Liverpool, United Kingdom')
 	#line = 'Tel: +44 (0) 121 414 4791, Fax: +44 (0) 121 414 4281'
 	#for word in line.split(' '):
 	#	print word+' '+str(isPhone(word))

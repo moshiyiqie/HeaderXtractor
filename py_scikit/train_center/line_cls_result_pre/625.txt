@@ -1,0 +1,12 @@
+Multi-Model Motion Tracking -><title>
+under Multiple Team Member Actuators -><title>
+Manuela Veloso -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>
+Yang Gu -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>
+mmv@cs.cmu.edu -><email>
+guyang@cs.cmu.edu -><email>

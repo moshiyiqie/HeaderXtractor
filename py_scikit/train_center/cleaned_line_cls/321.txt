@@ -1,0 +1,7 @@
+Thespian: -><title>
+Using Multi-Agent Fitting to Craft Interactive Drama -><title>
+Mei Si, Stacy C. Marsella, and David V. Pynadath -><author>
+Information Sciences Institute -><affiliation>
+University of Southern California -><affiliation>
+Los Angeles, CA 90292 -><address>
+{meisi,marsella,pynadath}@isi.edu -><email>

@@ -1,0 +1,19 @@
+Effect of Joining Decisions on Peer Clusters -><title>
+Prithviraj Dasgupta -><author>
+Computer Science -><affiliation>
+Department University of -><affiliation>
+Nebraska Omaha, NE 68182, -><address>
+USA -><address>
+pdasgupta@mail.unomaha.edu -><email>
+Sandip Sen -><author>
+Mathematical & Computer -><affiliation>
+Sciences Department -><affiliation>
+600 South College avenue -><address>
+Tulsa, OK 74104, USA -><address>
+sandip@utulsa.edu -><email>
+Ste´phane Airiau -><author>
+Mathematical & Computer -><affiliation>
+Sciences Department -><affiliation>
+600 South College avenue -><address>
+Tulsa, OK 74104, USA -><address>
+stephane@utulsa.edu -><email>

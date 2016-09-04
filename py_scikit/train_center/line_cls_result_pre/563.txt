@@ -1,0 +1,8 @@
+A Computer-Supported Cooperative Learning System with -><title>
+Multiagent Intelligence -><title>
+Leen-Kiat Soh, Nobel Khandaker, Xuliu Liu, and Hong Jiang -><author>
+Computer Science and Engineering -><affiliation>
+University of Nebraska-Lincoln -><affiliation>
+256 Avery Hall, Lincoln, NE 66588-0115 -><author>
+1-402-472-6738 -><phone>
+{lksoh, knobel, xuliu, jiang}@cse.unl.edu -><email>

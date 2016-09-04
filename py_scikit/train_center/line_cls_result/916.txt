@@ -1,0 +1,16 @@
+Virtual World Builder Toolkit -><title>
+T. Trescak and M.Esteva -><author>
+Artiﬁcial Intelligence Research -><affiliation>
+Institute, CSIC -><affiliation>
+Barcelona, Spain -><address>
+ttrescak@iiia.csic.es -><email>
+I. Rodriguez -><author>
+Applied Mathematics -><affiliation>
+Department, UB -><address>
+Barcelona, Spain -><address>
+inma@maia.ub.es -><email>
+J. Morales -><author>
+Artiﬁcial Intelligence Research -><affiliation>
+Institute, CSIC -><affiliation>
+Barcelona, Spain -><address>
+jmorales@iiia.csic.es -><email>

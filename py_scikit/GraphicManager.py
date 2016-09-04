@@ -2,15 +2,20 @@
 from graphics import *  
 import Geometry
 import BlockManager
-def printRecWithWords(blockList):
+def printRecWithWords(blockList, idInDSU, dsu):
 	win = GraphWin('CSSA', 700, 700) 
 	for i in range(len(blockList)):
 		content = blockList[i].header
 		rect = Rectangle(Point(blockList[i].l, blockList[i].u), Point(blockList[i].r, blockList[i].d))
 		rect.draw(win) 
-		message = Text(Point((blockList[i].l+blockList[i].r)/2, (blockList[i].u + blockList[i].d) / 2), content)
+		midx = (blockList[i].l + blockList[i].r)/2
+		midy = (blockList[i].u + blockList[i].d) / 2
+		message = Text(Point(midx, midy), content)
 		message.setSize(7)
 		message.draw(win)
+		belongSetId = Text(Point(blockList[i].l-20, blockList[i].u), dsu.find(idInDSU[blockList[i].hash()]))
+		belongSetId.setSize(12)
+		belongSetId.draw(win)
 	win.getMouse()  
 	win.close()  
 '''

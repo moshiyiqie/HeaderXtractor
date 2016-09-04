@@ -1,0 +1,23 @@
+A Hierarchical Approach to Efficient Reinforcement -><title>
+Learning in Deterministic Domains -><title>
+Michael L. Littman -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Rutgers University -><affiliation>
+Piscataway, NJ 08854-8019 -><address>
+USA -><address>
+mlittman@cs.rutgers.edu -><email>
+Alexander L. Strehl -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Rutgers University -><affiliation>
+Piscataway, NJ 08854-8019 -><address>
+USA -><address>
+strehl@cs.rutgers.edu -><email>
+Carlos Diuk -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Rutgers University -><affiliation>
+Piscataway, NJ 08854-8019 -><address>
+USA -><address>
+cdiuk@cs.rutgers.edu -><email>

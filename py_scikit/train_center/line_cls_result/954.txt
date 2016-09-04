@@ -1,0 +1,16 @@
+Bootstrapping Trust Evaluations through Stereotypes -><title>
+Chris Burnett -><author>
+University of Aberdeen -><affiliation>
+King’s College -><affiliation>
+Aberdeen, UK -><address>
+cburnett@abdn.ac.uk -><email>
+Timothy J. Norman -><author>
+University of Aberdeen -><affiliation>
+King’s College -><affiliation>
+Aberdeen, UK -><address>
+t.j.norman@abdn.ac.uk -><email>
+Katia Sycara -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA -><address>
+katia@cs.cmu.edu -><email>

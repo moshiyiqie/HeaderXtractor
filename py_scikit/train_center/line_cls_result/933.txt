@@ -1,0 +1,5 @@
+Adversarial Planning for Large Multi-agent Simulations -><title>
+Viliam Lisý -><author>
+Agent Technology Center, Dept. of Cybernetics, FEE, Czech Technical University -><affiliation>
+Technická 2, 16627 Prague 6, Czech Republic -><address>
+viliam.lisy@agents.felk.cvut.cz -><email>

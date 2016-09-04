@@ -1,0 +1,13 @@
+Optimal Status Sets of Heterogeneous Agent Programs -><title>
+Bogdan Stroe -><author>
+University of Maryland -><affiliation>
+College Park, MD 20742 -><address>
+bogdan@cs.umd.edu -><email>
+V.S. Subrahmanian -><author>
+University of Maryland -><affiliation>
+College Park, MD 20742 -><address>
+vs@cs.umd.edu -><email>
+Sudeshna Dasgupta -><author>
+University of Maryland -><affiliation>
+College Park, MD 20742 -><address>
+sudeshna@cs.umd.edu -><email>

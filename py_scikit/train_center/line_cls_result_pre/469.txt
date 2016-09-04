@@ -1,0 +1,16 @@
+Reducing Price Fluctuation in Continuous Double -><title>
+Auctions through Pricing Policy and Shout Improvement -><title>
+Simon Parsons and Elizabeth Sklar -><author>
+Dept of Computer and -><affiliation>
+Information Science -><affiliation>
+Brooklyn College -><affiliation>
+2900 Bedford Avenue -><address>
+Brooklyn, NY 11210, USA -><address>
+Jinzhong Niu and Kai Cai -><author>
+Dept of Computer Science -><affiliation>
+Graduate Center -><affiliation>
+City University of New York -><affiliation>
+365, 5th Avenue -><address>
+New York, NY 10016, USA -><address>
+{jniu,kcai}@gc.cuny.edu -><email>
+{parsons,sklar}@sci.brooklyn.cuny.edu -><email>

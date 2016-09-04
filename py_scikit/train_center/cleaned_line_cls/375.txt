@@ -1,0 +1,8 @@
+Polymorphic Self- Agents for Stigmergic Fault Mitigation -><title>
+in Large-Scale Real-Time Embedded Systems -><title>
+Derek Messie -><author>
+Jae C. Oh -><author>
+Department of Electrical Engineering and Computer Science -><affiliation>
+Syracuse University -><affiliation>
+Syracuse, NY 13244 USA -><address>
+dsmessie@syr.edu, jcoh@ecs.syr.edu -><email>

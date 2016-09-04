@@ -1,0 +1,13 @@
+Beliefs, Desires and Intentions Through the Environment -><title>
+Paul Valckenaers -><author>
+PMA, Dept. Mechanics -><affiliation>
+Katholieke Universiteit Leuven -><affiliation>
+Celestijnenlaan 300B -><address>
+3001 Leuven, Belgium -><address>
+Tom Holvoet -><author>
+AgentWise, DistriNet, Dept. Computer Science -><affiliation>
+Katholieke Universiteit Leuven -><affiliation>
+Celestijnenlaan 200A -><address>
+3001 Leuven, Belgium -><address>
+Paul.Valckenaers@mech.kuleuven.be -><email>
+Tom.Holvoet@cs.kuleuven.be -><email>

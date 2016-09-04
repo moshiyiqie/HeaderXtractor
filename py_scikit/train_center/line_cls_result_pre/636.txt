@@ -1,0 +1,7 @@
+The Communication Complexity of Coalition Formation -><title>
+among Autonomous Agents -><title>
+Ariel D. Procaccia Jeffrey S. Rosenschein -><author>
+School of Engineering and Computer Science -><affiliation>
+The Hebrew University of Jerusalem -><affiliation>
+Jerusalem, Israel -><address>
+{arielpro, jeff}@cs.huji.ac.il -><email>

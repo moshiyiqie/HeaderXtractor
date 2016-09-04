@@ -1,0 +1,18 @@
+﻿A Computationally Grounded Logic of Knowledge, Belief -><title>
+and Certainty ¤ -><title>
+Guido Governatori -><author>
+School of ITEE -><affiliation>
+The University of Queensland -><affiliation>
+Brisbane, Australia -><address>
+guido@itee.uq.edu.au -><email>
+Qingliang Chen -><author>
+Dept. of Computer Science -><affiliation>
+Sun Yat-sen University -><affiliation>
+Guangzhou, P.R. China -><address>
+tsingliangchen@yahoo.com -><email>
+Kaile Su, Abdul Sattar -><author>
+Institute for Integrated and -><affiliation>
+Intelligent Systems -><affiliation>
+Griffith University -><affiliation>
+Brisbane, Australia -><address>
+{k.su, a.sattar}@grifth.edu.au -><email>

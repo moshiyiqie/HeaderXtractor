@@ -1,1 +1,1 @@
-wordList[i], lineCharSizes[i] 10 9 Artificial
+wordList[i], lineCharSizes[i] 8 7 Griffith

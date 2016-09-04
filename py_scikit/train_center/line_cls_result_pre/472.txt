@@ -1,0 +1,6 @@
+Reducing Costly Information Acquisition in Auctions -><title>
+Kate Larson -><author>
+School of Computer Science -><affiliation>
+University of Waterloo -><affiliation>
+Waterloo, Ontario, Canada -><address>
+klarson@cs.uwaterloo.ca -><email>

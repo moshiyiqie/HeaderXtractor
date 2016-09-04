@@ -1,0 +1,21 @@
+Reasoning About Joint Beliefs for Execution-Time -><title>
+Communication Decisions -><title>
+Maayan Roth -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+Reid Simmons -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+Manuela Veloso -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+mroth@andrew.cmu.edu -><email>
+reids@cs.cmu.edu -><email>
+veloso@cs.cmu.edu -><email>

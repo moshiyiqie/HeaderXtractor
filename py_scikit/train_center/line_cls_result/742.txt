@@ -1,0 +1,5 @@
+Agent-Based Coordination of Human-Multirobot Teams in -><title>
+Complex Environments -><title>
+Alan Carlin1,2, -><author>
+1Aptima Inc., 12 Gill Street, Suite 1400, Woburn, MA 01801 -><affiliation>
+2University of Massachusetts, 140 Governors Drive, Amherst, MA 01003-9264 -><affiliation>

@@ -1,0 +1,12 @@
+Point-Based Backup for Decentralized POMDPs: -><title>
+Complexity and New Algorithms -><title>
+Akshat Kumar -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA, 01003 -><address>
+akshat@cs.umass.edu -><email>
+Shlomo Zilberstein -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA, 01003 -><address>
+shlomo@cs.umass.edu -><email>

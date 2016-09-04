@@ -1,0 +1,5 @@
+Efficient Agents for Cliff-Edge Environments with a Large -><title>
+Set of Decision Options -><title>
+Ron Katz, Sarit Kraus -><author>
+Department of Computer Science and The Gonda Brain Research Center -><affiliation>
+Bar-Ilan University, Ramat-Gan 52900, Israel, sarit@cs.biu.ac.il -><affiliation>

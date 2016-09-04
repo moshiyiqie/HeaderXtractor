@@ -1,0 +1,16 @@
+RADIC - A Generic Component for the Integration of -><title>
+Existing Reactive and Deliberative Layers -><title>
+James Kramer -><author>
+Artificial Intelligence & Robotics Lab -><affiliation>
+Department of Computer Science and -><affiliation>
+Engineering -><affiliation>
+University of Notre Dame -><affiliation>
+Notre Dame, IN 46556, USA -><address>
+jkramer3@cse.nd.edu -><email>
+Matthias Scheutz -><author>
+Artificial Intelligence & Robotics Lab -><affiliation>
+Department of Computer Science and -><affiliation>
+Engineering -><affiliation>
+University of Notre Dame -><affiliation>
+Notre Dame, IN 46556, USA -><address>
+mscheutz@cse.nd.edu -><email>

@@ -1,0 +1,5 @@
+Multi-Agent Decision Support Via User-Modeling -><title>
+Terrence Harvey, Keith Decker, and Sandra Carberry -><author>
+University of Delaware -><affiliation>
+Computer and Information Sciences -><affiliation>
+{harvey, decker, carberry}@cis.udel.edu -><email>

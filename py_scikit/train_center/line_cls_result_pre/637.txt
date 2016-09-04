@@ -1,0 +1,16 @@
+The Cost of Social Agents∗ -><title>
+Guido Governatori -><author>
+School of ITEE -><affiliation>
+The University of Queensland -><affiliation>
+Brisbane, Australia -><address>
+Antonino Rotolo -><author>
+CIRSFID -><affiliation>
+University of Bologna -><affiliation>
+Bologna, Italy -><address>
+Vineet Padmanabhan -><author>
+School of ITEE -><affiliation>
+The University of Queensland -><affiliation>
+Brisbane, Australia -><address>
+guido@itee.uq.edu.au -><email>
+vnair@itee.uq.edu.au -><email>
+rotolo@cirsfid.unibo.it -><email>

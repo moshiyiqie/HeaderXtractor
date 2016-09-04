@@ -1,0 +1,14 @@
+A Technique for Reducing Normal-Form -><title>
+Games to Compute a Nash Equilibrium∗ -><title>
+Tuomas Sandholm -><author>
+Carnegie Mellon University -><affiliation>
+Computer Science Department -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213, USA -><address>
+Vincent Conitzer -><author>
+Carnegie Mellon University -><affiliation>
+Computer Science Department -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213, USA -><address>
+sandholm@cs.cmu.edu -><email>
+conitzer@cs.cmu.edu -><email>

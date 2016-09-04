@@ -1,0 +1,9 @@
+Behaviosites: A Novel Paradigm -><title>
+for Affecting Distributed Behavior -><title>
+Amit Shabtay -><author>
+Jeffrey S. Rosenschein -><author>
+Zinovi Rabinovich -><author>
+nomad@cs.huji.ac.il -><email>
+ashabtay@gmail.com -><email>
+jeff@cs.huji.ac.il -><email>
+School of Engineering and Computer Science, Hebrew University, Jerusalem, Israel -><affiliation>

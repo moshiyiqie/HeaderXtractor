@@ -1,0 +1,13 @@
+What Kind of Argument Are We Going to Have Today? -><title>
+Eva Cogan and Simon Parsons -><author>
+Dept of Computer and Information Science -><affiliation>
+Brooklyn College -><affiliation>
+City University of New York -><affiliation>
+Brooklyn, NY 11210 USA -><address>
+p.j.mcburney@csc.liv.ac.uk -><email>
+Peter McBurney -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Chadwick Building -><address>
+Peach Street, Liverpool L69 7ZF, UK -><address>
+{cogan,parsons}@sci.brooklyn.cuny.edu -><email>

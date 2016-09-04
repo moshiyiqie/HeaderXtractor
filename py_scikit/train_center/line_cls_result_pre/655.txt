@@ -1,0 +1,14 @@
+Robust Recognition of Physical Team Behaviors Using -><title>
+Spatio-Temporal Models -><title>
+Katia Sycara -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave. -><address>
+Pittsburgh, PA -><address>
+Gita Sukthankar -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave. -><address>
+Pittsburgh, PA -><address>
+katia+@cs.cmu.edu -><email>
+gitars@cs.cmu.edu -><email>

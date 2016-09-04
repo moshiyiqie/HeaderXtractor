@@ -1,0 +1,14 @@
+﻿Coordinated exploration of unknown labyrinthine -><title>
+environments applied to the Pursuit›Evasion problem -><title>
+Humbert Fiorino -><author>
+Laboratoire Leibniz (CNRS - INPG - IMAG) -><affiliation>
+Equipe MAGMA -><affiliation>
+46, avenue Fe´lix Viallet -><address>
+F-38031, Grenoble -><address>
+Humbert.Fiorino@imag.fr -><email>
+Damien Pellier -><author>
+Laboratoire Leibniz (CNRS - INPG - IMAG) -><affiliation>
+Equipe MAGMA -><affiliation>
+46, avenue Fe´lix Viallet -><address>
+F-38031, Grenoble -><address>
+Damien.Pellier@imag.fr -><email>

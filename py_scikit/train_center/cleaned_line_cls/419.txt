@@ -1,0 +1,14 @@
+A Scalable Approach to Multi-Agent Resource Acquisition -><affiliation>
+and Control -><title>
+Xinghui Zhao -><author>
+Department of Computer Science -><affiliation>
+University of Saskatchewan -><affiliation>
+176 Thorvaldson Bldg., 110 Science Place -><address>
+Saskatoon, SK, Canada, S7N 5C9 -><address>
+x.zhao@usask.ca -><email>
+Nadeem Jamali -><author>
+Department of Computer Science -><affiliation>
+University of Saskatchewan -><affiliation>
+176 Thorvaldson Bldg., 110 Science Place -><address>
+Saskatoon, SK, Canada, S7N 5C9 -><address>
+n.jamali@usask.ca -><email>

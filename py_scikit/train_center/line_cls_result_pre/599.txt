@@ -1,0 +1,11 @@
+Dynamic Cooperation Using Resource Based Planning -><title>
+Faruk Polat -><author>
+Department of Computer Engineering -><affiliation>
+Midde East Technical University -><affiliation>
+Ankara, Turkey -><address>
+Utku Erdog˘du -><author>
+Department of Computer Engineering -><affiliation>
+Midde East Technical University -><affiliation>
+Ankara, Turkey -><address>
+polat@ceng.metu.edu.tr -><email>
+utku@ceng.metu.edu.tr -><email>

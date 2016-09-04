@@ -1,0 +1,9 @@
+History-based Traffic Control -><title>
+Gabriel Balan -><author>
+George Mason University -><affiliation>
+Fairfax, VA (USA) -><address>
+gbalan@cs.gmu.edu -><email>
+Sean Luke -><author>
+George Mason University -><affiliation>
+Fairfax, VA (USA) -><address>
+sean@cs.gmu.edu -><email>

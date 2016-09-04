@@ -1,0 +1,12 @@
+Enforceable Social Laws -><title>
+Guido Boella -><author>
+Dip. di Informatica -><affiliation>
+Universita` di Torino -><affiliation>
+Italy -><address>
+guido@di.unito.it -><email>
+Leendert van der Torre -><author>
+CWI Amsterdam -><affiliation>
+and Delft Univ. of Technology -><affiliation>
+The Netherlands -><address>
+torre@cwi.nl -><email>
+

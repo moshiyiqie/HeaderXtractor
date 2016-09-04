@@ -1,0 +1,15 @@
+Stochastic Planning for Weakly-Coupled -><title>
+Distributed Agents -><title>
+AnYuan Guo Victor Lesser -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts Amherst -><affiliation>
+Amherst, MA 01003 -><address>
+{anyuan,lesser}@cs.umass.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.8 [Artificial Intelligence]: Problem Solving, Control -><keyword>
+Methods, and Search; I.2.11 [Artificial Intelligence]: Dis- -><keyword>
+tributed Artificial Intelligence—multiagent systems -><keyword>
+General Terms -><keyword>
+Algorithms, Performance, Design, Experimentation -><keyword>
+Keywords -><keyword>
+planning, game theory -><keyword>

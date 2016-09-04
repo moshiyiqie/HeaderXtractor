@@ -1,0 +1,20 @@
+Predicting Possible Conflicts in Hierarchical planning for -><title>
+Multi-Agent Systems -><title>
+Toshiharu Sugawara1 Satoshi Kurihara2 Toshio Hirotsu3 Kensuke Fukuda4 and -><author>
+Toshihiro Takada1 -><author>
+2Inst. of Scientific and Industrial -><note>
+1NTT Communication Science -><note>
+3Dept. of Information and -><intro>
+Laboratories -><affiliation>
+4NTT Network Innovation Laboratories -><affiliation>
+Research -><author>
+Osaka University -><affiliation>
+Computer Sciences -><affiliation>
+Toyohashi University of -><affiliation>
+Technology -><affiliation>
+2–4 Keihanna City,Soraku-gun -><address>
+Kyoto 619-0237, Japan -><address>
+kurihara@ist.osaka- -><email>
+u.ac.jp -><email>
+hirotsu@entia.org -><email>
+{sugawara,fukuda,takada}@t.ecl.net -><email>

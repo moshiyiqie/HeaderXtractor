@@ -1,0 +1,17 @@
+MDPOP: Faithful Distributed Implementation of Efficient -><title>
+Social Choice Problems -><title>
+∗ -><author>
+David C. Parkes† -><author>
+DEAS, Harvard University -><affiliation>
+Cambridge, MA 02138 USA -><address>
+Adrian Petcu -><author>
+Ecole Polytechnique Fe´de´rale -><affiliation>
+de Lausanne (EPFL) -><affiliation>
+Lausanne, Switzerland -><address>
+Boi Faltings -><unknow>
+Ecole Polytechnique Fe´de´rale -><author>
+de Lausanne (EPFL) -><affiliation>
+Lausanne, Switzerland -><address>
+parkes@eecs.harvard.edu -><email>
+adrian.petcu@epfl.ch -><email>
+boi.faltings@epfl.ch -><email>

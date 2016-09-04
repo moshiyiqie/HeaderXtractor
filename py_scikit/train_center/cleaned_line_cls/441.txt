@@ -1,0 +1,15 @@
+Awareness as a vital ingredient of teamwork -><title>
+Rineke Verbrugge -><author>
+Department of Artificial Intelligence -><affiliation>
+University of Groningen -><affiliation>
+Grote Kruisstraat 2/1 -><address>
+9712 TS Groningen, The Netherlands -><address>
+rineke@ai.rug.nl -><email>
+Barbara Dunin-Ke¸plicz -><author>
+Institute of Informatics -><affiliation>
+Warsaw University -><affiliation>
+Banacha 2, 02-097 Warsaw, Poland -><address>
+Institute of Computer Science -><affiliation>
+Polish Academy of Sciences -><affiliation>
+Ordona 21, 01-237 Warsaw, Poland -><address>
+keplicz@mimuw.edu.pl -><email>

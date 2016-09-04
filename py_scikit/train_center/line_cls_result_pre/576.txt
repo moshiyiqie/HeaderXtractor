@@ -1,0 +1,6 @@
+The Interpreted System Model -><title>
+of Knowledge, Belief, Desire and Intention ¤ -><title>
+Kaile Su1, Xiangyu Luo1, Abdul Sattar1, Mehmet A Orgun2 -><author>
+1Institute for Integrated and Intelligent Systems, Grifth University, Brisbane, Australia -><affiliation>
+2Department of Computing, Macquarie University, Sydney, Australia -><affiliation>
+{k.su, x.luo, a.sattar}@grifth.edu.au; mehmet@comp.mq.edu.au -><email>

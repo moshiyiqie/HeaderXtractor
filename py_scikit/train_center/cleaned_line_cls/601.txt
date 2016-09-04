@@ -1,0 +1,6 @@
+Organizational Self-Design in Semi-dynamic Environments -><title>
+Sachin Kamboj and Keith S. Decker -><author>
+Department of Computer and Information Sciences -><affiliation>
+University of Delaware -><affiliation>
+Newark, DE 19716 -><address>
+{kamboj, decker}@cis.udel.edu -><email>

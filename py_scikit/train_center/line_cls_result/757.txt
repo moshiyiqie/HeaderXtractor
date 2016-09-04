@@ -1,0 +1,6 @@
+Monotone cooperative games and their threshold versions -><title>
+Haris Aziz Felix Brandt Paul Harrenstein -><author>
+Institut für Informatik -><affiliation>
+Universität München -><affiliation>
+80538 München, Germany -><address>
+{aziz,brandtf,harrenst}@tcs.iﬁ.lmu.de -><email>

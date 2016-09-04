@@ -1,0 +1,25 @@
+RPD-Enabled Agents Teaming with Humans for -><title>
+Multi-Context Decision Making -><title>
+Bingjun Sun -><author>
+Department of Computer -><affiliation>
+Science and Engineering -><affiliation>
+The Pennsylvania State -><affiliation>
+University -><affiliation>
+University Park, PA 16802 -><affiliation>
+Xiaocong Fan -><author>
+College of Information -><affiliation>
+Sciences and Technology -><affiliation>
+The Pennsylvania State -><affiliation>
+University -><affiliation>
+University Park, PA 16802 -><affiliation>
+Shuang Sun, -><address>
+Michael McNeese, -><author>
+John Yen -><author>
+College of Information -><affiliation>
+Sciences and Technology -><affiliation>
+The Penn State University -><affiliation>
+University Park, PA 16802 -><affiliation>
+bsun@cse.psu.edu -><email>
+zfan@ist.psu.edu -><email>
+{ssun,mmcneese,jyen} -><web>
+@ist.psu.edu -><email>

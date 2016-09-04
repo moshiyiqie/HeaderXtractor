@@ -1,0 +1,20 @@
+Sequential Auctions for Objects -><title>
+with Common and Private Values -><title>
+Michael Wooldridge -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, U.K. -><address>
+mjw@csc.liv.ac.uk -><email>
+Nicholas R. Jennings -><author>
+School of Electronics and -><affiliation>
+Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton SO17 1BJ, U.K. -><address>
+nrj@ecs.soton.ac.uk -><email>
+Shaheen Fatima -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, U.K. -><address>
+shaheen@csc.liv.ac.uk -><email>

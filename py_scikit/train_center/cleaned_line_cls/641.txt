@@ -1,0 +1,11 @@
+Information-theoretic approaches to branching in search∗ -><title>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+sandholm@cs.cmu.edu -><email>
+Andrew Gilpin -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+gilpin@cs.cmu.edu -><email>

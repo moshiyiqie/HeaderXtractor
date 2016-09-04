@@ -1,0 +1,6 @@
+Negotiating over Small Bundles of Resources -><title>
+Yann Chevaleyre1, Ulle Endriss2, Je´roˆme Lang3 and Nicolas Maudet1 -><author>
+1LAMSADE, Universite´ Paris-Daupine (France) -><affiliation>
+2Department of Computing, Imperial College London (UK) -><affiliation>
+3IRIT, Universite´ Paul Sabatier, Toulouse (France) -><affiliation>
+1{chevaley,maudet}@lamsade.dauphine.fr, 2ue@doc.ic.ac.uk, 3lang@irit.fr -><email>

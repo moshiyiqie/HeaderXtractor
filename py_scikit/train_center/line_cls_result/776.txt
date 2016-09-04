@@ -1,0 +1,16 @@
+Narrative Generation through Characters’ Point of View -><title>
+Julie Porteous -><author>
+School of Computing -><affiliation>
+Teesside University -><affiliation>
+Middlesbrough, U.K. -><address>
+j.porteous@tees.ac.uk -><email>
+Marc Cavazza -><author>
+School of Computing -><affiliation>
+Teesside University -><affiliation>
+Middlesbrough, U.K. -><address>
+m.o.cavazza@tees.ac.uk -><email>
+Fred Charles -><author>
+School of Computing -><affiliation>
+Teesside University -><affiliation>
+Middlesbrough, U.K. -><address>
+f.charles@tees.ac.uk -><email>

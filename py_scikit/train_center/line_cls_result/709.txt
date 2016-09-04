@@ -1,0 +1,15 @@
+TANDEM - a Design Method for Integrating Web Services -><title>
+into Multi-Agent Systems -><title>
+Leon Sterling -><author>
+University of Melbourne -><affiliation>
+Intelligent Agent Lab -><affiliation>
+111 Barry St, Carlton, 3010 -><author>
+leon@cs.mu.oz.au -><email>
+Christine Sun -><author>
+Independent Scholar -><affiliation>
+P.O. Box 218, Belgrave, -><address>
+Sandrine Balbo -><author>
+University of Melbourne -><affiliation>
+Interaction Design Group -><affiliation>
+Australia, VIC, 3160 -><address>
+csun@taiwan.com.au -><email>

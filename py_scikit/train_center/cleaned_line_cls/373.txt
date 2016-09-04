@@ -1,0 +1,8 @@
+Argumentation-based dialogues for deliberation -><title>
+Yuqing Tang and Simon Parsons -><author>
+Department of Computer Science -><affiliation>
+Graduate Center -><affiliation>
+City University of New York -><affiliation>
+365 5th Avenue, New York -><address>
+NY 10016, USA -><address>
+ytang@gc.cuny.edu,parsons@sci.brooklyn.cuny.edu -><email>

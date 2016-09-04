@@ -1,0 +1,6 @@
+Multi-Robot Learning with Particle Swarm Optimization -><title>
+Jim Pugh and Alcherio Martinoli -><title>
+Swarm-Intelligent Systems Group -><author>
+´Ecole Polytechnique Fe´de´rale de Lausanne -><author>
+1015 Lausanne, Switzerland -><address>
+{jim.pugh,alcherio.martinoli}@epfl.ch -><email>

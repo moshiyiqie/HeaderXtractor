@@ -1,0 +1,15 @@
+A Comparison Between Mechanisms for Sequential -><title>
+Compute Resource Auctions -><title>
+Andrew Byde HP Labs -><affiliation>
+Filton Road, Stoke Gifford -><address>
+Bristol, BS34 8QZ -><address>
+andrew.byde@hp.com -><email>
+General Terms -><author>
+Economics, Experimentation, Management -><keyword>
+Keywords -><keyword>
+Bidding, Utility Computing, GRID, Market-based Control, -><keyword>
+Genetic Algorithms -><keyword>
+Categories and Subject Descriptors -><keyword>
+I.6.3 [Simulation and Modelling]: Applications—Eco- -><keyword>
+nomics; I.2.1 [Artificial Intelligence]: Applications and -><keyword>
+Expert Systems -><intro>

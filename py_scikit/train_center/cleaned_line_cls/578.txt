@@ -1,0 +1,20 @@
+﻿Mutual Enrichment Through Nested Belief Change -><title>
+∗ -><title>
+Laurent Perrussel -><author>
+IRIT–Universite´ Toulouse 1 -><affiliation>
+Manufacture des Tabacs, 21 -><address>
+alle´e de Brienne, F-31042 -><address>
+Toulouse Cedex - France -><address>
+laurent.perrussel@irit.fr -><email>
+Thomas Meyer -><author>
+NICTA and UNSW -><affiliation>
+223 Anzac Parade -><address>
+Kensington, NSW, 2052, -><address>
+Australia -><address>
+thomas.meyer@nicta.com.au -><email>
+Jean-Marc The´venin -><author>
+IRIT–Universite´ Toulouse 1 -><affiliation>
+Manufacture des Tabacs, 21 -><address>
+alle´e de Brienne, F-31042 -><address>
+Toulouse Cedex - France -><address>
+thevenin@univ-tlse1.fr -><email>

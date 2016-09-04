@@ -1,0 +1,26 @@
+ACTIVE: Agile Coordinator Testbed -><title>
+Integrated Virtual Environment -><title>
+L. Kerschberg, A. Brodsky -><author>
+George Mason University, KRM, Inc. -><affiliation>
+and Adaptive Decisions, Inc. -><affiliation>
+ISE Department, MS 4A4 -><address>
+Fairfax, VA 22030-4444 -><address>
+1-703-993-1640 -><phone>
+{kersch, brodsky}@gmu.edu -><email>
+X. Zhang -><author>
+University of Mass-Dartmouth -><affiliation>
+Computer and Information Science -><affiliation>
+285 Old Westport Rd. -><address>
+North Dartmouth, MA 02747-2300 -><address>
+1-508-999-8294 -><phone>
+x2zhang@umassd.edu -><email>
+G. Emami, J. Cheng, -><author>
+D. Cornwell, M. Feldhousen, -><author>
+C. Long, V. Malhotra, I. Starnes -><author>
+Global InfoTek, Inc. -><affiliation>
+1920 Association Drive -><address>
+Reston, VA 20191-1545 -><address>
+1-703-652-1600 -><phone>
+{gemami, jcheng, dcornwel, -><email>
+mfeldhousen, clong, vmalhotra, -><email>
+istarnes} @globalinfotek.com -><email>

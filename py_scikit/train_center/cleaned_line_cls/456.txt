@@ -1,0 +1,11 @@
+Using Queuing Theory to Predict Organizational Metrics ∗ -><title>
+Victor Lesser -><author>
+Multi-Agent Systems Lab -><affiliation>
+University of Massachusetts, -><affiliation>
+Amherst, MA -><address>
+lesser@cs.umass.edu -><email>
+Bryan Horling† -><author>
+Multi-Agent Systems Lab -><affiliation>
+University of Massachusetts, -><affiliation>
+Amherst, MA -><address>
+bhorling@cs.umass.edu -><email>

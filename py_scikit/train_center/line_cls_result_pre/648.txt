@@ -1,0 +1,26 @@
+Towards Autonomous Mobile Agents with Emergent -><title>
+Migration Behaviour -><title>
+Tino Schlegel∗ -><author>
+Swinburne University of -><affiliation>
+Technology -><affiliation>
+Faculty of Information and -><affiliation>
+Communication Technologies -><affiliation>
+Hawthorn, 3122 Victoria, -><address>
+Australia -><address>
+Peter Braun -><author>
+Swinburne University of -><affiliation>
+Technology -><degree>
+Faculty of Information and -><degree>
+Communication Technologies -><degree>
+Hawthorn, 3122 Victoria, -><degree>
+Australia -><degree>
+Ryszard Kowalczyk -><author>
+Swinburne University of -><affiliation>
+Technology -><degree>
+Faculty of Information and -><degree>
+Communication Technologies -><affiliation>
+Hawthorn, 3122 Victoria, -><address>
+Australia -><address>
+tschlegel@ict.swin.edu.au -><email>
+pbraun@ict.swin.edu.au -><email>
+rkowalczyk@ict.swin.edu.au -><email>

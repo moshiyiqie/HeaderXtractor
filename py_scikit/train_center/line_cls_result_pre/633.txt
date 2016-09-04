@@ -1,0 +1,22 @@
+A Constraint Optimization Framework for -><title>
+Fractured Robot Teams -><title>
+∗ -><author>
+† -><author>
+Illah Nourbakhsh -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave. -><address>
+Pittsburgh, PA 15213 -><address>
+Katia Sycara -><affiliation>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave. -><address>
+Pittsburgh, PA 15213 -><address>
+Mary Koes -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave. -><address>
+Pittsburgh, PA 15213 -><address>
+illah@cs.cmu.edu -><email>
+katia@cs.cmu.edu -><email>
+mberna@cs.cmu.edu -><email>

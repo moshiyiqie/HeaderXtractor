@@ -1,0 +1,12 @@
+Learning the Required Number of Agents for Complex -><title>
+Tasks -><title>
+Brahim Chaib-draa -><author>
+DAMAS laboratory, department of computer -><affiliation>
+science and software engineering -><affiliation>
+Laval University, Canada -><affiliation>
+chaib@damas.ift.ulaval.ca -><email>
+Se´bastien Paquet -><author>
+DAMAS laboratory, department of computer -><affiliation>
+science and software engineering -><affiliation>
+Laval University, Canada -><affiliation>
+spaquet@damas.ift.ulaval.ca -><email>

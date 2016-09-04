@@ -1,0 +1,17 @@
+Flexible Task Resourcing for Intelligent Agents ∗ -><title>
+Timothy J. Norman -><author>
+Computing Science -><affiliation>
+University of Aberdeen -><affiliation>
+AB24 3UE, United Kingdom -><address>
+t.j.norman@abdn.ac.uk -><email>
+Murat S¸ensoy -><author>
+Computing Science -><affiliation>
+University of Aberdeen -><affiliation>
+AB24 3UE, United Kingdom -><address>
+m.sensoy@abdn.ac.uk -><email>
+Wamberto W. -><author>
+Vasconcelos -><author>
+Computing Science -><affiliation>
+University of Aberdeen -><affiliation>
+AB24 3UE, United Kingdom -><address>
+wvasconcelos@acm.org -><email>

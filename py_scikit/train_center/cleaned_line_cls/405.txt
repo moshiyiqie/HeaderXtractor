@@ -1,0 +1,12 @@
+Formalizing and Achieving Multiparty Agreements via -><title>
+Commitments -><title>
+Munindar P. Singh -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-7535, USA -><address>
+singh@ncsu.edu -><email>
+Feng Wan -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-7535, USA -><address>
+fwpub-ncsu@yahoo.com -><email>

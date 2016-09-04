@@ -1,0 +1,12 @@
+Learning Empathy: A Data-Driven Framework for -><title>
+Modeling Empathetic Companion Agents -><title>
+James C. Lester -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695, USA -><address>
+lester@csc.ncsu.edu -><email>
+Scott W. McQuiggan -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695, USA -><address>
+swmcquig@ncsu.edu -><email>

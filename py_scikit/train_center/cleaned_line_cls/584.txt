@@ -1,0 +1,5 @@
+A Stochastic Language for Modelling Opponent Agents -><title>
+Gerardo Simari Amy Sliva Dana Nau V.S.Subrahmanian -><author>
+University of Maryland -><affiliation>
+College Park, Maryland, USA -><affiliation>
+{gisimari,asliva,nau,vs}@cs.umd.edu -><email>

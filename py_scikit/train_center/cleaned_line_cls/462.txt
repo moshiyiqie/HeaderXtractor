@@ -1,0 +1,16 @@
+Comparing Market and Token-Based Coordination -><title>
+Yang Xu -><author>
+School of Info Sciences -><affiliation>
+University of Pittsburgh -><affiliation>
+Pittsburgh, PA 15260, USA -><address>
+yxu@sis.pitt.edu -><email>
+Paul Scerri and Katia Sycara -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>
+{pscerri, katia}@cs.cmu.edu -><email>
+Michael Lewis -><author>
+School of Info Sciences -><affiliation>
+University of Pittsburgh -><affiliation>
+Pittsburgh, PA 15260, USA -><address>
+ml@sis.pitt.edu -><email>

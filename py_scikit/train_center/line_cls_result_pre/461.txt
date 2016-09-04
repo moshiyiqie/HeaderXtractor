@@ -1,0 +1,12 @@
+Structural Evaluation of Agent Organizations -><title>
+Lambe`r Royakkers -><author>
+Eindhoven University of Technology -><affiliation>
+PO Box 513, 5600 MB -><address>
+Eindhoven, The Netherlands -><address>
+Davide Grossi Frank Dignum -><author>
+Virginia Dignum Mehdi Dastani -><author>
+Utrecht University -><affiliation>
+PO Box 80.089, 3508TB -><address>
+Utrecht, The Netherlands -><address>
+l.m.m.royakkers@tm.tue.nl -><email>
+{davide,dignum,virginia,mehdi}@cs.uu.nl -><email>

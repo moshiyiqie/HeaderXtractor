@@ -1,0 +1,7 @@
+Automating Deep Space Network Scheduling -><title>
+and Conflict Resolution -><title>
+Mark D. Johnston and Bradley J. Clement -><author>
+Jet Propulsion Laboratory, California Institute of Technology -><affiliation>
+4800 Oak Grove Drive -><address>
+Pasadena, CA 91109 USA -><address>
+{mark.johnston, bclement}@jpl.nasa.gov -><email>

@@ -1,0 +1,16 @@
+A Smart Home Agent for Plan Recognition -><title>
+Abdenour Bouzouane -><title>
+Universite´ du Que´bec Chicoutimi -><affiliation>
+555, boul. de l’Universite´ -><affiliation>
+Chicoutimi (Que´bec), Canada -><address>
+abouzoua@uqac.ca -><email>
+Bruno Bouchard -><author>
+Universite´ de Sherbrooke -><affiliation>
+2500, boul. de l’Universite´, -><affiliation>
+Sherbrooke (Que´bec), Canada -><address>
+Bruno.Bouchard@usherbrooke.ca -><email>
+Sylvain Giroux -><author>
+Universite´ de Sherbrooke -><affiliation>
+2500, boul. de l’Universite´, -><affiliation>
+Sherbrooke (Que´bec), Canada -><address>
+Sylvain.Giroux@usherbrooke.ca -><email>

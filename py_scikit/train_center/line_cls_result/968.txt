@@ -1,0 +1,6 @@
+PAC-MDP Learning with Knowledge-based Admissible -><title>
+Models -><title>
+Marek Grzes´ and Daniel Kudenko -><author>
+Department of Computer Science, University of York -><affiliation>
+Heslington, YO10 5DD York, UK -><address>
+{grzes, kudenko}@cs.york.ac.uk -><email>

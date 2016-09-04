@@ -1,0 +1,12 @@
+Computational Mechanism Design for -><title>
+Multi-Sensor Information Fusion -><title>
+S. Reece and S. Roberts -><author>
+Department of Engineering Science -><affiliation>
+University of Oxford -><affiliation>
+Oxford, UK. -><address>
+A. Rogers, R.K. Dash and N.R. Jennings -><author>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton, UK. -><address>
+{reece,sjrob}@robots.ox.ac.uk -><email>
+{acr,rkd02r,nrj}@ecs.soton.ac.uk -><email>

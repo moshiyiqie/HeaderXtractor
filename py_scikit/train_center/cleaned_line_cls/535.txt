@@ -1,0 +1,7 @@
+Synergistic Integration of Agent Technologies for Military -><title>
+Simulation -><title>
+Sean Owens, Paul Scerri, Robin Glinton, Bin Yu and Katia Sycara -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>
+{owens, pscerri, rglinton, byu, katia}@cs.cmu.edu -><email>

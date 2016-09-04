@@ -1,0 +1,17 @@
+Artifacts for Time-Aware Agents ∗ -><title>
+Ce´dric Dinont -><title>
+USTL/LIFL and ISEN -><author>
+59655 Villeneuve-d’Ascq, France -><pubnum>
+Emmanuel Druon -><author>
+ISEN 41 Bd Vauban -><address>
+59046 Lille Cedex, France -><address>
+emmanuel.druon@isen.fr -><email>
+cedric.dinont@lifl.fr -><email>
+Patrick Taillibert -><author>
+Thales Aerospace Division -><affiliation>
+78951 Elancourt, France -><address>
+Philippe Mathieu -><author>
+USTL/LIFL -><affiliation>
+59655 Villeneuve-d’Ascq, France -><address>
+patrick.taillibert@fr.thalesgroup.com -><email>
+philippe.mathieu@lifl.fr -><email>

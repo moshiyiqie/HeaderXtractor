@@ -1,0 +1,6 @@
+ITSUMO†: an Intelligent Transportation System -><title>
+for Urban Mobility -><title>
+Bruno Castro da Silva†, Robert Junges†, Denise de Oliveira‡, and Ana L.C. Bazzan†∗ -><author>
+Instituto de Informática, UFRGS -><affiliation>
+Caixa Postal 15064, CEP 91.501-970 Porto Alegre, RS, Brazil -><address>
+{bcs,junges,edenise,bazzan}@inf.ufrgs.br -><email>

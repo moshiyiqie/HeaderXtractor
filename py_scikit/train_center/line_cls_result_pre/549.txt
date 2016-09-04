@@ -1,0 +1,6 @@
+Synthetic Humans in Emergency Response Drills -><title>
+Daniel Massaguer, Vidhya Balasubramanian, Sharad Mehrotra, and Nalini Venkatasubramanian -><author>
+Donald Bren School of Information and Computer Science -><affiliation>
+University of California, Irvine -><affiliation>
+Irvine, CA 92697, USA -><address>
+{dmassagu, vbalasub, sharad, nalini}@ics.uci.edu -><email>

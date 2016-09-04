@@ -1,0 +1,6 @@
+Believable Groups of Synthetic Characters -><title>
+Rui Prada, Ana Paiva -><author>
+IST-Technical University of Lisbon and INESC-ID -><affiliation>
+Avenida Prof. Cavaco Silva - Taguspark -><author>
+2780-990 Porto Salvo, Portugal -><address>
+{rui.prada,ana.paiva}@inesc-id.pt -><email>

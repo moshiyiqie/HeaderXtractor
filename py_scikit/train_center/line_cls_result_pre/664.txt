@@ -1,0 +1,15 @@
+How -><title>
+without -><title>
+Satoshi -><author>
+kurihara@ist.osaka-u.ac.jp -><email>
+Kensuke -><author>
+fukuda@nii.ac.jp -><email>
+8-1, -><phone>
+National -><unknow>
+Osaka -><title>
+Shinya -><author>
+sato@ingrid.org -><email>
+Toshiharu -><author>
+sugawara@t.ecl.net -><email>
+NTT -><affiliation>
+NTT -><affiliation>

@@ -1,0 +1,13 @@
+A Formal Framework for Agent Interaction Semantics -><title>
+Jim Cunningham -><author>
+Imperial College -><affiliation>
+London SW7 2BZ, UK. -><address>
+rjc@doc.ic.ac.uk -><email>
+Nicholas R. Jennings -><author>
+University of Southampton -><affiliation>
+Southampton SO17 1BJ, UK. -><address>
+nrj@ecs.soton.ac.uk -><email>
+Shamimabi Paurobally -><author>
+University of Southampton -><affiliation>
+Southampton SO17 1BJ, UK. -><address>
+sp@ecs.soton.ac.uk -><email>

@@ -1,0 +1,26 @@
+﻿Adapting to Agents’ Personalities in Negotiation -><title>
+Shavit Talman -><author>
+Dept. of Computer Science -><affiliation>
+Bar Ilan University -><affiliation>
+Ramat Gan 52900, Israel -><address>
+Ya’akov Gal -><author>
+Division of Engineering and -><affiliation>
+Applied Sciences -><affiliation>
+Harvard University -><affiliation>
+Cambridge, MA 02138 -><address>
+Sarit Kraus -><author>
+Dept. of Computer Science -><affiliation>
+Bar Ilan University -><affiliation>
+Ramat Gan 52900, Israel -><address>
+Meirav Hadad -><author>
+Caesarea Rothschild Institute -><affiliation>
+University of Haifa -><affiliation>
+Haifa 31905, Israel -><address>
+Categories and Subject Descriptors -><note>
+I.2 [Artificial Intelligence]: I.2.11Distributed Artificial Intelligence -><note>
+Multiagent systems -><note>
+General Terms -><unknow>
+Design, Experimentation -><keyword>
+Keywords -><keyword>
+Negotiation, Social decision-making, Opponent modeling, Game -><keyword>
+formalisms -><keyword>

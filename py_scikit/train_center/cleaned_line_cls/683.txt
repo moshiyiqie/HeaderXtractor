@@ -1,0 +1,4 @@
+Rule Value Reinforcement Learning for Cognitive Agents -><title>
+Chris Child and Kostas Stathis -><author>
+City University, London, UK -><affiliation>
+{c.child, k.stathis}@city.ac.uk -><email>

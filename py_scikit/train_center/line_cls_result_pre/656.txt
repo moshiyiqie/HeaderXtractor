@@ -1,0 +1,12 @@
+How Autonomy Oriented Computing (AOC) Tackles a -><title>
+Computationally Hard Optimization Problem -><title>
+Jiming Liu -><author>
+Department of Computer Science -><affiliation>
+Hong Kong Baptist University -><affiliation>
+Kowloon Tong, Hong Kong -><affiliation>
+Xiao-Feng Xie -><author>
+Department of Computer Science -><affiliation>
+Hong Kong Baptist University -><affiliation>
+Kowloon Tong, Hong Kong -><address>
+jiming@comp.hkbu.edu.hk -><email>
+xfxie@comp.hkbu.edu.hk -><email>

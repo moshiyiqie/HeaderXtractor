@@ -1,0 +1,6 @@
+Approximating State Estimation in Multiagent Settings -><title>
+Using Particle Filters -><title>
+Prashant Doshi and Piotr J. Gmytrasiewicz -><author>
+Department of Computer Science -><affiliation>
+University of Illinois at Chicago, IL 60607 -><affiliation>
+{pdoshi,piotr}@cs.uic.edu -><email>

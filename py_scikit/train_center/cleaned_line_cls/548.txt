@@ -1,0 +1,12 @@
+Conflict Negotiation Among Personal Calendar Agents -><title>
+Pauline M. Berry, Cory Albright, Emma Bowring, Ken Conley, Kenneth Nitz, Jonathan P. -><author>
+University of Southern California -><affiliation>
+3737 Watt Way, -><address>
+Los Angeles, CA 90089, USA -><address>
+{bowring, jppearce, tambe}@usc.edu -><email>
+SRI International -><affiliation>
+333 Ravenswood Avenue -><address>
+Menlo Park, CA 94025, USA -><address>
+{berry, conley, peintner}@ai.sri.com, -><email>
+{saadati, uribe, nysmith}@ai.sri.com, -><email>
+{kenneth.nitz, cory.albright} @sri.com -><email>

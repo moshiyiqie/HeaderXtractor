@@ -1,0 +1,25 @@
+How Multiple Concurrent Users React to a Quiz Agent -><title>
+Attentive to the Dynamics of Their Game Participation -><title>
+∗ -><author>
+Yukiko Nakano -><author>
+Department of Computer and -><affiliation>
+Information Science, Seikei -><affiliation>
+University, Japan -><affiliation>
+y.nakano@st.seikei.ac.jp -><email>
+Aleksandra Cerekovic, -><author>
+Igor S. Pandzic -><author>
+Faculty of Electrical -><affiliation>
+Engineering and Computing, -><affiliation>
+University of Zagreb, Croatia -><affiliation>
+{aleksandra.cerekovic, -><email>
+Igor.Pandzic}@fer.hr -><email>
+Hung-Hsuan Huang -><author>
+Takuya Furukawa, -><keyword>
+Hiroki Ohashi, -><author>
+Toyoaki Nishida -><author>
+Graduate School of -><keyword>
+Informatics, Kyoto University, -><affiliation>
+Japan -><affiliation>
+{huang, furukawa, -><keyword>
+ohashi, nishida}@ -><email>
+ii.ist.i.kyoto-u.ac.jp -><email>

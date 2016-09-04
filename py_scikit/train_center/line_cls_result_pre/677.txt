@@ -1,0 +1,12 @@
+Selecting Informative Actions Improves Cooperative -><title>
+Multiagent Learning -><title>
+Sean Luke -><author>
+George Mason University -><affiliation>
+4400 University Drive MSN 4A5 -><affiliation>
+Fairfax, VA 22030, USA -><address>
+Liviu Panait -><author>
+George Mason University -><affiliation>
+4400 University Drive MSN 4A5 -><affiliation>
+Fairfax, VA 22030, USA -><address>
+sean@cs.gmu.edu -><email>
+lpanait@cs.gmu.edu -><email>

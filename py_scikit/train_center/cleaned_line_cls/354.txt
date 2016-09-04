@@ -1,0 +1,5 @@
+Multiagent Coordination by Extended Markov Tracking -><title>
+Zinovi Rabinovich Jeffrey S. Rosenschein -><author>
+School of Engineering and Computer Science -><affiliation>
+Hebrew University, Jerusalem, Israel -><affiliation>
+{nomad, jeff}@cs.huji.ac.il -><email>

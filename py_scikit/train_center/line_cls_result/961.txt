@@ -1,0 +1,12 @@
+A Graph-Theoretic Approach to Protect Static and Moving -><title>
+Targets from Adversaries -><title>
+Sarit Kraus -><author>
+Department of Computer Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat Gan, Israel -><address>
+sarit@cs.biu.ac.il -><email>
+J.P. Dickerson G.I. Simari V.S. Subrahmanian -><author>
+Department of Computer Science and UMIACS -><affiliation>
+University of Maryland -><affiliation>
+College Park, Maryland, USA -><address>
+{jdicker1,gisimari,vs}@cs.umd.edu -><email>

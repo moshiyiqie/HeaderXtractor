@@ -2,5 +2,5 @@ Towards Emergence of Communication: -><title>
 A Cognitive Developmental Robotics Approach -><title>
 Minoru Asada -><author>
 JST ERATO Asada Synergistic Intelligence Project and Dept. of Adaptive Machine Systems -><affiliation>
-Graduate School of Eng., Osaka University, Suita, Osaka 565-0871, Japan -><address>
+Graduate School of Eng., Osaka University, Suita, Osaka 565-0871, Japan -><affiliation>
 asada@jeap.org -><email>

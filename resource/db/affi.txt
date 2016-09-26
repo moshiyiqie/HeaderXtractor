@@ -34,3 +34,7 @@ system laboratory
 universitat gh
 research institute
 laboratoire
+google
+ibm
+facebook
+microsoft

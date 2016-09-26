@@ -97,7 +97,13 @@ def containDigit(line):
 				return 1
 	return 0
 def allDigit(line):
-	return str.isdigit(line.replace(' ',''))
+	alphaNum=0
+	digitNum=0
+	for ch in line:
+		if str.isalpha(ch): alphaNum += 1
+		elif str.isdigit(ch): digitNum += 1
+	return alphaNum == 0 and digitNum > 0
+	#return str.isdigit(line.replace(' ',''))
 def containDot(line):
 	return '.' in line
 def containDash(line):
@@ -138,6 +144,32 @@ def shortPhrasePer(line):
 		if len(ele.split()) <= 3:
 			cnt+=1
 	return cnt*1.0 / len(list)
+#数字字符是否多于等于7个
+def digitMore7(line):
+	digitNum=0
+	for ch in line:
+		if str.isdigit(ch):
+			digitNum += 1
+	return digitNum >= 7
+#连续数字字符是否多于等于3个
+def digitMore3(line):
+	digitNum=0
+	for ch in line:
+		if str.isdigit(ch):
+			digitNum += 1
+			if digitNum >= 3: return True
+		else:
+			digitNum = 0
+	return False
+#是否有{或者}括号
+def containLR(line):
+	return '{' in line or '}' in line
+
+#是否包含at
+def containAt(line):
+	return '@' in line
+	
+
 #CRFneed
 	
 	
@@ -157,15 +189,33 @@ def updateLineSpecificVector(line,vector):
 #CRF的特征选择
 pickedFeature_CRF = [cap1NumPer, capAllNumPer, containDigit, allDigit, phoneNumPer, 
 					containDot, containDash, lonelyInitialPer, singleCharPer,
-					cap1Per, puncPer, emailPer, urlPer, authorPer, dateNumPer, noteNumPer, affiNumPer,keywordPer, shortPhrasePer, singleDigitNumPer, singleAlphaNumPer]
+					cap1Per, puncPer, emailPer, urlPer, authorPer, dateNumPer, noteNumPer, affiNumPer,keywordPer, shortPhrasePer, singleDigitNumPer, singleAlphaNumPer,
+					digitMore7, digitMore3, containLR, containAt]
 def updateForCRF(line,vector):
 	for fun in pickedFeature_CRF:
 		if not vector.has_key(fun.__name__):
 			vector[fun.__name__]=0
 		vector[fun.__name__] += float(fun(line))
 if __name__ == '__main__':
-	print capAllNumPer('in Multi-hop Radio Networks')
-	print comaNum('good,henhao,haha')
+	#print digitMore3('223425')
+	#print digitMore3('22acds33s2 24')
+	#print digitMore3('222acds33s2 24')
+	#print digitMore3('22acds332s2 24')
+
+	#print containAt('sdfsdf@fsd@f.sdf')
+	#print containAt('sdfsdf@fsdf.sdf')
+	#print containAt('sdfsdf#fsdf.sdf')
+	
+	#print containLR('{abc}')
+	#print containLR('{sss')
+	#print containLR('998a}')
+	#print containLR('998a')
+	
+	#print allDigit(' 132-5957-9999')
+	#print allDigit(' 132-5957-9999a')
+
+	#print capAllNumPer('in Multi-hop Radio Networks')
+	#print comaNum('good,henhao,haha')
 	'''
 	测试
 	#test for CRFfunction BEGIN

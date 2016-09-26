@@ -1,4 +1,4 @@
-Adaptive, Secure, and Scalable Distributed Data -><affiliation>
+Adaptive, Secure, and Scalable Distributed Data -><title>
 Outsourcing: A Vision Paper -><title>
 Vaidy Sunderam -><author>
 Emory University -><affiliation>

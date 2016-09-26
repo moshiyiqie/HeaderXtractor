@@ -1,0 +1,6560 @@
+Using iDAVE to Determine Availability Requirements
+LiGuo Huang
+Computer Science Department
+University of Southern California
+(213)-740-6470
+liguohua@sunset.usc.edu
+Barry Boehm
+Computer Science Department
+University of Southern California
+(213)-740-8163
+boehm@sunset.usc.edu
+7
+
+Software Quality Development and Assurance
+in RUP, MSF and XP - A Comparative Study
+Stefan Heil
+Capgemini Consulting Austria
+stefan.heil@capgemini.com
+Thomas Grechenig
+Vienna University of Technology
+thomas.grechenig@inso.tuwien.ac.at
+Wolfgang Zuser
+Vienna University of Technology
+wolfgang.zuser@inso.tuwien.ac.at
+29
+
+Quality, Cleanroom and Formal Methods
+Anne Banks Pidduck
+School of Computer Science
+University of Waterloo
+Waterloo, On, Canada
+1-519-888-4567
+apidduck@uwaterloo.ca
+Zarrin Langari
+School of Computer Science
+University of Waterloo
+Waterloo, On, Canada
+1-519-888-4567
+zlangari@uwaterloo.ca
+35
+
+Dealing with Imprecise Quality Factors
+in Software Design
+Joost Noppen, Pim van den Broek & Mehmet Aksit
+Trese Group, Dept. of Computer Science
+P.O. Box 217, 7500 AE Enschede
+The Netherlands
+ciseness can manifest itself in for instance the require-
+ments or performance estimations. While it is common to
+eliminate the impreciseness by information that can not be
+justified , it is better to model the impreciseness since it is
+the most accurate description that is available at the cur-
+rent point in time. In this paper we present an approach,
+which allows the explicit specification of quality estima-
+tions and quality requirements including the imprecise
+nature. In this approach the impreciseness is modeled and
+addressed using representations from probability theory
+and fuzzy set theory.
+40
+
+Early Estimation of Software Quality Using In-Process
+Testing Metrics: A Controlled Case Study
+Nachiappan Nagappan1, Laurie Williams2, Mladen Vouk2, Jason Osborne3
+1 Microsoft Research, Redmond, WA 98052
+nachin@microsoft.com
+2 Department of Computer Science, North Carolina State University, Raleigh, NC 27695
+3 Department of Statistics, North Carolina State University, Raleigh, NC 27695
+{lawilli3, vouk, jaosborn}@ncsu.edu
+46
+
+Adaptive Reuse of Libre Software Systems for Supporting
+On-line Collaboration
+Paul Adams, Cornelia Boldyreff, David Nutter and Stephen Rank
+University of Lincoln
+Lincoln, UK
++441522837310
+{padams,cboldyreff,dnutter,srank}@hemswell.lincoln.ac.uk
+1
+
+Investigating Quality in Large-Scale Open Source Software
+Uzma Raja, Evelyn Barry
+Texas A&M University
+College Station, TX
+1-979-845-6995
+{uraja,ebarry}@mays.tamu.edu
+43
+
+OpenEC/B: Electronic Commerce and Free/Open Source
+Software Development
+Walt Scacchi
+Institute for Software Research
+Donald Bren School of Information and Computer Sciences
+University of California, Irvine
+Irvine, CA 92697-3425 USA
+http://www.ics.uci.edu/~wscacchi
+52
+
+Open source software reliability model: an empirical
+approach
+Joseph DAVIS
+School of Information Technologies
+The University of Sydney
+Sydney, NSW 2006 Australia
+Tel: 61 2 9351 4291
+Email: jdavis@it.usyd.edu.au
+Ying ZHOU
+School of Information Technologies
+The University of Sydney
+Sydney, NSW 2006 Australia
+Tel: 61 2 93513215
+Email: zhouy@it.usyd.edu.au
+67
+
+The Need for Effort Estimation Models for Open Source
+Software Projects
+Jai Asundi
+Information Systems and Operations Management
+School of Management, University of Texas at Dallas
+asundi@utdallas.edu
+5
+
+F/OSS in the Library World: An Exploration
+Brenda Chawner
+School of Information Management
+Victoria University of Wellington,
+Wellington, New Zealand
++64 4 463 5780
+brenda.chawner@vuw.ac.nz
+14
+
+Raging Incrementalism: Harnessing Change with
+Open-Source Software
+John C. Georgas
+Institute for Software Research
+University of California, Irvine
+Irvine, CA 92697, U.S.A
++1 949 824 5160
+jgeorgas@ics.uci.edu
+Michael M. Gorlick
+The Aerospace Corporation
+P.O. Box 92957
+Los Angeles, CA 90009, U.S.A
++1 310 336 8661
+gorlick@aero.org
+Richard N. Taylor
+Institute for Software Research
+University of California, Irvine
+Irvine, CA 92697, U.S.A
++1 949 824 6429
+taylor@ics.uci.edu
+
+A Case Study of Open Source Tools and Practices
+in a Commercial Setting
+James D. Herbsleb
+School of Computer Science
+Carnegie Mellon University
+Pittsburgh, PA 15213 USA
++1 412 268 8933
+jdh@cs.cmu.edu
+Vijay K. Gurbani, Anita Garvert
+Lucent Technologies/Bell Labs Innovations
+2000 Lucent Lane
+Naperville, IL 60566 USA
++1 630 224 0216
+{vkg,agarvert}@lucent.com
+24
+
+Open Source Software Maintenance Process Framework
+Virpi Hotti
+Department of Computer Science
+University of Kuopio
+Box 163, 70211 Kuopio, Finland
++358-17-162105
+virpi.hotti@uku.fi
+Timo Koponen
+Department of Computer Science
+University of Kuopio
+Box 163, 70211 Kuopio, Finland
++358-17-162388
+timo.koponen@uku.fi
+30
+
+The Use of Open Source Software Platforms by
+Independent Software Vendors: Issues and Opportunities
+Herwig Mannaert and Kris Ven
+University of Antwerp
+Prinsstraat 13
+B-2000 Antwerp, Belgium
+{herwig.mannaert,kris.ven}@ua.ac.be
+35
+
+Keynote Talk
+Advice to Bug Hunters
+William Pugh
+University of Maryland, College Park
+
+﻿Analyzing & Debugging ILP Data Mining Query Execution
+Gerda Janssens
+Katholieke Universiteit Leuven
+Dept. of Computer Science
+Celestijnenlaan 200A
+B-3001 Leuven, Belgium
+gerda.janssens@cs.kuleuven.be
+Remko Tronc¸on
+Katholieke Universiteit Leuven
+Dept. of Computer Science
+Celestijnenlaan 200A
+B-3001 Leuven, Belgium
+remko.troncon@cs.kuleuven.be
+
+On the Design of a Pervasive Debugger
+Alex Ho and Steven Hand
+Computer Laboratory, University of Cambridge
+http://www.cl.cam.ac.uk/netos/pdb
+
+Debugging Object-Oriented Programs with Behavior Views
+Donglin Liang and Kai Xu
+University of Minnesota
+Minneapolis, MN 55455, USA
+{dliang,kai}@cs.umn.edu
+
+A Contextual Interpretation of Undefinedness
+for Runtime Assertion Checking
+Gary T. Leavens
+Department of Computer Science
+Iowa State University
+229 Atanasoff Hall
+Ames, Iowa 50011-1041
+leavens@cs.iastate.edu
+Yoonsik Cheon
+Department of Computer Science
+The University of Texas at El Paso
+500 W. University Avenue
+El Paso, Texas 79968-0518
+cheon@cs.utep.edu
+
+Code Coverage Testing Using Hardware Performance
+Monitoring Support
+Alex Shye Matthew Iyer Vijay Janapa Reddi Daniel A. Connors
+Department of Electrical and
+Computer Engineering
+University of Colorado at Boulder
+{shye, iyer, janapare, dconnors}@colorado.edu
+
+﻿Automated Bug Isolation via Program Chipping∗
+Chad D. Sterling†
+Department of Computer Science
+University of California, Davis
+Davis, CA 95616-8562 USA
+sterling@cs.ucdavis.edu
+Ronald A. Olsson
+Department of Computer Science
+University of California, Davis
+Davis, CA 95616-8562 USA
+olsson@cs.ucdavis.edu
+
+Random Testing of C Calling Conventions
+Christian Lindig
+Saarland University
+Department of Computer Science
+Saarbru¨cken, Germany
+lindig@cs.uni-sb.de
+
+Experimental Evaluation of Using Dynamic Slices
+for Fault Location∗
+Xiangyu Zhang Haifeng He Neelam Gupta Rajiv Gupta
+Department of Computer Science
+The University of Arizona
+Tucson, Arizona 85721
+{xyzhang,hehf,ngupta,gupta}@cs.arizona.edu
+
+Justification and Debugging of Answer Set Programs in
+ASP− PROLOG
+Omar El-Khatib, Enrico Pontelli, Tran Cao Son
+Dept. Computer Science
+New Mexico State University
+{okhatib,epontell,tson}@cs.nmsu.edu
+
+Divide-and-Query and Subterm Dependency Tracking
+in the Mercury Declarative Debugger
+Ian MacLarty
+Dept. of Computer Science
+and Software Engineering
+University of Melbourne,
+Australia
+maclarty@cs.mu.OZ.AU
+Mark Brown
+Dept. of Computer Science
+and Software Engineering
+University of Melbourne,
+Australia
+mark@cs.mu.OZ.AU
+Zoltan Somogyi
+NICTA Victoria Laboratory
+Dept. of Computer Science
+and Software Engineering
+University of Melbourne,
+Australia
+zs@cs.mu.OZ.AU
+
+Jockey: A User-space Library for Record-replay Debugging
+Yasushi Saito
+Hewlett-Packard Laboratories1 Google, Inc.
+Palo Alto, CA, USA Mountain View, CA, USA
+yasushi.saito@gmail.com
+
+Backtracking and Dynamic Patching for Free
+Bjorn De Sutter∗ Bruno De Bus Michiel Ronsse Koen De Bosschere
+Electronics and Information Systems Department
+Ghent University, member of the HiPEAC network
+{brdsutte,bdebus,ronsse,kdb}@elis.ugent.be
+
+Convergence Debugging
+Borislav Nikolik
+Vidak Quality
+9226 NW Bartholomew Dr.
+Portland, OR 97229
+boris@vidakquality.com
+
+Expectations and Deployment of Agent Technology
+in Manufacturing and Defence: Case Studies
+Michal Peˇchoucˇek, Martin Reha´k, Vladimir Marˇ´ık
+Gerstner Laboratory, Czech Technical University in Prague
+pechouc@labe.felk.cvut.cz
+http://gerstner.felk.cvut.cz
+
+Trust Evaluation Through Relationship Analysis
+Ronald Ashri1, Sarvapali D. Ramchurn1, Jordi Sabater2, Michael Luck1, Nicholas R. Jennings1
+1School of Electronics and Computer Science, University of Southampton, Southampton, SO17 1BJ, UK
+2LABSS, Institute of Cognitive Science and Technology, Viale Marx 15, 00137 Roma, Italy
+1{ra,sdr,mml,nrj}@ecs.soton.ac.uk, 2jsabater@iiia.csic.es
+Categories and Subject Descriptors
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence—
+Multiagent systems, Coherence and coordination.
+General Terms
+Design, Reliability, Management.
+Keywords
+Trust, Reputation, Relationships, Multi-Agent Systems.
+
+The Value of Privacy
+Optimal Strategies for Privacy Minded Agents
+Sieuwert van Otterloo
+Department of Computer Science
+University of Liverpool
+Liverpool L69 7ZF
+sieuwert@bluering.nl
+
+Using Tabu Best-Response Search to Find Pure Strategy
+Nash Equilibria in Normal Form Games
+Ashish Sureka Peter R. Wurman
+Department of Computer Science
+North Carolina State University
+Raleigh, NC 27695-7535
+asureka@unity.ncsu.edu wurman@csc.ncsu.edu
+
+Valuations of Possible States (VPS): A Quantitative
+Framework for Analysis of Privacy Loss Among
+Collaborative Personal Assistant Agents
+Rajiv T. Maheswaran, Jonathan P. Pearce, Pradeep Varakantham,
+Emma Bowring and Milind Tambe
+University of Southern California
+(maheswar,jppearce,varakant,bowring, tambe)@usc.edu
+
+Preprocessing Techniques for
+Accelerating the DCOP Algorithm ADOPT∗
+Syed Ali Sven Koenig Milind Tambe
+Computer Science Department
+University of Southern California
+Los Angeles, CA 90089-0781
+{syedmuha,skoenig,tambe}@usc.edu
+
+Comparing Two Approaches to Dynamic, Distributed
+Constraint Satisfaction∗
+Roger Mailler
+Cornell University
+5160 Upson Hall
+Ithaca, NY 14853
+rmailler@cs.cornell.edu
+
+Impact of Problem Centralization in Distributed Constraint
+Optimization Algorithms
+John Davin and Pragnesh Jay Modi
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh, PA 15213
+{jdavin, pmodi}@cs.cmu.edu
+
+Acquiring and Adapting Probabilistic Models of Agent
+Conversation
+Gerhard Weiss
+weissg@cs.tum.edu
+Department of Informatics
+Technical University of Munich
+85748 Garching, Germany
+Michael Rovatsos
+mrovatso@inf.ed.ac.uk
+School of Informatics
+University of Edinburgh
+Edinburgh EH8 9LE, UK
+Felix Fischer
+fischerf@cs.tum.edu
+Department of Informatics
+Technical University of Munich
+85748 Garching, Germany
+
+A Cost Minimization Approach to
+Human Behavior Recognition
+Katia Sycara
+Robotics Institute
+Carnegie Mellon University
+5000 Forbes Ave.
+Pittsburgh, PA
+katia+@cs.cmu.edu
+Gita Sukthankar
+Robotics Institute
+Carnegie Mellon University
+5000 Forbes Ave.
+Pittsburgh, PA
+gitars@cs.cmu.edu
+
+Predicting Agent Strategy Mix of Evolving Populations
+Sandip Sen
+Department of Math & Computer Science
+The University of Tulsa
+sandip-sen@utulsa.edu
+Sabyasachi Saha
+Department of Math & Computer Science
+The University of Tulsa
+sabyasachi-saha@utulsa.edu
+
+﻿Humans and Agents in 3D Electronic Institutions
+Anton Bogdanovych
+Faculty of Information Technology
+University of Technology Sydney
+Sydney, NSW, Australia
+anton@it.uts.edu.au
+Helmut Berger
+Electronic Commerce Competence Center – ec3
+Donau-City-Strasse 1, A-1220
+Vienna, Austria
+helmut.berger@ec3.at
+Carles Sierra
+Artificial Intelligence Research Institute, IIIA
+Spanish Council for Scientific Research, CSIC
+Barcelona, Catalonia, Spain
+sierra@iiia.csic.es
+Simeon Simoff
+Faculty of Information Technology
+University of Technology Sydney
+Sydney, NSW, Australia
+simeon@it.uts.edu.au
+
+Design and Evaluation of Expressive Gesture Synthesis
+for Embodied Conversational Agents
+C. Pelachaud
+University of Paris-8
+M. Mancini
+University of Paris-8
+B. Hartmann
+Stanford University
+and University of Paris-8
+S. Buisine
+LIMSI-CNRS
+and LCPI-ENSAM
+
+Controlling the Focus of Perceptual Attention in
+Embodied Conversational Agents
+Youngjun Kim
+Institute for Creative
+Technologies
+13274 Fiji Way, Suite 600
+Marina del Rey, CA 90292
+yjkim@ict.usc.edu
+David R. Traum
+Institute for Creative
+Technologies
+13274 Fiji Way, Suite 600
+Marina del Rey. CA 90292
+traum@ict.usc.edu
+Randall W. Hill, Jr.
+Institute for Creative
+Technologies
+13274 Fiji Way, Suite 600
+Marina del Rey. CA 90292
+hill@ict.usc.edu
+Permission to make digital or hard copies of all or part of
+this work for personal or classroom use is granted without
+fee provided that copies are not made or distributed for
+profit or commercial advantage and that copies bear this
+notice and the full citation on the first page. To copy
+otherwise, to republish, to post on servers or to redistribute
+to lists, requires prior specific permission and/or a fee.
+AAMAS'05, July 25-29, 2005, Utrecht, Netherlands.
+Copyright 2005 ACM 1-59593-094-9/05/0007 ...$5.00.
+
+Evaluating the Interaction with Synthetic Agents
+Using Attention and Affect Tracking
+Helmut Prendinger
+National Institute of Informatics
+2-1-2 Hitotsubashi, Chiyoda-ku
+Tokyo 101-8430, Japan
+Chunling Ma, Jin Yingzi,
+helmut@nii.ac.jp
+Kushida Kazutaka, Mitsuru Ishizuka
+Dept. of Information and Communication Eng.
+University of Tokyo
+7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan
+ishizuka@miv.t.u-tokyo.ac.jp
+
+﻿Coordinated Exploration in Multi-Agent Reinforcement
+Learning: An Application to Load-balancing
+Katja Verbeeck
+Computational Modeling Lab
+Vrije Universiteit Brussel
+Pleinlaan 2, 1050 Brussel,
+Belgium
+kaverbee@vub.ac.be
+Ann Nowe´
+Computational Modeling Lab
+Vrije Universiteit Brussel
+Pleinlaan 2, 1050 Brussel,
+Belgium
+ann.nowe@vub.ac.be
+Karl Tuyls
+Theoretical Computer Science
+Group
+University of Limburg
+Diepenbeek, Belgium
+Karl.Tuyls@luc.ac.be
+
+Reliable Group Communication and Institutional Action
+in a Multi-Agent Trading Scenario
+Stephen Cranefield
+Department of Information Science, University of Otago
+PO Box 56, Dunedin, New Zealand
+scranefield@infoscience.otago.ac.nz
+
+An Integrated Framework for Adaptive Reasoning About
+Conversation Patterns∗
+Gerhard Weiss
+weissg@cs.tum.edu
+Department of Informatics
+Technical University of Munich
+85748 Garching, Germany
+Felix Fischer
+fischerf@cs.tum.edu
+Department of Informatics
+Technical University of Munich
+85748 Garching, Germany
+Michael Rovatsos
+mrovatso@inf.ed.ac.uk
+School of Informatics
+University of Edinburgh
+Edinburgh EH8 9LE, UK
+
+Temporal Logics for
+Normative Agent Communication Protocols
+Ulle Endriss
+Department of Computing, Imperial College London (UK)
+ue@doc.ic.ac.uk
+
+Bounded Model Checking Knowledge and Branching Time
+in Synchronous Multi-agent Systems ∗
+Xiangyu Luo1, Kaile Su1,2, Abdul Sattar2, Qingliang Chen1, Guanfeng Lv1
+1Department of Computer Science, Sun Yat-sen University, Guangzhou, P.R. China
+2Institute for Integrated and Intelligent Systems, Griffith University, Brisbane, Australia
+xiang yu luo@yahoo.com.cn
+
+﻿A Logic of Reasoning, Communication and Cooperation
+with Syntactic Knowledge
+Michal Walicki
+Department of Informatics, University of Bergen
+PB. 7800, N-5020 Bergen, Norway
+michal@ii.uib.no
+Thomas A˚gotnes
+Department of Informatics, University of Bergen
+PB. 7800, N-5020 Bergen, Norway
+agotnes@ii.uib.no
+
+Using a Performative Subsumption Lattice to Support
+Commitment-based Conversations
+Rob Kremer
+University of Calgary
+Department of Computer Science
+Calgary, CANADA
+kremer@cpsc.ucalgary.ca
+Roberto Flores
+Christopher Newport University
+Department of Physics, Computer Science and
+Engineering
+Newport News, VA
+flores@pcs.cnu.edu
+
+﻿Stability and Control of Agent Ecosystems
+Maxim D. Peysakhov
+Drexel University
+Department of Computer
+Science
+Philadelphia PA 19104
+umpeysak@cs.drexel.edu
+Robert N. Lass
+Drexel University
+Department of Computer
+Science
+Philadelphia PA 19104
+urlass@cs.drexel.edu
+William C. Regli
+Drexel University
+Department of Computer
+Science
+Philadelphia PA 19104
+regli@drexel.edu
+Categories and Subject Descriptors
+D.2.10 [Software Engineering]: Design—Methodologies
+General Terms
+Stability theory
+Keywords
+agents & complex systems; computational ecosystems, agents &
+networks: web agents, semantic web, grid, web services, P2P
+
+﻿Study of Virtual Organizations Using Multi-Agent System ∗
+Qinhe Zheng
+Computer and Information Science Department
+University of Massachusetts at Dartmouth
+qinhezheng@hotmail.com
+Xiaoqin Zhang
+Computer and Information Science Department
+University of Massachusetts at Dartmouth
+x2zhang@umassd.edu
+Categories and Subject Descriptors:[I.2.11]: Distributed Artifi-
+cial Intelligence, Intelligent agents
+General Terms:Management, Performance.
+Keywords:Virtual Organization, Multi-Agent Systems, Agent Con-
+trol, Motivational Quantities, Simulation.
+
+﻿A Hybrid Transfer of Control Model for Adjustable
+Autonomy Multiagent Systems
+Michael Y.K. Cheng
+School of Computer Science
+University of Waterloo
+Waterloo ON, N2L 3G1, Canada
+mycheng@cs.uwaterloo.ca
+Robin Cohen
+School of Computer Science
+University of Waterloo
+Waterloo ON, N2L 3G1, Canada
+rcohen@cs.uwaterloo.ca
+Categories and Subject Descriptors
+I.2.11 [Artificial Intelligence]: Distributed Artificial In-
+telligence—intelligent agents, multiagent systems
+Keywords
+adjustable autonomy, interaction
+
+Agent-Based Virtual Organisations for the Grid
+Jigar Patel, W.T. Luke Teacy, Nicholas R. Jennings, Michael Luck
+School of Electronics and Computer Science, University of Southampton, UK
+{jp03r,wtlt03r,nrj,mml}@ecs.soton.ac.uk
+Stuart Chalmers, Nir Oren, Timothy J. Norman, Alun Preece, Peter M. D. Gray
+Department of Computing Science, University of Aberdeen, UK
+{schalmer,noren,tnorman,apreece}@csd.abdn.ac.uk
+Gareth Shercliff, Patrick J. Stockreisser, Jianhua Shao, W. Alex Gray, Nick J. Fiddian
+School of Computer Science, Cardiff University, UK
+{p.j.stockreisser,g.shercliff,j.shao,w.a.gray,n.j.fiddian}@cs.cardiff.ac.uk
+Simon Thompson, BT R&D, Adastral Park, United Kingdom
+simon.2.thompson@bt.com
+
+From Concepts to Agents: Towards a Framework for
+Multi-Agent System Modelling
+Richard Hill
+Web-Based and Multi-Agents
+Research Group
+Sheffield Hallam University
+Sheffield, United Kingdom
+r.hill@shu.ac.uk
+Simon Polovina
+Web-Based and Multi-Agents
+Research Group
+Sheffield Hallam University
+Sheffield, United Kingdom
+s.polovina@shu.ac.uk
+Martin Beer
+Web-Based and Multi-Agents
+Research Group
+Sheffield Hallam University
+Sheffield, United Kingdom
+m.beer@shu.ac.uk
+
+Multi-agent Concepts as Basis for
+Dynamic Plug-in Software Architectures
+Lawrence Cabac, Michael Duvigneau, Daniel Moldt, Heiko Rölke
+University of Hamburg, Faculty of Informatics, Group TGI
+Vogt-Kölln-Strasse 30
+22527 Hamburg, Germany
+cabac,duvigneau,moldt,roelke@informatik.uni-hamburg.de
+
+﻿Comparative Analysis of Top–Down and Bottom–up
+Methodologies for Multi–Agent System Design
+Kristina Lerman
+Information Sciences Institute
+Univ. of Southern California
+Marina del Rey, CA
+lerman@isi.edu
+Aram Galstyan
+Information Sciences Institute
+Univ. of Southern California
+Marina del Rey, CA
+galstyan@isi.edu
+Valentino Crespi
+Dept. Computer Science
+Cal State Los Angeles
+Los Angeles, CA
+vcrespi@calstatela.edu
+
+A Real-World Approach to Secure and Trusted
+Negotiation in MASs
+Roberto Bianchi, Andrea Fontana, Federico Bergenti
+Dipartimento di Ingegneria dell’Informazione
+Universita` degli Studi di Parma
+Parco Area delle Scienze 181/A, 43100 Parma, Italy
+{rbianchi,afontana,bergenti}@ce.unipr.it
+
+﻿Negotiating Agents: From Full Autonomy to Dynamic
+Degrees of Delegation
+Diemo Urbig
+Department of Computer Science
+Humboldt-Universität zu Berlin
+Unter den Linden 6
+10099 Berlin, Germany
+urbig@informatik.hu-berlin.de
+Kay Schro¨ter
+Department of Computer Science,
+Humboldt-Universität zu Berlin
+Unter den Linden 6
+10099 Berlin, Germany
+kschroet@informatik.hu-berlin.de
+
+Discovering Strategic Multi-Agent Behavior
+in a Robotic Soccer Domain
+Andraz Bezek
+Jozef Stefan Institute
+Department of Intelligent Systems
+andraz.bezek@ijs.si
+
+﻿Intelligent Agents for Wireless Sensor Networks
+Richard Tynan, David Marsh, Donal O’Kane and G.M.P. O’Hare
+Adaptive Information Cluster, Smart Media Institute
+Department of Computer Science, University College Dublin
+Belfield, Dublin 4, Ireland
+E-mail: {richard.tynan, david.marsh, donal.okane, gregory.ohare}@ucd.ie
+
+Task and Social Coordination in Agent Organizations
+Frank Dignum
+Institute for Information and Computing Sciences
+Utrecht University
+Utrecht, The Netherlands
+dignum@cs.uu.nl
+Virginia Dignum
+Institute for Information and Computing Sciences
+Utrecht University
+Utrecht, The Netherlands
+virginia@cs.uu.nl
+
+Towards a Formal Model for Task Allocation via Coalition
+Formation
+Leila Amgoud
+IRIT - CNRS
+118, route de Narbonne
+Toulouse, France
+amgoud@irit.fr
+
+Reducing Coalition Structures via Agreement Specification
+Guido Boella
+Dip. di Informatica
+Universita` di Torino
+Italy
+guido@di.unito.it
+Luigi Sauro
+Dip. di Informatica
+Universita` di Torino
+Italy
+sauro@di.unito.it
+Leendert van der Torre
+CWI Amsterdam
+and Delft Univ. of Technology
+The Netherlands
+torre@cwi.nl
+Categories and Subject Descriptors
+I.2.11 [Distributed Artificial Intelligence]: Multiagent systems
+General Terms
+MAS theory
+Keywords
+Coalition formation, power theory
+
+Author Retrospective for
+Increasing the Instruction Fetch Rate via Multiple Branch
+Prediction and a Branch Address Cache
+Deborah T. Marr
+Intel Corporation
+Hillsboro, OR
+debbie.marr@intel.com
+Yale N. Patt
+The University of Texas at Austin
+Austin, TX
+patt@ece.utexas.edu
+Tse-Yu Yeh
+Apple Inc.
+Cupertino, CA
+tyyeh@apple.com
+Original paper: http://dx.doi.org/10.1145/165939.165956
+Categories and Subject Descriptors
+C.1.1 [Computer Systems Organization]: Processor Ar-
+chitectures—Single data stream architectures
+Keywords
+Branch prediction
+“Increasing the Instruction Fetch Rate via Multiple Branch
+Prediction and a Branch Address Cache”was the first paper
+to propose a highly accurate hardware mechanism for pre-
+dicting and fetching multiple non-contiguous basic blocks
+using leading-edge aggressive branch predictors of the time.
+Prior to this paper, the methods to increase fetch bandwidth
+relied on software and compiler mechanisms to increase the
+size of the basic blocks themselves. The publication of our
+paper inspired an explosion of research to further improve
+the accuracy of multiple branch prediction, reduce complex-
+ity of fetching multiple basic blocks, or increase the fetch
+bandwidth in other ways.
+Our HPS research group defied conventional wisdom in a
+
+﻿An Organisation Infrastructure for Multi-Agent Systems
+based on Agent Coordination Contexts
+Mirko Viroli, Alessandro Ricci, Andrea Omicini
+DEIS, Alma Mater Studiorum – Universita` di Bologna a Cesena
+Via Venezia 52, 47023 Cesena, Italy
+{mviroli,aricci,aomicini}@deis.unibo.it
+
+A Framework for Specifying
+Group Decision-Making Mechanisms
+Luke Hunsberger
+Computer Science Department, Vassar College, Poughkeepsie, NY 12604
+hunsberg@cs.vassar.edu
+
+﻿Strategy/False-name Proof Protocols for Combinatorial
+Multi-Attribute Procurement Auction: Handling Arbitrary
+Utility of the Buyer
+Takayuki Suyama
+NTT Communication Science Laboratories,
+NTT Corporation
+2-4 Hikaridai, Seika-cho, Soraku-gun,
+Kyoto, 619-0237, Japan
+http://www.kecl.ntt.co.jp/csl/ccrg/members/suyama/
+suyama@cslab.kecl.ntt.co.jp
+Makoto Yokoo
+Graduate School of Information Science
+and Electrical Engineering, Kyushu University
+6-10-1 Hakozaki, Higashi-ku,
+Fukuoka, 812-8581, Japan
+http://lang.is.kyushu-u.ac.jp/˜yokoo/
+yokoo@is.kyushu-u.ac.jp
+Categories and Subject Descriptors
+J.4 [Social and Behavioral Sciences]: Economics
+General Terms
+Design, Economics, Theory
+Keywords
+false-name-proof, multi-attribute, combinatorial auction
+
+﻿Cooperation In Stochastic Games Through Communication
+Alain Dutech
+Loria \ INRIA-Lorraine
+B.P. 239, Campus Scientifique
+Vandœuvre-le`s-Nancy, France
+Cedex 54506, France
+dutech@loria.fr
+Franc¸ois Charpillet
+Loria \ INRIA-Lorraine
+B.P. 239, Campus Scientifique
+Vandœuvre-le`s-Nancy, France
+Cedex 54506, France
+charpillet@loria.fr
+Raghav Aras
+Loria \ INRIA-Lorraine
+B.P. 239, Campus Scientifique
+Vandœuvre-le`s-Nancy, France
+Cedex 54506, France
+aras@loria.fr
+
+Using Tags to Evolve Trust and Cooperation Between
+Groups
+Aviv Zohar Jeffrey S. Rosenschein
+School of Engineering and Computer Science
+Hebrew University, Jerusalem, Israel
+{avivz, jeff}@cs.huji.ac.il
+
+An analysis of the Shapley value and its uncertainty
+for the voting game
+Michael Wooldridge
+Department of Computer
+Science
+University of Liverpool
+Liverpool L69 7ZF, U.K.
+mjw@csc.liv.ac.uk
+Nicholas R. Jennings
+School of Electronics and
+Computer Science
+University of Southampton
+Southampton SO17 1BJ, U.K.
+nrj@ecs.soton.ac.uk
+Shaheen Fatima
+Department of Computer
+Science
+University of Liverpool
+Liverpool L69 7ZF, U.K.
+shaheen@csc.liv.ac.uk
+
+Computing the Communication Costs of Item Allocation
+Timothy W. Rauenbusch
+Artificial Intelligence Center
+SRI International
+Menlo Park, CA 94025
+rauenbusch@ai.sri.com
+Stuart M. Shieber and Barbara J. Grosz
+Division of Engineering and Applied Sciences
+Harvard University
+Cambridge, MA 02138
+shieber,grosz@eecs.harvard.edu
+
+﻿Experimental Analysis of Negotiation Meta Strategies
+Raquel Ros, Carles Sierra
+Artificial Intelligence Research Institute —IIIA
+Spanish Council for Scientific Research —CSIC
+08193 Bellaterra, Barcelona, Catalonia, Spain.
+{ros,sierra}@iiia.csic.es
+
+﻿A Negotiation Model for Autonomous Agents:
+Key Features and Comparison with Existing Models
+Nuno Mamede
+INESC-ID/IST, L2F
+R. Alves Redol 9
+1000-029 Lisboa, Portugal
+Nuno.Mamede@inesc-id.pt
+Helder Coelho
+UL, FC, DI
+Edifı´cio C6, Campo Grande
+1749-016 Lisboa, portugal
+hcoelho@di.fc.ul.pt
+Fernando Lopes∗, A.Q. Novais
+INETI, DMS
+Est. do Pac¸o do Lumiar
+1649-038 Lisboa, Portugal
+∗fernando.lopes@ineti.pt
+
+A Decentralized Bargaining Protocol on Dependent
+Continuous Multi-Issue for Approximate Pareto Optimal
+Outcomes
+Francesco Amigoni
+Dipartimento di Elettronica e Informazione
+Politecnico di Milano, Milano, Italy
+amigoni@elet.polimi.it
+Nicola Gatti
+Dipartimento di Elettronica e Informazione
+Politecnico di Milano, Milano, Italy
+ngatti@elet.polimi.it
+
+﻿Strategical Considerations for Negotiating Agents
+Souhila Kaci
+CRIL - CNRS
+Rue de l’Universite´ SP 16
+62307 Lens, France
+kaci@cril.univ-artois.fr
+Leila Amgoud
+IRIT - CNRS
+118, route de Narbonne
+Toulouse, France
+amgoud@irit.fr
+
+Balancing Conflict and Cost in the Selection of Negotiation
+Opponents
+Michael Luck
+School of Electronics and Computer Science
+University of Southampton
+Southampton, UK
+mml@ecs.soton.ac.uk
+Steve Munroe
+School of Electronics and Computer Science
+University of Southampton
+Southampton, UK
+sjm@ecs.soton.ac.uk
+
+﻿Modeling Exceptions via Commitment Protocols ∗
+Munindar P. Singh
+Department of Computer Science
+North Carolina State University
+Raleigh NC 27695 USA
+singh@ncsu.edu
+Ashok U. Mallya
+Department of Computer Science
+North Carolina State University
+Raleigh NC 27695 USA
+aumallya@ncsu.edu
+
+﻿Coordination of Quantum Internet Agents
+Matthias Klusch
+German Research Center for Artifical Intelligence
+Deduction and Multiagent Systems
+Stuhlsatzenhausweg 3, D-66123 Saarbru¨cken, Germany.
+e-mail: klusch@dfki.de
+
+﻿Buyer’s Coalition for Optimal Search
+David Sarne
+Department of Computer Science
+Bar-Ilan University, Ramat Gan 52900, Israel
+Sarit Kraus
+Department of Computer Science
+Bar-Ilan University, Ramat Gan 52900, Israel
+and Institute for Advanced Computer Studies
+University of Maryland, College Park, MD 20742
+
+Individual Beliefs and Group Acceptances within Agent
+Organizations
+Ioannis Partsakoulakis and George Vouros
+Department of Information and Communication Systems Eng.
+University of the Aegean, 83200 Karlovassi, Samos, Greece
+{jpar,georgev}@aegean.gr
+
+Fault Tolerance for Internet Agent Systems:
+in cases of stop failure and Byzantine failure
+Tadashi Araragi
+NIPPON TELEGRAPH AND TELEPHONE CORPORATION
+NTT Communication Science Laboratories
+2-4, Hikaridai, Seika-cho, Soraku-gun, Kyoto 619-0237 Japan
+araragi@cslab.kecl.ntt.co.jp
+
+Author Retrospective for
+Anatomy of a Message In the Alewife Multiprocessor
+John Kubiatowicz
+Computer Science Division
+University of California, Berkeley
+kubitron@cs.berkeley.edu
+
+﻿Untraceability of Mobile Agents
+Rafał Leszczyna
+European Commission
+Joint Research Centre
+Institute for the Protection and security of the
+Citizen
+Via Enrico Fermi
+21020 Ispra (VA), Italy
+Rafal.Leszczyna@jrc.it
+Janusz Go´rski
+Gdan´sk University of Technology
+Faculty of Electronics, Telecommunications and
+Informatics
+Department of Software Engineering
+G. Narutowicza 11/12
+80-952 Gdansk Poland
+jango@pg.gda.pl
+
+Access Control with Safe Role Assignment for Mobile
+Agents
+G. Navarro, J. Borrell, J. A. Ortega-Ruiz and S. Robles
+Dept. of Information and Communications Engineering
+Universitat Auto`noma de Barcelona
+08193 Bellaterra, Spain
+{gnavarro, jborrell, jao, srobles}@ccd.uab.es
+
+Just in Time Mobile Agent Generation and Management
+G. Jayaputera, S. W. Loke, A. Zaslavsky
+School of Computer Science and Software Engineering, Monash University
+900 Dandenong Road, Caulfield East, Victoria 3145, Australia
++61 3 9903 2787
+{glenn.jayaputera, seng.loke, arkady.zaslavsky}@infotech.monash.edu.au
+
+﻿Attacking the Migration Bottleneck of Mobile Agents
+Steffen Kern
+Friedrich Schiller University Jena
+Department of Computer Science
+Ernst-Abbe-Platz 2, 07743 Jena, Germany
+steffen.kern@informatik.uni-jena.de
+Peter Braun
+Swinburne University of Technology
+Faculty of Information and Communication
+Technologies
+John St, Hawthorn, Victoria 3122, Australia
+pbraun@ict.swin.edu.au
+Ingo Mu¨ller
+Swinburne University of Technology
+Faculty of Information and Communication
+Technologies
+John St, Hawthorn, Victoria 3122, Australia
+imueller@ict.swin.edu.au
+Ryszard Kowalczyk
+Swinburne University of Technology
+Faculty of Information and Communication
+Technologies
+John St, Hawthorn, Victoria 3122, Australia
+rkowalczyk@ict.swin.edu.au
+
+Efficient Information Retrieval Using Mobile Agents
+Irene Sygkouna
+National Technical University of Athens
+9, Heroon Polytechneiou Str., 15773, Zografou,
+Athens, Greece
+isygk@telecom.ntua.gr
+Miltiades Anagnostou
+National Technical University of Athens
+9, Heroon Polytechneiou Str., 15773, Zografou,
+Athens, Greece
+miltos@central.ntua.gr
+
+Formalising Trust for Online Communities
+Ali Shaikh Ali, Omer Rana
+School of Computer Science
+Cardiff University, UK
+{Ali.Shaikhali, O.F.Rana }@cs.cardiff.ac.uk
+
+﻿Fuzzy Number Approach to Trust in Coalition Environment∗
+Martin Reha´k
+Center for Applied Cybernetics
+Czech Technical University
+Technicka´ 2, Prague, Czech R.
+rehakm1@labe.felk.cvut.cz
+Michal Peˇchoucˇek
+Department of Cybernetics
+Czech Technical University
+Technicka´ 2, Prague, Czech R.
+pechouc@labe.felk.cvut.cz
+Petr Benda
+Department of Cybernetics
+Czech Technical University
+Technicka´ 2, Prague, Czech R.
+bendap1@labe.felk.cvut.cz
+
+Trusted Intermediating Agents
+in Electronic Trade Networks
+Floortje Alkemade
+Dept. of Innovation Studies, University of Utrecht
+Heidelberglaan 2, 3584 CS Utrecht
+The Netherlands
+alkemade@geog.uu.nl
+Tomas B. Klos
+Center for Mathematics and Computer Science
+Kruislaan 413, 1098 SJ Amsterdam
+The Netherlands
+tomas@cwi.nl
+1. TRUST ON ELECTRONIC MARKETS
+Electronic commerce and trading of information goods signif-
+icantly impact the role of intermediaries: consumers can bypass
+intermediating agents by forming direct links to producers. One
+reason that traditional intermediaries can still make a profit, is that
+they have more knowledge of the market, so trading via an inter-
+mediary saves on search costs [1], allowing the intermediary to
+charge a markup and make a profit. Another reason is trust and
+loyalty between consumers and intermediaries (cf. [6]). In this pa-
+per we investigate whether trust-based intermediating agents will
+also be able to make a profit in electronic markets, where other
+advantages of intermediaries (i.e., advantages of location or scale)
+disappear, but where trust and reputation mechanisms are becom-
+ing popular for helping consumers make purchasing decisions in
+the face of information overload on the world wide web [2]. We
+model an electronic market where agents trade an information good
+over a network. Buyer-agents use a decentralized reputation-based
+trust mechanism [4] to determine which connections to maintain
+to sellers of the good (producers and intermediaries), communicat-
+ing with each other to establish trustworthiness of sellers to which
+they are not currently connected. The existence of such a reputa-
+tion mechanism allows intermediating agents to accumulate a base
+
+Scalable fault tolerant Agent Grooming Environment - SAGE
+H. Farooq Ahmad, Hiroki Suguri
+Multi Agent Systems Group
+Communication Technologies (Comtec)
+2-15-28 Omachi, Aoba-ku, Sendai, 980-0804, Japan
+{farooq, suguri}@comtec.co.jp
+Arshad Ali, Sarmad Malik, Muazzam Mugal,
+M. Omair Shafiq, Amina Tariq ,Amna Basharat
+NUST Institute of Information Technology (NIIT)
+National University of Sciences and Technology
+(NUST) ,Rawalpindi, Pakistan
+{arshad.ali,sarmad,omair.shafiq}@niit.edu.pk
+muazzam_mugal@yahoo.com
+{aam_naa, aamna15}@hotmail.com
+
+﻿Trust-Based Contracting in Supply Chains
+Sandip Sen
+Math & CS Department
+University of Tulsa
+sandip@utulsa.edu
+Sabyasachi Saha
+Math & CS Department
+University of Tulsa
+saby@utulsa.edu
+Dipyaman Banerjee
+Math & CS Department
+University of Tulsa
+dipu@utulsa.edu
+Categories and Subject Descriptors
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence—
+Multiagent systems
+General Terms
+Algorithm, Performance, Experimentation
+Keywords
+contracting, trust, monopoly
+
+A Framework for Decomposing Reputation in MAS
+into Competence and Integrity
+Marie desJardins
+University of Maryland Baltimore County
+Baltimore, MD 21250
+msmith27@cs.umbc.edu
+Michael J. Smith
+University of Maryland Baltimore County
+Baltimore, MD 21250
+mariedj@cs.umbc.edu
+
+Law-Governed Linda as a Semantics
+for Agent Dialogue Protocols
+Sylvie Doutre, Peter McBurney, Michael Wooldridge
+Department of Computer Science
+University of Liverpool
+Liverpool L69 3BX
+United Kingdom
+{sd,p.j.mcburney,mjw}@csc.liv.ac.uk
+
+Liberalizing Protocols for Argumentation
+in Multi-agent Systems
+Gerard A.W. Vreeswijk
+Dept. of Computer Science
+Utrecht University, The Netherlands
+gv@cs.uu.nl
+
+Generating Intentions Through Argumentation
+Katie Atkinson, Trevor Bench-Capon and Peter McBurney,
+Department of Computer Science,
+University of Liverpool, UK.
+{k.m.atkinson,tbc,p.j.mcburney}@csc.liv.ac.uk
+
+A Drosophila for Computational Dialectics
+Simon Wells and Chris Reed
+University of Dundee
+Division of Applied Computing
+Park Wynd, Dundee, U.K.
+swells, chris@computing.dundee.ac.uk
+
+Agent Synthesis: Partnership and Agreement in
+Cooperative Mobile Agents
+Fuyuki Ishikawa
+The University of Tokyo
+7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan
+f-ishikawa@nii.ac.jp
+Nobukazu Yoshioka
+National Institute of Informatics
+2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo, Japan
+nobukazu@nii.ac.jp
+Yasuyuki Tahara
+National Institute of Informatics
+tahara@nii.ac.jp
+Shinichi Honiden
+National Institute of Informatics
+and The University of Tokyo
+honiden@nii.ac.jp
+
+Integrating a MAS and a Pandemonium: the Open-Source
+Framework AKIRA
+Gianguglielmo Calvi
+ISTC-CNR
+Viale Marx, 15
+00137 Roma, Italy
++39 06 8609 0208
+g.pezzulo@istc.cnr.it
+Giovanni Pezzulo
+ISTC-CNR
+Viale Marx, 15
+00137 Roma, Italy
++39 06 8609 0208
+gianguglielmo.calvi@noze.it
+Rino Falcone
+ISTC-CNR
+Viale Marx, 15
+00137 Roma, Italy
++39 06 8609 0211
+r.falcone@istc.cnr.it
+
+Prometheus Design Tool
+John Thangarajah
+johthan@cs.rmit.edu.au
+Lin Padgham
+linpa@cs.rmit.edu.au
+Michael Winikoff
+winikoff@cs.rmit.edu.au
+RMIT University
+Melbourne, Australia
+
+SEAGENT: A Platform for Developing Semantic Web Based
+Multi Agent Systems
+Oguz Dikenelli
+Ege University
+Computer Engineering
+Department
+35100, Bornova, Izmir, Turkey
+oguzd@staff.ege.edu.tr
+Riza Cenk Erdur
+Ege University
+Computer Engineering
+Department
+35100, Bornova, Izmir, Turkey
+erdur@staff.ege.edu.tr
+Ozgur Gumus
+Ege University
+Computer Engineering
+Department
+35100, Bornova, Izmir, Turkey
+gumus@staff.ege.edu.tr
+
+Agent-based Matchmaking of Mathematical Web Services
+William Naylor and Julian Padget
+Department of Computer Science
+University of Bath
+Bath, UK
+{wn,jap}@bath.ac.uk
+Simone A. Ludwig and Omer F. Rana
+School of Computer Science
+Cardiff University
+Cardiff, UK
+{scmsal,scmofr}@cs.cardiff.ac.uk
+
+Distributed Network Scheduling
+Bradley J. Clement, Steven R. Schaffer
+Jet Propulsion Laboratory, California Institute of Technology
+4800 Oak Grove Drive, M/S 126-347
+Pasadena, CA 91109 USA
++1-818-393-4729, +1-818-354-8637
+Bradley.J.Clement@jpl.nasa.gov, Steven.R.Schaffer@jpl.nasa.gov
+Categories and Subject Descriptors
+I.2.11 [Artificial Intelligence]: Distributed Artificial
+General Terms
+Performance, Design, Experimentation
+Keywords
+scheduling, network, space, Mars, rover
+
+Agent-Oriented Context-Aware Platforms
+Supporting Communities of Practice in Health Care
+Renata S. S. Guizzardi
+University of Twente
+P.O. Box 1212
+Enschede, the Netherlands
+souza@cs.utwente.nl
+Marten van Sinderen
+University of Twente
+P.O. Box 1212
+Enschede, the Netherlands
+sinderen@cs.utwente.nl
+Luiz Olavo Bonino da
+Silva Santos
+University of Trento
+Via Sommerive, 14
+38100 Povo, TN, Italia
+bonino@dit.unitn.it
+
+﻿An Operational Approach to Norms in Artificial Institutions ∗
+Francesco Vigano`1, Nicoletta Fornara1 and Marco Colombetti1,2
+1Universita` della Svizzera italiana, via Buffi 13, 6900 Lugano, Switzerland
+2Politecnico di Milano, Piazza L. da Vinci 32, I-20133 Milano, Italy
+{francesco.vigano, nicoletta.fornara, marco.colombetti}@lu.unisi.ch
+
+A BDI Architecture for Goal Deliberation
+Alexander Pokahr, Lars Braubach, Winfried Lamersdorf
+Distributed Systems and Information Systems
+Computer Science Department, University of Hamburg
+{pokahr (|) braubach (|) lamersd}@informatik.uni-hamburg.de
+
+﻿Towards An Agent Oriented Programming Language with
+Caste and Scenario Mechanisms ∗
+Hong Zhu
+Department of Computing
+Oxford Brookes University
+Oxford, OX33 1HX, UK
+hzhu@brookes.ac.uk
+Rui Shen
+National Laboratory for
+Parallel and Distributed
+Processing
+Changsha, 410073, China
+shenrui98@yahoo.com
+Ji Wang
+National Laboratory for
+Parallel and Distributed
+Processing
+Changsha, 410073, China
+jiwang@mail.edu.cn
+
+On the Metaphysics of Agents
+Paul Davidsson
+pdv@bth.se
+Stefan J. Johansson
+sja@bth.se
+Department of Systems and Software Engineering
+School of Engineering
+Blekinge Institute of Technology
+372 25 Ronneby, Sweden
+Categories and Subject Descriptors
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence
+General Terms
+Theory, Measurement, Documentation
+Keywords
+Agent definitions, Agent properties
+
+Improving the Performance of Speculatively
+Parallel Applications on the Hydra CMP
+Kunle Olukotun, Lance Hammond and Mark Wiley
+Computer Systems Laboratory
+Stanford University
+Stanford, CA 943054070
+http://www-hydra.stanford.edu/
+
+The Use of Emotions to create Believable Agents in a
+Virtual Environment1
+Karthi Selvarajah
+Computing Department
+Macquarie University
+North Ryde, 2109
+Debbie Richards
+Human Centred Systems Group
+Macquarie University
+North Ryde, 2109
++61 2 9850 0567
+richards@ics.mq.edu.au
+Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for profit or commercial advantage and that copies
+bear this notice and the full citation on the first page. To copy otherwise,
+to republish, to post on servers or to redistribute to lists, requires prior
+specific permission and/or a fee.
+AAMAS'05, July 25-29, 2005, Utrecht, Netherlands.
+Copyright 2005 ACM 1-59593-094-9/05/0007 ...$5.00.
+
+﻿Game›Theoretic Golog under Partial Observability
+Alberto Finzi
+Institut fu¨r Informationssysteme, TU Wien
+Favoritenstraße 9-11, 1040 Vienna, Austria
+DIS, Universita` di Roma “La Sapienza”
+Via Salaria 113, 00198 Rome, Italy
+Thomas Lukasiewicz
+Institut fu¨r Informationssysteme, TU Wien
+Favoritenstraße 9-11, 1040 Vienna, Austria
+DIS, Universita` di Roma “La Sapienza”
+Via Salaria 113, 00198 Rome, Italy
+
+A Decentralized Variable Ordering Method for Distributed
+Constraint Optimization
+Anton Chechetka, Katia Sycara
+Carnegie Mellon University
+{antonc, katia+}@cs.cmu.edu
+
+﻿Allocation Of Indivisible Goods: A General Model And
+Some Complexity Results
+He´le`ne Fargier and Je´roˆme Lang
+IRIT-CNRS
+118, route de Narbonne
+F-31062 Toulouse cedex
+fargier@irit.fr
+lang@irit.fr
+Sylvain Bouveret and Michel Lemaıˆtre
+ONERA, Centre de Toulouse
+2, avenue E. Belin, B.P. 4025
+F-31055 Toulouse cedex 4
+sylvain.bouveret@onera.fr
+michel.lemaitre@onera.fr
+
+﻿Adaptive A
+Maxim Likhachev
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh, PA 15213-3891
+maxim+@cs.cmu.edu
+Sven Koenig∗
+Computer Science Department
+University of Southern California
+Los Angeles, CA 90089-0781
+skoenig@usc.edu
+
+An Autonomous Performance Control Framework for
+Distributed Multi-Agent Systems: A Queueing Theory
+Based Approach
+Soundar R.T. Kumara
+skumara@psu.edu
+Seokcheon Lee
+stonesky@psu.edu
+Nathan
+Gnanasambandam
+gsnathan@psu.edu
+Pennsylvania State University
+310 Leonhard Building
+University Park, PA 16802
+
+OWL Ontology Translation based on the O3F Framework
+Lu·s Mota and Lu·s Botelho
+We, the Body and the Mind Research Lab - ADETTI/ISCTE
+luis.mota@iscte.pt,luis.botelho@we›b›mind.org
+
+Characterizing Processor Architectures
+for Programmable Network Interfaces
+Patrick Crowley, Marc E. Fiuczynski, Jean-Loup Baer, and Brian N. Bershad
+Department of Computer Science & Engineering
+University of Washington
+Seattle, WA 98195
+{pcrowley,mef,baer, bershad} @cs.washington.edu
+
+﻿Layered Message Semantics using Social Commitments
+Philippe Pasquier & Brahim Chaib-draa
+Laval University
+Computer Science and Software Engineering
+Sainte-Foy, Que´bec, Canada G1K 7P4
+{pasquier, chaib}@damas.ift.ulaval.ca
+Roberto A. Flores
+Christopher Newport University
+Physics, Computer Science and Engineering
+Newport News, VA 23606 USA
+flores@pcs.cnu.edu
+
+Engineering Agent Interactions from ACL-based Reusable
+Connectors ∗
+Juan Manuel Serrano, Sascha Ossowski, Sergio Saugar
+Artificial Intelligence Group
+School of Engineering
+University Rey Juan Carlos
+JuanManuel.Serrano@urjc.es, Sascha.Ossowski@urjc.es, Sergio.Saugar@urjc.es
+Categories and Subject Descriptors
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelli-
+gence—multiagent systems
+General Terms
+Design, Theory, Standardization
+Keywords
+Agent Communication Languages and Protocols, Multi-agent pro-
+gramming frameworks, JADE
+
+Protocol Synthesis with Dialogue Structure Theory
+Jarred McGinnis
+j.p.mcginnis@sms.ed.ac.uk
+David Robertson
+dr@inf.ed.ac.uk
+Chris Walton
+cdw@inf.ed.ac.uk
+Centre for Intelligent Systems and Applications
+University of Edinburgh
+11 Crichton Street
+EH8 9LE Edinburgh, Scotland
+
+Mathematical Matchmaker for Numeric and Symbolic
+Services
+William Naylor and Julian Padget
+Department of Computer Science
+University of Bath
+Bath, UK
+{wn,jap}@bath.ac.uk
+Simone A. Ludwig and Omer F. Rana
+School of Computer Science
+Cardiff University
+Cardiff, UK
+{scmsal,scmofr}@cs.cardiff.ac.uk
+
+Semantics of Declarative Goals in Agent Programming
+M. Birna van Riemsdijk
+Utrecht University
+The Netherlands
+birna@cs.uu.nl
+Mehdi Dastani
+Utrecht University
+The Netherlands
+mehdi@cs.uu.nl
+John-Jules Ch. Meyer
+Utrecht University
+The Netherlands
+jj@cs.uu.nl
+
+Argument-Based Negotiation in a Social Context
+Nishan C. Karunatillake,
+Nicholas R. Jennings
+School of Electronics & Computer Sci.
+University of Southampton
+United Kingdom.
+{nnc02r, nrj}@ecs.soton.ac.uk
+Timothy J. Norman
+Dept. of Computing Sci.
+University of Aberdeen
+United Kingdom.
+tnorman@csd.abdn.ac.uk
+Iyad Rahwan
+Institute of Informatics
+The British University in Dubai
+P.O.Box 502216 Dubai, UAE.
+irahwan@acm.org
+Categories and Subject Descriptors
+I.2 [Computing Methodologies]: Articial Intelligence
+General Terms
+Theory
+Keywords
+Argumentation-based Negotiation, Conict Resolution.
+
+Real-time Dense Communication among Agents
+for Active Tracking
+Norimichi Ukita
+Graduate School of Information Science, Nara Institute of Science and Technology
+ukita@is.naist.jp
+
+﻿Multiagent Planning through Plan Repair∗
+Roman van der Krogt
+Delft University of Technology
+r.p.j.vanderkrogt@ewi.tudelft.nl
+Mathijs de Weerdt†
+Delft University of Technology
+m.m.deweerdt@ewi.tudelft.nl
+Nico Roos
+University of Maastricht
+roos@cs.unimaas.nl
+Cees Witteveen
+Delft University of Technology
+c.witteveen@ewi.tudelft.nl
+
+﻿Data Storage in Unreliable Multi›agent Networks¤
+Patrick Dewilde
+Delft University of Technology
+Faculty of Electrical Engineering,
+Mathematics and Informatics
+Mekelweg 4
+2628 CD Delft, Netherlands
+p.m.dewilde@ewi.tudelft.nl
+Filip Mileti·c
+Delft University of Technology
+Faculty of Electrical Engineering,
+Mathematics and Informatics
+Mekelweg 4
+2628 CD Delft, Netherlands
+f.miletic@ewi.tudelft.nl
+
+Service-Based Computing for Agents on Disruption and
+Delay Prone Networks
+Joseph Kopena, Guarav Naik, Maxim Peysakhov,
+Evan Sultanik, William Regli, Moshe Kam
+Drexel University
+College of Engineering
+Philadelphia PA 19104
+kopena, gnaik, maxim, eas28, regli, kam@drexel.edu
+Categories and Subject Descriptors
+I.2.11 [Computing Methodologies]: Artificial Intelligence
+General Terms
+Communication planning
+Keywords
+agents & networks: web agents, semantic web, grid, web services,
+P2P, agent architectures; perception, action & planning in agents,
+mobile agents
+
+Author Retrospective
+Compilation Techniques for Block-Cyclic Distributions
+Ajay Sethi
+Accel Partners
+ajay@accel.com
+John Mellor-Crummey
+Rice University
+johnmc@rice.edu
+Seema Hiranandani
+Synopsys, Inc.
+seemah@synopsys.com
+
+Agent-Based Integration of Web Services with Workflow
+Management Systems
+Bastin Tony Roy Savarimuthu, Maryam Purvis, Martin Purvis, Stephen Cranefield
+Department of Information Science
+University of Otago
+P O Box 56, Dunedin, New Zealand
+tonyr@infoscience.otago.ac.nz
+
+Evaluating the Minority Game Strategy in Agent Role
+Assignments
+Jiming Liu
+Department of Computer Science
+Hong Kong Baptist University
+Kowloon Tong, Hong Kong
+jiming@comp.hkbu.edu.hk
+Tingting Wang
+Department of Computer Science
+Hong Kong Baptist University
+Kowloon Tong, Hong Kong
+ttwang@comp.hkbu.edu.hk
+
+Demonstration of WS2JADE
+Xuan Thang Nguyen
+Swinburne University of Technology
+John Street, Hawthorn
+VIC 3122, Australia
+Tel. (61)392145623
+xnguyen@it.swin.edu.au
+
+﻿Construction of Numerical Potential Fields
+with Reactive Agents
+Olivier Simonin
+Universite´ de Technologie de Belfort-Montbe´liard
+90010 Belfort cedex, France
+olivier.simonin@utbm.fr
+Categories and Subject Descriptors
+I.2.11 [Distributed Artificial Intelligence]: Multiagent
+systems; I.2.9 [Robotics]: [Autonomous vehicles]
+General Terms
+Algorithms, Theory
+Keywords
+Multiagent systems, artificial potential fields, path finding,
+environment-based problem solving, foraging
+
+TACOP: A Cognitive Agent for a Naval Training Simulation
+Environment
+Annerieke Heuvelink
+Department of Training and
+Instruction, TNO Defence, Security
+and Safety
+P.O. Box 23
+3769 ZG Soesterberg, The
+Netherlands
++31-346356211
+heuvelink@tm.tno.nl
+Egon L. van den Broek
+Department of Artificial Intelligence,
+Vrije Universiteit Amsterdam
+De Boelelaan 1081a
+1081 HV Amsterdam, The
+Netherlands
++31-20 5987743
+egon@few.vu.nl
+Willem A. van Doesburg
+Department of Training and
+Instruction, TNO Defence, Security
+and Safety
+P.O. Box 23
+3769 ZG Soesterberg, The
+Netherlands
++31-346356211
+vandoesburg@tm.tno.nl
+
+﻿Validation of an Agent Based System Using Petri Nets
+Patrick Amar
+Laboratoire de Recherche en
+Informatique
+Bât 490 Université Paris-Sud
+91405 Orsay Cedex France
+pa@lri.fr
+Guillaume Hutzler
+Laboratoire de Méthodes
+Informatiques
+Tour Evry 2 523 Place des
+terrasses de l’agora
+91000 Evry Cedex France
+hutzler@lami.univ-evry.fr
+Thomas Moncion
+Laboratoire de Méthodes
+Informatiques
+Tour Evry 2 523 Place des
+terrasses de l’agora
+91000 Evry Cedex France
+tmoncion@lami.univ-
+evry.fr
+
+Synthesizing Transformations for Locality Enhancement
+of Imperfectly-nested Loop Nests
+Nawaaz Ahmed, Nikolay Mateev, Keshav Pingali
+Department of Computer Science
+Cornell University
+Ithaca, NY 14853
+{ nawaaz,mateev, pingali }@ cs.comell .edu
+
+A Proposal for an Organizational MAS Methodology
+Estefania Argente Villaplana
+Dpto.Sistemas Informaticos y Computacion, Technical University of Valencia
+C/Camino de Vera s/n, 46022, Valencia, Spain
+eargente@dsic.upv.es
+
+﻿On the Performance of On-line Concurrent Reinforcement
+Learners
+Bikramjit Banerjee
+Department of Electrical Engineering & Computer Science
+Tulane University
+New Orleans, LA 70118. USA
+banerjee@eecs.tulane.edu
+Categories and Subject Descriptors
+I.2.11 [Distributed Artificial Intelligence]: Multiagent Systems;
+I.2.6 [Artificial Intelligence]: LearningConcept Learning
+General Terms
+Algorithms, Theory, Performance
+Keywords
+Multiagent Learning, Game Theory
+Multiagent Learning (MAL) is significantly complicated relative
+to Machine Learning (ML) by the fact that multiple learners render
+each other’s environments non-stationary. While ML focuses on
+learning a fixed target function, MAL deals with learning a “mov-
+ing target function”. In contrast to classical Reinforcement Learn-
+ing, MAL deals with an extra level of uncertainty in the form of
+the behaviors of the other learners in the domain. Existing learning
+methods provide guarantees about the performance of the learners
+only in the limit since a learner approaches its desired behavior
+asymptotically. There is little insight into how well or how poorly
+an on-line learner can perform while it is learning. This is the core
+problem studied in this thesis, resulting in the following contribu-
+tions.
+First, it sets up a novel mix of goals for a new MAL algorithm
+that will achieve some basic learning objectives without knowing
+the type of the other agents, such as (1) learn the best response be-
+havior when other agents in the domain are (eventually) stationary
+and (2) jointly converge on a mutual equilibrium behavior in case
+the other agents are using the same learning algorithm, and will
+also ensure that in case the other agents are neither of the above
+
+Engineering Distributed Protocols for Multi-Agent
+Interactions using Game Theory
+Rajdeep K. Dash
+School of Electronics and Computer Science, University of Southampton, Southampton, SO17 1BJ, UK
+rkd02r@ecs.soton.ac.uk
+Categories and Subject Descriptors
+I.2.11 [Artificial Intelligence]: Distributed Artificial In-
+telligence—Multiagent systems, Coherence and coordination
+General Terms
+Algorithms, Design, Economics
+Keywords
+Mechanism design, task allocation, trust, sensor networks
+
+A Multi Agent Methodology for Holonic Manufacturing
+Systems
+Adriana Giret
+Departamento de Sistemas Informa´ticos y Computacio´n
+Universidad Polite´cnica de Valencia
+46020 Valencia, Spain
+agiret@dsic.upv.es
+
+Survivability of Multi-Agent Systems
+Nathan Gnanasambandam
+Pennsylvania State University
+310 Leonhard Building
+University Park, PA 16802
+gsnathan@psu.edu
+
+Monitoring Large-Scale Multi-Agent Systems
+using Overhearing
+Gery Gutnik
+(Advisor: Gal A. Kaminka)
+Computer Science Department, Bar Ilan University, Israel
+gutnikg@cs.biu.ac.il
+
+﻿ETAPP: A Framework of Agent Collaboration under
+Conditions of Uncertainty Regarding Team Members ∗
+Christian Guttmann
+School of Computer Science and Software Engineering
+Monash University
+Clayton, VICTORIA 3800, Australia
+xtg@csse.monash.edu.au
+
+﻿Model-based Diagnosis of Multi-agent Systems
+Meir Kalech and Gal A. Kaminka
+The MAVERICK Group
+Computer Science Department
+Bar Ilan University, Israel
+{kalechm, galk}@cs.biu.ac.il
+1. BACKGROUND AND MOTIVATION
+One of the key requirements in collaborating distributed appli-
+cations is that their sub-systems remain synchronized during their
+joint operation. There is an increasing need to be able to respond
+to failures that occur in their synchronization and coordinated op-
+eration, in particular to be able to diagnose the causes for synchro-
+nization failures that may occur.
+We choose to use a model-based diagnosis approach (MBD) [1]
+that relies on a model of the diagnosed system, which is utilized to
+simulate the behavior of the system given the operational context
+(typically, the system’s inputs). The resulting simulated behavior
+(typically, outputs) are compared to the actual behavior to detect
+discrepancies indicating failures. The model can then be used to
+pinpoint possible failing components within the system. MBD is
+increasingly being applied in distributed and multi-agent systems.
+While successfully addressing key challenges, MBD has been dif-
+ficult to apply to diagnosing coordination failures. This is because
+many such failures take place at the boundaries between the agent
+and their environment, including other agents.
+For instance, in a team, an agent may send a message that an-
+other agent, due to a broken radio, did not receive. As a result, the
+two agents come to disagree on an action to be taken. Lacking an
+omniscient diagnoser that knows of the sending of the message, the
+receiver has no way to detect and diagnose its fault. Surprisingly, it
+is still often possible to detect and diagnose coordination failures,
+given the actions of agents, and the coordination constraints that
+should ideally hold between them. In the example above, knowing
+that the two agents should be in agreement as to their actions, and
+
+Polymorphic Self- Agents using Game Theory for
+Large-Scale Complex Systems
+Derek Messie
+Department of Electrical Engineering and Computer Science
+Syracuse University, Syracuse, NY 13244 USA
+dsmessie@syr.edu
+
+Learning Team Behaviors with Adaptive Heterogeneity
+Liviu Panait
+Department of Computer Science
+George Mason University
+lpanait@cs.gmu.edu
+Categories and Subject Descriptors
+I.2.11 [Distributed Artificial Intelligence]: Multiagent Systems
+General Terms
+Experimentation
+Keywords
+multiagent learning, dynamic role allocation
+The task of hard-coding agent behaviors to achieve desired team
+behaviors is very difficult, if not intractable. The complexity of
+multiagent problems can also rise exponentially with the number of
+agents and their behavioral sophistication. The field of cooperative
+multiagent learning promises solutions to these issues by employ-
+ing automatic search methods to discover agent behaviors, and as
+such it has been the focus of numerous studies in recent years.
+Research in cooperative multiagent learning usually concentrates
+on two opposite approaches, each generating a different range of
+questions. First, there are techniques to learn homogeneous be-
+haviors for large swarms of identical agents; they assume all agents
+have identical behavior (a significant reduction to the search space),
+but the potential of specialization to different tasks is minimized.
+Second, there are techniques that allow each agent to specialize to
+a unique behavior, thus creating a wide range of potential solutions;
+these methods are however applicable to only small teams due to
+the increased complexity that comes with larger numbers of agents.
+My interests target the middle-ground, namely moderately large
+teams of agents with heterogeneous behaviors. Combining the
+desideratum for scalability of learning to larger teams with the need
+for agent specialization is not an easy task; one solution is to de-
+compose the team into multiple groups, where all agents within a
+group have identical behavior (1; 2; 3). Current approaches only al-
+
+Market-Based Task Allocation and Control for
+Distributed Logistics
+Valentin Robu
+CWI, Dutch National Center for Mathematics and Computer Science
+Kruislaan 413, NL-1098 SJ Amsterdam, The Netherlands
+
+Logic and Game Theory for Social Mechanisms
+Sieuwert van Otterloo
+Department of Computer Science
+University of Liverpool
+Liverpool L69 7ZF
+sieuwert@bluering.nl
+Categories and Subject Descriptors
+I.2.11 [ARTIFICIAL INTELLIGENCE]: Distributed Ar-
+tificial Intelligence—Multiagent systems; K.4.4 [COMPUTERS
+AND SOCIETY]: Electronic Commerce—Security
+General Terms
+Theory
+Keywords
+knowledge, epistemic logic, modal logic, game theory, pri-
+vacy, security, mechanism design, verification
+
+Cognitive Agent Programming
+Semantics and Logics
+M. Birna van Riemsdijk
+Utrecht University
+The Netherlands
+birna@cs.uu.nl
+Supervisors: John-Jules Ch. Meyer, Frank S. de Boer, Mehdi Dastani
+
+Towards Fault Tolerance For Multiagent Systems
+Yingqian Zhang
+School of Computer Science, University of Manchester
+Oxford Road, Manchester, M13 9PL, UK
+zhangy@cs.man.ac.uk
+
+OWL-P: OWL for Protocol and Processes
+Ashok U. Mallya Nirmit Desai Amit K. Chopra Munindar P. Singh
+Department of Computer Science
+North Carolina State University
+Raleigh NC 27695 USA
+{aumallya,nvdesai,akchopra,singh}@ncsu.edu
+
+Dynamic Epistemic Logic with Assignment
+B.P. Kooi
+Philosophy
+University of Groningen
+the Netherlands
+barteld@philos.rug.nl
+W. van der Hoek
+Computer Science
+University of Liverpool
+United Kingdom
+wiebe@csc.liv.ac.uk
+H.P. van Ditmarsch
+Computer Science
+University of Otago
+New Zealand
+hans@cs.otago.ac.nz
+
+Gamble v2.0 — Social interactions with multiple users
+Matthias Rehm, Elisabeth Andre´, Michael Wissner
+Multimedia Concepts and Applications
+Faculty of Applied Computer Science
+University of Augsburg, Germany
+{rehm(|)andre}@informatik.uni-augsburg.de
+
+﻿A Computationally Grounded Logic of Knowledge, Belief
+and Certainty ¤
+Guido Governatori
+School of ITEE
+The University of Queensland
+Brisbane, Australia
+guido@itee.uq.edu.au
+Qingliang Chen
+Dept. of Computer Science
+Sun Yat-sen University
+Guangzhou, P.R. China
+tsingliangchen@yahoo.com
+Kaile Su, Abdul Sattar
+Institute for Integrated and
+Intelligent Systems
+Griffith University
+Brisbane, Australia
+{k.su, a.sattar}@grifth.edu.au
+
+﻿Distributed Agent Platform for Advanced Logistics
+Tamas Mahr
+Almende BV
+Westerstraat 50
+3016DJ Rotterdam, The Netherlands
+tamas@almende.com
+Mathijs de Weerdt
+Delft University of Technology
+Mekelweg 4
+2628CD Delft, The Netherlands
+M.M.deWeerdt@ewi.tudelft.nl
+Categories and Subject Descriptors
+I.2.11 [ARTIFICIAL INTELLIGENCE]: Distributed Ar-
+tificial Intelligence—Intelligent agents, Multiagent systems
+General Terms
+Design, Experimentation, Performance, Reliability
+Keywords
+Agent platform, Logistics
+
+Design, Runtime, and Analysis of Multi-Agent Systems
+K. S. Barber, N. Gujral, J. Ahn, D. DeAngelis, K. Fullam, D. C. Han, D. N. Lam, J. Park
+The Laboratory for Intelligent Processes and Systems
+Electrical and Computer Engineering
+The University of Texas at Austin
+{barber, ngujral, jsahn, dave, kfullam, dhan, dnlam, jisun}@lips.utexas.edu
+
+Search and Replication in
+Unstructured Peer-to-Peer Networks
+Edith Cohen
+AT&T Labs-Research
+edith@research.att.com
+Pei Cao
+Cisco Systems, Inc.
+cao@cisco.com
+Qin Lv
+Dept. of Computer Science
+Princeton University
+qlv@CS.Princeton.EDU
+Scott Shenker
+ICSI
+shenker@icsi.berkeley.edu
+Kai Li
+Dept. of Computer Science
+Princeton University
+li@CS.Princeton.EDU
+
+A Logic for Strategic Reasoning
+Michael Wooldridge
+Dept. of Computer Science
+University of Liverpool
+Liverpool L69 7ZF, UK
+mjw@csc.liv.ac.uk
+Wojciech Jamroga
+Institute of Computer Science
+Clausthal Univ. of Technology
+38 678 Clausthal, Germany
+wjamroga@in.tu-clausthal.de
+Wiebe van der Hoek
+Dept. of Computer Science
+University of Liverpool
+Liverpool L69 7ZF, UK
+wiebe@csc.liv.ac.uk
+
+Magenta Logistics i-Scheduler
+Jonathan Himoff
+CEO of Magenta Technology
+33 Glasshouse Street, London W1B 5DG
+Telephone number: +44 207 725 4960
+jon.himoff@magenta-technology.com
+
+DEMO: The Autonomous Sciencecraft Experiment
+Onboard the EO-1 Spacecraft
+Daniel Tran, Steve Chien, Rob Sherwood, Rebecca Castano, Benjamin Cichy,
+Ashley Davies, Gregg Rabideau
+Jet Propulsion Laboratory, California Institute of Technology
+4800 Oak Grove Dr.
+Pasadena, CA 91109
+Firstname.Lastname@jpl.nasa.gov
+
+A Multiagent System Manages Collaboration in Emergent
+Processes
+John Debenham
+Faculty of Information Technology
+University of Technology, Sydney
+NSW, Australia
+debenham@it.uts.edu.au
+
+Towards a Theory of “Local to Global” in Distributed
+Multi-Agent Systems (I)
+Daniel Yamins
+Harvard University
+33 Oxford St.
+Cambridge, MA 02138 USA
+yamins@fas.harvard.edu
+
+﻿Experiences with the Design and Implementation of an
+Agent-based Autonomous UAV Controller
+Clint Heinze
+Air Operations Division
+Defence Science and Technology Organisation
+Melbourne, Australia
+clinton.heinze@dsto.defence.gov.au
+Samin Karim∗
+Department of Information Systems
+University of Melbourne
+Melbourne, Australia
+mkarim@pgrad.unimelb.edu.au
+
+﻿Towards a Theory of “Local to Global” in Distributed
+Multi-Agent Systems (II)
+Daniel Yamins
+Harvard University
+33 Oxford St.
+Cambridge, MA 02138 USA
+yamins@fas.harvard.edu
+
+Bloom Filtering Cache Misses for Accurate Data
+Speculation and Prefetching
+Jih-Kwon Peir
+CISE Department
+University of Florida
+peir@cise.ufl.edu
+Shih-Chang Lai
+ECE Department
+Oregon State University
+laish@ece.orst.edu
+Shih-Lien Lu
+Jared Stark
+Konrad Lai
+Microprocessor Research
+Intel Labs
+shih-lien.l.lu@intel.com
+
+Formation of Cooperation Structure by Interaction Network
+in Directed Multi-Agent
+Kosuke Sekiyama
+Department of Human and Artificial Intelligence
+Systems, University of Fukui
+3-9-1 Bunkyo, Fukui, Japan
+sekiyama@dis.his.fukui-u.ac.jp
+Yukihisa Okade
+Department of Human and Artificial Intelligence
+Systems, University of Fukui
+3-9-1 Bunkyo, Fukui, Japan
+okade@dis.his.fukui-u.ac.jp
+
+Thespian:
+Using Multi-Agent Fitting to Craft Interactive Drama
+Mei Si, Stacy C. Marsella, and David V. Pynadath
+Information Sciences Institute
+University of Southern California
+Los Angeles, CA 90292
+{meisi,marsella,pynadath}@isi.edu
+
+Kaa: Policy-based Explorations of a Richer Model for
+Adjustable Autonomy
+Jeffrey M. Bradshaw, Hyuckchul Jung, Shri Kulkarni, Matthew Johnson, Paul Feltovich, James
+Allen, Larry Bunch, Nathanael Chambers, Lucian Galescu, Renia Jeffers, Niranjan Suri,
+William Taysom, Andrzej Uszok
+Florida Institute for Human and Machine Cognition (IHMC)
+40 South Alcaniz Street, Pensacola, FL 32502, USA
+{jbradshaw, hjung, skulkarni, mjohnson, pfeltovich, jallen, lbunch, nchambers, lgalescu,
+rjeffers, nsuri, wtaysom, auszok}@ihmc.us
+
+Multi-Agent Decision Support Via User-Modeling
+Terrence Harvey, Keith Decker, and Sandra Carberry
+University of Delaware
+Computer and Information Sciences
+{harvey, decker, carberry}@cis.udel.edu
+
+Agent-Organized Networks for Dynamic Team Formation
+Matthew E. Gaston Marie desJardins
+Department of Computer Science and Electrical Engineering
+University of Maryland Baltimore County
+{mgasto1, mariedj}@cs.umbc.edu
+
+Optimal Design in Collaborative Design Network
+J. Chen
+University of Guelph
+Canada
+junjiang@uoguelph.ca
+W.S. Havens
+Simon Fraser University
+Canada
+havens@cs.sfu.ca
+Y. Xiang
+University of Guelph
+Canada
+yxiang@cis.uoguelph.ca
+
+Diagnosing a Team of Agents: Scaling-Up
+Meir Kalech and Gal A. Kaminka
+The MAVERICK Group
+Computer Science Department
+Bar Ilan University, Israel
+{kalechm, galk}@cs.biu.ac.il
+
+S-Assess: A Library for Behavioral Self-Assessment
+Scott A. Wallace
+Washington State University Vancouver
+14204 NE Salmon Creek Ave.
+Vancouver, WA 98686
+swallace@vancouver.wsu.edu
+
+IDReAM: Intrusion Detection and Response executed with
+Agent Mobility
+Architecture and Implementation
+Noria Foukia
+Information Sciences Institute (USC)
+Network Systems Laboratory
+foukia@isi.edu
+
+Controlling Teams of Uninhabited Air Vehicles
+Jeremy W. Baxter and Graham S. Horn
+QinetiQ Limited
+Malvern Technology Centre
+St Andrews Road, Malvern, WR14 3PS, UK
+{jwbaxter, ghorn}@QinetiQ.com
+
+Author Retrospective for
+Optimum Modulo Schedules for Minimum
+Register Requirements
+Edward S. Davidson
+1100 Chestnut Rd.
+Ann Arbor, MI 48104
++1 734 973-0751
+davidson@umich.edu
+Alexandre E. Eichenberger
+IBM T.J. Watson Research Center
+PO Box 218
+Yorktown Heights, NY 10514
++1 914 945 1812
+alexe@us.ibm.com
+Santosh G. Abraham
+Advanced Processor Laboratory
+Samsung Research America
+1732 N. 1st Street
+San Jose, CA 95112
++1 408 605-5813
+sg.abraham@samsung.com
+Original paper: http://dx.doi.org/10.1145/224538.224542
+1. Origins
+Modulo Scheduling is an approach to scheduling loops where
+successive iterations of a given loop are initiated at a constant rate
+using the same instruction schedule for each iteration. This
+scheduling approach was inspired by work on designing hardware
+pipelines that maximizes the throughput of a single function
+pipeline. In this earlier work, the resource pattern of the single
+pipeline was optimized; namely, when given enough buffers,
+stages could be delayed, so as to achieve an optimal
+throughput[1]. This work formalized the resource optimization
+problem using reservation tables, which had one row per resource
+and one column per time unit modulo the period of the initiation
+
+On Possibilistic Case-based Reasoning for Selecting
+Partners for Multi-attribute Agent Negotiation
+Ryszard Kowalczyk
+Faculty of Information and Communication
+Technologies
+Swinburne University of Technology
+Hawthorn, Victoria 3122, Australia
+Jakub Brzostowski
+Faculty of Information and Communication
+Technologies
+Swinburne University of Technology
+Hawthorn, Victoria 3122, Australia
+
+Modeling Complex Multi-Issue Negotiations
+Using Utility Graphs
+Valentin Robu
+robu@cwi.nl
+D.J.A. Somefun
+koye@cwi.nl
+J.A. La Poutre´
+hlp@cwi.nl
+CWI, Dutch National Research Center for Mathematics and Computer Science
+Kruislaan 413, NL-1098 SJ Amsterdam, The Netherlands
+
+Negotiation Mechanism for TAC SCM Component Market∗
+Dongmo Zhang
+School of Computing and Information Technology
+University of Western Sydney, Australia
+dongmo@cit.uws.edu.au
+
+Negotiating over Small Bundles of Resources
+Yann Chevaleyre1, Ulle Endriss2, Je´roˆme Lang3 and Nicolas Maudet1
+1LAMSADE, Universite´ Paris-Daupine (France)
+2Department of Computing, Imperial College London (UK)
+3IRIT, Universite´ Paul Sabatier, Toulouse (France)
+1{chevaley,maudet}@lamsade.dauphine.fr, 2ue@doc.ic.ac.uk, 3lang@irit.fr
+
+﻿Conflicts in teamwork: Hybrids to the rescue
+M. Tambe, E. Bowring, H. Jung∗, G. Kaminka+, R. Maheswaran, J. Marecki, P.J.Modi++
+R. Nair∗∗, S. Okamoto++, J.P. Pearce, P. Paruchuri, D. Pynadath, P. Scerri++, N. Schurr,
+P. Varakantham
+University of Southern California, Los Angeles, CA 90089, USA
+∗ Institute for Human-Machine Cognition, Pensacola, FL 32502, USA
++ Bar Ilan University, Ramat Gan, Israel
+∗∗ Honeywell Laboratories, Minneapolis, MN 55418, USA
+++ School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, USA
+http://teamcore.usc.edu
+
+Global Convergence of Local Agent Behaviors
+H. Van Dyke Parunak, Sven A. Brueckner, John A. Sauter, Robert Matthews
+Altarum Institute
+3520 Green Court, Suite 300
+Ann Arbor, MI 48105 USA
+1-734-302-4600
+{van.parunak, sven.brueckner, john.sauter, robert.matthews}@altarum.org
+
+﻿Emerging Collective Behavior in a Simple Artificial
+Financial Market
+Alexandre T. Baraviera
+Instituto de Matema´tica, UFRGS
+91509-900 Porto Alegre RS Brazil
+baravi@mat.ufrgs.br
+Roberto da Silva and Ana L. C. Bazzan
+Instituto de Informa´tica, UFRGS
+C.P. 15064 – 91501-970 Porto Alegre, RS, Brazil
+{rdasilva,bazzan}@inf.ufrgs.br
+Sı´lvio R. Dahmen
+Instituto de Fı´sica, UFRGS
+C.P. 15051 – 90570-051 Porto Alegre RS Brazil
+dahmen@if.ufrgs.br
+
+Approximating State Estimation in Multiagent Settings
+Using Particle Filters
+Prashant Doshi and Piotr J. Gmytrasiewicz
+Department of Computer Science
+University of Illinois at Chicago, IL 60607
+{pdoshi,piotr}@cs.uic.edu
+
+AEGIS: Architecture for Tamper-Evident and
+Tamper-Resistant Processing
+G. Edward Suh, Dwaine Clarke, Blaise Gassend, Marten van Dijk, Srinivas Devadas
+Laboratory for Computer Science
+Massachusetts Institute of Technology
+Cambridge, MA 02139
+{suh,declarke,gassend,marten,devadas}@mit.edu
+
+Automated Resource-Driven Mission Phasing Techniques
+for Constrained Agents
+Edmund H. Durfee
+EECS Department, University of Michigan
+Ann Arbor, MI 48109 USA
+durfee@umich.edu
+Jianhui Wu
+EECS Department, University of Michigan
+Ann Arbor, MI 48109 USA
+jianhuiw@umich.edu
+
+A Comparative Evaluation of Agent Location Mechanisms
+in Large Scale MAS
+David Ben-Ami
+Technion - Israel Institute of Technology
+Haifa 32000, ISRAEL
+davb@tx.technion.ac.il
+Onn Shehory
+IBM Haifa Research Lab
+Haifa 31905, ISRAEL
+onn@il.ibm.com
+
+TACOP: A Cognitive Agent for a Naval Training Simulation
+Environment
+Annerieke Heuvelink
+Department of Training and
+Instruction, TNO Defence, Security
+and Safety
+P.O. Box 23
+3769 ZG Soesterberg, The
+Netherlands
++31-346356211
+heuvelink@tm.tno.nl
+Egon L. van den Broek
+Department of Artificial Intelligence,
+Vrije Universiteit Amsterdam
+De Boelelaan 1081a
+1081 HV Amsterdam, The
+Netherlands
++31-20 5987743
+egon@few.vu.nl
+Willem A. van Doesburg
+Department of Training and
+Instruction, TNO Defence, Security
+and Safety
+P.O. Box 23
+3769 ZG Soesterberg, The
+Netherlands
++31-346356211
+vandoesburg@tm.tno.nl
+
+Effect of referrals on convergence to satisficing
+distributions
+Sandip Sen
+Math & Computer Sciences Department
+University of Tulsa
+sandip@utulsa.edu
+Teddy Candale
+Math & Computer Sciences Department
+University of Tulsa
+teddy-candale@utulsa.edu
+
+Decentralized Voting with Unconditional Privacy
+Tuomas Sandholm
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh PA 15213
+sandholm@cs.cmu.edu
+Felix Brandt
+Computer Science Department
+Stanford University
+Stanford CA 94305
+brandtf@cs.stanford.edu
+
+﻿Voting Policies that Cope with Unreliable Agents ∗
+Ingrid Zukerman
+School of Computer Science and Software
+Engineering
+Monash University
+Clayton, VICTORIA 3800, Australia
+ingrid@csse.monash.edu.au
+Christian Guttmann†
+School of Computer Science and Software
+Engineering
+Monash University
+Clayton, VICTORIA 3800, Australia
+xtg@csse.monash.edu.au
+
+Believable Groups of Synthetic Characters
+Rui Prada, Ana Paiva
+IST-Technical University of Lisbon and INESC-ID
+Avenida Prof. Cavaco Silva - Taguspark
+2780-990 Porto Salvo, Portugal
+{rui.prada,ana.paiva}@inesc-id.pt
+
+Formalization of a Voting Protocol for Virtual Organizations
+Marek Sergot, Alexander Artikis
+Computational Logic Group
+Department of Computing
+Imperial College London, London, SW7 2AZ, UK
+{mjs,aartikis}@doc.ic.ac.uk
+Jeremy Pitt, Lloyd Kamara
+Intelligent Systems & Networks Group
+Dept. of Electrical & Electronic Engineering
+Imperial College London, London, SW7 2BT, UK
+{j.pitt,l.kamara}@imperial.ac.uk
+
+﻿Adapting to Agents’ Personalities in Negotiation
+Shavit Talman
+Dept. of Computer Science
+Bar Ilan University
+Ramat Gan 52900, Israel
+Ya’akov Gal
+Division of Engineering and
+Applied Sciences
+Harvard University
+Cambridge, MA 02138
+Sarit Kraus
+Dept. of Computer Science
+Bar Ilan University
+Ramat Gan 52900, Israel
+Meirav Hadad
+Caesarea Rothschild Institute
+University of Haifa
+Haifa 31905, Israel
+Categories and Subject Descriptors
+I.2 [Artificial Intelligence]: I.2.11Distributed Artificial Intelligence
+Multiagent systems
+General Terms
+Design, Experimentation
+Keywords
+Negotiation, Social decision-making, Opponent modeling, Game
+formalisms
+
+Bumping Strategies for the Multiagent Agreement Problem
+Pragnesh Jay Modi and Manuela Veloso
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh, PA 15213
+{pmodi,veloso}@cs.cmu.edu
+
+Modeling Opponent Decision in
+Repeated One-shot Negotiations
+Sandip Sen
+Department of Math &
+Computer Science
+The University of Tulsa
+sandip@utulsa.edu
+Anish Biswas
+Department of Math &
+Computer Science
+The University of Tulsa
+abiswas1@yahoo.com
+Sabyasachi Saha
+Department of Math &
+Computer Science
+The University of Tulsa
+saby@utulsa.edu
+
+An Integrated Token-Based Algorithm for Scalable
+Coordination
+Yang Xu+, Paul Scerri∗, Bin Yu∗, Steven Okamoto∗, Michael Lewis+ and Katia Sycara∗
++ University of Pittsburgh, ∗ Carnegie Mellon University
+yxu@sis.pitt.edu, {pscerri, byu, sokamoto}@cs.cmu.edu, ml@sis.pitt.edu, katia@cs.cmu.edu
+
+﻿Tactical Coordination in No-press Diplomacy
+Stefan J. Johansson
+School of Engineering
+Blekinge Institute of Technology
+Soft Center Box 520, 372 25 Ronneby, Sweden
+sja@bth.se
+Fredrik Håård
+Softhouse
+Campus Gräsvik
+Karlskrona, Sweden
+fredrik.haard@softhouse.se
+
+Multiagent Coordination by Extended Markov Tracking
+Zinovi Rabinovich Jeffrey S. Rosenschein
+School of Engineering and Computer Science
+Hebrew University, Jerusalem, Israel
+{nomad, jeff}@cs.huji.ac.il
+
+Coordination and Composition in Multi-Agent Systems
+Frank de Boer
+CWI
+P.O. Box 94079
+1090 GB Amsterdam
+The Netherlands
+F.S.de.Boer@cwi.nl
+Farhad Arbab
+CWI
+P.O. Box 94079
+1090 GB Amsterdam
+The Netherlands
+farhad@cwi.nl
+Mehdi Dastani
+Utrecht University
+P.O.Box 80.089
+3508 TB Utrecht
+The Netherlands
+mehdi@cs.uu.nl
+
+Exploiting a Sensed Environment to Improve Human-Agent
+Communication
+Shana Watters, Tim Miller, Praveen Balachandran, William Schuler, Richard Voyles
+Department of Computer Science and Engineering
+University of Minnesota
+Minneapolis, MN 55345
+{watters,tmill,pkbalac,schuler,voyles}@cs.umn.edu
+
+An Adaptive Solution to Dynamic Transport Optimization
+Klaus Dorer and Monique Calisti
+Whitestein Technologies AG
+Pestalozzistrasse 24
+8032 Zu¨rich, Switzerland
+{kdo,mca}@whitestein.com
+
+﻿An Earth Watching Satellite Constellation:
+How to Manage a Team of Watching Agents
+with Limited Communications
+Sylvain Damiani
+ONERA
+Centre de Toulouse
+2 av. E´douard Belin, BP 4025
+31055, Toulouse Cedex 4
+France
+Sylvain.Damiani@onera.fr
+Ge´rard Verfaillie
+ONERA
+Centre de Toulouse
+2 av. E´douard Belin, BP 4025
+31055, Toulouse Cedex 4
+France
+Gerard.Verfaillie@onera.fr
+Marie-Claire Charmeau
+CNES
+Centre Spatial de Toulouse
+18 av. E´douard Belin
+31401, Toulouse Cedex 4
+France
+Marie-
+Claire.Charmeau@cnes.fr
+
+Author Retrospective for
+Counting Solutions to Linear and Nonlinear Constraints
+Through Ehrhart Polynomials: Applications to analyze and
+transform Scientific Programs
+Philippe Clauss
+INRIA, ICube Lab., CNRS
+University of Strasbourg, France
+clauss@unistra.fr
+
+﻿Using Cooperative Mediation to Coordinate Traffic Lights:
+a Case Study
+Victor Lesser
+University of Massachusetts
+Department of Computer Science
+Amherst, MA 01003
+lesser@cs.umass.edu
+Denise de Oliveira and Ana L. C. Bazzan
+Instituto de Informa´tica, UFRGS
+Caixa Postal 15064 CEP 91.501-970
+Porto Alegre, RS, Brazil
+{edenise, bazzan}@inf.ufrgs.br
+
+Multiagent Traffic Management: An Improved Intersection
+Control Mechanism
+Kurt Dresner and Peter Stone
+University of Texas at Austin
+Department of Computer Sciences
+Austin, TX 78712 USA
+{kdresner, pstone}@cs.utexas.edu
+
+Task Delegation using Experience-Based
+Multi-Dimensional Trust
+Nathan Griffiths
+Department of Computer Science
+University of Warwick
+Coventry, CV4 7AL, UK
+nathan@dcs.warwick.ac.uk
+
+﻿An Information-Based model for Trust
+John Debenham
+Faculty of Information Technology
+University of Technology, Sydney
+NSW, Australia
+debenham@it.uts.edu.au
+Carles Sierra
+Institut d’Investigacio en Intel.ligencia Artificial
+Spanish Scientific Research Council, UAB
+08193 Bellaterra, Catalonia, Spain
+sierra@iiia.csic.es
+
+﻿A Specification of the Agent Reputation and Trust (ART)
+Testbed: Experimentation and Competition for Trust in
+Agent Societies
+Karen K. Fullam1, Tomas B. Klos2, Guillaume Muller3, Jordi Sabater4, Andreas Schlosser5, Zvi
+Topol6, K. Suzanne Barber1, Jeffrey S. Rosenschein6, Laurent Vercouter3, and Marco Voss5
+1Laboratory for Intelligent Processes and Systems, University of Texas at Austin, USA
+2Center for Mathematics and Computer Science (CWI), Amsterdam, The Netherlands
+3SMA/G2I— ´Ecole Nationale Supe´rieure des Mines, Saint- ´Etienne, France
+4Institute of Cognitive Science and Technology (ISTC), National Research Council (CNR), Rome, Italy
+5IT Transfer Office, Darmstadt University of Technology, Darmstadt, Germany
+6Multiagent Systems Research Group—Critical MAS, Hebrew University, Jerusalem, Israel
+
+Agent-Based Trust Model Involving Multiple Qualities
+E. Michael Maximilien
+IBM Almaden Research Center
+650 Harry Road
+San Jose, CA 95120
+maxim@us.ibm.com
+Munindar P. Singh
+North Carolina State University
+Department of Computer Science
+Raleigh, NC 27695
+singh@ncsu.edu
+
+Formal Handling of Threats and Rewards in a Negotiation
+Dialogue
+Henri Prade
+IRIT - CNRS
+118, route de Narbonne
+Toulouse, France
+prade@irit.fr
+Leila Amgoud
+IRIT - CNRS
+118, route de Narbonne
+Toulouse, France
+amgoud@irit.fr
+
+Behavior Transfer for Value-Function-Based Reinforcement
+Learning
+Matthew E. Taylor and Peter Stone
+Department of Computer Sciences
+The University of Texas at Austin
+Austin, Texas 78712-1188
+{mtaylor, pstone}@cs.utexas.edu
+
+Towards a Formal Framework for the Search of a
+Consensus Between Autonomous Agents
+Leila Amgoud
+IRIT - CNRS
+118, route de Narbonne
+Toulouse, France
+amgoud@irit.fr
+Sihem Belabbes
+IRIT - CNRS
+118, route de Narbonne
+Toulouse, France
+belabbes@irit.fr
+Henri Prade
+IRIT - CNRS
+118, route de Narbonne
+Toulouse, France
+prade@irit.fr
+
+What Kind of Argument Are We Going to Have Today?
+Eva Cogan and Simon Parsons
+Dept of Computer and Information Science
+Brooklyn College
+City University of New York
+Brooklyn, NY 11210 USA
+p.j.mcburney@csc.liv.ac.uk
+Peter McBurney
+Department of Computer Science
+University of Liverpool
+Chadwick Building
+Peach Street, Liverpool L69 7ZF, UK
+{cogan,parsons}@sci.brooklyn.cuny.edu
+
+Argumentation-based dialogues for deliberation
+Yuqing Tang and Simon Parsons
+Department of Computer Science
+Graduate Center
+City University of New York
+365 5th Avenue, New York
+NY 10016, USA
+ytang@gc.cuny.edu,parsons@sci.brooklyn.cuny.edu
+
+Polymorphic Self- Agents for Stigmergic Fault Mitigation
+in Large-Scale Real-Time Embedded Systems
+Derek Messie
+Jae C. Oh
+Department of Electrical Engineering and Computer Science
+Syracuse University
+Syracuse, NY 13244 USA
+dsmessie@syr.edu, jcoh@ecs.syr.edu
+
+A Secure Architectural Description Language for Agent
+Systems
+Manuel Kolp,
+ISYS- Information Systems Research
+Unit, University of Louvain, Place des
+Doyens,
+B - 1348 Louvain-La-Neuve, Belgium
+kolp@isys.ucl.ac.be
+Stephane Faulkner,
+Management Research Unit, University
+of Namur
+8 rempart de la vierge, 5000 Namur,
+Belgium
+stephane.faulkner@fundp.ac.be
+Haralambos Mouratidis
+School of Computing and Technology,
+University of East London, Barking
+Campus, Longbridge Road, RM8 2AS,
+England.
+H.Mouratidis@uel.ac.uk
+Paolo Giorgini
+Department of Information and
+Communication Technology, University
+of Trento, Via Sommarive, 14 38050,
+Rovo, Trento, Italy
+paolo.giorgini@dit.unitn.it
+
+Comprehending Agent Software
+D. N. Lam and K. S. Barber
+The University of Texas at Austin
+Laboratory for Intelligent Processes and Systems
+1 University Station C0803, Austin, TX 78712-0240
+{dnlam, barber}@lips.utexas.edu
+
+Efficient Learning of Multi-step Best Response
+Jing Peng
+Department of Electrical Engineering &
+Computer Science
+Tulane University
+New Orleans, LA 70118. USA
+jp@eecs.tulane.edu
+Bikramjit Banerjee
+Department of Electrical Engineering &
+Computer Science
+Tulane University
+New Orleans, LA 70118. USA
+banerjee@eecs.tulane.edu
+
+Design Tradeoffs for Tiled CMP On-Chip Networks
+∗
+James Balfour
+, William J. Dally
+Computer Systems Laboratory
+Stanford University
+{jbalfour,billd}@cva.stanford.edu
+
+Personalisation for User Agents
+J.J. Cole, M.J. Gray, J.W. Lloyd, and K.S. Ng
+Computer Sciences Laboratory
+Research School of Information Sciences and Engineering
+The Australian National University
+{Joshua.Cole, Matt.Gray, John.Lloyd, Kee.Ng}@anu.edu.au
+
+Matchmaking Multi-Party Interactions Using Historical
+Performance Data
+David Lambert and David Robertson
+School of Informatics
+University of Edinburgh
+Edinburgh, Scotland
+d.j.lambert@sms.ed.ac.uk, dr@inf.ed.ac.uk
+
+Implicit: An Agent-Based Recommendation System for
+Web Search
+Alexander Birukov
+Department of Information and
+Communication Technology
+University of Trento - Italy
+birukou@dit.unitn.it
+Enrico Blanzieri
+Department of Information and
+Communication Technology
+University of Trento - Italy
+enrico.blanzieri@unitn.it
+Paolo Giorgini
+Department of Information and
+Communication Technology
+University of Trento - Italy
+paolo.giorgini@unitn.it
+
+AmbieAgents: A Scalable Infrastructure for Mobile and
+Context-Aware Information Services
+Till C. Lech
+CognIT a.s
+Meltzersgt. 4
+N-0257 Oslo, Norway
++47 22540520
+Till.Lech@cognit.no
+Leendert W. M. Wienhofen
+CognIT a.s
+Meltzersgt. 4
+N-0257 Oslo, Norway
++47 22540520
+Leendert.Wienhofen@cognit.no
+
+Sequential Auctions for Objects
+with Common and Private Values
+Michael Wooldridge
+Department of Computer
+Science
+University of Liverpool
+Liverpool L69 7ZF, U.K.
+mjw@csc.liv.ac.uk
+Nicholas R. Jennings
+School of Electronics and
+Computer Science
+University of Southampton
+Southampton SO17 1BJ, U.K.
+nrj@ecs.soton.ac.uk
+Shaheen Fatima
+Department of Computer
+Science
+University of Liverpool
+Liverpool L69 7ZF, U.K.
+shaheen@csc.liv.ac.uk
+
+﻿Auction in Dynamic Environments: Incorporating the Cost
+Caused by Re-allocation
+Shigeo Matsubara
+NTT Communication Science Laboratories
+NTT Corporation
+2-4 Hikaridai, Seika-cho, “Keihanna Science City”
+Kyoto 619-0237, Japan
+matsubara@cslab.kecl.ntt.co.jp
+
+Mechanism Design and Deliberative Agents
+Tuomas Sandholm
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh, PA 15213
+USA
+sandholm@cs.cmu.edu
+Kate Larson
+School of Computer Science
+University of Waterloo
+Waterloo, ON N2L 3G1
+Canada
+klarson@cs.uwaterloo.ca
+
+Computationally-Efficient Combinatorial Auctions for
+Resource Allocation in Weakly-Coupled MDPs
+Dmitri Dolgov and Edmund Durfee
+Department of Electrical Engineering and Computer Science
+University of Michigan
+Ann Arbor, MI 48109
+{ddolgov, durfee}@umich.edu
+
+﻿Implementing Norms in Electronic Institutions
+A. Garcia-Camino, P. Noriega, J. A. Rodrı´guez-Aguilar
+Artificial Intelligence Research Institute, IIIA
+Spanish Council for Scientific Research, CSIC
+Campus de la UAB
+08193 Bellaterra, Barcelona, Spain
+{andres,jar,pablo}@iiia.csic.es
+
+﻿Author Retrospective for
+Code Scheduling and Register Allocation in Large Basic
+Blocks
+James R. Goodman
+Emeritus Professor,
+Computer Sciences Department
+University of Wisconsin-Madison
+Wei Chung Hsu
+Department of CSIE
+National Taiwan University
+Taipei, Taiwan, R.O.C.
+hsuwc@csie.ntu.edu.tw
+In 1987 we were working at the University of Wisconsin-
+Madison with Jim Smith, JT Hsieh, Koujuch Liou and An-
+drew Pleszkun on PIPE[4], an unorthodox ”decoupled access-
+execute processor.” The driving innovation of PIPE was the
+separation of instructions dealing with memory through a
+separate and independent instruction stream racing ahead,
+initiating load and store instructions in-order, synchronized
+only with other instructions through architectural queues.
+The queues eliminated the need for allocating and manag-
+ing temporary registers.
+While the problems of register allocation and instruction
+scheduling were traditionally treated independently, the gen-
+esis of this paper came while developing an optimizing com-
+piler for PIPE, with the insight that in a conventional archi-
+tecture these two closely related problems have conflicting
+goals that could be played off against each other to maximize
+benefit: Code scheduling uses as many temporary registers
+as possible to achieve a higher level of instruction-level par-
+allelism (ILP), while register allocation minimizes the use
+of temporary registers so that more data items could be
+allocated to the available registers. As we gained more ex-
+perience in optimizing for parallel programs, we came to
+
+Rapid On-line Temporal Sequence Prediction by an
+Adaptive Agent
+Steven Jensen, Daniel Boley, Maria Gini, and Paul Schrater
+Department of Computer Science and Engineering
+University of Minnesota
+{sjensen,boley,gini,schrater}@cs.umn.edu
+
+﻿Decentralized Control of E’GV Transportation Systems
+Tom Lefever
+Egemin N.V.
+Baarbeek 1, B-2070 Zwijndrecht, Belgium
+tom.lefever@egemin.be
+Danny Weyns, Kurt Schelfthout,
+Tom Holvoet
+AgentWise, DistriNet, K.U.Leuven
+Celestijnenlaan 200A, B-3001 Leuven, Belgium
+<first name.name>@cs.kuleuven.ac.be
+
+Knowledge and Social Laws
+Wiebe van der Hoek Mark Roberts Michael Wooldridge
+Department of Computer Science
+University of Liverpool
+Liverpool L69 7ZF, UK
+{wiebe,mark,mjw}@csc.liv.ac.uk
+
+Enforceable Social Laws
+Guido Boella
+Dip. di Informatica
+Universita` di Torino
+Italy
+guido@di.unito.it
+Leendert van der Torre
+CWI Amsterdam
+and Delft Univ. of Technology
+The Netherlands
+torre@cwi.nl
+
+Foundations of Organizational Structures
+in Multiagent Systems
+Lambe`r Royakkers
+Eindhoven University of Technology
+PO Box 513, 5600 MB
+Eindhoven, The Netherlands
+l.m.m.royakkers@tm.tue.nl
+Davide Grossi
+Frank Dignum
+Mehdi Dastani
+Utrecht University
+PO Box 80.089, 3508TB
+Utrecht, The Netherlands
+{davide,dignum,mehdi}@cs.uu.nl
+
+On the Dynamics of Delegation, Cooperation, and Control:
+A Logical Account
+Wiebe van der Hoek and Michael Wooldridge
+Department of Computer Science
+The University of Liverpool
+L69 3BX UK
+wiebe, mjw@csc.liv.ac.uk
+
+Optimal Status Sets of Heterogeneous Agent Programs
+Bogdan Stroe
+University of Maryland
+College Park, MD 20742
+bogdan@cs.umd.edu
+V.S. Subrahmanian
+University of Maryland
+College Park, MD 20742
+vs@cs.umd.edu
+Sudeshna Dasgupta
+University of Maryland
+College Park, MD 20742
+sudeshna@cs.umd.edu
+
+Modeling Task Allocation Using a Decision Theoretic
+Model
+Sherief Abdallah and Victor Lesser
+University of Massachusetts, Amherst
+MAS Laboratory
+{shario,lesser}@cs.umass.edu
+
+Allocating Tasks in Extreme Teams
+Paul Scerri∗, Alessandro Farinelli+, Steven Okamoto∗ and Milind Tambe#
+∗ Carnegie Mellon University
++ University of Rome
+# University of Southern California
+pscerri@cs.cmu.edu, Alessandro.Farinelli@dis.uniroma1.it,
+sokamoto@cs.cmu.edu, tambe@usc.edu
+
+﻿Progressive Ontology Alignment for Meaning
+Coordination: An Information-Theoretic Foundation
+Yannis Kalfoglou
+School of Electronics and Computer Science
+University of Southampton
+Southampton SO17 1BJ, England, UK
+y.kalfoglou@ecs.soton.ac.uk
+Marco Schorlemmer
+Institut d’Investigacio´ en Intel·lige`ncia Artificial
+Consell Superior d’Investigacions Cientı´fiques
+08193 Bellaterra (Barcelona), Catalonia, Spain
+marco@iiia.csic.es
+
+Author Retrospective
+Improving Data Cache Performance by Pre-executing
+Instructions Under a Cache Miss
+Trevor Mudge
+University of Michigan
+Ann Arbor, MI
+tnm@eecs.umich.edu
+
+Theory of Moves Learners: Towards Non-Myopic Equilibria
+Arjita Ghosh
+Math & CS Department
+University of Tulsa
+garjita@yahoo.com
+Sandip Sen
+Math & CS Department
+University of Tulsa
+sandip@utulsa.edu
+
+Balancing Ontological and Operational Factors in Refining Multiagent
+Neighborhoods
+Leen-Kiat Soh and Chao Chen
+Computer Science and Engineering
+University of Nebraska-Lincoln
+256 Avery Hall, Lincoln, NE 66588-0115
+{lksoh, cchen}@cse.unl.edu
+
+PowerMatcher:
+Multiagent Control in the Electricity Infrastructure
+J.K. Kok, C.J. Warmer, I.G. Kamphuis
+Energy research Center of the Netherlands (ECN)
+Sustainable Energy in the Built Environment
+P.O. Box 1, 1755 ZG, Petten, The Netherlands
+{j.kok, warmer, kamphuis}@ecn.nl
+
+A Commitment-based Communicative Act Library
+Mario Verdicchio
+Politecnico di Milano
+Piazza Leonardo da Vinci 32
+Milano, Italia
+mario.verdicchio@polimi.it
+Marco Colombetti
+Politecnico di Milano
+Milano, Italia
+Universita` della Svizzera Italiana
+Lugano, Switzerland
+marco.colombetti@polimi.it
+
+ECASL : A Model of Rational Agency for Communicating
+Agents
+Yves Lespe´rance
+Department of Computer Science
+York University
+Toronto, ON, Canada M3J 1P3
+lesperan@cs.yorku.ca
+Shakil M. Khan
+Department of Computer Science
+York University
+Toronto, ON, Canada M3J 1P3
+skhan@cs.yorku.ca
+
+Formalizing and Achieving Multiparty Agreements via
+Commitments
+Munindar P. Singh
+Department of Computer Science
+North Carolina State University
+Raleigh, NC 27695-7535, USA
+singh@ncsu.edu
+Feng Wan
+Department of Computer Science
+North Carolina State University
+Raleigh, NC 27695-7535, USA
+fwpub-ncsu@yahoo.com
+
+IOM/T: An Interaction Description Language for
+Multi-Agent Systems
+Takuo DOI
+University of Tokyo
+7-3-1, Hongo, Bunkyo-ku
+Tokyo, Japan
+tdoi@nii.ac.jp
+Shinichi HONIDEN
+National Institute of
+Informatics
+2-1-2 Hitotsubashi,
+Chiyoda-ku
+Tokyo, Japan
+honiden@nii.ac.jp
+Yasuyuki TAHARA
+National Institute of
+Informatics
+2-1-2 Hitotsubashi,
+Chiyoda-ku
+Tokyo, Japan
+tahara@nii.ac.jp
+
+Reasoning About Joint Beliefs for Execution-Time
+Communication Decisions
+Maayan Roth
+Robotics Institute
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+mroth@andrew.cmu.edu
+Reid Simmons
+Robotics Institute
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+reids@cs.cmu.edu
+Manuela Veloso
+Computer Science
+Department
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+veloso@cs.cmu.edu
+
+From Team Plan to Individual Plans: a Petri Net-based
+Approach
+Catherine Tessier
+Onera-CERT / DCSD
+2, avenue E. Belin
+31055 Toulouse cedex 4 FRANCE
+catherine.tessier@onera.fr
+Olivier Bonnet-Torres
+ENSAE-Supaero & Onera-CERT / DCSD
+2, avenue E. Belin
+31055 Toulouse cedex 4 FRANCE
+olivier.bonnet@onera.fr
+
+Diagnosis of Single and Multi-Agent Plans
+Nico Roos
+Dept. of Computer Science
+Universiteit Maastricht
+P.O.Box 616, NL-6200 MD Maastricht
+roos@cs.unimaas.nl
+Cees Witteveen
+Faculty EEMCS
+Delft University of Technology
+P.O.Box 5031, NL-2600 GA Delft
+witt@ewi.tudelft.nl
+Mathijs de Weerdt
+Faculty EEMCS
+Delft University of Technology
+P.O.Box 5031, NL-2600 GA Delft
+m.m.deweerdt@ewi.tudelft.nl
+Roman van der Krogt
+Faculty EEMCS
+Delft University of Technology
+P.O.Box 5031, NL-2600 GA Delft
+r.p.j.vanderkrogt@ewi.tudelft.nl
+
+Cooperative Cache Partitioning for Chip Multiprocessors
+Jichuan Chang and Gurindar S. Sohi
+Computer Sciences Department
+University of Wisconsin-Madison
+
+Multi-Agent Reward Analysis for Learning in Noisy
+Domains
+Kagan Tumer
+NASA Ames Research Center
+Mailstop 269-4
+Moffett Field, CA 94035, USA
+ktumer@mail.arc.nasa.gov
+Adrian Agogino
+UC Santa Cruz, NASA Ames Research Center
+Mailstop 269-3
+Moffett Field, CA 94035, USA
+adrian@email.arc.nasa.gov
+
+A Distributed Framework for Solving the Multiagent Plan
+Coordination Problem
+Jeffrey S. Cox, Edmund H. Durfee, and Thomas Bartold
+Department of Electrical Engineering and Computer Science
+University of Michigan Ann Arbor, MI 48109
+{jeffcox, durfee, tbartold}@umich.edu
+
+An Efficient Algorithm for Multiagent Plan Coordination
+Jeffrey S. Cox and Edmund H. Durfee
+Department of Electrical Engineering and Computer Science
+University of Michigan
+Ann Arbor, MI 48109
+{jeffcox, durfee}@umich.edu
+
+Adaptive Sharing of Large Resources in P2P Networks
+Prithviraj Dasgupta
+Computer Science Department
+University of Nebraska, Omaha, NE 68182, USA
+E-mail: pdasgupta@mail.unomaha.edu
+
+A Probabilistic Approach to Resource Allocation in
+Distributed Fusion Systems
+Gregor Pavlin
+Informatics Institute, Faculty of Science
+University of Amsterdam
+gpavlin@science.uva.nl
+Jan R. J. Nunnink
+Informatics Institute, Faculty of Science
+University of Amsterdam
+jnunnink@science.uva.nl
+
+Reciprocal Resource Sharing in P2P Environments
+Prithviraj Dasgupta
+Computer Science Department
+University of Nebraska, Omaha
+pdasgupta@mail.unomaha.edu
+Dipyaman Banerjee, Sabyasachi Saha,
+Sandip Sen
+Department of Math & Computer Science
+The University of Tulsa
+{dipu,saby,sandip}@utulsa.edu
+
+Task Inference and Distributed Task Management in the
+Centibots Robotic System ∗
+Re´gis Vincent
+SRI International
+333 Ravenswood Ave
+Menlo Park, CA 94025
+vincent@ai.sri.com
+Charles L. Ortiz, Jr.
+SRI International
+333 Ravenswood Ave
+Menlo Park, CA 94025
+ortiz@ai.sri.com
+Benoit Morisset
+SRI International
+333 Ravenswood Ave
+Menlo Park, CA 94025
+morisset@ai.sri.com
+
+A Scalable Approach to Multi-Agent Resource Acquisition
+and Control
+Xinghui Zhao
+Department of Computer Science
+University of Saskatchewan
+176 Thorvaldson Bldg., 110 Science Place
+Saskatoon, SK, Canada, S7N 5C9
+x.zhao@usask.ca
+Nadeem Jamali
+Department of Computer Science
+University of Saskatchewan
+176 Thorvaldson Bldg., 110 Science Place
+Saskatoon, SK, Canada, S7N 5C9
+n.jamali@usask.ca
+
+Biomedical Image Analysis on a Cooperative Cluster of
+GPUs and Multicores∗
+Timothy D. R. Hartley1, Umit Catalyurek1, Antonio Ruiz2,
+Francisco Igual3, Rafael Mayo3, Manuel Ujaldon2
+1 Departments of Biomedical Informatics and Electrical and Computer Engineering,
+The Ohio State University, Columbus, OH, USA.
+{hartleyt,umit}@bmi.osu.edu
+2 Computer Architecture Department, University of Malaga, Malaga, Spain.
+{aruiz,ujaldon}@ac.uma.es
+3 Department of Computer Engineering and Computer Science,
+University Jaume I, Castellon, Spain.
+{figual,mayo}@icc.uji.es
+
+Coordinating Multiple Rovers with Interdependent
+Science Objectives
+Tara Estlin, Daniel Gaines, Forest Fisher and Rebecca Castano
+Jet Propulsion Laboratory
+California Institute of Technology
+4800 Oak Grove Drive
+Pasadena, CA 91109-8099
++1-818-393-5375
+{firstname.lastname}@jpl.nasa.gov
+
+﻿Utility-Based Multi-Agent System for Performing Repeated
+Navigation Tasks∗
+Ram Meshulam
+Computer Science Dept.
+Bar-Ilan University
+Ramat-Gan
+Israel
+meshulr1@cs.biu.ac.il
+Sarit Kraus†
+Computer Science Dept.
+Bar-Ilan University
+Ramat-Gan
+Israel
+sarit@cs.biu.ac.il
+Ariel Felner
+Information System
+Engineering Dept.
+Ben-Gurion University
+Be’er-Sheva
+Israel
+felner@bgu.ac.il
+
+﻿Coordinated exploration of unknown labyrinthine
+environments applied to the Pursuit›Evasion problem
+Humbert Fiorino
+Laboratoire Leibniz (CNRS - INPG - IMAG)
+Equipe MAGMA
+46, avenue Fe´lix Viallet
+F-38031, Grenoble
+Humbert.Fiorino@imag.fr
+Damien Pellier
+Laboratoire Leibniz (CNRS - INPG - IMAG)
+Equipe MAGMA
+46, avenue Fe´lix Viallet
+F-38031, Grenoble
+Damien.Pellier@imag.fr
+
+Performance of Digital Pheromones for Swarming Vehicle
+Control
+John A. Sauter, Robert Matthews, H. Van Dyke Parunak, and Sven A. Brueckner
+Altarum Institute
+3520 Green Court, Suite 300
+Ann Arbor, MI 48105 USA
+734-302-4600
+{john.sauter, robert.matthews, van.parunak, sven.brueckner}@altarum.org
+
+A Formal Framework for Agent Interaction Semantics
+Jim Cunningham
+Imperial College
+London SW7 2BZ, UK.
+rjc@doc.ic.ac.uk
+Nicholas R. Jennings
+University of Southampton
+Southampton SO17 1BJ, UK.
+nrj@ecs.soton.ac.uk
+Shamimabi Paurobally
+University of Southampton
+Southampton SO17 1BJ, UK.
+sp@ecs.soton.ac.uk
+
+Tunably Decentralized Algorithms
+for Cooperative Target Observation
+Sean Luke
+sean@cs.gmu.edu
+Keith Sullivan
+ksulliv@cs.gmu.edu
+Liviu Panait
+lpanait@cs.gmu.edu
+Gabriel Balan
+gbalan@cs.gmu.edu
+Department of Computer Science
+George Mason University
+4400 University Dr, MSN 4A5
+Fairfax, VA 22030 USA
+
+Impact
+Les
+Michael
+Computer
+University
+Tom
+Information
+Technology
+Graduate
+and
+Defense
+University
+mml@ecs.soton.ac.uk
+Projects
+gasser@uiuc.edu
+twagner@darpa.mil
+1.
+Impact
+been
+working
+the
+in
+thoughts
+were
+on
+particular
+applied,
+issues
+a
+his/her
+our
+articulate
+2.
+Tom
+
+Author Retrospective for
+Optimizing Matrix Multiply using PHiPAC: a Portable
+High-Performance ANSI C Coding Methodology
+Krste Asanovic´
+EECS Department
+University of California, Berkeley
+krste@eecs.berkeley.edu
+Jeff Bilmes
+EE Department
+University of Washington, Seattle
+bilmes@ee.washington.edu
+Jim Demmel
+EECS Department
+University of California, Berkeley
+demmel@cs.berkeley.edu
+Chee-Whye Chin
+Department of Mathematics
+National University of Singapore
+cheewhye@math.nus.edu.sg
+Original paper: http://dx.doi.org/10.1145/263580.263662
+
+Extending the Recognition-Primed Decision Model to
+Support Human-Agent Collaboration
+Xiaocong Fan, Shuang Sun, Michale McNeese, and John Yen
+School of Information Sciences and Technology
+The Pennsylvania State University
+University Park, PA 16802
+{zfan, ssun, mmcneese, jyen}@ist.psu.edu
+
+Multiagent Simulation of Learning Environments
+Elizabeth Sklar and Mathew Davies
+Dept of Computer Science
+Columbia University
+New York, NY 10027 USA
+sklar,mdavies@cs.columbia.edu
+
+An Online POMDP Algorithm for Complex Multiagent
+Environments
+Se´bastien Paquet, Ludovic Tobin and Brahim Chaib-draa
+DAMAS Laboratory
+Department of Computer Science and Software Engineering
+Laval University, Canada
+{spaquet;tobin;chaib}@damas.ift.ulaval.ca
+
+Exploiting Belief Bounds: Practical POMDPs for Personal
+Assistant Agents
+Pradeep Varakantham, Rajiv Maheswaran, and Milind Tambe
+Department of Computer Science
+University of Southern California
+Los Angeles, CA, 90089
+{varakant, maheswar, tambe}@usc.edu
+
+Trusted Kernel-Based Coalition Formation
+Bastian Blankenburg1, Rajdeep K. Dash2, Sarvapali D. Ramchurn2,
+Matthias Klusch1, Nicholas R. Jennings2
+1German Research Centre for Artificial Intelligence, Stuhlsatzenhausweg 3, 66123 Saarbru¨cken, Germany
+2School of Electronics and Computer Science, University of Southampton, Southampton, SO17 1BJ, UK
+1{blankenb,klusch}@dfki.de, 2{rkd02r,sdr,nrj}@ecs.soton.ac.uk
+Categories and Subject Descriptors
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence—
+Multiagent systems, Coherence and coordination.
+General Terms
+Algorithms, Design, Economics.
+Keywords
+Coalition formation, rational agents, task allocation, trust, payment
+protocol.
+
+Towards Design Tools for Protocol Development
+Pınar Yolum
+Department of Computer Engineering
+Bog˘azic¸i University
+TR-34342 Bebek, Istanbul, Turkey
+pinar.yolum@boun.edu.tr
+
+Coping with Inaccurate Reputation Sources: Experimental
+Analysis of a Probabilistic Trust Model
+W. T. Luke Teacy, Jigar Patel, Nicholas R. Jennings, Michael Luck
+Electronics & Computer Science, University of Southampton
+Southampton SO17 1BJ, UK.
+{wtlt03r, jp03r, nrj, mml}@ecs.soton.ac.uk
+
+Hierarchical Planning in BDI Agent Programming
+Languages: A Formal Approach∗
+Lavindra de Silva
+RMIT University
+Melbourne, Australia
+ldesilva@cs.rmit.edu.au
+Sebastian Sardina
+RMIT University
+Melbourne, Australia
+ssardina@cs.rmit.edu.au
+Lin Padgham
+RMIT University
+Melbourne, Australia
+linpa@cs.rmit.edu.au
+
+Awareness as a vital ingredient of teamwork
+Rineke Verbrugge
+Department of Artificial Intelligence
+University of Groningen
+Grote Kruisstraat 2/1
+9712 TS Groningen, The Netherlands
+rineke@ai.rug.nl
+Barbara Dunin-Ke¸plicz
+Institute of Informatics
+Warsaw University
+Banacha 2, 02-097 Warsaw, Poland
+Institute of Computer Science
+Polish Academy of Sciences
+Ordona 21, 01-237 Warsaw, Poland
+keplicz@mimuw.edu.pl
+
+Exact Solutions of Interactive POMDPs Using Behavioral
+Equivalence
+Piotr Gmytrasiewicz
+Dept. of Computer Science
+University of Illinois at Chicago
+piotr@cs.uic.edu
+Prashant Doshi
+Dept. of Computer Science
+University of Georgia
+pdoshi@cs.uga.edu
+Bharanee
+Rathnasabapathy
+Dept. of Computer Science
+University of Illinois at Chicago
+brathnas@cs.uic.edu
+
+On Proactivity and Maintenance Goals
+John Thangarajah
+RMIT University
+Melbourne, Australia
+johthan@cs.rmit.edu.au
+Simon Duff
+RMIT University
+Melbourne, Australia
+sduff@cs.rmit.edu.au
+James Harland
+RMIT University
+Melbourne, Australia
+jah@cs.rmit.edu.au
+
+On the relationship between MDPs and the BDI architecture
+Gerardo I. Simari
+Department of Computer Science
+University of Maryland College Park
+College Park, MD 20742
+gisimari@cs.umd.edu
+Simon Parsons
+Dept of Computer & Information Science
+Brooklyn College, City University of New York
+Brooklyn, NY 11210 USA
+parsons@sci.brooklyn.cuny.edu
+
+Modelling Situations in Intelligent Agents ∗
+John Thangarajah
+RMIT University
+Melbourne, Australia
+johthan@cs.rmit.edu.au
+Lin Padgham
+RMIT University
+Melbourne, Australia
+linpa@cs.rmit.edu.au
+Sebastian Sardina
+RMIT University
+Melbourne, Australia
+ssardina@cs.rmit.edu.au
+General Terms
+Design, Theory
+Keywords
+Agent and multi-agent architectures; Frameworks, infras-
+tructures and environments for agent systems
+
+Beliefs, Desires and Intentions Through the Environment
+Paul Valckenaers
+PMA, Dept. Mechanics
+Katholieke Universiteit Leuven
+Celestijnenlaan 300B
+3001 Leuven, Belgium
+Paul.Valckenaers@mech.kuleuven.be
+Tom Holvoet
+AgentWise, DistriNet, Dept. Computer Science
+Katholieke Universiteit Leuven
+Celestijnenlaan 200A
+3001 Leuven, Belgium
+Tom.Holvoet@cs.kuleuven.be
+
+Mixed-integer Linear Programming for
+Transition-independent Decentralized MDPs
+Jianhui Wu
+EECS Department, University of Michigan
+Ann Arbor, MI 48109 USA
+jianhuiw@umich.edu
+Edmund H. Durfee
+EECS Department, University of Michigan
+Ann Arbor, MI 48109 USA
+durfee@umich.edu
+Categories and Subject Descriptors
+I.2.8 [ARTIFICIAL INTELLIGENCE]: Problem Solv-
+ing, Control Methods, and Search
+General Terms
+Algorithms
+Keywords
+MDP, transition-independent decentralized MDP, piecewise
+linear approximation, mixed integer linear programming
+
+Author Retrospective of Dynamic Application Scheduling
+Using On-line Analytics – Then and Now
+Rich Wolski
+Department of Computer Science
+University of California, Santa Barbara
+Santa Barbara, CA 93106
+rich@cs.ucsb.edu
+
+﻿Performance Analysis of Untraceability Protocols for
+Mobile Agents Using an Adaptable Framework
+Janusz Go´rski
+Gdan´sk University of Technology
+Faculty of Electronics, Telecommunications and
+Informatics
+Department of Software Engineering
+G. Narutowicza 11/12
+80-952 Gdan´sk Poland
+jango@pg.gda.pl
+Rafał Leszczyna
+European Commission
+Joint Research Centre
+Institute for the Protection and security of the
+Citizen
+Via Enrico Fermi
+21020 Ispra (VA), Italy
+Rafal.Leszczyna@jrc.it
+
+Scalable and Reliable Data Delivery in Mobile Ad Hoc
+Sensor Networks
+Yang Xu, Michael Lewis
+School of Information Sciences
+University of Pittsburgh
+Pittsburgh, PA 15260, USA
+{xuy,ml}@sis.pitt.edu
+Bin Yu, Paul Scerri, and Katia Sycara
+School of Computer Science
+Carnegie Mellon University
+Pittsburgh, PA 15213, USA
+{byu, pscerri, katia}@cs.cmu.edu
+
+Efficient Agent-Based Cluster Ensembles
+Kagan Tumer
+NASA Ames Research Center
+Mailstop 269-4
+Moffett Field, CA 94035, USA
+ktumer@mail.arc.nasa.gov
+Adrian Agogino
+UCSC, NASA Ames Research Center
+Mailstop 269-3
+Moffett Field, CA 94035, USA
+adrian@email.arc.nasa.gov
+
+MLBP: MAS for Large-Scale Biometric Pattern Recognition
+Ram Meshulam Shulamit Reches Aner Yarden Sarit Kraus
+{meshulr1,reches,yardena,sarit}@cs.biu.ac.il
+Department of Computer Science
+Bar-Ilan University, 52900
+Ramat-Gan, Israel
+
+Using Queuing Theory to Predict Organizational Metrics ∗
+Victor Lesser
+Multi-Agent Systems Lab
+University of Massachusetts,
+Amherst, MA
+lesser@cs.umass.edu
+Bryan Horling†
+Multi-Agent Systems Lab
+University of Massachusetts,
+Amherst, MA
+bhorling@cs.umass.edu
+
+Performance Evaluation of Open-Source Multiagent
+Platforms∗
+Luis Mulet
+lmulet@dsic.upv.es
+Jose M. Such
+jsuch@dsic.upv.es
+Juan M. Alberola
+jalberola@dsic.upv.es
+Department of Information Systems and Computation
+Polytechnic University of Valencia
+Cami de Vera s/n. 46022, Valencia (Spain)
+
+Improving the Performance of Speculatively Parallel
+Applications on the Hydra CMP
+Kunle Olukotun, Lance Hammond, and Mark Willey
+Computer Systems Laboratory
+Stanford University
+Stanford, CA 94305-4070
+http://www-hydra.stanford.edu/
+
+Modeling Uncertain Domains with Polyagents
+H. Van Dyke Parunak, Sven Brueckner
+Altarum Institute
+3520 Green Court
+Suite 300
+Ann Arbor, MI 48105 USA
++1 734 302 4600
+{van.parunak, sven.brueckner}@altarum.org
+
+Structural Evaluation of Agent Organizations
+Lambe`r Royakkers
+Eindhoven University of Technology
+PO Box 513, 5600 MB
+Eindhoven, The Netherlands
+l.m.m.royakkers@tm.tue.nl
+Davide Grossi Frank Dignum
+Virginia Dignum Mehdi Dastani
+Utrecht University
+PO Box 80.089, 3508TB
+Utrecht, The Netherlands
+{davide,dignum,virginia,mehdi}@cs.uu.nl
+
+Comparing Market and Token-Based Coordination
+Yang Xu
+School of Info Sciences
+University of Pittsburgh
+Pittsburgh, PA 15260, USA
+yxu@sis.pitt.edu
+Paul Scerri and Katia Sycara
+School of Computer Science
+Carnegie Mellon University
+Pittsburgh, PA 15213, USA
+{pscerri, katia}@cs.cmu.edu
+Michael Lewis
+School of Info Sciences
+University of Pittsburgh
+Pittsburgh, PA 15260, USA
+ml@sis.pitt.edu
+
+SAgent: A Security Framework for JADE∗
+Vandana Gunupudi
+Dept of Computer Science and Engineering
+University of North Texas
+gunupudi@cs.unt.edu
+Stephen R. Tate
+Dept of Computer Science and Engineering
+University of North Texas
+srt@cs.unt.edu
+
+Coordinating Simple and Unreliable Agents
+Kagan Tumer
+NASA Ames Research Center
+Mailstop 269-4
+Moffett Field, CA 94035, USA
+ktumer@mail.arc.nasa.gov
+
+The Emergence of Global Properties from Local Interactions
+Static Properties and One-Dimensional Patterns
+Daniel Yamins
+Division of Engineering and Applied Sciences
+Harvard University Cambridge, MA 02138 USA
+yamins@fas.harvard.edu
+
+Sequences of Take-It-or-Leave-It Offers: Near-Optimal
+Auctions Without Full Valuation Revelation∗
+Tuomas Sandholm
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh, PA 15213
+sandholm@cs.cmu.edu
+Andrew Gilpin
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh, PA 15213
+gilpin@cs.cmu.edu
+
+False-name-proof Combinatorial Auction Protocol: Groves
+Mechanism with Submodular Approximation
+Makoto Yokoo, Toshihiro Matsutani, and Atsushi Iwasaki
+Kyushu University
+6-10-1 Hakozaki, Higashi-ku,
+Fukuoka, 812-8581 Japan
+{yokoo, iwasaki}@is.kyushu-u.ac.jp, matutani@lang.is.kyushu-u.ac.jp
+lang.is.kyushu-u.ac.jp/˜{yokoo, iwasaki}
+
+Reducing Price Fluctuation in Continuous Double
+Auctions through Pricing Policy and Shout Improvement
+Jinzhong Niu and Kai Cai
+Dept of Computer Science
+Graduate Center
+City University of New York
+365, 5th Avenue
+New York, NY 10016, USA
+{jniu,kcai}@gc.cuny.edu
+Simon Parsons and Elizabeth Sklar
+Dept of Computer and
+Information Science
+Brooklyn College
+2900 Bedford Avenue
+Brooklyn, NY 11210, USA
+{parsons,sklar}@sci.brooklyn.cuny.edu
+
+Author Retrospective for
+Characterizing Processor Architectures
+for Programmable Network Interfaces
+Patrick Crowley
+Dept. of Computer Science & Engineering
+Washington University in St. Louis
+St. Louis, MO 63130-4899 USA
+pcrowley@wustl.edu
+Original paper: http://dx.doi.org/10.1145/335231.335237
+Categories and Subject Descriptors
+C.1.2 [Multiple Data Stream Architectures (Multiprocessors)]
+C.2.6 [Internetworking]: Routers
+General Terms
+Performance, Design, Experimentation.
+
+Designing a Successful Trading Agent
+for Supply Chain Management
+Minghua He, Alex Rogers, Xudong Luo and Nicholas R. Jennings
+School of Electronics and Computer Science, University of Southampton, U.K.
+{mh,acr,xl,nrj}@ecs.soton.ac.uk
+
+Reducing Costly Information Acquisition in Auctions
+Kate Larson
+School of Computer Science
+University of Waterloo
+Waterloo, Ontario, Canada
+klarson@cs.uwaterloo.ca
+
+Approaches for Resolving the Dilemma between Model
+Structure Refinement and Parameter Calibration in
+Agent-Based Simulations
+Manuel Fehler , Franziska Klu¨gl and Frank Puppe
+Institute for Artificial Intelligence and Applied Computer Science
+University of Wu¨rzburg, Germany
+{fehler, kluegl, puppe}@informatik.uni-wuerzburg.de
+
+Robust Mechanisms for Information Elicitation
+Aviv Zohar Jeffrey S. Rosenschein
+School of Engineering and Computer Science
+The Hebrew University of Jerusalem
+Jerusalem, Israel
+{avivz, jeff}@cs.huji.ac.il
+
+Author Retrospective for
+Synthesizing Transformations for
+Locality Enhancement of Imperfectly-nested Loop Nests
+Keshav Pingali
+Department of Computer Science
+The University of Texas at Austin
+Texas, USA 78712
+pingali@cs.utexas.edu
+
+A Comparative Study of
+Sequential and Simultaneous Auctions
+Shaheen S. Fatima
+Department of Computer Science
+University of Liverpool
+Liverpool L69 7ZF, U.K
+shaheen@csc.liv.ac.uk
+
+Competing Sellers in Online Markets: Reserve Prices, Shill
+Bidding, and Auction Fees
+Enrico H. Gerding, Alex Rogers, Rajdeep K. Dash and Nicholas R. Jennings
+University of Southampton, Southampton, SO17 1BJ, UK.
+{eg,acr,rkd02r,nrj}@ecs.soton.ac.uk
+
+Evaluating Bidding Strategies for Simultaneous Auctions
+Teddy Candale
+University of Tulsa
+teddy-candale@utulsa.edu
+Sandip Sen
+University of Tulsa
+sandip@utulsa.edu
+
+Certified Reputation: How an Agent Can Trust a Stranger
+Trung Dong Huynh Nicholas R. Jennings Nigel R. Shadbolt
+Intelligence, Agents, Multimedia Group, School of Electronics and Computer Science,
+University of Southampton , Southampton SO17 1BJ, UK.
+{tdh02r,nrj,nrs}@ecs.soton.ac.uk
+
+Trust and Honour in Information-based Agency
+John Debenham
+Faculty of Information Technology
+University of Technology, Sydney
+NSW, Australia
+debenham@it.uts.edu.au
+Carles Sierra
+Institut d’Investigacio en Intel.ligencia Artificial
+Spanish Scientific Research Council, UAB
+08193 Bellaterra, Catalonia, Spain
+sierra@iiia.csic.es
+
+Multiagent Simulation Meets the Real World
+Toru Ishida
+Department of Social Informatics, Kyoto University
+Kyoto 606-8501, Japan
+ishida@i.kyoto-u.ac.jp
+
+﻿Using CHI-Scores to Reward Honest Feedback from
+Repeated Interactions ∗
+Boi Faltings
+Ecole Polytechnique Fe´de´rale de Lausanne
+Artificial Intelligence Laboratory
+CH-1015 Lausanne, Switzerland
+boi.faltings@epfl.ch
+Radu Jurca
+Ecole Polytechnique Fe´de´rale de Lausanne
+Artificial Intelligence Laboratory
+CH-1015 Lausanne, Switzerland
+radu.jurca@epfl.ch
+
+Learning Trust Strategies in Reputation Exchange
+Networks
+Karen K. Fullam and K. Suzanne Barber
+Laboratory for Intelligent Processes and Systems
+The University of Texas at Austin
+1 University Station Stop C5000, Austin, TX, 78712
++1-512-471-5350
+{kfullam, barber}@lips.utexas.edu
+
+Monopolizing Markets by Exploiting Trust
+Sandip Sen
+University of Tulsa
+sandip@utulsa.edu
+Dipyaman Banerjee
+University of Tulsa
+dipu@utulsa.edu
+
+Developing a Composite Trust Model
+for Multi-agent Systems
+Xiaoqing Zheng, Zhaohui Wu, Huajun Chen, Yuxin Mao
+College of Computer Science, Zhejiang University, Hangzhou 310027, China
++86 - 0571 - 87953703
+{zxqingcn, wzh, huajunsir, maoyx}zju.edu.cn
+
+Author Retrospective for
+Adaptive Reduction Parallelization Techniques
+Hao Yu
+IBM T.J. Watson Research Center
+yuh@us.ibm.com
+Lawrence Rauchwerger
+Parasol Lab, Texas A&M University
+rwerger@cse.tamu.edu
+
+Congestion Tolls as Utility Alignment Between Agent and
+System Optimum
+Ana L. C. Bazzan∗ and Robert Junges
+Instituto de Informa´tica, UFRGS
+Caixa Postal 15064
+91.501-970 Porto Alegre, RS, Brazil
+{bazzan,junges}@inf.ufrgs.br
+
+Learning to Commit in Repeated Games
+Ste´phane Airiau
+Mathematical & Computer Sciences Department
+University of Tulsa, USA
+stephane@utulsa.edu
+Sandip Sen
+Mathematical & Computer Sciences Department
+University of Tulsa, USA
+sandip@utulsa.edu
+
+Effect of deceptive referrals on system stability
+Sandip Sen
+sandip@utulsa.edu
+University of Tulsa
+Ikpeme Erete
+ikpeme-erete@utulsa.edu
+University of Tulsa
+Teddy Candale
+teddy-candale@utulsa.edu
+University of Tulsa
+
+Goal-Oriented Modularity in Agent Programming
+M. Birna van Riemsdijk1 Mehdi Dastani1 John-Jules Ch. Meyer1 Frank S. de Boer1,2
+Utrecht University1
+CWI, Amsterdam2
+The Netherlands
+[birna (|) mehdi (|) jj (|) frankb]@cs.uu.nl
+
+﻿A Jabber-based Multi-Agent System Platform ∗
+Miguel Escriva´ Gregori
+Dept. de Sistemas
+Informa´ticos y Computacio´n
+Universidad Polite´cnica de
+Valencia
+Camino de Vera s/n
+Valencia, Spain
+mescriva@dsic.upv.es
+Javier Palanca Ca´mara
+Dept. de Sistemas
+Informa´ticos y Computacio´n
+Universidad Polite´cnica de
+Valencia
+Camino de Vera s/n
+Valencia, Spain
+jpalanca@dsic.upv.es
+Gustavo Aranda Bada
+Dept. de Sistemas
+Informa´ticos y Computacio´n
+Universidad Polite´cnica de
+Valencia
+Camino de Vera s/n
+Valencia, Spain
+garanda@dsic.upv.es
+
+﻿Belief Revision for AgentSpeak Agents
+Rafael H. Bordini
+University of Durham
+Dept. of Computer Science
+Durham, UK
+r.bordini@durham.ac.uk
+Jomi Fred Hu¨bner
+Univ. Regional de Blumenau
+Dept. Sistemas e Computac¸a˜o
+Blumenau, SC, Brazil
+jomi@inf.furb.br
+Natasha Alechina
+University of Nottingham
+School of Computer Science
+Nottingham, UK
+nza@cs.nott.ac.uk
+Brian Logan
+University of Nottingham
+School of Computer Science
+Nottingham, UK
+bsl@cs.nott.ac.uk
+Mark Jago
+University of Nottingham
+School of Computer Science
+Nottingham, UK
+mtw@cs.nott.ac.uk
+
+﻿Author Retrospective for
+Array Expansion, Array Shrinking,
+or There and Back Again
+Paul Feautrier
+Ecole Normale Supérieure de Lyon, Lyon, France
+Paul.Feautrier@ens-lyon.fr
+In the late 1980’s, I was recovering from a long stint as the man-
+ager of Paris University computing facility (yes, there were still
+computing facilities, and PCs were just coming of age) and I was
+teaching old fashioned automatic parallelization to postgraduate
+students. I had heard of scalar expansion and privatization, and it
+was a natural question whether it could be extended to arrays. I first
+concocted partial solutions – for instance, valid only for the inner-
+most loop – and then decided to try for the general case: converting
+array accesses to single assignment form. I soon realized that this
+implied finding the source, or last write before a given read, and
+that the solution must be a function of the position of the read in the
+temporal execution of the program. It was obvious that this could
+not be done for arbitrary complex programs, hence I specified a set
+of restriction: the polyhedral model. I also introduced the execu-
+tion order, now known as the “happens-before” relation. Finding
+the last write then became an integer programming problem with
+some unfamiliar features: lexicographic order took the place of the
+economic function, the problem had to be solved exactly, and the
+coordinates of the read operation were acting as parameters. Hence,
+I had first to build PIP (a parametric integer programming tool [2])
+before solving my problem. PIP was developed on a 80286 PC,
+using Borland TurboC and LeLisp.
+It then took me about two years to have an improved form of the
+ICS paper published by a journal [3]. Here, the emphasis was more
+on single assignment conversion and its use for program compre-
+hension. I also formalized a comparison algorithm, which is needed
+when there are several potential sources. But it was not until [4] that
+I managed to prove its termination.
+
+﻿A Service-Oriented Language
+for Programming Mobile Agents
+Luı´s Lopes
+Faculdade de Cieˆncias,
+Universidade do Porto, Portugal
+lblopes@dcc.fc.up.pt
+Herve´ Paulino
+Faculdade de Cieˆncias e Tecnologia,
+Universidade Nova de Lisboa, Portugal
+herve@di.fct.unl.pt
+
+ActorNet: An Actor Platform for Wireless Sensor Networks
+YoungMin Kwon, Sameer Sundresh, Kirill Mechitov and Gul Agha ∗
+Department of Computer Science
+University of Illinois at Urbana Champaign
+Urbana, IL 61801, USA
+{ykwon4 (|) sundresh (|) mechitov (|) agha}@cs.uiuc.edu
+
+Multiagent Systems as Software Architecture
+Another Perspective on Software Engineering with Multiagent Systems
+Danny Weyns
+Katholieke Universiteit Leuven
+Celestijnenlaan 200A
+3001 Leuven, Belgium
+danny@cs.kuleuven.be
+Tom Holvoet
+Katholieke Universiteit Leuven
+Celestijnenlaan 200A
+3001 Leuven, Belgium
+tom@cs.kuleuven.be
+Kurt Schelfthout
+Katholieke Universiteit Leuven
+Celestijnenlaan 200A
+3001 Leuven, Belgium
+kurts@cs.kuleuven.be
+
+Study of Social Consciousness in Stochastic Agent›Based
+Simulations: Application to Supply Chains
+Brahim Chaib›draa
+DAMAS
+Pav. Pouliot, Dpt. Informatique
+Univ. Laval, Quebec, Canada
+chaib@ift.ulaval.ca
+Sophie d’Amours
+FOR@C & CENTOR
+Pav. Pouliot, Dpt. G. Mecanique
+Univ. Laval, Quebec, Canada
+sophie.damours@gmc.ulaval.ca
+Thierry Moyaux
+FOR@C & DAMAS
+Pav. Pouliot, Dpt. Informatique
+Univ. Laval, Quebec, Canada
+moyaux@iad.ift.ulaval.ca
+
+Author Retrospective
+Analytical Cache Models with Applications to Cache
+Partitioning
+George Kurian, Srinivas Devadas, Larry Rudolph∗
+Computer Science and Artificial Intelligence Laboratory
+Massachusetts Institute of Technology
+Cambridge, MA
+{gkurian, devadas, rudolph}@csail.mit.edu
+G. Edward Suh
+Electrical and Computer Engineering
+Cornell University
+Ithaca, NY
+suh@csl.cornell.edu
+
+Multi-agent based Community Computing System
+Development with the Model Driven Architecture
+Jungtae Lee
+Programming Language Laboratory
+Ajou University, Suwon
+Korea(South)
++82-31-219-2436
+jungtae@ajou.ac.kr
+Yuna Jung
+Artificial Intelligence Laboratory
+Ajou University, Suwon
+Korea(South)
++82-31-219-2442
+serazade@ajou.ac.kr
+Minkoo Kim
+Artificial Intelligence Laboratory
+Ajou University, Suwon
+Korea(South)
++82-31-219-2437
+minkoo@ajou.ac.kr
+
+﻿On the Semantics of Conditional Commitment
+Yves Lespe´rance
+Department of Computer Science and
+Engineering
+Toronto, ON, Canada M3J 1P3
+lesperan@cs.yorku.ca
+Shakil M. Khan
+Department of Computer Science and
+Engineering
+Toronto, ON, Canada M3J 1P3
+skhan@cs.yorku.ca
+
+Contextualizing Commitment Protocols∗
+Munindar P. Singh
+North Carolina State University
+Department of Computer Science
+singh@ncsu.edu
+Amit K. Chopra∗
+North Carolina State University
+Department of Computer Science
+akchopra@ncsu.edu
+
+A Utility-Based Sensing and Communication Model for a
+Glacial Sensor Network
+Paritosh Padhy, Rajdeep K. Dash, Kirk Martinez and Nicholas R. Jennings
+School of Electronics and Computer Science,University of Southampton, Southampton, SO17 1BJ ,UK.
+{pp04r,rkd02r,km,nrj}@ecs.soton.ac.uk
+
+﻿An Ontology of Social Control Tools
+Philippe Pasquier
+DAMAS Laboratory
+Laval University
+G1K 7P4, Québec, Canada
+pasquier@iad.ift.ulaval.ca
+Brahim Chaib-draa
+DAMAS Laboratory
+Laval University
+G1K 7P4, Québec, Canada
+chaib@iad.ift.ulaval.ca
+Roberto A. Flores
+Christopher Newport
+University
+Newport News, VA 23606
+flores@pcs.cnu.edu
+
+Complexity and Succinctness of Public Announcement
+Logic
+Carsten Lutz
+Institute for Theoretical Computer Science
+TU Dresden, Germany
+lutz@tcs.inf.tu-dresden.de
+
+Modelling the Links Between Social Commitments and
+Individual Intentions
+Brahim Chaib-draa
+DAMAS Laboratory
+Laval University
+G1K 7P4, Québec, Canada
+chaib@iad.ift.ulaval.ca
+Philippe Pasquier
+DAMAS Laboratory
+Laval University
+G1K 7P4, Québec, Canada
+pasquier@iad.ift.ulaval.ca
+
+Author Retrospective for
+Search and Replication In unstructured Peer-to-peer
+Networks
+Edith Cohen
+Microsoft Research
+edith@cohenwang.com
+Qin Lv
+University of Colorado Boulder
+qin.lv@colorado.edu
+Pei Cao
+Google, Inc.
+cao@cs.stanford.edu
+Kai Li
+Princeton University
+li@cs.princeton.edu
+Scott Shenker
+University of California,
+Berkeley
+shenker@icsi.berkeley.edu
+
+﻿The MAPa Language of Agent Dialogues
+Marı´a Adela Grando∗ †
+Research Group on Mathematical Linguistics,
+Rovira i Virgili University,
+Tarragona, Spain.
+Christopher D. Walton‡
+Centre for Intelligent Systems and their
+Applications, School of Informatics,
+University of Edinburgh, UK.
+
+﻿Convergence Analysis for Collective Vocabulary
+Development ∗
+Jim Houk
+Department of Physiology
+Northwestern University
+Medical School
+Chicago, IL
+j-houk@northwestern.edu
+Les Gasser
+Graduate School of Library
+and Information Science
+University of Illinois at
+Urbana-Champaign
+gasser@uiuc.edu
+Jun Wang
+Graduate School of Library
+and Information Science
+University of Illinois at
+Urbana-Champaign
+junwang4@uiuc.edu
+
+Learning a Common Language Through an Emergent
+Interaction Topology
+Kiran Lakkaraju
+Dept. of Computer Science,
+University of Illinois at
+Urbana-Champaign,
+Urbana, IL, USA
+klakkara@uiuc.edu
+Samarth Swarup
+Dept. of Computer Science,
+University of Illinois at
+Urbana-Champaign,
+Urbana, IL, USA
+swarup@uiuc.edu
+Les Gasser
+Graduate School of Library
+and Information Science, and
+Dept. of Computer Science,
+University of Illinois at
+Urbana-Champaign,
+Urbana, IL, USA
+gasser@uiuc.edu
+
+Nogood›based Asynchronous Distributed Optimization
+(ADOPT›ng)
+Makoto Yokoo
+Kyushu University
+yokoo@is.kyushu›u.ac.jp
+Marius C. Silaghi
+Florida Institute of Technology
+msilaghi@t.edu
+
+Examining DCSP Coordination Tradeoffs
+Norman Sadeh
+School of Computer Science,
+Carnegie Mellon University
+sadeh@cs.cmu.edu
+Michael Benisch
+School of Computer Science,
+Carnegie Mellon University
+mbenisch@cs.cmu.edu
+
+Multiply-Constrained Distributed Constraint Optimization
+M. Yokoo
+Dept. of Intelligent Systems
+Kyushu University
+Fukuoka, 812-8581 Japan
+yokoo@is.kyushu-u.ac.jp
+E. Bowring, M. Tambe
+Computer Science Dept.
+Univ. of Southern California
+Los Angeles, CA 90089
+{bowring,tambe}@usc.edu
+
+The DynCOAA Algorithm for Dynamic Constraint
+Optimization Problems
+Koenraad Mertens, Tom Holvoet, Yolande Berbers
+AgentWise, Distrinet
+Department of Computer Science, K.U.Leuven
+200A, Celestijnenlaan
+3001 Leuven, Belgium
+{Koenraad.Mertens, Tom.Holvoet, Yolande.Berbers}@cs.kuleuven.be
+
+Experimental analysis of privacy loss in DCOP algorithms
+Rachel Greenstadt∗
+Harvard University
+greenie@eecs.harvard.edu
+Jonathan P. Pearce, Emma Bowring and
+Milind Tambe†
+University of Southern California
+{jppearce,bowring,tambe}@usc.edu
+
+Author Retrospective
+Bloom Filtering Cache Misses for Accurate Data
+Speculation and Prefetching
+Shih-Chang Kevin Lai
+ARM Taiwan Ltd.
+7F, No.2, Li-Hsin 6th Road,
+Hsinchu,Taiwan, 30078
+886-03-5657116
+kevin.lai@arm.com
+Jih-Kwon Peir
+CISE Department
+University of Florida
+P.O. Box 116120
+Gainesville, FL 32611
+(352) 505-1573
+peir@cise.ufl.edu
+Shih-Lien Liu, Jared Stark,
+Konrad Lai
+Intel Corporation
+2111 NE 25th Ave,
+Hillsboro, OR 97124
+(503) 712-2750
+{shih-lien.l.lu,jared.w.stark}@intel.com
+
+No-Commitment Branch and Bound Search for Distributed
+Constraint Optimization
+Katia Sycara
+Robotics Institute, Carnegie Mellon University
+5000 Forbes Ave, Pittsburgh PA 15213, USA
+katia+@cs.cmu.edu
+Anton Chechetka
+Robotics Institute, Carnegie Mellon University
+5000 Forbes Ave, Pittsburgh PA 15213, USA
+antonc@cs.cmu.edu
+
+An Agent Based General Solution Model
+For the Course Timetabling Problem
+Raman Paranjape
+Electronic Systems Engineering
+TRLabs Regina
+University of Regina
+1-306-7916137
+raman.paranjape@uregina.ca
+Luigi Benedicenti
+Software Systems Engineering
+TRLabs Regina
+University of Regina
+1-306-5854855
+luigi.benedicenti@uregina.ca
+Yan Yang
+Electronic Systems Engineering
+TRLabs Regina
+University of Regina
+1-306-7916141
+roc_young@hotmail.com
+
+Hierarchical Variable Ordering for Distributed Constraint
+Optimization
+Pragnesh Jay Modi
+Department of Computer Science
+Drexel University
+Philadelphia, PA 19104
+pmodi@cs.drexel.edu
+John Davin
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh, PA 15213
+jdavin@cs.cmu.edu
+
+﻿CSC: Criticality-Sensitive Coordination ∗
+Pedro Szekely†, Marcel Becker‡, Stephen Fitzpatrick‡, Gergely Gati?,
+David Hanak?, Jing Jin†, Gabor Karsai?, Rajiv T. Maheswaran†,
+Bob Neches†, Craig M. Rogers†, Romeo Sanchez†, Chris van Buskirk?
+† Information Sciences Institute, University of Southern California, 4676 Admiralty Way - Suite 1001, Marina Del Rey, CA 90292
+‡ Kestrel Institute, 3260 Hillview Avenue, Palo Alto, CA 94304
+? Institute for Software Integrated Systems, Vanderbilt University, Box 1829, Station B, Nashville, TN 37235
+szekely@isi.edu, becker@kestrel.edu, fitzpatrick@kestrel.edu, gergely@isis.vanderbilt.edu,
+dhanak@isis.vanderbilt.edu, jingjin@isi.edu, gabor.karsai@vanderbilt.edu, maheswar@isi.edu,
+rneches@isi.edu, rogers@isi.edu, rsanchez@isi.edu, chris.vanbuskirk@vanderbilt.edu
+Categories and Subject Descriptors
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence—
+multiagent systems, coherence and coordination
+General Terms
+Algorithms, Design Experimentation, Performance
+Keywords
+Reasoning Under Uncertainty, Large-Scale Systems, Visualization
+
+Synergistic Integration of Agent Technologies for Military
+Simulation
+Sean Owens, Paul Scerri, Robin Glinton, Bin Yu and Katia Sycara
+School of Computer Science
+Carnegie Mellon University
+Pittsburgh, PA 15213, USA
+{owens, pscerri, rglinton, byu, katia}@cs.cmu.edu
+
+Asynchronous Chess Competition
+Nathaniel Gemelli, Robert Wright, James Lawton and Andrew Boes
+US Air Force Research Lab
+Rome Research Site
+Rome, NY, USA
+{Nathaniel.Gemelli, Robert.Wright, James.Lawton, Andrew.Boes}@rl.af.mil
+
+UAV Airspace Management System UAMS ∗
+Regis Vincent
+SRI International
+333 Ravenswood Ave
+Menlo Park, CA 94403
+vincent@ai.sri.com
+Osher Yagdar
+SRI International
+333 Ravenswood Ave
+Menlo Park, CA 94403
+yagdar@ai.sri.com
+Andrew Agno
+SRI International
+333 Ravenswood Ave
+Menlo Park, CA 94403
+agno@ai.sri.com
+Categories and Subject Descriptors
+I.2.11 [Artificial Intelligence]: Distributed Artificial In-
+telligence—coherence and coordination, intelligent agents,
+languages and structures, multiagent systems.complexity mea-
+sures, performance measures
+Keywords
+multi-agent simulation, air space management, robotics
+1. UAV COLLISION AVOIDANCE
+As technology advances, unmanned aerial vehicles (UAVs)
+are capable of more complex missions. Miniaturization re-
+sults in a migration of capability from larger to smaller UAV
+platforms and in cost reduction. According to the DoDs
+Unmanned Aircraft Systems Roadmap 2005-2030, military
+UAVs are now required to execute intelligence, surveillance,
+reconnaissance, strike, suppression of enemy air defense, elec-
+tronic attack, communications, aerial delivery, and resupply
+missions. It is therefore evident that UAV developments re-
+quire a more intelligent and autonomous airspace and mis-
+
+Decision-Making Support for Maritime Business
+Jonathan Himoff
+CEO of Magenta Technology
+130 Shaftesbury Ave, London W1D 5EU, UK
+Telephone number: +44 207 149 3751
+jon.himoff@magenta-technology.com
+
+CONOISE-G: Agent-Based Virtual Organisations
+Jigar Patel, W.T. Luke Teacy, Nicholas R. Jennings, Michael Luck
+School of Electronics and Computer Science, University of Southampton, UK
+{jp03r,wtlt03r,nrj,mml}@ecs.soton.ac.uk
+Stuart Chalmers, Nir Oren, Timothy J. Norman, Alun Preece, Peter M. D. Gray
+Department of Computing Science, University of Aberdeen, UK
+{schalmer,noren,tnorman,apreece}@csd.abdn.ac.uk
+Gareth Shercliff, Patrick J. Stockreisser, Jianhua Shao, W. Alex Gray, Nick J. Fiddian
+School of Computer Science, Cardiff University, UK
+{p.j.stockreisser,g.shercliff,j.shao,w.a.gray,n.j.fiddian}@cs.cardiff.ac.uk
+Simon Thompson, BT Group, Adastral Park, United Kingdom
+simon.2.thompson@bt.com
+
+Computational Mechanism Design for
+Multi-Sensor Information Fusion
+S. Reece and S. Roberts
+Department of Engineering Science
+University of Oxford
+Oxford, UK.
+{reece,sjrob}@robots.ox.ac.uk
+A. Rogers, R.K. Dash and N.R. Jennings
+School of Electronics and Computer Science
+University of Southampton
+Southampton, UK.
+{acr,rkd02r,nrj}@ecs.soton.ac.uk
+
+Component Agent Framework for domain-Experts (CAFnE)
+Toolkit
+Gaya Jayatilleke John Thangarajah Lin Padgham Michael Winikoff
+RMIT University
+Melbourne, AUSTRALIA
+{gjayatil,johthan,linpa,winikoff}@cs.rmit.edu.au
+
+Conflict Negotiation Among Personal Calendar Agents
+Pauline M. Berry, Cory Albright, Emma Bowring, Ken Conley, Kenneth Nitz, Jonathan P.
+University of Southern California
+3737 Watt Way,
+Los Angeles, CA 90089, USA
+{bowring, jppearce, tambe}@usc.edu
+SRI International
+333 Ravenswood Avenue
+Menlo Park, CA 94025, USA
+{berry, conley, peintner}@ai.sri.com,
+{saadati, uribe, nysmith}@ai.sri.com,
+{kenneth.nitz, cory.albright} @sri.com
+
+Synthetic Humans in Emergency Response Drills
+Daniel Massaguer, Vidhya Balasubramanian, Sharad Mehrotra, and Nalini Venkatasubramanian
+Donald Bren School of Information and Computer Science
+University of California, Irvine
+Irvine, CA 92697, USA
+{dmassagu, vbalasub, sharad, nalini}@ics.uci.edu
+
+ITSUMO†: an Intelligent Transportation System
+for Urban Mobility
+Bruno Castro da Silva†, Robert Junges†, Denise de Oliveira‡, and Ana L.C. Bazzan†∗
+Instituto de Informática, UFRGS
+Caixa Postal 15064, CEP 91.501-970 Porto Alegre, RS, Brazil
+{bcs,junges,edenise,bazzan}@inf.ufrgs.br
+
+Towards a Reference Model for Agent-Based Systems
+Israel Mayk
+US Army CERDEC C2D
+AMSEL-RD-C2-SS-T
+Fort Monmouth, NJ 07703
+Israel.Mayk@us.army.mil
+Pragnesh Jay Modi, Spiros Mancoridis,
+William M. Mongan, William Regli
+Department of Computer Science
+Drexel University
+Philadelphia, PA 19104
+{pmodi, spiros, wmm24,
+regli}@cs.drexel.edu
+
+Automating Deep Space Network Scheduling
+and Conflict Resolution
+Mark D. Johnston and Bradley J. Clement
+Jet Propulsion Laboratory, California Institute of Technology
+4800 Oak Grove Drive
+Pasadena, CA 91109 USA
+{mark.johnston, bclement}@jpl.nasa.gov
+
+﻿Autonomous Agents for Air-Traffic Deconfliction
+Michal Peˇchoucˇek, David ˇSisˇla´k, Dusˇan Pavlı´cˇek and Miroslav Uller
+Gerstner Laboratory – Agent Technology Group
+Department of Cybernetics, Czech Technical University
+Technicka´ 2, Prague, 166 27, Czech Republic
+pechouc@labe.felk.cvut.cz
+
+Commercializing a Multiagent-Supported Collaborative
+System
+Leen-Kiat Soh and Hong Jiang
+I-MINDS, LLC
+Computer Science and Engineering
+University of Nebraska-Lincoln
+256 Avery Hall, Lincoln, NE 66588-0115
+1-402-472-6738
+{lksoh, jiang}@cse.unl.edu
+
+The Role of Agents in Enterprise System Management:
+A Position Paper
+Onn Shehory
+IBM Haifa Research Lab
+Mount Carmel, Haifa
+31905 Israel
++972-7689462
+onn@il.ibm.com
+
+Implantable Medical Devices as Agents and Part of
+Multiagent Systems
+Maria Gini
+University of Minnesota
+4-192 EE/CSci, 200 Union St SE
+Minneapolis, MN 55455
+gini@cs.umn.edu
+Touby Drew
+Medtronic Neurological, Inc.
+800 53rd Avenue NE; MS N240
+Columbia Heights, MN, 55421-1200
+touby.drew@medtronic.com
+
+﻿A Hotel Information System implementation using MAS
+technology
+Marco Julio Robles P.
+Héctor Hernández T.
+Victor Soto Ramírez.
+Edgar Gutiérrez S.
+TCA Research Group
+Monterrey, N.L. Me´xico
+{mjrobles,hhernandez,vsoto,egutierrez}
+@grupotca.com
+Armando Robles P.
+Pablo Noriega B.V.
+Institut d’Investigacio´ en Intel·lige`ncia Artificial
+IIIA-CSIC.
+Bellaterra, Barcelona, Spain
+{arobles,pablo}@iiia.csic.es
+
+﻿Commercial Applications of Agents:
+Lessons, Experiences and Challenges
+Roxana A. Belecheanu, Steve Munroe, Michael Luck, Terry Payne
+School of Electronics and Computer Science
+University of Southampton
+Southampton, United Kingdom
+{rab2, sjm, mml, trp}@ecs.soton.ac.uk
+Tim Miller, Peter McBurney
+Department of Computer Science
+University of Liverpool
+Liverpool, United Kingdom
+{t.miller, p.j.mcburney}@csc.liv.ac.uk
+Michal Peˇchoucˇek
+Department of Cybernetics
+Czech Technical University in Prague
+166 27 Prague 6, Czech Republic
+pechouc@labe.felk.cvut.cz
+
+A Computer-Supported Cooperative Learning System with
+Multiagent Intelligence
+Leen-Kiat Soh, Nobel Khandaker, Xuliu Liu, and Hong Jiang
+Computer Science and Engineering
+University of Nebraska-Lincoln
+256 Avery Hall, Lincoln, NE 66588-0115
+1-402-472-6738
+{lksoh, knobel, xuliu, jiang}@cse.unl.edu
+
+Deploying a Personalized Time Management Agent
+Pauline Berry, Ken Conley, Melinda Gervasio, Bart Peintner, Toma´s Uribe, Neil Yorke-Smith
+{berry,conley,gervasio,peintner,uribe,nysmith}@AI.SRI.COM
+Artificial Intelligence Center, SRI International, Menlo Park, CA 94025 USA
+
+Utility-based Collaboration among Autonomous Agents for
+Resource Allocation in Data Centers
+Ian Whalley
+IBM Thomas J. Watson
+Research Center
+Hawthorne, New York 10532
+inw@us.ibm.com
+Rajarshi Das
+IBM Thomas J. Watson
+Research Center
+Hawthorne, New York 10532
+rajarshi@us.ibm.com
+Jeffrey O. Kephart
+IBM Thomas J. Watson
+Research Center
+Hawthorne, New York 10532
+kephart@us.ibm.com
+
+ACTIVE: Agile Coordinator Testbed
+Integrated Virtual Environment
+L. Kerschberg, A. Brodsky
+George Mason University, KRM, Inc.
+and Adaptive Decisions, Inc.
+ISE Department, MS 4A4
+Fairfax, VA 22030-4444
+1-703-993-1640
+{kersch, brodsky}@gmu.edu
+X. Zhang
+University of Mass-Dartmouth
+Computer and Information Science
+285 Old Westport Rd.
+North Dartmouth, MA 02747-2300
+1-508-999-8294
+x2zhang@umassd.edu
+G. Emami, J. Cheng,
+D. Cornwell, M. Feldhousen,
+C. Long, V. Malhotra, I. Starnes
+Global InfoTek, Inc.
+1920 Association Drive
+Reston, VA 20191-1545
+1-703-652-1600
+{gemami, jcheng, dcornwel,
+mfeldhousen, clong, vmalhotra,
+istarnes} @globalinfotek.com
+
+Model Checking Knowledge, Strategies, and Games in
+Multi-Agent Systems
+Alessio Lomuscio, Franco Raimondi
+Department of Computer Science
+University College London – London, UK
+{a.lomuscio,f.raimondi}@cs.ucl.ac.uk
+
+Model Checking for Multivalued Logic of Knowledge and Time
+Beata Konikowska and Wojciech Penczek ∗
+Institute of Computer Science, PAS
+Ordona 21, 01-237 Warsaw, Poland
+email: {beatak,penczek}@ipipan.waw.pl
+
+Author Retrospective for
+A NUCA Substrate for Flexible CMP Cache Sharing
+Jaehyuk Huh
+KAIST
+Changkyu Kim
+Google
+Hazim Shafi
+Samsung
+Doug Burger
+Microsoft Research
+Stephen W. Keckler
+NVIDIA and UT-Austin
+Lixin Zhang
+Institute of Computing
+Technology
+Chinese Academy of Sciences
+
+Agent Interface Enhancement:
+Making Multiagent Graphical Models Accessible
+Yang Xiang
+University of Guelph, Canada
+yxiang@cis.uoguelph.ca
+Kun Zhang
+University of Guelph, Canada
+zhangk@uoguelph.ca
+
+Logics of Propositional Control
+Jelle Gerbrandy
+Dipartimento di Informatica
+Torino, Italia
+jelle@gerbrandy.com
+
+On the Complexity of Practical ATL Model Checking
+Alessio Lomuscio
+Dept of Computer Science
+University College London
+London WC1E 6BT, UK
+A.Lomuscio@cs.ucl.ac.uk
+Wiebe van der Hoek
+Dept of Computer Science
+University of Liverpool
+Liverpool L69 7ZF, UK
+wiebe@csc.liv.ac.uk
+Michael Wooldridge
+Dept of Computer Science
+University of Liverpool
+Liverpool L69 7ZF, UK
+mjw@csc.liv.ac.uk
+
+﻿Knowing How to Play: Uniform Choices in Logics of
+Agency
+Andreas Herzig
+CNRS, Institut de Recherche en Informatique de
+Toulouse
+Université Paul Sabatier
+Toulouse, France
+herzig@irit.fr
+Nicolas Troquard
+Institut de Recherche en Informatique de
+Toulouse
+Université Paul Sabatier, Toulouse, France
+and
+Laboratorio di Ontologia Applicata
+Università degli Studi di Trento, Trento, Italy
+troquard@irit.fr
+
+Verifying space and time requirements for
+resource-bounded agents
+Piergiorgio Bertoli
+ITC-IRST
+Trento, Italy
+bertoli@itc.it
+Chiara Ghidini
+ITC-IRST
+Trento, Italy
+ghidini@itc.it
+Natasha Alechina
+University of Nottingham
+Nottingham, UK
+nza@cs.nott.ac.uk
+Brian Logan
+University of Nottingham
+Nottingham, UK
+bsl@cs.nott.ac.uk
+Luciano Serafini
+ITC-IRST
+Trento, Italy
+luciano.serafini@itc.it
+Mark Jago
+University of Nottingham
+Nottingham, UK
+mtw@cs.nott.ac.uk
+
+The Interpreted System Model
+of Knowledge, Belief, Desire and Intention ¤
+Kaile Su1, Xiangyu Luo1, Abdul Sattar1, Mehmet A Orgun2
+1Institute for Integrated and Intelligent Systems, Grifth University, Brisbane, Australia
+2Department of Computing, Macquarie University, Sydney, Australia
+{k.su, x.luo, a.sattar}@grifth.edu.au; mehmet@comp.mq.edu.au
+
+﻿Operationalisation of Norms for Usage in Electronic
+Institutions
+Huib Aldewereld∗
+Frank Dignum
+Institute of Information and Computing Sciences
+Utrecht University
+The Netherlands
+{huib, dignum}@cs.uu.nl
+Andre´s Garcı´a-Camino†
+Pablo Noriega
+Juan Antonio Rodrı´guez-Aguilar
+Carles Sierra
+Artificial Intelligence Research Institute, IIIA
+Spanish Council for Scientific Research, CSIC
+Campus de la UAB, Barcelona, Spain
+{andres, pablo, jar, sierra}@iiia.csic.es
+
+﻿Mutual Enrichment Through Nested Belief Change
+∗
+Laurent Perrussel
+IRIT–Universite´ Toulouse 1
+Manufacture des Tabacs, 21
+alle´e de Brienne, F-31042
+Toulouse Cedex - France
+laurent.perrussel@irit.fr
+Thomas Meyer
+NICTA and UNSW
+223 Anzac Parade
+Kensington, NSW, 2052,
+Australia
+thomas.meyer@nicta.com.au
+Jean-Marc The´venin
+IRIT–Universite´ Toulouse 1
+Manufacture des Tabacs, 21
+alle´e de Brienne, F-31042
+Toulouse Cedex - France
+thevenin@univ-tlse1.fr
+
+An Architecture of a Normative System
+Counts-as Conditionals, Obligations and Permissions
+Guido Boella
+Universita` di Torino
+Italy
+guido@di.unito.it
+Leendert van der Torre
+University of Luxembourg
+Luxembourg
+leendert@vandertorre.com
+
+Author Retrospective for
+Design Tradeoffs for Tiled CMP On-Chip Networks
+William J. Dally
+NVIDIA & Stanford
+dally@stanford.edu
+James Balfour
+Google Inc.
+jbalfour@google.com
+
+What Agents Can Achieve under Incomplete Information
+∗
+Wojciech Jamroga
+Institute of Computer Science
+Clausthal University of Technology, Germany
+wjamroga@in.tu-clausthal.de
+Thomas Ågotnes
+Department of Informatics
+University of Bergen, Norway
+agotnes@ii.uib.no
+
+Run-Time Model Checking of Interaction and Deontic
+Models for Multi-Agent Systems
+Nardine Osman
+School of Informatics
+The University of Edinburgh
+Edinburgh EH8 9LE, UK
+N.Osman@sms.ed.ac.uk
+David Robertson
+School of Informatics
+The University of Edinburgh
+Edinburgh EH8 9LE, UK
+dr@inf.ed.ac.uk
+Christopher Walton
+School of Informatics
+The University of Edinburgh
+Edinburgh EH8 9LE, UK
+cdw@inf.ed.ac.uk
+
+Modeling Mental States in the Analysis of Multiagent
+Systems Requirements
+Alexei Lapouchnian
+Department of Computer Science
+University of Toronto
+Toronto, ON, M5S 3G4, Canada
+alexei@cs.toronto.edu
+Department of Computer Science and Engineering
+York University
+Toronto, ON, M3J 1P3, Canada
+lesperan@cs.yorku.ca
+
+A Stochastic Language for Modelling Opponent Agents
+Gerardo Simari Amy Sliva Dana Nau V.S.Subrahmanian
+University of Maryland
+College Park, Maryland, USA
+{gisimari,asliva,nau,vs}@cs.umd.edu
+
+Decentralized Planning under Uncertainty
+for Teams of Communicating Agents
+Matthijs T.J. Spaan
+University of Amsterdam
+Kruislaan 403, 1098 SJ
+Amsterdam, The Netherlands
+mtjspaan@science.uva.nl
+Nikos Vlassis
+University of Amsterdam
+Kruislaan 403, 1098 SJ
+Amsterdam, The Netherlands
+vlassis@science.uva.nl
+Geoffrey J. Gordon
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213, USA
+ggordon@cs.cmu.edu
+
+A Multi-Agent System that Facilitates Scientific
+Publications Search
+Paolo Giorgini
+Department of Information and
+Communication Technology
+University of Trento - Italy
+paolo.giorgini@unitn.it
+Enrico Blanzieri
+Department of Information and
+Communication Technology
+University of Trento - Italy
+enrico.blanzieri@unitn.it
+Aliaksandr Birukou
+Department of Information and
+Communication Technology
+University of Trento - Italy
+birukou@dit.unitn.it
+
+﻿Power and Negotiation:
+Lessons from Agent-Based Participatory Simulations
+Alexis Drogoul
+IRD Bondy
+32, avenue Henri Varagnat,
+F-93143 Bondy Cedex
+alexis.drogoul@bondy.ird.fr
+Paul Guyot
+LIP6 - Universite´ Pierre et
+Marie Curie - Paris VI
+Boıˆte 169 - 4, place Jussieu,
+F-75252 Paris Cedex 05
+paul.guyot@lip6.fr
+Shinichi Honiden
+National Institute of
+Informatics
+2-1-2 Hitotsubashi,
+Chiyoda-ku, Tokyo 101-8430
+honiden@nii.ac.jp
+
+Security in Multiagent Systems by Policy Randomization
+Praveen Paruchuri, Milind Tambe, Fernando Ordo´n˜ez, Sarit Kraus∗
+University of Southern California, Los Angeles, CA 90089, {paruchur, tambe, fordon}@usc.edu
+∗ Bar-Ilan University, Ramat-Gan 52900, Israel, sarit@cs.biu.ac.il
+
+Real-Time Adaptive A
+Maxim Likhachev
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh, PA 15213-3891
+maxim+@cs.cmu.edu
+Sven Koenig
+Computer Science Department
+University of Southern California
+Los Angeles, CA 90089-0781
+skoenig@usc.edu
+
+Winning back the CUP for distributed POMDPs: Planning
+over continuous belief spaces
+Pradeep Varakantham, Ranjit Nair∗, Milind Tambe, Makoto Yokoo∗∗
+University of Southern California, Los Angeles, CA 90089, {varakant, tambe}@usc.edu
+∗ Automation and Control Solutions, Honeywell Laboratories, Minneapolis, MN 55418, ranjit.nair@honeywell.com
+∗∗ Dept. of Intelligent Systems, Kyushu University, Fukuoka, 812-8581 Japan, yokoo@is.kyushu-u.ac.jp
+
+Resource Allocation Among Agents with Preferences
+Induced by Factored MDPs
+Dmitri Dolgov and Edmund Durfee
+Department of Electrical Engineering and Computer Science
+University of Michigan
+Ann Arbor, MI 48109
+{ddolgov, durfee}@umich.edu
+
+Towards Emergence of Communication:
+A Cognitive Developmental Robotics Approach
+Minoru Asada
+JST ERATO Asada Synergistic Intelligence Project and Dept. of Adaptive Machine Systems
+Graduate School of Eng., Osaka University, Suita, Osaka 565-0871, Japan
+asada@jeap.org
+
+Multi-Agent Based Peer-to-Peer Information Retrieval
+Systems With Concurrent Search Sessions
+Haizheng Zhang, and Victor Lesser
+Dept. of Computer Science, University of Massachusetts Amherst, MA 01003
+hzhang@cs.umass.edu, lesser@cs.umass.edu
+
+A Hierarchical Approach to Efficient Reinforcement
+Learning in Deterministic Domains
+Michael L. Littman
+Department of Computer
+Science
+Rutgers University
+Piscataway, NJ 08854-8019
+USA
+mlittman@cs.rutgers.edu
+Alexander L. Strehl
+Department of Computer
+Science
+Rutgers University
+Piscataway, NJ 08854-8019
+USA
+strehl@cs.rutgers.edu
+Carlos Diuk
+Department of Computer
+Science
+Rutgers University
+Piscataway, NJ 08854-8019
+USA
+cdiuk@cs.rutgers.edu
+
+A Smart Home Agent for Plan Recognition
+Abdenour Bouzouane
+Universite´ du Que´bec Chicoutimi
+555, boul. de l’Universite´
+Chicoutimi (Que´bec), Canada
+abouzoua@uqac.ca
+Bruno Bouchard
+Universite´ de Sherbrooke
+2500, boul. de l’Universite´,
+Sherbrooke (Que´bec), Canada
+Bruno.Bouchard@usherbrooke.ca
+Sylvain Giroux
+Universite´ de Sherbrooke
+2500, boul. de l’Universite´,
+Sherbrooke (Que´bec), Canada
+Sylvain.Giroux@usherbrooke.ca
+
+﻿Exploring Sensor Networks using Mobile Agents
+Daniel Massaguer†, Chien-Liang Fok‡, Nalini Venkatasubramanian†,
+Gruia-Catalin Roman‡, and Chenyang Lu‡
+†Donald Bren School of Information and Computer Science ‡Department of Computer Science and Engineering
+University of California, Irvine Washington University in Saint Louis
+Irvine, CA 92697, USA Saint Louis, MO, 63130, USA
+{dmassagu, nalini}@uci.edu {liang, roman, lu}@cse.wustl.edu
+
+Stochastic Planning for Weakly-Coupled
+Distributed Agents
+AnYuan Guo Victor Lesser
+Department of Computer Science
+University of Massachusetts Amherst
+Amherst, MA 01003
+{anyuan,lesser}@cs.umass.edu
+Categories and Subject Descriptors
+I.2.8 [Artificial Intelligence]: Problem Solving, Control
+Methods, and Search; I.2.11 [Artificial Intelligence]: Dis-
+tributed Artificial Intelligence—multiagent systems
+General Terms
+Algorithms, Performance, Design, Experimentation
+Keywords
+planning, game theory
+
+Dynamic Cooperation Using Resource Based Planning
+Faruk Polat
+Department of Computer Engineering
+Midde East Technical University
+Ankara, Turkey
+polat@ceng.metu.edu.tr
+Utku Erdog˘du
+Department of Computer Engineering
+Midde East Technical University
+Ankara, Turkey
+utku@ceng.metu.edu.tr
+
+﻿Author’s Retrospective for: Biomedical Image Analysis on
+a Cooperative Cluster of GPUs and Multicores
+Timothy D. R. Hartley
+Intel Corporation
+Software and Services Group
+Hillsboro, OR
+timothy.d.hartley@intel.com
+Ümit V. Çatalyürek
+Dept. Biomedical Informatics
+The Ohio State University
+Columbus, OH 43210
+umit@bmi.osu.edu
+Antonio Ruiz
+Computer Architecture Dept.
+University of Malaga
+Malaga, Spain
+aruiz@uma.es
+Manuel Ujaldon
+Computer Architecture Dept.
+University of Malaga
+Malaga, Spain
+ujaldon@uma.es
+Francisco Igual
+Computer Architecture and
+Automatic Control Dept.
+Univ. Complutense of Madrid
+Madrid, Spain
+figual@ucm.es
+Rafael Mayo
+Dept. of Computer Eng. and
+Computer Science
+University Jaume I
+Castellon, Spain
+mayo@icc.uji.es
+
+Real Time Target Evaluation Search
+Faruk Polat
+Department of Computer Engineering
+Middle East Technical University
+06531 Ankara, Turkey
+polat@ceng.metu.edu.tr
+Cagatay Undeger
+Department of Computer Engineering
+Middle East Technical University
+06531 Ankara, Turkey
+cundeger@ceng.metu.edu.tr
+
+Organizational Self-Design in Semi-dynamic Environments
+Sachin Kamboj and Keith S. Decker
+Department of Computer and Information Sciences
+University of Delaware
+Newark, DE 19716
+{kamboj, decker}@cis.udel.edu
+
+A Decision-Theoretic Approach to File Consistency
+in Constrained Peer-to-Peer Device Networks
+David L. Roberts Sooraj Bhat Charles L. Isbell Jr.
+Brian F. Cooper Jeffrey S. Pierce
+College of Computing
+Georgia Institute of Technology
+Atlanta, GA 30332-0706
+{robertsd,sooraj,isbell,cooperb,jpierce}@cc.gatech.edu
+
+RPD-Enabled Agents Teaming with Humans for
+Multi-Context Decision Making
+Bingjun Sun
+Department of Computer
+Science and Engineering
+The Pennsylvania State
+University
+University Park, PA 16802
+bsun@cse.psu.edu
+Xiaocong Fan
+College of Information
+Sciences and Technology
+The Pennsylvania State
+University
+University Park, PA 16802
+zfan@ist.psu.edu
+Shuang Sun,
+Michael McNeese,
+John Yen
+College of Information
+Sciences and Technology
+The Penn State University
+University Park, PA 16802
+{ssun,mmcneese,jyen}
+@ist.psu.edu
+
+﻿An Argumentation›based Approach for Practical
+Reasoning
+Iyad Rahwan,1,2 Leila Amgoud3
+1Institute of Informatics
+2(Fellow) School of Informatics
+3IRIT
+University of Edinburgh
+Edinburgh, UK
+British University in Dubai
+POBox 502216, Dubai, UAE
+irahwan@acm.org
+118, route de Narbonne
+31062, Toulouse, France
+amgoud@irit.fr
+
+﻿Predicting partner’s behaviour in agent negotiation
+∗
+Ryszard Kowalczyk
+Faculty of Information and Communication
+Technologies
+Swinburne University of Technology
+Hawthorn, Victoria 3122, Australia
+rkowalczyk@it.swin.edu.au
+Jakub Brzostowski
+Faculty of Information and Communication
+Technologies
+Swinburne University of Technology
+Hawthorn, Victoria 3122, Australia
+jbrzostowski@it.swin.edu.au
+
+Tractable Negotiation in Tree-structured Domains
+Yann Chevaleyre1, Ulle Endriss2 and Nicolas Maudet1
+1LAMSADE, Universite´ Paris-Dauphine, France
+2ILLC, University of Amsterdam, The Netherlands
+1{chevaley,maudet}@lamsade.dauphine.fr, 2ulle@illc.uva.nl
+
+Predicting People’s Bidding Behavior in Negotiation
+Ya’akov Gal and Avi Pfeffer
+Division of Engineering and Applied Sciences
+Harvard University
+Cambridge, MA 02138
+{gal,avi}@eecs.harvard.edu
+Categories and Subject Descriptors
+I.2 [Artificial Intelligence]:
+General Terms
+Design, Experimentation
+Keywords
+Negotiation, decision-making, Opponent modeling
+
+Support-based Distributed Search
+A new approach for multiagent constraint processing
+Chee Fon Chang
+Decision Systems Laboratory
+University of Wollongong
+NSW, Australia
+c03@uow.edu.au
+Peter Harvey
+Decision Systems Laboratory
+University of Wollongong
+NSW, Australia
+pah06@uow.edu.au
+Aditya Ghose
+Decision Systems Laboratory
+University of Wollongong
+NSW, Australia
+aditya@uow.edu.au
+
+Monotonic Concession Protocols for
+Multilateral Negotiation
+Ulle Endriss
+Institute for Logic, Language and Computation
+University of Amsterdam, The Netherlands
+ulle@illc.uva.nl
+
+Negotiating using Rewards
+Sarvapali D. Ramchurn1, Carles Sierra2, Lluis Godo2, and Nicholas R. Jennings1
+1School of Electronics and Computer Science,
+2Institute of Artificial Intelligence, CSIC,
+08193 Bellaterra,
+Spain.
+{sierra,godo}@iiia.csic.es
+University of Southampton, Southampton,
+SO17 1BJ, UK.
+{sdr,nrj}@ecs.soton.ac.uk
+
+Negotiation Coalitions in Group-Choice Multi-Agent
+Systems
+Tom Wanyama,
+University of Calgary
+Department of Electrical and Computer Engineering
+2500 University Drive, N.W.Calgary, AB. CA.T2N 1N4.
+Telephone: 1-403-247 0516
+twanyama@ucalgary.ca
+Behrouz H. Far
+University of Calgary
+Department of Electrical and Computer Engineering
+2500 University Drive, N.W.Calgary, AB. CA. T2N 1N4.
+Telephone: 1-403-210-5411
+far@ucalgary.ca
+
+Negotiation-based coalitions in the physical world
+Majid Ali Khan and Ladislau Bo¨lo¨ni
+School of Electrical Engineering and Computer Science
+University of Central Florida
+khan@bond.cs.ucf.edu, lboloni@cs.ucf.edu
+
+﻿A formal model for designing dialogue strategies
+Nabil Hameurlain
+Université de Pau
+Avenue de l’université
+BP 1155 64012 Pau Cedex, France
+nabil.hameurlain@univ-pau.fr
+Leila Amgoud
+IRIT - CNRS
+118, route de Narbonne
+31062 Toulouse Cedex 9, France
+amgoud@irit.fr
+
+﻿A Scalable Method for Online Learning of Non-linear
+Preferences Based on Anonymous Negotiation Data
+J.A. La Poutre´
+CWI and Technical Univ. Eindhoven
+School of Techn. Management
+P.O. Box 513, 5600 MB Eindhoven, The
+Netherlands
+hlp@cwi.nl
+D.J.A. Somefun
+CWI, Center for Mathematics and Computer
+Science
+P.O. Box 94079, 1090 GB Amsterdam,The
+Netherlands
+koye@cwi.nl
+
+﻿Camera-based Observation of Football Games
+for Analyzing Multi-agent Activities
+Michael Beetz
+beetz@in.tum.de
+Jan Bandouch
+bandouch@in.tum.de
+Suat Gedikli
+gedikli@in.tum.de
+Nico v. Hoyningen-Huene
+hoyninge@in.tum.de
+Bernhard Kirchlechner
+kirchlec@in.tum.de
+Alexis Maldonado
+maldonad@in.tum.de
+Intelligent Autonomous Systems Group
+Technische Universita¨t Mu¨nchen, Munich, Germany
+
+﻿Towards Formal Model of Adversarial Action
+in Multi-Agent Systems∗
+Michal Peˇchoucˇek1, Jan Tozˇicˇka1 and Martin Reha´k2
+Gerstner Laboratory1 and Center for Applied Cybernetics2
+Department of Cybernetics, Czech Technical University
+Technicka´ 2, Prague, 166 27, Czech Republic
+pechouc@labe.felk.cvut.cz
+
+Negotiating Efficient Outcomes over Multiple Issues
+Sabyasachi Saha
+Math & CS Department
+University of Tulsa
+sabyasachi-saha@utulsa.edu
+Sandip Sen
+Math & CS Department
+University of Tulsa
+sandip-sen@utulsa.edu
+
+Symbolic Negotiation Revisited
+Mihhail Matskin
+Royal Institute of Technology
+Department of Microelectronics
+and Information Technology
+Kista, Sweden
+misha@imit.kth.se
+Peep Ku¨ngas
+Norwegian University of Science and Technology
+Department of Computer and Information
+Science
+Trondheim, Norway
+peep@idi.ntnu.no
+
+﻿A Multi­Issue Negotiation Protocol among Competitive
+Agents and its Extension to A Nonlinear Utility Negotiation
+Protocol
+¤
+Takayuki Ito
+and Mark Klein
+Center for Coordination Science, Sloan School of Management,
+Massachusetts Institute of Technology
+3 Cambridge Center, NE20­336, Cambridge, MA 02142
+ftakayuki,m kleing@mit.edu
+
+Multi-Robot Learning with Particle Swarm Optimization
+Jim Pugh and Alcherio Martinoli
+Swarm-Intelligent Systems Group
+´Ecole Polytechnique Fe´de´rale de Lausanne
+1015 Lausanne, Switzerland
+{jim.pugh,alcherio.martinoli}@epfl.ch
+
+Multi-Model Motion Tracking
+under Multiple Team Member Actuators
+Manuela Veloso
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh, PA 15213, USA
+mmv@cs.cmu.edu
+Yang Gu
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh, PA 15213, USA
+guyang@cs.cmu.edu
+
+Multiple UAV Task Allocation using Negotiation
+A. Sinha
+Department of Aerospace
+Engineering
+IISc, Bangalore, India
+asinha@aero.iisc.ernet.in
+P.B. Sujit
+Department of Aerospace
+Engineering
+IISc, Bangalore, India
+sujit@aero.iisc.ernet.in
+D. Ghose
+Department of Aerospace
+Engineering
+IISc, Bangalore, India
+dghose@aero.iisc.ernet.in
+
+Distributed Automatic Target Recognition
+Using Multi-agent UAV Swarms
+Prithviraj Dasgupta
+Computer Science Department,
+University of Nebraska, Omaha, NE 68182, USA
+pdasgupta@mail.unomaha.edu
+
+ACM International Conference on Supercomputing 25th Anniversary Volume
+25th Anniversary Volume Editor
+is proud to include this ICS paper
+Analysis of Interprocedural Side Effects in a Parallel
+Programing Environment
+David Callahan, Ken Kennedy
+http://link.springer.com/chapter/10.1007/3-540-18991-2_10
+87
+
+RADIC - A Generic Component for the Integration of
+Existing Reactive and Deliberative Layers
+James Kramer
+Artificial Intelligence & Robotics Lab
+Department of Computer Science and
+Engineering
+University of Notre Dame
+Notre Dame, IN 46556, USA
+jkramer3@cse.nd.edu
+Matthias Scheutz
+Artificial Intelligence & Robotics Lab
+Department of Computer Science and
+Engineering
+University of Notre Dame
+Notre Dame, IN 46556, USA
+mscheutz@cse.nd.edu
+
+﻿Modeling one Human Decision Maker with a Multi-Agent
+System: the CODAGE Approach
+Samuel Thiriot
+Université Paris 6 and France Télécom R&D
+Laboratoire d’Informatique (LIP6)
+8 rue du Capitaine Scott
+75015 Paris, France
+Samuel.Thiriot@francetelecom.com
+Jean-Daniel Kant
+Université Paris 6
+Laboratoire d’Informatique (LIP6)
+8 rue du Capitaine Scott
+75015 Paris, France
+Jean-Daniel.Kant@lip6.fr
+
+The Cost of Social Agents∗
+Guido Governatori
+School of ITEE
+The University of Queensland
+Brisbane, Australia
+guido@itee.uq.edu.au
+Vineet Padmanabhan
+School of ITEE
+The University of Queensland
+Brisbane, Australia
+vnair@itee.uq.edu.au
+Antonino Rotolo
+CIRSFID
+University of Bologna
+Bologna, Italy
+rotolo@cirsfid.unibo.it
+
+Failures of the VCG Mechanism in
+Combinatorial Auctions and Exchanges∗
+Tuomas Sandholm
+Carnegie Mellon University
+Computer Science Department
+5000 Forbes Avenue
+Pittsburgh, PA 15213, USA
+sandholm@cs.cmu.edu
+Vincent Conitzer
+Carnegie Mellon University
+Computer Science Department
+5000 Forbes Avenue
+Pittsburgh, PA 15213, USA
+conitzer@cs.cmu.edu
+
+Agent Interaction in Distributed POMDPs and its
+Implications on Complexity
+Jiaying Shen Raphen Becker Victor Lesser
+Department of Computer Science
+University of Massachusetts
+Amherst, MA 01003-4610
+{jyshen, raphen, lesser}@cs.umass.edu
+
+A Technique for Reducing Normal-Form
+Games to Compute a Nash Equilibrium∗
+Tuomas Sandholm
+Carnegie Mellon University
+Computer Science Department
+5000 Forbes Avenue
+Pittsburgh, PA 15213, USA
+sandholm@cs.cmu.edu
+Vincent Conitzer
+Carnegie Mellon University
+Computer Science Department
+5000 Forbes Avenue
+Pittsburgh, PA 15213, USA
+conitzer@cs.cmu.edu
+
+Information-theoretic approaches to branching in search∗
+Tuomas Sandholm
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh, PA 15213
+sandholm@cs.cmu.edu
+Andrew Gilpin
+Computer Science Department
+Carnegie Mellon University
+Pittsburgh, PA 15213
+gilpin@cs.cmu.edu
+
+The Complexity of Model Checking Concurrent Programs
+against CTLK Specifications
+Alessio Lomuscio, Franco Raimondi
+Department of Computer Science
+University College London – London, UK
+{a.lomuscio,f.raimondi}@cs.ucl.ac.uk
+
+Distributed Navigation in an Unknown Physical
+Environment ∗
+Ariel Felner
+Department of Information Systems Engineering
+Ben-Gurion University of the Negev
+Beer-Sheva, 84-105, Israel
+felner@bgu.ac.il
+Arnon Gilboa, Amnon Meisels
+Department of Computer Science
+Ben-Gurion University of the Negev
+Beer-Sheva, 84-105, Israel
+{gilboaar,am}@cs.bgu.ac.il
+
+Accident or Intention: That Is the Question
+(in the Noisy Iterated Prisoner’s Dilemma)
+Dana Nau
+Department of Computer Science
+University of Maryland
+College Park, MD 20742
+nau@cs.umd.edu
+Tsz-Chiu Au
+Department of Computer Science
+University of Maryland
+College Park, MD 20742
+chiu@cs.umd.edu
+
+On using Multi-agent Systems in Playing Board Games
+Stefan J. Johansson
+Department of Software Systems
+School of Engineering
+Blekinge Institute of Technology
+sja@bth.se
+
+Solution Sets for DCOPs and Graphical Games
+Rajiv T. Maheswaran
+Information Sciences Institute
+Univ. of Southern California
+Los Angeles, CA 90292
+maheswar@isi.edu
+Jonathan P. Pearce
+Computer Science Dept.
+Univ. of Southern California
+Los Angeles, CA 90089
+jppearce@usc.edu
+Milind Tambe
+Computer Science Dept.
+Univ. of Southern California
+Los Angeles, CA 90089
+tambe@usc.edu
+
+Efficient Agent-Based Models for Non-Genomic Evolution
+Kagan Tumer
+NASA Ames Research Center
+Mailstop 269-4
+Moffett Field, CA 94035, USA
+ktumer@mail.arc.nasa.gov
+Adrian Agogino
+UC Santa Cruz
+NASA Ames Research Center
+Mailstop 269-3
+Moffett Field, CA 94035, USA
+adrian@email.arc.nasa.gov
+Nachi Gupta
+Oxford Univ., Computing Lab
+Numerical Analysis Group
+Wolfson Building, Parks Road
+Oxford, OX1 3QD, UK
+nachi@comlab.ox.ac.uk
+
+﻿Towards Autonomous Mobile Agents with Emergent
+Migration Behaviour
+Tino Schlegel∗
+Swinburne University of
+Technology
+Faculty of Information and
+Communication Technologies
+Hawthorn, 3122 Victoria,
+Australia
+tschlegel@ict.swin.edu.au
+Peter Braun
+Swinburne University of
+Technology
+Faculty of Information and
+Communication Technologies
+Hawthorn, 3122 Victoria,
+Australia
+pbraun@ict.swin.edu.au
+Ryszard Kowalczyk
+Swinburne University of
+Technology
+Faculty of Information and
+Communication Technologies
+Hawthorn, 3122 Victoria,
+Australia
+rkowalczyk@ict.swin.edu.au
+
+Artifacts for Time-Aware Agents ∗
+Emmanuel Druon
+ISEN 41 Bd Vauban
+59046 Lille Cedex, France
+emmanuel.druon@isen.fr
+Ce´dric Dinont
+USTL/LIFL and ISEN
+59655 Villeneuve-d’Ascq, France
+cedric.dinont@lifl.fr
+Patrick Taillibert
+Thales Aerospace Division
+78951 Elancourt, France
+patrick.taillibert@fr.thalesgroup.com
+Philippe Mathieu
+USTL/LIFL
+59655 Villeneuve-d’Ascq, France
+philippe.mathieu@lifl.fr
+
+Author Retrospective
+Compiler-Directed Data Prefetching
+in Multiprocessors with Memory Hierarchies
+Elana Granston
+Cutting Edge Consulting
+cuttingedgeconsulting@outlook.com
+Alexander V. Veidenbaum
+Dept. of Computer Science
+University of California Irvine
+Irvine, CA 92697-3435
+(949)-824-6188
+alexv@ics.uci.edu
+Eddie Gornish
+Nvidia Corporation
+2001 Walsh Avenue
+Santa Clara, CA 95050
+(408) 562-7599
+gornish@gmail.com
+
+Effect of Joining Decisions on Peer Clusters
+Prithviraj Dasgupta
+Computer Science
+Department University of
+Nebraska Omaha, NE 68182,
+USA
+pdasgupta@mail.unomaha.edu
+Sandip Sen
+Mathematical & Computer
+Sciences Department
+600 South College avenue
+Tulsa, OK 74104, USA
+sandip@utulsa.edu
+Ste´phane Airiau
+Mathematical & Computer
+Sciences Department
+600 South College avenue
+Tulsa, OK 74104, USA
+stephane@utulsa.edu
+
+History-based Traffic Control
+Gabriel Balan
+George Mason University
+Fairfax, VA (USA)
+gbalan@cs.gmu.edu
+Sean Luke
+George Mason University
+Fairfax, VA (USA)
+sean@cs.gmu.edu
+
+Communication Management Using Abstraction in
+Distributed Bayesian Networks
+Jiaying Shen and Victor Lesser
+Department of Computer Science
+University of Massachusetts
+Amherst, MA 01003-4610
+{jyshen, lesser}@cs.umass.edu
+
+Toward an Understanding of the Impact of Software
+Personal Assistants on Human Organizations
+Steven Okamoto
+Carnegie Mellon University
+sokamoto@cs.cmu.edu
+Paul Scerri
+Carnegie Mellon University
+pscerri@cs.cmu.edu
+Katia Sycara
+Carnegie Mellon University
+katia@cs.cmu.edu
+
+Robust Recognition of Physical Team Behaviors Using
+Spatio-Temporal Models
+Katia Sycara
+Robotics Institute
+Carnegie Mellon University
+5000 Forbes Ave.
+Pittsburgh, PA
+katia+@cs.cmu.edu
+Gita Sukthankar
+Robotics Institute
+Carnegie Mellon University
+5000 Forbes Ave.
+Pittsburgh, PA
+gitars@cs.cmu.edu
+
+How Autonomy Oriented Computing (AOC) Tackles a
+Computationally Hard Optimization Problem
+Jiming Liu
+Department of Computer Science
+Hong Kong Baptist University
+Kowloon Tong, Hong Kong
+jiming@comp.hkbu.edu.hk
+Xiao-Feng Xie
+Department of Computer Science
+Hong Kong Baptist University
+Kowloon Tong, Hong Kong
+xfxie@comp.hkbu.edu.hk
+
+Analyzing Characteristics of Task Structures to Develop
+GPGP Coordination Mechanisms
+Wei Chen
+University of Delaware
+Department of Computer & Information Sciences
+Newark, DE 19716
+wchen@cis.udel.edu
+Keith S. Decker
+University of Delaware
+Department of Computer & Information Sciences
+Newark, DE 19716
+decker@cis.udel.edu
+
+﻿Norm-Oriented Programming of Electronic Institutions∗
+W. Vasconcelos
+Dept. of Computing Science, University of Aberdeen,
+Aberdeen AB24 3UE, United Kingdom
+wvasconcelos@acm.org
+A. Garcı´a-Camino,
+J.-A. Rodrı´guez-Aguilar, C. Sierra
+IIIA-CSIC, Campus UAB, 08193 Bellaterra, Spain
+{andres, jar, sierra}@iiia.csic.es
+
+A Deployed Multi-Agent Framework for Distributed Energy
+Applications
+Geoff James1, Dave Cohen2, Robert Dodier2, Glenn Platt3, and Doug Palmer1
+3CSIRO Energy Technology
+2Infotility Inc
+1CSIRO ICT Centre
+PO Box 330
+Newcastle NSW 2300
+Australia
++61 2 4960 6120
+{first.last}@csiro.au
+1327 Spruce St. Suite 201
+Boulder CO 80301
+USA
++1 720 210 1984
+{first}@infotility.com
+Locked Bag 17
+North Ryde NSW 1670
+Australia
++61 2 9325 3276
+{first.last}@csiro.au
+
+Strategic voting when aggregating partially ordered
+preferences
+T. Walsh
+NICTA and School of CSE, UNSW
+Sydney, Australia.
+tw@cse.unsw.edu.au
+M. S. Pini, F. Rossi, K. B. Venable
+Department of Pure and Applied Mathematics
+University of Padova, Italy
+{mpini,frossi,kvenable}@math.unipd.it
+
+Role-Based Semantics for Agent Communication
+Embedding of the ‘Mental Attitudes’ and ‘Social Commitments’ Semantics
+Joris Hulstijn
+Vrije Univ. Amsterdam
+The Netherlands
+jhulstijn@feweb.vu.nl
+Guido Boella, Rossana Damiano
+Universita` di Torino
+Italy
+{guido,rossana}@di.unito.it
+Leendert van der Torre
+University of Luxembourg
+Luxembourg
+leendert@vandertorre.com
+
+Teaching New Teammates
+Sandip Sen
+Department of Mathematics & Computer Science
+The University of Tulsa
+USA
+sandip@utulsa.edu
+Doran Chakraborty
+Department of Mathematics & Computer Science
+The University of Tulsa
+USA
+doran@utulsa.edu
+
+Efficient Agents for Cliff-Edge Environments with a Large
+Set of Decision Options
+Ron Katz, Sarit Kraus
+Department of Computer Science and The Gonda Brain Research Center
+Bar-Ilan University, Ramat-Gan 52900, Israel, sarit@cs.biu.ac.il
+
+A Novel Method for Automatic Strategy Acquisition in
+N-player Non-zero-sum Games
+S. Parsons
+Dept. of Computer Science
+City University of New York
+365, 5th Avenue
+New York, NY 10016, USA
+parsons@sci.brooklyn.cuny.edu
+S. Phelps
+Dept. of Computer Science
+University of Liverpool
+Liverpool L69 3BX
+United Kingdom
+sphelps@csc.liv.ac.uk
+M. Marcinkiewicz
+Dept. of Computer Science
+Graduate Center
+City University of New York
+365, 5th Avenue
+New York, NY 10016
+USA
+marek@sci.brooklyn.cuny.edu
+
+Adaptive, Secure, and Scalable Distributed Data
+Outsourcing: A Vision Paper
+Vaidy Sunderam
+Emory University
+vss@emory.edu
+Li Xiong
+Emory University
+lxiong@emory.edu
+Slawomir Goryczka
+Emory University
+sgorycz@emory.edu
+
+Robust Game Play Against Unknown Opponents
+Michael Bowling
+Department of Computing Science
+University of Alberta
+Edmonton, Alberta, Canada T6G 2E8
+bowling@cs.ualberta.ca
+Nathan Sturtevant
+Department of Computing Science
+University of Alberta
+Edmonton, Alberta, Canada T6G 2E8
+nathanst@cs.ualberta.ca
+
+Probabilistic Policy Reuse in a Reinforcement Learning
+Agent
+Manuela Veloso
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213, USA
+veloso@cs.cmu.edu
+Fernando Ferna´ndez
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213, USA
+fernando@cs.cmu.edu
+
+﻿Learning from Induced Changes in Opponent (Re)Actions
+in Multi-Agent Games
+P.J. ’t Hoen
+hoen@cwi.nl
+S.M. Bohte
+sbohte@cwi.nl
+J.A. La Poutre´
+hlp@cwi.nl
+CWI, The Netherlands Centre for Mathematics and Computer Science
+Kruislaan 413, NL-1098 SJ Amsterdam, The Netherlands
+
+Performance of Pheromone Model for
+Predicting Traffic Congestion
+Shinichi Honiden
+National Institute of Informatics
+Tokyo 101-8430, Japan
+honiden@nii.ac.jp
+Yasushi Ando,
+Yoshiaki Fukazawa
+Department of Science and
+Engineering, Waseda University
+Tokyo 169-8555, Japan
+ando@fuka.info.waseda.ac.jp,
+fukazawa@waseda.jp
+Osamu Masutani,
+Hirotoshi Iwasaki
+DENSO IT Laboratory, Inc.
+Tokyo 150-0002, Japan
+{omasutani,hiwasaki}@d-
+itlab.co.jp
+
+Learning the Required Number of Agents for Complex
+Tasks
+Brahim Chaib-draa
+DAMAS laboratory, department of computer
+science and software engineering
+Laval University, Canada
+chaib@damas.ift.ulaval.ca
+Se´bastien Paquet
+DAMAS laboratory, department of computer
+science and software engineering
+Laval University, Canada
+spaquet@damas.ift.ulaval.ca
+
+Extensive Games with Possibly Unaware Players∗
+Joseph Y. Halpern
+Computer Science
+Cornell University, USA
+halpern@cs.cornell.edu
+Leandro C. Reˆgo
+School of Electrical and Computer Engineering
+Cornell University, USA
+lcr26@cornell.edu
+
+Learning Against Multiple Opponents
+Thuc Vu, Rob Powers, Yoav Shoham
+Stanford University
+{thucvu, powers, shoham}@cs.stanford.edu
+
+Selecting Informative Actions Improves Cooperative
+Multiagent Learning
+Sean Luke
+George Mason University
+4400 University Drive MSN 4A5
+Fairfax, VA 22030, USA
+sean@cs.gmu.edu
+Liviu Panait
+George Mason University
+4400 University Drive MSN 4A5
+Fairfax, VA 22030, USA
+lpanait@cs.gmu.edu
+
+The Use of Agents in Human Learning Systems
+Elizabeth Sklar
+Dept of Computer and Information Science
+Brooklyn College, City University of New York
+2900 Bedford Ave, Brooklyn, NY, USA 11210
+sklar@sci.brooklyn.cuny.edu
+Debbie Richards
+Dept of Computing, Div of Information and
+Communication Sciences
+Macquarie University
+Sydney NSW 2109 AUSTRALIA
+richards@ics.mq.edu.au
+
+Reinforcement Learning for
+Declarative Optimization-Based Drama Management
+Mark J. Nelson, David L. Roberts, Charles L. Isbell, Jr., Michael Mateas
+College of Computing
+Georgia Institute of Technology
+Atlanta, Georgia, USA
+{mnelson, robertsd, isbell, michaelm}@cc.gatech.edu
+
+Towards Jungle Computing with Ibis/Constellation
+Jason Maassen, Niels Drost, Henri E. Bal, Frank J. Seinstra
+Department of Computer Science, VU University
+Amsterdam, The Netherlands{jason,niels,bal,fjseins}@cs.vu.nl
+
+Learning to Cooperate in Multi-Agent Social Dilemmas
+Marcello Restelli
+Politecnico di Milano
+Department of Electronics and
+Information
+piazza Leonardo da Vinci 32,
+I-20133 Milan, Italy
+restelli@elet.polimi.it
+Alessandro Lazaric
+Politecnico di Milano
+Department of Electronics and
+Information
+piazza Leonardo da Vinci 32,
+I-20133 Milan, Italy
+lazaric@elet.polimi.it
+Enrique Munoz de Cote
+Politecnico di Milano
+Department of Electronics and
+Information
+piazza Leonardo da Vinci 32,
+I-20133 Milan, Italy
+munoz@elet.polimi.it
+
+Multi-agent Reinforcement Learning Algorithm
+to Handle Beliefs of Other Agents’ Policies
+and Embedded Beliefs
+Kazuyuki Aihara
+Institute of Industrial Science, the University of Tokyo
+4-6-1 Komaba, Meguro-ku, Tokyo 153-8505 Japan
+Takaki Makino
+Dept. of Frontier Sciences and Science
+Integration, the University of Tokyo
+5-1-5 Kashiwa-no-ha,
+Kashiwa, Chiba, 277-8568 Japan
+mak@cb.k.u-tokyo.ac.jp
+ERATO Aihara Complexity Modelling Project, JST
+3-23-5 Uehara, Shibuya-ku, Tokyo 151-0064 Japan
+aihara@sat.t.u-tokyo.ac.jp
+
+Rule Value Reinforcement Learning for Cognitive Agents
+Chris Child and Kostas Stathis
+City University, London, UK
+{c.child, k.stathis}@city.ac.uk
+
+Learning Executable Agent Behaviors from Observation
+Andrew Guillory, Hai Nguyen, Tucker Balch, Charles Lee Isbell, Jr.
+College of Computing
+Georgia Institute of Technology
+Atlanta, GA 30332
+{guillory, haidai, tucker, isbell}@cc.gatech.edu
+
+Can Good Learners Always
+Compensate for Poor Learners?
+Keith Sullivan Liviu Panait Gabriel Balan Sean Luke
+{ksulliv, lpanait, gbalan, sean}@cs.gmu.edu
+Department of Computer Science, George Mason University
+4400 University Dr, MSN 4A5, Fairfax, VA 22030 USA
+
+Invited Talk
+Elastic Riemannian Frameworks and Statistical
+Tools for Shape Analysis
+Anuj Srivastava
+Departement of Statistics, Florida State University
+Tallahassee, FL 32306, USA
+anuj@stat.fsu.edu
+
+Improving Reinforcement Learning with Context Detection
+Bruno C. da Silva, Eduardo W. Basso, Filipo S. Perotto, Ana L.C. Bazzan, Paulo M.
+Engel
+Instituto de Informa´tica, UFRGS
+Caixal Postal 15064 CEP 91.501-970
+Porto Alegre, Brazil
+{bcs,ewbasso,fsperotto,bazzan,engel}@inf.ufrgs.br
+
+Gradient Field-Based Task Assignment
+in an AGV Transportation System
+∗
+Danny Weyns
+Katholieke Universiteit Leuven
+Celestijnenlaan 200A
+3001 Leuven, Belgium
+danny@cs.kuleuven.be
+Nelis Boucke´
+Katholieke Universiteit Leuven
+Celestijnenlaan 200A
+3001 Leuven, Belgium
+nelis@cs.kuleuven.be
+Tom Holvoet
+Katholieke Universiteit Leuven
+Celestijnenlaan 200A
+3001 Leuven, Belgium
+tom@cs.kuleuven.be
+
+Learning the Task Allocation Game ∗
+Sherief Abdallah† and Victor Lesser
+University of Massachusetts
+Amherst, MA
+{shario,lesser}@cs.umass.edu
+
+Continuous Refinement of Agent Resource Estimates
+David N. Morley Karen L. Myers Neil Yorke-Smith
+Artificial Intelligence Center, SRI International
+Menlo Park, CA 94025 U.S.A.
+{morley,myers,nysmith}@ai.sri.com
+
+How Equitable is Rational Negotiation?
+Sylvia Estivie1, Yann Chevaleyre1, Ulle Endriss2 and Nicolas Maudet1
+1LAMSADE, Universite´ Paris-Dauphine, France
+2ILLC, University of Amsterdam, The Netherlands
+1{estivie,chevaley,maudet}@lamsade.dauphine.fr, 2ulle@illc..uva.nl
+
+﻿Mathematical Programming for Deliberation Scheduling in
+Time-limited Domains
+∗
+Jianhui Wu
+EECS Department, University of Michigan
+Ann Arbor, MI 48109 USA
+jianhuiw@umich.edu
+Edmund H. Durfee
+EECS Department, University of Michigan
+Ann Arbor, MI 48109 USA
+durfee@umich.edu
+
+Optimal Decision-Making With Minimal Waste:
+Strategyproof Redistribution of VCG Payments
+Ruggiero Cavallo
+DEAS, Harvard University
+33 Oxford St.
+Cambridge, MA 02138
+cavallo@eecs.harvard.edu
+
+Single Spin Image-ICP matching
+for Efficient 3D Object Recognition
+Arvid Halma
+arvid.halma@tno.nl
+Frank ter Haar
+frank.terhaar@tno.nly
+Pieter Eendebak
+pieter.eendebak@tno.nl
+Adam van Eekeren
+adam.vaneekeren@tno.nly
+Ernst Bovenkamp
+ernst.bovenkamp@tno.nl
+ TNO Science and Industry, Delft, The Netherlands
+y TNO Defence, Security and Safety, The Hague, The Netherlands
+
+3D Face Landmark Labelling
+Nick Pears
+University of York
+Department of Computer Science
+York, U.K.
+nep@cs.york.ac.uk
+Clement Creusot
+University of York
+Department of Computer Science
+York, U.K.
+creusot@cs.york.ac.uk
+Jim Austin
+University of York
+Department of Computer Science
+York, U.K.
+austin@cs.york.ac.uk
+
+Local Visual Patch for 3D Shape Retrieval
+Hedi Tabia
+LAGIS FRE CNRS 3303
+University Lille 1, France
+Mohamed Daoudi
+LIFL UMR CNRS 8022
+Institut TELECOM, France
+Olivier Colot
+LAGIS FRE CNRS 3303
+University Lille 1, France
+Jean-Philippe
+Vandeborre
+LIFL UMR CNRS 8022
+Institut TELECOM, France
+
+Shape Comparison through Mutual Distances of Real
+Functions
+Silvia Biasotti
+Istituto di Matematica Applicata e Tecnologie Informatiche
+Consiglio Nazionale delle Ricerche
+Genova, Italy
+silvia@ge.imati.cnr.it
+
+Volumetric Heat Kernel Signatures
+Dan Raviv
+Dept. of Computer Science,
+Technion
+Haifa, Israel
+darav@cs.technion.ac.il
+Michael M. Bronstein
+Dept. of Computer Science,
+Technion
+Haifa, Israel
+mbron@cs.technion.ac.il
+Alexander M. Bronstein
+Dept. of Electrical
+Engineering, Tel-Aviv Univ.
+Tel-Aviv, Israel
+bron@eng.tau.ac.il
+Ron Kimmel
+Dept. of Computer Science,
+Technion
+Haifa, Israel
+ron@cs.technion.ac.il
+
+A Benchmark for Best View Selection of 3D Objects
+Helin Dutagaci, Chun Pan Cheung, Afzal Godil
+National Institute of Standards and Technology
+{helin, bcheung, godil}@nist.gov
+
+Incorporating Several Features in the Protein Ray
+Descriptor for More Accurate Protein 3D Structure
+Retrieval
+Georgina Mirceva
+Ss. Cyril and Methodius University, Faculty of Electrical
+Engineering and Information Technologies,
+Karpos 2 bb, P.O.Box 574, 1000 Skopje, Macedonia,
++389 2 3099 157
+georgina@feit.ukim.edu.mk
+Danco Davcev
+Ss. Cyril and Methodius University, Faculty of Electrical
+Engineering and Information Technologies,
+Karpos 2 bb, P.O.Box 574, 1000 Skopje, Macedonia,
++389 2 3099 155
+etfdav@feit.ukim.edu.mk
+
+Unique Shape Context for 3D Data Description
+Samuele Salti
+DEIS/ARCES
+University of Bologna
+Bologna, Italy
+samuele.salti@unibo.it
+Luigi Di Stefano
+DEIS/ARCES
+University of Bologna
+Bologna, Italy
+luigi.distefano@unibo.it
+Federico Tombari
+DEIS/ARCES
+University of Bologna
+Bologna, Italy
+federico.tombari@unibo.it
+
+Distance Metric Learning and Feature Combination
+for Shape-Based 3D Model Retrieval
+Ryutarou Ohbuchi
+University of Yamanashi
+4-3-11 Takeda, Kofu-shi
+Yamanashi-ken, 400-8511, Japan
+ohbuchiAT yamanashi.ac.jp
+Takahiko Furuya
+University of Yamanashi
+4-3-11 Takeda, Kofu-shi
+Yamanashi-ken, 400-8511, Japan
+snc49925AT gmail.com
+
+﻿Indexing of 3D Models
+Based on Graph of Surfacic Regions
+Michel Jordan
+ETIS, CNRS ENSEA
+Université Cergy-Pontoise
+F-95000 Cergy-Pontoise
+michel.jordan@u-cergy.fr
+Sylvie Philipp-Foliguet
+ETIS, CNRS ENSEA
+Université Cergy-Pontoise
+F-95000 Cergy-Pontoise
+sylvie.philipp@ensea.fr
+Matthias Fuzier
+ETIS, CNRS ENSEA
+Université Cergy-Pontoise
+F-95000 Cergy-Pontoise
+matthias.fuzier@ensea.fr
+Philippe-Henri Gosselin
+ETIS, CNRS ENSEA
+Université Cergy-Pontoise
+F-95000 Cergy-Pontoise
+gosselin@ensea.fr
+
+﻿Elastic Radial Curves to Model 3D Facial Deformations
+Hassen Drira
+LIFL (UMR USTL/CNRS 8022)
+Université de Lille 1, France.
+hassen.drira@lifl.fr
+Boulbaba ben Amor
+LIFL (UMR USTL/CNRS 8022)
+Institut TELECOM ;
+TELECOM Lille 1, France.
+boulbaba.benamor@telecom-
+lille1.eu
+Anuj Srivastava
+Departement of Statistics
+FSU, Tallahassee, FL
+32306,USA.
+asrivastava@fsu.edu
+Mohamed Daoudi
+LIFL (UMR USTL/CNRS 8022)
+Institut TELECOM ;
+TELECOM Lille 1, France.
+mohamed.daoudi@telecom-
+lille1.eu
+
+Recognition of 3D Faces with Missing Parts
+based on Profile Networks
+Stefano Berretti, Alberto Del Bimbo, and Pietro Pala
+Dipartimento di Sistemi e Informatica
+University of Firenze
+Firenze, Italy
+{berretti,delbimbo,pala}@dsi.unifi.it
+
+3D Shape Retrieval Based on Best View Selection
+Michela Mortara
+IMATI-CNR
+Via De Marini 6
+I-16149 Genova, Italy
+michela@ge.imati.cnr.it
+Michela Spagnuolo
+IMATI-CNR
+Via De Marini 6
+I-16149 Genova, Italy
+michi@ge.imati.cnr.it
+Daniela Giorgi
+IMATI-CNR
+Via De Marini 6
+I-16149 Genova, Italy
+daniela@ge.imati.cnr.it
+
+﻿Space-Time Visual Effects as a Post-Production Process
+Christian Linz
+Computer Graphics Lab
+TU Braunschweig, Germany
+linz@cg.cs.tu-bs.de
+Christian Lipski
+Computer Graphics Lab
+TU Braunschweig, Germany
+lipski@cg.cs.tu-bs.de
+Lorenz Rogge
+Computer Graphics Lab
+TU Braunschweig, Germany
+rogge@cg.cs.tu-bs.de
+Christian Theobalt
+Max Planck Institute Informatik
+Saarbrücken, Germany
+theobalt@mpii.de
+Marcus Magnor
+Computer Graphics Lab
+TU Braunschweig, Germany
+magnor@cg.cs.tu-bs.de
+
+Wide-Baseline Multi-View Video Segmentation for 3D
+Reconstruction
+Adrian Hilton
+University of Surrey, UK
+a.hilton@surrey.ac.uk
+Jean-Yves Guillemaut
+University of Surrey, UK
+j.guillemaut@surrey.ac.uk
+Muhammad Sarim
+University of Surrey, UK
+m.sarim@surrey.ac.uk
+Takeshi Takai
+University of Surrey, UK
+t.takai@surrey.ac.uk
+Hansung Kim
+University of Surrey, UK
+h.kim@surrey.ac.uk
+
+From Silhouettes to 3D Points to Mesh
+Towards Free Viewpoint Video
+Jordi Salvador, Xavier Suau and Josep R. Casas
+Image and Video Processing Group
+Technical University of Catalonia
+{jordi.salvador, xavier.suau, josep.ramon.casas}@upc.edu
+
+Novel View Synthesis for Stereoscopic Cinema: Detecting
+and Removing Artifacts ∗
+Frédéric Devernay
+INRIA Grenoble
+Rhone-Alpes, France
+frederic.devernay@inrialpes.fr
+Adrian Ramos Peon
+INRIA Grenoble
+Rhône-Alpes, France
+adrian.ramos-peon@inrialpes.fr
+
+3D Feature Extraction from Uncalibrated Video Clips
+Xiuwen Liu
+Department of Computer Science
+Florida State University
+Tallahassee, FL 32306
+liux@cs.fsu.edu
+Arturo Donate
+Department of Computer Science
+Florida State University
+Tallahassee, FL 32306
+donate@cs.fsu.edu
+
+Invited Talk
+Stereo in Post-Production
+Jonathan Starck
+The Foundry
+1 Wardour Street, London W1D 6PA, UK
++44 20 7434 0449
+jon.starck@thefoundry.co.uk
+
+A Novel Blind Watermarking Scheme for Depth-Image-
+Based Rendering 3D Images
+Yu-Hsun Lin2 and Ja-Ling Wu1,2
+National Taiwan University
+1Department of Computer Science and Information Engineering
+2Graduate Institute of Networking and Multimedia
+{lymanblue,wjl}@cmlab.csie.ntu.edu.tw
+
+OTESC: Online Transformation Estimation between Stereo
+Cameras
+André Redert
+Philips Research Europe
+Eindhoven, The Netherlands
+Andre.Redert@philips.com
+Emile A. Hendriks
+Delft University of Technology
+Department of Mediamatics
+Delft, The Netherlands
+E.A.Hendriks@tudelft.nl
+Tiemen Schreuder
+Delft University of Technology
+Department of Mediamatics
+Delft, The Netherlands
+tiemenschreuder@gmail.nl
+
+Multiple View Human Articulated Tracking using Charting
+and Particle Swarm Optimisation
+Emanuele Trucco
+University of Dundee
+School of Computing
+Dundee, United Kingdom
+manueltrucco@computing.dundee.ac.uk
+Vijay John
+University of Dundee
+School of Computing
+Dundee, United Kingdom
+vijayjohn@computing.dundee.ac.uk
+
+﻿Self-occlusion Handling for Human Body Motion Tracking
+from 3D ToF Image Sequence
+∗
+Daijin Kim†
+POSTECH, Department of Computer Science
+and Engineering
+San 31, Hyoja-Dong, Nam-Gu
+Pohang, South Korea
+dkim@postech.ac.kr
+Daehwan Kim
+POSTECH, Department of Computer Science
+and Engineering
+San 31, Hyoja-Dong, Nam-Gu
+Pohang, South Korea
+msoul98@postech.ac.kr
+
+Nonrigid Stereo Reconstruction Using Linear
+Programming
+Shuhan Shen
+Institute of Automation
+Chinese Academy of Sciences
+Beijing, China
+shshen@nlpr.ia.ac.cn
+Chenhao Wang
+Institute of Image Processing
+and Pattern Recognition
+Shanghai Jiao Tong University
+Shanghai, China
+wangchenhao@sjtu.edu.cn
+Yuncai Liu
+Institute of Image Processing
+and Pattern Recognition
+Shanghai Jiao Tong University
+Shanghai, China
+whomliu@sjtu.edu.cn
+
+A Joint Multi-View Plus Depth Image Coding Scheme
+Based on 3D-Warping
+Marco Zamarin§, Pietro Zanuttigh‡, Simone Milani‡,
+Guido M. Cortelazzo‡, Søren Forchhammer§
+§Technical University of Denmark, Department of Photonics Engineering, Denmark
+‡University of Padova, Department of Information Engineering, Italy
+{mzam,sofo}@fotonik.dtu.dk, {pietro.zanuttigh,simone.milani,corte}@dei.unipd.it
+
+Value-Based quality processes and results
+Keun Lee Barry Boehm
+Center for Software Engineering
+University of Southern California
+Los Angeles, CA 90089-0781
+{keunlee,boehm}@cse.usc.edu
+1
+
+ARIES: Refactoring Support Tool for Code Clone
+Yoshiki Higo1 Toshihiro Kamiya2 Shinji Kusumoto1 Katsuro Inoue1
+1Graduate School of Information Science and Technorogy, Osaka University
+2PRESTO, Japan Science and Technology Agency
++81(06)6850-6571
+{y-higo,kamiya,kusumoto,inoue}@ist.osaka-u.ac.jp
+53
+
+A Real Time Measure of Software System Families
+Andreas Speck
+Commercial Information Systems
+Faculty of Economics and
+Business Administration
+University of Jena
+Germany
+andreas.speck@uni-jena.de
+Bogdan Franczyk
+Information Systems Institute
+Faculty of Economics and
+Management
+University of Leipzig
+Germany
+franczyk@wifa.uni-leipzig.de
+Sebastian Kiebusch
+Information Systems Institute
+Faculty of Economics and
+Management
+University of Leipzig
+Germany
+kiebusch@wifa.uni-leipzig.de
+57
+
+An Empirical Assessment of Using Stereotypes to Improve Reading Techniques
+in Software Inspections
+Miroslaw Staron, Ludwik Kuzniarz, Christian Thurn
+Department of Systems and Software Engineering
+School of Engineering
+Blekinge Institute of Technology
+Box 520, Soft Center
+SE-372 25 Ronneby, Sweden
+(Miroslaw.Staron, Ludwik.Kuzniarz)@bth.se, Christian.Thurn@ipbolaget.com
+63
+

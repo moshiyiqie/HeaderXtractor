@@ -260,3 +260,7 @@ Yemen
 Yugoslavia
 Zambia
 Zimbabwe
+UK
+USA
+U.K
+U.S.A

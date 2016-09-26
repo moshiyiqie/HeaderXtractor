@@ -1,6 +1,6 @@
-Artifacts for Time-Aware Agents ∗ -><title>
+﻿Artifacts for Time-Aware Agents ∗ -><title>
 Emmanuel Druon -><author>
-ISEN 41 Bd Vauban -><address>
+ISEN 41 Bd Vauban -><affiliation>
 59046 Lille Cedex, France -><address>
 emmanuel.druon@isen.fr -><email>
 Ce´dric Dinont -><author>

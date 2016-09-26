@@ -106,13 +106,38 @@ def generateTrainFile(path = './resource/tagged_headers_everyline.txt'):
 		
 	fout.close()
 
+highFreqWordsCache=[]
+
+def getCiFeature(line, highFreqWordsCache):
+	feature = ''
+	lowerLine = line.lower()
+	for word in highFreqWordsCache:
+		if word in lowerLine:
+			feature += 'HAS_'+word+':YES '
+		else:
+			feature += 'HAS_'+word+':NO '
+	return feature
+
+#输入一行头部文本，输出该行crf++格式的特征
 def getOneLineFeatureStr(line):
+	global highFreqWordsCache
+	if len(highFreqWordsCache) == 0:
+		print '[Info: CRFFeature] Loading Keyword...'
+		lines = open('./resource/keyword.txt').readlines()
+		for fileline in lines:
+			if len(fileline.strip())==0 : continue
+			highFreqWordsCache.append(fileline.split(':::')[0].strip().lower())
+			if len(highFreqWordsCache) >= 500:
+				break
+		highFreqWordsCache = set(highFreqWordsCache)
+
 	text = line
 	featureDic={}
 	LineSpecific.updateForCRF(text[:], featureDic)
-	feature=''
+	feature = ''
+	#feature += getCiFeature(line, highFreqWordsCache)#添加关键词特征
 	for key in featureDic:
-		feature+=key + ':'
+		feature += key + ':'
 		if featureDic[key] >= 0.999:
 			feature += 'YES '
 		elif featureDic[key] >= 0.5:

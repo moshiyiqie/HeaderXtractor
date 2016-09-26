@@ -50,7 +50,7 @@ def getModelForRichTextFeatureFolder(pdfFolder='D:/acm_paper/TAO-TEST', goldFold
 	data = []
 	number = 0
 	for file in os.listdir(goldFolder):
-		#if file != '562.txt':
+		#if file != '562.txt' and file != '563.txt':
 		#	continue
 		print 'Generate ' + str(number) + ' files... filename: '+ file
 		pdfpath = os.path.join(pdfFolder, file.replace('.txt','.pdf'))
@@ -71,7 +71,7 @@ def getModelForRichTextFeatureFolder(pdfFolder='D:/acm_paper/TAO-TEST', goldFold
 ###选择一些特征，将其他未选择特征变为<other>
 def pickFeatures(frompath, outpath):
 	picked= ['<author>', '<title>', '<address>', '<email>', '<affiliation>']
-	lines = open(frompath).readlines();
+	lines = open(frompath).readlines()
 	result = []
 	for line in lines:
 		line = line.strip()
@@ -114,8 +114,7 @@ def extractHighFreqWord(goldFolder='./py_scikit/train_center/cleaned_line_cls'):
 	open('./py_scikit/tmp/wordfreq.txt','w').writelines(wordList)
 
 #查看误将cls1分类到cls2的文件名
-def lookWrongClassify(cls1, cls2):
-	path = 'D:/CRF++/train/nmodel/result.txt'
+def lookWrongClassify(cls1, cls2,path = 'D:/CRF++/train/nmodel/result.txt'):
 	lines = open(path).readlines()
 	for line in lines:
 		if len(line.strip()) == 0: continue
@@ -133,3 +132,5 @@ if __name__ == '__main__':
 	#pickFeatures('./CRF++/train/nmodel/ntest.txt','./CRF++/train/nmodel/ntest2.txt')
 	#extractHighFreqWord()
 	#pickFeatures('D:/CRF++/ntest-ok.txt', 'D:/CRF++/ntest-ok-o.txt')
+	#lookWrongClassify('address','author','D:/CRF++/result.txt')
+	getModelForRichTextFeatureFolder()

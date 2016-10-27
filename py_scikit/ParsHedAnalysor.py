@@ -4,9 +4,9 @@ import Config
 import sys
 os.chdir(Config.WORKSPACE)
 import JudgeResult
-##该类主要是分析ParsHed的头部预测结果性能
+#
 
-#生成测试文本（去除标注标签）
+#
 def analysisSelfData():
 	goldpath='./py_scikit/train_center/cleaned_line_cls'
 	text = []
@@ -23,7 +23,7 @@ def analysisSelfData():
 		text.append('\n')
 	open('./py_scikit/tmp/testtext.txt','w').writelines(text)
 
-#抓出Parscit的结果标签
+#
 def outputParscitResult():
 	crfoutpath = './py_scikit/tmp/crfout'
 	goldpath='./py_scikit/train_center/cleaned_line_cls'
@@ -47,7 +47,7 @@ def outputParscitResult():
 		for line in lines:
 			line = line.strip()
 			if len(line)==0: continue
-			if line[0] == '#': continue #ParsCit会自动略去#开头的行
+			if line[0] == '#': continue #ParsCit禄谩脳脭露炉脗脭脠楼#驴陋脥路碌脛脨脨
 			l = line.split('->')
 			out.append([l[0].strip(), l[1].strip()])
 	
@@ -68,6 +68,49 @@ def outputParscitResult():
 	resultPath = './py_scikit/tmp/parcit-result.txt'
 	open(resultPath,'w').writelines(out)
 	JudgeResult.judgeAndOutputCSV(resultPath, Config.PYTMP + '/out.csv')
+
+#
+#
+#
+#
+def transformCrfFileFromParscit(crfFilePath, tagsFilePath, outputPath = './py_scikit/tmp/transformed.txt'):
+	tags = open(tagsFilePath).readlines()
+	tmp = []
+	for i in range(len(tags)):
+		x = tags[i]
+		if len(x.strip())!=0: 
+			x = [x.split()[0].strip(), x.split()[-1].strip()]
+			x = ['|||'.join(x[0].replace('|||',' ').split()), x[1]]
+			tags[i] = x
+		else: tags[i] = ['','']
+	
+
+
+	crfFile = open(crfFilePath).readlines()
+	tl = 0
+	outputCrf = []
+	for line in tags:
+		if len(line[0].strip())==0:
+			outputCrf.append('\n')
+		else:
+			if tl == len(crfFile):
+				print 'Error: size not same!'
+			curtxt = crfFile[tl].split()[0].strip()
+			curtxt = '|||'.join(curtxt.replace('|||',' ').split())
+			if line[0] != curtxt:
+				print line[0]
+				print crfFile[tl].split()[0].strip()
+				print 'Error: not same!'
+			outputCrf.append('\t'.join(crfFile[tl].split()[:-1]) + '\t' + line[1] + '\n')
+			tl+=1
+	open(outputPath,'w').writelines(outputCrf)
+	#print tl
+	#print len(crfFile)
+	#assert(tl == len(crfFile))
+
 if __name__ == '__main__':
 	#analysisSelfData()
-	outputParscitResult()
+	#outputParscitResult()
+	
+	#transformCrfFileFromParscit('./py_scikit/tmp/ParsHed-test/crf_train_text_crftype',
+	#	'./py_scikit/tmp/ParsHed-test/crf_train-pub.txt')

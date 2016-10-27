@@ -54,7 +54,8 @@ def generateTrainFile(path = './resource/tagged_headers_everyline.txt'):
 	
 	
 	lines = open(path).readlines()
-	fout = open('./CRF++/train/crf_train.txt','w')
+	fout = open('./py_scikit/tmp/crf_train-pub.txt','w')
+	#textout = open('./py_scikit/tmp/crf_train_text.txt','w')#输出不带标签的文本
 	paperno=0
 	for line in lines:
 		line = line.strip()
@@ -62,64 +63,28 @@ def generateTrainFile(path = './resource/tagged_headers_everyline.txt'):
 		text = line.split('::line_number::')[0]
 		if lineno == '0':
 			print "Generating page:"+str(paperno)
-			if paperno == 800:
+			if paperno == 700:
 				fout.close()
-				fout = open('./CRF++/train/crf_test.txt','w')
-			fout.write('\n')
+				fout = open('./py_scikit/tmp/crf_test-pub.txt','w')
+				#textout = open('./py_scikit/tmp/crf_test_text.txt','w')
+			#fout.write('\n')
+			#textout.write('\n')
 			paperno+=1
 		label = re.findall(r'<\w+>', text)[0]
 		text = re.sub(r'</?\w+>','', text).strip()
 		if len(text) == 0: continue
-		featureDic={}
-		#print text,lineno,label
-		LineSpecific.updateForCRF(text[:], featureDic)
-		feature=''
-		for key in featureDic:
-			feature+=key + ':'
-			if featureDic[key] >= 0.999:
-				feature += 'YES '
-			elif featureDic[key] >= 0.5:
-				feature += 'HIGH '
-			elif featureDic[key] <= 0.001:
-				feature += 'NO '
-			else:
-				feature += 'MID '
 		
-		wordDic={}
-		for word in text.split():
-			WordSpecific.updateWordSpecificVector(word, wordDic)
-		for key in wordDic:
-			wordDic[key] = wordDic[key]*1.0/len(text.split())
-			#feature += key + ':' + str(wordDic[key]*1.0/len(text.split())) + ' '
-		for key in wordDic:
-			feature+=key + ':'
-			if wordDic[key] >= 0.999:
-				feature += 'YES '
-			elif wordDic[key] >= 0.5:
-				feature += 'HIGH '
-			elif wordDic[key] <= 0.001:
-				feature += 'NO '
-			else:
-				feature += 'MID '
+		feature = getOneLineFeatureStr(text[:],True)
 		
 		fout.write(' '.join([text.replace(' ','|||'), feature, lineno, label]) + '\n')
+		#textout.write(text + '\n')
 		
 	fout.close()
+	#textout.close()
 
 highFreqWordsCache=[]
 
-def getCiFeature(line, highFreqWordsCache):
-	feature = ''
-	lowerLine = line.lower()
-	for word in highFreqWordsCache:
-		if word in lowerLine:
-			feature += 'HAS_'+word+':YES '
-		else:
-			feature += 'HAS_'+word+':NO '
-	return feature
-
-#输入一行头部文本，输出该行crf++格式的特征
-def getOneLineFeatureStr(line):
+def getCiFeature(line):
 	global highFreqWordsCache
 	if len(highFreqWordsCache) == 0:
 		print '[Info: CRFFeature] Loading Keyword...'
@@ -130,12 +95,24 @@ def getOneLineFeatureStr(line):
 			if len(highFreqWordsCache) >= 500:
 				break
 		highFreqWordsCache = set(highFreqWordsCache)
+	feature = ''
+	lowerLine = line.lower()
+	for word in highFreqWordsCache:
+		if word in lowerLine:
+			feature += 'HAS_'+word+':YES '
+		else:
+			feature += 'HAS_'+word+':NO '
+	return feature
+
+#输入一行头部文本，输出该行crf++格式的特征
+def getOneLineFeatureStr(line, addCiFeature=False):
 
 	text = line
 	featureDic={}
 	LineSpecific.updateForCRF(text[:], featureDic)
 	feature = ''
-	#feature += getCiFeature(line, highFreqWordsCache)#添加关键词特征
+	if addCiFeature==True: 
+		feature += getCiFeature(line)#添加关键词特征
 	for key in featureDic:
 		feature += key + ':'
 		if featureDic[key] >= 0.999:
@@ -147,6 +124,12 @@ def getOneLineFeatureStr(line):
 		else:
 			feature += 'MID '
 	
+	notBoxFeature={}
+	LineSpecific.updateLineSpecificVectorNotBox(text[:], notBoxFeature)
+	for key in notBoxFeature:
+		feature += key + ':' + notBoxFeature[key] + ' '
+
+
 	wordDic={}
 	#for word in text.split():
 	WordSpecific.updateWordSpecificVectorOneLine(text[:], wordDic)
@@ -163,6 +146,8 @@ def getOneLineFeatureStr(line):
 			feature += 'NO '
 		else:
 			feature += 'MID '
+	#if  len([i for i, ltr in enumerate(feature) if ltr == ':']) != 148:
+		#print '[Feature Size Error]:', line
 	return feature
 
 #对于输入的头部生成crf测试文件-不带富文本信息
@@ -225,5 +210,4 @@ def generateCrfFileFromHeaderTextWithRichInfo(header, fonts, sizes, label, ypos)
 	return data
 
 if __name__ == '__main__':
-	#generateTrainFile()
-	a=1
+	generateTrainFile()

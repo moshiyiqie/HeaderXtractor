@@ -9,7 +9,7 @@ import pickle
 import GenerateCRF
 import GenerateVectorMulLines_everyline
 import Data
-from sklearn.datasets import load_svmlight_file
+#from sklearn.datasets import load_svmlight_file
 import PdfMiner
 import RuleEngine
 import StringManager
@@ -147,7 +147,7 @@ def preProcedure(pdfpath, needLabel = True):
 	
 	#规则修正
 	label = RuleEngine.fixForAt(header, label)
-	label = RuleEngine.fixByStanfordNER(header, label)#利用stanford ner来进行机构、地址、作者的修正
+	#label = RuleEngine.fixByStanfordNER(header, label)#利用stanford ner来进行机构、地址、作者的修正
 	label = RuleEngine.fixForContainUniversity(header, label)
 	label = RuleEngine.fixForCheckIfNoAuthor(header, label)
 	label = RuleEngine.fixForCheckIfNoTitle(header, label)
@@ -193,9 +193,11 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 		#authorInfo = handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliationsLine, address,addressLine)#针对无角标的pdf输出
 		authorInfo = BlockManager.matchInBlocks(label)
 	
+	for author in authorInfo:
+		print author.toString()
+
 	return title, authorInfo, header, label
-	#for author in authorInfo:
-	#	print author.toString()
+	
 	
 if __name__ == '__main__':
 	#vec = pickle.load(open(r'./resource/xlhh.pickle'))

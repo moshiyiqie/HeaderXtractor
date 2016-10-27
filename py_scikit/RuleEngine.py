@@ -3,7 +3,7 @@ import os
 import Config
 import sys
 os.chdir(Config.WORKSPACE)
-import StanfordNER
+#import StanfordNER
 
 def fixForSameSizeSameLabel(header, fonts, sizes, label):
 	newLabel = label[:]

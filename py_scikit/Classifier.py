@@ -2,19 +2,19 @@
 import os
 import Config
 os.chdir(Config.WORKSPACE)
-from sklearn.datasets import load_svmlight_file
+#from sklearn.datasets import load_svmlight_file
 import pickle
 import numpy as np
-from sklearn.svm import SVC
-from sklearn.svm import NuSVC
-from sklearn.svm import LinearSVC
-from sklearn.metrics import classification_report
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import f1_score
-from sklearn import tree
-from sklearn.ensemble import AdaBoostClassifier
-from sklearn.ensemble import BaggingClassifier
-from sklearn.ensemble import ExtraTreesClassifier
+#from sklearn.svm import SVC
+#from sklearn.svm import NuSVC
+#from sklearn.svm import LinearSVC
+#from sklearn.metrics import classification_report
+#from sklearn.metrics import confusion_matrix
+#from sklearn.metrics import f1_score
+#from sklearn import tree
+#from sklearn.ensemble import AdaBoostClassifier
+#from sklearn.ensemble import BaggingClassifier
+#from sklearn.ensemble import ExtraTreesClassifier
 import Data
 import random
 #X_trian, y_train = load_svmlight_file('./resource/向量化后_带上下文信息_everyline.svmdata')

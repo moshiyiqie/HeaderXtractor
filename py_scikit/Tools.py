@@ -23,3 +23,16 @@ def reArrangeByIdxList(olist, sortedIdxList):
 	for idx in sortedIdxList:
 		nlist.append(olist[idx])
 	return nlist
+
+def mergeAllTextBelowOneFolder(folderPath,outputPath):
+	output=[]
+	for file in os.listdir(folderPath):
+		lines = open(os.path.join(folderPath, file)).readlines()
+		output += lines
+		output.append('\n')
+	open(outputPath,'w').writelines(output)
+
+if __name__ == '__main__':
+	mergeAllTextBelowOneFolder('./py_scikit/train_center/cleaned_line_cls','./py_scikit/train_center/cleaned_lines.txt')
+
+

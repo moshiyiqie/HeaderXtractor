@@ -8,6 +8,7 @@ sys.path.append(r'./pythonsrc')
 import GenerateCRF
 import codecs
 import pickle
+import Tools
 ###该类主要用于将抽取成功的样例pdf变为训练集不断地循环训练，负责改进分类器
 def getPDFLineClassificationResult(pdfFolder, resultFolder):
 	for file in os.listdir(pdfFolder):
@@ -126,11 +127,38 @@ def lookWrongClassify(cls1, cls2,path = 'D:/CRF++/train/nmodel/result.txt'):
 		if cls1 in origin and cls2 in judge:
 			print 'Error in ', cur
 			#print line[-50:]
+
+#将tagged_headers_everyline分为训练集和测试集-针对tensorflow训练
+def splitTrainSet():
+	path = './resource/tagged_headers_everyline.txt'
+	lines = open(path).readlines()
+	nl = []
+	tmp = []
+	for line in lines:
+		if line.strip().endswith('::line_number::0'):
+			tmp.append('\n')
+			nl.append(tmp)
+			tmp = [line]
+		else:
+			tmp.append(line)
+	if len(tmp)>0:
+		tmp.append('\n')
+		nl.append(tmp)
+
+	print 'len(nl) = ',len(nl)
+	open('./py_scikit/tmp/train.in','w').writelines(Tools.flatList(nl[:600]))
+	open('./py_scikit/tmp/testa.in','w').writelines(Tools.flatList(nl[600:750]))
+	open('./py_scikit/tmp/testb.in','w').writelines(Tools.flatList(nl[750:]))
+
 if __name__ == '__main__':
 	#getPDFLineClassificationResult('D:/acm_paper/TAO-TEST', './py_scikit/train_center/line_cls_result/')
+	getPDFLineClassificationResult('D:/acm_paper/5000paper', './py_scikit/train_center/5000_line_cls/')
 	#getModelForRichTextFeatureFolder()
 	#pickFeatures('./CRF++/train/nmodel/ntest.txt','./CRF++/train/nmodel/ntest2.txt')
 	#extractHighFreqWord()
 	#pickFeatures('D:/CRF++/ntest-ok.txt', 'D:/CRF++/ntest-ok-o.txt')
 	#lookWrongClassify('address','author','D:/CRF++/result.txt')
-	getModelForRichTextFeatureFolder()
+	
+	#getModelForRichTextFeatureFolder()
+	
+	#splitTrainSet()

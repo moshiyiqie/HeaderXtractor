@@ -168,10 +168,22 @@ def containLR(line):
 #是否包含at
 def containAt(line):
 	return '@' in line
-	
-
+#词数
+def wordNum(line):
+	num=0
+	for word in line.split():
+		num+=1
+	return str(num)
+#逗号数
+def commaNum(line):
+	num=0
+	for ch in line:
+		if ch==',':
+			num+=1
+	return str(num)
+def containKey_Word(line):
+	return 'true' if 'key word' in line.lower() else 'false'
 #CRFneed
-	
 	
 #flist = [dictWordNumPer, nonDictWordNumPer, cap1DicWordNumPer,
 #		cap1NonDicWordNumPer, digitNumPer, affiNumPer, addrNumPer, 
@@ -180,11 +192,19 @@ def containAt(line):
 flist = [dictWordNumPer, nonDictWordNumPer, cap1DicWordNumPer,
 		cap1NonDicWordNumPer, digitNumPer, affiNumPer, addrNumPer, 
 		dateNumPer, degreeNumPer, phoneNumPer, pubNumPer, noteNumPer,singleDigitNumPer]
+NotBoxFeature=[wordNum,commaNum,containKey_Word]
+#对特征数值进行装箱离散
 def updateLineSpecificVector(line,vector):
 	for fun in flist:
 		if not vector.has_key(fun.__name__):
 			vector[fun.__name__]=0
 		vector[fun.__name__] += float(fun(line))
+#不对特征数值进行装箱，直接显示其内容
+def updateLineSpecificVectorNotBox(line,vector):
+	for fun in NotBoxFeature:
+		if not vector.has_key(fun.__name__):
+			vector[fun.__name__] = ''
+		vector[fun.__name__] = fun(line)
 
 #CRF的特征选择
 pickedFeature_CRF = [cap1NumPer, capAllNumPer, containDigit, allDigit, phoneNumPer, 

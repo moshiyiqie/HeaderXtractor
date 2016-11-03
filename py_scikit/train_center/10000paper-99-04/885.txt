@@ -1,0 +1,7 @@
+Automatic and User-Assisted Test Generation: -><title>
+A Rough Set Approach -><title>
+Theresa Beaubouef -><author>
+Department ofComputer Science -><affiliation>
+Southeastern Louisiana University -><affiliation>
+Hammond, LA 70402 -><address>
+Email: tbeaubouef@selu.edu -><email>

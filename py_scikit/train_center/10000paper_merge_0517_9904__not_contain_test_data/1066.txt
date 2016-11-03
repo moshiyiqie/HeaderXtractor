@@ -1,0 +1,6 @@
+Theoretical Considerations of Potential-Based Reward -><title>
+Shaping for Multi-Agent Systems -><title>
+Sam Devlin -><author>
+University of York, UK -><affiliation>
+Daniel Kudenko -><author>
+University of York, UK -><affiliation>

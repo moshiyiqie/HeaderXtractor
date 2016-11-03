@@ -1,0 +1,11 @@
+A Framework for the Effective Adoption of -><title>
+Software Development Methodologies -><title>
+Fleming Woo, Romas Mikusauskas, Dean Bartlett, Rob Law -><author>
+The Hong Kong Polytechnic University -><affiliation>
+Hung Hom, Kowloon, Hong Kong -><address>
+{+852 2766 4565, +852 2766 6349} -><phone>
+{itfwoo, hmroblaw}@polyu.edu.hk -><email>
+London Metropolitan University -><affiliation>
+London, England -><address>
+{+44 20 7973 4822, +44 (0) 20 7133 3215} -><phone>
+{r.mikusauskas, d.bartlett}@londonmet.ac.uk -><email>

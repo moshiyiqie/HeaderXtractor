@@ -1,0 +1,6 @@
+Controlling Teams of Uninhabited Air Vehicles -><title>
+Jeremy W. Baxter and Graham S. Horn -><author>
+QinetiQ Limited -><affiliation>
+Malvern Technology Centre -><affiliation>
+St Andrews Road, Malvern, WR14 3PS, UK -><address>
+{jwbaxter, ghorn}@QinetiQ.com -><email>

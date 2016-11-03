@@ -1,0 +1,20 @@
+A Privacy-protecting Proxy Signature Scheme and Its -><title>
+Application -><title>
+Jia-Zhu Dai -><author>
+Jin-Xiang Dong -><author>
+Xiao-Hu Yang -><author>
+College of Computer -><affiliation>
+Science and Engineering -><affiliation>
+College of Computer Science -><affiliation>
+and Engineering -><affiliation>
+College of Computer -><affiliation>
+Science and Engineering -><affiliation>
+Zhejiang University -><affiliation>
+Zhejiang University -><affiliation>
+Zhejiang University -><affiliation>
+Hangzhou,P.R.China -><address>
+Hangzhou,P.R.China -><address>
+Hangzhou,P.R.China -><address>
+daijz@zju.edu.cn -><email>
+yangxh@zju.edu.cn -><email>
+djx@zju.edu.cn -><email>

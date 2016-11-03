@@ -1,0 +1,9 @@
+SimSensei Kiosk: A Virtual Human Interviewer for -><title>
+Healthcare Decision Support -><title>
+David DeVault∗ , Ron Artstein, Grace Benn, Teresa Dey, Ed Fast, Alesia Gainer, -><author>
+Kallirroi Georgila, Jon Gratch, Arno Hartholt, Margaux Lhommet, Gale Lucas, -><author>
+Stacy Marsella, Fabrizio Morbini, Angela Nazarian, Stefan Scherer, Giota Stratou, -><author>
+Apar Suri, David Traum, Rachel Wood, Yuyu Xu, Albert Rizzo† , -><author>
+Louis-Philippe Morency† -><author>
+USC Institute for Creative Technologies, 12015 Waterfront Dr., Playa Vista, CA 90094, USA -><affiliation>
+http://simsensei.ict.usc.edu/ -><web>

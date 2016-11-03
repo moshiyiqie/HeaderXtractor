@@ -1,0 +1,9 @@
+A Low Complexity Algorithm for Dynamic -><title>
+Scheduling of Independent Tasks onto -><title>
+Heterogeneous Computing Systems -><title>
+Prashanth C SaiRanga Sanjeev Baskiyar, PhD -><author>
+Department of CSSE Department of CSSE -><affiliation>
+Auburn University Auburn University -><affiliation>
+Auburn, AL 36849 Auburn, AL 36849 -><address>
+334-359-8853 334-844-6306 -><phone>
+sairang@auburn.edu baskiyar@eng.auburn.edu -><email>

@@ -1,0 +1,18 @@
+How Agents Can Help Curbing Fuel Combustion -><title>
+– a Performance Study of Intersection Control -><title>
+for Fuel-Operated Vehicles∗ -><title>
+Klemens Böhm -><author>
+Karlsruhe Institute of -><affiliation>
+Technology (KIT) -><affiliation>
+Karlsruhe, Germany -><address>
+klemens.boehm@kit.edu -><email>
+Heiko Schepperle -><author>
+Karlsruhe Institute of -><affiliation>
+Technology (KIT) -><affiliation>
+Karlsruhe, Germany -><address>
+heiko@schepperle.de -><email>
+Natalja Pulter -><affiliation>
+FZI Forschungszentrum -><address>
+Informatik -><address>
+Karlsruhe, Germany -><address>
+pulter@fzi.de -><email>

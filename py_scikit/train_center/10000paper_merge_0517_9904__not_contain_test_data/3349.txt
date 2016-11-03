@@ -1,0 +1,5 @@
+A Comparative Analysis of Results on Programming Exams -><title>
+James Harland, Daryl D’Souza and Margaret Hamilton -><author>
+School of Computer Science and IT, RMIT University -><affiliation>
+GPO Box 2476, Melbourne, 3001, Australia -><address>
+{james.harland,daryl.dsouza,margaret.hamilton}@rmit.edu.au -><email>

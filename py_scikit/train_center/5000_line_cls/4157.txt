@@ -1,0 +1,11 @@
+The BRACElet 2009.1 (Wellington) Specification -><title>
+Raymond Lister -><author>
+Faculty of Engineering and Information Technology -><affiliation>
+University of Technology, Sydney -><affiliation>
+NSW 2007, Australia -><address>
+raymond@it.uts.edu.au -><email>
+Jacqueline L. Whalley -><author>
+Computing and Mathematical Sciences -><affiliation>
+Auckland University of Technology -><affiliation>
+Auckland 1020, New Zealand -><address>
+jacqueline.whalley@aut.ac.nz -><email>

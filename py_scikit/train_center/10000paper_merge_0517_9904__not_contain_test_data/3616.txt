@@ -1,0 +1,20 @@
+Pramukh Karla -><title>
+Texas A&M University- -><affiliation>
+Varadraj Gurupur -><author>
+Texas A&M University- -><affiliation>
+Location Proofing using Identity Based Encryption and the -><affiliation>
+Google Cloud on the Mobile Applications -><affiliation>
+Vikhyath Marapadaga -><affiliation>
+North Carolina State University -><address>
+2520, Aventferry Rd, Apt #204, -><address>
+Raleigh, NC, 27606 -><address>
+1-718-290-6069 -><phone>
+vmarapa@ncsu.edu -><email>
+P O Box -><affiliation>
+1807, Mayo St, Apt #2, Commerce, TX -><address>
+75428 -><pubnum>
+1-903-886-5419 -><pubnum>
+1-862-222-2842 -><pubnum>
+varadraj_gurupur@tamu- -><email>
+commerce.edu -><web>
+pkarla@leo.tamu-commerce.edu -><email>

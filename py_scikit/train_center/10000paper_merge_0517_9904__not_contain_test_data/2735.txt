@@ -1,0 +1,5 @@
+How a Disparity in Text Input Speed Affects -><title>
+the Quality of Interaction in Chat -><title>
+University of Tampere -><author>
+Kanslerinrinne 1, 33014, Tampere, Finland -><address>
+{deepak.akkil, johannes.pitkanen, paavo.virta, saila.ovaska}@uta.fi -><email>

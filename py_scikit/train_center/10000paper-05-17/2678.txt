@@ -1,0 +1,29 @@
+A Multi-Agent Platform for Automating the Collection of -><title>
+Patient-Provided Clinical Feedback -><title>
+∗ -><title>
+Zina M. Ibrahim -><author>
+King’s College London -><affiliation>
+London, UK -><address>
+zina.ibrahim@kcl.ac.uk -><email>
+Argyris Stringaris -><email>
+King’s College London -><affiliation>
+London, UK -><address>
+argyris.stringaris@kcl.ac.uk -><email>
+Lorena Fernández de la -><author>
+Cruz -><author>
+Karolinska Institutet -><affiliation>
+Stockholm, Sweden -><address>
+lorena.fernandez.de.la.cruz -><email>
+@ki.se -><email>
+Robert Goodman -><author>
+King’s College London -><affiliation>
+London, UK -><address>
+robert.goodman@kcl.ac.uk -><email>
+Michael Luck -><author>
+King’s College London -><affiliation>
+London, UK -><address>
+michael.luck@kcl.ac.uk -><email>
+Richard J.B. Dobson -><author>
+King’s College London -><affiliation>
+London, UK -><address>
+richard.j.dobson@kcl.ac.uk -><email>

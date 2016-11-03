@@ -1,0 +1,12 @@
+Automated -><title>
+Autonomous -><title>
+Maja -><author>
+Odest -><author>
+cjenkins@usc.edu -><email>
+mataric@usc.edu -><email>
+Interaction -><author>
+Center -><affiliation>
+Department -><affiliation>
+University -><affiliation>
+941 -><date>
+Los -><unknow>

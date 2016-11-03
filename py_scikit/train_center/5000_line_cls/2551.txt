@@ -1,0 +1,14 @@
+Addressing Hard Constraints in the Air Traffic Problem -><title>
+through Partitioning and Difference Rewards -><title>
+Kagan Tumer -><author>
+Oregon State University -><affiliation>
+Corvallis, Oregon -><address>
+kagan.tumer@oregonstate.edu -><email>
+William Curran -><author>
+Oregon State University -><affiliation>
+Corvallis, Oregon -><address>
+curranw@onid.orst.edu -><email>
+Adrian Agogino -><author>
+NASA Ames Research Center -><affiliation>
+Moffet Field, California -><address>
+adrian.k.agogino@nasa.gov -><email>

@@ -1,0 +1,8 @@
+Designing an Automated Negotiator: -><title>
+Learning What to Bid and When to Stop -><title>
+(Doctoral Consortium) -><title>
+Tim Baarslag -><author>
+Interactive Intelligence Group -><affiliation>
+Delft University of Technology -><affiliation>
+Mekelweg 4, Delft, The Netherlands -><address>
+T.Baarslag@tudelft.nl -><email>

@@ -1,0 +1,12 @@
+Reputation and Social Network Analysis -><title>
+in Multi-Agent Systems -><title>
+Jordi Sabater -><author>
+IIIA - Artificial Intelligence Research Institute -><affiliation>
+CSIC - Spanish Scientific Research Council -><affiliation>
+Bellaterra, Catalonia, Spain -><address>
+jsabater@iiia.csic.es -><email>
+Carles Sierra -><author>
+IIIA - Artificial Intelligence Research Institute -><affiliation>
+CSIC - Spanish Scientific Research Council -><affiliation>
+Bellaterra, Catalonia, Spain -><address>
+sierra@iiia.csic.es -><email>

@@ -1,0 +1,6 @@
+RDS: Remote Distributed Scheme for Protecting Mobile Agents -><title>
+Asnat Dadon-Elichai -><author>
+Department of Computer Science -><affiliation>
+Ben-Gurion University -><affiliation>
+Beer-Sheva, Israel -><address>
+asnate@bgumail.bgu.ac.il -><email>

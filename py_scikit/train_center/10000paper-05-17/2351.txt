@@ -1,0 +1,16 @@
+Capability Models and Their Applications in Planning -><title>
+Sarath Sreedharan -><author>
+Dept. of Computer Science -><affiliation>
+Arizona State University -><affiliation>
+Tempe, AZ -><address>
+ssreedh3@asu.edu -><email>
+Yu Zhang -><author>
+Dept. of Computer Science -><affiliation>
+Arizona State University -><affiliation>
+Tempe, AZ -><address>
+yzhan442@asu.edu -><email>
+Subbarao Kambhampati -><author>
+Dept. of Computer Science -><affiliation>
+Arizona State University -><affiliation>
+Tempe, AZ -><address>
+rao@asu.edu -><email>

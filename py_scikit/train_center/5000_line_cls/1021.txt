@@ -1,10 +1,11 @@
-An Empirical Assessment of Using Stereotypes to Improve Reading Techniques -><abstract>
-in Software Inspections -><abstract>
-Miroslaw Staron, Ludwik Kuzniarz, Christian Thurn -><abstract>
-Department of Systems and Software Engineering -><abstract>
-School of Engineering -><abstract>
-Blekinge Institute of Technology -><affiliation>
-Box 520, Soft Center -><abstract>
-SE-372 25 Ronneby, Sweden -><abstract>
-(Miroslaw.Staron, Ludwik.Kuzniarz)@bth.se, Christian.Thurn@ipbolaget.com -><email>
-63 -><abstract>
+A Decentralized Bargaining Protocol on Dependent -><title>
+Continuous Multi-Issue for Approximate Pareto Optimal -><title>
+Outcomes -><title>
+Francesco Amigoni -><author>
+Dipartimento di Elettronica e Informazione -><affiliation>
+Politecnico di Milano, Milano, Italy -><address>
+amigoni@elet.polimi.it -><email>
+Nicola Gatti -><author>
+Dipartimento di Elettronica e Informazione -><affiliation>
+Politecnico di Milano, Milano, Italy -><address>
+ngatti@elet.polimi.it -><email>

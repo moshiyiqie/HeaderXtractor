@@ -1,0 +1,9 @@
+On the Communication Complexity of Multilateral Trading -><title>
+Nicolas Maudet -><author>
+LAMSADE -><affiliation>
+Universite´ Paris-Dauphine -><affiliation>
+maudet@lamsade.dauphine.fr -><email>
+Ulle Endriss -><author>
+Department of Computing -><affiliation>
+Imperial College London -><affiliation>
+ue@doc.ic.ac.uk -><email>

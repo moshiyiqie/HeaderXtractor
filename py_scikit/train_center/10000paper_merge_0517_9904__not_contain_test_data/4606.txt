@@ -1,0 +1,14 @@
+Visual Summarisation of Text for Surveillance and -><title>
+Situational Awareness in Hospitals -><title>
+Leif Hanlen -><author>
+NICTA, The Australian National University, and -><affiliation>
+University of Canberra -><affiliation>
+Locked Bag 8001 -><address>
+Canberra, ACT 2601, Australia -><address>
+firstname.lastname@nicta.com.au -><email>
+Hanna Suominen -><author>
+NICTA, The Australian National University, and -><affiliation>
+University of Canberra -><affiliation>
+Locked Bag 8001 -><address>
+Canberra, ACT 2601, Australia -><address>
+firstname.lastname@nicta.com.au -><email>

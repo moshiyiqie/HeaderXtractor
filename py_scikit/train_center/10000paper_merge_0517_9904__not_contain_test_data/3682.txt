@@ -1,0 +1,22 @@
+A Simulation Model of IS Security -><title>
+D. FRINCKE -><title>
+Pacific Northwest National -><affiliation>
+Lab -><affiliation>
+MARK ROUNDS -><author>
+College of Business and -><affiliation>
+Economics -><author>
+University of Idaho -><affiliation>
+Moscow, ID 83844-3161 -><address>
+208-885-4199 -><phone>
+mrounds@uidaho.edu -><email>
+NORMAN PENDEGRAFT -><author>
+College of Business and -><affiliation>
+Economics -><affiliation>
+University of Idaho -><affiliation>
+Moscow, ID 83844-3161 -><address>
+208-885-7157 -><phone>
+norman@uidaho.edu -><email>
+University of Idaho -><affiliation>
+Moscow, ID 83844-3161 -><address>
+208-885-4114 -><phone>
+deborah.frincke@pnl.gov -><email>

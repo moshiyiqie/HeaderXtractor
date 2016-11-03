@@ -1,0 +1,14 @@
+An Efficient Access Control Model for -><title>
+Schema-Based Relational Storage of XML Documents -><title>
+Jigishaben Patel -><author>
+Dept. of Computer Science -><affiliation>
+Winston-Salem State University -><affiliation>
+Winston-Salem, NC 27110 USA -><address>
+1-336-750-2480 -><phone>
+jpatel109@wssu.edu -><email>
+Mustafa Atay -><author>
+Dept. of Computer Science -><affiliation>
+Winston-Salem State University -><affiliation>
+Winston-Salem, NC 27110 USA -><address>
+1-336-750-8641 -><phone>
+ataymu@wssu.edu -><email>

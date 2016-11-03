@@ -1,0 +1,22 @@
+Validation of an Agent Based System Using Petri Nets -><title>
+Thomas Moncion -><author>
+Laboratoire de Méthodes -><affiliation>
+Informatiques -><unknow>
+Tour Evry 2 523 Place des -><title>
+terrasses de l’agora -><author>
+91000 Evry Cedex France -><author>
+Patrick Amar -><note>
+Laboratoire de Recherche en -><affiliation>
+Informatique -><author>
+Bât 490 Université Paris-Sud -><affiliation>
+91405 Orsay Cedex France -><address>
+pa@lri.fr -><email>
+Guillaume Hutzler -><author>
+Laboratoire de Méthodes -><affiliation>
+Informatiques -><unknow>
+Tour Evry 2 523 Place des -><title>
+terrasses de l’agora -><author>
+91000 Evry Cedex France -><affiliation>
+hutzler@lami.univ-evry.fr -><email>
+tmoncion@lami.univ- -><email>
+evry.fr -><email>

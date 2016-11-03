@@ -1,0 +1,20 @@
+A Tool for Defining Agent Protocols in HAPN -><title>
+(Demonstration) -><title>
+Michael Winikoff -><author>
+Department of Information -><affiliation>
+Science -><affiliation>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+michael.winikoff@otago.ac.nz -><email>
+Lin Padgham -><author>
+School of Computer Science -><affiliation>
+and I.T. -><address>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+lin.padgham@rmit.edu.au -><email>
+Nitin Yadav -><email>
+School of Computer Science -><affiliation>
+and I.T. -><affiliation>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+nitin.yadav@rmit.edu.au -><email>

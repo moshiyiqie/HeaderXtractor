@@ -1,0 +1,11 @@
+Forenscope: A Framework for Live Forensics -><title>
+Ellick Chan† -><author>
+emchan@illinois.edu -><email>
+Shivaram Venkataraman† -><author>
+venkata4@illinois.edu -><email>
+Francis David∗ -><author>
+francis.david@microsoft.com -><email>
+Roy Campbell† -><author>
+rhc@illinois.edu -><email>
+Amey Chaugule† -><author>
+achaugu2@illinois.edu -><email>

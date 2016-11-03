@@ -1,0 +1,6 @@
+A Lightweight Ontology Repository -><title>
+Jin Pan, Stephen Cranefield and Daniel Carter -><author>
+University of Otago -><affiliation>
+Department of Information Science -><affiliation>
+PO Box 56, Dunedin, New Zealand -><address>
+panji016@infoscience.otago.ac.nz -><email>

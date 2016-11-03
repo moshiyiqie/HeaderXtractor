@@ -1,0 +1,11 @@
+Coalition Formation through Motivation and Trust -><title>
+Michael Luck -><author>
+Dept of Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton, SO17 1BJ, UK -><address>
+mml@ecs.soton.ac.uk -><email>
+Nathan Griffiths -><author>
+Dept of Computer Science -><affiliation>
+University of Warwick -><affiliation>
+Coventry, CV4 7AL, UK -><address>
+nathan@dcs.warwick.ac.uk -><email>

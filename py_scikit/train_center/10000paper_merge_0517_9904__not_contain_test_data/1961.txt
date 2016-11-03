@@ -1,0 +1,9 @@
+Incentives in Ridesharing with Deficit Control -><title>
+Dengji Zhao∗ Dongmo Zhang† Enrico H. Gerding‡ -><author>
+Yuko Sakurai∗ Makoto Yokoo∗ -><author>
+∗Department of Informatics, Kyushu University, Japan -><affiliation>
+{djzhao, ysakurai, yokoo}@inf.kyushu-u.ac.jp -><email>
+†Intelligent Systems Lab, University of Western Sydney, Australia -><affiliation>
+d.zhang@uws.edu.au -><email>
+‡University of Southampton, Southampton, UK -><affiliation>
+eg@ecs.soton.ac.uk -><email>

@@ -1,0 +1,34 @@
+Interoperability for Mobile Agents by Incarnation Agents -><title>
+Akihiko -><author>
+Ohsuga -><author>
+Toshiba Corporation -><affiliation>
+Kenta Cho -><affiliation>
+Toshiba Corporation -><address>
+1 Komukai -><address>
+Toshiba-cho -><keyword>
+Saiwaiku Kawasaki, -><keyword>
+210-8582 Japan -><phone>
+cho.kenta@toshiba.co.jp -><email>
+Tetsuo -><unknow>
+Hasegawa -><title>
+Toshiba Corporation -><affiliation>
+1 Komukai -><address>
+Toshiba-cho -><keyword>
+Saiwaiku Kawasaki, -><keyword>
+210-8582 Japan -><phone>
+Shin -><unknow>
+Nakajima -><author>
+Housei University -><affiliation>
+2-17-1 Fujimi -><address>
+Chiyoda-ku Tokyo, -><address>
+102-8160 Japan -><phone>
+nkjm@i.hosei.ac.jp -><email>
+Fumihiro -><note>
+Kumeno -><note>
+Mitsubishi Research -><affiliation>
+institute Inc. -><affiliation>
+2-3-6 Ohtemachi -><note>
+Chiyoda-ku Tokyo, -><note>
+100-8141 Japan -><note>
+kumeno@mri.co.jp -><email>
+tetsuo3.hasegawa@toshiba.co.jp -><email>

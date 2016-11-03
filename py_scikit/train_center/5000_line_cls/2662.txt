@@ -1,0 +1,6 @@
+Evaluating State-Space Abstractions in -><title>
+Extensive-Form Games -><title>
+Michael Johanson and Neil Burch and Richard Valenzano and Michael Bowling -><author>
+University of Alberta -><affiliation>
+Edmonton, Alberta -><address>
+{johanson,nburch,valenzan,mbowling}@ualberta.ca -><email>

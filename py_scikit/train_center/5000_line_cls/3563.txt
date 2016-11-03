@@ -1,0 +1,18 @@
+Navigating by audio-based probing and fuzzy routing -><title>
+Timo Saloranta -><author>
+University of Oulu -><affiliation>
+Erkki Koiso-Kanttilankatu 3 -><pubnum>
+FI-90014 University of Oulu -><affiliation>
++358 294 482805 -><phone>
+timo.saloranta@ee.oulu.fi -><email>
+Jukka Riekki -><author>
+University of Oulu -><affiliation>
+Erkki Koiso-Kanttilankatu 3 -><pubnum>
+FI-90014 University of Oulu -><affiliation>
++358 294 482798 -><phone>
+jukka.riekki@ee.oulu.fi -><email>
+University of Oulu -><affiliation>
+Erkki Koiso-Kanttilankatu 3 -><address>
+FI-90014 University of Oulu -><affiliation>
++358 294 482805 -><phone>
+mikko.polojarvi@ee.oulu.fi -><email>

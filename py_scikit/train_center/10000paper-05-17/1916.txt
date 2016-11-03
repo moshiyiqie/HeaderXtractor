@@ -1,0 +1,12 @@
+Accepting Optimally in Automated Negotiation with -><title>
+Incomplete Information -><title>
+Tim Baarslag -><author>
+Interactive Intelligence Group -><affiliation>
+Delft University of Technology -><affiliation>
+Mekelweg 4, Delft, The Netherlands -><address>
+T.Baarslag@tudelft.nl -><email>
+Koen Hindriks -><author>
+Interactive Intelligence Group -><affiliation>
+Delft University of Technology -><affiliation>
+Mekelweg 4, Delft, The Netherlands -><address>
+K.V.Hindriks@tudelft.nl -><email>

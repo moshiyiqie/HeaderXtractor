@@ -1,0 +1,19 @@
+A Systemic Mentoring Model in Computer Science -><title>
+Edward G. Pekarek -><author>
+Department of Computer Science -><affiliation>
+Appalachian State University -><affiliation>
+Boone, NC 28608 -><address>
+1-828-264-2370 -><phone>
+egp@cs.appstate.edu -><email>
+James T. Wilkes -><author>
+Department of Computer Science -><affiliation>
+Appalachian State University -><affiliation>
+Boone, NC 28608 -><address>
+1-828-264-2984 -><phone>
+jtw@cs.appstate.edu -><email>
+Rahman Tashakkori -><author>
+Department of Computer Science -><affiliation>
+Appalachian State University -><affiliation>
+Boone, NC 28608 -><address>
+1-828-264-7009 -><phone>
+jtw@cs.appstate.edu -><email>

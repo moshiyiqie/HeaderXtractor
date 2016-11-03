@@ -1,0 +1,5 @@
+Formalising Trust for Online Communities -><title>
+Ali Shaikh Ali, Omer Rana -><author>
+School of Computer Science -><affiliation>
+Cardiff University, UK -><affiliation>
+{Ali.Shaikhali, O.F.Rana }@cs.cardiff.ac.uk -><email>

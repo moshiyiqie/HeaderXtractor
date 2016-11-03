@@ -1,0 +1,14 @@
+A Cooperative Multi-Agent Approach to Free Flight -><title>
+F. Ryan Johnson -><author>
+Jared C. Hill -><author>
+jayrodhill@gmail.com -><email>
+scovich@gmail.com -><email>
+Wynn C. Stirling -><author>
+James K. Archibald -><author>
+jka@ee.byu.edu -><email>
+Richard L. Frost -><author>
+rickf@ee.byu.edu -><email>
+wynn@ee.byu.edu -><email>
+Electrical and Computer Engineering -><affiliation>
+Brigham Young University -><affiliation>
+Provo, UT 84602 USA -><address>

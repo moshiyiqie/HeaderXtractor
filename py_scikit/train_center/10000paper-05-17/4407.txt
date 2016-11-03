@@ -1,0 +1,5 @@
+A Comprehensive Black-box Methodology for -><title>
+Testing the Forensic Characteristics of Solid-state Drives -><title>
+Gabriele Bonetti, Marco Viglione, Alessandro Frossi, Federico Maggi, Stefano Zanero -><author>
+DEIB, Politecnico di Milano -><affiliation>
+{gabriele.bonetti,marco.viglione}@mail.polimi.it, {frossi,fmaggi,zanero}@elet.polimi.it -><email>

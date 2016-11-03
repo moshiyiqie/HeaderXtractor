@@ -1,0 +1,7 @@
+Humanoid Robots Learning to Walk Faster: -><title>
+From the Real World to Simulation and Back -><title>
+Alon Farchy, Samuel Barrett, Patrick MacAlpine, and Peter Stone -><author>
+Dept. of Computer Science -><affiliation>
+The University of Texas at Austin -><affiliation>
+Austin, TX 78712 USA -><address>
+{afarchy, sbarrett, patmac, pstone}@cs.utexas.edu -><email>

@@ -1,0 +1,21 @@
+Temporal Qualitative Coalitional Games -><title>
+◦ -><title>
+Thomas -><author>
+Agotnes -><author>
+Department of Informatics, -><affiliation>
+University of Bergen -><affiliation>
+PB. 7800, N-5020 Bergen, -><address>
+Norway -><address>
+agotnes@ii.uib.no -><email>
+Michael Wooldridge -><author>
+Department of Computer -><affiliation>
+Science, University of -><affiliation>
+Liverpool -><address>
+Liverpool L69 7ZF, UK -><address>
+mjw@csc.liv.ac.uk -><email>
+Wiebe van der Hoek -><author>
+Department of Computer -><affiliation>
+Science, University of -><affiliation>
+Liverpool -><address>
+Liverpool L69 7ZF, UK -><address>
+wiebe@csc.liv.ac.uk -><email>

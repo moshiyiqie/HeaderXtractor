@@ -1,0 +1,16 @@
+ -><title>
+ -><title>
+Adaptive Teamwork Coordination using Graph Matching over Hierarchical -><title>
+Intentional Structures -><title>
+Susannah Soon1,2, Adrian Pearce1, and Max Noble2 -><author>
+1Department of Computer Science and Software -><affiliation>
+2ADI Limited, -><affiliation>
+20-22 Stirling Highway, -><address>
+Nedlands, WA, 6009, Australia -><address>
+Engineering, -><email>
+The University of Melbourne, -><affiliation>
+Victoria, 3010, Australia -><address>
+{susannah, pearce}@cs.mu.oz.au, max.noble@adi-limited.com -><email>
+ -><abstract>
+ -><abstract>
+ -><abstract>

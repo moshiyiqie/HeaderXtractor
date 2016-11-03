@@ -1,0 +1,6 @@
+Efficiency and Fairness in Team Search with -><title>
+Self-Interested Agents -><title>
+Igor Rochlin, Yonatan Aumann, David Sarne and Luba Golosman -><author>
+Department of Computer Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan, Israel -><address>

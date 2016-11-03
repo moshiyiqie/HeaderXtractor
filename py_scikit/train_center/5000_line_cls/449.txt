@@ -1,0 +1,16 @@
+Implementing Responsibility for States and Events -><title>
+Martin J. Kollingbaum -><author>
+Dept of Computing Science, -><affiliation>
+University of Aberdeen, -><affiliation>
+Aberdeen, AB24 3UE, U.K. -><address>
+mkolling@csd.abdn.ac.uk -><email>
+Timothy J. Norman -><author>
+Dept of Computing Science, -><affiliation>
+University of Aberdeen, -><affiliation>
+Aberdeen, AB24 3UE, U.K. -><address>
+tnorman@csd.abdn.ac.uk -><email>
+Chris Reed -><author>
+Dept of Applied Computing, -><affiliation>
+University of Dundee -><affiliation>
+Dundee, DD1 4HN, U.K. -><address>
+chris@computing.dundee.ac.uk -><email>

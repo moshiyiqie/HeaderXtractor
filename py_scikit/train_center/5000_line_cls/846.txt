@@ -1,0 +1,10 @@
+C-IPS Approach to Negotiating Agents: -><title>
+Specifying Dynamic Interdependencies Between Issue, Partner, and Step -><title>
+Diemo Urbig ∗ -><author>
+Humboldt–Universita¨t zu Berlin -><affiliation>
+Department of Computer Science -><affiliation>
+urbig@informatik.hu-berlin.de -><email>
+Kay Schro¨ter -><author>
+Humboldt–Universita¨t zu Berlin -><affiliation>
+Department of Computer Science -><affiliation>
+kschroet@informatik.hu-berlin.de -><email>

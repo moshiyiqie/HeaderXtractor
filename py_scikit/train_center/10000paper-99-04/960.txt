@@ -1,0 +1,7 @@
+Distributed Robotic Target Acquisition using Bluetooth -><title>
+Communication -><title>
+J.T. McClain, B.J. Wimpey, D.H. Barnhard, and W.D. Potter -><author>
+Artificial Intelligence Center -><affiliation>
+The University of Georgia -><affiliation>
+Athens, Georgia -><address>
+(jmcclain@uga.edu) -><email>

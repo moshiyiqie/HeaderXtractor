@@ -1,0 +1,6 @@
+When Should There be a “Me” in “Team”? -><title>
+Distributed Multi-Agent Optimization Under Uncertainty -><title>
+Matthew E. Taylor, Manish Jain, Yanquin Jin, Makoto Yooko†, and Milind Tambe -><author>
+University of Southern California, Los Angeles, CA {taylorm,manishja,tambe}@usc.edu -><author>
+Tsinghua University, Beijing, China jinyq06@gmail.com -><affiliation>
+†Kyushu University, Fukuoka, Japan yokoo@is.kyushu-u.ac.jp -><affiliation>

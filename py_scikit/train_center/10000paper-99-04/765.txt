@@ -1,0 +1,5 @@
+A Bayes Net Approach to Argumentation -><title>
+Sabyasachi Saha and Sandip Sen -><author>
+Department of Mathematics & Computer Science -><affiliation>
+The University of Tulsa -><affiliation>
+fsahasa, sandipg@ens.utulsa.edu -><email>

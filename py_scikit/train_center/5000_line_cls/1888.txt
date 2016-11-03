@@ -1,0 +1,18 @@
+Possible and necessary winners in voting trees: -><title>
+majority graphs vs. profiles -><title>
+Kristen Brent Venable -><author>
+Universita’ di Padova -><affiliation>
+Padova, Italy -><address>
+kvenable@math.unipd.it -><email>
+Maria Silvia Pini -><author>
+University of Padova -><affiliation>
+Padova, Italy -><address>
+mpini@math.unipd.it -><email>
+Francesca Rossi -><author>
+University of Padova -><affiliation>
+Padova, Italy -><address>
+frossi@math.unipd.it -><email>
+Toby Walsh -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+toby.walsh@nicta.com.au -><email>

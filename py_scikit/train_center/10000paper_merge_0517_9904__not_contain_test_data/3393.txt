@@ -1,0 +1,17 @@
+HiLeS-T: an ADL for early requirement verification of -><title>
+Embedded Systems -><title>
+Fernando Jiménez -><author>
+Universidad de los Andes -><affiliation>
+Cra 1 No 18A- 12 -><address>
+Bogotá, Colombia -><address>
+fjimenez@uniandes.edu.co -><email>
+Rubby Casallas -><author>
+Universidad de los Andes -><affiliation>
+Cra 1 No 18A- 12 -><address>
+Bogotá, Colombia -><address>
+rcasalla@uniandes.edu.co -><email>
+Horacio Hoyos -><author>
+Universidad de los Andes -><affiliation>
+Cra 1 No 18A- 12 -><address>
+Bogotá, Colombia -><address>
+h.hoyos95@uniandes.edu.co -><email>

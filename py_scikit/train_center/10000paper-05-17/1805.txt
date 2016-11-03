@@ -1,0 +1,10 @@
+HRTeam: A Framework to Support Research on -><title>
+Human/Multi-Robot Interaction -><title>
+(Demonstration) -><title>
+Elizabeth Sklar1,2, Simon Parsons1,2, A. Tuna Özgelen2, Eric Schneider3, -><author>
+Michael Costantino4 and Susan L. Epstein1,3 -><author>
+1Brooklyn College, 2The Graduate Center, -><affiliation>
+3Hunter College and 4College of Staten Island -><address>
+The City University of New York, New York, USA -><affiliation>
+sklar@sci.brooklyn.cuny.edu,parsons@sci.brooklyn.cuny.edu,aozgelen@gc.cuny.edu, -><email>
+nitsuga@pobox.com,michael.costantino@cix.csi.cuny.edu,susan.epstein@hunter.cuny.edu -><email>

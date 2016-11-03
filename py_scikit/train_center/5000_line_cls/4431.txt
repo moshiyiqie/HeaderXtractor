@@ -1,0 +1,7 @@
+Using the Color Image Quantization Problem as a -><title>
+Course-Long Project in CS2 -><pubnum>
+Rance D. Necaise -><author>
+Department of Computer Science -><affiliation>
+College of William and Mary -><affiliation>
+Williamsburg, VA -><address>
+necaiser@gmail.com -><email>

@@ -1,0 +1,10 @@
+A Demonstration of the Agent Reputation and Trust (ART) -><title>
+Testbed for Experimentation and Competition -><title>
+Karen K. Fullam1, Tomas B. Klos2, Guillaume Muller3, Jordi Sabater4, Zvi Topol5, K. Suzanne -><author>
+Barber1, Jeffrey S. Rosenschein5, and Laurent Vercouter3 -><author>
+1Laboratory for Intelligent Processes and Systems, University of Texas at Austin, USA -><affiliation>
+2Center for Mathematics and Computer Science (CWI), Amsterdam, The Netherlands -><affiliation>
+3 -><date>
+´Ecole Nationale Supe´rieure des Mines, Saint- ´Etienne, France -><author>
+4Institute of Cognitive Science and Technology (ISTC), National Research Council (CNR), Rome, Italy -><affiliation>
+5Multiagent Systems Research Group—Critical MAS, Hebrew University, Jerusalem, Israel -><affiliation>

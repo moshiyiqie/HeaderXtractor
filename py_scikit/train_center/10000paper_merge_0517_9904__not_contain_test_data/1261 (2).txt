@@ -1,0 +1,10 @@
+Integrating Multiagent Coordination with Reactive Plan -><title>
+Execution -><title>
+Jeffrey S. Cox -><author>
+Bradley J. Clement -><author>
+Pradeep M. Pappachan -><author>
+pmp@acm.org -><email>
+jeffcox@umich.edu -><email>
+bradc@umich.edu -><email>
+University of Michigan Artificial Intelligence Laboratory -><affiliation>
+1101 Beal Avenue, Ann Arbor, MI 48109-2110 -><address>

@@ -1,0 +1,20 @@
+Effective Frequency Offset Correction in OFDM Systems -><title>
+with Extended Kalman Filtering Technique -><title>
+Dr. G. Ramachandra Reddy -><author>
+K. Vinoth Babu -><author>
+Arun Prakash .J -><author>
+M. Tech -><affiliation>
+School of Electronics Engineering -><affiliation>
+VIT University, Tamil Nadu, India -><affiliation>
++91-0416-2242433 -><phone>
+aroonprakash@gmail.com -><email>
+Senior Professor -><author>
+School of Electronics Engineering -><affiliation>
+VIT University, Tamil Nadu, India -><affiliation>
++91-0416-2242433 -><phone>
+grreddy@vit.ac.in -><email>
+Research Scholar -><affiliation>
+School of Electronics Engineering -><affiliation>
+VIT University, Tamil Nadu, India -><affiliation>
++91-0416-2242433 -><phone>
+vinothbabu.k@vit.ac.in -><email>

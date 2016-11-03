@@ -1,0 +1,10 @@
+Document Timespan Normalisation and -><title>
+Understanding Temporality for Clinical Records Search -><title>
+Bevan Koopman -><author>
+Australian e-Health Research Centre -><affiliation>
+CSIRO, Brisbane, Australia -><address>
+bevan.koopman@csiro.au -><email>
+Guido Zuccon -><author>
+Faculty of Science & Technology, Queensland -><affiliation>
+University of Technology, Brisbane, Australia -><affiliation>
+g.zuccon@qut.edu.au -><email>

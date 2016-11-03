@@ -1,0 +1,19 @@
+Emotion-based Norm Enforcement and Maintenance in Multi-Agent -><title>
+Systems: Foundations and Petri Net Modeling -><title>
+Daniel Moldt -><author>
+University of Hamburg -><affiliation>
+Julia Fix -><author>
+University of Hamburg -><affiliation>
+Christian von Scheve -><author>
+University of Hamburg -><affiliation>
+Allende-Platz 1 -><address>
+D-20146 Hamburg, Germany -><address>
++49-30-91607790 -><phone>
+xscheve@informatik.uni-hamburg.de -><email>
+D-22527 Hamburg, Germany -><address>
++49-40-42883-2225 -><phone>
+fix@informatik.uni-hamburg.de -><email>
+D-22527 Hamburg, Germany -><address>
++49-40-42883-2247 -><phone>
+moldt@informatik.uni-hamburg.de -><email>
+1 -><date>

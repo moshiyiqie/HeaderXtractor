@@ -1,0 +1,8 @@
+Delegating Responsibility in a Multiagent Process -><title>
+Management System -><title>
+John Debenham -><author>
+Faculty of IT -><affiliation>
+University of Technology, Sydney -><affiliation>
+NSW 2007, Australia -><address>
++61-2-9514-1837 -><phone>
+debenham@it.uts.edu.au -><email>

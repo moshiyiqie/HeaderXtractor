@@ -1,0 +1,6 @@
+Phoenix-Based Clone Detection Using Suffix Trees -><title>
+Robert Tairas and Jeff Gray -><author>
+Department of Computer and Information Sciences -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+Birmingham, AL 35294 USA -><address>
+{tairasr, gray}@cis.uab.edu -><email>

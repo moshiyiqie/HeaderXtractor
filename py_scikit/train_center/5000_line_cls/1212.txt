@@ -1,0 +1,7 @@
+Balancing Ontological and Operational Factors in Refining Multiagent -><title>
+Neighborhoods -><title>
+Leen-Kiat Soh and Chao Chen -><author>
+Computer Science and Engineering -><affiliation>
+University of Nebraska-Lincoln -><affiliation>
+256 Avery Hall, Lincoln, NE 66588-0115 -><address>
+{lksoh, cchen}@cse.unl.edu -><email>

@@ -1,0 +1,13 @@
+Interacting with Reflections in Virtual Environments -><title>
+Vali Lalioti -><author>
+University of Pretoria -><affiliation>
+Computer Science -><affiliation>
+Department, -><affiliation>
+Pretoria 0002, South Africa -><address>
+vlalioti@cs.up.ac.za -><email>
+James Lane -><author>
+University of Pretoria -><affiliation>
+Computer Science -><affiliation>
+Department -><affiliation>
+Pretoria 0002, South Africa -><address>
+jlane@cs.up.ac.za -><email>

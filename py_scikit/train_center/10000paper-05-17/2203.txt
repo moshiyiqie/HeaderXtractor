@@ -1,0 +1,6 @@
+Considerations for Multiagent Multi-Objective Systems -><title>
+(Doctoral Consortium) -><title>
+Logan Yliniemi -><author>
+Oregon State University -><affiliation>
+Corvallis, OR, USA -><address>
+logan.yliniemi@engr.orst.edu -><email>

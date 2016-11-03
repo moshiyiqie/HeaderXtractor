@@ -1,0 +1,5 @@
+Educational Content Creation and Sharing by -><title>
+Low-Income Visually Impaired People in India -><title>
+Aditya Vashistha Erin Brady William Thies, Edward Cutrell -><author>
+University of Washington University of Rochester Microsoft Research India -><affiliation>
+adityav@cs.washington.edu brady@cs.rochester.edu {thies,cutrell}@microsoft.com -><email>

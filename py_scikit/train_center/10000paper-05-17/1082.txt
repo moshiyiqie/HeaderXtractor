@@ -1,0 +1,14 @@
+Efficient Heuristic Approach to Dominance Testing in -><title>
+CP-nets -><title>
+Minyi Li -><author>
+Swinburne University of -><affiliation>
+Technology -><affiliation>
+myli@swin.edu.au -><email>
+Ryszard Kowalczyk -><author>
+Swinburne University of -><affiliation>
+Technology -><affiliation>
+RKowalczyk@swin.edu.au -><email>
+Quoc Bao Vo -><author>
+Swinburne University of -><affiliation>
+Technology -><affiliation>
+BVO@swin.edu.au -><email>

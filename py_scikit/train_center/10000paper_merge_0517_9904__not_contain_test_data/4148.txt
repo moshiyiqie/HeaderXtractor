@@ -1,0 +1,22 @@
+E-TCP: An Evolutionary Computation Approach for -><title>
+Congestion Avoidance in Bulk-Data Transfers Networks -><title>
+Driss Aboutajdine -><author>
+GSCM_LRIT Laboratory -><affiliation>
+Taha Ben Brahim -><author>
+Shelby Center for Engineering -><affiliation>
+Technology, Lab 2316 -><affiliation>
+Saad Biaz -><author>
+Shelby Center for Engineering -><affiliation>
+Technology, Suite 3101 -><address>
+Faculty of Sciences Rabat -><author>
+University Mohamed V -><affiliation>
+Computer Science and Software -><affiliation>
+Engineering Department -><affiliation>
+Computer Science and Software -><affiliation>
+Engineering Department -><affiliation>
+B.P. 1014 Morocco -><address>
+Auburn University, AL 36849-5347 rd -><affiliation>
+Auburn University, AL 36849-5347 rd -><affiliation>
+aboutaj@ieee.org -><email>
+benbrah@auburn.edu -><email>
+sbiaz@eng.auburn.edu -><email>

@@ -1,0 +1,6 @@
+Challenges and Implications of Veriﬁable Builds for -><title>
+Security-Critical Open-Source Software -><title>
+Xavier de Carné de Carnavalet and Mohammad Mannan -><author>
+Concordia Institute for Information Systems Engineering -><affiliation>
+Concordia University, Montreal, Canada -><affiliation>
+{x_decarn, mmannan}@ciise.concordia.ca -><email>

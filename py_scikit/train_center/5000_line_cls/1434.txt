@@ -1,0 +1,10 @@
+A Multi­Issue Negotiation Protocol among Competitive -><title>
+Agents and its Extension to A Nonlinear Utility Negotiation -><title>
+Protocol -><title>
+¤ -><title>
+Takayuki Ito -><author>
+and Mark Klein -><author>
+Center for Coordination Science, Sloan School of Management, -><affiliation>
+Massachusetts Institute of Technology -><affiliation>
+3 Cambridge Center, NE20­336, Cambridge, MA 02142 -><address>
+ftakayuki,m kleing@mit.edu -><email>

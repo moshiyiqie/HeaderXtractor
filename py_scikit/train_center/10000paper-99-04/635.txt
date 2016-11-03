@@ -1,0 +1,4 @@
+State-Space Reduction Techniques in Agent Verification∗ -><title>
+Rafael H. Bordini1† Michael Fisher1 Willem Visser2 Michael Wooldridge1 -><author>
+1 University of Liverpool, Liverpool L69 3BX, U.K. {bordini,michael,mjw}@csc.liv.ac.uk -><affiliation>
+2 RIACS/NASA Ames Research Center, CA 94035, USA. wvisser@email.arc.nasa.gov -><email>

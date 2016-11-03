@@ -1,0 +1,18 @@
+Upender Manne -><title>
+Department of Pathology -><affiliation>
+University of Alabama -><affiliation>
+at Birmingham -><unknow>
+JRV: An Interactive Tool for Data Mining Visualization -><title>
+Alan Sprague -><author>
+Department of Computer & -><affiliation>
+Information Sciences -><affiliation>
+University of Alabama -><affiliation>
+at Birmingham -><affiliation>
+sprague@cis.uab.edu -><email>
+Danyu Liu -><author>
+Department of Computer & -><affiliation>
+Information Sciences -><affiliation>
+University of Alabama -><affiliation>
+at Birmingham -><affiliation>
+liudy@cis.uab.edu -><email>
+manne@path.uab.edu -><email>

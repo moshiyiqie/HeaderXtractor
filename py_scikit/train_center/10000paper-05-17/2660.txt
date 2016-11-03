@@ -1,0 +1,14 @@
+Aggregating Partial Rankings with Applications to Peer -><title>
+Grading in Massive Online Open Courses -><title>
+Alexandros A. Voudouris -><author>
+University of Patras & -><affiliation>
+CTI Diophantus, Greece -><address>
+voudouris@ceid.upatras.gr -><email>
+Ioannis Caragiannis -><author>
+University of Patras & -><affiliation>
+CTI Diophantus, Greece -><address>
+caragian@ceid.upatras.gr -><email>
+George A. Krimpas -><author>
+University of Patras & -><affiliation>
+CTI Diophantus, Greece -><address>
+krimpas@ceid.upatras.gr -><email>

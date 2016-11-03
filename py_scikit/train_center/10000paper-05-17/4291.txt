@@ -1,0 +1,14 @@
+Always Up-to-date – Scalable Offline Patching of VM -><affiliation>
+Images in a Compute Cloud -><title>
+Xiaolan Zhang Glenn Ammons -><author>
+IBM T.J. Watson Research Center -><affiliation>
+{cxzhang, ammons}@us.ibm.com -><email>
+Wu Zhou Peng Ning -><author>
+North Carolina State University -><affiliation>
+{wzhou2, pning}@ncsu.edu -><email>
+Vasanth Bala -><author>
+IBM T.J. Watson Research Center -><affiliation>
+vbala@us.ibm.com -><email>
+Ruowen Wang -><author>
+North Carolina State University -><affiliation>
+rwang9@ncsu.edu -><email>

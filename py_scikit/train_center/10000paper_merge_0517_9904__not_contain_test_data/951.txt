@@ -1,0 +1,20 @@
+Role Evolution in Open Multi-Agent Systems as an -><title>
+Information Source for Trust∗ -><title>
+Ramón Hermoso -><author>
+Centre for Intelligent -><affiliation>
+Information Technology -><affiliation>
+University Rey Juan Carlos -><affiliation>
+Madrid, Spain -><address>
+ramon.hermoso@urjc.es -><email>
+Sascha Ossowski -><author>
+Centre for Intelligent -><affiliation>
+Information Technology -><affiliation>
+University Rey Juan Carlos -><affiliation>
+Madrid, Spain -><address>
+sascha.ossowski@urjc.es -><email>
+Holger Billhardt -><author>
+Centre for Intelligent -><affiliation>
+Information Technology -><affiliation>
+University Rey Juan Carlos -><affiliation>
+Madrid, Spain -><address>
+holger.billhardt@urjc.es -><email>

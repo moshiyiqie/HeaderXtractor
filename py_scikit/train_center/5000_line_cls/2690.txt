@@ -1,0 +1,20 @@
+Collective Transport of Complex Objects by Simple -><title>
+Robots: Theory and Experiments -><title>
+Michael Rubenstein -><author>
+Harvard University -><affiliation>
+mrubenst@seas.harvard.edu -><email>
+Adrian Cabrera -><author>
+Harvard/EPFL -><email>
+adricabdelu@gmail.com -><email>
+Justin Werfel -><author>
+Harvard University -><affiliation>
+justin.werfel@wyss.harvard.edu -><email>
+Golnaz Habibi -><author>
+Rice University -><affiliation>
+gh4@rice.edu -><email>
+James McLurkin -><author>
+Rice University -><affiliation>
+jmclurkin@rice.edu -><email>
+Radhika Nagpal -><author>
+Harvard University -><affiliation>
+rad@eecs.harvard.edu -><email>

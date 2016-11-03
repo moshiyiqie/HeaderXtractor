@@ -1,0 +1,10 @@
+Finding Approximate Competitive Equilibria: -><title>
+Efﬁcient and Fair Course Allocation -><title>
+Eric Budish -><author>
+University of Chicago -><affiliation>
+Booth School of Business -><affiliation>
+eric.budish@chicagobooth.edu -><email>
+Abraham Othman, Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+{aothman,sandholm}@cs.cmu.edu -><email>

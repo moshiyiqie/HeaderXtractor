@@ -1,0 +1,19 @@
+An Architecture for Emotional Decision-Making Agents -><title>
+Randolph M. Jones -><author>
+Colby College & Soar Technology -><affiliation>
+5847 Mayflower Hill Drive -><address>
+Waterville, ME 04901-8858 -><address>
+207-872-3831 -><phone>
+rjones@soartech.com -><email>
+Amy E. Henninger -><author>
+Soar Technology -><affiliation>
+3600 Green Ct., Suite 600 -><address>
+Ann Arbor, MI 48105 -><address>
+407-207-2237 -><phone>
+amy@soartech.com -><email>
+Eric Chown -><author>
+Bowdoin College -><affiliation>
+8650 College Station -><affiliation>
+Brunswick, ME 04011 -><address>
+207-725-3084 -><phone>
+echown@bowdoin.edu -><email>

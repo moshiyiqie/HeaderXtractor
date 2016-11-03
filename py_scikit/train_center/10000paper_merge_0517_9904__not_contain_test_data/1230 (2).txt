@@ -1,0 +1,11 @@
+What is Scalability in Multi-Agent Systems? -><title>
+Omer F. Rana -><author>
+Department of Computer Science, -><affiliation>
+University of Wales, Cardiff, POBox 916, -><affiliation>
+Cardiff CF24 3XFI UK -><address>
+Kate Stout -><author>
+Agents Research Team, -><affiliation>
+SUN Microsystems, One Network Drive, -><affiliation>
+Burlington MA 01803-0902, USA -><address>
+kate. stout@east, -><email>
+o. -><web>

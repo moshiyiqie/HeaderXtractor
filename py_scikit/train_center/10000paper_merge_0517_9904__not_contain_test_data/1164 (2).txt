@@ -1,0 +1,5 @@
+Using Distributed Problem Solving to Search the Web -><title>
+Amir Langer Jeffrey S. Rosenschein -><author>
+School of Engineering and Computer Science School of Engineering and Computer Science -><affiliation>
+Hebrew University, Jerusalem, Israel Hebrew University, Jerusalem, Israel -><affiliation>
+amirl@agentsoft.com jeff@cs.huji.ac.il -><email>

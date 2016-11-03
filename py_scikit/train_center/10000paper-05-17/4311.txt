@@ -1,0 +1,5 @@
+Enabling Secure VM-vTPM Migration -><title>
+in Private Clouds -><title>
+Boris Danev, Ramya Jayaram Masti, Ghassan O. Karame and Srdjan Capkun -><author>
+Department of Computer Science -><affiliation>
+ETH Zurich, Switzerland{bdanev, rmasti, karameg, capkuns}@inf.ethz.ch -><email>

@@ -1,0 +1,4 @@
+Using Rat Navigation Models to Learn Orientation -><title>
+from Visual Input on a Mobile Robot -><title>
+Brett Browning -><author>
+Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA, 15213 -><affiliation>

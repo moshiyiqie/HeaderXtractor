@@ -1,0 +1,17 @@
+Modeling Coping Behavior in Virtual Humans: -><title>
+Stacy Marsella -><author>
+University of Southern California -><affiliation>
+Information Sciences Institute -><affiliation>
+4676 Admiralty Way, Marina del Rey, CA 90292 -><address>
+marsella@isi.edu -><email>
+Jonathan Gratch -><author>
+University of Southern California -><affiliation>
+Institute for Creative Technology -><affiliation>
+13274 Fiji Way, Marina del Rey, CA 90292 -><address>
+gratch@ict.usc.edu -><email>
+Permission to make digital or hard copies of all or part of this work for -><note>
+personal or classroom use is granted without fee provided that copies are -><note>
+not made or distributed for profit or commercial advantage and that -><abstract>
+copies bear this notice and the full citation on the first page. To copy -><abstract>
+otherwise, or republish, to post on servers or to redistribute to lists, -><abstract>
+requires prior specific permission and/or a fee. -><abstract>

@@ -1,0 +1,6 @@
+CPS: An Efﬁciency-motivated Attack Against Autonomous -><title>
+Vehicular Transportation -><title>
+Ryan M. Gerdes, Chris Winstead, and Kevin Heaslip -><author>
+Utah State University -><affiliation>
+Logan, UT, USA -><address>
+{ryan.gerdes, chris.winstead, kevin.heaslip}@usu.edu -><email>

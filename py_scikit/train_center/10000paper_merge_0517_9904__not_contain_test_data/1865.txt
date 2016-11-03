@@ -1,0 +1,15 @@
+Weighted Electoral Control -><title>
+Lane A. Hemaspaandra -><author>
+University of Rochester -><affiliation>
+Rochester, NY, USA -><address>
+www.cs.rochester.edu/∼lane -><email>
+Edith Hemaspaandra -><author>
+Rochester Institute of -><affiliation>
+Technology -><affiliation>
+Rochester, NY, USA -><address>
+eh@cs.rit.edu -><email>
+Piotr Faliszewski -><author>
+AGH University of Science -><affiliation>
+and Technology -><affiliation>
+Krakow, Poland -><address>
+faliszew@agh.edu.pl -><email>

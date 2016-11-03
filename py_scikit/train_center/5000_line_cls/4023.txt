@@ -1,0 +1,15 @@
+Design of Installation with Interactive UAVs -><title>
+Hideki Yoshimoto -><author>
+Department of Aeronautics and Astronautics -><affiliation>
+University of Tokyo -><affiliation>
+yoshimoto@ailab.t.u-tokyo.ac.jp -><affiliation>
+Kazuhiro Jo -><author>
+RCAST -><affiliation>
+University of Tokyo -><affiliation>
+jo@jp.org -><email>
+Koichi Hori -><author>
+Department of Aeronautics and Astronautics -><affiliation>
+University of Tokyo -><affiliation>
+hori@computer.org -><email>
+Keywords: Unmanned Aerial Vehicle, Blimp, Installation, Open -><keyword>
+Source, Physical Computing, Illumination -><keyword>

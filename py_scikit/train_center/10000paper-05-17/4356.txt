@@ -1,0 +1,20 @@
+ThinAV: Truly Lightweight Mobile Cloud-based -><title>
+Anti-malware -><title>
+David Barrera -><author>
+School of Computer Science -><affiliation>
+Carleton University -><affiliation>
+1125 Colonel By Drive -><address>
+Ottawa, ON, Canada K1S 5B6 -><address>
+dbarrera@ccsl.carleton.ca -><email>
+Chris Jarabek -><author>
+Department of Computer Science -><affiliation>
+University of Calgary -><affiliation>
+2500 University Drive NW -><affiliation>
+Calgary, AB, Canada T2N 1N4 -><address>
+cjjarabe@ucalgary.ca -><email>
+John Aycock -><author>
+Department of Computer Science -><affiliation>
+University of Calgary -><affiliation>
+2500 University Drive NW -><affiliation>
+Calgary, AB, Canada T2N 1N4 -><address>
+aycock@ucalgary.ca -><email>

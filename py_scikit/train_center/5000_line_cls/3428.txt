@@ -1,0 +1,6 @@
+Learning Submodular Functions with Applications -><title>
+to Multi-Agent Systems -><title>
+Maria Florina Balcan -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+ninamf@cs.cmu.edu -><email>

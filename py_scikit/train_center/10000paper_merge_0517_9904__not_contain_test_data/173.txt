@@ -1,0 +1,10 @@
+Multiagent -><title>
+Environments -><title>
+Costas -><author>
+tsatsoul@ittc.ku.edu -><email>
+hsevay@ittc.ku.edu -><email>
+Department -><affiliation>
+Information -><unknow>
+2335 -><pubnum>
+University -><affiliation>
+Lawrence, -><address>

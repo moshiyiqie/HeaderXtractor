@@ -1,0 +1,14 @@
+Study of Virtual Organizations Using Multi-Agent System ∗ -><title>
+Qinhe Zheng -><author>
+Computer and Information Science Department -><affiliation>
+University of Massachusetts at Dartmouth -><affiliation>
+qinhezheng@hotmail.com -><email>
+Xiaoqin Zhang -><author>
+Computer and Information Science Department -><affiliation>
+University of Massachusetts at Dartmouth -><affiliation>
+x2zhang@umassd.edu -><email>
+Categories and Subject Descriptors:[I.2.11]: Distributed Artifi- -><keyword>
+cial Intelligence, Intelligent agents -><keyword>
+General Terms:Management, Performance. -><keyword>
+Keywords:Virtual Organization, Multi-Agent Systems, Agent Con- -><keyword>
+trol, Motivational Quantities, Simulation. -><keyword>

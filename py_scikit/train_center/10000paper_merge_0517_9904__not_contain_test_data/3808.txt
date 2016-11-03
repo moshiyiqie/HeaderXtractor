@@ -1,0 +1,34 @@
+Support Issues in Distance Learning: Supporting -><title>
+Teachers and Learners -><title>
+Nelson C. Baker, Ph.D. -><author>
+Associate Vice Provost, Distance Learning and -><affiliation>
+Professional Education -><author>
+Georgia Institute of Technology -><affiliation>
+nelson.baker@dlpe.gatech.edu -><email>
+Ken Hoganson, Ph.D., -><author>
+Director of the Master of Science in Applied -><degree>
+Computer science -><affiliation>
+Kennesaw State University -><affiliation>
+khoganso@kennesaw.edu -><email>
+Don Goff, Ph.D. -><email>
+Professor and Executive Director of UMUC's -><author>
+Security Studies Laboratory -><affiliation>
+University of Maryland University College -><affiliation>
+dgoff@umuc.edu -><email>
+Michael L. Nelson, Ph.D. -><email>
+School of Technology Graduate Program -><affiliation>
+Director -><author>
+International College. -><affiliation>
+mnelson@internationalcollege.edu -><email>
+Solomon Negash, Ph.D. (Moderator) -><email>
+Assistant Professor of Information Systems -><affiliation>
+Kennesaw State University -><affiliation>
+snegash@kennesaw.edu -><email>
+Summary -><abstract>
+online courses with virtually no training or preparation -><abstract>
+and with limited support. As a result, these instructors just -><abstract>
+take the PowerPoint presentations that they would give in -><abstract>
+the classroom and place them online, and then have -><abstract>
+students submit their assignments electronically. Making -><abstract>
+PowerPoint lectures (or even recorded lectures) available -><affiliation>
+online is great in a conventional class; students that are -><abstract>

@@ -1,0 +1,7 @@
+ASIDE: IDE Support for Web Application Security -><title>
+Jing Xie, Bill Chu, Heather Richter Lipford, and John T. Melton -><author>
+Department of Software and Information Systems -><affiliation>
+University of North Carolina at Charlotte -><affiliation>
+9201 University City Blvd -><affiliation>
+Charlotte, NC, 28223, USA -><address>
+jxie2, billchu, heather.lipford@uncc.edu, jtmelton@gmail.com -><email>

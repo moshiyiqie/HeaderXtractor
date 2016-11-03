@@ -1,0 +1,14 @@
+A Self-tuning Scientific Framework using Model-Driven -><title>
+Engineering for Heterogeneous Execution Platforms -><title>
+Renato F. G. Cerqueira -><author>
+IBM Research - Brazil -><affiliation>
+Rio de Janeiro, Brazil -><address>
+rcerq@br.ibm.com -><email>
+Alécio P. D. Binotto -><author>
+IBM Research - Brazil -><affiliation>
+São Paulo, Brazil -><address>
+abinotto@br.ibm.com -><email>
+Leonardo P. Tizzei -><author>
+IBM Research - Brazil -><affiliation>
+São Paulo, Brazil -><address>
+ltizzei@br.ibm.com -><email>

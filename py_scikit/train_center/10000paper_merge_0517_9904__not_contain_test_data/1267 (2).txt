@@ -1,0 +1,12 @@
+The Intelligent Classroom: -><title>
+Providing Competent Assistance -><title>
+David Franklin -><author>
+Intelligent Information Laboratory -><affiliation>
+Northwestern University -><affiliation>
+Evanston Illinois USA -><address>
+franklin@cs.nwu.edu -><email>
+Kristian Hammond -><author>
+Intelligent Information Laboratory -><affiliation>
+Northwestern University -><affiliation>
+Evanston Illinois USA -><address>
+hammond@ils.nwu.edu -><email>

@@ -1,0 +1,8 @@
+Dealing with Space in Multi–Agent Systems: -><title>
+a model for Situated MAS -><title>
+Stefania Bandini, Sara Manzoni, Carla Simone -><author>
+Dipartimento di Informatica, Sistemistica e Comunicazione -><affiliation>
+Universita’ di Milano - Bicocca -><affiliation>
+Via Bicocca degli Arcimboldi, 8 -><address>
+20126, Milano, Italy -><address>
+{bandini,manzoni,simone}@disco.unimib.it -><email>

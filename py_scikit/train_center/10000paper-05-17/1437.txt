@@ -1,0 +1,7 @@
+Handling Negative Value Rules in MC-net-based Coalition -><title>
+Structure Generation -><title>
+Suguru Ueda1, Takato Hasegawa1, Naoyuki Hashimoto1, Naoki Ohta2, -><author>
+Atsushi Iwasaki1, and Makoto Yokoo1 -><keyword>
+1Kyushu University, Fukuoka, 819-0395, Japan -><affiliation>
+{ueda@agent., hasegawa@agent., hashimoto@agent., iwasaki@, yokoo@}inf.kyushu-u.ac.jp -><email>
+2Ritsumeikan University, Shiga, 525-8577, Japan n-ohta@fc.ritsumei.ac.jp -><affiliation>

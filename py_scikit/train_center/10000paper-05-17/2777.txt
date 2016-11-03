@@ -1,0 +1,12 @@
+Heikki Tyni -><title>
+Game Research Lab, TRIM -><affiliation>
+SIS, University of Tampere -><affiliation>
+FI-33014 University of Tampere, -><affiliation>
+Finland -><address>
+heikki.tyni@uta.fi -><email>
+Ville Kankainen -><author>
+Game Research Lab, TRIM -><affiliation>
+SIS, University of Tampere -><affiliation>
+FI-33014 University of Tampere, -><affiliation>
+Finland -><address>
+ville.e.kankainen@uta.fi -><email>

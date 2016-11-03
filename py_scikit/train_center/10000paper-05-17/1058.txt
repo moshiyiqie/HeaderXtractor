@@ -1,0 +1,11 @@
+Consensus Acceleration in Multiagent Systems -><title>
+with the Chebyshev Semi-Iterative Method -><title>
+A. Rogers, N. R. Jennings -><author>
+University of Southampton -><affiliation>
+School of Electronics and Computer Science -><affiliation>
+{acr,nrj}@ecs.soton.ac.uk -><email>
+R. L. G. Cavalcante -><author>
+Fraunhofer Institute for Telecommunications, -><affiliation>
+Heinrich Hertz Institute / -><affiliation>
+Technische Universität Berlin -><affiliation>
+renato.cavalcante@hhi.fraunhofer.de -><email>

@@ -1,0 +1,5 @@
+Beyond Objects-First: A Project-Driven CS2 Course -><title>
+E. Frank Barry, Christopher C. Ellsworth, Barry L. Kurtz and James T. Wilkes -><author>
+Appalachian State University -><affiliation>
+Boone, NC 28608 -><address>
+jtw@cs.appstate.edu -><email>

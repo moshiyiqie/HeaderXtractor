@@ -1,0 +1,12 @@
+Game-theoretic Randomization for Security Patrolling with -><title>
+Dynamic Execution Uncertainty -><title>
+Sarit Kraus -><author>
+Bar-Ilan University -><affiliation>
+Ramat Gan 52900, Israel -><address>
+sarit@cs.biu.ac.il -><email>
+Albert Xin Jiang, Zhengyu Yin, -><author>
+Chao Zhang, Milind Tambe -><author>
+University of Southern California -><affiliation>
+Los Angeles, CA 90089, USA -><affiliation>
+{jiangx, zhengyuy, zhan661, -><address>
+tambe}@usc.edu -><email>

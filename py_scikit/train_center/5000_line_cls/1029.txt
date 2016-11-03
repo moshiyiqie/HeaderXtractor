@@ -1,0 +1,11 @@
+The -><title>
+Coordinate -><title>
+The -><title>
+Nathan -><author>
+Paul -><author>
+Carnegie -><author>
+pscerri@cs.cmu.edu -><email>
+M. -><affiliation>
+University -><affiliation>
+{schurr,marecki,kasinadh,tambe}@usc -><email>
+zilla@computer.org -><email>

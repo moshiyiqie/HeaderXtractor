@@ -1,0 +1,8 @@
+Deduction Systems for BDI Logics Using Sequent Calculus -><title>
+∗ -><title>
+Shiro Takata -><author>
+ATR Media Information Science Lab. -><affiliation>
+shiro@atr.co.jp -><email>
+NIDE Naoyuki -><author>
+Nara Women’s University -><affiliation>
+nide@ics.nara-wu.ac.jp -><email>

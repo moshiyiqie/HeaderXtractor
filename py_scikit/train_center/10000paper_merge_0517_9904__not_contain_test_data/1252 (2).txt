@@ -1,0 +1,8 @@
+Collaborative Sanctioning: Applications in Restaurant -><affiliation>
+Recommendations Based on Reputation -><title>
+Lik Mui, Peter Szolovits, Cheewee Ang -><author>
+Laboratory for Computer Science -><affiliation>
+200 Technology Square, Cambridge, MA 02139, USA -><address>
+{lmui, psz, cheewang}@mit.edu -><email>
+Keywords: Collaborative sanctioning and filtering, reputation -><affiliation>
+management, coordinating multiple agents. -><keyword>

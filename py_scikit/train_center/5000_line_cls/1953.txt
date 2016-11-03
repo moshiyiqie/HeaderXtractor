@@ -1,0 +1,8 @@
+Cooperatives of Distributed Energy Resources for Efficient -><title>
+Virtual Power Plants -><title>
+Georgios Chalkiadakis1 Valentin Robu2 Ramachandra Kota3 Alex Rogers2 -><author>
+Nicholas R. Jennings2 -><author>
+{gc2,vr2,rck05r,acr,nrj}@ecs.soton.ac.uk -><email>
+1 Dept. of Electronic and Computer Engineering, Technical University of Crete, Greece -><affiliation>
+2 School of Electronics and Computer Science, University of Southampton, UK -><affiliation>
+3 Secure Meters Ltd., Winchester, UK -><address>

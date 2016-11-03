@@ -1,0 +1,6 @@
+A Speech Recognition and Synthesis Tool -><title>
+Hala ElAarag Laura Schindler -><author>
+Department of Mathematics and Computer Science -><affiliation>
+Stetson University -><affiliation>
+DeLand, Florida, U.S.A. -><address>
+Email: {helaarag, lschindl}@stetson.edu -><email>

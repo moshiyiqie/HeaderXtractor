@@ -1,0 +1,5 @@
+Coordination Framework -><title>
+Victor R. Lesser -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts/Amherst -><affiliation>
+lesser@cs.umass.edu -><email>

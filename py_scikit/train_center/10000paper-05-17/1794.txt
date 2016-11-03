@@ -1,0 +1,24 @@
+Traveller: An Intercultural Training System with Intelligent -><title>
+Agents -><title>
+(Demonstration) -><title>
+Ruth Aylett -><author>
+Herriot-Watt University -><affiliation>
+r.s.aylett@hw.ac.uk -><email>
+Samuel Mascarenhas, -><author>
+André Silva, Ana Paiva -><author>
+INESC-ID / Instituto Superior -><affiliation>
+Técnico -><address>
+ana.paiva@inesc-id.pt -><email>
+Felix Kistler, -><author>
+Elisabeth André -><author>
+Augsburg University -><affiliation>
+andre@informatik.uni- -><email>
+augsburg.de -><email>
+Arvid Kappas -><author>
+Jacobs University -><affiliation>
+a.kappas@jacobs- -><email>
+university.de -><affiliation>
+Nick Degens, -><address>
+Gert Jan Hofstede -><author>
+Wageningen University -><affiliation>
+gertjan.hofstede@wur.nl -><email>

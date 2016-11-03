@@ -1,0 +1,23 @@
+A Novel Wearable Device to Present Localized Sensation -><title>
+of Wind -><title>
+Yuki Hashimoto -><author>
+The University of Electro- -><affiliation>
+Communications -><address>
+11-5-1 Chofugaoka, Chofu, 1820021 -><address>
+Tokyo, Japan -><address>
++81.42.443.5363 -><phone>
+hashimoto@kaji-lab.jp -><affiliation>
+Yuichiro Kojima -><author>
+The University of Electro- -><affiliation>
+Communications -><address>
+1-5-1 Chofugaoka, Chofu, 1820021 -><address>
+Tokyo, Japan -><address>
++81.42.443.5363 -><address>
+y-kojima@kaji-lab.jp -><affiliation>
+Hiroyuki Kajimoto -><affiliation>
+The University of Electro- -><affiliation>
+Communications -><affiliation>
+1-5-1 Chofugaoka, Chofu, 1820021 -><address>
+Tokyo, Japan -><address>
++81.42.443.5445 -><address>
+kajimoto@kaji-lab.jp -><affiliation>

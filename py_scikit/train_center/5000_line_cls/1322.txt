@@ -1,0 +1,20 @@
+Multi-agent based Community Computing System -><title>
+Development with the Model Driven Architecture -><title>
+Jungtae Lee -><author>
+Programming Language Laboratory -><affiliation>
+Ajou University, Suwon -><affiliation>
+Korea(South) -><address>
++82-31-219-2436 -><phone>
+jungtae@ajou.ac.kr -><email>
+Yuna Jung -><author>
+Artificial Intelligence Laboratory -><affiliation>
+Ajou University, Suwon -><affiliation>
+Korea(South) -><address>
++82-31-219-2442 -><phone>
+serazade@ajou.ac.kr -><email>
+Minkoo Kim -><author>
+Artificial Intelligence Laboratory -><affiliation>
+Ajou University, Suwon -><affiliation>
+Korea(South) -><address>
++82-31-219-2437 -><phone>
+minkoo@ajou.ac.kr -><email>

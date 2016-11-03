@@ -1,0 +1,8 @@
+Agents Supporting Humans and Organizations in Open, -><title>
+Dynamic Environments -><title>
+Dr. Katia Sycara -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+1-412-268-8825 -><phone>
+e-mail: katia@cs.cmu.edu -><email>

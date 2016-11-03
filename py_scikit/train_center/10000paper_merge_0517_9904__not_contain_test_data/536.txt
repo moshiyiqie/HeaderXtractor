@@ -1,0 +1,7 @@
+An Empirical Study of the Effect of Agent Competence on User Performance and -><title>
+Perception -><title>
+Jun Xiao1, John Stasko1, and Richard Catrambone 2 -><author>
+1College of Computing / 2School of Psychology & GVU Center -><note>
+Georgia Institute of Technology -><affiliation>
+Atlanta, GA 30332 USA -><address>
+{junxiao,stasko}@cc.gatech.edu, rc7@prism.gatech.edu -><email>

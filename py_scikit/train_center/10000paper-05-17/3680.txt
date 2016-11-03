@@ -1,0 +1,27 @@
+ABSTRACT -><abstract>
+Access to systems that need protection is usually restricted by -><abstract>
+asking the user to prove her identity and to authenticate. -><abstract>
+Combination of user name and password (or PIN) is the most -><abstract>
+common technique used for this purpose. Unfortunately, user- -><abstract>
+name/password based authentication is vulnerable to various -><abstract>
+types of password guessing attacks. Some techniques of making -><abstract>
+password guessing very difficult do exist. With these techniques, -><abstract>
+policies for very strong passwords can be avoided, however, they -><abstract>
+usually rely on manual intervention by the security administrator -><abstract>
+to manually reset the passwords. Such manual steps result in -><abstract>
+significant expense in large enterprises to deal with password -><abstract>
+issues. Here we present a novel technique that uses a State Based -><abstract>
+Authentication method to significantly increase the cost of brute- -><abstract>
+force and dictionary attack on passwords. When deployed, it has -><abstract>
+the potential to reduce the cost of password helpdesk significantly -><abstract>
+by eliminating the need of most password-reset requests. -><abstract>
+Categories and Subject Descriptors -><note>
+D.4.6 [Security and Protection]: Authentication; H.1.2 -><note>
+[User/Machine Systems]: Human factors; K.6.5 [Management -><note>
+Of Computing And Information Systems]: Security and -><title>
+General Terms -><title>
+Algorithms, Human Factors, Management, Security. -><author>
+Key Words -><keyword>
+Authentication, access control, password, password management, -><keyword>
+security, unauthorized access, attack, dictionary attack, rule-based -><keyword>
+attack, syllable attack, help-desk, vulnerabilities. -><affiliation>

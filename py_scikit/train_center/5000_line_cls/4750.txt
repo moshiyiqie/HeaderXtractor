@@ -1,0 +1,7 @@
+A Model-Based Design Framework to Achieve End-To-End -><title>
+QoS Management -><title>
+Sujata Mujumdar, Nagabhushan Mahadevan, Sandeep Neema, Sherif Abdelwahed -><author>
+Institute for Software Integrated Systems, Vanderbilt University -><affiliation>
+Nashville, Tennessee -><address>
+Tel. No: 1-615-322-2167 -><phone>
+Email: {Sujata, Nag, Sandeep, Sherif}@isis.vanderbilt.edu -><email>

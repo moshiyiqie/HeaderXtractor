@@ -1,0 +1,7 @@
+Evolutionary Programming Techniques for Testing -><title>
+Students' Code -><title>
+Cara MacNish -><author>
+Department of Computer Science & Software Engineering -><affiliation>
+The University of Western Australia -><affiliation>
+Nedlands, W.A. 6907, Australia -><address>
+cara@cs.uwa.edu.au -><email>

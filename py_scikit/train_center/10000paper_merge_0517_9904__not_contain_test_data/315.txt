@@ -1,0 +1,7 @@
+Addressing the Complexity of Patient Monitoring with -><title>
+Multiagents and Modular Logic -><title>
+Susan L. Mabry Timothy Etters Troy Schneringer Naomi Edwards Caleb Hug -><author>
+Department of Computer Science -><affiliation>
+Whitworth College -><affiliation>
+Spokane, Washington, USA -><address>
+smabry@whitworth.edu -><email>

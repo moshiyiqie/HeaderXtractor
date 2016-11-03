@@ -1,0 +1,8 @@
+Anticipating Where to Look: Predicting the Movements -><title>
+of Mobile Agents in Complex Terrain -><title>
+Randall W. Hill, Jr., Youngjun Kim, Jonathan Gratch -><author>
+Institute for Creative Technologies -><affiliation>
+University of Southern California -><affiliation>
+13274 Fiji Way, Marina del Rey, CA 90292-7008 -><address>
++1-310-574-5700 -><phone>
+{hill, yjkim, gratch}@ict.usc.edu -><email>

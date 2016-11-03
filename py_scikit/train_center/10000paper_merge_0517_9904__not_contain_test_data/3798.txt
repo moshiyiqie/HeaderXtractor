@@ -1,0 +1,34 @@
+Rules for Migrating from ER and EER diagrams to Object- -><title>
+Relationship (OR) diagrams -><title>
+Sikha Bagui -><author>
+Department of Computer Science -><affiliation>
+University of West Florida -><affiliation>
+Pensacola, FL 32514 -><address>
+(850)478-7889 -><phone>
+bagui@uwf.edu -><email>
+1. PROBLEM AND MOTIVATION -><pubnum>
+The entity relationship (ER) approach, initially proposed by [2], -><abstract>
+modified and extended by others, has been very successful as a -><abstract>
+tool for communication between the designer and the end user -><abstract>
+during the requirements analysis and conceptual design phases -><abstract>
+because of its ease of understanding and its convenience in -><abstract>
+representation. It still remains the premier model for conceptual -><abstract>
+include the notion of inheritance, the ER model was later -><abstract>
+extended by others to include the notion of inheritance, and -><abstract>
+labeled the extended entity relationship (EER) model. The ER and -><abstract>
+requirements accurately because they require one to focus on -><abstract>
+greater semantic detail in the data relationships. The ER and EER -><abstract>
+models lead to relational database design, which was widely used -><abstract>
+the structural aspect of a database, are no longer adequate to -><abstract>
+systems, flexible manufacturing systems, knowledge based -><abstract>
+systems, multimedia information systems, etc. A more powerful -><abstract>
+data model, the object-oriented data model, which captures the -><abstract>
+semantic-integrity constraints and semantic relationships that are -><abstract>
+important to many types of applications, a model that models both -><abstract>
+the structural (or static) and behavioral (or dynamic) aspects of -><abstract>
+real world objects, is needed to model such applications. Object- -><abstract>
+oriented data models, in comparison to other data models (e.g., -><abstract>
+flat relational model or nested relational models), offer richer -><abstract>
+constructs for building complex objects and provide reuse through -><abstract>
+inheritance. Object-oriented databases (OODB) are quickly -><abstract>
+becoming the state-of-the art database technology [3]. -><abstract>

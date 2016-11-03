@@ -1,0 +1,27 @@
+Collective Action Through Common Knowledge Using A -><title>
+Facebook Model -><title>
+Gizem Korkmaz -><title>
+Virginia Bioinformatics -><author>
+Institute, Virginia Tech -><affiliation>
+Blacksburg, VA 24061 -><address>
+gkorkmaz@vbi.vt.edu -><email>
+Chris J. Kuhlman -><email>
+Virginia Bioinformatics -><author>
+Institute, Virginia Tech -><affiliation>
+Blacksburg, VA 24061 -><address>
+ckuhlman@vbi.vt.edu -><email>
+Achla Marathe -><unknow>
+Virginia Bioinformatics -><author>
+Institute, Virginia Tech -><affiliation>
+Blacksburg, VA 24061 -><address>
+amarathe@vbi.vt.edu -><email>
+Fernando Vega-Redondo -><author>
+Department of Decision -><affiliation>
+Sciences, Bocconi University -><affiliation>
+20136 Milan, Italy -><address>
+fernando.vega@unibocconi.it -><email>
+Madhav V. Marathe -><email>
+Virginia Bioinformatics -><author>
+Institute, Virginia Tech -><affiliation>
+Blacksburg, VA 24061 -><address>
+mmarathe@vbi.vt.edu -><email>

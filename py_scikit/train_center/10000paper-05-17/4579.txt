@@ -1,0 +1,6 @@
+Comparing scanning behaviour in web search on small -><title>
+and large screens -><author>
+The Australian National University -><affiliation>
+{jaewon.kim, ramesh.sankaranarayana, tom.gedeon}@anu.edu.au -><email>
+Canberra, Australia -><address>
+Paul.thomas@csiro.au -><email>

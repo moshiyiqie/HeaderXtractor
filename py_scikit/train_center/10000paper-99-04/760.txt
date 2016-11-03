@@ -1,0 +1,13 @@
+Demonstrating Social Error Recovery with AgentFactory -><title>
+Robert Ross -><author>
+Universita¨t Bremen -><affiliation>
+Germany -><address>
+robertr@tzi.de -><email>
+Rem Collier -><author>
+University College Dublin -><affiliation>
+Ireland -><address>
+rem.collier@ucd.ie -><email>
+G.M.P. O’Hare -><author>
+University College Dublin -><affiliation>
+Ireland -><address>
+gregory.ohare@ucd.ie -><email>

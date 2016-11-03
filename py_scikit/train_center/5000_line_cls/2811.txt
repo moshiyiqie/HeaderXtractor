@@ -1,0 +1,14 @@
+Improving UCT Planning via -><title>
+Approximate Homomorphisms -><title>
+Richard Lewis -><author>
+Department of Psychology -><affiliation>
+University of Michigan -><affiliation>
+rickl@umich.edu -><email>
+Satinder Singh -><author>
+Computer Science & Eng. -><affiliation>
+University of Michigan -><affiliation>
+baveja@umich.edu -><email>
+Nan Jiang -><author>
+Computer Science & Eng. -><affiliation>
+University of Michigan -><affiliation>
+nanjiang@umich.edu -><email>

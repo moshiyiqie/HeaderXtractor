@@ -1,0 +1,4 @@
+Automated Conversion and Simplification of Plan Representations -><title>
+Martin Allen and Shlomo Zilberstein -><author>
+Department of Computer Science, University of Massachusetts, Amherst, MA 01003 -><affiliation>
+{mwallen, shlomo}@cs.umass.edu -><email>

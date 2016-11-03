@@ -1,0 +1,19 @@
+Open Protocol Design for Complex Interactions in -><title>
+Multi-agent Systems -><title>
+Amal El Fallah -><author>
+Seghrouchni -><author>
+LIPN - UMR 7030 -><pubnum>
+University of Paris 13 -><affiliation>
+Villetaneuse, France -><address>
+Serge Haddad -><author>
+LAMSADE -><affiliation>
+University of Paris Dauphine -><affiliation>
+Paris, France -><address>
+haddad@lamsade.dauphine.fr -><email>
+Hamza Mazouzi -><unknow>
+LAMSADE -><author>
+University of Paris Dauphine -><affiliation>
+Paris, France -><address>
+mazouzi@lamsade.dauphine.fr -><email>
+elfallah@lipn.univ- -><email>
+paris13.fr -><web>

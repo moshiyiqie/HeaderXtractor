@@ -1,0 +1,7 @@
+Computationally-Efficient Combinatorial Auctions for -><title>
+Resource Allocation in Weakly-Coupled MDPs -><title>
+Dmitri Dolgov and Edmund Durfee -><author>
+Department of Electrical Engineering and Computer Science -><affiliation>
+University of Michigan -><affiliation>
+Ann Arbor, MI 48109 -><address>
+{ddolgov, durfee}@umich.edu -><email>

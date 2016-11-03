@@ -1,0 +1,11 @@
+A Principled Study of the Design Tradeoffs for -><title>
+Autonomous Trading Agents -><title>
+∗ -><title>
+Ioannis A. Vetsikas -><author>
+Computer Science Dept., Cornell University -><affiliation>
+Ithaca, NY 14853, USA -><address>
+vetsikas@cs.cornell.edu -><email>
+Bart Selman† -><author>
+Computer Science Dept., Cornell University -><affiliation>
+Ithaca, NY 14853, USA -><address>
+selman@cs.cornell.edu -><email>

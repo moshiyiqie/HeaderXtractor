@@ -1,0 +1,11 @@
+Protocol Synthesis with Dialogue Structure Theory -><title>
+Jarred McGinnis -><author>
+j.p.mcginnis@sms.ed.ac.uk -><email>
+David Robertson -><author>
+dr@inf.ed.ac.uk -><email>
+Chris Walton -><author>
+cdw@inf.ed.ac.uk -><email>
+Centre for Intelligent Systems and Applications -><affiliation>
+University of Edinburgh -><affiliation>
+11 Crichton Street -><address>
+EH8 9LE Edinburgh, Scotland -><address>

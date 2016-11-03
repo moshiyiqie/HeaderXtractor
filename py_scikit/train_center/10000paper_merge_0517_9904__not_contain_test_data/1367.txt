@@ -1,0 +1,14 @@
+Decentralized Bayesian Reinforcement Learning for Online -><title>
+Agent Collaboration -><affiliation>
+W. T. L. Teacy1, G. Chalkiadakis2 -><author>
+A. Farinelli3 -><author>
+1University of Southampton, UK -><affiliation>
+A. Rogers1, N. R. Jennings1 -><address>
+S. McClean4, G. Parr4 -><address>
+3University of Verona, Italy -><affiliation>
+alessandro.farinelli@univr.it -><email>
+4University of Ulster, UK -><affiliation>
+{si.mcclean,gp.parr}@ulster.ac.uk -><email>
+{wtlt,acr,nrj}@ecs.soton.ac.uk -><email>
+2Technical University of Crete, Greece -><affiliation>
+gehalk@intelligence.tuc.gr -><email>

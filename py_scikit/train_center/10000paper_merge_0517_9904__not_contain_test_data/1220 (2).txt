@@ -1,0 +1,14 @@
+Observation-based expectation generation and -><title>
+response for believable reactive agents -><title>
+Bruce Blumberg -><author>
+The Media Lab, MIT -><affiliation>
+E15-311,20 Ames St. -><address>
+Cambridge Ma. 02138 -><address>
+617 253 9832 -><phone>
+bruce @ media.mit.edu -><email>
+Christopher Kline -><author>
+NearLife Inc. -><affiliation>
+147 Sherman St. -><address>
+Cambridge Ma. 02140 -><address>
+617 491 3184 -><phone>
+ckline @ nearlife.com -><email>

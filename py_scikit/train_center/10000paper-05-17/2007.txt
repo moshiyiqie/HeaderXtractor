@@ -1,0 +1,13 @@
+Model Checking Degrees of Belief in a System of Agents -><title>
+Franco Raimondi -><author>
+Department of Computer Science -><affiliation>
+Middlesex University, London, UK -><affiliation>
+f.raimondi@mdx.ac.uk -><email>
+Giuseppe Primiero -><author>
+Department of Computer Science -><affiliation>
+Middlesex University, London, UK -><affiliation>
+g.primiero@mdx.ac.uk -><email>
+Neha Rungta -><author>
+NASA Ames Research Center -><affiliation>
+Moffett Field, CA 94035, USA -><address>
+neha.s.rungta@nasa.gov -><email>

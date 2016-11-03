@@ -1,0 +1,9 @@
+Extensive Games with Possibly Unaware Players∗ -><title>
+Joseph Y. Halpern -><author>
+Computer Science -><affiliation>
+Cornell University, USA -><affiliation>
+halpern@cs.cornell.edu -><email>
+Leandro C. Reˆgo -><author>
+School of Electrical and Computer Engineering -><affiliation>
+Cornell University, USA -><affiliation>
+lcr26@cornell.edu -><email>

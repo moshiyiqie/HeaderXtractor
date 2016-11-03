@@ -1,0 +1,14 @@
+A Collaborative Approach to Software Engineering -><title>
+Jonathan D. Fouss, Kai -><author>
+Department -><affiliation>
+Auburn Univers -><affiliation>
+Auburn, -><address>
+{ foussjd,kchang} @eng.auburn.edu -><email>
+Abst -><author>
+(CASE) tools that provide basic collaborative capabilities. -><affiliation>
+However, CASE tools' collaborative abilities are typically -><affiliation>
+very basic and are not enough for true collaborative work. -><abstract>
+This paper presents a groupware tool under development at -><abstract>
+Auburn University whose purpose is to aid in the -><affiliation>
+engineering design process by allowing users to collaborate -><affiliation>
+on the actual design and generate appropriate documents. -><abstract>

@@ -1,0 +1,10 @@
+Improving the Learning of Graduate Attributes in the Curriculum: a Case- -><title>
+Study in IT Management -><title>
+Alan Sixsmith -><author>
+Andrew Litchfield -><author>
+School of Systems, Management and Leadership -><affiliation>
+Faculty of Engineering and IT -><affiliation>
+University of Technology, Sydney -><affiliation>
+PO Box 123, Broadway NSW 2007 -><address>
+alan.sixsmith@uts.edu.au -><email>
+andrew.litchfield@uts.edu.au -><email>

@@ -1,0 +1,13 @@
+A Plug-in Architecture for Generating -><title>
+Collaborative Agent Responses -><affiliation>
+Charles Rich∗, Neal Lesh∗, Jeff Rickel† and Andrew Garland∗ -><author>
+† -><affiliation>
+∗ -><affiliation>
+Mitsubishi Electric Research Laboratories -><address>
+201 Broadway -><address>
+Cambridge, MA, 02139, USA -><address>
+rich, lesh, garland@merl.com -><email>
+USC Information Sciences Institute -><affiliation>
+4676 Admiralty Way -><address>
+Marina del Rey, CA, 90292, USA -><address>
+rickel@isi.edu -><email>

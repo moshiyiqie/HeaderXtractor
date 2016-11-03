@@ -1,0 +1,11 @@
+A Mobile Computational Model for Internet Programming -><title>
+Boumediene Belkhouche -><author>
+EECS Department -><affiliation>
+Tulane University -><affiliation>
+New Orleans, LA - 70118 -><address>
+bb@eecs.tulane.edu -><email>
+Sarah Monisha Pulimood -><author>
+EECS Department -><affiliation>
+Tulane University -><affiliation>
+New Orleans, LA - 70118 -><address>
+pulimood@eecs.tulane.edu -><email>

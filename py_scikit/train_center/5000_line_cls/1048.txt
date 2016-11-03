@@ -1,0 +1,9 @@
+Prometheus Design Tool -><title>
+John Thangarajah -><author>
+Lin Padgham -><author>
+Michael Winikoff -><author>
+winikoff@cs.rmit.edu.au -><email>
+johthan@cs.rmit.edu.au -><email>
+linpa@cs.rmit.edu.au -><email>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>

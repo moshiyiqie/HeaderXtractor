@@ -1,0 +1,14 @@
+Automatic Verification of Epistemic Specifications under -><title>
+Convergent Equational Theories -><title>
+Ioana Boureanu -><title>
+Ecole Polytechnique Federal -><author>
+de Lausanne -><author>
+ioana.boureanu@epfl.ch -><email>
+Alessio Lomuscio -><author>
+Department of Computing -><affiliation>
+Imperial College London -><affiliation>
+a.lomuscio@ic.ac.uk -><email>
+Andrew V. Jones -><author>
+Department of Computing -><affiliation>
+Imperial College London -><affiliation>
+andrew.jones@ic.ac.uk -><email>

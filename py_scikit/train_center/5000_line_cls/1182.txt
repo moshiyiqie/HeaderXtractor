@@ -1,0 +1,17 @@
+Towards a Formal Framework for the Search of a -><title>
+Consensus Between Autonomous Agents -><title>
+Sihem Belabbes -><affiliation>
+IRIT - CNRS -><address>
+118, route de Narbonne -><address>
+Toulouse, France -><address>
+belabbes@irit.fr -><affiliation>
+Leila Amgoud -><author>
+IRIT - CNRS -><affiliation>
+118, route de Narbonne -><address>
+Toulouse, France -><address>
+amgoud@irit.fr -><email>
+Henri Prade -><author>
+IRIT - CNRS -><affiliation>
+118, route de Narbonne -><address>
+Toulouse, France -><address>
+prade@irit.fr -><email>

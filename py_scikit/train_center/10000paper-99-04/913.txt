@@ -1,0 +1,5 @@
+The gsim Gate-level Simulator -><title>
+J. W. Smith -><author>
+Computer -><affiliation>
+University of Georgia, Athens, GA -><affiliation>
+jws@cs.uga.edu -><email>

@@ -1,0 +1,23 @@
+∗ -><title>
+Using SMT solvers to verify high-integrity programs -><title>
+Kathleen Sharp -><author>
+IBM United Kingdom Ltd -><affiliation>
+Hursley House, Hursley Park -><address>
+Winchester, SO21 2JN -><address>
+United Kingdom -><address>
+Kathleen.sharp@uk.ibm.com -><email>
+Paul B. Jackson -><author>
+School of Informatics -><affiliation>
+University of Edinburgh -><affiliation>
+King’s Bldgs -><affiliation>
+Edinburgh, EH9 3JZ -><address>
+United Kingdom -><address>
+Paul.Jackson@ed.ac.uk -><email>
+Bill J. Ellis -><author>
+School of Mathematical and -><affiliation>
+Computer Sciences -><affiliation>
+Heriot-Watt University -><affiliation>
+Riccarton -><address>
+Edinburgh, EH14 4AS -><address>
+United Kingdom -><address>
+bill@macs.hw.ac.uk -><email>

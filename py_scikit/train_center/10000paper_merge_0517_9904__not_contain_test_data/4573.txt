@@ -1,0 +1,6 @@
+Exploiting Medical Hierarchies for Concept-based -><title>
+Information Retrieval -><title>
+Guido Zuccon1, Bevan Koopman1,2, Anthony Nguyen1, Deanne Vickers1, Luke Butt1 -><author>
+1Australian e-Health Research Centre, CSIRO, Brisbane, Australia -><pubnum>
+2Faculty of Science & Technology, Queensland University of Technology, Brisbane, Australia -><affiliation>
+{guido.zuccon, bevan.koopman, anthony.nguyen, deanne.vickers, luke.butt}@csiro.au -><email>

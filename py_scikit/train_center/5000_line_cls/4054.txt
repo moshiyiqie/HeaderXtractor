@@ -1,0 +1,34 @@
+Multimodal Interaction with Speech and Physical Touch -><title>
+Interface in a Media Center Application -><title>
+2, -><pubnum>
+3 -><pubnum>
+, Jukka Riekki -><affiliation>
+1 -><pubnum>
+1 -><pubnum>
+3 -><pubnum>
+1 -><pubnum>
+2 -><pubnum>
+, Juho Hella -><note>
+, -><note>
+, Aleksi Kallinen -><note>
+, Juha-Pekka Rajaniemi -><note>
+1 -><date>
+1 -><pubnum>
+1 -><pubnum>
+1 -><pubnum>
+Markku Turunen -><unknow>
+Aleksi Melto -><title>
+Toni Miettinen -><author>
+, -><note>
+, Thomas Olsson -><note>
+, Pellervo Valkama -><note>
+and Roope Raisamo -><note>
+, Jaakko Hakulinen -><note>
+, Timo Saloranta -><note>
+1 -><note>
+3 -><note>
+3 -><note>
+3, -><note>
+1 -><note>
+, Ekaterina Gilman -><note>
+1 -><note>

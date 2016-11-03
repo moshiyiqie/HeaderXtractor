@@ -1,0 +1,16 @@
+Preliminary Explorations in Specifying and Validating -><title>
+Entity-Relationship Models in PVS -><title>
+Arijit Sengupta -><author>
+Wright State University -><affiliation>
+Dayton, OH, USA -><address>
+Venkatesh Choppella -><author>
+Indian Institute of Information -><affiliation>
+Technology and Management -><affiliation>
+– Kerala -><affiliation>
+Thiruvananthapuram, India -><address>
+Edward L. Robertson -><author>
+Indiana University -><affiliation>
+Bloomington, IN, USA -><address>
+Steven D. Johnson -><author>
+Indiana University -><affiliation>
+Bloomington, IN, USA -><address>

@@ -1,0 +1,8 @@
+Sensible Agents: -><title>
+An Implemented Multi-Agent System and Testbed -><title>
+K. S. Barber, R. McKay, M. MacMahon, -><author>
+C. E. Martin, D. N. Lam, A. Goel, D. C. Han, J. Kim -><author>
+Laboratory for Intelligent Processes and Systems, Electrical and Computer Engineering Department -><affiliation>
+The University of Texas at Austin, Austin, TX 78712 -><affiliation>
+Phone: +1 (512) 471-6152 -><phone>
+barber@mail.utexas.edu http://www.lips.utexas.edu/ -><email>

@@ -1,0 +1,13 @@
+A Method for Detecting Machine-generated Malware -><title>
+Yasmine Kandissounon -><author>
+Radhouane Chouchane -><author>
+Columbus State University -><affiliation>
+Columbus State University -><affiliation>
+4225 University Avenue -><affiliation>
+4225 University Avenue -><affiliation>
+Columbus, GA, 31907 -><address>
+Columbus, GA, 31907 -><address>
+(706) 568 2410 -><phone>
+(706) 568 2410 -><phone>
+kandissounon_yasmine@colstate.edu -><email>
+chouchane@colstate.edu -><email>

@@ -1,0 +1,10 @@
+Module Checking of Strategic Ability -><title>
+Wojciech Jamroga -><author>
+Institute of Computer Science -><affiliation>
+Polish Academy of Sciences -><affiliation>
+w.jamroga@ipipan.waw.pl -><email>
+Aniello Murano -><author>
+Dipartimento di Ingegneria Elettrica e -><affiliation>
+Tecnologie dell’Informazione -><affiliation>
+Università degli Studi di Napoli Federico II, Italy -><affiliation>
+aniello.murano@unina.it -><email>

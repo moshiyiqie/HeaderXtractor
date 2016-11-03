@@ -1,0 +1,17 @@
+Approximate Solutions for Factored -><title>
+Dec-POMDPs with Many Agents -><title>
+Matthijs T.J. Spaan -><author>
+Delft University of Technology -><affiliation>
+Mekelweg 4 -><address>
+Delft, The Netherlands -><address>
+m.t.j.spaan@tudelft.nl -><email>
+Shimon Whiteson -><author>
+University of Amsterdam -><affiliation>
+Science Park 904 -><address>
+Amsterdam, The Netherlands -><address>
+s.a.whiteson@uva.nl -><email>
+Frans A. Oliehoek -><author>
+Maastricht University -><affiliation>
+Maastricht, The Netherlands -><address>
+frans.oliehoek@ -><email>
+maastrichtuniversity.nl -><affiliation>

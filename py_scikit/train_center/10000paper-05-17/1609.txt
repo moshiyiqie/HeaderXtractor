@@ -1,0 +1,9 @@
+Sustainable Multiagent Application to Conserve Energy -><title>
+(Demonstration) -><title>
+Jun-young Kwak, Pradeep Varakantham∗, Rajiv Maheswaran, Milind Tambe, Farrokh -><author>
+Jazizadeh, Geoffrey Kavulya, Laura Klein, Burcin Becerik-Gerber, Timothy Hayes, -><author>
+Wendy Wood -><author>
+University of Southern California, Los Angeles, CA, 90089 -><affiliation>
+∗Singapore Management University, Singapore, 178902 -><affiliation>
+(a) Educational Building (RGL) (b) Simulation Testbed -><note>
+Figure 1: The actual research testbed at USC and our simulator -><note>

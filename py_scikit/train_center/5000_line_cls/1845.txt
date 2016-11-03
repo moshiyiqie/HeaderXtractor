@@ -1,0 +1,11 @@
+Preference Elicitation for Risky Prospects -><title>
+Greg Hines -><author>
+Cheriton School of Computer Science -><affiliation>
+University of Waterloo -><affiliation>
+Waterloo, Canada -><address>
+ggdhines@cs.uwaterloo.ca -><email>
+Kate Larson -><author>
+Cheriton School of Computer Science -><affiliation>
+University of Waterloo -><affiliation>
+Waterloo, Canada -><address>
+klarson@cs.uwaterloo.ca -><email>

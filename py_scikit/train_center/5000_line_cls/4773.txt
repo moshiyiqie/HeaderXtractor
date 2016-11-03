@@ -1,0 +1,8 @@
+A Methodological Framework for Conceptual Data -><title>
+Warehouse Design -><title>
+Matilde Celma -><title>
+Leopoldo Zepeda -><title>
+Camino de Vera s/n -><author>
+lezepeda@dsic.upv.es -><email>
+celma@dsic.upv.es -><email>
+rzatarain@itc.ccs.com -><email>

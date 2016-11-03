@@ -1,0 +1,7 @@
+Whistling in the Dark: Cooperative Trail Following in -><title>
+Uncertain Localization Space -><title>
+Richard T. Vaughan, Kasper Stoy, Gaurav S. Sukhatme and Maja J. Matari6 -><author>
+Robotics Research Laboratories -><affiliation>
+University of Southern California -><affiliation>
+Los Angeles, California 90089-0781 -><address>
+[vaughan, kaspers, gaurav, mataric]@robotics.usc.edu -><email>

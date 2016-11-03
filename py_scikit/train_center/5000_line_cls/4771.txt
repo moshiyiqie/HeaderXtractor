@@ -1,0 +1,34 @@
+Information Assurance in the Undergraduate Curriculum -><title>
+Bhagyavati (Moderator) -><author>
+Columbus State University -><affiliation>
+4225 University Avenue -><affiliation>
+Columbus, GA 31907 -><address>
+1-706-565-3519 -><phone>
+bhagyavati@colstate.edu -><email>
+Michael Olan -><author>
+Richard Stockton College -><affiliation>
+Computer Science & Information Systems -><affiliation>
+Pomona, NJ 08240 -><address>
+1-609-652-4587 -><phone>
+Michael.Olan@stockton.edu -><email>
+David Naugler -><author>
+Southeast Missouri State University -><affiliation>
+Department of Computer Science -><affiliation>
+Cape Girardeau, MO 62701 -><address>
+1-573-651-2787 -><phone>
+dnaugler@semo.edu -><email>
+Charles E. Frank -><author>
+Northern Kentucky University -><affiliation>
+Department of Mathematics & Computer Science -><affiliation>
+Highland Heights, KY 41099 -><address>
+1-859-572-5320 -><phone>
+frank@nku.edu -><email>
+Categories and Subject Descriptors -><note>
+K.3.2 [Computer and Information Science Education]: -><note>
+Computer Science Education, Curriculum. -><note>
+General Terms -><note>
+Security, Management, Design. -><note>
+Keywords -><keyword>
+Information Assurance, Undergraduate Curriculum, Computer -><keyword>
+Science Curriculum, Network Security, Awareness of Assurance. -><keyword>
+SUMMARY -><note>

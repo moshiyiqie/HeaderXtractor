@@ -1,0 +1,34 @@
+Application of Particle Swarm Optimization on Batch -><title>
+Process Scheduling -><title>
+Lei Zhang -><author>
+Department of Computer Science -><affiliation>
+Auburn University -><affiliation>
+Auburn, AL 36849 -><address>
+Tel: 334-559-9208 -><phone>
+zhangl3@eng.auburn.edu -><email>
+Categories and Subject Descriptors -><keyword>
+simulated annealing. -><keyword>
+General Terms -><keyword>
+Algorithms, Performance, Design. -><keyword>
+Keywords -><keyword>
+Particle swarm optimization, Simulated annealing, Batch -><note>
+process, Scheduling. -><note>
+1. PROBLEM AND MOTIVATION -><note>
+The scheduling of batch process is a kind of NP-complete -><abstract>
+problem and has been the interest of research for many years. -><abstract>
+Various methods have been applied to solve such problems and -><abstract>
+simulated annealing (SA) is the most efficient algorithm. But SA -><abstract>
+is very slow when the problem size is large. In this work, particle -><abstract>
+swarm optimization (PSO) was applied to solve the scheduling -><abstract>
+problem of multiproduct batch process. The results show that PSO -><abstract>
+is a powerful method for solving the batch process scheduling -><abstract>
+problems and is superior to the widely used simulated annealing. -><abstract>
+2. BACKGROUND AND RELATED WORK -><abstract>
+Continuous operation and batch operation are two major types of -><abstract>
+operations in chemical industry [1-3]. In batch operation, multiple -><abstract>
+products are processed on a set processing units sequentially. How -><abstract>
+to schedule the processing tasks according to the market demand -><abstract>
+or other requirements is an important step in batch process system. -><abstract>
+Usually this problem consists of determining the times and order -><abstract>
+in which the products are to be produced in each processor given -><abstract>
+the production facility in order to optimize an objective such as -><abstract>

@@ -1,0 +1,5 @@
+Spam Mitigation using Spatio-Temporal -><title>
+Reputations from Blacklist History ∗ -><title>
+Andrew G. West, Adam J. Aviv, Jian Chang, and Insup Lee -><author>
+Dept. of Computer and Information Science - University of Pennsylvania - Philadelphia, PA -><affiliation>
+{westand, aviv, jianchan, lee}@cis.upenn.edu -><email>

@@ -1,0 +1,15 @@
+Agent-based Simulation Study of Behavioral Anticipation: -><title>
+Anticipatory Fault Management in Computer Networks -><title>
+Avdhoot Saple -><title>
+Levent Yilmaz -><title>
+M&SNet: AMSL (The Auburn Modeling and -><author>
+Simulation Laboratory) -><affiliation>
+Computer Science and Software Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, AL, USA -><address>
+M&SNet: AMSL (The Auburn Modeling and -><affiliation>
+Simulation Laboratory) -><affiliation>
+Computer Science and Software Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, AL, USA -><address>
+sapleav@eng.auburn.edu yilmaz@auburn.edu -><email>

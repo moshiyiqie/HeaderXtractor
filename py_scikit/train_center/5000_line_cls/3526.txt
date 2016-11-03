@@ -1,0 +1,16 @@
+Ron Lindqvist -><author>
+School of Business and Economics -><affiliation>
+School of Business and Economics -><affiliation>
+School of Business and Economics -><affiliation>
+Henrikinkatu 7 -><address>
+20500 Turku, Finland -><address>
++358 2 215 3519 -><phone>
+johanna.lindstrom@abo.fi -><email>
+Henrikinkatu 7 -><affiliation>
+20500 Turku, Finland -><address>
++358 2 215 3521 -><phone>
+anna-greta.nystrom@abo.fi -><email>
+Henrikinkatu 7 -><address>
+20500 Turku, Finland -><address>
++358 2 215 xxxx -><phone>
+ron.lindqvist@abo.fi -><email>

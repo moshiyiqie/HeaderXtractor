@@ -1,0 +1,18 @@
+Service-Oriented and Autonomous Distribution and -><title>
+Provision of Multimedia Contents -><title>
+Shinichi Honiden -><author>
+National Institute of -><affiliation>
+Informatics -><author>
+and The University of Tokyo -><affiliation>
+honiden@nii.ac.jp -><email>
+Fuyuki Ishikawa -><author>
+The University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku, -><address>
+Tokyo, Japan -><address>
+f-ishikawa@nii.ac.jp -><email>
+Nobukazu Yoshioka -><author>
+National Institute of -><affiliation>
+Informatics -><address>
+2-1-2 Hitotsubashi, -><address>
+Chiyoda-ku, Tokyo, Japan -><address>
+nobukazu@nii.ac.jp -><email>

@@ -1,0 +1,9 @@
+SubCOID: An Attempt to Explore Cluster-Outlier Iterative -><title>
+Detection Approach to Multi-Dimensional Data Analysis in -><title>
+Subspace -><title>
+Yong Shi -><author>
+Department of Computer Science and Information Systems -><affiliation>
+Kennesaw State University -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA 30144 -><address>
+yshi5@kennesaw.edu -><email>

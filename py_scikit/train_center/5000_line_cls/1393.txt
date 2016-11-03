@@ -1,0 +1,17 @@
+Run-Time Model Checking of Interaction and Deontic -><title>
+Models for Multi-Agent Systems -><title>
+Nardine Osman -><author>
+School of Informatics -><affiliation>
+The University of Edinburgh -><affiliation>
+Edinburgh EH8 9LE, UK -><address>
+N.Osman@sms.ed.ac.uk -><email>
+David Robertson -><author>
+School of Informatics -><affiliation>
+The University of Edinburgh -><affiliation>
+Edinburgh EH8 9LE, UK -><address>
+dr@inf.ed.ac.uk -><email>
+Christopher Walton -><author>
+School of Informatics -><affiliation>
+The University of Edinburgh -><affiliation>
+Edinburgh EH8 9LE, UK -><address>
+cdw@inf.ed.ac.uk -><email>

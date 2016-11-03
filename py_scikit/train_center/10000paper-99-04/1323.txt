@@ -1,0 +1,20 @@
+Is the Wolf Angry or... Just Hungry? -><title>
+Inspecting, modifying and sharing characters’ minds -><title>
+Isabel Machado -><author>
+INESC and CBLU - University -><affiliation>
+of Leeds -><affiliation>
+Rua Alves Redol, 9 -><address>
+1000 Lisboa, Portugal -><address>
+isabel.machado@inesc.pt -><email>
+Rui Prada -><author>
+IST-Technical University of -><affiliation>
+Lisbon and INESC -><affiliation>
+Rua Alves Redol, 9 -><address>
+1000 Lisboa, Portugal -><address>
+rui.prada@gaiva.inesc.pt -><email>
+Ana Paiva -><author>
+IST-Technical University of -><affiliation>
+Lisbon and INESC -><affiliation>
+Rua Alves Redol, 9 -><address>
+1000 Lisboa, Portugal -><address>
+ana.paiva@inesc.pt -><email>

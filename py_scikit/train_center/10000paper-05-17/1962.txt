@@ -1,0 +1,11 @@
+Combinatorial Auctions without Money∗ -><title>
+Piotr Krysta -><author>
+University of Liverpool, UK -><affiliation>
+pkrysta@liverpool.ac.uk -><email>
+Carmine Ventre -><author>
+Teesside University, UK -><affiliation>
+c.ventre@tees.ac.uk -><email>
+Dimitris Fotakis -><author>
+National Technical Univ. of Athens -><affiliation>
+Greece -><address>
+fotakis@cs.ntua.gr -><email>

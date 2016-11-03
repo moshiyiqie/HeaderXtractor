@@ -1,0 +1,13 @@
+Asymmetric Abstractions for Adversarial Settings -><title>
+Michael Johanson -><author>
+University of Alberta -><affiliation>
+Edmonton, Alberta -><address>
+johanson@cs.ualberta.ca -><email>
+Nolan Bard -><author>
+University of Alberta -><affiliation>
+Edmonton, Alberta -><address>
+nolan@cs.ualberta.ca -><email>
+Michael Bowling -><author>
+University of Alberta -><affiliation>
+Edmonton, Alberta -><address>
+bowling@cs.ualberta.ca -><email>

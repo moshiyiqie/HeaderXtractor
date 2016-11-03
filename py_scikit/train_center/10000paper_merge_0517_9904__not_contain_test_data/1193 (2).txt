@@ -1,0 +1,10 @@
+Derivation of Glue Code for Agent Interoperation -><title>
+Mark Burstein -><author>
+GTE/BBN -><affiliation>
+burstein@bbn.com -><email>
+Drew McDermott -><author>
+Yale University -><affiliation>
+drew. mcdermott @yale. edu -><email>
+Douglas R. Smith -><author>
+Stephen J. Westfold -><author>
+Kestrel Institute -><affiliation>

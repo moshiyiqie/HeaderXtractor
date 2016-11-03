@@ -1,0 +1,16 @@
+Ad Hoc Teamwork for Leading a Flock -><title>
+Noa Agmon -><author>
+Dept. of Computer Science -><affiliation>
+Bar Ilan University -><affiliation>
+Ramat Gan, 52900, Israel -><address>
+agmon@cs.biu.ac.il -><email>
+Katie Genter -><author>
+Dept. of Computer Science -><affiliation>
+University of Texas at Austin -><affiliation>
+Austin, TX 78712 USA -><address>
+katie@cs.utexas.edu -><email>
+Peter Stone -><author>
+Dept. of Computer Science -><affiliation>
+University of Texas at Austin -><affiliation>
+Austin, TX 78712 USA -><address>
+pstone@cs.utexas.edu -><email>

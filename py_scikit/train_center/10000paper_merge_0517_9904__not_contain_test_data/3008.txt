@@ -1,0 +1,25 @@
+SoundSpot: A Next-generation Audio-guide -><title>
+System for museums -><title>
+Hiroshi Mizoguchi -><author>
+Fusako Kusunoki -><author>
+Tama Art University -><affiliation>
+2-1723, Yarimizu -><address>
+Hatiouji, Tokyo, Japan -><address>
+Ichiro Satoh -><author>
+Information Systems Architecture -><affiliation>
+Research Division, National -><affiliation>
+Institute of Informatics, 2-1-2 -><affiliation>
+Hitotsubashi, Tiyoda, Tokyo, Japan -><address>
+Department of Mechanical -><affiliation>
+Engineering, Faculty of Science -><affiliation>
+and Technology, Tokyo University -><affiliation>
+of Science, 2641 Yamazaki Noda, -><address>
+Chiba -><address>
+hm@rs.noda.tus.ac.jp -><email>
+kusunoki@tamabi.ac.jp -><email>
+ichiro@nii.ac.jp -><email>
+Shigenori Inagaki -><email>
+Faculty of Human Development, -><degree>
+Kobe University, 3-11Turukabuto -><affiliation>
+Koube Hyougo 657-8501 Japan -><address>
+Inagakis@koube.ac.jp -><email>

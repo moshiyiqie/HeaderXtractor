@@ -1,0 +1,14 @@
+Truthful Interval Cover Mechanisms for Crowdsourcing -><title>
+Applications -><title>
+Pankaj Dayama -><author>
+IBM Research, India -><affiliation>
+pankajdayama@in.ibm.com -><email>
+Balakrishnan Narayanaswamy -><author>
+Department of CSE, UCSD -><affiliation>
+muralib@cs.ucsd.edu -><email>
+Dinesh Garg -><author>
+IBM Research, India -><affiliation>
+garg.dinesh@in.ibm.com -><email>
+Y Narahari -><author>
+Indian Institute of Science, Bangalore -><affiliation>
+hari@csa.iisc.ernet.in -><email>

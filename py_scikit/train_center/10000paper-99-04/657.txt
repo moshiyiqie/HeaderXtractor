@@ -1,0 +1,9 @@
+Bayesian Reinforcement Learning for Coalition Formation under Uncertainty -><title>
+Craig Boutilier -><author>
+Dept. of Computer Science, Univ. of Toronto -><affiliation>
+Toronto, ON, M5S 3G4, Canada -><address>
+cebly@cs.toronto.edu -><email>
+Georgios Chalkiadakis -><author>
+Dept. of Computer Science, Univ. of Toronto -><affiliation>
+Toronto, ON, M5S 3G4, Canada -><address>
+gehalk@cs.toronto.edu -><email>

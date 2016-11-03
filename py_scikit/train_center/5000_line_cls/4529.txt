@@ -1,0 +1,11 @@
+A Mathematical Model of the Trim Command in -><title>
+NAND-Flash SSDs -><title>
+Tasha Frankie -><author>
+UCSD -><affiliation>
+tcvanesi@ucsd.edu -><email>
+Ken Kreutz-Delgado -><author>
+UCSD -><affiliation>
+kreutz@eng.ucsd.edu -><email>
+Gordon Hughes -><author>
+CMRR -><affiliation>
+ghughes@alumni.caltech.edu -><email>

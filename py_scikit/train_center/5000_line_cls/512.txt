@@ -1,0 +1,8 @@
+Organizational Patterns For Data Management in Large- -><title>
+Scale Distributed MultiAgent Systems -><title>
+William Wright, Dana Moore, Michael Thome -><author>
+BBN -><affiliation>
+1300 N 17th Street -><address>
+Arlington, Virginia 22209 -><address>
+703-284-4600 -><phone>
+[wwright, damoore, mthome]@bbn.com -><email>

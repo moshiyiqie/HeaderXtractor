@@ -1,0 +1,19 @@
+Edutaining School Pupils for Japanese Hand Alphabets -><title>
+Yasushi Harada Fusako Kusunoki -><author>
+Tama Art University -><affiliation>
+2-1723, Yarimizu, Hachioji -><address>
+192-0394, Japan -><address>
+Miki Namatame -><author>
+Tsukuba Col. of Technology -><affiliation>
+4-3-15, Amakubo, Tsukuba -><address>
+305-0005, Japan -><address>
+Takao Terano -><author>
+GSBS, Tsukuba University -><affiliation>
+3-29-1, Otsuka, Bunkyo-ku, Tokyo -><address>
+112-0012, Japan -><address>
++81-29-858-9352 -><phone>
++81-426-79-5630 -><pubnum>
++81-3-3942-6855 -><pubnum>
+miki@a.tsukuba-tech.ac.jp -><email>
+{hayaday, kusunoki}@tamabi.ac.jp -><email>
+terano@gssm.otsuka.tsukuba.ac.jp -><email>

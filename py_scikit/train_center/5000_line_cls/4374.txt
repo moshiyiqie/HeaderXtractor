@@ -1,0 +1,10 @@
+A Comparison of Genetic Feature Selection and Weighting -><title>
+Techniques for Multi-Biometric Recognition -><title>
+Khary Popplewell1, Aniesha Alford2, Gerry Dozier3, Kelvin Bryant4, John Kelly5, Josh Adams6, -><author>
+Tamirat Abegaz7, Kamiliah Purrington8, and Joseph Shelton9 -><author>
+Center for Advanced Studies in Identity Sciences (CASIS@A&T) -><email>
+North Carolina Agricultural and Technical State University -><affiliation>
+1601 E Market St., Greensboro, NC 27411 -><address>
+1ktpopple@ncat.edu, -><email>
+5jck@ncat.edu, 6jcadams2@ncat.edu, -><email>
+9jashelt1@ncat.edu -><email>

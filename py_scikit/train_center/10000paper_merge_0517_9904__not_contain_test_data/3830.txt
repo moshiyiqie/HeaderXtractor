@@ -1,0 +1,8 @@
+Embedding Sponsored Projects in Classes: A Case Study -><title>
+Richard Halstead-Nussloch -><author>
+Computing and Software Engineering -><affiliation>
+Southern Polytechnic State University -><affiliation>
+1100 South Marietta Parkway -><address>
+Marietta, GA 30060 USA -><address>
++1 678 915 5509 -><phone>
+rhalstea@spsu.edu -><email>

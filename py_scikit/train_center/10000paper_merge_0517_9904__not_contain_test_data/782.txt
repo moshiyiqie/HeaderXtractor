@@ -1,0 +1,8 @@
+Distributed Coordination of Mobile Agent Teams: -><title>
+The Advantage of Planning Ahead -><title>
+Laura Barbulescu, Zachary B. Rubinstein, Stephen F. Smith, and Terry L. Zimmerman -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh PA 15024 -><address>
+{laurabar,zbr,sfs,wizim}@cs.cmu.edu -><email>

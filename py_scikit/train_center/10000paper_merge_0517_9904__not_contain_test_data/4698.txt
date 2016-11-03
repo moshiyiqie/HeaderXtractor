@@ -1,0 +1,7 @@
+SMT-Based Synthesis of Distributed Systems∗ -><title>
+Sven Schewe -><author>
+Universität des Saarlandes -><affiliation>
+schewe@uni-sb.de -><email>
+Bernd Finkbeiner -><author>
+Universität des Saarlandes -><affiliation>
+finkbeiner@uni-sb.de -><email>

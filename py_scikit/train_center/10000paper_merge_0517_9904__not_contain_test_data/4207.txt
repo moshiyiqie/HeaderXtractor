@@ -1,0 +1,10 @@
+An Object Discarding Policy with FI Systems for -><title>
+Cooperative Hybrid Caching Architecture -><title>
+Jinsuk Baek Paul S. Fisher Yuri Kim Mingyung Kwak -><author>
+Department of Computer Science, Winston-Salem State University -><affiliation>
+Winston-Salem, NC 27110 -><address>
+336-750-{3323, 2473, 2480, 2480}, {baekj, fisherp, kyuri107, mkwak106}@wssu.edu -><email>
+Hyungoo Han -><author>
+Department of Computer Science and Engineering, Hankuk University of Foreign Studies -><affiliation>
+Yongin-Shi, Kyounggi-do, Korea -><address>
+82-031-330-4364, hghan@hufs.ac.kr -><email>

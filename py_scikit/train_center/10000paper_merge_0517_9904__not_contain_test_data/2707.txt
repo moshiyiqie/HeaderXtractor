@@ -1,0 +1,32 @@
+Extraction of novelty concepts from TV broadcasts with -><title>
+longitudinal user experiments -><title>
+Jouni Sarvanko -><author>
+University of Oulu -><affiliation>
+P.O.BOX 4500 -><address>
+FIN-90014 UNIVERSITY OF -><affiliation>
+OULU, Finland -><address>
+jouni.sarvanko@ee.oulu.fi -><email>
+Mika Rautiainen -><author>
+University of Oulu -><affiliation>
+P.O.BOX 4500 -><address>
+FIN-90014 UNIVERSITY OF -><affiliation>
+OULU, Finland -><address>
+mika.rautiainen@ee.oulu.fi -><email>
+Arto Heikkinen -><degree>
+University of Oulu -><affiliation>
+P.O.BOX 4500 -><pubnum>
+FIN-90014 UNIVERSITY OF -><affiliation>
+OULU, Finland -><address>
+arto.heikkinen@ee.oulu.fi -><email>
+Mika Ylianttila -><author>
+University of Oulu -><affiliation>
+P.O.BOX 4500 -><address>
+FIN-90014 UNIVERSITY OF -><affiliation>
+OULU, Finland -><address>
+mika.ylianttila@oulu.fi -><email>
+Jukka Riekki -><author>
+University of Oulu -><affiliation>
+P.O.BOX 4500 -><pubnum>
+FIN-90014 UNIVERSITY OF -><affiliation>
+OULU, Finland -><address>
+jukka.riekki@ee.oulu.fi -><email>

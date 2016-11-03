@@ -1,0 +1,9 @@
+Product distribution theory for control of multi-agent systems -><title>
+Chiu Fan Lee -><author>
+Physics Department, Oxford University -><affiliation>
+Parks Road, Oxford OX1 3PU, U.K. -><address>
+c.lee1@physics.ox.ac.uk -><email>
+David H. Wolpert -><author>
+MS 269-1, NASA Ames Research Center -><address>
+Moffett Field, CA 94035, USA -><address>
+dhw@ptolemy.arc.nasa.gov -><email>

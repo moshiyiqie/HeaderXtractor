@@ -1,0 +1,6 @@
+PhorceField: A Phish-Proof Password Ceremony -><title>
+Michael Hart Claude Castille† Manoj Harpalani -><author>
+Jonathan Toohill† Rob Johnson -><author>
+{mhart,mharpalani,rob}@cs.sunysb.edu -><email>
+{claude.castille,stonethumb}@gmail.com† -><email>
+Stony Brook University -><affiliation>

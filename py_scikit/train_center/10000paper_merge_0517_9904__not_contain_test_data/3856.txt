@@ -1,0 +1,13 @@
+A Comparative Study on the K-views Classifier and Markov -><title>
+Random Fields for Image Texture Classification -><title>
+Bor-Chen Kuo -><author>
+Mathematics Education Department -><affiliation>
+National Taichung Teachers College, Taichung, -><affiliation>
+Taiwan 403, R. O. C. -><address>
+Email: kbc@mail.ntctc.edu.tw -><email>
+Minh Pham, Mei Xiang, Chih-Cheng Hung -><author>
+School of Computing and Software Engineering -><affiliation>
+Southern Polytechnic State University, Marietta, GA -><affiliation>
+30060 -><address>
+Email: mpham2@spsu.edu, mxiang@spsu.edu, -><email>
+chung@spsu.edu -><email>

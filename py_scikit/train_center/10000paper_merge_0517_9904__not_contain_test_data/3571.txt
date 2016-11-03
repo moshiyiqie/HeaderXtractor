@@ -1,0 +1,20 @@
+Clustering Source Code Files to Predict Change -><title>
+Propagation during Software Maintenance -><title>
+Linda Sherrell -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Memphis -><affiliation>
+Memphis, TN, USA -><address>
+lbshrrll@memphis.edu -><email>
+King-Ip Lin -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Memphis -><affiliation>
+Memphis, TN, USA -><address>
+davidlin@memphis.edu -><email>
+Megan Bailey -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Memphis -><affiliation>
+Memphis, TN, USA -><address>
+mbailey6@memphis.edu -><email>

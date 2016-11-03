@@ -1,0 +1,13 @@
+A Markov Chain Model for Integrating Behavioral Targeting -><title>
+into Contextual Advertising -><title>
+Ting Li1,2 Ning Liu2 Jun Yan2 Gang Wang2 Fengshan Bai1 Zheng Chen2 -><author>
+1Department of Mathematical Science -><affiliation>
+2Microsoft Research Asia -><affiliation>
+Tsinghua University -><address>
+Haidian District, Beijing, -><address>
+P.R. China, 100084 -><address>
+v-tli@microsoft.com -><email>
+Sigma Center, 49 Zhichun Road -><address>
+Haidian District, Beijing -><address>
+P.R. China, 100190 -><address>
+{ningl,junyan,gawa,zhengc}@microsoft.com -><email>

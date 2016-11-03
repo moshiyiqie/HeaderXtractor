@@ -1,0 +1,11 @@
+Ants Meeting Algorithms -><title>
+Asaf Shiloni, Alon Levy -><author>
+The MAVERICK Group -><affiliation>
+Computer Science Department -><affiliation>
+Bar-Ilan University, Israel -><affiliation>
+{asafshiloni,alonlevy1}@gmail.com -><email>
+Ariel Felner, Meir Kalech -><author>
+Department of Information System Engineering -><affiliation>
+Deutsche Telekom Labs -><affiliation>
+Ben-Gurion University, Israel -><affiliation>
+{felner,kalech}@bgu.ac.il -><email>

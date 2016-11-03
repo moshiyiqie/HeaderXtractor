@@ -1,0 +1,15 @@
+Follow The Leader in a Consensus Network -><title>
+as a Solution to Manage an Smart Grid: -><title>
+The Balearic Islands Case -><title>
+(Demonstration) -><title>
+Miguel Rebollo, Carlos Carrascosa, Alberto Palomares -><author>
+Universitat Politècnica de València -><affiliation>
+Dept. Sistemas Inf. y Computación -><affiliation>
+{mrebollo,carrasco,apalomares}@dsic.upv.es -><email>
+Categories and Subject Descriptors -><note>
+H.4 [Information Systems Applications]: Miscellaneous -><note>
+General Terms -><unknow>
+Experimentation -><title>
+Keywords -><title>
+smart grid; self-adaption; consensus; gossip; complex net- -><abstract>
+works -><abstract>

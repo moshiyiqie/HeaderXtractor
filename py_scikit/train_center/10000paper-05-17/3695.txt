@@ -1,0 +1,34 @@
+The Print Scraping System -><title>
+Jim Melescue -><author>
+Brian Ray, JingJiang He, and -><author>
+Chia-Chu Chiang -><author>
+Software Development -><affiliation>
+Department of Computer Science -><affiliation>
+University of Arkansas at Little Rock -><affiliation>
+2801 South University Avenue -><affiliation>
+Little Rock, Arkansas 72204, USA -><address>
+4405 E. Parker Rd., Suite B -><address>
+Jonesboro, Arkansas 72404, USA -><address>
+E-mail: jim@syntelllc.com -><email>
+1. PROBLEM AND MOTIVATION -><pubnum>
+Computerized documents are created using a wide variety of -><abstract>
+software and exist in a wide variety of formats, which usually -><abstract>
+causes difficulties for any application system which is intended to -><abstract>
+process documents after their initial creation. Extracting text data -><abstract>
+from files in various file formats and placing it in a designated -><abstract>
+template file for further processing enables companies to manage -><abstract>
+documents more efficiently and effectively. The current -><abstract>
+ASCII text and database files. The main goal of this project is to -><abstract>
+develop a system suitable for installation on end-user machines -><abstract>
+which will hook in to the Windows XP print processing system -><abstract>
+and extract data from the print data stream which are stored in the -><abstract>
+spool directory. The software will then allow the user to view the -><abstract>
+pages as they will appear on the printer and select the portions of -><abstract>
+further processing such as insertion of additional text and -><abstract>
+barcodes into the file and post-verification of the data. -><abstract>
+2. BACKGROUND AND RELATED WORK -><abstract>
+PostScript [1] is a programming language for drawing text and -><abstract>
+graphics in a device independent manner. This device -><abstract>
+independence means that the image is described without reference -><abstract>
+to any specific device features such as printer resolution, so that -><abstract>
+the same description could be used on any PostScript printer -><abstract>

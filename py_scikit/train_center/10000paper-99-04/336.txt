@@ -1,0 +1,14 @@
+An Exploration Of Bugs And Debugging In Multi-agent -><title>
+Systems -><title>
+Lin Padgham -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+linpa@cs.rmit.edu.au -><email>
+Michael Winikoff -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+winikoff@cs.rmit.edu.au -><email>
+David Poutakidis -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+davpout@cs.rmit.edu.au -><email>

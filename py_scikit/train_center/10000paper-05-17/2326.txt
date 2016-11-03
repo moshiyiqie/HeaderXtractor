@@ -1,0 +1,19 @@
+Checking Consistency of Agent Designs Against -><title>
+Interaction Protocols for Early-Phase Defect Location -><title>
+∗ -><title>
+Yoosef Abushark -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+yoosef.abushark@rmit.edu.au -><email>
+John Thangarajah -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+johnt@rmit.edu.au -><email>
+Tim Miller -><author>
+University of Melbourne -><affiliation>
+Melbourne, Australia -><address>
+tmiller@unimelb.edu.au -><email>
+James Harland -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+james.harland@rmit.edu.au -><email>

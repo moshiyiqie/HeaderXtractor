@@ -1,0 +1,10 @@
+Malicious PDF Detection using Metadata and Structural -><title>
+Features -><title>
+Charles Smutz -><author>
+Center for Secure Information Systems -><affiliation>
+George Mason University, Fairfax, VA 22030 -><affiliation>
+csmutz@gmu.edu -><email>
+Angelos Stavrou -><author>
+Center for Secure Information Systems -><affiliation>
+George Mason University, Fairfax, VA 22030 -><affiliation>
+astavrou@gmu.edu -><email>

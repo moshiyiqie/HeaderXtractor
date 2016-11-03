@@ -1,0 +1,17 @@
+The Computational Complexity of -><title>
+Boolean and Stochastic Agent Design Problems -><title>
+Paul E. Dunne -><author>
+Dept. of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, UK -><address>
+ped@csc.liv.ac.uk -><email>
+Michael Wooldridge -><author>
+Dept. of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, UK -><address>
+mjw@csc.liv.ac.uk -><email>
+Michael Laurence -><author>
+Dept. of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, UK -><address>
+mikel@csc.liv.ac.uk -><email>

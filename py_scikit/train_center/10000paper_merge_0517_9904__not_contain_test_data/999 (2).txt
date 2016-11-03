@@ -1,0 +1,17 @@
+A Virtual Machine Environment for Teaching the -><title>
+Development of System Software -><title>
+Ralph M. Butler -><author>
+Department of Computer Science -><affiliation>
+Middle Tennessee State University -><affiliation>
+Murfreesboro, TN 37132 -><address>
+rbutler@mtsu.edu -><email>
+Joelle M. Key -><author>
+Department of Computer Science -><affiliation>
+Middle Tennessee State University -><affiliation>
+Murfreesboro, TN 37132 -><address>
+jmc3r@mtsu.edu -><email>
+Joseph A. Driscoll -><author>
+Department of Computer Science -><affiliation>
+Middle Tennessee State University -><affiliation>
+Murfreesboro, TN 37132 -><address>
+driscoll@mtsu.edu -><email>

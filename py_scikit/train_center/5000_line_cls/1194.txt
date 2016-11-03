@@ -1,0 +1,17 @@
+Implicit: An Agent-Based Recommendation System for -><title>
+Web Search -><author>
+Alexander Birukov -><author>
+Department of Information and -><affiliation>
+Communication Technology -><affiliation>
+University of Trento - Italy -><affiliation>
+birukou@dit.unitn.it -><email>
+Enrico Blanzieri -><author>
+Department of Information and -><affiliation>
+Communication Technology -><affiliation>
+University of Trento - Italy -><affiliation>
+enrico.blanzieri@unitn.it -><email>
+Paolo Giorgini -><author>
+Department of Information and -><affiliation>
+Communication Technology -><affiliation>
+University of Trento - Italy -><affiliation>
+paolo.giorgini@unitn.it -><email>

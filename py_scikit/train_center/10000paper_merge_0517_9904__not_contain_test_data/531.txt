@@ -1,0 +1,10 @@
+Preferences in Game Logics -><title>
+Michael Wooldridge -><author>
+mjw@csc.liv.ac.uk -><email>
+Wiebe van der Hoek -><author>
+wiebe@csc.liv.ac.uk -><email>
+Sieuwert van Otterloo -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, United Kingdom -><address>
+sieuwert@csc.liv.ac.uk -><email>

@@ -1,0 +1,11 @@
+A Methodology for Semantic Integration of Metadata in -><title>
+Bioinformatics Data Sources -><title>
+Sham Navathe -><author>
+Georgia Institute of Technology -><affiliation>
+Atlanta, Georgia 30332 -><address>
+sham@cc.gatech.edu -><email>
+Lei Li, Roop G. Singh, Guangzhi Zheng, -><author>
+Art Vandenberg, Vijay Vaishnavi -><author>
+Georgia State University -><affiliation>
+Atlanta, GA 30302 -><address>
+lli@gsu.edu -><email>

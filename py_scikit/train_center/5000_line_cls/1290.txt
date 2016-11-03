@@ -1,0 +1,6 @@
+Robust Mechanisms for Information Elicitation -><title>
+Aviv Zohar Jeffrey S. Rosenschein -><author>
+School of Engineering and Computer Science -><affiliation>
+The Hebrew University of Jerusalem -><affiliation>
+Jerusalem, Israel -><address>
+{avivz, jeff}@cs.huji.ac.il -><email>

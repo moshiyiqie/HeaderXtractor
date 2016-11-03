@@ -1,0 +1,10 @@
+A Syntactic Proof of Arrow’s Theorem in a Modal Logic of -><title>
+Social Choice Functions -><title>
+Giovanni Cinà -><author>
+Institute for Logic, Language and Computation -><affiliation>
+University of Amsterdam -><affiliation>
+giovanni.cina88@gmail.com -><email>
+Ulle Endriss -><author>
+Institute for Logic, Language and Computation -><affiliation>
+University of Amsterdam -><affiliation>
+ulle.endriss@uva.nl -><email>

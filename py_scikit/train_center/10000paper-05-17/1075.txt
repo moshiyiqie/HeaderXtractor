@@ -1,0 +1,12 @@
+Kokomo: An Empirically Evaluated Methodology for -><title>
+Affective Applications -><title>
+Munindar P. Singh -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-8206, USA -><address>
+singh@ncsu.edu -><email>
+Derek J. Sollenberger -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-8206, USA -><address>
+djsollen@ncsu.edu -><email>

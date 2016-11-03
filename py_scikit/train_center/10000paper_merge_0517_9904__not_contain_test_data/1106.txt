@@ -1,0 +1,12 @@
+On the Verification of Social Commitments and Time -><title>
+Mohamed El Menshawy, Jamal Bentahar -><author>
+Concordia University, Faculty of Engineering -><affiliation>
+and Computer Science, Canada -><affiliation>
+m_elme@encs.concordia.ca, -><email>
+bentahar@ciise.concordia.ca -><email>
+Hongyang Qu, Rachida Dssouli -><author>
+Oxford University, Computing Laboratory, UK -><affiliation>
+Concordia University, Faculty of Engineering -><affiliation>
+and Computer Science, Canada -><affiliation>
+Hongyang.Qu@comlab.ox.ac.uk, -><email>
+dssouli@ece.concordia.ca -><email>

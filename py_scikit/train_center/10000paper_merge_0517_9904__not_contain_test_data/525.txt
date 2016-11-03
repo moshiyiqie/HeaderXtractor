@@ -1,0 +1,5 @@
+Instructions-Based Semantics of Agent Mediated Interaction ∗ -><title>
+Mirko Viroli, Alessandro Ricci -><author>
+DEIS, Universita` degli Studi di Bologna a Cesena -><affiliation>
+Via Venezia 52, 47023 Cesena, Italy -><address>
+{mviroli,aricci}@deis.unibo.it -><email>

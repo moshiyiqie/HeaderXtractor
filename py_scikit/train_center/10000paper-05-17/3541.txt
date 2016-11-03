@@ -1,0 +1,19 @@
+Impact of Mobile Sink for Wireless Sensor Network -><title>
+Jinsuk Baek -><author>
+Department of Computer Science -><affiliation>
+Winston-Salem State University -><affiliation>
+Winston-Salem, NC 27110 -><address>
+336-750-3323 -><phone>
+baekj@wssu.edu -><email>
+Wood Kanampiu -><author>
+Department of Computer Science -><affiliation>
+Winston-Salem State University -><affiliation>
+Winston-Salem, NC 27110 -><address>
+336-750-8734 -><phone>
+kanampiumw@wssu.edu -><email>
+Edward Jordan -><author>
+Department of Computer Science -><affiliation>
+Winston-Salem State University -><affiliation>
+Winston-Salem, NC 27110 -><address>
+336-750-2480 -><phone>
+ejord984@wssu.edu -><email>

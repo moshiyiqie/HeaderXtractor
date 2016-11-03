@@ -1,0 +1,7 @@
+Sharing Visual Information in Virtual Environments using -><title>
+Projective Texture Mapping -><title>
+Yannick Francken, Johan Huysmans, Philippe Bekaert -><author>
+Hasselt University - Expertise Centre for Digital Media -><affiliation>
+transnationale Universiteit Limburg -><affiliation>
+Wetenschapspark 2, 3590 Diepenbeek, Belgium -><address>
+fyannick.francken, johan.huysmans, philippe.bekaertg@uhasselt.be -><email>

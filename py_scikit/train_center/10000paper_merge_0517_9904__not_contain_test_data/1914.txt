@@ -1,0 +1,7 @@
+Optimizing Complex Automated Negotiation using Sparse -><title>
+Pseudo-input Gaussian processes -><title>
+Siqi Chen, Haitham Bou Ammar, Karl Tuyls, Gerhard Weiss -><author>
+Department of Knowledge Engineering, Maastricht University -><affiliation>
+P.O. Box 616, 6200 MD -><address>
+Maastricht, The Netherlands -><address>
+{siqi.chen, haitham.bouammar, k.tuyls, gerhard.weiss}@maastrichtuniversity.nl -><affiliation>

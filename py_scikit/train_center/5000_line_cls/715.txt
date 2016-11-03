@@ -1,0 +1,5 @@
+Commitment Management Through Constraint Reification -><title>
+Stuart Chalmers Alun Preece Timothy J. Norman Peter M.D. Gray -><author>
+Department of Computing Science, University of Aberdeen, -><affiliation>
+Kings College, Aberdeen, AB24 3UE, Scotland, UK. -><address>
+{schalmer,apreece,tnorman,pgray}@csd.abdn.ac.uk -><email>

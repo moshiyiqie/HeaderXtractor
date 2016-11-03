@@ -1,0 +1,10 @@
+Computational Models of Algorithmic Trading in -><title>
+Financial Markets -><title>
+(Doctoral Consortium) -><title>
+Elaine Wah -><author>
+Supervisor: Michael P. Wellman -><author>
+Computer Science & Engineering -><affiliation>
+University of Michigan -><affiliation>
+2260 Hayward St -><address>
+Ann Arbor, MI 48109-2121 -><address>
+ewah@umich.edu -><email>

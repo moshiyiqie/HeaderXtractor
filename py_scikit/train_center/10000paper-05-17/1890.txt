@@ -1,0 +1,23 @@
+Producing Efficient Error-bounded Solutions for Transition -><title>
+Independent Decentralized MDPs -><title>
+Jilles S. Dibangoye -><author>
+INRIA -><affiliation>
+Loria, Campus Scientifique -><address>
+Vandœuvre-lès-Nancy, France -><address>
+jilles.dibangoye@inria.fr -><email>
+Christopher Amato -><author>
+CSAIL -><affiliation>
+MIT -><affiliation>
+Cambridge, MA, USA -><address>
+camato@csail.mit.edu -><email>
+Arnaud Doniec -><author>
+Université Lille Nord de France -><affiliation>
+Mines Douai, Département IA -><affiliation>
+F-59500 Douai, France -><address>
+arnaud.doniec@mines- -><email>
+douai.fr -><email>
+François Charpillet -><author>
+INRIA -><affiliation>
+Loria, Campus Scientifique -><address>
+Vandœuvre-lès-Nancy, France -><address>
+francois.charpillet@loria.fr -><email>

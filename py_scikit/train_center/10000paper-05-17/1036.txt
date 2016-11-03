@@ -1,0 +1,11 @@
+Laplacian-Based Consensus on Spatial Computers -><title>
+Nelson Elhage -><author>
+MIT CSAIL -><affiliation>
+77 Massachusetts Ave -><address>
+Cambridge, MA USA -><address>
+nelhage@mit.edu -><email>
+Jacob Beal -><author>
+BBN Technologies -><affiliation>
+10 Moulton Street -><address>
+Cambridge, MA USA -><address>
+jakebeal@bbn.com -><email>

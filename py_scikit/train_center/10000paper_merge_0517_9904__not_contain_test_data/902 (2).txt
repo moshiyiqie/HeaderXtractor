@@ -1,0 +1,34 @@
+CWIC: Continuous Web Image Collector -><title>
+D. Scott McCrickard -><author>
+College of Computing -><affiliation>
+and GVU Center -><affiliation>
+Georgia Institute of Technology -><affiliation>
+Atlanta, GA 30332-0280 -><address>
+mccricks@cc.gatech.edu -><email>
+Quasedra Y. Brown -><author>
+Computer Information -><affiliation>
+Systems Department -><affiliation>
+Clark Atlanta University -><affiliation>
+Atlanta, GA 30314 -><address>
+qbrown@cis.cau.edu -><email>
+Abst -><abstract>
+of the most widely available and diverse information -><affiliation>
+sources of all time, yet the options for acessing this in- -><abstract>
+formation are limited. This paper introduces CWIC, -><abstract>
+the Continuous Web Image Collector, a system that au- -><abstract>
+tomatically traverses elected Web sites collecting and -><abstract>
+analyzing images, then presents them to the user using -><abstract>
+one of a variety of display mechanisms and layouts. The -><abstract>
+CWIC mechanisms were chosen because they present -><abstract>
+the images in a non-intrusive method. The goal is to al- -><abstract>
+low users to stay abreast of information while continuing -><abstract>
+with more important tasks. The various display layouts -><abstract>
+allow the user to select one that will provide them with a -><abstract>
+presenation of information that will be informative and -><abstract>
+aesthetically pleasing. -><abstract>
+1 In -><abstract>
+The World Wide Web has emerged as one of -><affiliation>
+the most widely available and diverse information -><affiliation>
+sources of all time. The Web is essentially a -><abstract>
+media database containing text, graphics, and more -><abstract>
+on an endless variety of topics. Yet the options -><abstract>

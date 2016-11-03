@@ -1,0 +1,15 @@
+Monitoring Norm Violations in Multi-Agent Systems -><title>
+Max Knobbout -><author>
+Intelligent Systems Group -><affiliation>
+Utrecht University -><affiliation>
+m.knobbout@students.uu.nl -><email>
+Mehdi Dastani -><author>
+Intelligent Systems Group -><affiliation>
+Utrecht University -><affiliation>
+m.m.dastani@uu.nl -><email>
+Nils Bulling -><author>
+Department of Informatics -><affiliation>
+Clausthal University of -><affiliation>
+Technology -><affiliation>
+bulling@in.tu- -><email>
+clausthal.de -><web>

@@ -1,0 +1,20 @@
+Using the NXT as an Educational Tool in Computer -><title>
+Science Classes -><title>
+Brandon Shrewsbury -><author>
+Department of Computer Science -><affiliation>
+University of West Georgia -><affiliation>
+Carrollton, Georgia 30117 USA -><address>
+850-346-0944 -><phone>
+Brandon.Shrewsbury@gmail.com -><email>
+Cliff Padgett -><author>
+Department of Computer Science -><affiliation>
+University of West Georgia -><affiliation>
+Carrollton, Georgia 30117 USA -><address>
+678-358-7010 -><phone>
+spd229@gmail.com -><email>
+Ameen Kazerouni -><author>
+Department of Computer Science -><affiliation>
+University of West Georgia -><affiliation>
+Carrollton, Georgia 30117 USA -><address>
+770-349-9324 -><phone>
+ameenkazerouni@gmail.com -><email>

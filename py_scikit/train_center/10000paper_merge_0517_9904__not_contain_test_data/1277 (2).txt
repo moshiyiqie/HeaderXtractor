@@ -1,0 +1,12 @@
+Using Motives and Artificial Emotions for Long-Term -><title>
+Activity of an Autonomous Robot -><title>
+Franc¸ois Michaud -><author>
+Dept. of Elec. & Comp. Engineering -><affiliation>
+Universite´ de Sherbrooke -><affiliation>
+Sherbrooke, Que´bec (CANADA) J1K 2R1 -><address>
+michaudf@gel.usherb.ca -><email>
+Jonathan Audet -><author>
+Dept. of Elec. & Comp. Engineering -><affiliation>
+Universite´ de Sherbrooke -><affiliation>
+Sherbrooke, Que´bec (CANADA) J1K 2R1 -><address>
+audj01@gel.usherb.ca -><email>

@@ -1,0 +1,7 @@
+Self-Stabilization as Multiagent Systems Property∗ -><title>
+Petra Funk and Ingo Zinnikus -><author>
+German Research Center for Artificial Intelligence (DFKI GmbH) -><affiliation>
+Stuhlsatzenhausweg 3 -><address>
+66123 Saarbru¨cken, Germany -><address>
++49-681-302-2464/5362 -><phone>
+funk/zinnikus@dfki.de -><email>

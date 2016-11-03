@@ -1,0 +1,17 @@
+Generating Better Text Summaries for a Patient Simulation -><title>
+Program -><title>
+Martha W. Evens -><author>
+Department of Computer Science -><affiliation>
+Illinois Institute of Technology -><affiliation>
+Chicago, IL 60616 -><address>
+evens@iit.edu -><email>
+David Trace -><author>
+Trace Consulting -><affiliation>
+1401 Lake Road -><address>
+Lake Forest, IL 60045 -><address>
+DTrace6947@aol.com -><email>
+Kuo-pao Yang -><author>
+Department of CS/IT -><affiliation>
+Southeastern Louisiana University -><affiliation>
+Hammond, LA 70402 -><address>
+kyang@selu.edu -><email>

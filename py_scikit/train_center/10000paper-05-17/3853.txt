@@ -1,0 +1,14 @@
+A STUDY OF THE EFFECTS OF BIAS IN CRITERION -><title>
+FUNCTIONS FOR TEMPORAL DATA CLUSTERING -><title>
+Jungsoon Yoo -><author>
+Computer Science Department -><affiliation>
+Middle Tennessee State University -><affiliation>
+Murfreesboro, TN 37132 -><address>
+(615) 898-5735 -><phone>
+csyoojp@mtsu.edu -><email>
+Cen Li -><author>
+Computer Science Department -><affiliation>
+Middle Tennessee State University -><affiliation>
+Murfreesboro, TN 37132 -><address>
+(615) 904-8168 -><phone>
+cli@mtsu.edu -><email>

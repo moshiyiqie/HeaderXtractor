@@ -1,0 +1,17 @@
+Role Allocation and Reallocation in Multiagent Teams: -><title>
+Towards A Practical Analysis -><title>
+Milind Tambe -><author>
+Computer Science Dept -><affiliation>
+Univ. of Southern California -><affiliation>
+Los Angeles, CA 90089 -><address>
+tambe@usc.edu -><email>
+Stacy Marsella -><author>
+Information Sciences Institute -><affiliation>
+Univ. of Southern California -><affiliation>
+Marina del Rey, CA 90292 -><address>
+marsella@isi.edu -><email>
+Ranjit Nair -><author>
+Computer Science Dept -><affiliation>
+Univ. of Southern California -><affiliation>
+Los Angeles, CA 90089 -><address>
+nair@usc.edu -><email>

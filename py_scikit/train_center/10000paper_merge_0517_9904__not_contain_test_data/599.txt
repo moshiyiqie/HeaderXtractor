@@ -1,0 +1,18 @@
+The Advantages of Compromising in Coalition Formation with Incomplete -><title>
+Information -><title>
+Gilad Taase -><author>
+Dept. of CS -><affiliation>
+Bar-Ilan Univ. -><affiliation>
+Ramat-Gan, -><affiliation>
+52900 Israel -><address>
+Onn Shehory -><author>
+IBM Research Lab in Haifa -><affiliation>
+Haifa U. Mt. Carmel, Haifa -><address>
+31905 ISRAEL -><address>
+onn@il.ibm.com -><email>
+Sarit Kraus -><author>
+Dept. of CS, Bar-Ilan U. -><affiliation>
+Ramat-Gan, 52900 Israel -><address>
+U. Maryland Col. Park, MD -><author>
+sarit@cs.biu.ac.il -><email>
+ This research was supported in part by NSF grant #IIS0208608. -><note>

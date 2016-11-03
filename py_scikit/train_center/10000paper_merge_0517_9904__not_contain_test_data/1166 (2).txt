@@ -1,0 +1,13 @@
+Capability-based Agent Matchmaking -><title>
+Anthony Cassandra -><author>
+arc @ cassandra.org -><email>
+Damith Chandrasekara -><author>
+MCC -><affiliation>
+3500 W. Balcones Ctr. Dr. -><address>
+Austin, TX 78759 -><address>
+damith@mcc.com -><email>
+Marian Nodine -><author>
+MCC -><affiliation>
+3500 W. Balcones Ctr. Dr. -><address>
+Austin, TX 78759 -><address>
+nodine@mcc.com -><email>

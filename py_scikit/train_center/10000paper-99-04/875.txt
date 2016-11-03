@@ -1,0 +1,7 @@
+A Lottery Based Scheduling Algorithm for ATM Networks -><title>
+Dr. Eltayeb S. Abuelyaman Siva P. Nookala -><author>
+Arizona State University J.D. Edwards & Company -><affiliation>
+Mostafa Abuelyaman -><author>
+Spnnt PCS Information Technology -><affiliation>
+mostafana@aol -><email>
+abuelyaman@asu.edu siva nookala@j dedwards.com -><email>

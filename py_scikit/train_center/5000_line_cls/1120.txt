@@ -1,0 +1,6 @@
+Design, Runtime, and Analysis of Multi-Agent Systems -><title>
+K. S. Barber, N. Gujral, J. Ahn, D. DeAngelis, K. Fullam, D. C. Han, D. N. Lam, J. Park -><author>
+The Laboratory for Intelligent Processes and Systems -><affiliation>
+Electrical and Computer Engineering -><affiliation>
+The University of Texas at Austin -><affiliation>
+{barber, ngujral, jsahn, dave, kfullam, dhan, dnlam, jisun}@lips.utexas.edu -><email>

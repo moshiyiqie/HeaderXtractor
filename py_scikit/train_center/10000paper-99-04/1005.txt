@@ -1,0 +1,19 @@
+Motion Estimation with Integrated Motion Models -><title>
+Seong-Moo Yoo -><author>
+Dept. of ECE -><affiliation>
+Univ. of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899 -><address>
+Phone: 256-824-6858 -><phone>
+yoos@ece.uah.edu -><email>
+W. David Pan -><author>
+Dept. of ECE -><affiliation>
+Univ. of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899 -><address>
+Phone: 256-824-6642 -><phone>
+dwpan@ece.uah.edu -><email>
+Mahesh Nalasani -><author>
+Dept. of ECE -><affiliation>
+Univ. of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899 -><address>
+Phone: 256-824-3484 -><phone>
+nalasam@ece.uah.edu -><email>

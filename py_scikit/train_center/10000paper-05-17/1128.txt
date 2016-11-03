@@ -1,0 +1,11 @@
+Emerging Cooperation on Complex Networks -><title>
+Norman Salazar, Juan A. -><author>
+Rodriguez-Aguilar and Josep Ll. Arcos -><author>
+IIIA, Artificial Intelligence Research Institute -><affiliation>
+CSIC, Spanish National Research Council -><affiliation>
+norman,jar,arcos@iiia.csic.es -><email>
+Ana Peleteiro, Juan C. Burguillo-Rial -><email>
+Dep. de Ingeniería Telemática -><author>
+Universidad de Vigo -><affiliation>
+Vigo, Spain -><address>
+apeleteiro,jrial@det.uvigo.es -><email>

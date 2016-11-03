@@ -1,0 +1,11 @@
+State and Path Coalition Effectivity Models -><title>
+for Logics of Multi-Player Games -><title>
+Wojciech Jamroga -><author>
+Computer Science and Communication, -><affiliation>
+University of Luxembourg -><affiliation>
+wojtek.jamroga@uni.lu -><email>
+Valentin Goranko -><author>
+Informatics and Mathematical Modelling, -><affiliation>
+Technical University of Denmark -><affiliation>
+and University of Johannesburg -><affiliation>
+vfgo@imm.dtu.dk -><email>

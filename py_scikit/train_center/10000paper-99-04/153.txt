@@ -1,0 +1,7 @@
+ViP: A Visual Programming Language -><title>
+for Plan Execution Systems -><title>
+David Kinny -><author>
+Agentis Software -><affiliation>
+33 Lincoln Square South -><address>
+Carlton, 3053 Australia -><address>
+dnk@agentissoftware.com -><email>

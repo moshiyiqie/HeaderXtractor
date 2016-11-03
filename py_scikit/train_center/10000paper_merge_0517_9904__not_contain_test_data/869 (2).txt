@@ -1,0 +1,21 @@
+Multi-Audible Table for Collaborative Work -><title>
+Ikuko Eguchi Yairi -><author>
+National Institute of Information and -><affiliation>
+Communications Technology -><affiliation>
+3-4,Hikarigaoka Yokosuka, -><address>
+Kanagawa,Japan -><address>
++81-68-47-5096 -><phone>
+yairi@crl.go.jp -><email>
+Fusako Kusunoki -><author>
+Tama Art University -><affiliation>
+2-1723, Yarimizu, Hachioji -><address>
+192-0394, Japan -><address>
++81-426-79-5630 -><phone>
+kusunoki@tamabi.ac.jp -><email>
+Takuichi NIshimura -><author>
+National Institute of Advanced -><affiliation>
+Industorial Scence and Technology -><affiliation>
+2-41-6, Aomi, Koto-ku, Tokyo, -><address>
+Japan -><address>
++81-3-3599-8255 -><phone>
+taku@ni.aist.go.jp -><email>

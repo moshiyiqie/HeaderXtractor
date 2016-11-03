@@ -1,0 +1,12 @@
+A Comparison on the Effectiveness of Different Similarity -><title>
+Measures for Image Classification -><title>
+Chih-Cheng Hung -><author>
+School of Computing and Software Engineering -><affiliation>
+Southern Polytechnic State University -><affiliation>
+Marietta, GA 30060 -><address>
+chung@spsu.edu -><email>
+Longteng Xu -><author>
+School of Computing and Software Engineering -><affiliation>
+Southern Polytechnic State University -><affiliation>
+Marietta, GA 30060 -><address>
+lxu2@spsu.edu -><email>

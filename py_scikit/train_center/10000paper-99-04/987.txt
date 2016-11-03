@@ -1,0 +1,11 @@
+Context-free Grammar Induction using Genetic -><title>
+Programming -><title>
+Faculty of Electrical Engineering and Computer -><author>
+Science -><affiliation>
+University of Maribor -><affiliation>
+Smetanova 17, 2000 Maribor, Slovenia -><address>
+{matej.crepinsek, marjan.mernik}@uni-mb.si -><email>
+University of Alabama at Birmingham -><affiliation>
+1300 University Boulevard Birmingham, AL 35294- -><affiliation>
+1170, USA -><address>
+{javedf, bryant, sprague}@cis.uab.edu -><email>

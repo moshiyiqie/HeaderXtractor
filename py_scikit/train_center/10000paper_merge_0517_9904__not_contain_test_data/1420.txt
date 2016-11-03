@@ -1,0 +1,17 @@
+Can a Zero-Intelligence Plus Model Explain the Stylized -><title>
+Facts of Financial Time Series Data? -><title>
+Wing Lon Ng -><author>
+Centre for Computational -><affiliation>
+Finance and Economic Agents -><affiliation>
+(CCFEA) -><affiliation>
+wlng@essex.ac.uk -><email>
+Steve Phelps -><author>
+Centre for Computational -><affiliation>
+Finance and Economic Agents -><affiliation>
+(CCFEA) -><affiliation>
+sphelps@essex.ac.uk -><email>
+Imon Palit -><author>
+SEFeMEQ Department -><affiliation>
+University of Rome -><affiliation>
+Tor Vergata -><affiliation>
+palit@uniroma2.it -><email>

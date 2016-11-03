@@ -1,0 +1,20 @@
+Scalability, Fidelity and Stealth in the DRAKVUF Dynamic -><affiliation>
+Malware Analysis System -><title>
+Bryan D. Payne -><author>
+Nebula, Inc. -><affiliation>
+bdpayne@acm.org -><email>
+Steve Maresca -><email>
+Zentiﬁc, LLC -><author>
+steve@zentiﬁc.com -><email>
+Tamas K. Lengyel -><author>
+University of Connecticut -><affiliation>
+tklengyel@engr.uconn.edu -><email>
+George D. Webster -><email>
+TU Munich -><author>
+webstergd@sec.in.tum.de -><email>
+Sebastian Vogl -><email>
+TU Munich -><author>
+vogls@sec.in.tum.de -><email>
+Aggelos Kiayias -><author>
+University of Athens -><affiliation>
+aggelos@di.uoa.gr -><email>

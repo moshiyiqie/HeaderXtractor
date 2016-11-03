@@ -1,0 +1,17 @@
+Models and Metrics: -><title>
+IR Evaluation as a User Process -><title>
+Paul Thomas -><author>
+ICT Centre, -><address>
+Canberra -><author>
+CSIRO -><affiliation>
+paul.thomas@csiro.au -><email>
+Falk Scholer -><author>
+School of Computer Science -><affiliation>
+and Information Technology -><affiliation>
+RMIT University -><affiliation>
+falk.scholer@rmit.edu.au -><email>
+Alistair Moffat -><author>
+Department of Computing and -><affiliation>
+Information Systems -><affiliation>
+The University of Melbourne -><affiliation>
+ammoffat@unimelb.edu.au -><email>

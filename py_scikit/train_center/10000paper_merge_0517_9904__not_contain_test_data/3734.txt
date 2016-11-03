@@ -1,0 +1,7 @@
+On the Convergence of Image Compression -><title>
+and Object Recognition -><title>
+Mark S. Schmalz -><author>
+Center for Computer Vision and Visualization -><affiliation>
+University of Florida Gainesville, FL 32611-6120 -><affiliation>
+Ph: 1-352-392-6831 -><phone>
+Em: mssz@cise.ufl.edu -><email>

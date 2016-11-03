@@ -1,0 +1,5 @@
+A Sociological Framework for Multiagent Systems -><title>
+Wynn C. Stirling -><author>
+Brigham Young University -><affiliation>
+Electrical and Computer Engineering Department -><affiliation>
+wynn@ee.byu.edu -><email>

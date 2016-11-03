@@ -1,0 +1,11 @@
+EpiMap: Towards Quantifying Contact Networks -><title>
+and Modelling the Spread of Infections -><title>
+in Developing Countries -><title>
+Jon Crowcroft -><author>
+University of Cambridge -><affiliation>
+Cambridge, United Kingdom -><address>
+jon.crowcroft@cl.cam.ac.uk -><email>
+Eiko Yoneki -><author>
+University of Cambridge -><affiliation>
+Cambridge, United Kingdom -><address>
+eiko.yoneki@cl.cam.ac.uk -><email>

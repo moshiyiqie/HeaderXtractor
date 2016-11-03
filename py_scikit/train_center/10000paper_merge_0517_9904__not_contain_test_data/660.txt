@@ -1,0 +1,4 @@
+Learning to Communicate and Act using Hierarchical Reinforcement Learning -><title>
+Mohammad Ghavamzadeh & Sridhar Mahadevan -><author>
+Department of Computer Science, University of Massachusetts Amherst, MA 01003-4610, USA -><affiliation>
+mgh@cs.umass.edu & mahadeva@cs.umass.edu -><email>

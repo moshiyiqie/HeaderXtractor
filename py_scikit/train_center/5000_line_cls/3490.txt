@@ -1,0 +1,7 @@
+Real-time Opinion Aggregation Methods -><title>
+for Crowd Robotics -><title>
+Elliot Salisbury, Sebastian Stein and Sarvapali D. Ramchurn -><author>
+Agents, Interaction and Complexity Research Group -><affiliation>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton, UK -><affiliation>
+{e.salisbury,ss2,sdr}@ecs.soton.ac.uk -><email>

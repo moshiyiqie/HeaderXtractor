@@ -1,0 +1,17 @@
+Pipelined -><title>
+Multi-Agent -><title>
+Zachary -><author>
+Rice -><author>
+Golnaz -><author>
+Rice -><author>
+golnaz.habibi@gmail.com -><email>
+Zijian -><author>
+Boston -><affiliation>
+zjwang@bu.edu -><email>
+zkk1@rice.edu -><email>
+Mac -><author>
+Boston -><affiliation>
+schwager@bu.edu -><email>
+James -><email>
+Rice -><author>
+jmclurkin@rice.edu -><email>

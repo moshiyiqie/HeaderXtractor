@@ -1,0 +1,20 @@
+Scene-Driver: A Narrative-Driven Game Architecture -><title>
+Reusing Broadcast Animation Content -><title>
+Paul Mulholland -><author>
+Knowledge Media Institute -><affiliation>
+The Open University -><affiliation>
+Milton Keynes, UK -><address>
++44 1908 659506 -><phone>
+p.mulholland@open.ac.uk -><email>
+Annika Wolff -><author>
+Knowledge Media Institute -><affiliation>
+The Open University -><affiliation>
+Milton Keynes, UK -><address>
++44 1908 659462 -><phone>
+a.l.wolff@open.ac.uk -><email>
+Zdenek Zdrahal -><author>
+Knowledge Media Institute -><affiliation>
+The Open University -><affiliation>
+Milton Keynes, UK -><address>
++44 1908 659512 -><phone>
+z.zdrahal@open.ac.uk -><email>

@@ -1,0 +1,27 @@
+The User in the Group -><title>
+Evaluating the Effects of Autonomous Group Dynamics -><title>
+Ana Paiva -><author>
+IST-Technical University of -><affiliation>
+Lisbon, INESC-ID -><address>
+Avenida Prof. Cavaco Silva - -><author>
+Taguspark -><affiliation>
+2780-990 Porto Salvo, -><address>
+Portugal -><address>
+ana.paiva@inesc-id.pt -><email>
+Rui Prada -><author>
+IST-Technical University of -><affiliation>
+Lisbon, INESC-ID -><address>
+Avenida Prof. Cavaco Silva - -><email>
+Taguspark -><affiliation>
+2780-990 Porto Salvo, -><address>
+Portugal -><address>
+rui.prada@tagus.ist.utl.pt -><email>
+Nuno Otero -><author>
+IST-Technical University of -><affiliation>
+Lisbon, INESC-ID -><address>
+Avenida Prof. Cavaco Silva - -><email>
+Taguspark -><affiliation>
+2780-990 Porto Salvo, -><address>
+Portugal -><address>
+nuno.otero@gaips.inesc- -><email>
+id.pt -><email>

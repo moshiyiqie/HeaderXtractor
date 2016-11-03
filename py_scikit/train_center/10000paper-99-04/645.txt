@@ -1,0 +1,11 @@
+Unifying Temporal and Structural Credit Assignment Problems -><title>
+Adrian K. Agogino -><author>
+UCSC, NASA Ames Research Center -><affiliation>
+Mailstop 269-3 -><address>
+Moffett Field, CA 94035 -><address>
+adrian@email.arc.nasa.gov -><email>
+Kagan Tumer -><author>
+NASA Ames Research Center -><affiliation>
+Mailstop 269-3 -><address>
+Moffett Field, CA 94035 -><address>
+kagan@email.arc.nasa.gov -><email>

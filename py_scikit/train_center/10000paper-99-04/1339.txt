@@ -1,0 +1,20 @@
+Interaction Patterns and Observable Commitments -><title>
+in a Multi-Agent Trading Scenario -><title>
+Jeremy Pitt -><author>
+Electrical & Electronic Eng. -><affiliation>
+Imperial College of Science, -><affiliation>
+Technology & Medicine -><affiliation>
+London, SW7 2BT, UK -><address>
+j.pitt@ic.ac.uk -><email>
+Alexander Artikis -><author>
+Electrical & Electronic Eng. -><affiliation>
+Imperial College of Science, -><affiliation>
+Technology & Medicine -><affiliation>
+London, SW7 2BT, UK -><address>
+a.artikis@ic.ac.uk -><email>
+Lloyd Kamara -><author>
+Electrical & Electronic Eng. -><degree>
+Imperial College of Science, -><degree>
+Technology & Medicine -><affiliation>
+London, SW7 2BT, UK -><address>
+l.kamara@ic.ac.uk -><email>

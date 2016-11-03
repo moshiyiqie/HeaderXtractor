@@ -1,0 +1,17 @@
+A Robust Machine Code Proof Framework for Highly -><title>
+Secure Applications -><title>
+Eric W. Smith -><author>
+Department of Computer Science -><affiliation>
+Stanford University -><affiliation>
+Palo Alto, CA USA -><address>
+ewsmith@cs.stanford.edu -><email>
+David S. Hardin -><author>
+Advanced Technology Center -><affiliation>
+Rockwell Collins, Inc. -><affiliation>
+Cedar Rapids, IA USA -><address>
+dshardin@rockwellcollins.com -><email>
+William D. Young -><author>
+Department of Computer Sciences -><affiliation>
+University of Texas at Austin -><affiliation>
+Austin, TX USA -><address>
+byoung@cs.utexas.edu -><email>

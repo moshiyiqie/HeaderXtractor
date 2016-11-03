@@ -1,0 +1,19 @@
+Power and Negotiation: -><title>
+Lessons from Agent-Based Participatory Simulations -><title>
+Alexis Drogoul -><author>
+IRD Bondy -><affiliation>
+32, avenue Henri Varagnat, -><address>
+F-93143 Bondy Cedex -><address>
+alexis.drogoul@bondy.ird.fr -><email>
+Paul Guyot -><author>
+LIP6 - Universite´ Pierre et -><affiliation>
+Marie Curie - Paris VI -><affiliation>
+Boıˆte 169 - 4, place Jussieu, -><address>
+F-75252 Paris Cedex 05 -><phone>
+paul.guyot@lip6.fr -><email>
+Shinichi Honiden -><email>
+National Institute of -><affiliation>
+Informatics -><affiliation>
+2-1-2 Hitotsubashi, -><address>
+Chiyoda-ku, Tokyo 101-8430 -><address>
+honiden@nii.ac.jp -><email>

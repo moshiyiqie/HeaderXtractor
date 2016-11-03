@@ -1,0 +1,4 @@
+Implementation and Implications of -><title>
+a Stealth Hard-Drive Backdoor -><title>
+Jonas Zaddach†∗ Anil Kurmus‡∗ Davide Balzarotti† Erik-Oliver Blass§ Aure´lien Francillon† -><author>
+Travis Goodspeed¶ Moitrayee Gupta‖ Ioannis Koltsidas‡ -><author>

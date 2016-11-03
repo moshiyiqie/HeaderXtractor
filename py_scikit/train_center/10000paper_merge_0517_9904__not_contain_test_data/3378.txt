@@ -1,0 +1,6 @@
+Worked Examples in Computer Science -><title>
+Ben Skudder Andrew Luxton-Reilly -><author>
+Department of Computer Science -><affiliation>
+The University of Auckland, -><affiliation>
+PO Box 92019, Auckland, New Zealand -><address>
+Email: bsku002@aucklanduni.ac.nz, andrew@cs.auckland.ac.nz -><email>

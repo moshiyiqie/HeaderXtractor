@@ -1,0 +1,7 @@
+Simulation Level of Detail for Multiagent Control -><title>
+David C. Brogan† -><author>
+University of Virginia -><affiliation>
+dbrogan@cs.virginia.edu -><email>
+Jessica K. Hodgins† -><author>
+Carnegie Mellon University -><affiliation>
+jkh@cs.cmu.edu -><email>

@@ -1,0 +1,17 @@
+Data-Driven Text Features for Sponsored Search -><title>
+Click Prediction -><title>
+Özgür Çetin -><author>
+Yahoo! Labs -><affiliation>
+111 West 40th -><address>
+New York NY 10018 -><address>
+ocetin@yahoo-inc.com -><email>
+Benyah Shaparenko -><author>
+Cornell University -><affiliation>
+4130 Upson Hall -><address>
+Ithaca NY 14853 -><address>
+benyah@cs.cornell.edu -><email>
+Rukmini Iyer -><email>
+Yahoo! Labs -><affiliation>
+4401 Great America Parkway -><address>
+Santa Clara CA 95054 -><address>
+riyer@yahoo-inc.com -><email>

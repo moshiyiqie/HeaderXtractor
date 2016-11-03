@@ -1,0 +1,9 @@
+Array Requirements for Scientific Applications and -><title>
+an Implementation for Microsoft SQL Server -><title>
+Dragan Tomic3, Milos Milovanovic3, Marko Tintor3, Andrija Jovanovic3 -><author>
+(2) The Johns Hopkins University -><affiliation>
+(3) Microsoft Corporation -><affiliation>
+Baltimore, MD 21210 -><address>
+Redmond, WA 98052 -><address>
+Budapest, Hungary -><address>
+dobos@complex.elte.hu {budavari, szalay}@jhu.edu {joseb, dragant}@microsoft.com -><email>

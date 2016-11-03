@@ -1,0 +1,5 @@
+Self-Protected Mobile Agents -><title>
+J. Ametller, S. Robles, J. A. Ortega-Ruiz -><author>
+Department of Computer Science, Universitat Aut onoma de Barcelona -><affiliation>
+08193 Bellaterra - Spain -><address>
+Joan.Ametller@uab.es -><email>

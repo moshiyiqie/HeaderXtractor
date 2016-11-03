@@ -1,0 +1,21 @@
+102 -><pubnum>
+Elliptic Curve Cryptography: Survey and its Security -><title>
+Applications -><title>
+Sandeep K. Sood -><author>
+Sheetal Kalra -><author>
+Department of Computer -><affiliation>
+Science & Engineering -><affiliation>
+Guru Nanak Dev University, -><affiliation>
+Regional Campus, Jalandhar , -><affiliation>
+India -><address>
++91-9316305345 -><phone>
+sheetal.kalra @gmail.com -><email>
+Department of Computer -><affiliation>
+Science & Engineering -><affiliation>
+Guru Nanak Dev University, -><affiliation>
+Regional Campus -><address>
+Gurdaspur , India -><address>
++91-9465204534 -><phone>
+san1198 @gmail.com -><email>
+Page -><author>
+102 -><date>

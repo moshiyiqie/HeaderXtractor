@@ -1,0 +1,16 @@
+Examining New Event Detection -><title>
+Johannes Schanda -><author>
+Information School -><affiliation>
+The University of Sheffield -><affiliation>
+S1 4DP, Sheffield, UK -><address>
+joschanda@schanda.de -><email>
+Paul Clough -><author>
+Information School -><affiliation>
+The University of Sheffield -><affiliation>
+S1 4DP, Sheffield, UK -><address>
+p.d.clough@shef.ac.uk -><email>
+Mark Sanderson -><author>
+School of CS & IT -><affiliation>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+mark.sanderson@rmit.edu.au -><email>

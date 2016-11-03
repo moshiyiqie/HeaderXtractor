@@ -1,0 +1,12 @@
+Xipho: Extending Tropos to Engineer Context-Aware -><title>
+Personal Agents -><title>
+Munindar P. Singh -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-8206, USA -><address>
+singh@ncsu.edu -><email>
+Pradeep K. Murukannaiah -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-8206, USA -><address>
+pmuruka@ncsu.edu -><email>

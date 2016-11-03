@@ -1,0 +1,9 @@
+A Lazy, Lightweight Algorithm for Generating Very Large -><title>
+Navigable Terrains -><title>
+Bruce Johnson -><author>
+Department of Electrical Engineering -><affiliation>
+and Computer Science -><affiliation>
+The University of Tennessee -><affiliation>
+Knoxville, TN -><address>
+00-865-974-1000 -><phone>
+bjohnson@eecs.utk.edu -><email>

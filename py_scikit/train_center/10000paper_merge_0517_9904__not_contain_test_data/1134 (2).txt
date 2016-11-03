@@ -1,0 +1,7 @@
+Conflict Detection During Plan Integration based on -><title>
+E-PERT Diagrams -><title>
+K. S. Barber T.H. Liu -><author>
+The Laboratory for Intelligent Processes and Systems -><affiliation>
+Electrical and Computer Engineering, The University of Texas at Austin -><affiliation>
+Austin, TX, 78722, USA -><address>
+{barber, thliu}@lips.utexas.edu -><email>

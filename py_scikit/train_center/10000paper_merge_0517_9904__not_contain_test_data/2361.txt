@@ -1,0 +1,31 @@
+Representing and Solving Hedonic Games with Ordinal -><title>
+Preferences and Thresholds -><title>
+Jérôme Lang -><author>
+LAMSADE, Université -><affiliation>
+Paris-Dauphine -><affiliation>
+75775 Paris Cedex 16, France -><address>
+lang@lamsade.dauphine.fr -><email>
+Jörg Rothe -><author>
+Heinrich-Heine-Universität -><affiliation>
+Düsseldorf -><address>
+40225 Düsseldorf, Germany -><address>
+rothe@cs.uni- -><email>
+duesseldorf.de -><email>
+Anja Rey -><author>
+Heinrich-Heine-Universität -><affiliation>
+Düsseldorf -><affiliation>
+40225 Düsseldorf, Germany -><address>
+rey@cs.uni- -><email>
+duesseldorf.de -><email>
+Hilmar Schadrack -><author>
+Heinrich-Heine-Universität -><affiliation>
+Düsseldorf -><address>
+40225 Düsseldorf, Germany -><address>
+schadrack@cs.uni- -><email>
+duesseldorf.de -><email>
+Lena Schend -><author>
+Heinrich-Heine-Universität -><affiliation>
+Düsseldorf -><address>
+40225 Düsseldorf, Germany -><address>
+schend@cs.uni- -><email>
+duesseldorf.de -><web>

@@ -1,0 +1,8 @@
+Modular Definition of Agent-oriented Languages using -><title>
+Action Semantics -><title>
+Luis Menezes -><author>
+lcsm@cin.ufpe.br -><email>
+Geber Ramalho -><author>
+glr@cin.ufpe.br -><email>
+Hermano Moura -><author>
+hermano@cin.ufpe.br -><email>

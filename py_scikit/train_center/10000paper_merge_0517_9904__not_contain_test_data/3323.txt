@@ -1,0 +1,6 @@
+Multitouch Interactive DJing Surface -><title>
+Pedro A. Lopes Alfredo Ferreira J. A. Madeiras Pereira -><author>
+Departamento Engenharia Informática -><affiliation>
+INESC-ID/IST/Universidade Técnica de Lisboa -><affiliation>
+R. Alves Redol, 9, 1000-029 Lisboa, Portugal -><address>
+pedro.lopes@ist.utl.pt, jap@inesc-id.pt, alfredo.ferreira@inesc-id.pt -><email>

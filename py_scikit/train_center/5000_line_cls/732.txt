@@ -1,0 +1,34 @@
+Acknowledgements -><title>
+Preface -><title>
+We would like to take this opportunity to thank everybody involved with the organization of -><author>
+The AAMAS Conference is the premier international forum for the publication of research -><note>
+AAMAS-04. Running a major international conference like AAMAS is a significant -><abstract>
+in the theory and practice of autonomous agents and multi-agent systems. The 2004 -><abstract>
+undertaking, and this year we have been blessed with an excellent team that has worked -><abstract>
+AAMAS Conference is the third in a series that was initiated in 2002 as a merger of three -><abstract>
+together with a strong spirit of cooperation. The local organizers, Simon Parsons and Betsy -><abstract>
+highly successful related events: the International Conference on Autonomous Agents -><abstract>
+(AGENTS); the International Conference on Multi-Agent Systems (ICMAS); and the -><abstract>
+responded rapidly to our queries, and have been proactive in making sure that everybody has -><abstract>
+International Workshop on Agent Theories, Architectures and Languages (ATAL). -><abstract>
+web site! -><abstract>
+establishing AAMAS as the major event in agent systems research. The following -><abstract>
+close to 500 delegates, a wonderfully positive outcome in a year of major global upheaval, -><abstract>
+and an affirmation of the importance of this conference series in the international computing -><abstract>
+research calendar. These two successes set a high standard for the 2004 conference, and we -><abstract>
+are delighted to report the very strong outcomes. -><abstract>
+with a student as first named author. The 39 members of the Senior Program Committee had -><abstract>
+recruited over 250 Program Committee members to handle the peer reviewing procedure and -><abstract>
+during the process an additional 100 reviewers were enlisted. Each paper was refereed by -><abstract>
+three independent reviewers, and after further input from the senior program committee -><abstract>
+members and the Program Co-chairs, 142 submissions were selected as full papers and a -><abstract>
+similar number of submissions were selected for poster presentation. The acceptance rate for -><abstract>
+full papers was 24.6%, ensuring high quality and yet allowing diversity of topics and -><abstract>
+perspectives. The acceptance rate for full papers and posters together was 49.7%, and -><abstract>
+included representation from 28 countries. We sincerely thank the hardworking SPC and PC -><abstract>
+endeavor would not be able to proceed. -><abstract>
+This volume includes the full papers, poster summaries, details of the keynote presentations, -><abstract>
+and also brief descriptions of selected demonstrations of agent technologies and agent- -><abstract>
+related software and hardware. When taken together, we believe these articles and -><abstract>
+summaries present a rich overview of a healthy international research activity in this key -><abstract>
+field, and we hope that you will enjoy reading, or just browsing, these proceedings. -><abstract>

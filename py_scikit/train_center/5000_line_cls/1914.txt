@@ -1,0 +1,12 @@
+ESCAPES - Evacuation Simulation with Children, -><note>
+Authorities, Parents, Emotions, and Social comparison -><note>
+Jason Tsai1, Natalie Fridman2, Emma Bowring3, Matthew Brown1, Shira Epstein1, -><note>
+Gal Kaminka2, Stacy Marsella4, Andrew Ogden1, Inbal Rika2, Ankur Sheel1, Matthew E. Taylor5, -><note>
+Xuezhi Wang1†, Avishay Zilka2, and Milind Tambe1 -><note>
+1University of Southern California, Los Angeles, CA 90089 -><affiliation>
+{jasontts, matthew.a.brown, spepstei, aogden, asheel, tambe} @usc.edu, †littlexxxx@163.com -><email>
+2Bar Ilan University, Israel -><affiliation>
+{fridman, galk} @cs.biu.ac.il, {avish12, inbalrika} @gmail.com -><email>
+3University of the Pacific, Stockton, CA 95211, ebowring@pacific.edu -><affiliation>
+4USC ICT, Playa Vista, CA 90094, marsella@ict.usc.edu -><email>
+5Lafayette College, Easton, PA 18042, taylorm@lafayette.edu -><email>

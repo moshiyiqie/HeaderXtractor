@@ -1,0 +1,13 @@
+Divide-and-Coordinate: DCOPs by agreement -><title>
+Jesus Cerquides -><author>
+WAI, Dep. Matemàtica Aplicada i Anàlisi -><affiliation>
+Universitat de Barcelona -><affiliation>
+Gran Via 585, Barcelona, Spain -><address>
+cerquide@maia.ub.es -><email>
+Meritxell Vinyals, -><author>
+Marc Pujol, -><author>
+J. A. Rodriguez-Aguilar -><author>
+Artiﬁcial Intelligence Research Institute (IIIA) -><affiliation>
+Spanish Scientiﬁc Research Council (CSIC) -><affiliation>
+Campus UAB, Bellaterra, Spain -><address>
+{meritxell,mpujol,jar}@iiia.csic.es -><email>

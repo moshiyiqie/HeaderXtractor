@@ -1,0 +1,19 @@
+Quality of Student Contributed Questions Using PeerWise -><title>
+Beth Simon -><author>
+Computer Science and Engineering -><affiliation>
+University of California, San Diego -><affiliation>
+La Jolla, CA -><affiliation>
+USA -><address>
+bsimon@cs.ucsd.edu -><email>
+Andrew Luxton-Reilly -><author>
+Computer Science -><affiliation>
+University of Auckland -><affiliation>
+Private Bag 92019, Auckland, -><address>
+New Zealand -><address>
+andrew@cs.auckland.ac.nz -><email>
+Paul Denny -><author>
+Computer Science -><affiliation>
+University of Auckland -><affiliation>
+Private Bag 92019, Auckland, -><address>
+New Zealand -><address>
+paul@cs.auckland.ac.nz -><email>

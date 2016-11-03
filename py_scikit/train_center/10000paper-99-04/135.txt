@@ -1,0 +1,15 @@
+Detecting Anomalous Agents in Mobile Agent System -><title>
+A Preliminary Approach -><title>
+∗ -><title>
+Tie-Yan Li -><author>
+Information Security Group -><author>
+Ubiquitous Computing Program -><author>
+Laboratories for Information Technology -><affiliation>
+Singapore 119613 -><address>
+litieyan@lit.org.sg -><email>
+Kwok-Yan Lam -><author>
+Centre for Systems Security -><affiliation>
+School of Computing -><affiliation>
+National University of Singapore -><affiliation>
+Singapore 119260 -><address>
+lamky@comp.nus.edu.sg -><email>

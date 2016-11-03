@@ -1,0 +1,24 @@
+Applying Multiresolution Methods to Medical Image -><title>
+Enhancement -><title>
+Oleg S. Pianykh -><author>
+Department of Radiology -><affiliation>
+Louisiana State University -><affiliation>
+Health Sciences Center -><affiliation>
+1542 Tulane Avenue -><address>
+Monica A. Trifas -><author>
+Department of Mathematical, -><affiliation>
+Computing and Information Sciences -><affiliation>
+Jacksonville State University -><affiliation>
+700 Pelham Road North -><address>
+Jacksonville, AL 36265 -><address>
+John M. Tyler -><author>
+Department of Computer Science -><affiliation>
+Louisiana State University -><affiliation>
+Baton Rouge, LA 70803 -><address>
+1-225-578-2198 -><phone>
+tyler@csc.lsu.edu -><email>
+New Orleans, LA 70112 -><note>
+1-256-782-5718 -><phone>
+1-204-913-1110 -><phone>
+atrifas@jsu.edu -><email>
+opiany@lsuhsc.edu -><email>

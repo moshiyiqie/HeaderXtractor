@@ -1,0 +1,5 @@
+Sensitive Webpage Classification for Content Advertising -><title>
+Xin Jin, Ying Li, Teresa Mah and Jie Tong -><author>
+Microsoft Corporation -><affiliation>
+One Microsoft Way, Redmond, WA 98052 -><address>
+{xjin,yingli,teresam,jietong}@microsoft.com -><email>

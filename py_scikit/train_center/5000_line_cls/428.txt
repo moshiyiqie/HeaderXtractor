@@ -1,0 +1,19 @@
+Gilad Taase -><title>
+Coalition Formation with Uncertain Heterogeneous -><title>
+Information -><title>
+Onn Shehory -><author>
+IBM Research Lab in Haifa -><affiliation>
+Haifa University -><affiliation>
+Mount Carmel, Haifa -><address>
+31905 ISRAEL -><address>
+onn@il.ibm.com -><email>
+Sarit Kraus -><author>
+Dept. of Computer Science -><affiliation>
+Bar-Ilan Univ. Ramat-Gan, 52900 -><email>
+Israel and Univ. of Maryland College -><affiliation>
+Park, MD -><address>
+sarit@cs.biu.ac.il -><email>
+Dept. of CS -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan, -><address>
+52900 Israel -><address>

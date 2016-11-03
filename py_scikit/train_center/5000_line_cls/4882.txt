@@ -1,0 +1,20 @@
+A Conceptual Model for Agent-based -><title>
+Simulation of Physical Security Systems -><title>
+Volkan Ustun -><author>
+Department of Industrial and -><affiliation>
+Systems Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, AL, USA -><address>
+ustunvo@auburn.edu -><email>
+Jeffrey S. Smith -><author>
+Department of Industrial and -><affiliation>
+Systems Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, AL, USA -><address>
+jsmith@auburn.edu -><email>
+Levent Yilmaz -><author>
+Department of Computer Science and -><affiliation>
+Software Engineering -><degree>
+Auburn University -><affiliation>
+Auburn, AL, USA -><address>
+yilmaz@auburn.edu -><email>

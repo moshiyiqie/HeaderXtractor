@@ -1,0 +1,18 @@
+Allocation of Multiple Wireless Access Points in -><title>
+Mobile Networks -><title>
+Abdullah Konak -><author>
+Penn State University -><affiliation>
+Berks/Lehigh Valley College -><affiliation>
+konak@psu.edu -><email>
+Michael R. Bartolacci -><author>
+Penn State University -><affiliation>
+Berks/Lehigh Valley College -><affiliation>
+mrb24@psu.edu -><email>
+Boris Peltsverger -><email>
+Georgia Southwestern -><author>
+State University -><affiliation>
+plz@canes.gsw.edu -><email>
+Svetlana Peltsverger -><unknow>
+Georgia Southwestern State -><author>
+University -><affiliation>
+sbp@canes.gsw.edu -><email>

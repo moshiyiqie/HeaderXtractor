@@ -1,0 +1,12 @@
+SLuHrG: A Scenario Language to Partially Constrain -><title>
+Autonomous Agents Activity -><title>
+Frédéric Devillers -><author>
+IRISA / INRIA -><affiliation>
+Campus de Beaulieu -><address>
+F-35042 Rennes, FRANCE -><address>
+fdeville@irisa.fr -><email>
+Stéphane Donikian -><author>
+IRISA / CNRS -><affiliation>
+Campus de Beaulieu -><address>
+F-35042 Rennes, FRANCE -><address>
+donikian@irisa.fr -><email>

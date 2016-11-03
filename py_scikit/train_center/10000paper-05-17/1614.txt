@@ -1,0 +1,7 @@
+Virtual Characters in Agent-Augmented Co-Space -><title>
+(Demonstration) -><title>
+Yi-Lin Kang, Budhitama Subagdja, Ah-Hwee Tan, Yew-Soon Ong, Chunyan Miao -><author>
+School of Computer Engineering -><affiliation>
+Nanyang Technological University -><affiliation>
+Nanyang Avenue, Singapore 639798 -><address>
+{kang0028,budhitama,asahtan,asysong,ascymiao}@ntu.edu.sg -><email>

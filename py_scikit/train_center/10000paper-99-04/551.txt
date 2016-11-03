@@ -1,0 +1,6 @@
+A Framework to Control Emergent Survivability of Multi Agent Systems -><title>
+Aaron Helsinger, Karl Kleinmann, Marshall Brinn -><author>
+BBN Technologies -><affiliation>
+10 Moulton Street -><address>
+Cambridge, MA 02138 USA -><address>
+{ahelsing, kkleinmann, mbrinn}@bbn.com -><email>

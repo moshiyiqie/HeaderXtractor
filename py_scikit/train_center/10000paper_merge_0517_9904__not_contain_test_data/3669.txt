@@ -1,0 +1,22 @@
+RTP and TCP Based MIDI over IP Protocols -><title>
+Richard O. Chapman -><author>
+Department of Computer Science and -><affiliation>
+Software Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, AL 36849-5347 -><address>
+1-334-844-6314 -><phone>
+chapman@eng.auburn.edu -><email>
+James Pate Williams -><author>
+Department of Computer Science and -><affiliation>
+Software Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, AL 36849-5347 -><address>
+1-706-884-7115 -><phone>
+pate@eng.auburn.edu -><email>
+Saad Biaz -><author>
+Department of Computer Science and -><affiliation>
+Software Engineering -><degree>
+Auburn University -><affiliation>
+Auburn, AL 36849-5347 -><address>
+1-334-844-6307 -><phone>
+biazsaa@eng.auburn.edu -><email>

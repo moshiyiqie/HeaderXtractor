@@ -1,0 +1,10 @@
+Price Manipulation in Prediction Markets: -><title>
+Analysis and Mitigation -><title>
+Eric H. Huang -><author>
+Computer Science Department -><affiliation>
+Stanford University -><affiliation>
+ehhuang@stanford.edu -><email>
+Yoav Shoham -><author>
+Computer Science Department -><affiliation>
+Stanford University -><affiliation>
+shoham@stanford.edu -><email>

@@ -1,0 +1,18 @@
+Emergence of Stable Coalitions via Task Exchanges -><title>
+Partha Sarathi Dutta -><author>
+Math & CS Department -><affiliation>
+University of Tulsa -><affiliation>
+Tulsa, OK, USA -><address>
+partha@ens.utulsa.edu -><email>
+Sandip Sen -><author>
+Math & CS Department -><affiliation>
+University of Tulsa -><affiliation>
+Tulsa, OK, USA -><address>
+sandip@kolkata.mcs.utulsa.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Computing Methodologies]: Artiﬁcial Intelligence— -><note>
+Distributed Artificial Intelligence -><unknow>
+General Terms -><title>
+Experimentation -><title>
+Keywords -><keyword>
+Cooperation, reciprocity, adaptation and learning -><note>

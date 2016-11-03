@@ -1,0 +1,6 @@
+Agent Based Monitoring of Gestational Diabetes Mellitus -><title>
+(Demonstration) -><title>
+René Schumann, Stefano Bromuri, Johannes Krampf and Michael I. Schumacher -><author>
+Applied Intelligent Systems Laboratory HES-SO -><affiliation>
+Rue de Technopole 3, 3960 Sierre, Switzerland -><address>
+rene.schumann(|)stefano.bromuri(|)johannes.krampf(|)michael.schumacher@hevs.ch -><email>

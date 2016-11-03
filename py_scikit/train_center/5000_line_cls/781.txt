@@ -1,0 +1,5 @@
+A UML Based Approach for Modeling and Implementing -><title>
+Multi-Agent Systems -><title>
+Viviane Torres da Silva, Ricardo Choren and Carlos J. P. de Lucena -><author>
+Computer Science Department -><affiliation>
+{viviane, choren, lucena}@inf.puc-rio.br -><email>

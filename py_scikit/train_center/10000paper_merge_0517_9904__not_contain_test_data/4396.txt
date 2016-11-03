@@ -1,0 +1,18 @@
+GPU and CPU Parallelization of Honest-but-Curious -><title>
+Secure Two-Party Computation∗ -><title>
+Nathaniel Husted -><author>
+Dept. of Comp. Sc. -><affiliation>
+Indiana University -><affiliation>
+nhusted@cs.indiana.edu -><email>
+Steven Myers -><author>
+Dept. of Comp. Sc. -><affiliation>
+Indiana University -><affiliation>
+samyers@cs.indiana.edu -><email>
+Paul Grubbs -><author>
+Dept. of Comp. Sc. -><affiliation>
+Indiana University -><affiliation>
+paulgrub@umail.iu.edu -><email>
+abhi shelat -><email>
+Dept. of Comp. Sc. -><degree>
+University of Virginia -><affiliation>
+abhi@cs.virginia.edu -><email>

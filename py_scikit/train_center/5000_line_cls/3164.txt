@@ -1,0 +1,8 @@
+Complexity of the Winner Determination Problem in -><title>
+Judgment Aggregation: Kemeny, Slater, Tideman, Young -><title>
+Ronald de Haan -><author>
+Technische Universität Wien -><affiliation>
+dehaan@kr.tuwien.ac.at -><email>
+Ulle Endriss -><author>
+ILLC, University of Amsterdam -><affiliation>
+ulle.endriss@uva.nl -><email>

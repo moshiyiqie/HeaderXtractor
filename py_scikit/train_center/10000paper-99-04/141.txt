@@ -1,0 +1,19 @@
+Software Agents to Support Mobile Services -><title>
+Wathiq Mansoor -><author>
+Software Agents Research Group@ZU -><email>
+College of Information Systems -><affiliation>
+Zayed University, Dubai, UAE -><affiliation>
+971 4 2082 462 -><phone>
+wathiq.mansoor@zu.ac.ae -><email>
+Qusay H. Mahmoud -><author>
+School of Computing Science -><affiliation>
+Simon Fraser University -><affiliation>
+Burnaby, B.C., V5A 1S6, Canada -><address>
+1 604 29 4070 -><phone>
+qmahmoud@cs.sfu.ca -><email>
+Zakaria Maamar -><author>
+Software Agents Research Group@ZU -><email>
+College of Information Systems -><affiliation>
+Zayed University, Dubai, UAE -><affiliation>
+971 4 2082 461 -><phone>
+zakaria.maamar@zu.ac.ae -><email>

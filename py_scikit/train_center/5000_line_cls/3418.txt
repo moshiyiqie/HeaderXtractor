@@ -1,0 +1,11 @@
+Budget-Constrained Knowledge in Multiagent Systems -><title>
+Pavel Naumov -><author>
+Mathematics and Computer Science -><affiliation>
+McDaniel College -><affiliation>
+Westminster, MD 20853 -><address>
+pavel@pavelnaumov.com -><email>
+Jia Tao† -><author>
+Department of Computer Science -><affiliation>
+Bryn Mawr College -><affiliation>
+Bryn Mawr, PA 19010 -><address>
+jtao@cs.brynmawr.edu -><email>

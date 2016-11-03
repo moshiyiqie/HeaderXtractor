@@ -1,0 +1,13 @@
+Manipulating the Probabilistic Serial Rule -><title>
+Haris Aziz Serge Gaspers Simon Mackenzie Nicholas Mattei -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+{haris.aziz, serge.gaspers, simon.mackenzie, nicholas.mattei}@nicta.com.au -><email>
+Toby Walsh -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+toby.walsh@nicta.com.au -><email>
+Nina Narodytska -><author>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, USA -><address>
+ninan@cs.cmu.edu -><email>

@@ -1,0 +1,10 @@
+v-mWater: a 3D Virtual Market for Water Rights1 -><title>
+(Demonstration) -><title>
+P. Almajano, T. Trescak, M. Esteva -><author>
+IIIA, CSIC -><affiliation>
+Barcelona, Spain -><address>
+{palmajano,ttrescak,marc}@iiia.csic.es -><email>
+I. Rodriguez, M. Lopez-Sanchez -><author>
+University of Barcelona -><affiliation>
+Barcelona, Spain -><address>
+{inma,maite}@maia.ub.es -><email>

@@ -1,0 +1,7 @@
+Mapping mental states into propositional planning -><title>
+Felipe R. Meneguzzi -><author>
+Avelino F. Zorzo and Michael C. Mo´ra -><author>
+CPSE, PUCRS, Brazil -><affiliation>
+Computer Science Dept., PUCRS, Brazil -><address>
+felipe@cpts.pucrs.br -><email>
+{zorzo,michael}@inf.pucrs.br -><email>

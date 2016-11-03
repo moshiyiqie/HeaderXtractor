@@ -1,0 +1,14 @@
+JCPNet Tool and Automated Analysis of Distributed -><title>
+Systems -><title>
+Xiaochuan Yi -><author>
+Computer Science Department -><affiliation>
+The University of Georgia -><affiliation>
+415 Boyd GSRC, Athens, GA 30602 -><address>
+706-542-2911 -><phone>
+xyi@yahoo.com -><email>
+Krys J. Kochut -><author>
+Computer Science Department -><affiliation>
+The University of Georgia -><affiliation>
+415 Boyd GSRC, Athens, GA 30602 -><address>
+706-542-2911 -><phone>
+kochut@cs.uga.edu -><email>

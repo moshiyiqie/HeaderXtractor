@@ -1,0 +1,14 @@
+Multimodal Intelligent Affect Detection with Kinect -><title>
+(Doctoral Consortium) -><title>
+Dr. Li Zhang -><author>
+Northumbria University -><affiliation>
+United Kingdom -><address>
+li.zhang@northumbria.ac.uk -><email>
+Prof. Alamgir Hossain -><author>
+Northumbria University -><affiliation>
+United Kingdom -><address>
+alamgir.hossain@northumbria.ac.uk -><email>
+Yang Zhang -><author>
+Northumbria University -><affiliation>
+United Kingdom -><address>
+Yang4.zhang@northumbria.ac.uk -><email>

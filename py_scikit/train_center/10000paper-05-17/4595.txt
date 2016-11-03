@@ -1,0 +1,19 @@
+Managing Short Postings Lists -><title>
+Andrew Trotman -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+andrew@cs.otago.ac.nz -><email>
+Matt Crane -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+mcrane@cs.otago.ac.nz -><email>
+Xiang-Fei Jia -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+fei@cs.otago.ac.nz -><email>

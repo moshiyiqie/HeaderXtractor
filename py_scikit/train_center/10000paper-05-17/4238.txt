@@ -1,0 +1,34 @@
+A Misconception Module to a Database Courseware -><title>
+Adi Hidayat -><author>
+Kennesaw State University -><affiliation>
+CSIS Department -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA 30144 -><address>
+adihidayat@hotmail.com -><email>
+Ross Zilligen -><author>
+Kennesaw State University -><affiliation>
+CSIS Department -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA 30144 -><address>
+rzilligen@gmail.com -><email>
+1. PROBLEM AND MOTIVATION -><affiliation>
+The Animated Database Courseware (http://adbc.kennesaw.edu) -><web>
+that will be presented consists of animations, examples, and -><abstract>
+sample tests to support database curricula. It consists of four -><abstract>
+major models (Database Design, SQL, Transactional Processing, -><abstract>
+and Advanced Concepts) as well as many sub-modules. This -><abstract>
+software has been used extensively at Kennesaw State University -><affiliation>
+as well as many other universities throughout the country. -><affiliation>
+Evaluations have indicated that it improves learning depth and -><abstract>
+breadth. However, students still commit some classical -><abstract>
+misconceptions. This work describes a new sub-module to address -><abstract>
+misconceptions and has recently been implemented in our -><abstract>
+courseware: SQL Misconceptions. This work has been funded by -><note>
+NSF grant # 0717707. -><note>
+2. BACKGROUND AND RELATED -><note>
+LITERATURE -><note>
+Work on the software animations involves doing research in one -><note>
+or more of the following areas: Database, Programming (Java or -><note>
+Flash), Visual Design and Pedagogy. -><note>
+For this particular model, it involved studying SQL and Relational -><note>
+Algebra [1-5]. The developing environment of the misconceptions -><note>

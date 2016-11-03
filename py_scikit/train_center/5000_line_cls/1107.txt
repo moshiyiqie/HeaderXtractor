@@ -1,0 +1,15 @@
+Logic and Game Theory for Social Mechanisms -><title>
+Sieuwert van Otterloo -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF -><address>
+sieuwert@bluering.nl -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [ARTIFICIAL INTELLIGENCE]: Distributed Ar- -><note>
+tificial Intelligence—Multiagent systems; K.4.4 [COMPUTERS -><note>
+AND SOCIETY]: Electronic Commerce—Security -><note>
+General Terms -><note>
+Theory -><keyword>
+Keywords -><keyword>
+knowledge, epistemic logic, modal logic, game theory, pri- -><keyword>
+vacy, security, mechanism design, verification -><keyword>

@@ -1,0 +1,13 @@
+Mister X – An Innovative Location-Based Multiplayer Game -><title>
+Ronald Fromm -><author>
+Telekom Laboratories -><affiliation>
+Berlin, Germany -><address>
+ronald.fromm@telekom.de -><email>
+Pascal Bihler -><author>
+University of Bonn -><affiliation>
+Bonn, Germany -><address>
+bihler@cs.uni-bonn.de -><email>
+Katja Henke -><author>
+Telekom Laboratories -><affiliation>
+Berlin, Germany -><address>
+katja.henke@telekom.de -><email>

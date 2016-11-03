@@ -1,0 +1,10 @@
+Socially Conscious Decision-Making -><title>
+Alyssa Glass -><author>
+Xerox Palo Alto Research Center -><affiliation>
+Palo Alto, CA 94304 USA -><address>
+aglass @ parc.xerox.com -><email>
+Barbara Grosz -><author>
+Division of Engineering and Applied Sciences -><affiliation>
+Harvard University -><affiliation>
+Cambridge, MA 02138 USA -><address>
+grosz@eecs.harvard.edu -><email>

@@ -1,0 +1,8 @@
+TabletNotes -><title>
+David Dorothy -><author>
+School of Computing -><affiliation>
+100 McAdams Hall -><address>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+1-864-268-4264 -><phone>
+ddoroth@clemson.edu -><email>

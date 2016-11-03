@@ -1,0 +1,8 @@
+Auction in Dynamic Environments: Incorporating the Cost -><title>
+Caused by Re-allocation -><title>
+Shigeo Matsubara -><author>
+NTT Communication Science Laboratories -><affiliation>
+NTT Corporation -><affiliation>
+2-4 Hikaridai, Seika-cho, “Keihanna Science City” -><address>
+Kyoto 619-0237, Japan -><address>
+matsubara@cslab.kecl.ntt.co.jp -><affiliation>

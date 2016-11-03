@@ -1,0 +1,15 @@
+A Study on the Stability and Efficiency of Graphical Games -><title>
+with Unbounded Treewidth -><title>
+Nicolas Maudet -><author>
+LIP6-UPMC, Paris, France -><address>
+nicolas.maudet@lip6.fr -><email>
+Anisse Ismaili -><affiliation>
+LIP6-UPMC, Paris, France -><address>
+anisse.ismaili@lip6.fr -><email>
+Evripidis Bampis -><affiliation>
+LIP6-UPMC, Paris, France -><address>
+evripidis.bampis@lip6.fr -><email>
+Patrice Perny -><affiliation>
+LIP6-UPMC, 4 place Jussieu, -><address>
+75005 Paris, France -><address>
+patrice.perny@lip6.fr -><email>

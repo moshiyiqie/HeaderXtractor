@@ -1,0 +1,17 @@
+Customizing Model-View-Controller design pattern for -><title>
+Web Controlled Household Appliances and Devices -><title>
+Mike Schardt -><author>
+Stefan Dimov -><author>
+dimovsp@yahoo.com -><email>
+Vikas Vyas -><author>
+vikas.vyas@gmail.com -><email>
+alleyoop_b52@yahoo.com -><email>
+Susrutha Narla -><author>
+susrutha_narla@yahoo.com -><email>
+Haihua Fu -><author>
+lisa_h_fu@yahoo.com -><email>
+Abdullah Faruque, Ph.D. -><email>
+(research advisor) -><affiliation>
+afaruque@spsu.edu -><email>
+School of Computing and Software Engineering at Southern Polytechnic State University -><affiliation>
+1100 South Marietta Parkway, Marietta Georgia, 30060-2896 -><address>

@@ -1,0 +1,9 @@
+Distributed Reinforcement Learning for a Traffic -><title>
+Engineering Application -><title>
+Mark D. Pendrith -><author>
+DaimlerChrysler Research & Technology Center -><affiliation>
+1510 Page Mill Rd -><address>
+Palo Alto, CA 94304, USA -><address>
+E-mail: pendrith@ieee.org -><email>
+Author's current address/affiliation: SRI International, -><affiliation>
+333 Ravenswood Ave, Menlo Park, CA 94025, USA. -><address>

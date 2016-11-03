@@ -1,0 +1,9 @@
+Unconstrained Separation of Handwriting for -><title>
+Form Classification Applications -><title>
+D. Curtis, E.A. Yfantis, J. Adams, C. Bellomo -><author>
+Digital Image Processing Laboratory -><affiliation>
+University of Nevada, Las Vegas -><affiliation>
+4505 Maryland Parkway, -><address>
+Las Vegas, NV, 89154 -><address>
+(702)895-0425 -><phone>
+deancurtis@acm.org -><email>

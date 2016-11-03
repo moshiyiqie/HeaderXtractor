@@ -1,0 +1,7 @@
+Designing Socially-Aware Video Exploration Interfaces: A -><title>
+Case Study Using School Concert Assets -><author>
+1 -><pubnum>
+2 -><pubnum>
+CWI: Centrum Wiskunde & Informatica -><affiliation>
+Amsterdam, The Netherlands -><address>
+diogo@icmc.usp.br, rodrigo@laiola.com.br, p.s.cesar@cwi.nl, dick.bulterman@cwi.nl -><email>

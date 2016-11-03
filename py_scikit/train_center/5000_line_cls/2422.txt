@@ -1,0 +1,34 @@
+Effective Methods for Generating Collision Free Paths for -><title>
+Multiple Robots based on Collision Type (Demonstration) -><title>
+Fan Liu, Ajit Narayanan, Quan Bai -><author>
+School of Computing and Mathematical Sciences -><affiliation>
+Auckland University of Technology -><affiliation>
+Auckland, New Zealand -><address>
+{richard.liu, ajit.narayanan, quan.bai}@aut.ac.nz -><email>
+1. COLLISION TYPES IN MULTI-ROBOT -><affiliation>
+SYSTEMS -><affiliation>
+Collision avoidance is an important topic in multi-robot -><abstract>
+systems. Existing multi-robot pathfinding approaches ig- -><abstract>
+nore sideswipe collisions among robots (i.e., only consider -><abstract>
+the collision which two agents try to occupy the same node -><abstract>
+during the same time-step) [1, 3, 4], and allow diagonal move -><abstract>
+between two adjacent nodes (e.g., Figure 1(b)). However, in -><abstract>
+many real world applications, sideswipe collisions may also -><abstract>
+block robots’ movements or cause deadlocks. For example, -><abstract>
+as shown in Figure 1, if the size of two robots is as big as -><abstract>
+the grid size they occupied, collisions will happen not only -><abstract>
+between robots R1 and R2 in the situation depicted in Fig- -><abstract>
+ure 1(a), but also that in Figure 1(b), which is typically not -><abstract>
+considered as a collision in existing multi-robot systems. -><abstract>
+(a) (b) -><abstract>
+Figure 1: (a) Occupy the same position. (b) Sideswipe col- -><abstract>
+lision. -><abstract>
+To overcome the limitation depicted in Figure 1(b), we -><abstract>
+investigate all possible collision scenarios in a multi-robot -><abstract>
+system (the speed / velocity of robots is taken into consider- -><abstract>
+ation when describing these collisions) when robots are mov- -><abstract>
+ing, and identify one deadloop type and five collision types. -><abstract>
+Other collision types involving non-movement of robots due -><abstract>
+to breakdown are not included in our scenarios. We claim -><abstract>
+that all possible scenarios that may hinder a robot’s planned -><abstract>
+motion in a two-dimensional space can be covered by these -><abstract>

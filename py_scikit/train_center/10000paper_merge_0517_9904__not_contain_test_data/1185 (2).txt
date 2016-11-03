@@ -1,0 +1,6 @@
+SIAS: A Secure Shopping Information Agent System -><title>
+Anthony H. W. Chan, T. Y. Wong, Caris K. M. Wong, and Michael R. Lyu -><author>
+Department of Computer Science and Engineering, the Chinese University of Hong Kong -><affiliation>
+Shatin, N.T., Hong Kong -><address>
+Fax: (852) 2603-5024 -><phone>
+{hwchanl, tywongskmwongl ,lyu}@cse.cuhk.edu.hk -><email>

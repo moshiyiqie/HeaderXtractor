@@ -1,0 +1,7 @@
+A Relational Database Model for Representation of Formal -><title>
+Specifications -><title>
+Robert Leithiser -><author>
+Department of Computer Science and Software Engineering -><affiliation>
+Auburn University -><affiliation>
+334 201-4536 -><phone>
+leithrm@auburn.edu -><email>

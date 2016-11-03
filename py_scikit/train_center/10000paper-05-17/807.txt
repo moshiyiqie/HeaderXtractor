@@ -1,0 +1,11 @@
+Improving DPOP with Function Filtering -><title>
+Pedro Meseguer -><author>
+IIIA - CSIC -><affiliation>
+Campus UAB -><address>
+08193 Bellaterra, Spain -><address>
+pedro@iiia.csic.es -><email>
+Ismel Brito -><author>
+IIIA - CSIC -><affiliation>
+Campus UAB -><address>
+08193 Bellaterra, Spain -><address>
+ismel@iiia.csic.es -><email>

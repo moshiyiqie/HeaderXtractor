@@ -1,0 +1,34 @@
+Ant-Inspired Navigation In Unknown Environments -><title>
+Stergios I. Roumeliotis -><author>
+Computer Science Dpt. -><affiliation>
+University of Southern -><affiliation>
+California -><address>
+Los Angeles, CA 90089-0781 -><address>
+stergios@robotics.usc.edu -><email>
+Paolo Pirjanian -><author>
+Computer Science Dpt. -><affiliation>
+University of Southern -><affiliation>
+California -><address>
+Los Angeles, CA 90089-0781 -><address>
+paolo@robotics.usc.edu -><email>
+Maja J. Matari6 -><author>
+Computer Science Dpt. -><affiliation>
+University of Southern -><affiliation>
+California -><address>
+Los Angeles, CA 90089-0781 -><address>
+maja@robotics.usc.edu -><email>
+In contrast to most other ant species, desert ants (Cataglyphis -><abstract>
+fortis) do not use pheromones to mark their path. When re- -><abstract>
+turning from a foraging trip to their nest they navigate both -><abstract>
+by path integration and by visual landmarks. An egocentric -><abstract>
+navigation system based on path integration alone suffers -><abstract>
+from two major pitfalls: 1. It must run uninterrupted as -><abstract>
+long as the animal moves and 2. It is inherently susceptible -><abstract>
+to cumulative navigation errors. Hence, if the animal visited -><abstract>
+an area repeatedly, it -><abstract>
+positional fix by acquiring landmark-based geocentered (alo- -><abstract>
+centric) information. Indeed desert ants and honeybees use -><abstract>
+such information in addition to path integration. On a fa- -><abstract>
+miliar route, when ants can steer by visual landmarks, they -><abstract>
+adopt a fixed and often circuitous path consisting of several -><abstract>
+separate segments that -><abstract>

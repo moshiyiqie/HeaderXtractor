@@ -1,0 +1,6 @@
+Adaptive Expressiveness – Virtual Conversational Agents -><title>
+That Can Align to Their Interaction Partner -><title>
+Hendrik Buschmeier, Kirsten Bergmann and Stefan Kopp -><author>
+Sociable Agents Group, CITEC, Bielefeld University -><affiliation>
+PO-Box 10 0131, 33501 Bielefeld, Germany -><address>
+{hbuschme, kbergman, skopp}@techfak.uni-bielefeld.de -><email>

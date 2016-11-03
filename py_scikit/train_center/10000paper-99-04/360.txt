@@ -1,0 +1,14 @@
+Architecture Evaluation Of An Agent-Based Music -><title>
+Gathering Application -><title>
+A.J.N. van Breemen -><title>
+Philips Research -><note>
+Software Architecture Group (SwA) -><note>
+Prof. Holstlaan 4 (WDC 1.034) -><note>
+5656 AA, Eindhoven, The Netherlands -><address>
+albert.van.breemen@philips.com -><email>
+L.M.G. Feijs -><author>
+Eindhoven University of Technology -><affiliation>
+Department of Industrial Design (ID) -><affiliation>
+P.O. Box 513 (HG 9.32) -><address>
+5600MB, Eindhoven, The Netherlands -><address>
+l.m.g.feijs@tue.nl -><email>

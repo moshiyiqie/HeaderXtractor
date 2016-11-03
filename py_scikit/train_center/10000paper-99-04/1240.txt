@@ -1,0 +1,7 @@
+A Team of Robotic Agents for Surveillance -><title>
+Paul E. Rybski,Sascha A. Stoeter, Michael D. Erickson, -><author>
+Maria Gini, Dean F. Hougen, Nikolaos Papanikolopoulos -><author>
+Center for Distributed Robotics -><affiliation>
+Department of Computer Science and Engineering -><affiliation>
+University of Minnesota Minneapolis, MN 55455 -><affiliation>
+{rybski,stoeter,merickso,gini,hougen,npapas}@cs.umn.edu -><email>

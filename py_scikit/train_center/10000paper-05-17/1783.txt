@@ -1,0 +1,13 @@
+NetArg: An Agent-Based Social Simulator with -><title>
+Argumentative Agents -><title>
+(Demonstration) -><title>
+Paolo Torroni -><author>
+DISI, University of Bologna -><affiliation>
+Viale del Risorgimento, 2 -><address>
+40136 Bologna, Italy -><address>
+paolo.torroni@unibo.it -><email>
+Simone Gabbriellini -><author>
+DISI, University of Bologna -><affiliation>
+Viale del Risorgimento, 2 -><address>
+40136 Bologna, Italy -><address>
+simone.gabbriellini@unibo.it -><email>

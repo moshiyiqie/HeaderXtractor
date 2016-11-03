@@ -1,0 +1,13 @@
+Multi-Agent Monte Carlo Go -><title>
+Leandro Soriano Marcolino -><author>
+Matsubara Laboratory – Intelligence Information -><affiliation>
+Science Department -><affiliation>
+Future University of Hakodate -><affiliation>
+Hakodate, Japan -><address>
+g2209001@fun.ac.jp -><email>
+Hitoshi Matsubara -><author>
+Matsubara Laboratory – Intelligence Information -><affiliation>
+Science Department -><affiliation>
+Future University of Hakodate -><affiliation>
+Hakodate, Japan -><address>
+matsubar@fun.ac.jp -><email>

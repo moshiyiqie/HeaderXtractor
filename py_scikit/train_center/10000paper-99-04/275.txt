@@ -1,0 +1,7 @@
+Data-Driven Generation of Simulated Soccer Behaviors -><title>
+David C. Brogan -><author>
+University of Virginia -><affiliation>
+dbrogan@cs.virginia.edu -><email>
+Yannick Loitie`re -><author>
+University of Virginia -><affiliation>
+ycl2r@cs.virginia.edu -><email>

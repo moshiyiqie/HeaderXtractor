@@ -1,0 +1,13 @@
+Prometheus: A Methodology for Developing Intelligent -><title>
+Agents -><title>
+Lin Padgham -><author>
+Michael Winikoff -><author>
+winikoff@cs.rmit.edu.au -><email>
+linpa@cs.rmit.edu.au -><email>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+Categories and Subject Descriptors -><keyword>
+D.2.2 [Software Engineering]: Design Tools and Techniques; D.2.2 -><keyword>
+[Software Engineering]: Requirements/Specifications—Method- -><keyword>
+ologies; I.2.11 [Artificial Intelligence]: Distributed Artificial In- -><keyword>
+telligence— Intelligent agents, Multiagent systems -><keyword>

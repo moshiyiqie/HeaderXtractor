@@ -1,0 +1,7 @@
+Global Protocols as First Class Entities -><title>
+for Self-Adaptive Agents -><title>
+Davide Ancona Daniela Briola Angelo Ferrando Viviana Mascardi -><author>
+DIBRIS, University of Genova -><affiliation>
+Via Dodecaneso 35, 16146, Genova, Italy -><address>
+davide.ancona@unige.it,daniela.briola@unige.it, -><email>
+angelo.ferrando42@gmail.com,viviana.mascardi@unige.it -><email>

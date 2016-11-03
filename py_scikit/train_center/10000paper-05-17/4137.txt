@@ -1,0 +1,12 @@
+High Precision Automatic Scheduling of Periodic -><title>
+Task Sets for Microcontrollers -><title>
+Benjamin Ness -><author>
+Institute for Software Integrated Systems -><affiliation>
+Gabor Karsai -><author>
+Institute for Software Integrated Systems -><affiliation>
+Vanderbilt University -><affiliation>
+Vanderbilt University -><affiliation>
+Nashville, TN 37235 -><address>
+Nashville, TN 37235 -><address>
+bness@isis.vanderbilt.edu -><email>
+gabor.karsai@vanderbilt.edu -><email>

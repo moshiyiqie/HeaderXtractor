@@ -1,0 +1,7 @@
+ETAPP: A Framework of Agent Collaboration under -><affiliation>
+Conditions of Uncertainty Regarding Team Members ∗ -><title>
+Christian Guttmann -><author>
+School of Computer Science and Software Engineering -><affiliation>
+Monash University -><affiliation>
+Clayton, VICTORIA 3800, Australia -><address>
+xtg@csse.monash.edu.au -><email>

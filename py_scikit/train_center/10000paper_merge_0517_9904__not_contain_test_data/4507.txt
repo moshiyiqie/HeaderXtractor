@@ -1,0 +1,12 @@
+FRI-Attack: Fraduelent Routing Information Attack on -><title>
+Wireless Mesh Network -><title>
+Somanath Tripathy -><author>
+Dept. of Computer Science and Engineering -><affiliation>
+Indian Institute of Technology Patna -><affiliation>
+Patna, Bihar 800013 -><address>
+som@iitp.ac.in -><email>
+Rakesh Matam -><author>
+Dept. of Computer Science and Engineering -><affiliation>
+Indian Institute of Technology Patna -><affiliation>
+Patna, Bihar 800013 -><address>
+m.rakesh@iitp.ac.in -><email>

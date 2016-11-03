@@ -1,0 +1,6 @@
+Agent-Based Adaptive Mobile Computing in Games -><title>
+(Demonstration) -><title>
+Damian Burke, Axel Heßler, Sahin Albayrak -><author>
+TU Berlin, DAI-Labor -><affiliation>
+Ernst-Reuter-Platz 7, 10587 Berlin, Germany -><address>
+{damian.burke,axel.hessler,sahin.albayrak}@dai-labor.de -><affiliation>

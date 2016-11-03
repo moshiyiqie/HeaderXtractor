@@ -1,0 +1,11 @@
+Exploring the Magic of WAND -><title>
+1,2 -><pubnum>
+1 -><pubnum>
+2 -><pubnum>
+Matthias Petri -><unknow>
+J. Shane Culpepper -><author>
+Alistair Moffat -><author>
+1. School of Computer Science and Information Technology -><affiliation>
+RMIT University, Australia -><affiliation>
+2. Department of Computing and Information Systems -><affiliation>
+The University of Melbourne, Australia -><affiliation>

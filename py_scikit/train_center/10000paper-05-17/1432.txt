@@ -1,0 +1,5 @@
+False-name-proofness in Online Mechanisms -><title>
+Taiki Todo, Takayuki Mouri, Atsushi Iwasaki, and Makoto Yokoo -><author>
+Department of Informatics, Kyushu University -><affiliation>
+Motooka 744, Fukuoka, Japan -><address>
+{todo@agent., mouri@agent., iwasaki@, yokoo@}inf.kyushu-u.ac.jp -><email>

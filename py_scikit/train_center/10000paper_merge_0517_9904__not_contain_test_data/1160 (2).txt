@@ -1,0 +1,19 @@
+Agent Interoperation Across Multagent System Boundaries -><title>
+Joseph A. Giampapa -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+garof@cs.cmu.edu -><email>
+Massimo Paolucci -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+paolucci@cs.cmu.edu -><email>
+Katia Sycara -><email>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+katia@cs.cmu.edu -><email>

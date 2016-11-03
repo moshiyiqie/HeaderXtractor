@@ -1,0 +1,7 @@
+The Spelling Bee -><title>
+An Augmented Physical Block System that Knows how to Spell -><title>
+Ammon Dekel, Galit Yavne, Ela Ben-Tov, Julia Roschak -><author>
+The Selim and Rachel Benin School of Computer Science and Engineering -><affiliation>
+The Hebrew University of Jerusalem -><affiliation>
+91904 Jerusalem, Israel -><address>
+amnoid@cs.huji.ac.il , (galit.yavne, ellabt, yuliyn)@gmail.com -><affiliation>

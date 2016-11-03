@@ -1,0 +1,5 @@
+Application Layer Intrusion Detection for SQL Injection -><title>
+Frank S. Rietta -><author>
+10630 Greenock Way -><address>
+Duluth, Georgia 30097 -><address>
+frank@rietta.com -><email>

@@ -1,0 +1,13 @@
+Efficient TCTL Model Checking Algorithm for Timed Actors -><title>
+Ehsan Khamespanah -><title>
+Ramtin Khosravi -><title>
+M.Sirjani -><author>
+University of Tehran, Tehran, Iran -><affiliation>
+Reykjavik University, Reykjavik, -><affiliation>
+Iceland -><address>
+marjan@ru.is -><email>
+r.khosravi@ut.ac.ir -><email>
+University of Tehran, Tehran, Iran -><affiliation>
+Reykjavik University, Reykjavik, -><affiliation>
+Iceland -><address>
+e.khamespanah@ut.ac.ir -><email>

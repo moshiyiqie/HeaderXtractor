@@ -1,0 +1,22 @@
+Lightweight Authentication of Freshness in Outsourced -><title>
+Key-Value Stores -><title>
+Ting Wang -><author>
+IBM Research Center -><affiliation>
+Yorktown Heights, NY USA -><address>
+tingwang@us.ibm.com -><email>
+Ling Liu -><author>
+Georgia Tech -><affiliation>
+Atlanta, GA USA -><affiliation>
+ling.liu@cc.gatech.edu -><email>
+Yuzhe Tang -><author>
+Syracuse University -><affiliation>
+Syracuse, NY USA -><address>
+ytang100@syr.edu -><email>
+Xin Hu -><author>
+IBM Research Center -><affiliation>
+Yorktown Heights, NY USA -><address>
+huxin@us.ibm.com -><email>
+Jiyong Jang -><author>
+IBM Research Center -><affiliation>
+Yorktown Heights, NY USA -><address>
+jjang@us.ibm.com -><email>

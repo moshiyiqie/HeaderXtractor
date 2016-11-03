@@ -1,0 +1,8 @@
+Cognitive Maps in Virtual Environments: Facilitation of -><title>
+Learning Through the Use of Innate Spatial Abilities -><title>
+Cathryn Johns and Edwin Blake -><author>
+Cvc Laboratory, Computer Science Department -><affiliation>
+University of Cape Town -><address>
+Rondebosch 7701, South Africa -><address>
+Tel.: +27 21 6502670 -><phone>
+{cjohns, edwin} @ cs.uct.ac.za -><email>

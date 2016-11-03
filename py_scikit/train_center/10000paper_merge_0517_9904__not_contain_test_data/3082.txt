@@ -1,0 +1,15 @@
+Semi-Autonomous Avatars in World of Minds -><title>
+A Case Study of AI-based Game Design -><title>
+Michael Mateas -><author>
+University of California, Santa Cruz -><affiliation>
+Computer Science Department -><affiliation>
+1156 High Street -><address>
+Santa Cruz, CA, USA -><address>
+michaelm@cs.ucsc.edu -><email>
+Mirjam Palosaari Eladhari -><author>
+Gotland University -><affiliation>
+Dept of Game Design,Narrative and Time-based -><affiliation>
+Media -><address>
+Cramergatan 3 -><address>
+Visby, Sweden -><address>
+mirjam.eladhari@hgo.se -><email>

@@ -1,0 +1,20 @@
+A New Weight Based Self-Organizing approach to -><title>
+Clustering in Mobile Ad Hoc Networks -><title>
+.VasanthaKumar M -><author>
+Dept. of Information Technology -><affiliation>
+Thiagarajar College of Engineering -><affiliation>
+Madurai -><address>
++91 9578915775 -><phone>
+vasanthakumar@tce.edu -><email>
+Balaji C.M -><author>
+Dept. of Information Technology -><affiliation>
+Thiagarajar College of Engineering -><affiliation>
+Madurai -><address>
++91 8903674566 -><phone>
+balacm@tce.edu -><email>
+Muthuramalingam S -><author>
+Dept. of Information Technology -><affiliation>
+Thiagarajar College of Engineering -><affiliation>
+Madurai -><address>
++91 9443772994 -><phone>
+smrit@tce.edu -><email>

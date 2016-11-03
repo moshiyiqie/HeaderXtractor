@@ -1,0 +1,13 @@
+Surely We Must Learn to Read before We Learn to Write! -><title>
+Simon -><author>
+University of Newcastle, Australia -><affiliation>
+simon@newcastle.edu.au -><email>
+Mike Lopez -><author>
+Manukau Institute of Technology, New Zealand -><affiliation>
+mike.lopez@manukau.ac.nz -><email>
+Ken Sutton -><author>
+Southern Institute of Technology, New Zealand -><affiliation>
+ken.sutton@sit.ac.nz -><email>
+Tony Clear -><author>
+AUT University, New Zealand -><affiliation>
+tony.clear@aut.ac.nz -><email>

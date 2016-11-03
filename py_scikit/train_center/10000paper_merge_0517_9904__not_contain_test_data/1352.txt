@@ -1,0 +1,6 @@
+A Multiagent Evolutionary Framework based on Trust for -><title>
+Multiobjective Optimization -><title>
+Siwei Jiang Jie Zhang Yew Soon Ong -><author>
+School of Computer Engineering -><affiliation>
+Nanyang Technological University, Singapore -><affiliation>
+{sjiang1, zhangj, asysong}@ntu.edu.sg -><email>

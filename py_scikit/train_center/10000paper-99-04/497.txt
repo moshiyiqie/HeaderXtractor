@@ -1,0 +1,14 @@
+Leveraging Agent Properties to Assure Survivability of -><title>
+Distributed Multi-Agent Systems -><title>
+Marshall Brinn -><author>
+BBN Technologies -><affiliation>
+10 Moulton Street -><address>
+Cambridge, MA 02138 -><address>
+(617)-873-2717 -><phone>
+mbrinn@bbn.com -><email>
+Mark Greaves -><author>
+DARPA/IXO -><affiliation>
+3701 North Fairfax Drive -><address>
+Arlington, VA 22203-1714 -><address>
+(703)-526-6623 -><phone>
+mgreaves@darpa.mil -><email>

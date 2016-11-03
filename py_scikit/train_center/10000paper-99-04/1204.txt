@@ -1,0 +1,4 @@
+A Game-Theoretic Formulation -><title>
+of Multi-Agent Resource Allocation -><title>
+Jonathan Bredin; Rajiv T. Maheswaranf (~agri Imerf -><author>
+Tamer Ba~arf David Kotz; and Daniela Rust -><author>

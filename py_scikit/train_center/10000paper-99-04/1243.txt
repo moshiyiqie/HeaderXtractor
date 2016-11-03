@@ -1,0 +1,13 @@
+Representing Social Structures in UML -><title>
+James Odell -><author>
+James Odell Associates -><affiliation>
+3646 West Huron River Drive -><address>
+Ann Arbor, MI 48103 -><address>
++1 (734) 994-0833 -><phone>
+jodell@compuserve.com -><email>
+H. Van Dyke Parunak -><author>
+ERIM -><affiliation>
+PO Box 134001 -><address>
+Ann Arbor, MI 48113-4001 USA -><address>
++1 734 623 2509 -><phone>
+vparunak@erim.org -><email>

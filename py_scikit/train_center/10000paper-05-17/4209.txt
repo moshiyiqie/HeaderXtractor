@@ -1,0 +1,16 @@
+Improving Code Compression using Clustered Modalities -><title>
+Maciej Brodowicz -><author>
+Louisiana State University -><affiliation>
+Center for Computation and -><affiliation>
+Technology -><affiliation>
+maciek@cct.lsu.edu -><email>
+Chris J. Michael -><author>
+Louisiana State University -><affiliation>
+Center for Computation and -><affiliation>
+Technology -><affiliation>
+cmichael@cct.lsu.edu -><email>
+Thomas Sterling -><author>
+Louisiana State University -><affiliation>
+Center for Computation and -><affiliation>
+Technology -><affiliation>
+tron@cct.lsu.edu -><email>

@@ -1,0 +1,12 @@
+Limited Bandwidth Recognition of Collective Behaviors in -><title>
+Bio-Inspired Swarms -><title>
+Michael A. Goodrich -><author>
+Department of Computer Science -><affiliation>
+Brigham Young University -><affiliation>
+Provo, UT 84602 -><address>
+mike@cs.byu.edu -><email>
+Daniel S. Brown -><author>
+AFRL Information Directorate -><affiliation>
+26 Electronic Parkway -><address>
+Rome, NY 13441 -><address>
+daniel.brown.81@us.af.mil -><email>

@@ -1,0 +1,5 @@
+Osaka Developing Story: An Application of Video Agents -><title>
+Rong RONG1 Yoshifumi KITAMURA2 Shinya KITAOKA1 -><author>
+Kazuhiko YAMAZAKI4 Sadayoshi HORIUCHI5 Tatsuro SHIODA5 -><pubnum>
+1 Osaka University 2 Tohoku University 3 Nara Institute of Science and Technology 4 Kansai Telecasting Corporation -><note>
+5 Tanseisha Co. Ltd 6 Planet Entertainment Co. Ltd 7 Prototype Co. Ltd -><note>

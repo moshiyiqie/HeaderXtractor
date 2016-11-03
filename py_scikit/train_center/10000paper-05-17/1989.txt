@@ -1,0 +1,18 @@
+Approximating the Shapley Value via Multi-Issue -><title>
+Decompositions -><title>
+Hossein Azari Soufiani -><title>
+SEAS Harvard -><author>
+Cambridge, MA, US -><author>
+azari@fas.harvard.edu -><email>
+Denis X. Charles -><author>
+Microsoft Research -><affiliation>
+Redmond, WA, US -><address>
+cdx@microsoft.com -><email>
+David M. Chickering -><author>
+Microsoft Research -><affiliation>
+Redmond, WA, US -><address>
+dmax@microsoft.com -><email>
+David C. Parkes -><author>
+SEAS Harvard -><affiliation>
+Cambridge, MA, US -><address>
+parkes@eecs.harvard.edu -><email>

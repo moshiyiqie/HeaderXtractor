@@ -1,0 +1,8 @@
+Every Team Deserves a Second Chance: -><title>
+An Interactive 9x9 Go Experience -><title>
+(Demonstration) -><title>
+Leandro Soriano Marcolino1, Vaishnavh Nagarajan2, Milind Tambe1 -><author>
+1 University of Southern California, Los Angeles, CA, 90089, USA -><affiliation>
+{sorianom, tambe}@usc.edu -><email>
+2 Indian Institute of Technology Madras, Chennai, Tamil Nadu, 600036, India -><affiliation>
+vaish@cse.iitm.ac.in -><email>

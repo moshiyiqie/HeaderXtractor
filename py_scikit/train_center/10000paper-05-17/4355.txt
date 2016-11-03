@@ -1,0 +1,5 @@
+Augmenting Vulnerability Analysis of Binary Code -><title>
+Sean Heelan -><author>
+sean.heelan@gmail.com ∗ -><email>
+Agustin Gianni -><author>
+agustin.gianni@gmail.com ∗ -><email>

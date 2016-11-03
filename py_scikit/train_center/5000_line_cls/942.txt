@@ -1,0 +1,7 @@
+Using ECA Rules to Implement Mobile Query Agents for Fast-Evolving Pure -><title>
+P2P Networks -><title>
+Verena Kantere, Aris Tsois -><author>
+Knowledge and Database Systems Laboratory, -><affiliation>
+School of Electrical and Computer Engineering, -><affiliation>
+National Technical University of Athens -><affiliation>
+{verena, atsois}@dbnet.ece.ntua.gr -><email>

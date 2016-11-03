@@ -1,0 +1,18 @@
+Vision-Based Obstacle Run for Teams of Humanoid Robots -><title>
+(Demonstration) -><title>
+Jonathan Bagot -><author>
+Dept. of Computer Science -><affiliation>
+University of Manitoba -><affiliation>
+umbagotj@cs.umanitoba.ca -><email>
+Jacky Baltes -><author>
+Dept. of Computer Science -><affiliation>
+University of Manitoba -><affiliation>
+jacky@cs.umanitoba.ca -><email>
+Chi Tai Cheng -><author>
+Dept. of Computer Science -><affiliation>
+University of Manitoba -><affiliation>
+tkuggt@cs.umanitoba.ca -><email>
+John Anderson -><author>
+Dept. of Computer Science -><affiliation>
+University of Manitoba -><affiliation>
+andersj@cs.umanitoba.ca -><email>

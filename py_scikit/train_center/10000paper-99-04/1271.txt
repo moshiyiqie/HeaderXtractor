@@ -1,0 +1,12 @@
+John K. Tsotsos -><author>
+Department of Computer Science -><affiliation>
+York University -><affiliation>
+Toronto Ontario Canada M3J 1P3 -><address>
+1 (416) 736-2100 -><phone>
+tsotsos@cs.yorku.ca -><email>
+Yiming Ye, Stephen Boies, Paul Huang -><author>
+IBM T.J. Watson Research Center -><affiliation>
+PO Box 704 -><address>
+Yorktown Heights, NY 10598 -><address>
+1 (914) 784-7455 -><phone>
+yiming@watson.ibm.com -><email>

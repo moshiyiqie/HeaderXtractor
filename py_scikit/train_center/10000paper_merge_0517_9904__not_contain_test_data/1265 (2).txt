@@ -1,0 +1,6 @@
+A Formal Model of Responsibilities in Agent-Based Teams -><title>
+J. Colby Johnson, Thomas R. Ioerger -><author>
+Department of Computer Science -><affiliation>
+Texas A&M University -><affiliation>
+College Station, Texas 77843-3112 -><address>
+{jcj0650, ioerger}@cs.tamu.edu -><email>

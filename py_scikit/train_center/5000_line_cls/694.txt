@@ -1,0 +1,5 @@
+Multi-attribute Dynamic Pricing for Online Markets using Intelligent Agents -><title>
+Prithviraj(Raj) Dasgupta and Yoshitsugu Hashimoto -><author>
+Computer Science Department -><affiliation>
+University of Nebraska, Omaha, NE 68182, USA. -><affiliation>
+{pdasgupta, yhashimoto}@mail.unomaha.edu -><email>

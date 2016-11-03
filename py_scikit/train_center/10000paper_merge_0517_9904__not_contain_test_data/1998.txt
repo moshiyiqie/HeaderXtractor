@@ -1,0 +1,5 @@
+Planning with Macro-Actions in Decentralized POMDPs -><title>
+Christopher Amato, George D. Konidaris and Leslie P. Kaelbling -><author>
+MIT CSAIL -><affiliation>
+Cambridge, MA 02139 -><address>
+{camato, gdk, lpk}@csail.mit.edu -><email>

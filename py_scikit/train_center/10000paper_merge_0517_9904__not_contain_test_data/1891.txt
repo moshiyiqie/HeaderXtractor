@@ -1,0 +1,12 @@
+Finding Objects through Stochastic Shortest Path -><title>
+Problems -><title>
+Manuela M. Veloso -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA, USA -><address>
+mmv@cs.cmu.edu -><email>
+Felipe W. Trevizan -><author>
+Machine Learning Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA, USA -><address>
+fwt@cs.cmu.edu -><email>

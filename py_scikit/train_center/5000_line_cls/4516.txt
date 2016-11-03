@@ -1,0 +1,16 @@
+Intrinsically Motivated Exploration via Intrinsic Value -><title>
+Calculation -><title>
+Benjamin W. Martin -><author>
+EECS Department -><affiliation>
+Min H. Kao Building Suite 401 -><address>
+University of Tennessee -><affiliation>
+1520 Middle Drive -><address>
+Knoxville, TN 37996 -><address>
+bmarti15@eecs.utk.edu -><email>
+Itamar Arel -><author>
+EECS Department -><affiliation>
+Min H. Kao Building Suite 401 -><address>
+University of Tennessee -><affiliation>
+1520 Middle Drive -><address>
+Knoxville, TN 37996 -><address>
+itamar@eecs.utk.edu -><email>

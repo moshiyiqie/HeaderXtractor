@@ -1,0 +1,7 @@
+“Mix-In-Place” Anonymous Networking Using -><title>
+Secure Function Evaluation -><title>
+Nilesh Nipane, Italo Dacosta and Patrick Traynor -><author>
+Converging Infrastructure Security (CISEC) Laboratory -><affiliation>
+Georgia Tech Information Security Center (GTISC) -><affiliation>
+Georgia Institute of Technology -><affiliation>
+{nnipane3, idacosta, traynor}@cc.gatech.edu -><email>

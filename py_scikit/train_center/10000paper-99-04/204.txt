@@ -1,0 +1,18 @@
+Using Agents to Reach an Ontology Consensus -><title>
+George Thomas -><author>
+University of Iowa -><affiliation>
+Dept. of Computer Science -><affiliation>
+Iowa City, IA 52242 -><address>
+gthomas@cs.uiowa.edu -><email>
+Todd A. Krygowski -><author>
+University of Iowa -><affiliation>
+Dept. of Electrical and Computer -><affiliation>
+Engineering -><affiliation>
+Iowa City, IA 52242 -><address>
+krygowsk@eng.uiowa.edu -><email>
+Andrew Brent Williams -><author>
+University of Iowa -><affiliation>
+Dept. of Electrical and Computer -><affiliation>
+Engineering -><affiliation>
+Iowa City, IA 52242 -><address>
+abwill@eng.uiowa.edu -><email>

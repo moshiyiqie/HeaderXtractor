@@ -1,0 +1,7 @@
+Murdoch: Publish/Subscribe Task Allocation for -><title>
+Heterogeneous Agents -><title>
+Brian P. Gerkey and Maja J Matari6 -><author>
+Computer Science Department -><affiliation>
+University of Southern California -><affiliation>
+Los Angeles, CA 90089-0781 -><address>
+{ bgerkey, mat axic} @usc.edu -><email>

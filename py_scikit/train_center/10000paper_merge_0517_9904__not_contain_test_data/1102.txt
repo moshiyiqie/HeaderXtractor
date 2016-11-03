@@ -1,0 +1,7 @@
+Controlling Narrative Time in Interactive Storytelling -><title>
+Julie Porteous, Jonathan Teutenberg, Fred Charles and Marc Cavazza -><author>
+School of Computing, -><affiliation>
+Teesside University, -><affiliation>
+Middlesbrough TS1 3BA, -><address>
+United Kingdom -><address>
+{j.porteous,j.teutenberg,f.charles,m.o.cavazza}@tees.ac.uk -><email>

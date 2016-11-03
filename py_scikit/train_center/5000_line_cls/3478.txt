@@ -1,0 +1,17 @@
+R-HybrID: Evolution of Agent Controllers with a -><title>
+Hybridisation of Indirect and Direct Encodings -><title>
+Luís Correia -><author>
+BioISI – FC/UL -><affiliation>
+Lisboa, Portugal -><address>
+luis.correia@di.fc.ul.pt -><email>
+Anders Lyhne Christensen -><author>
+BioMachines Lab & Instituto -><affiliation>
+de Telecomunicações -><affiliation>
+Lisboa, Portugal -><address>
+anders.christensen@iscte.pt -><email>
+Fernando Silva -><author>
+BioMachines Lab & Instituto -><affiliation>
+de Telecomunicações -><author>
+& BioISI – FC/UL -><affiliation>
+Lisboa, Portugal -><address>
+fsilva@di.fc.ul.pt -><email>

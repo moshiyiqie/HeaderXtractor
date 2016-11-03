@@ -1,0 +1,18 @@
+An Evolutionary Framework for Studying Behaviors -><title>
+of Economic Agents -><title>
+Wolfgang Ketter -><author>
+Dept of Computer Science -><affiliation>
+and Engineering -><affiliation>
+University of Minnesota -><affiliation>
+ketter@cs.umn.edu -><email>
+Maria Gini -><author>
+Dept of Computer Science -><affiliation>
+and Engineering -><affiliation>
+University of Minnesota -><affiliation>
+gini@cs.umn.edu -><email>
+Alexander Babanov -><author>
+Dept of Computer Science -><affiliation>
+and Engineering -><affiliation>
+Dept of Economics -><affiliation>
+University of Minnesota -><affiliation>
+babanov@cs.umn.edu -><email>

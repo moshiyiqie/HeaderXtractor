@@ -1,0 +1,12 @@
+Coalition Formation in Proportionally Fair Divisible -><title>
+Auctions ∗ -><title>
+Rajiv T. Maheswaran -><author>
+Coordinated Science Laboratory -><affiliation>
+1308 W. Main St. -><address>
+Urbana, IL 61801, U.S.A. -><address>
+maheswar@control.csl.uiuc.edu -><email>
+Tamer Bas¸ar -><author>
+Coordinated Science Laboratory -><affiliation>
+1308 W. Main St. -><address>
+Urbana, IL 61801, U.S.A. -><address>
+tbasar@control.csl.uiuc.edu -><email>

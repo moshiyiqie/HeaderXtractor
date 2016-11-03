@@ -1,0 +1,6 @@
+Graph-based Concept Weighting for -><title>
+Medical Information Retrieval -><title>
+Bevan Koopman1,2, Guido Zuccon1, Peter Bruza2, Laurianne Sitbon2, Michael Lawley1 -><author>
+1Australian e-Health Research Centre, CSIRO, Brisbane, Australia -><pubnum>
+2Faculty of Science & Technology, Queensland University of Technology, Brisbane, Australia -><affiliation>
+{b.koopman, p.bruza, laurianne.sitbon}@qut.edu.au, {guido.zuccon, michael.lawley}@csiro.au -><email>

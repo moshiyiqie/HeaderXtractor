@@ -1,0 +1,20 @@
+Decentralized Hash Tables For Mobile Robot Teams -><title>
+Solving Intra-Logistics Tasks -><title>
+C. Schindelhauer -><author>
+University of Freiburg -><affiliation>
+Georges-Köhler-Allee 51 -><address>
+79110 Freiburg, Germany -><address>
+schindel@informatik.uni- -><email>
+freiburg.de -><email>
+D. Sun -><author>
+University of Freiburg -><affiliation>
+Georges-Köhler-Allee 52 -><address>
+79110 Freiburg, Germany -><address>
+sun@informatik.uni- -><email>
+freiburg.de -><email>
+A. Kleiner -><author>
+University of Freiburg -><affiliation>
+Georges-Köhler-Allee 52 -><address>
+79110 Freiburg, Germany -><address>
+kleiner@informatik.uni- -><email>
+freiburg.de -><web>

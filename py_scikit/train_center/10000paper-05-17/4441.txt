@@ -1,0 +1,21 @@
+IMSI-Catch Me If You Can: IMSI-Catcher-Catchers -><title>
+Adrian Dabrowski -><author>
+SBA Research -><affiliation>
+Vienna, Austria -><address>
+adabrowski@sba-research.org -><email>
+Nicola Pianta -><author>
+Università di Cagliari -><affiliation>
+Cagliari, Italy -><address>
+nicola.pianta@gmail.com -><email>
+Thomas Klepp -><author>
+Vienna University of Technology -><affiliation>
+thomas.klepp@student. -><email>
+tuwien.ac.at -><email>
+Martin Mulazzani -><author>
+SBA Research -><affiliation>
+Vienna, Austria -><address>
+mmulazzani@sba-research.org -><email>
+Edgar Weippl -><author>
+SBA Research -><affiliation>
+Vienna, Austria -><address>
+eweippl@sba-research.org -><email>

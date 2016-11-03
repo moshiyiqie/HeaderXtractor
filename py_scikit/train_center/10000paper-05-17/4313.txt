@@ -1,0 +1,14 @@
+Exploring the Potential Beneﬁts of Expanded Rate Limiting -><title>
+in Tor: Slow and Steady Wins the Race With Tortoise -><title>
+Micah Sherr -><author>
+Georgetown University -><affiliation>
+Washington, D.C. 20057 -><address>
+msherr@cs.georgetown.edu -><email>
+W. Brad Moore -><author>
+Georgetown University -><affiliation>
+Washington, D.C. 20057 -><address>
+wbm@cs.georgetown.edu -><email>
+Chris Wacek -><author>
+Georgetown University -><affiliation>
+Washington, D.C. 20057 -><address>
+cwacek@cs.georgetown.edu -><email>

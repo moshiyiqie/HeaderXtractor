@@ -1,0 +1,5 @@
+Integrating Reinforcement Learning with Human -><title>
+Demonstrations of Varying Ability -><title>
+Matthew E. Taylor, Halit Bener Suay, and Sonia Chernova -><author>
+Lafayette College, taylorm@lafayette.edu -><email>
+Worcester Polytechnic Institute, {benersuay, soniac}@wpi.edu -><affiliation>

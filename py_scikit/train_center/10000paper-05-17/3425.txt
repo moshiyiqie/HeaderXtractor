@@ -1,0 +1,11 @@
+Unique Factorization in ACL2: Euclidean Domains -><title>
+Ruben Gamboa -><author>
+Department of Computer Science -><affiliation>
+University of Wyoming -><affiliation>
+Laramie, Wyoming -><address>
+ruben@cs.uwyo.edu -><email>
+John R. Cowles -><author>
+Department of Computer Science -><affiliation>
+University of Wyoming -><affiliation>
+Laramie, Wyoming -><address>
+cowles@cs.uwyo.edu -><email>

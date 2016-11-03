@@ -1,0 +1,17 @@
+Opportunistic Belief Reconciliation During Distributed -><title>
+Interactions -><title>
+Michael Rovatsos -><author>
+School of Informatics -><affiliation>
+The University of Edinburgh -><affiliation>
+Edinburgh EH8 9LE, UK -><address>
+mrovatso@inf.ed.ac.uk -><email>
+David Robertson -><author>
+School of Informatics -><affiliation>
+The University of Edinburgh -><affiliation>
+Edinburgh EH8 9LE, UK -><address>
+dr@inf.ed.ac.uk -><email>
+Paul Martin -><author>
+School of Informatics -><affiliation>
+The University of Edinburgh -><affiliation>
+Edinburgh EH8 9LE, UK -><address>
+s0199422@sms.ed.ac.uk -><email>

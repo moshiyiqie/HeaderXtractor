@@ -1,0 +1,8 @@
+My Dream Theatre -><title>
+(Demonstration) -><title>
+Henrique Campos, Joana Campos, João Cabral, -><author>
+Carlos Martinho, Jeppe Herlev Nielsen, Ana Paiva -><author>
+INESC-ID and Instituto Superior Técnico - UTL, Lisboa, Portugal -><affiliation>
+Serious Games Interactive, Copenhagen, Denmark -><address>
+{henrique.t.campos, joana.campos, joao.cabral, carlos.martinho, ana.s.paiva}@ist.utl.pt -><email>
+jh@seriousgames.dk -><email>

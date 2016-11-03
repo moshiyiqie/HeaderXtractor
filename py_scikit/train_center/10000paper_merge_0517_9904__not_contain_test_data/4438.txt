@@ -1,0 +1,5 @@
+Morpheus: Automatically Generating Heuristics -><title>
+to Detect Android Emulators -><title>
+Yiming Jing†, Ziming Zhao†, Gail-Joon Ahn†, and Hongxin Hu‡ -><author>
+†Arizona State University ‡Clemson University -><affiliation>
+{ymjing,zmzhao,gahn}@asu.edu, hongxih@clemson.edu -><email>

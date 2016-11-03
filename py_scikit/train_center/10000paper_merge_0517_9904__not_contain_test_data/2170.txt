@@ -1,0 +1,15 @@
+Building a Narrative Conversational Agent using a -><title>
+Component-based Architecture -><title>
+(Demonstration) -><title>
+William Boisseleau -><author>
+INSA de Rouen, France -><affiliation>
+william.boisseleau@insa- -><email>
+rouen.fr -><email>
+Ovidiu S¸erban -><author>
+ISR Laboratory, University of -><affiliation>
+Reading, United Kingdom -><address>
+o.serban@reading.ac.uk -><email>
+Alexandre Pauchet -><author>
+LITIS, INSA de Rouen, France -><affiliation>
+alexandre.pauchet@insa- -><email>
+rouen.fr -><web>

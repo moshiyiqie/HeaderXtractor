@@ -1,0 +1,20 @@
+Development of an Augmented Reality Game -><title>
+by Extending a 3D Authoring System -><title>
+C. Geiger, F. Klompmaker -><author>
+FH Duesseldorf -><affiliation>
+Josef-Gockeln Strasse 9 -><address>
+40447 Duesseldorf -><address>
+Germany -><address>
+geiger@fh-duesseldorf.de -><email>
+R. Fritze -><author>
+HS Harz -><affiliation>
+Friedrichstrasse 9-11 -><address>
+38855 Wernigerode -><address>
+Germany -><address>
+info@robinfritze.de -><email>
+J. Stoecklein -><author>
+University Paderborn -><affiliation>
+Fuerstenallee 11 -><address>
+33100 Paderborn -><address>
+Germany -><address>
+ozone@upb.de -><email>

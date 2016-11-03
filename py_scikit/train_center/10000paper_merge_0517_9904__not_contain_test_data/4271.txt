@@ -1,0 +1,18 @@
+Hardware Assistance for Trustworthy Systems -><title>
+through 3-D Integration -><title>
+Jonathan Valamehr†, Mohit Tiwari‡, and Timothy Sherwood‡ -><author>
+†Department of Electrical and Computer Engineering -><affiliation>
+‡Department of Computer Science -><affiliation>
+University of California, Santa Barbara -><address>
+Santa Barbara, CA 93106 -><address>
+{valamehr@ece,tiwari@cs,sherwood@cs}.ucsb.edu -><email>
+Ryan Kastner -><author>
+Dept. of Computer Science and Engineering -><affiliation>
+Univ. of California, San Diego -><affiliation>
+La Jolla, CA 92093 -><address>
+kastner@cs.ucsd.edu -><email>
+Ted Huffmire, Cynthia Irvine, and Timothy Levin -><author>
+Dept. of Computer Science -><affiliation>
+Naval Postgraduate School -><affiliation>
+Monterey, CA 93943 -><address>
+{tdhuffmi,irvine,levin}@nps.edu -><email>

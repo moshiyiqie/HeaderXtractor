@@ -1,0 +1,12 @@
+Learnable Behavioural Model for Autonomous Virtual -><title>
+Agents: Low-Level Learning -><title>
+Toni Conde -><author>
+Daniel Thalmann -><author>
+Lausanne (EPFL) -><affiliation>
+Virtual Reality Lab (VRLab) -><affiliation>
+CH-1015 Lausanne, Switzerland -><address>
+daniel.thalmann@epfl.ch -><email>
+Lausanne (EPFL) -><affiliation>
+Virtual Reality Lab (VRLab) -><affiliation>
+CH-1015 Lausanne, Switzerland -><address>
+toni.conde@epfl.ch -><email>

@@ -1,0 +1,3 @@
+Pattern Formation in Mobile Computational Particles with Minimal Capabilities -><title>
+Matteo Vasirani, Marco Mamei, Franco Zambonelli -><author>
+{ vasirani.matteo, mamei.marco, franco.zambonelli }@unimore.it -><email>

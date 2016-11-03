@@ -1,0 +1,5 @@
+Rockwell Automation Agents for Manufacturing -><author>
+Rockwell Automation Research Center -><affiliation>
+Prague, Czech Republic -><address>
+Tel: +420-377422411 -><phone>
+{vmarik, pvrba}@ra.rockwell.com -><email>

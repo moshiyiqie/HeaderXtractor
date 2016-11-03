@@ -1,0 +1,17 @@
+Modeling Facial Signs of Appraisal during Interaction; -><title>
+Matthieu Courgeon -><author>
+University of South Brittany / Lab-STICC -><affiliation>
+25 Rue Claude chappe, -><address>
+Jean-Claude Martin -><author>
+LIMSI-CNRS / University Paris South -><affiliation>
+Rue von Neumann, Batiment 508 -><address>
+91403 Orsay Cedex, France -><address>
++33 1 69 85 81 04 -><phone>
+martin@limsi.fr -><email>
+LIMSI-CNRS / University Paris South -><affiliation>
+Rue von Neumann, Batiment 508 -><address>
+91403 Orsay Cedex, France -><address>
++33 1 69 85 81 05 -><phone>
+clavel@limsi.fr -><email>
++33 2 98 05 89 48 -><phone>
+courgeon@enib.fr -><email>

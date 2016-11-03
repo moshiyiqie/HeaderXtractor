@@ -1,0 +1,12 @@
+Implementing a Cost-Aware Evaluator for ACL2 -><title>
+Expressions -><title>
+John Cowles -><author>
+Department of Computer Science -><affiliation>
+University of Wyoming -><affiliation>
+Laramie, WY 82071 -><address>
+cowles@cs.uwyo.edu -><email>
+Ruben Gamboa -><author>
+Department of Computer Science -><affiliation>
+University of Wyoming -><affiliation>
+Laramie, WY 82071 -><address>
+ruben@cs.uwyo.edu -><email>

@@ -1,0 +1,7 @@
+Allocating Tasks in Extreme Teams -><title>
+Paul Scerri∗, Alessandro Farinelli+, Steven Okamoto∗ and Milind Tambe# -><author>
+∗ Carnegie Mellon University -><affiliation>
++ University of Rome -><affiliation>
+# University of Southern California -><affiliation>
+pscerri@cs.cmu.edu, Alessandro.Farinelli@dis.uniroma1.it, -><email>
+sokamoto@cs.cmu.edu, tambe@usc.edu -><email>

@@ -1,0 +1,12 @@
+Predicting People’s Bidding Behavior in Negotiation -><title>
+Ya’akov Gal and Avi Pfeffer -><author>
+Division of Engineering and Applied Sciences -><affiliation>
+Harvard University -><affiliation>
+Cambridge, MA 02138 -><address>
+{gal,avi}@eecs.harvard.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2 [Artificial Intelligence]: -><note>
+General Terms -><keyword>
+Design, Experimentation -><keyword>
+Keywords -><keyword>
+Negotiation, decision-making, Opponent modeling -><keyword>

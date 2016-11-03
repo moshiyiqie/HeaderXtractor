@@ -1,0 +1,13 @@
+Resource Allocation for a Limited Real-Time Agent -><title>
+Haksun Li, Ella M. Atkins, Edmund H. Durfee, Kang G. Shin -><author>
+EECS Dept., University of Michigan, Ann Arbor MI 48109 -><affiliation>
+Aerospace Engineering Dept., Univ. of Maryland, College Park MD 20742 -><address>
+{haksunli, durfee, kgshin}@umich.edu, atkins@eng.umd.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.8 [Artificial Intelligence]: Problem Solving, Control Methods, -><note>
+generation, scheduling. -><keyword>
+General Terms -><keyword>
+Algorithms, Performance, Design, Experimentation -><keyword>
+Topics/Keywords -><keyword>
+Action selection and planning for agents, Agent architectures, -><keyword>
+Probability, Real-time systems -><keyword>

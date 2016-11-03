@@ -1,0 +1,8 @@
+COGENT: Cognitive Agent to Amplify Human Perception -><title>
+and Cognition -><title>
+Subrata Das and Dan Grecu -><author>
+Charles River Analytics, Inc. -><affiliation>
+725 Concord Ave. -><address>
+Cambridge, MA 02138, USA -><address>
++1 (617) 491-3474 -><phone>
+{sdas, dgrecu} @ cra.com -><email>

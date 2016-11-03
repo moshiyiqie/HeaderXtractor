@@ -1,0 +1,5 @@
+A Proposal for an Organizational MAS Methodology -><title>
+Estefania Argente Villaplana -><author>
+Dpto.Sistemas Informaticos y Computacion, Technical University of Valencia -><affiliation>
+C/Camino de Vera s/n, 46022, Valencia, Spain -><address>
+eargente@dsic.upv.es -><email>

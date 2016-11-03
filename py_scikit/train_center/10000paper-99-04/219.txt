@@ -1,0 +1,34 @@
+Engineering Agent Societies: -><title>
+A Case Study in Smart Environments∗ -><title>
+Alessandro Ricci -><author>
+DEIS, Università di Bologna -><affiliation>
+Via Rasi e Spinelli 176 -><address>
+47023 Cesena (FC), Italy -><address>
+aricci@deis.unibo.it -><email>
+Andrea Omicini -><author>
+DEIS, Università di Bologna -><affiliation>
+Via Rasi e Spinelli 176 -><address>
+47023 Cesena (FC), Italy -><address>
+aomicini@deis.unibo.it -><email>
+Enrico Denti -><author>
+DEIS, Università di Bologna -><affiliation>
+Via Risorgimento 2 -><address>
+40136 Bologna, Italy -><address>
+edenti@deis.unibo.it -><email>
+Categories and Subject Descriptors -><note>
+D.2.2 [SOFTWARE ENGINEERING]: Design Tools and -><note>
+Techniques; I.2.11 [ARTIFICIAL INTELLIGENCE]: Dis- -><note>
+tributed Artiﬁcial Intelligence—Multiagent systems, Coher- -><note>
+ence and coordination -><unknow>
+General Terms -><title>
+Design -><title>
+1. MAS FOR PERVASIVE COMPUTING -><abstract>
+The technological progress – concerning chip density, pro- -><abstract>
+cessor speed and network bandwidth, to cite some – makes -><abstract>
+it possible to conceive new classes of applications and sys- -><abstract>
+tems, which can be generally referred as pervasive comput- -><abstract>
+ing. Intelligent / Smart Environments are prominent cases -><abstract>
+of pervasive computing, whose aim is to remodel the en- -><abstract>
+vironments where people live and act, considering the new -><abstract>
+services (such as energy management, health care, enter- -><abstract>
+tainment) that can be provided by embedding (intelligent) -><abstract>

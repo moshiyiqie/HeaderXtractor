@@ -1,0 +1,14 @@
+Coalitional Stability in Structured Environments -><title>
+Georgios Chalkiadakis -><author>
+Technical University of Crete -><affiliation>
+Chania, Greece -><address>
+gehalk@ece.tuc.gr -><email>
+Nicholas R. Jennings -><author>
+University of Southampton -><affiliation>
+Southampton, UK -><address>
+nrj@ecs.soton.ac.uk -><email>
+Evangelos Markakis -><author>
+Athens University of -><affiliation>
+Economics and Business -><affiliation>
+Athens, Greece -><address>
+markakis@gmail.com -><email>

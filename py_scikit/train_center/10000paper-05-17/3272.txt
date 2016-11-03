@@ -1,0 +1,6 @@
+Issues Regarding Threshold Concepts in Computer Science -><title>
+Janet Rountree Nathan Rountree -><author>
+Department of Computer Science, -><affiliation>
+University of Otago, -><affiliation>
+Dunedin, New Zealand -><address>
+Email: {janet,nathan}@cs.otago.ac.nz -><email>

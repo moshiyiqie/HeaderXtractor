@@ -1,0 +1,18 @@
+Attributing Mental Attitudes to Normative Systems -><title>
+Leendert van der Torre -><title>
+CWI -><title>
+Amsterdam -><title>
+The Netherlands -><author>
+torre@cwi.nl -><email>
+Guido Boella -><author>
+Dipartimento di Informatica -><affiliation>
+Universita` di Torino -><affiliation>
+Italy -><address>
+guido@di.unito.it -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Distributed Artificial Intelligence]: Multiagent -><unknow>
+systems -><unknow>
+General Terms -><title>
+Theory -><title>
+Keywords -><keyword>
+Agent theory, normative systems, qualitative game theory -><keyword>

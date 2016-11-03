@@ -1,0 +1,10 @@
+Anonymous Pricing of Efficient Allocations in Combinatorial Economies -><title>
+Wolfram Conen∗ -><author>
+FH Gelsenkirchen -><affiliation>
+45877 Gelsenkirchen, Germany -><address>
+E-mail: conen@gmx.de -><email>
+Tuomas Sandholm -><author>
+Carnegie Mellon University -><affiliation>
+Computer Science Department -><affiliation>
+5000 Forbes Avenue, Pittsburgh, PA 15213 -><address>
+E-mail: sandholm@cs.cmu.edu -><email>

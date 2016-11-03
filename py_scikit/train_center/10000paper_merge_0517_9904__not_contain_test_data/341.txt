@@ -1,0 +1,13 @@
+An -><title>
+Patrick -><title>
+Manuela -><title>
+Computer -><author>
+Carnegie -><author>
+5000 -><pubnum>
+Pittsburgh, -><note>
+Computer -><note>
+Carnegie -><note>
+5000 -><note>
+Pittsburgh, -><note>
+pfr@cs.cmu.edu -><email>
+mmv@cs.cmu.edu -><email>

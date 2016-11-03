@@ -1,0 +1,31 @@
+HAC-ER: A Disaster Response System based on -><title>
+Human-Agent Collectives -><title>
+(Demonstration) -><title>
+https://vimeo.com/118831413 -><web>
+Joel Fischer, -><author>
+Wenchao Jiang, -><author>
+Tom Rodden -><author>
+2Mixed Reality Lab -><affiliation>
+Edwin Simpson, -><address>
+Steve Reece, -><address>
+Stephen Roberts -><author>
+3Pattern Recognition Group -><degree>
+Sarvapali D. Ramchurn, -><degree>
+Trung Dong Huynh, -><degree>
+Yuki Ikuno, Jack Flann, -><degree>
+Feng Wu, -><degree>
+Luc Moreau, -><degree>
+Nicholas R. Jennings -><degree>
+1Agents, Interaction, and -><degree>
+University of Nottingham -><affiliation>
+Nottingham, UK -><address>
+University of Oxford -><affiliation>
+Oxford, UK -><address>
+Complexity Group -><author>
+University of Southampton -><affiliation>
+Southampton, UK -><address>
+Categories and Subject Descriptors -><note>
+I.2.11 [Distributed Artificial Intelligence]: Intelligent agents; H.5.2 -><note>
+[User Interfaces ]: User-centered design -><note>
+Keywords -><keyword>
+Innovative Applications; Human and Agents; Disaster Response. -><keyword>

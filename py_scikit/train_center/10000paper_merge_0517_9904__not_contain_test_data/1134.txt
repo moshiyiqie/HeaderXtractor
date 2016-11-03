@@ -1,0 +1,14 @@
+Knowledge and Control -><title>
+Wiebe van der Hoek -><author>
+Dept of Computer Science -><affiliation>
+University of Liverpool, UK -><affiliation>
+wiebe@csc.liv.ac.uk -><email>
+Michael Wooldridge -><author>
+Dept of Computer Science -><affiliation>
+University of Liverpool, UK -><affiliation>
+mjw@csc.liv.ac.uk -><email>
+Nicolas Troquard -><author>
+School of Computer Science -><affiliation>
+and Electronic Engineering -><affiliation>
+University of Essex, UK -><affiliation>
+ntroqu@essex.ac.uk -><email>

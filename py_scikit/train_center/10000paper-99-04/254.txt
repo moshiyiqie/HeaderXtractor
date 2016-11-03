@@ -1,0 +1,11 @@
+Emergence of Agent-based Referral Networks -><title>
+Munindar P. Singh -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-7535, USA -><address>
+singh@ncsu.edu -><email>
+Bin Yu -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-7535, USA -><address>
+byu@eos.ncsu.edu -><email>

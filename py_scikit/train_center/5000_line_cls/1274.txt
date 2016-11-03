@@ -1,0 +1,9 @@
+SAgent: A Security Framework for JADE∗ -><title>
+Vandana Gunupudi -><author>
+Dept of Computer Science and Engineering -><affiliation>
+University of North Texas -><affiliation>
+gunupudi@cs.unt.edu -><email>
+Stephen R. Tate -><author>
+Dept of Computer Science and Engineering -><affiliation>
+University of North Texas -><affiliation>
+srt@cs.unt.edu -><email>

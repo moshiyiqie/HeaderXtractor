@@ -1,0 +1,20 @@
+Optimal Incentive Timing Strategies for Product Marketing -><title>
+on Social Networks -><title>
+Y. Narahari -><author>
+Department of Computer -><affiliation>
+Science and Automation, -><affiliation>
+Indian Institute of Science, -><affiliation>
+Bangalore 560012, India -><address>
+hari@csa.iisc.ernet.in -><email>
+Aditya Karnik -><unknow>
+Global General Motors R&D - -><author>
+India Science Lab, GM -><affiliation>
+Technical Center, -><address>
+Bangalore 560066, India -><address>
+aditya.karnik@gm.com -><email>
+Pankaj Dayama -><unknow>
+Global General Motors R&D - -><author>
+India Science Lab, GM -><affiliation>
+Technical Center, -><affiliation>
+Bangalore 560066, India -><address>
+pankaj.dayama@gm.com -><email>

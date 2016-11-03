@@ -1,0 +1,19 @@
+Fuzzy Kernel-Stable Coalitions Between Rational Agents -><title>
+Onn Shehory -><author>
+IBM - Haifa Research Lab -><affiliation>
+Tel Aviv Site, Haifa University -><affiliation>
+Mount Carmel, Haifa -><address>
+31905 Israel -><address>
+onn@il.ibm.com -><email>
+Matthias Klusch -><author>
+DFKI - German Research -><affiliation>
+Center for Artificial Intelligence -><affiliation>
+Stuhlsatzenhausweg 3 -><address>
+66123 Saarbru¨cken, Germany -><address>
+klusch@dfki.de -><email>
+Bastian Blankenburg∗ -><author>
+DFKI - German Research -><affiliation>
+Center for Artificial Intelligence -><affiliation>
+Stuhlsatzenhausweg 3 -><address>
+66123 Saarbru¨cken, Germany -><address>
+blankenb@dfki.de -><email>

@@ -1,0 +1,6 @@
+An Interactive Tool for Creating Multi-Agent Systems and -><title>
+Interactive Agent-based Games -><title>
+(Demonstration) -><title>
+Henrik Hautop Lund Luigi Pagliarini -><author>
+Center for Playware, Technical University of Denmark, Building 325, 2800 Kgs. Lyngby, Denmark -><affiliation>
+hhl@playware.dtu.dk -><email>

@@ -1,0 +1,3 @@
+Field-based Motion Coordination In Quake 3 Arena -><title>
+Marco Mamei, Franco Zambonelli -><author>
+{ mamei.marco, franco.zambonelli }@unimo.it -><email>

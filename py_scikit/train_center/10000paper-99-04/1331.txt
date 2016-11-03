@@ -1,0 +1,17 @@
+Hierarchical Agent Control: A Framework For Defining -><title>
+Agent Behavior -><title>
+Marc S. Atkin -><author>
+University of Massachusetts -><affiliation>
+140 Governor’s Lane -><address>
+Amherst, MA 01003 -><address>
+atkin@cs.umass.edu -><email>
+Gary W. King -><author>
+University of Massachusetts -><affiliation>
+140 Governor’s Lane -><address>
+Amherst, MA 01003 -><address>
+gwking@cs.umass.edu -><email>
+David L. Westbrook -><author>
+University of Massachusetts -><affiliation>
+140 Governor’s Lane -><address>
+Amherst, MA 01003 -><address>
+westy@cs.umass.edu -><email>

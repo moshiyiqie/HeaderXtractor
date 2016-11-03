@@ -1,0 +1,12 @@
+Sequential targeted optimality as a new criterion for -><title>
+teaching and following in repeated games -><title>
+Gerard A.W. Vreeswijk -><author>
+Utrecht University -><affiliation>
+Dept. of Computer Science -><affiliation>
+The Netherlands -><address>
+gv@cs.uu.nl -><email>
+Max Knobbout -><author>
+Utrecht University -><affiliation>
+Dept. of Computer Science -><affiliation>
+The Netherlands -><address>
+mknobbout@gmail.com -><email>

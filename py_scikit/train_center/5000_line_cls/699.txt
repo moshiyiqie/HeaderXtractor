@@ -1,0 +1,6 @@
+Decentralized Markov Decision Processes with Event-Driven Interactions -><title>
+Raphen Becker, Shlomo Zilberstein, Victor Lesser -><author>
+University of Massachusetts -><affiliation>
+Department of Computer Science -><affiliation>
+Amherst, MA 01003 -><address>
+{raphen,shlomo,lesser}@cs.umass.edu -><email>

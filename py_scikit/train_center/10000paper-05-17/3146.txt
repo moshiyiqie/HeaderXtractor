@@ -1,0 +1,12 @@
+A Service Based Framework for Developing Mobile, -><title>
+Collaborative Games -><affiliation>
+Christian Reimann -><author>
+Siemens SIS, C-LAB -><affiliation>
+Fürstenallee 11 -><address>
+33102 Paderborn, Germany -><address>
+christian.reimann@c-lab.de -><affiliation>
+Florian Klompmaker -><author>
+University of Paderborn, C-LAB -><affiliation>
+Fürstenallee 11 -><address>
+33102 Paderborn, Germany -><address>
+florian.klompmaker@c-lab.de -><affiliation>

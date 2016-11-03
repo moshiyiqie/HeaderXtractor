@@ -1,0 +1,6 @@
+Moving Target D Lite∗ -><title>
+Xiaoxun Sun William Yeoh Sven Koenig -><author>
+Computer Science Department -><affiliation>
+University of Southern California -><affiliation>
+Los Angeles, CA 90089-0781, USA -><address>
+{xiaoxuns, wyeoh, skoenig}@usc.edu -><email>

@@ -1,0 +1,6 @@
+Avoid Fixed Pricing: -><title>
+Consume Less, Earn More, Make Clients Happy -><title>
+Reshef Meir and Jeffrey S. Rosenschein -><author>
+School of Computer Science and Engineering -><affiliation>
+The Hebrew University of Jerusalem, Israel -><affiliation>
+{reshef24, jeff}@cs.huji.ac.il -><email>

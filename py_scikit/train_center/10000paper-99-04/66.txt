@@ -1,0 +1,15 @@
+Towards Industrially Applicable Modeling Technique -><title>
+for Agent-Based Systems -><title>
+Arnon Sturm -><author>
+Technion - Israel Institute of Technology -><affiliation>
+Haifa 32000, ISRAEL -><address>
+sturm@tx.technion.ac.il -><email>
+Onn Shehory -><author>
+IBM Research Lab in Haifa -><affiliation>
+8/1 Building MATAM, Haifa 31905, ISRAEL -><address>
+onn@il.ibm.com -><email>
+Categories and Subject Descriptors -><note>
+D.2.1 [Requirements/Specifications]: Languages, -><note>
+Methodologies, Tools. -><note>
+General Terms -><keyword>
+Design, Experimentation, Languages, Theory. -><keyword>

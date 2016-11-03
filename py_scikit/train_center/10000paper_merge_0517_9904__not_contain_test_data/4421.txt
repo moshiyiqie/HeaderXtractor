@@ -1,0 +1,8 @@
+DUET: Integration of Dynamic and Static Analyses for Malware -><title>
+Clustering with Cluster Ensembles -><title>
+Xin Hu -><author>
+IBM T.J. Watson Research Labs -><affiliation>
+huxin@us.ibm.com -><email>
+Kang G. Shin -><author>
+University of Michigan, Ann Arbor -><affiliation>
+kgshin@eecs.umich.edu -><email>

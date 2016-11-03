@@ -1,0 +1,9 @@
+LOTTO: Group Formation by Overhearing in Large Teams -><title>
+François Legras -><title>
+Onera DCSD / SupAéro -><author>
+2, av. E. Belin 31055 Toulouse, France -><author>
+francois.legras@cert.fr -><email>
+Catherine Tessier -><author>
+Onera DCSD -><affiliation>
+2, av. E. Belin 31055 Toulouse, France -><address>
+catherine.tessier@cert.fr -><email>

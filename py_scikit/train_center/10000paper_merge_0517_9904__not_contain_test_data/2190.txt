@@ -1,0 +1,30 @@
+AtomicOrchid: Human-Agent Collectives to the Rescue -><title>
+(Demonstration) -><title>
+Steve Reece, -><author>
+Stephen Roberts -><author>
+3Pattern Recognition Group -><author>
+Sarvapali D. Ramchurn, -><author>
+Feng Wu, -><author>
+Nicholas R. Jennings -><author>
+1Agents, Interaction, and -><keyword>
+Wenchao Jiang, -><author>
+Joel Fischer, -><author>
+Chris Greenhalgh, -><author>
+Tom Rodden -><author>
+2Mixed Reality Lab -><affiliation>
+University of Oxford -><address>
+Oxford, UK -><address>
+reece@ox.ac.uk, -><email>
+sjrob@ox.ac.uk -><email>
+Complexity Group -><author>
+University of Southampton -><affiliation>
+Southampton, UK -><address>
+sdr@ecs.soton.ac.uk, -><email>
+fw16e11@ecs.soton.ac.uk, -><email>
+nrj@ecs.soton.ac.uk -><email>
+University of Nottingham -><affiliation>
+Nottingham, UK -><address>
+psxwj@nottingham.ac.uk, -><email>
+cmg@cs.nott.ac.uk, -><email>
+jef@cs.nott.ac.uk, -><email>
+tar@cs.nott.ac.uk -><email>

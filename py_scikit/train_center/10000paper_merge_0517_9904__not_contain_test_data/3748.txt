@@ -1,0 +1,8 @@
+UbiquitousSurvey: -><title>
+Survey -><title>
+Lei -><author>
+Department -><affiliation>
+Armstrong -><address>
+11935 -><date>
+Savannah, -><note>
+lzhu@drake.armstrong.edu, -><email>

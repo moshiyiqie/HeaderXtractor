@@ -1,0 +1,25 @@
+Enabling Effective and Emergent Agent Conversations -><title>
+Fuhua Lin -><author>
+Institute for Information Technology -><affiliation>
+National Research Council -><affiliation>
+Building M-50, Montreal Rd. -><address>
+Ottawa, K1A 0R6 -><address>
+CANADA -><address>
+Tel: (1-613) 993-2535 -><phone>
+Fuhua.Lin @ iit. n rc.ca -><email>
+Douglas H. Norrie -><author>
+Dept. of Mechanical & -><affiliation>
+Manufacturing Engineering, -><degree>
+University of Calgary, 2500 -><affiliation>
+University Dr. NW, Calgary, AB, -><affiliation>
+T2N 1N4, CANADA -><address>
+Tel: (1-403) 220-5787 -><phone>
+norrie@enme.ucalgary.ca -><email>
+Rob Kremer, R.A. Flores-Mendez -><affiliation>
+Dept. of Computer Science -><affiliation>
+University of Calgary -><affiliation>
+2500 University Drive NW -><affiliation>
+Calgary, Alberta T2N 1N4 -><address>
+CANADA -><address>
+Tel: (1-403) 220-5112 -><phone>
+kremerl robe rtof @ cpsc. ucalgary.ca -><email>

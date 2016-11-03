@@ -1,0 +1,13 @@
+High-level Reinforcement Learning in Strategy Games -><title>
+∗ -><title>
+∗ -><title>
+Guy Shani -><author>
+Department of Computer Science -><affiliation>
+Ben-Gurion University -><affiliation>
+Beer-Sheva 84105 Israel -><address>
+shanigu@bgu.ac.il -><email>
+Christopher Amato -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003 USA -><address>
+camato@cs.umass.edu -><email>

@@ -1,0 +1,20 @@
+Real Time Labeling of Affect in Music Using -><affiliation>
+the AffectButton -><title>
+Joost Broekens -><author>
+MMI, TU Delft -><affiliation>
+Mekeweg 4, Delft -><address>
+Netherlands -><address>
++31 (0)15 - 2786333 -><phone>
+joost.broekens@gmail.com -><email>
+Marian Neuteboom -><author>
+Stedelijk Gymnasium Leiden -><affiliation>
+Fruinlaan 15, Leiden -><address>
+Netherlands -><address>
++31(0)71 5121365 -><phone>
+marian.neuteboom@tiscali.nl -><email>
+Anne Pronker -><author>
+Stedelijk Gymnasium Leiden -><affiliation>
+Fruinlaan 15, Leiden -><address>
+Netherlands -><address>
++31(0)71 5121365 -><phone>
+anne_pollewop@hotmail.com -><email>

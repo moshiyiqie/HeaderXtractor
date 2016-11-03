@@ -1,0 +1,17 @@
+DISCLOSURE: Detecting Botnet Command and Control -><title>
+Servers Through Large-Scale NetFlow Analysis -><title>
+Davide Balzarotti -><author>
+Eurecom -><author>
+balzarotti@eurecom.fr -><email>
+William Robertson -><author>
+Northeastern University -><affiliation>
+wkr@ccs.neu.edu -><email>
+Leyla Bilge -><author>
+Symantec Research Labs -><affiliation>
+leylya_yumer@symantec.com -><email>
+Engin Kirda -><author>
+Northeastern University -><affiliation>
+ek@ccs.neu.edu -><email>
+Christopher Kruegel -><author>
+UC Santa Barbara -><author>
+chris@cs.ucsb.edu -><email>

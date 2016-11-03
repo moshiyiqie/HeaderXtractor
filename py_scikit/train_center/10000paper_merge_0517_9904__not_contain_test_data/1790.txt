@@ -1,0 +1,8 @@
+Industrial Process Optimisation with JIAC -><title>
+(Demonstration) -><title>
+Marco Lützenberger Tobias Küster Thomas Konnerth Alexander Thiele Nils Masuch -><author>
+Axel Heßler Jan Keiser Michael Burkhardt Silvan Kaiser Jakob Tonn Sahin Albayrak -><author>
+DAI-Labor, Technische Universität Berlin -><affiliation>
+Ernst-Reuter-Platz 7 -><address>
+10587 Berlin, Germany -><address>
+firstname.lastname@dai-labor.de -><affiliation>

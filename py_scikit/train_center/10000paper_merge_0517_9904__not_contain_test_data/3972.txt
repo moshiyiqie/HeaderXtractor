@@ -1,0 +1,8 @@
+Yaccscript: A Platform for Intersecting High-Level -><title>
+Languages -><title>
+John Healey -><author>
+Emory University -><affiliation>
+Suite W401 -><address>
+400 Dowman Drive -><address>
+Atlanta, Georgia 30322 -><address>
+jpheale@emory.edu -><email>

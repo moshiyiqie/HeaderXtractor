@@ -1,0 +1,7 @@
+A Conceptual Modeling Approach for the Design of Web -><title>
+Applications based on Services -><title>
+Ricardo Quintero, Victoria Torres, Marta Ruiz, Vicente Pelechano -><author>
+DSIC-Technical University of Valencia -><affiliation>
+Camino de Vera s/n. 46022 Valencia, Spain -><address>
+(+34) 96 387 73 50 -><phone>
+{iscrquinter,vtorres, mruiz, pele}@dsic.upv.es -><email>

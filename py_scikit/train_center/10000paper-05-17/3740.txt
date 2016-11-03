@@ -1,0 +1,34 @@
+Monitor Color and Repetition as Factors -><title>
+in Human-Computer Interaction -><title>
+Katja A. Rodgers -><author>
+Senior, Department of Psychology -><affiliation>
+University of West Florida -><affiliation>
+Pensacola, FL 32514 -><address>
+850-380-1956 -><phone>
+Kar12@students.uwf.edu -><email>
+Categories and Subject Descriptors -><keyword>
+H.5.2 [Information Interfaces and Presentation]: User -><keyword>
+General Terms -><keyword>
+Performance, Experimentation, Human Factors. -><keyword>
+Keywords -><keyword>
+Human-Computer Interaction, Computer Usability. -><keyword>
+1. PROBLEM AND MOTIVATION -><intro>
+Recall of new information is the basis for reading comprehension -><abstract>
+and is a fundamental skill that affects virtually every area of -><abstract>
+human activity in which information is displayed. Because the -><abstract>
+computer has become the primary means by which information is -><abstract>
+disseminated, Human-Computer Interaction (HCI) factors play an -><abstract>
+important role in the effectiveness of the process. This paper -><abstract>
+describes the results of an experiment conducted to study the -><abstract>
+effect of color and repetition on the comprehension of information -><abstract>
+displayed by way of a computer monitor. -><abstract>
+2. BACKGROUND AND RELATED WORK -><abstract>
+The use of color in media has long been used to capture attention -><abstract>
+or emphasize a message, especially in advertising. Previous -><abstract>
+studies have indicated that ads in which colored words were used -><abstract>
+were viewed more frequently [1]. The results further indicated -><abstract>
+that the most effective ads were those whose printed claims of -><abstract>
+quality or superiority were highlighted with color. Research has -><abstract>
+also been reported on the effects of character position, -><abstract>
+background color, text style, and text color on ergonomic, HCI -><abstract>
+factors [4]. -><abstract>

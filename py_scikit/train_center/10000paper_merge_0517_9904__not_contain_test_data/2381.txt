@@ -1,0 +1,14 @@
+Incentives for Participation and Abstention in -><title>
+Probabilistic Social Choice -><title>
+Johannes Hofbauer -><author>
+Institut für Informatik -><affiliation>
+TU München, Germany -><address>
+hofbauej@in.tum.de -><email>
+Florian Brandl -><author>
+Institut für Informatik -><affiliation>
+TU München, Germany -><address>
+brandlfl@in.tum.de -><email>
+Felix Brandt -><author>
+Institut für Informatik -><affiliation>
+TU München, Germany -><address>
+brandtf@in.tum.de -><email>

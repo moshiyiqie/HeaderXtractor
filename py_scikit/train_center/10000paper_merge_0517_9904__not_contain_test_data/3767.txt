@@ -1,0 +1,11 @@
+Workshop on the Usage of XDE in a Computer Science -><note>
+Program -><title>
+Willy Farrell -><author>
+Senior Software Engineer -><affiliation>
+IBM -><affiliation>
+willyf@us.ibm.com -><email>
+Dick Gayler -><author>
+Computer Science & Information Systems Department -><affiliation>
+Kennesaw State University -><affiliation>
+Kennesaw, GA 30144 -><address>
+dgayler@kennesaw.edu -><email>

@@ -1,0 +1,20 @@
+An Implementation of Basic Argumentation Components -><title>
+(Demonstration) -><title>
+Gabriella Pigozzi -><author>
+Université Paris Dauphine -><affiliation>
+Place du Marchal de Lattre de -><affiliation>
+Tassigny -><address>
+75775 Paris Cedex 16 -><phone>
+gabriella.pigozzi@lamsade.dauphine.fr -><email>
+Martin Caminada -><author>
+Université du Luxembourg -><affiliation>
+6, rue Richard -><address>
+Coudenhove-Kalergi -><address>
+L-1359 Luxembourg -><address>
+martin.caminada@uni.lu -><email>
+Mikolaj Podlaszewski -><author>
+Université du Luxembourg -><affiliation>
+6, rue Richard -><address>
+Coudenhove-Kalergi -><address>
+L-1359 Luxembourg -><address>
+mikolaj.podlaszewski@gmail.com -><email>

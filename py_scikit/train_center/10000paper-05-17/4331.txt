@@ -1,0 +1,18 @@
+deRop: Removing Return-Oriented Programming from -><title>
+Malware -><title>
+Dabi Zou -><author>
+Singapore Management -><affiliation>
+University, Singapore -><affiliation>
+zoudabi@gmail.com -><email>
+Kangjie Lu -><author>
+Peking University, China -><affiliation>
+Singapore Management -><address>
+University, Singapore -><affiliation>
+kangjielu@pku.edu.cn -><email>
+Weiping Wen -><author>
+Peking University, China -><affiliation>
+weipingwen@ss.pku.edu.cn -><email>
+Debin Gao -><author>
+Singapore Management -><affiliation>
+University, Singapore -><affiliation>
+dbgao@smu.edu.sg -><email>

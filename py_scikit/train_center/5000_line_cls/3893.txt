@@ -1,0 +1,6 @@
+Sound Candy -><title>
+Shuichi Ishibashi, Daisuke Uriu, Naohito Okude -><author>
+Keio University, Media Design -><affiliation>
+5322 Endo Fujisawa Kanagawa Japan -><address>
++81 466-49-3404 -><phone>
+{shuichi, uriu, okude}@sfc.keio.ac.jp -><email>

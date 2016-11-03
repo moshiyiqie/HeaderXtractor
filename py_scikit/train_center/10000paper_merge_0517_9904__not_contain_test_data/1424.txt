@@ -1,0 +1,12 @@
+Identifying Influential Agents for Advertising in Multi-agent -><title>
+Markets -><title>
+Gita Sukthankar -><author>
+Department of EECS -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, FL, USA -><address>
+gitars@eecs.ucf.edu -><email>
+Mahsa Maghami -><author>
+Department of EECS -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, FL, USA -><address>
+mmaghami@cs.ucf.edu -><email>

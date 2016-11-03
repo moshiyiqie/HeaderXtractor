@@ -1,0 +1,6 @@
+Decision-Theoretic Approach to Maximizing Observation -><title>
+of Multiple Targets in Multi-Camera Surveillance -><title>
+Prabhu Natarajan, Trong Nghia Hoang, Kian Hsiang Low, and Mohan Kankanhalli -><author>
+Department of Computer Science, National University of Singapore -><affiliation>
+Computing 1, 13 Computing Drive, Singapore 117417, Republic of Singapore -><affiliation>
+{prabhu, nghiaht, lowkh, mohan}@comp.nus.edu.sg -><email>

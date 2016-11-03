@@ -1,0 +1,34 @@
+May -><title>
+Artistic Brushstroke Representation -><title>
+and Animation with Disk B-Spline Curve -><title>
+Zhongke Wu -><author>
+Hock Soon Seah -><author>
+Feng Tian -><author>
+School of Computer Engineering -><affiliation>
+School of Computer Engineering -><affiliation>
+School of Computer Engineering -><affiliation>
+Nanyang Technological University -><affiliation>
+Nanyang Technological University -><affiliation>
+Nanyang Technological -><author>
+University -><affiliation>
+Nanyang Avenue -><address>
+Nanyang Avenue -><address>
+Nanyang Avenue -><address>
+Singapore 639798 -><address>
+Singapore 639798 -><address>
+Singapore 639798 -><address>
+Email:aszkwu@ntu.edu.sg -><email>
+Tel.:(65)-6790-5788 -><phone>
+Fax: (65)-6791-9414 -><phone>
+Email:ashsseah@ntu.edu.sg -><email>
+Tel.:(65)-6790-4294 -><phone>
+Email:asftian@ntu.edu.sg -><email>
+http://www.ntu.edu.sg/home/ashsseah/ -><web>
+Xian Xiao -><unknow>
+Boya Xie -><author>
+School of Computer Engineering -><affiliation>
+School of Computer Engineering -><affiliation>
+Nanyang Technological University -><affiliation>
+Nanyang Avenue -><address>
+Singapore 639798 -><address>
+Email:XIAO0003@ntu.edu.sg -><email>

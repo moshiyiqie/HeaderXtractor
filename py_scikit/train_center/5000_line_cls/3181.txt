@@ -1,0 +1,7 @@
+Efficient Decision-Making in a Self-Organizing Robot -><title>
+Swarm: On the Speed Versus Accuracy Trade-Off -><title>
+Gabriele Valentini†, Heiko Hamann‡ and Marco Dorigo† -><author>
+†IRIDIA, Université Libre de Bruxelles, Brussels, Belgium -><affiliation>
+{gvalenti, mdorigo}@ulb.ac.be -><email>
+‡Department of Computer Science, University of Paderborn, Paderborn, Germany -><affiliation>
+heiko.hamann@uni-paderborn.de -><email>

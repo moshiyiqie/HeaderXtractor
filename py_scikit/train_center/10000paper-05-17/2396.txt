@@ -1,0 +1,14 @@
+Automated Extension of Narrative Planning Domains -><title>
+with Antonymic Operators -><title>
+Julie Porteous, Alan Lindsay, Jonathon Read, Mark Truran and Marc Cavazza -><author>
+Teesside University, Middlesbrough, UK -><affiliation>
+{j.porteous,a.lindsay,j.read,m.o.cavazza}@tees.ac.uk -><email>
+mark.a.truran@gmail.com -><email>
+Categories and Subject Descriptors -><note>
+H.5.1 [Multimedia Information Systems]: Artificial, Augmented -><unknow>
+and Virtual Realities -><unknow>
+General Terms -><title>
+Algorithms, Performance -><title>
+Keywords -><title>
+Virtual Agents; Interactive Storytelling; Narrative Modelling; Plan- -><degree>
+ning -><degree>

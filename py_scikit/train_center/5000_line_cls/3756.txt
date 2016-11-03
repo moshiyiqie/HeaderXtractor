@@ -1,0 +1,8 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+Interactive Three-Dimensional Rendering on Mobile -><title>
+Computer Devices -><title>
+Javier Lluch, Rafael Gaita´n, Emilio Camahort, Roberto Vivo´ -><author>
+Computer Graphics Section -><affiliation>
+Department of Computer Science -><affiliation>
+Polytechnic University of Valencia -><affiliation>
+{jlluch,rgaitan,camahort,rvivo}@dsic.upv.es -><email>

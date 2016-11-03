@@ -1,0 +1,6 @@
+Dynamic Sound Interactions -><title>
+Markku Turunen and Santeri Saarinen -><author>
+School of Information Sciences, University of Tampere -><affiliation>
+Kanslerinrinne 1, FI-33014, University of Tampere, FINLAND -><affiliation>
++358 50357 2265 -><phone>
+{firstname.surname}@sis.uta.fi -><email>

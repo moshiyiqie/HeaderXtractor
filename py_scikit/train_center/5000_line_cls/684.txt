@@ -1,0 +1,6 @@
+Folk Psychology for Human Modelling: Extending the BDI Paradigm -><title>
+Emma Norling -><author>
+Department of Computer Science -><affiliation>
+and Software Engineering -><affiliation>
+The University of Melbourne -><affiliation>
+norling@acm.org -><email>

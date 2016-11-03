@@ -1,0 +1,6 @@
+Computer Forensics Workshop for Undergraduate Students -><title>
+Derek Bem and Ewa Huebner -><author>
+School of Computing and Mathematics -><affiliation>
+University of Western Sydney -><affiliation>
+Penrith Campus, Locked bag 1797, Penrith South DC NSW 1797, Australia -><address>
+{d.bem, e.huebner}@scm.uws.edu.au -><email>

@@ -1,0 +1,27 @@
+On the Current State of Transport Layer Protocols -><title>
+in Mobile Ad hoc Networks -><title>
+. -><title>
+Wade Chatam -><author>
+Auburn University -><affiliation>
+107 Dunstan Hall -><address>
+(334) 844-7002 -><phone>
+chatajw@auburn -><email>
+John Calagaz -><author>
+Auburn University -><affiliation>
+107 Dunstan Hall -><address>
+(334) 844-7002 -><phone>
+calaglj@auburn. -><email>
+John A. Hamilton, Jr. -><author>
+Auburn University -><affiliation>
+107 Dunstan Hall -><address>
+(334) 844-6360 -><phone>
+hamilton@eng. -><email>
+Brian Eoff -><author>
+Auburn University -><affiliation>
+107 Dunstan Hall -><address>
+(334) 844-7002 -><phone>
+eoffbri@ -><email>
+.edu -><email>
+edu -><affiliation>
+auburn.edu -><email>
+auburn.edu -><email>

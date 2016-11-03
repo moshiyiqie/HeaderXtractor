@@ -1,0 +1,6 @@
+The Socialbot Network: -><title>
+When Bots Socialize for Fame and Money -><title>
+Yazan Boshmaf, Ildar Muslukhov, Konstantin Beznosov, Matei Ripeanu -><author>
+University of British Columbia -><affiliation>
+Vancouver, Canada -><address>
+{boshmaf,ildarm,beznosov,matei}@ece.ubc.ca -><email>

@@ -1,0 +1,8 @@
+Horde: A Scalable Real-time Architecture for Learning -><affiliation>
+Knowledge from Unsupervised Sensorimotor Interaction -><title>
+Richard S. Sutton, Joseph Modayil, Michael Delp -><author>
+Thomas Degris, Patrick M. Pilarski, Adam White -><author>
+Reinforcement Learning and Artificial Intelligence Laboratory -><affiliation>
+Department of Computing Science, University of Alberta, Canada -><affiliation>
+Doina Precup -><affiliation>
+School of Computer Science, McGill University, Montreal, Canada -><affiliation>

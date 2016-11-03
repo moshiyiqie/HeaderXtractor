@@ -1,0 +1,6 @@
+Predictive State Representations with State Space -><title>
+Partitioning -><title>
+Yunlong Liu1 Yun Tang1 Yifeng Zeng1,2 -><author>
+1Department of Automation, Xiamen University, Xiamen, China -><affiliation>
+2School of Computing, Teesside University, UK -><affiliation>
+ylliu@xmu.edu.cn tydqhqy@qq.com yifeng.zeng.dk@gmail.com -><email>

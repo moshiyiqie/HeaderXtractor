@@ -1,0 +1,13 @@
+Mobile Agents on Mobile Robotic Platforms: A Survey -><title>
+Kevin J. Keen -><author>
+Department of Computer Science -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+300 Technology Hall -><address>
+1-1-256-824-6088 -><phone>
+kkeen@cs.uah.edu -><email>
+Letha H. Etzkorn -><author>
+Department of Computer Science -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+300 Technology Hall -><address>
+1-1-256-824-6088 -><phone>
+letzkorn@cs.uah.edu -><email>

@@ -1,0 +1,29 @@
+Controlling the Focus of Perceptual Attention in -><title>
+Embodied Conversational Agents -><title>
+Youngjun Kim -><author>
+Institute for Creative -><affiliation>
+Technologies -><affiliation>
+13274 Fiji Way, Suite 600 -><address>
+Marina del Rey, CA 90292 -><address>
+yjkim@ict.usc.edu -><email>
+David R. Traum -><author>
+Institute for Creative -><affiliation>
+Technologies -><affiliation>
+13274 Fiji Way, Suite 600 -><address>
+Marina del Rey. CA 90292 -><address>
+traum@ict.usc.edu -><email>
+Randall W. Hill, Jr. -><author>
+Institute for Creative -><affiliation>
+Technologies -><affiliation>
+13274 Fiji Way, Suite 600 -><address>
+Marina del Rey. CA 90292 -><address>
+hill@ict.usc.edu -><email>
+Permission to make digital or hard copies of all or part of -><note>
+this work for personal or classroom use is granted without -><note>
+fee provided that copies are not made or distributed for -><note>
+profit or commercial advantage and that copies bear this -><note>
+notice and the full citation on the first page. To copy -><note>
+otherwise, to republish, to post on servers or to redistribute -><note>
+to lists, requires prior specific permission and/or a fee. -><note>
+AAMAS'05, July 25-29, 2005, Utrecht, Netherlands. -><note>
+Copyright 2005 ACM 1-59593-094-9/05/0007 ...$5.00. -><note>

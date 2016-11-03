@@ -1,0 +1,7 @@
+Real-time Visualisation and Browsing of a -><title>
+Distributed Video Database -><title>
+Eduard Gonzales, Alun Evans, Sergi Gonzales, Juan Abadia, Josep Blat -><author>
+Tanger 122 - 140 -><pubnum>
+08018 Barcelona, Spain -><address>
++34 93 542 20 00 -><phone>
+alun.evans@upf.edu josep.blat@upf.edu -><email>

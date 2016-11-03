@@ -1,0 +1,6 @@
+Cooperative Negotiation in a Multi-Agent System for -><title>
+Real-Time Load Balancing of a Mobile Cellular Network -><title>
+John Bigham, Lin Du -><author>
+Department of Electronic Engineering -><affiliation>
+Queen Mary, University of London -><affiliation>
+London, United Kingdom -><address>

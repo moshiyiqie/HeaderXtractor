@@ -1,0 +1,9 @@
+Is the Unigram Relevance Model Term Independent? -><title>
+Classifying Term Dependencies in Query Expansion -><title>
+Mike Symonds1, Peter Bruza1, Guido Zuccon2, Laurianne Sitbon1, Ian Turner3 -><author>
+michael.symonds@qut.edu.au, p.bruza@qut.edu.au, guido.zuccon@csiro.au, -><email>
+l.sitbon@qut.edu.au, i.turner@qut.edu.au -><email>
+1 School of Information Systems, Queensland University of Technology -><affiliation>
+2 Australian e-Health Research Centre, CSIRO -><address>
+3 School of Mathematical Sciences, Queensland University of Technology -><affiliation>
+Brisbane, Australia -><address>

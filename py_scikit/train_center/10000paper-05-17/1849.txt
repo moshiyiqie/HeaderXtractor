@@ -1,0 +1,5 @@
+Online Implicit Agent Modelling -><title>
+Nolan Bard and Michael Johanson and Neil Burch and Michael Bowling -><author>
+University of Alberta -><affiliation>
+Edmonton, Alberta -><address>
+{nolan,johanson,burch,bowling}@cs.ualberta.ca -><email>

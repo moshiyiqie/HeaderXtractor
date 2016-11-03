@@ -1,0 +1,5 @@
+A Unified Method for Handling Discrete and Continuous -><title>
+Uncertainty in Bayesian Stackelberg Games -><title>
+Zhengyu Yin and Milind Tambe -><author>
+University of Southern California, Los Angeles, CA 90089, USA -><affiliation>
+{zhengyuy, tambe}@usc.edu -><email>

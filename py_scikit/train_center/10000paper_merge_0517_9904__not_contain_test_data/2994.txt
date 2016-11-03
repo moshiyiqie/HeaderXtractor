@@ -1,0 +1,13 @@
+using an eye-tracking interface -><title>
+Mika Satomi -><author>
+PhD.student at Interface Culture -><affiliation>
+Sonnensteinstrasse 11-13 -><address>
+4040, Linz, Austria -><address>
++43-732-7898324 -><phone>
+mika.satomi@ufg.ac.at -><email>
+Christa Sommerer -><author>
+Professor for Interface Culture -><affiliation>
+Sonnensteinstrasse 11-13 -><address>
+4040, Linz, Austria -><address>
++43-732-7898324 -><phone>
+christa.sommerer@ufg.ac.at -><email>

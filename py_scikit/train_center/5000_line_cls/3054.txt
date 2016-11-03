@@ -1,0 +1,6 @@
+Supervisory Control Theory in Epistemic Temporal Logic -><title>
+Guillaume Aucher -><author>
+University of Rennes 1 -><affiliation>
+INRIA -><affiliation>
+Rennes, France -><address>
+guillaume.aucher@irisa.fr -><email>

@@ -1,0 +1,10 @@
+A Proposed Method for Dynamic Knowledge Representation via -><title>
+Agent-directed Composition from Biomedical and Simulation Ontologies: -><title>
+An Example Using Gut Mucus Layer Dynamics -><title>
+Scott Christley and Gary An -><author>
+Department of Surgery -><affiliation>
+University of Chicago -><affiliation>
+5841 South Maryland Avenue, Chicago, IL 60637 USA -><address>
+Email: Scott Christley and Gary An -><author>
+Keywords: ontology, executable biology, simulation -><author>
+methods, multi-agent systems, knowledge representation -><keyword>

@@ -1,0 +1,12 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+Improving Quality of Service in Videogames -><title>
+Ramón Mollá -><author>
+Technical University of Valencia -><affiliation>
+Camino de Vera, s/n -><affiliation>
+46022 - Valencia - Spain -><address>
+rmolla@dsic.upv.es -><email>
+Inmaculada García -><email>
+Technical University of Valencia -><affiliation>
+Camino de Vera, s/n -><affiliation>
+46022 - Valencia - Spain -><address>
+ingarcia@dsic.upv.es -><email>

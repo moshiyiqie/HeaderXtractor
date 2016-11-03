@@ -1,0 +1,10 @@
+Improved Max-Sum Algorithm For DCOP with n-ary -><title>
+Constraints -><title>
+Victor Lesser -><author>
+University of Massachusetts at Amherst, MA -><affiliation>
+01003, USA -><address>
+lesser@cs.umass.edu -><email>
+Yoonheui Kim -><author>
+University of Massachusetts at Amherst, MA -><affiliation>
+01003, USA -><address>
+ykim@cs.umass.edu -><email>

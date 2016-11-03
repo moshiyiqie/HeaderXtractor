@@ -1,0 +1,13 @@
+Enabling IPv6 Within a Campus Network -><title>
+Bliss Bailey -><author>
+Executive Director -><affiliation>
+Office of Information Technology -><affiliation>
+Auburn University -><affiliation>
+334.844.3500 -><address>
+bliss.bailey@auburn.edu -><email>
+Homer Carlisle -><author>
+Department of Computer Science -><affiliation>
+and Software Engineering -><affiliation>
+Auburn University -><affiliation>
+334.844.6308 -><address>
+carliwh@auburn.edu -><email>

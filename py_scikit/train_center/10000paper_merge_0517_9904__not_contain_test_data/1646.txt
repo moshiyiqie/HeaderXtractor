@@ -1,0 +1,14 @@
+Learning Exploration Strategies in Model-Based -><title>
+Reinforcement Learning -><title>
+Manuel Lopes -><author>
+INRIA Bordeaux Sud-Ouest -><affiliation>
+Bordeaux, France -><address>
+manuel.lopes@inria.fr -><email>
+Peter Stone -><author>
+Dept of Computer Science -><affiliation>
+University of Texas at Austin -><affiliation>
+pstone@cs.utexas.edu -><email>
+Todd Hester -><author>
+Dept of Computer Science -><affiliation>
+University of Texas at Austin -><affiliation>
+todd@cs.utexas.edu -><email>

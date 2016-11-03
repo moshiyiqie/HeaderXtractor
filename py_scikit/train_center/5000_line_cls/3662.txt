@@ -1,0 +1,6 @@
+Dynamic Cost-Efficient Replication in Data Clouds -><title>
+Nicolas Bonvin, Thanasis G. Papaioannou and Karl Aberer -><author>
+School of Computer and Communication Sciences -><affiliation>
+École Polytechnique Fédérale de Lausanne (EPFL) -><affiliation>
+1015 Lausanne, Switzerland -><address>
+Email: firstname.lastname@epfl.ch -><email>

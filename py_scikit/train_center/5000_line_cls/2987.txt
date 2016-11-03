@@ -1,0 +1,11 @@
+Ipseity: An Open-Source Platform for Synthesizing and -><title>
+Validating Artificial Cognitive Systems in MAS -><title>
+(Demonstration) -><title>
+Abderrafiaa Koukam -><title>
+IRTES-SeT -><author>
+Rue Thiery-Mieg, Belfort, FRANCE -><author>
+abder.koukam@utbm.fr -><email>
+Fabrice Lauri -><author>
+IRTES-SeT -><affiliation>
+Rue Thiery-Mieg, Belfort, FRANCE -><address>
+fabrice.lauri@utbm.fr -><email>

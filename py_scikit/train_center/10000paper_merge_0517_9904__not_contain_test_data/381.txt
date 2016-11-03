@@ -1,0 +1,7 @@
+Concurrent Layered Learning -><title>
+Shimon Whiteson and Peter Stone -><author>
+Department of Computer Sciences -><affiliation>
+University of Texas at Austin -><affiliation>
+Austin, TX 78712 USA -><address>
+{shimon,pstone}@cs.utexas.edu -><email>
+http://www.cs.utexas.edu/~{shimon,pstone} -><web>

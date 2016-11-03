@@ -1,0 +1,8 @@
+Exploring the Portability and Extensibility -><title>
+of XML Schema Generated Web Applications -><title>
+Andrei Erdoss -><author>
+Kennesaw State University -><affiliation>
+3325 Cypress Club Trail -><address>
+Austell, GA 30106 -><address>
+1 770 745 9295 -><phone>
+erdoss@hotmail.com -><email>

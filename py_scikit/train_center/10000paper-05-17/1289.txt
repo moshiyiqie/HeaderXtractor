@@ -1,0 +1,6 @@
+Agent-based Network Security Simulation -><title>
+(Demonstration) -><title>
+Dennis Grunewald Marco Lützenberger Joël Chinnow -><author>
+Rainer Bye Karsten Bsufka Sahin Albayrak -><author>
+DAI-Labor (|) TU Berlin (|) Ernst-Reuter-Platz 7 (|) 10587 Berlin, GERMANY -><affiliation>
+NeSSi@dai-labor.de -><affiliation>

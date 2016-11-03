@@ -1,0 +1,18 @@
+Zhonghang Xia -><author>
+Department of Computer Science -><affiliation>
+Western Kentucky University -><affiliation>
+Guangming Xing -><author>
+Department of Computer Science -><affiliation>
+Western Kentucky University -><affiliation>
+Support Vector Machines For Collaborative Filtering -><affiliation>
+Yulin Dong -><author>
+Department of Applied Mathematics -><affiliation>
+Dalian University of Technology -><affiliation>
+Dalian, Liaoning, 116023, China -><address>
+dyl@student.dlut.edu.cn -><email>
+1906 Collee Heights Blvd. -><pubnum>
+Bowling Green, KY 42101, U.S.A. -><address>
+Guangming.xing@wku.edu -><email>
+1906 Collee Heights Blvd. -><affiliation>
+Bowling Green, KY 42101, U.S.A. -><address>
+Zhonghang.xia@wku.edu -><email>

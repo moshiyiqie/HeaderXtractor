@@ -1,0 +1,14 @@
+Sumit Kalra -><title>
+A System to provide Primary Healthcare Services to Rural -><title>
+India more efficiently and transparently -><title>
+Chinmoy Mukherjee, Komal Gupta, -><author>
+Rajarathnam Nallusamy -><author>
+Infosys Labs -><affiliation>
+44 Electronics City, Hosur Road -><address>
+Bangalore 560 010, India -><address>
+Infosys Labs -><affiliation>
+1, Rajiv Gandhi InfoTech Park -><address>
+Pune 411057, India -><address>
+sumit_kalra02@infosys.com -><email>
+{chinmoy_m, komal01, -><note>
+rajarathnam_n}@infosys.com -><email>

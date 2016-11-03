@@ -1,0 +1,11 @@
+Price Rigidity and Strategic Uncertainty -><title>
+An Agent-based Approach -><title>
+Robert Somogyi -><author>
+Paris School of Economics -><affiliation>
+robert.somogyi@gmail.com -><email>
+Janos Vincze -><affiliation>
+Corvinus University of Budapest and Institute of -><affiliation>
+Economics of the Hungarian Academy of Sciences -><affiliation>
+janos.vincze@uni-corvinus.hu -><email>
+Keywords: Agent-based modeling, Evolutionary algorithm, -><keyword>
+Price rigidity, Social learning, Strategic Uncertainty -><keyword>

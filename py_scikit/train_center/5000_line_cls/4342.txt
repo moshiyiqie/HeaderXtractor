@@ -1,0 +1,11 @@
+Open Charging Kiosk: A Business in a Box -><title>
+Elizabeth Belding -><author>
+Dept. of Computer Science -><affiliation>
+University of California, Santa Barbara -><affiliation>
+Santa Barbara, CA, USA -><address>
+ebelding@cs.ucsb.edu -><email>
+Daniel Iland -><author>
+Dept. of Computer Science -><affiliation>
+University of California, Santa Barbara -><affiliation>
+Santa Barbara, CA, USA -><address>
+iland@cs.ucsb.edu -><email>

@@ -1,0 +1,5 @@
+Effects of Course-Long Use of a Program Visualization Tool -><title>
+Erkki Kaila, Teemu Rajala, Mikko-Jussi Laakso, Tapio Salakoski -><author>
+University of Turku and Turku Centre for Computer Science (TUCS) -><affiliation>
+Informaatioteknologian laitos, 20014 Turun yliopisto, Finland -><address>
+{ertaka, temira, milaak, sala}@utu.fi -><email>

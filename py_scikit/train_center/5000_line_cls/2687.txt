@@ -1,0 +1,14 @@
+Learning Influence in Complex Social Networks -><title>
+Sarabjot Singh Anand -><author>
+Algorithmic Insight, India -><affiliation>
+sarabjot.singh@gmail.com -><email>
+Nathan Griffiths -><author>
+Department of -><affiliation>
+Computer Science -><affiliation>
+University of Warwick, UK -><affiliation>
+N.E.Griffiths@warwick.ac.uk -><email>
+Henry Franks -><author>
+Department of -><affiliation>
+Computer Science -><affiliation>
+University of Warwick, UK -><affiliation>
+hpwfranks@gmail.com -><email>

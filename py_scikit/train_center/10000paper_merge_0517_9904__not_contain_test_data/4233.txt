@@ -1,0 +1,16 @@
+ReplayInk: Web Based Ink Submission and Playback in -><title>
+MessageGrid -><title>
+David R Bowman -><author>
+School of Computing -><affiliation>
+100 McAdams Hall -><address>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+(864) 656-2542 -><phone>
+dbowman@clemson.edu -><email>
+Eric N Anderson -><author>
+School of Computing -><affiliation>
+100 McAdams Hall -><address>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+(864) 656-3444 -><phone>
+enander@clemson.edu -><email>

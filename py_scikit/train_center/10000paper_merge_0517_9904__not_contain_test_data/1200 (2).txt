@@ -1,0 +1,23 @@
+Expressive Autonomous Cinematography for Interactive -><title>
+Virtual Environments -><title>
+Bill Tomlinson -><title>
+Synthetic Characters Group -><affiliation>
+MIT Media Lab -><affiliation>
+Bruce Blumberg -><unknow>
+Synthetic Characters Group -><title>
+MIT Media Lab -><affiliation>
+Delphine Nain -><unknow>
+Synthetic Characters Group -><author>
+MIT Media Lab -><affiliation>
+Room E15-320G / 20 Ames St. -><address>
+Cambridge, MA 02139 -><phone>
++1 617 253 5109 -><phone>
+badger@ media.mit.edu -><email>
+Room E15-309 / 20 Ames St. -><address>
+Cambridge, MA 02139 -><address>
++1 617 253 7441 -><phone>
+bruce @ media.mit.edu -><email>
+Room E15-320 / 20 Ames St. -><email>
+Cambridge, MA 02139 -><address>
++1 617 253 5109 -><phone>
+delfin @ media.mit.edu -><email>

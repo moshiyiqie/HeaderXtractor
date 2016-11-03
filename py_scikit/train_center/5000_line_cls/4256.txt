@@ -1,0 +1,17 @@
+Tool-Supported Model-Driven Validation Process for -><title>
+System Architectures -><title>
+Wolfgang Golubski -><author>
+Westsächsische Hochschule -><affiliation>
+Dr.-Friedrichs-Ring 2a -><address>
+08056 Zwickau, Germany -><address>
+golubski@fh-zwickau.de -><email>
+André Pflüger -><author>
+Westsächsische Hochschule -><affiliation>
+Dr.-Friedrichs-Ring 2a -><address>
+08056 Zwickau, Germany -><address>
+andpfl@fh-zwickau.de -><email>
+Stefan Queins -><author>
+SOPHIST GmbH -><affiliation>
+Vordere Cramergasse 13 -><address>
+90478 Nürnberg, Germany -><address>
+stefan.queins@sophist.de -><email>

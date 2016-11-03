@@ -1,0 +1,20 @@
+Kernelization Complexity of Possible Winner and -><title>
+Coalitional Manipulation Problems in Voting -><title>
+Y. Narahari -><author>
+Department of Computer -><affiliation>
+Science and Automation -><affiliation>
+Indian Institute of Science, -><affiliation>
+Bangalore, India. -><address>
+hari@csa.iisc.ernet.in -><email>
+Neeldhara Misra -><author>
+Department of Computer -><affiliation>
+Science and Automation -><affiliation>
+Indian Institute of Science, -><affiliation>
+Bangalore, India. -><address>
+mail@neeldhara.com -><email>
+Palash Dey -><author>
+Department of Computer -><affiliation>
+Science and Automation -><affiliation>
+Indian Institute of Science, -><affiliation>
+Bangalore, India. -><address>
+palash@csa.iisc.ernet.in -><email>

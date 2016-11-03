@@ -1,0 +1,11 @@
+A Logic of Multiple-Valued Argumentation -><title>
+Takehisa Takahashi -><author>
+Graduate School of Science and Technology -><affiliation>
+Niigata University -><affiliation>
+8050 2-cho Ikarashi Niigata, 950-2181 JAPAN -><address>
+takehisa@cs.ie.niigata-u.ac.jp -><email>
+Hajime Sawamura -><author>
+Department of Information Engineering -><affiliation>
+Niigata University -><affiliation>
+8050 2-cho Ikarashi Niigata, 950-2181 JAPAN -><address>
+sawamura@ie.niigata-u.ac.jp -><email>

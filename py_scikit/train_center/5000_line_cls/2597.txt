@@ -1,0 +1,21 @@
+Formation Control for Cooperative Localization -><title>
+of MAV Swarms -><title>
+(Demonstration) -><title>
+Luis Rayas -><author>
+Franklin W. Olin College of -><affiliation>
+Engineering -><affiliation>
+1 Olin Way -><address>
+Needham, MA -><address>
+luis.rayas@students.olin.edu -><email>
+Arjun Iyer -><email>
+Franklin W. Olin College of -><author>
+Engineering -><affiliation>
+1 Olin Way -><address>
+Needham, MA -><address>
+arjun.iyer@students.olin.edu -><email>
+Andrew Bennett -><author>
+Franklin W. Olin College of -><affiliation>
+Engineering -><affiliation>
+1 Olin Way -><address>
+Needham, MA -><address>
+andrew.bennett@olin.edu -><email>

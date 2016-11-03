@@ -1,0 +1,22 @@
+Quality-Driven Wavelet Based PCG Signal Coding for -><title>
+Wireless Cardiac Patient Monitoring -><title>
+S. Dandapat -><author>
+Department of Electrical and -><affiliation>
+Electronics Engineering, -><address>
+Indian Institute of Technology -><affiliation>
+Guwahati, Assam, -><address>
+India-781039. -><address>
+K. P. Soman -><author>
+Center for Excellence in -><affiliation>
+Computational Engineering -><affiliation>
+and Networking Amrita Vishwa -><affiliation>
+Vidyapeetham, Coimbatore -><address>
+Campus, India-641112. -><address>
+M. Sabarimalai -><author>
+Manikandan -><author>
+Center for Excellence in -><affiliation>
+Computational Engineering -><degree>
+and Networking Amrita Vishwa -><degree>
+Vidyapeetham, Coimbatore -><degree>
+Campus, India-641112. -><address>
+msm.sabari@gmail.com -><email>

@@ -1,0 +1,13 @@
+Semantics of Declarative Goals in Agent Programming -><title>
+John-Jules Ch. Meyer -><author>
+Utrecht University -><affiliation>
+The Netherlands -><address>
+jj@cs.uu.nl -><email>
+M. Birna van Riemsdijk -><author>
+Utrecht University -><affiliation>
+The Netherlands -><address>
+birna@cs.uu.nl -><email>
+Mehdi Dastani -><author>
+Utrecht University -><affiliation>
+The Netherlands -><address>
+mehdi@cs.uu.nl -><email>

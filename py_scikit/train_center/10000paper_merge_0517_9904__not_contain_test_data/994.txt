@@ -1,0 +1,13 @@
+An Architecture for Modular Distributed Simulation with -><title>
+Agent-Based Models -><title>
+David Scerri1 Sarah Hickmott1 -><author>
+Lin Padgham1 -><author>
+Alexis Drogoul2 -><author>
+1 School of CS and IT -><affiliation>
+2UMI 209 UMMISCO IRD/UPMC -><pubnum>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+ﬁrstname.lastname@rmit.edu.au -><email>
+Institut de Recherche pour le Développement -><affiliation>
+Hanoi, Vietnam -><address>
+alexis.drogoul@gmail.com -><email>

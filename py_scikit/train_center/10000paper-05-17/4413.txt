@@ -1,0 +1,13 @@
+FireDroid: Hardening Security in Almost-Stock Android -><title>
+Giovanni Russello -><author>
+University of Auckland -><affiliation>
+g.russello@auckland.ac.nz -><email>
+Habib Naderi -><author>
+University of Auckland -><affiliation>
+h.naderi@auckland.ac.nz -><email>
+Arturo Blas Jimenez -><author>
+University of Auckland -><affiliation>
+a.blas@auckland.ac.nz -><email>
+Wannes van der Mark -><author>
+University of Auckland -><affiliation>
+w.vandermark@auckland.ac.nz -><email>

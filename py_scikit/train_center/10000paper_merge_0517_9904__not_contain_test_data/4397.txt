@@ -1,0 +1,5 @@
+No Attack Necessary: -><title>
+The Surprising Dynamics of SSL Trust Relationships -><title>
+Bernhard Amann1, Robin Sommer1,3, Matthias Vallentin2, Seth Hall1 -><author>
+1International Computer Science Institute 2UC Berkeley -><affiliation>
+3Lawrence Berkeley National Laboratory -><affiliation>

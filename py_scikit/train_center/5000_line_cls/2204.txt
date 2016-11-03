@@ -1,0 +1,21 @@
+Improved Use of Partial Policies for Identifying Behavioral -><title>
+Equivalence -><title>
+Yinghui Pan -><author>
+Dept. of Automation Information Management -><affiliation>
+Xiamen University Jiangxi Univ. of Fin.& Eco. -><affiliation>
+Xiamen, China Jiangxi, China -><address>
+pyhui@xmu.edu.cn -><email>
+Yifeng Zeng -><author>
+Dept. of Computer Science Dept. of Automation -><affiliation>
+Aalborg University Xiamen University -><affiliation>
+Aalborg, Denmark Xiamen, China -><address>
+yfzeng@cs.aau.edu yfzeng@xmu.edu.cn -><email>
+Jian Luo -><author>
+Dept. of Automation -><affiliation>
+Xiamen University -><affiliation>
+Xiamen, Chinajianluo@xmu.edu.cn -><email>
+Hua Mao -><author>
+Dept. of Computer Science -><affiliation>
+Aalborg University -><affiliation>
+Aalborg, Denmark -><address>
+huamao@cs.aau.edu -><email>

@@ -1,0 +1,16 @@
+RANSAC-based Training Data Selection for Emotion -><title>
+Recognition from Spontaneous Speech -><title>
+Elif Bozkurt, Engin Erzin -><author>
+Dept. Electrical and Computer -><affiliation>
+Engineering -><affiliation>
+A. Tanju Erdem -><author>
+Dept. Electrical and Computer -><affiliation>
+Engineering -><affiliation>
+Dept. Electrical and Electronics -><affiliation>
+Engineering -><affiliation>
+(90)212 381 0895 -><date>
+(90)212 338 1533 -><date>
+(90)216 559 2337 -><phone>
+cigdem.eroglu@bahcesehir.edu.tr -><email>
+{ebozkurt, eerzin}@ku.edu.tr -><email>
+tanju.erdem@ozyegin.edu.tr -><email>

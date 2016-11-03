@@ -1,0 +1,31 @@
+Pure Object-based Domain Model for Enterprise Systems -><title>
+Hang Wu -><author>
+Learning System Institute and Department of Computer Science, Florida State University -><affiliation>
+Pennell Circle 319-03, Tallahassee, FL, 32310 -><address>
+1-850-339-8094 -><phone>
+wu@cs.fsu.edu -><email>
+Categories and Subject Descriptors -><note>
+D.2.11 [Software Architecture]: Patterns. -><note>
+General Terms -><keyword>
+Management, Performance, Design, Experimentation. -><keyword>
+Keywords -><keyword>
+Domain model, Net-PI, NEO, dataset, architecture, layer. -><keyword>
+1. PROBLEM AND MOTIVATION -><pubnum>
+There are different patterns for organizing domain logic in -><abstract>
+enterprise applications. Good design patterns give recurring -><abstract>
+solutions to software design problems in real-world application -><abstract>
+development [1]. This presentation will describe the domain -><abstract>
+model for an enterprise system, net-centric performance -><abstract>
+improvement (Net-PI), which assists organizations in the analysis, -><abstract>
+support and evaluation of human performance [2]. The system has -><abstract>
+gone through a number of iterations and is based on Microsoft -><abstract>
+.NET and SQL Server 2000. The current architecture of Net-PI is -><abstract>
+based on the domain model created by Neo (.NET Entity Objects) -><abstract>
+which produces an object-relational mapping layer with -><abstract>
+extensible base-classes to access data on relational databases. The -><abstract>
+architecture incorporates the object data and its behavior -><abstract>
+(business logic and events) into classes which contain transparent -><abstract>
+database interaction. It is excellent in dealing with complexity and -><abstract>
+maintainability. -><abstract>
+2. BACKGROUND AND RELATED WORK -><note>
+In the previous version of the Net-PI system, datasets are used for -><note>

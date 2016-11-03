@@ -1,0 +1,20 @@
+Varying the User Interaction within Multi-Agent Systems -><title>
+Katia Sycara -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15232 USA -><address>
+katia@cs.cmu.edu -><email>
+Terry R. Payne -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15232 USA -><address>
+terryp@cs.cmu.edu -><email>
+Michael Lewis -><author>
+School of Information -><affiliation>
+Sciences -><author>
+University of Pittsburgh -><affiliation>
+135 N. Bellefield Avenue -><address>
+Pittsburgh, PA, 15260 USA -><address>
+ml @ lis.pitt.edu -><email>

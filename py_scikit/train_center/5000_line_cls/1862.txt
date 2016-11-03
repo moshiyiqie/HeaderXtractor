@@ -1,0 +1,8 @@
+Online Anomaly Detection in Unmanned Vehicles -><title>
+Eliahu Khalastchi1, Gal A. Kaminka2, Meir Kalech1, Raz Lin2 -><author>
+1DT Labs, Information Systems Engineering, Ben-Gurion University -><affiliation>
+Beer Sheva, Israel 84105 -><address>
+eli.kh81@gmail.com, kalech@bgu.ac.il -><email>
+2The MAVERICK Group, Department of Computer Science, Bar-Ilan University -><affiliation>
+Ramat-Gan, Israel 52900 -><address>
+{galk,linraz}@cs.biu.ac.il -><email>

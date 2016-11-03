@@ -1,0 +1,20 @@
+SEAGENT: A Platform for Developing Semantic Web Based -><title>
+Multi Agent Systems -><title>
+Ozgur Gumus -><author>
+Ege University -><affiliation>
+Computer Engineering -><affiliation>
+Department -><affiliation>
+35100, Bornova, Izmir, Turkey -><address>
+gumus@staff.ege.edu.tr -><email>
+Riza Cenk Erdur -><author>
+Ege University -><affiliation>
+Computer Engineering -><affiliation>
+Department -><affiliation>
+35100, Bornova, Izmir, Turkey -><address>
+erdur@staff.ege.edu.tr -><email>
+Oguz Dikenelli -><author>
+Ege University -><affiliation>
+Computer Engineering -><affiliation>
+Department -><affiliation>
+35100, Bornova, Izmir, Turkey -><address>
+oguzd@staff.ege.edu.tr -><email>

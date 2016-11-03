@@ -1,0 +1,23 @@
+KODAMA Project: from Design to Implementation of a -><title>
+Distributed Multi-Agent System -><title>
+Ken’ichi Takahashi -><author>
+Department of Intelligent -><affiliation>
+Systems, Kyushu Univ. -><affiliation>
+6-1 Kasuga-Koen, Kasuga -><address>
+Fukuoka, Japan -><address>
+Satoshi Amamiya -><author>
+Department of Intelligent -><affiliation>
+Systems, Kyushu Univ. -><affiliation>
+6-1 Kasuga-Koen, Kasuga -><address>
+Fukuoka, Japan -><address>
+Guoqiang Zhong -><author>
+Department of Intelligent -><affiliation>
+Systems, Kyushu Univ. -><affiliation>
+6-1 Kasuga-Koen, Kasuga -><address>
+Fukuoka, Japan -><address>
+zhong@al.is.kyushu- -><email>
+u.ac.jp -><web>
+tkenichi@al.is.kyushu- -><email>
+u.ac.jp -><email>
+roger@al.is.kyushu- -><email>
+u.ac.jp -><email>

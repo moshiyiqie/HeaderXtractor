@@ -1,0 +1,12 @@
+Distributed Navigation in an Unknown Physical -><title>
+Environment ∗ -><title>
+Ariel Felner -><author>
+Department of Information Systems Engineering -><affiliation>
+Ben-Gurion University of the Negev -><affiliation>
+Beer-Sheva, 84-105, Israel -><address>
+felner@bgu.ac.il -><email>
+Arnon Gilboa, Amnon Meisels -><author>
+Department of Computer Science -><affiliation>
+Ben-Gurion University of the Negev -><affiliation>
+Beer-Sheva, 84-105, Israel -><address>
+{gilboaar,am}@cs.bgu.ac.il -><email>

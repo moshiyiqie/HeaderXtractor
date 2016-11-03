@@ -1,0 +1,17 @@
+Progression and Verification of Situation Calculus Agents -><title>
+with Bounded Beliefs -><title>
+Fabio Patrizi & Stavros Vassos -><title>
+DIAG, Sapienza -><author>
+Università di Roma -><affiliation>
+Roma, Italy -><address>
+lastname@dis.uniroma1.it -><email>
+Yves Lespérance -><author>
+EECS -><affiliation>
+York University -><affiliation>
+Toronto, Canada -><address>
+lesperan@cse.yorku.ca -><email>
+Giuseppe De Giacomo -><author>
+DIAG, Sapienza -><affiliation>
+Università di Roma -><affiliation>
+Roma, Italy -><address>
+degiacomo@dis.uniroma1.it -><email>

@@ -1,0 +1,7 @@
+Supporting Nomadic Agent-based Applications in the FIPA -><title>
+Agent Architecture -><title>
+Mikko Laukkanen, Heikki Helin, Heimo Laamanen -><author>
+Sonera Corporation, Sonera Corporate R&D -><affiliation>
+P.O.Box 970 (Teollisuuskatu 13) -><address>
+FIN-00051 SONERA, Helsinki, Finland -><address>
+{mikko.t.laukkanen,heikki.j.helin,heimo.laamanen}@sonera.com -><email>

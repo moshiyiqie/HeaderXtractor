@@ -1,0 +1,12 @@
+Trust Evaluation Through Relationship Analysis -><title>
+Ronald Ashri1, Sarvapali D. Ramchurn1, Jordi Sabater2, Michael Luck1, Nicholas R. Jennings1 -><author>
+1School of Electronics and Computer Science, University of Southampton, Southampton, SO17 1BJ, UK -><affiliation>
+2LABSS, Institute of Cognitive Science and Technology, Viale Marx 15, 00137 Roma, Italy -><affiliation>
+1{ra,sdr,mml,nrj}@ecs.soton.ac.uk, 2jsabater@iiia.csic.es -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence— -><note>
+Multiagent systems, Coherence and coordination. -><keyword>
+General Terms -><keyword>
+Design, Reliability, Management. -><keyword>
+Keywords -><keyword>
+Trust, Reputation, Relationships, Multi-Agent Systems. -><keyword>

@@ -1,0 +1,6 @@
+Clustering Objects with Robots That Do Not Compute -><title>
+Melvin Gauci, Jianing Chen, Wei Li, Tony J. Dodd and Roderich Groß -><author>
+Natural Robotics Lab -><affiliation>
+Sheffield Centre for Robotics & Department of Automatic Control and Systems Engineering -><affiliation>
+The University of Sheffield, UK -><affiliation>
+{m.gauci, j.n.chen, wei.li11, t.j.dodd, r.gross}@sheffield.ac.uk -><email>

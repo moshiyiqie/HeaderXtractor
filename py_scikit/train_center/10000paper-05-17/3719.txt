@@ -1,0 +1,9 @@
+An Online Bookstore Using JSP Technology -><title>
+Jose Hughes -><author>
+(Undergraduate) -><degree>
+Computer Science and Information Systems Department -><affiliation>
+Kennesaw State University -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA 30144 -><address>
+josehughes@comcast.net -><email>
+Advisor: Dr. Chong Wei Xu -><author>

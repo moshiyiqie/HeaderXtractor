@@ -1,0 +1,14 @@
+Prototyping Of Complex Plan Based Behavior -><title>
+For 3D Actors -><title>
+M. Latzel -><author>
+C. Geiger -><author>
+C-LAB -><affiliation>
+F0rstenallee 11 -><address>
+33102 Paderborn -><address>
++49 +5251 60 60 47 -><phone>
+chris@c-lab.de -><affiliation>
+University of Paderborn -><address>
+F~rstenallee 11 -><address>
+33102 Paderborn -><address>
+Germany -><email>
+lama @ uni-paderborn.de -><email>

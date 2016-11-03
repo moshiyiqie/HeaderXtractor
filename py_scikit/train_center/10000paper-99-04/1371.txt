@@ -1,0 +1,34 @@
+Towards a Definition of Robustness for Market-Style Open -><title>
+Multi-Agent Systems -><title>
+schillo@virtosphere.de, {hjb, kuf, klusch}@dfki.de -><author>
+Multi-agent Systems Group1 -><affiliation>
+Multi-agent Systems Group2 -><address>
+DFKI GmbH -><address>
+Im Stadtwald, Geb. 43.8 -><keyword>
+Im Stadtwald, Geb. 43.8 -><keyword>
+Keywords -><keyword>
+Multi-agent simulation, social agents, social reasoning, organisation -><keyword>
+of agent societies. -><keyword>
+1. MOTIVATION -><abstract>
+Multi-agent systems (MAS) are an integral part of current (D)AI -><abstract>
+research. Their success and the success of agent technology is in the -><abstract>
+majority of the literature ascribed to three major advantages, one of -><abstract>
+which is that multi-agent systems are robust systems (cf. [1, 9]). -><abstract>
+Although the literature treats robustness like an inherent feature of -><abstract>
+MAS (which it is not), there is hardly any discussion on what -><abstract>
+robustness actually means (a rare exception is the work of Kaminka -><abstract>
+and Tambe [7] and Klein and Dellarocas [3]). Just like any other -><abstract>
+artificial complex system, multi-agent systems need to be -><abstract>
+specifically designed to be robust. Compared to conventional -><abstract>
+computer science, the issue of robustness in MAS is different. Most -><abstract>
+computer science systems are transformational systems, which -><abstract>
+means they compute a function on some input. Here, techniques for -><abstract>
+ensuring robustness exist (e.g. cf. [6]). However, the most -><abstract>
+interesting multi-agent systems are open systems, which do not -><abstract>
+explicitly compute a function (e.g. looking at the most predominant -><abstract>
+example of an open system, namely the Internet, as computing a -><abstract>
+function certainly misses the point). -><abstract>
+2. ROBUSTNESS IN MAS -><abstract>
+Robustness in multi-agent systems is more than introducing -><abstract>
+redundancy. Redundancy will not solve problems such as malicious -><abstract>
+agents in an open system, communication and information overload. -><abstract>

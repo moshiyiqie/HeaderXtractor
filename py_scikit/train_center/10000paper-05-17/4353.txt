@@ -1,0 +1,14 @@
+Using Memory Management to Detect and Extract -><title>
+Illegitimate Code for Malware Analysis -><title>
+Thorsten Holz -><author>
+Ruhr-University Bochum, -><affiliation>
+Horst Görtz Institute for -><affiliation>
+IT-Security (HGI), Germany -><affiliation>
+Carsten Willems -><author>
+Ruhr-University Bochum, -><affiliation>
+Horst Görtz Institute for -><affiliation>
+IT-Security (HGI), Germany -><affiliation>
+Felix C. Freiling -><author>
+Friedrich-Alexander University -><affiliation>
+of Erlangen-Nuremberg, -><address>
+Germany -><address>

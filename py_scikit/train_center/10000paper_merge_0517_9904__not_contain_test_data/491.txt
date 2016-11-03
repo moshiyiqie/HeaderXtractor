@@ -1,0 +1,22 @@
+Operational Semantics for Agents: -><title>
+the Grey-Box Modeling Approach -><title>
+Federico Bergenti -><author>
+AOT Lab, Universita` di Parma -><affiliation>
+43100 Parma, Italy -><address>
+bergenti@ce.unipr.it -><email>
+Giovanni Rimassa -><author>
+AOT Lab, Universita` di Parma -><affiliation>
+43100 Parma, Italy -><address>
+rimassa@ce.unipr.it -><email>
+Mirko Viroli -><author>
+DEIS, Universita` di Bologna -><affiliation>
+47023 Cesena (FC), Italy -><address>
+mviroli@deis.unibo.it -><email>
+Categories and Subject Descriptors -><note>
+D.2.10 [Software Engineering]: Design; I.2.11 [Distributed -><note>
+Artificial Intelligence]: Multi-agent Systems -><unknow>
+General Terms -><title>
+Languages, Design -><keyword>
+Keywords -><keyword>
+Agent Design, Agent Communication Languages, Transition -><unknow>
+Systems -><unknow>

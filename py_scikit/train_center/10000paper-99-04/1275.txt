@@ -1,0 +1,11 @@
+Teaching a Robot How to Read Symbols -><title>
+Franc¸ois Michaud -><author>
+Dept. of Elec. & Comp. Engineering -><affiliation>
+Universite´ de Sherbrooke -><affiliation>
+Sherbrooke, Que´bec (CANADA) J1K 2R1 -><address>
+michaudf@gel.usherb.ca -><email>
+Dominic Le´tourneau -><author>
+Dept. of Elec. & Comp. Engineering -><affiliation>
+Universite´ de Sherbrooke -><affiliation>
+Sherbrooke, Que´bec (CANADA) J1K 2R1 -><address>
+letd01@gel.usherb.ca -><email>

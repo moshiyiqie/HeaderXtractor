@@ -1,0 +1,13 @@
+Belief Merging versus Judgment Aggregation -><title>
+Sébastien Konieczny -><title>
+CRIL-CNRS -><author>
+Université d’Artois, France -><affiliation>
+konieczny@cril.fr -><email>
+Patricia Everaere -><author>
+CRIStAL-CNRS -><affiliation>
+Université Lille 1, France -><affiliation>
+patricia.everaere@univ-lille1.fr -><email>
+Pierre Marquis -><author>
+CRIL-CNRS -><affiliation>
+Université d’Artois, France -><affiliation>
+marquis@cril.fr -><email>

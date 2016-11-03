@@ -1,0 +1,17 @@
+The face of emotions: -><title>
+a logical formalization of expressive speech acts -><title>
+Nadine Guiraud -><author>
+UPS, IRIT, France -><affiliation>
+Nadine.Guiraud@irit.fr -><email>
+Dominique Longin -><author>
+CNRS, IRIT, France -><affiliation>
+Dominique.Longin@irit.fr -><email>
+Emiliano Lorini -><affiliation>
+CNRS, IRIT, France -><address>
+Emiliano.Lorini@irit.fr -><email>
+Sylvie Pesty -><affiliation>
+LIG, France -><address>
+Sylvie.Pesty@imag.fr -><email>
+Jérémy Rivière -><affiliation>
+LIG, France -><address>
+jeremy.riviere@imag.fr -><email>

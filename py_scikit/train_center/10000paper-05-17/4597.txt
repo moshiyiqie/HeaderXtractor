@@ -1,0 +1,7 @@
+Using Eye Tracking for Evaluating Web Search Interfaces -><title>
+Hilal Al Maqbali, Falk Scholer, James A. Thom, and Mingfang Wu -><author>
+Department of Information Technology, College of Applied Sciences-Sohar, Sultanate of -><affiliation>
+Oman -><address>
+hilal.soh@cas.edu.om -><email>
+School of Computer Science and Information Technology, RMIT University, Australia -><affiliation>
+{falk.scholer,james.thom,mingfang.wu}@rmit.edu.au -><email>

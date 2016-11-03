@@ -1,0 +1,25 @@
+Spatial Control Framework for Interactive Lighting -><title>
+Jaakko Hakulinen -><title>
+Markku Turunen -><title>
+Tomi Heimonen -><author>
+Tampere Unit for Computer Human -><affiliation>
+Interaction, School of Information -><affiliation>
+Sciences -><author>
+33014 University of Tampere -><affiliation>
+Finland -><address>
++358 50 586 6358 -><phone>
+jaakko.hakulinen@uta.fi -><email>
+Tampere Unit for Computer Human -><affiliation>
+Interaction, School of Information -><affiliation>
+Sciences -><affiliation>
+33014 University of Tampere -><affiliation>
+Finland -><address>
++358 40 533 9689 -><phone>
+markku.turunen@uta.fi -><email>
+Tampere Unit for Computer Human -><affiliation>
+Interaction, School of Information -><affiliation>
+Sciences -><address>
+33014 University of Tampere -><affiliation>
+Finland -><address>
++358 50 337 1378 -><phone>
+tomi.heimonen@uta.fi -><email>

@@ -1,0 +1,25 @@
+An Agent Architecture for Long-Term Robustness -><title>
+William H. Turkett Jr. -><author>
+John R. Rose -><author>
+University of South Carolina -><affiliation>
+Swearingen Engr. Center -><affiliation>
+Columbia, SC 29208 USA -><address>
++1-803-777-2405 -><phone>
+rose@cse.sc.edu -><email>
+Michael N. Huhns -><author>
+University of South Carolina -><affiliation>
+Swearingen Engr. Center -><affiliation>
+Columbia, SC 29208 USA -><address>
++1-803-777-5921 -><phone>
+huhns@sc.edu -><email>
+Soumik Sinha Roy -><author>
+University of South Carolina -><affiliation>
+Swearingen Engr. Center -><affiliation>
+Columbia, SC 29208 USA -><address>
++1-803-777-5622 -><phone>
+soumik@sc.edu -><email>
+University of South Carolina -><affiliation>
+Swearingen Engr. Center -><affiliation>
+Columbia, SC 29208 USA -><address>
++1-803-777-5622 -><phone>
+turkett@cse.sc.edu -><email>

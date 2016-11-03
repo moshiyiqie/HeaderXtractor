@@ -1,0 +1,14 @@
+How Effective are Proximity Scores -><title>
+in Term Dependency Models? -><title>
+J. Shane Culpepper -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+shane.culpepper@rmit.edu.au -><email>
+Alistair Moffat -><author>
+The University of Melbourne -><affiliation>
+Melbourne, Australia -><address>
+ammoffat@unimelb.edu.au -><email>
+Xiaolu Lu -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+xiaolu.lu@rmit.edu.au -><email>

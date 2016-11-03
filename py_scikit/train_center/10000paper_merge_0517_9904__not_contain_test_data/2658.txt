@@ -1,0 +1,16 @@
+A Study of Human Behavior in Online Voting -><title>
+Reshef Meir -><author>
+School of Engineering and -><affiliation>
+Applied Sciences -><author>
+Harvard University, USA -><affiliation>
+rmeir@seas.harvard.edu -><email>
+Maor Tal -><author>
+Dept. of Information Systems -><affiliation>
+Engineering -><affiliation>
+Ben-Gurion University, Israel -><affiliation>
+maorta@post.bgu.ac.il -><email>
+Ya’akov (Kobi) Gal -><author>
+Dept. of Information Systems -><affiliation>
+Engineering -><affiliation>
+Ben-Gurion University, Israel -><affiliation>
+kobig@bgu.ac.il -><email>

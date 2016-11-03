@@ -1,0 +1,14 @@
+Assuming Termination -><title>
+David Greve -><author>
+Rockwell Collins Advanced Technology Center -><affiliation>
+Cedar Rapids, IA -><address>
+dagreve@rockwellcollins.com -><email>
+Permission to make digital or hard copies of all or part of -><note>
+this work for personal or classroom use is granted without fee -><note>
+provided that copies are not made or distributed for profit or -><abstract>
+commercial advantage and that copies bear this notice and -><abstract>
+the full citation on the first page. To copy otherwise, to re- -><abstract>
+publish, to post on servers or to redistribute to lists, requires -><abstract>
+prior specific permission and/or a fee. -><abstract>
+ACL2’09, May 11–12, 2009, Boston, MA, USA -><note>
+Copyright c©2009 ACM 978-1-60558-742-4/09/05. . . $10.00 -><note>

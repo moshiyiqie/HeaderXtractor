@@ -1,0 +1,6 @@
+eMediator: A Next Generation Electronic Commerce Server -><title>
+Tuomas Sandholm -><author>
+Department -><affiliation>
+Washington University -><affiliation>
+St. Louis, MO 63130 -><address>
+sandholm~cs.wustl.edu -><email>

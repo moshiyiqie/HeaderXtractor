@@ -1,0 +1,16 @@
+A False-name-Proof Double Auction Protocol for Arbitrary -><title>
+Evaluation Values -><title>
+Makoto Yokoo -><author>
+NTT Corporation -><affiliation>
+NTT Communication Science Laboratories -><affiliation>
+2-4 Hikaridai, Seika-cho, Soraku-gun, Kyoto -><address>
+619-0237 Japan -><phone>
+www.kecl.ntt.co.jp/csl/ccrg/members/yokoo/ -><web>
+yokoo@cslab.kecl.ntt.co.jp -><affiliation>
+Yuko Sakurai -><author>
+NTT Corporation -><affiliation>
+NTT Communication Science Laboratories -><affiliation>
+2-4 Hikaridai, Seika-cho, Soraku-gun, Kyoto -><address>
+619-0237 Japan -><address>
+www.kecl.ntt.co.jp/csl/ccrg/members/yuko/ -><address>
+yuko@cslab.kecl.ntt.co.jp -><affiliation>

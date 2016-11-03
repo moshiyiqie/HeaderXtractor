@@ -1,0 +1,5 @@
+An Interactive Approach for Situated Task Specification -><title>
+through Verbal Instructions -><title>
+Çetin Meriçli, Steven D. Klee, Jack Paparian, and Manuela Veloso -><author>
+cetin@cmu.edu, sdklee@cmu.edu, jpaparia@andrew.cmu.edu, veloso@cmu.edu -><email>
+Computer Science Department, Carnegie Mellon University, Pittsburgh, USA -><affiliation>

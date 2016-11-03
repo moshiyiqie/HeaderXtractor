@@ -1,0 +1,6 @@
+DCOPs and Bandits: Exploration and Exploitation in -><title>
+Decentralised Coordination -><title>
+Ruben Stranders, Long Tran-Thanh, Francesco M. Delle Fave, Alex Rogers & -><author>
+Nicholas R. Jennings -><author>
+University of Southampton -><affiliation>
+{rs2, ltt08r, fmdf08r,acr,nrj}@ecs.soton.ac.uk -><email>

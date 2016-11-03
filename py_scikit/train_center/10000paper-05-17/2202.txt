@@ -1,0 +1,11 @@
+Parallel Algorithms for Hard Combinatorial -><title>
+Optimisation Problems in Multi-Agent Systems -><title>
+(Doctoral Consortium) -><title>
+Filippo Bistaffa -><author>
+University of Verona -><affiliation>
+filippo.bistaffa@univr.it -><email>
+Categories and Subject Descriptors -><note>
+D.1.3 [Software]: Programming Techniques—Concurrent -><note>
+Programming (Parallel programming) -><keyword>
+Keywords -><keyword>
+Multi-Core, GPGPU, Coalition Formation -><keyword>

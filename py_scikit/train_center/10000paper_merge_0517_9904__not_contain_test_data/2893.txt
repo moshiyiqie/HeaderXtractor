@@ -1,0 +1,20 @@
+May -><title>
+Nick Piggott -><author>
+GWR Group plc -><affiliation>
+1 Passage Street, Bristol, U.K. -><address>
+Augmenting Digital Audio Broadcast with Rich Data -><author>
+Erik Geelhoed, Richard Hull -><author>
+HP labs Bristol Filton Road -><affiliation>
+Bristol, U.K. -><address>
++44 117 3128038 -><phone>
+erik_geelhoed@hp.com -><email>
+Annelies De Bruine, Huw -><author>
+Jeffries Bristol University, Mobile -><author>
+Bristol lab, 1 Canons Road -><affiliation>
+Bristol BS1 5UH -><address>
++44 117 9005350 -><phone>
++44 117 951 8235 -><phone>
+nick.piggott@creation.com -><email>
+richard.hull@hp.com -><email>
+annelies@easy.com -><email>
+huw@huwjeffries.co.uk -><email>

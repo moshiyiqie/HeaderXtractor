@@ -1,0 +1,5 @@
+A 2-D MPEG-4 Multimedia Authoring Tool -><title>
+Viljoen, D.W.; Calitz, A.P.; Cowley, N.L.O. -><author>
+Department of Computer Science and Information Systems, University of Port Elizabeth, -><affiliation>
+P.O. Box 1600, Port Elizabeth 6000, South Africa. -><address>
+E-mail: {csbdv, csaapc, csanlc} @upe.ac.za -><email>

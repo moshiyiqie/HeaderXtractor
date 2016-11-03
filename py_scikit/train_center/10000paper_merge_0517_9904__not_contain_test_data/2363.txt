@@ -1,0 +1,6 @@
+Incremental Policy Iteration with Guaranteed Escape from -><title>
+Local Optima in POMDP Planning -><title>
+Marek Grzes and Pascal Poupart -><author>
+Cheriton School of Computer Science, University of Waterloo -><affiliation>
+200 University Avenue West, Waterloo, Ontario N2L 3G1, Canada -><affiliation>
+{mgrzes, ppoupart}@cs.uwaterloo.ca -><email>

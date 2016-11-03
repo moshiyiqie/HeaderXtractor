@@ -1,0 +1,6 @@
+Optimizing Kidney Exchange with Transplant Chains: -><title>
+Theory and Reality -><title>
+John P. Dickerson Ariel D. Procaccia Tuomas Sandholm -><author>
+Department of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+{dickerson,arielpro,sandholm}@cs.cmu.edu -><email>

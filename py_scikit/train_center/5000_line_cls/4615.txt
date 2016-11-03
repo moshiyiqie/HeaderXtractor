@@ -1,0 +1,22 @@
+X-Lab: XML-Based Laboratory Exercises for CS1 -><title>
+J. Dean Brock -><author>
+Computer Science Department -><affiliation>
+University of North Carolina -><affiliation>
+at Asheville -><affiliation>
+Asheville, NC 28804 -><address>
+1-828-232-5161 -><phone>
+brock@cs.unca.edu -><email>
+Kenneth Bogert -><author>
+Computer Science Department -><affiliation>
+University of North Carolina -><affiliation>
+at Asheville -><affiliation>
+Asheville, NC 28804 -><address>
+1-828-350-7951 -><phone>
+bogertkd@cs.unca.edu -><email>
+Rebecca Bruce -><author>
+Computer Science Department -><affiliation>
+University of North Carolina -><affiliation>
+at Asheville -><affiliation>
+Asheville, NC 28804 -><address>
+1-828-232-2275 -><phone>
+bruce@cs.unca.edu -><email>

@@ -1,0 +1,7 @@
+Formalizing Typicality of Objects and Context-sensitivity -><title>
+in Ontologies -><title>
+Ching-man Au Yeung and Ho-fung Leung -><author>
+Department of Computer Science and Engineering -><affiliation>
+The Chinese University of Hong Kong -><affiliation>
+Shatin, Hong Kong -><address>
+{cmauyeun,lhf}@cse.cuhk.edu.hk -><email>

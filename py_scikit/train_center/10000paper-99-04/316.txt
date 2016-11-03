@@ -1,0 +1,19 @@
+Distributed Coordination based on Temporal Planning for -><title>
+Tactical Aircraft Simulation -><title>
+∗ -><title>
+F. Marc -><author>
+Dassault Aviation - LIP6 -><pubnum>
+I. Degirmenciyan -><author>
+Dassault Aviation -><note>
+78, quai Marcel dassault -><note>
+92512 Saint Cloud Cedex -><note>
+FRANCE -><unknow>
+A. El Fallah-Seghrouchni -><author>
+LIP6 - University of Paris 6 -><affiliation>
+8, Rue du Capitaine Scott -><address>
+75015 Paris FRANCE -><address>
+amal.elfallah@lip6.fr -><email>
+frederic.marc@dassault- -><email>
+aviation.fr -><email>
+irene.degirmenciyan@dassault- -><email>
+aviation.fr -><web>

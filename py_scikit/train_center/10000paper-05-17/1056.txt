@@ -1,0 +1,17 @@
+Decomposing constraint systems: Equivalences and -><title>
+computational properties -><title>
+Cees Witteveen -><author>
+Dept. of Software Technology -><affiliation>
+Delft University of Technology, -><affiliation>
+The Netherlands -><address>
+C.Witteveen@tudelft.nl -><email>
+Wiebe van der Hoek -><author>
+Dept. of Computer Science -><affiliation>
+University of Liverpool, -><affiliation>
+United Kingdom -><address>
+wiebe@csc.liv.ac.uk -><email>
+Michael Wooldridge -><author>
+Dept. of Computer Science -><affiliation>
+University of Liverpool, -><affiliation>
+United Kingdom -><address>
+mjw@liverpool.ac.uk -><email>

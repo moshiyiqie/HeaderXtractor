@@ -1,0 +1,30 @@
+1 -><pubnum>
+1 -><pubnum>
+1 -><pubnum>
+Towards building a Virtual Counselor: Modeling -><title>
+Nonverbal Behavior during Intimate Self-Disclosure -><title>
+1 -><pubnum>
+2 -><pubnum>
+, Jonathan Gratch -><note>
+, Candy Sidner -><note>
+, Ron Artstein -><note>
+1 -><note>
+and Louis-Philippe Morency -><unknow>
+Sin-Hwa Kang -><author>
+, Lixing Huang -><affiliation>
+, -><web>
+1 -><pubnum>
+2 -><pubnum>
+Institute for Creative Technologies -><affiliation>
+University of Southern California -><affiliation>
+12015 Waterfront Drive -><address>
+Playa Vista, CA 90094, USA -><address>
+1-310-574-5700 -><phone>
+Dept of Computer Science -><affiliation>
+Worcester Polytechnic Institute -><affiliation>
+100 Institute Road -><affiliation>
+Worcester, MA 01609, USA -><address>
+1-508-831-5000 -><phone>
+sidner@wpi.edu -><email>
+{kang, gratch, artstein, lhuang, -><affiliation>
+morency}@ict.usc.edu -><email>

@@ -1,0 +1,32 @@
+Judy Sheard -><author>
+Monash University -><affiliation>
+judy.sheard@monash.edu.au -><email>
+Simon -><author>
+University of Newcastle -><affiliation>
+simon@newcastle.edu.au -><email>
+Angela Carbone -><author>
+Monash University -><affiliation>
+angela.carbone@monash.edu.au -><email>
+Donald Chinn -><author>
+University of Washington, Tacoma -><affiliation>
+dchinn@u.washington.edu -><email>
+Tony Clear -><author>
+Auckland University of Technology -><affiliation>
+tony.clear@aut.ac.nz -><email>
+Malcolm Corney -><author>
+Queensland University of Technology -><affiliation>
+m.corney@qut.edu.au -><email>
+Joel Fenwick -><author>
+University of Queensland -><affiliation>
+joelfenwick@uq.edu.au -><email>
+RMIT University -><affiliation>
+daryl.dsouza@rmit.edu.au -><email>
+James Harland -><author>
+RMIT University -><affiliation>
+james.harland@rmit.edu.au -><email>
+Mikko-Jussi Laakso -><author>
+University of Turku -><affiliation>
+milaak@utu.fi -><email>
+Donna Teague -><author>
+Queensland University of Technology -><affiliation>
+d.teague@qut.edu.au -><email>

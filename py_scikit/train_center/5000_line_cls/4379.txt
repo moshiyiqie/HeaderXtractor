@@ -1,0 +1,12 @@
+On the Accuracy of Buffon’s Needle: -><title>
+A Simulation Output Analysis -><title>
+Charles J. Kicey -><author>
+Department of Math and CS -><affiliation>
+Valdosta State University -><affiliation>
+Valdosta, Georgia 31698-0040 -><address>
+ckicey@valdosta.edu -><email>
+Alexandra L. Wang -><author>
+Lowndes High School -><affiliation>
+1606 Norman Drive -><address>
+Valdosta, Georgia 31601-8498 -><address>
+alwang@mchsi.com -><email>

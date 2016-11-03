@@ -1,0 +1,6 @@
+Specifying Agent Behavior as Concurrent Tasks -><title>
+Scott A. DeLoach -><author>
+Department of Electrical and Computer Engineering -><affiliation>
+Air Force Institute Of Technology -><affiliation>
+Wright-Patterson Air Force Base, Ohio 45433-7765 -><address>
+sdeloach@computer.org -><email>

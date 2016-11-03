@@ -1,0 +1,7 @@
+A Computational Investigation of Wireless Sensor Network -><title>
+Simulation -><title>
+Dion C. Paul -><author>
+Dept. of Computer & Info Sciences -><affiliation>
+309 Benjamin Banneker Tech Bldg A -><degree>
+Florida A&M University -><affiliation>
+dpaul@cis.famu.edu -><email>

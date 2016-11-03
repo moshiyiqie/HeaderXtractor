@@ -1,0 +1,5 @@
+Protocol-Based Communication for Situated Multi-Agent Systems -><title>
+Danny Weyns, Elke Steegmans and Tom Holvoet -><author>
+AgentWise, DistriNet, K.U.Leuven -><affiliation>
+Celestijnenlaan 200A, B-3001 Leuven, Belgium -><address>
+{danny.weyns, elke.steegmans, tom.holvoet@cs.kuleuven.ac.be} -><email>

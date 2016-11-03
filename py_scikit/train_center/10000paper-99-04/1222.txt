@@ -1,0 +1,11 @@
+An Agent Architecture to fulfill Real-Time Requirements -><title>
+Ignacio Soto -><author>
+Dpt. Tecnolog[as de las Comunicaciones, Universidad Carlos III de Madrid -><affiliation>
+c/Butarque 15, 28911 Leganes, Spain -><address>
+Mercedes Garijo, Carlos A. Iglesias -><author>
+Dept. Ing. de Sistemas Telemfiticos - Universidad Polit6cnica de Madrid -><affiliation>
+ETSI Telecomunicaci6n, Ciudad Universitaria s/n, 28040 Madrid, Spain -><affiliation>
+Manuel Ramos -><author>
+Dpt. Tecnologias de las Comunicaciones, Universidad de Vigo -><author>
+Campus Universitario s/n, 36200 Vigo, Spain -><affiliation>
+isoto @ it. uc3m.es, (mga,cif) @ gsi.dit.upm.es, mramos @ ait. uvigo.es -><email>

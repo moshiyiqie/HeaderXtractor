@@ -1,0 +1,6 @@
+Multiplayer Internet Gaming with VRML: A Relook -><title>
+Peter K.K. Loh S. Phong W. Cai Tony K.Y. Chan -><author>
+School of Computer Engineeering -><affiliation>
+Nanyang Technological University -><affiliation>
+Nanyang Avenue, Singapore 639798 -><address>
+askkloh@ntu.edu.sg shnphong@singnet.com.sg aswtcai@ntu.edu.sg askychan@ntu.edu.sg -><email>

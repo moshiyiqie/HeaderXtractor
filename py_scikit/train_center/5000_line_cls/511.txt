@@ -1,0 +1,8 @@
+Design Considerations for Multiagent Systems on Very -><title>
+Small Platforms -><title>
+William Wright and Dana Moore -><author>
+BBN -><affiliation>
+1300 N 17th Street -><address>
+Arlington, Virginia 22209 -><address>
+703-284-4600 -><phone>
+[wwright, damoore]@bbn.com -><email>

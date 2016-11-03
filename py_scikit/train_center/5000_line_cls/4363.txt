@@ -1,0 +1,7 @@
+Graph Coloring: Color sequences and Algorithm for Color -><title>
+Sequence ∗ -><title>
+Mustafa Atici -><author>
+Mathematics and Computer Science Department -><affiliation>
+Western Kentucky University -><affiliation>
+Bowling Green, KY 42101 USA -><address>
+mustafa.atici@wku.edu -><email>

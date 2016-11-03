@@ -1,0 +1,7 @@
+An Evolving Power Saving Model for Monitoring Sensor -><title>
+Networks Using Cellular Automata -><title>
+Ryan Barnard -><author>
+Department of CS, 3161 Campus Box -><affiliation>
+Elon University -><affiliation>
+Elon, NC 27244 -><address>
+Email: rbarnard@elon.edu -><email>

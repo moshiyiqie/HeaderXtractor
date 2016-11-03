@@ -1,0 +1,6 @@
+A Decision Making Procedure for Collaborative Planning -><title>
+Timothy W. Rauenbusch and Barbara J. Grosz -><author>
+Division of Engineering and Applied Sciences -><affiliation>
+Harvard University -><affiliation>
+Cambridge, MA 02138 USA -><address>
+{tim,grosz}@eecs.harvard.edu -><email>

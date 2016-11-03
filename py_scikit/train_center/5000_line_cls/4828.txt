@@ -1,0 +1,5 @@
+Investigating Hidden Markov Models Capabilities -><title>
+in Anomaly Detection -><title>
+Shrijit S. Joshi and Vir V. Phoha -><author>
+Computer Science, Louisiana Tech University -><affiliation>
+Email: ssj005@latech.edu, phoha@latech.edu -><email>

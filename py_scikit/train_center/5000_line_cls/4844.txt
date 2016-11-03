@@ -1,0 +1,18 @@
+Bootstrapping Methodology for the Session-Based -><title>
+Anomaly Notification Detector (SAND) -><title>
+Joohan Lee -><author>
+Computer Science Department -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, FL 32816 -><address>
+jlee@cs.ucf.edu -><email>
+Lt Col Bruce D. Caulkins -><author>
+US Army -><affiliation>
+School of Information Technology -><affiliation>
+Fort Gordon, GA 30905 -><address>
+caulkins@cs.ucf.edu -><email>
+Morgan C. Wang -><author>
+Department of Statistics and -><affiliation>
+Actuarial Science -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, FL 32816 -><address>
+cwang@mail.ucf.edu -><email>

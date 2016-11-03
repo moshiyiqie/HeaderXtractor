@@ -1,0 +1,20 @@
+Performance Analysis of Network Protocol Offload in a -><title>
+Simulation Environment -><title>
+Joseph Meneskie -><author>
+School of EECS -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, Fl 32816 -><address>
+1-407-8234758 -><phone>
+jo204702@pegasus.cc.ucf.edu -><email>
+Taskin Kocak -><author>
+School of EECS -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, Fl 32816 -><address>
+1-407-8234758 -><phone>
+tkocak@cs.ucf.edu -><email>
+Jacob Engel -><author>
+School of EECS -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, Fl 32816 -><address>
+1-407-8234758 -><phone>
+jengel@cs.ucf.edu -><email>

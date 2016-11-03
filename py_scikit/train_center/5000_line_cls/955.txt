@@ -1,0 +1,16 @@
+SimEd: Simulating Education as a Multi Agent System -><title>
+Min San Tan Co -><author>
+Dept of Computer Science -><affiliation>
+Columbia University -><affiliation>
+New York, NY 10027 USA -><address>
+mtc38@cs.columbia.edu -><email>
+Mathew Davies -><author>
+Dept of Computer Science -><affiliation>
+Columbia University -><affiliation>
+New York, NY 10027 USA -><address>
+mdavies@cs.columbia.edu -><email>
+Elizabeth Sklar -><author>
+Dept of Computer Science -><affiliation>
+Columbia University -><affiliation>
+New York, NY 10027 USA -><address>
+sklar@cs.columbia.edu -><email>

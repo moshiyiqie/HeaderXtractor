@@ -1,0 +1,13 @@
+BDI Agents for Game Development -><title>
+Charles Thevathayan -><author>
+Royal Melbourne Institute of Technology -><affiliation>
+GPO Box 2476V, -><address>
+Melbourne, Victoria, 3001, -><address>
+Australia -><address>
+charles@cs.rmit.edu.au -><email>
+Arran Bartish -><author>
+Royal Melbourne Institute of Technology -><affiliation>
+GPO Box 2476V, -><address>
+Melbourne, Victoria, 3001, -><address>
+Australia -><address>
+abartish@bigpond.com -><email>

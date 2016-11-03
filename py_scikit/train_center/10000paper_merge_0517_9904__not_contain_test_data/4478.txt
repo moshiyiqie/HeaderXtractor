@@ -1,0 +1,11 @@
+Designing an Efficient PCA based Data Model for -><title>
+Wireless Sensor Networks -><title>
+N. Chitradevi -><author>
+Department of Information Technology -><affiliation>
+Kumaraguru College of Technology -><affiliation>
+Coimbatore, India -><address>
+E-mail: chitrakct@gmail.com -><email>
+Dr. K. Baskaran -><author>
+Department of Computer Science and Engineering -><affiliation>
+Government College of Technology -><affiliation>
+Coimbatore, India -><address>

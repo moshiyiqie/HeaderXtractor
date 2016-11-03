@@ -1,0 +1,6 @@
+Optimal Patrol Strategy for Protecting Moving Targets with -><title>
+Multiple Mobile Resources -><title>
+Fei Fang, Albert Xin Jiang, Milind Tambe -><author>
+University of Southern California -><affiliation>
+Los Angeles, CA, 90089 -><address>
+{feifang,jiangx,tambe}@usc.edu -><email>

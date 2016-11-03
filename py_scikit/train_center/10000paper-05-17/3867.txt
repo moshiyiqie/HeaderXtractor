@@ -1,0 +1,21 @@
+Using Genetic Algorithms to Generate Test Plans for -><title>
+Functionality Testing∗ -><title>
+† -><title>
+Ronaldo Menezes -><title>
+Ma´rcio Braga -><title>
+Francisca Emanuelle Vieira -><author>
+Francisco Martins -><author>
+Rafael Silva -><author>
+Computer Sciences -><affiliation>
+Florida Tech -><address>
+Melbourne, Florida, USA -><address>
+rmenezes@cs.fit.edu -><email>
+Software Engineering -><affiliation>
+IVIA Ltda. -><address>
+Fortaleza, Ceara´, Brazil -><address>
+marcio.braga@ivia.com.br -><email>
+NATUS Project, IVIA Ltda. -><affiliation>
+Fortaleza, Ceara´, Brazil -><address>
+emanuelle.vieira@ivia.com.br -><email>
+martins.filho@ivia.com.br -><email>
+rafael.silva@ivia.com.br -><email>

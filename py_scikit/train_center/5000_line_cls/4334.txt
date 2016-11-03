@@ -1,0 +1,17 @@
+Architecting a Low Cost Television White Space Network -><title>
+For Developing Regions -><title>
+Ermanno Pietrosemoli -><author>
+ICTP -><affiliation>
+T/ICT4D Lab -><affiliation>
+Trieste, Italy -><address>
+ermanno@ictp.it -><email>
+Marco Zennaro -><author>
+ICTP -><affiliation>
+T/ICT4D Lab -><affiliation>
+Trieste, Italy -><address>
+mzennaro@ictp.it -><email>
+Arjuna Sathiaseelan -><author>
+University of Cambridge -><affiliation>
+Computer Laboratory -><affiliation>
+Cambridge, UK -><address>
+arjuna.sathiaseelan@cl.cam.ac.uk -><email>

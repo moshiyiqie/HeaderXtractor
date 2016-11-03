@@ -1,0 +1,20 @@
+A Multidimensional Scaling Approach for Representing -><title>
+XML Documents -><title>
+Qi Li -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Western Kentucky University -><affiliation>
+Bowling Green, KY 42101 -><address>
+qi.li@wku.edu -><email>
+Gugangming Xing -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Western Kentucky University -><affiliation>
+Bowling Green, KY 42101 -><address>
+gugangming.xing@wku.edu -><email>
+Zhonghang Xia∗ -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Western Kentucky University -><affiliation>
+Bowling Green, KY 42101 -><address>
+zhonghang.xia@wku.edu -><email>

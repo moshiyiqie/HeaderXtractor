@@ -1,0 +1,26 @@
+A Secure Architectural Description Language for Agent -><title>
+Systems -><title>
+Manuel Kolp, -><author>
+ISYS- Information Systems Research -><affiliation>
+Unit, University of Louvain, Place des -><affiliation>
+Doyens, -><address>
+B - 1348 Louvain-La-Neuve, Belgium -><address>
+kolp@isys.ucl.ac.be -><email>
+Stephane Faulkner, -><note>
+Management Research Unit, University -><affiliation>
+of Namur -><note>
+8 rempart de la vierge, 5000 Namur, -><note>
+Belgium -><address>
+stephane.faulkner@fundp.ac.be -><email>
+Haralambos Mouratidis -><author>
+School of Computing and Technology, -><affiliation>
+University of East London, Barking -><affiliation>
+Campus, Longbridge Road, RM8 2AS, -><address>
+England. -><email>
+H.Mouratidis@uel.ac.uk -><email>
+Paolo Giorgini -><author>
+Department of Information and -><affiliation>
+Communication Technology, University -><affiliation>
+of Trento, Via Sommarive, 14 38050, -><address>
+Rovo, Trento, Italy -><address>
+paolo.giorgini@dit.unitn.it -><email>

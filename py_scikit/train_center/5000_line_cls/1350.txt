@@ -1,0 +1,7 @@
+A complete and decidable security-specialised logic -><title>
+and its application to the TESLA protocol -><title>
+∗ -><title>
+Alessio Lomuscio and Boz˙ena Woz´na -><author>
+Department of Computer Science, UCL -><affiliation>
+Gower Street, London WC1E 6BT,UK -><address>
+email: {B.Wozna,A.Lomuscio}@cs.ucl.ac.uk -><email>

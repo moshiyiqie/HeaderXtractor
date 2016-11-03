@@ -1,0 +1,7 @@
+Design of Dependable Personal Networks -><title>
+Javad Vazifehdan, Mohamed G. Hawas, Ramin Hekmat, Ignas Niemegeers -><author>
+Faculty of Electrical Engineering, Mathematics, and Computer Science -><affiliation>
+Delft University of Technology -><affiliation>
+P.O. Box 5031 -><address>
+2600 GA Delft, The Netherlands -><address>
+{j.vazifehdan, m.hawas, r.hekmat, i.niemegeers}@tudelft.nl -><email>

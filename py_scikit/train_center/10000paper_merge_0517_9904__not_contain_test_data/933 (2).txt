@@ -1,0 +1,19 @@
+A Message Board Client for Handheld Devices -><title>
+Swapna Gupta -><author>
+Computer Science Department -><affiliation>
+The University of Alabama -><affiliation>
+Box 870290 -><address>
+Tuscaloosa, AL 35487 -><address>
+sgupta@cs.ua.edu -><email>
+Mickey L. Armstrong -><author>
+Computer Science Department -><affiliation>
+Norfolk State University -><affiliation>
+700 Park Avenue -><address>
+Norfolk, VA 23504 -><address>
+mickey_armstrong@yahoo.com -><email>
+Jennifer M. Bennett -><author>
+Computer Science Department -><affiliation>
+Spelman College -><affiliation>
+350 Spelman Lane S.W. -><address>
+Atlanta, GA 30314 -><address>
+jsluv42001@aol.com -><email>

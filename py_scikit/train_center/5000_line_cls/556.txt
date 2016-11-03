@@ -1,0 +1,11 @@
+Rational Action in Agent Programs with Prioritized Goals -><title>
+Sebastian Sardin˜a -><author>
+Dept. of Computer Science -><affiliation>
+University of Toronto -><affiliation>
+Toronto, ON, M5S 3G4, Canada -><address>
+ssardina@cs.toronto.edu -><email>
+Steven Shapiro -><author>
+School of Computer Science and Engineering -><affiliation>
+University of New South Wales -><affiliation>
+Sydney, NSW 2052, Australia -><address>
+steven@cse.unsw.edu.au -><email>

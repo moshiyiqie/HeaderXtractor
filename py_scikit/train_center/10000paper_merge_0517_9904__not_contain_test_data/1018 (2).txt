@@ -1,0 +1,6 @@
+Are you Interested in Computers and Electronics? -><title>
+David Abramson, Gordon Lowe and Peter Atkinson -><author>
+School of Computer Science and Software Engineering -><affiliation>
+Monash University, -><affiliation>
+CLAYTON, VIC 3168, Australia -><address>
+{davida, glowe, petera}@csse.monash.edu.au -><email>

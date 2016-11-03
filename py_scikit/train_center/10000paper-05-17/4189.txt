@@ -1,0 +1,11 @@
+Vibrotactile Glove Guidance for Semi-Autonomous -><title>
+Wheelchair Operations -><title>
+W. D. Potter -><author>
+potter@uga.edu -><email>
+H. Uchiyama -><author>
+hajime@uga.edu -><email>
+M. A. Covington -><author>
+mc@uga.edu -><email>
+Artificial Intelligence Center -><affiliation>
+The University of Georgia -><affiliation>
+Athens, GA 30602-7415 -><address>

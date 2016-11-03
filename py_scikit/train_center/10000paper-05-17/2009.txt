@@ -1,0 +1,2 @@
+GD-Gibbs: A GPU-based Sampling Algorithm for Solving -><title>
+Distributed Constraint Optimization Problems -><title>

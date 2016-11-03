@@ -1,0 +1,11 @@
+MIDP 2.0 Changing the Face of J2ME Gaming∗ -><title>
+Christopher Williams -><author>
+School of Computing -><affiliation>
+Armstrong Atlantic State University -><affiliation>
+Savannah, Georgia USA -><address>
+cwilliams@drake.armstrong.edu -><email>
+Mark Burge -><author>
+School of Computing -><affiliation>
+Armstrong Atlantic State University -><affiliation>
+Savannah, Georgia USA -><address>
+mburge@acm.org -><email>

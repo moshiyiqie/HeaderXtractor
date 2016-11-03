@@ -1,0 +1,9 @@
+Informing Malaria Control Policy Using ABMS -><title>
+Gregory J. Davis1,2, Geralyn Janke2 -><author>
+Department of Computer Science and Engineering1 -><affiliation>
+Department of Psychology2 -><affiliation>
+University of Notre Dame -><affiliation>
+Notre Dame, IN -><affiliation>
+{gdavis2, gjanke}@nd.edu -><email>
+Keywords: Malaria, agent-based modeling, climate change, -><keyword>
+mosquitoes, policy making -><keyword>

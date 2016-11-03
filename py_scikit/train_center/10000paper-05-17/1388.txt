@@ -1,0 +1,6 @@
+A Sequential Recommendation Approach for Interactive -><title>
+Personalized Story Generation -><title>
+Hong Yu and Mark O. Riedl -><author>
+College of Computing -><affiliation>
+Georgia Institute of Technology -><affiliation>
+Atlanta, GA 30332{hong.yu, riedl}@cc.gatech.edu -><email>

@@ -1,0 +1,8 @@
+Resource Selection Games with Unknown Number of -><title>
+Players -><title>
+Itai Ashlagi Dov Monderer Moshe Tennenholtz -><author>
+Technion–Israel Institute of Technology -><affiliation>
+Faculty of Industrial Engineering and Management -><affiliation>
+Haifa 32000, Israel -><address>
+ashlagii@tx.technion.ac.il -><address>
+{dov,moshet}@ie.technion.ac.il -><email>

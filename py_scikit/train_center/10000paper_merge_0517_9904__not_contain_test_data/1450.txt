@@ -1,0 +1,8 @@
+Game-theoretic Resource Allocation for Malicious Packet -><title>
+Detection in Computer Networks -><title>
+Ondrˇej Vaneˇk†, Zhengyu Yin∗, Manish Jain∗, Branislav Bošanský†, -><author>
+Milind Tambe∗, Michal Peˇchoucˇek† -><author>
+† Faculty of Electrical Engineering, Czech Technical University, Prague. Czech Republic. -><affiliation>
+{vanek,bosansky,pechoucek}@agents.fel.cvut.cz -><email>
+∗ Computer Science Department, University of Southern California, Los Angeles, CA. USA. -><affiliation>
+{zhengyu.yin,manish.jain,tambe}@usc.edu -><email>

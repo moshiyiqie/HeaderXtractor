@@ -1,0 +1,6 @@
+Agent Community based Peer-to-Peer Information Retrieval -><title>
+Tsunenori Mine†, Daisuke Matsuno‡, Koichiro Takaki‡, and Makoto Amamiya† -><author>
+{Faculty†, Graduate School‡} of Information Science and Electrical Engineering, -><affiliation>
+Kyushu University, Japan -><address>
+6-1 Kasuga-koen, Kasuga, Fukuoka, Japan, 816-8580 -><address>
+{mine, matsuno, ktakaki, amamiya}@al.is.kyushu-u.ac.jp -><email>

@@ -1,0 +1,10 @@
+Planar Displays -><title>
+Shane Porter, Michael R. Marner, Ulrich Eck, Christian Sandor, Bruce H. Thomas -><author>
+Wearable Computer Lab -><affiliation>
+School of Computer and Information Science -><affiliation>
+University of South Australia -><affiliation>
++61 8 8302 3464 -><phone>
+{shane.porter, michael.marner}@postgrads.unisa.edu.au, ueck@net-labs.de, -><affiliation>
+{christian.sandor, bruce.thomas}@unisa.edu.au -><email>
+Figure 1. The real Rundle Lantern: a large-scale non-planar display (a). Using spatial augmented reality to project a texture on to -><abstract>
+a model of the Lantern (b). Playing an interactive game on the model using an iPod Touch (c). -><abstract>

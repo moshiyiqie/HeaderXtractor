@@ -1,0 +1,12 @@
+Mobile-driven Architecture for Managing Enterprise -><title>
+Security Policies -><title>
+Dongwan Shin -><author>
+Computer Science Department -><affiliation>
+New Mexico Tech -><address>
+Socorro, NM -><address>
+doshin@cs.nmt.edu -><email>
+William Claycomb -><author>
+Computer Science Department -><affiliation>
+New Mexico Tech -><address>
+Socorro, NM -><address>
+billc@nmt.edu -><email>

@@ -1,0 +1,20 @@
+A Domain-independent, Ontology-agnostic Approach to -><title>
+Leveraging Unstructured Data Sources -><title>
+Srini Ramaswamy -><author>
+Department of Computer Science -><affiliation>
+2801 S. University Avenue -><affiliation>
+Little Rock, AR 72204 -><address>
+(501) 569-8134 -><phone>
+srini@acm.org -><email>
+Christine Le -><author>
+Department of Computer Science -><affiliation>
+2801 S. University Avenue -><affiliation>
+Little Rock, AR 72204 -><address>
+(501) 252-1257 -><phone>
+cxle1@ualr.edu -><email>
+Coskun Bayrak -><author>
+Department of Computer Science -><affiliation>
+2801 S. University Avenue -><affiliation>
+Little Rock, AR 72204 -><address>
+(501) 569-8137 -><phone>
+cxbayrak@ualr.edu -><email>

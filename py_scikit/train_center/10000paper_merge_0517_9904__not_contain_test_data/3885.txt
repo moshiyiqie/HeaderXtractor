@@ -1,0 +1,6 @@
+Revisiting a Limit on Efficient Quantum Computation -><title>
+Tarsem S. Purewal Jr.∗ -><author>
+Department of Computer Science -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA 30602 -><address>
+purewal@cs.uga.edu -><email>

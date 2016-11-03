@@ -1,0 +1,6 @@
+Animated Specifications of Computational Societies -><title>
+Alexander Artikis1, Jeremy Pitt1 and Marek Sergot2 -><author>
+Imperial College of Science, Technology and Medicine -><affiliation>
+1Department of Electrical and Electronic Engineering, London SW7 2BT, UK -><affiliation>
+2Department of Computing, London SW7 2BZ, UK -><affiliation>
+{a.artikis, j.pitt}@ic.ac.uk, mjs@doc.ic.ac.uk -><email>

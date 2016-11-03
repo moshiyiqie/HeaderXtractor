@@ -1,0 +1,12 @@
+A logic of intention with cooperation principles and with -><title>
+assertive speech acts as communication primitives -><title>
+Andreas Herzig -><author>
+IRIT -><affiliation>
+118 route de Narbonne -><address>
+31062 Toulouse cedex 04, FRANCE -><address>
+Andreas.Herzig@irit.fr -><email>
+Dominique Longin ∗ -><email>
+IRIT -><affiliation>
+118 route de Narbonne -><address>
+31062 Toulouse cedex 04, FRANCE -><address>
+Dominique.Longin@irit.fr -><email>

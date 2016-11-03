@@ -1,0 +1,10 @@
+A Prototype for AUV Post-mission Debrief Generation from -><title>
+Metadata (Demonstration) -><title>
+Zhuoran Wang -><author>
+Toshiba Research Europe Ltd, -><affiliation>
+Cambridge, UK -><address>
+zhuoran.wang@crl.toshiba.co.uk -><email>
+Helen Hastie -><author>
+School of Mathematical and Computer Sciences, -><affiliation>
+Heriot-Watt University, Edinburgh, UK -><affiliation>
+h.hastie@hw.ac.uk -><email>

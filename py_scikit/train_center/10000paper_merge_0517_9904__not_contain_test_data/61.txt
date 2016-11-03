@@ -1,0 +1,6 @@
+Mutual Online Concept Learning for Multiple Agents -><title>
+Jun Wang Les Gasser -><author>
+Graduate School of Library and Information Science -><affiliation>
+University of Illinois at Urbana-Champaign -><affiliation>
+Champaign, IL 61820, USA -><address>
+{junwang4, gasser}@uiuc.edu -><email>

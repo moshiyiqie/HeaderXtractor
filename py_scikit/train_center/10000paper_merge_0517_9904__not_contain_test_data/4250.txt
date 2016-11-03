@@ -1,0 +1,14 @@
+Heavyweight or Lightweight: A Process Selection Guide -><title>
+for Developing Grid Software -><title>
+Cong Liu -><author>
+Auburn University -><affiliation>
+2113 Shelby Center -><address>
+Auburn, AL, 36849 -><address>
+(001)-334-844-6322 -><phone>
+liucong@auburn.edu -><email>
+David Umphress -><author>
+Auburn University -><affiliation>
+3031 Shelby Center -><address>
+Auburn, AL, 36849 -><address>
+(001)-334-844-8335 -><phone>
+david.umphress@auburn.edu -><email>

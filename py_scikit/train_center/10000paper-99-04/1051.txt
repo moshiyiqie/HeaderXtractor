@@ -1,0 +1,34 @@
+Principles for Designing Programming Exercises to -><title>
+Minimise Poor Learning Behaviours in Students -><title>
+lan Mitchell, Dick Gunstone -><author>
+Faculty of Education -><affiliation>
+Monash University, Australia -><affiliation>
+{ian.MitchelI,Dick.Gunstone}~ -><email>
+education.monash.edu.au -><email>
+Angela Carbone, John Humt -><author>
+Faculty of Information Technology -><affiliation>
+Monash University, Australia -><affiliation>
+{Angela.Carbone, ajh}@ -><email>
+Infotech.monash.edu.au -><email>
+Abst -><abstract>
+In most introductory programm/n~, courses tasks, are given -><abstract>
+to students to complete as a crucial part of their study. The -><abstract>
+m,~k~ are considered important because they require -><abstract>
+studems to apply their knowledge to new situations. -><abstract>
+However, often the tasks have not been considered as a -><abstract>
+vehicle that can direct learning behaviours in students. -><abstract>
+This paper aims to encourage academics to start thinking -><abstract>
+about the tasks they sot, in particular it explores -><abstract>
+characteristics of progr~, ...... :n~ m~k.~ that affect student -><abstract>
+learning and understanding in a first year undergraduate -><abstract>
+course as part of a degree in Computer Science at Monash -><abstract>
+University. Attention is paid to features of programming -><affiliation>
+tasks that led to three poor learning behaviom, s: Superficial -><abstract>
+Attention, Tmpulsive Attention and Staying Stuck. The -><abstract>
+data gathered for this study which descn'be the students' -><abstract>
+engagement in the tasks are provided by students and -><abstract>
+tutors. The paper concludes with a list of generic -><abstract>
+im -><abstract>
+prograrnmin~ exc -><abstract>
+behaviours in stm:lonts. -><abstract>
+1 I -><intro>

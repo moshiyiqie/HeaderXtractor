@@ -1,0 +1,12 @@
+Local Search for Distributed SAT with Complex Local -><title>
+Problems -><title>
+Katsutoshi Hirayama -><author>
+Kobe University of Mercantile Marine -><affiliation>
+5-1-1 Fukae-minami-machi, Higashinada-ku -><address>
+Kobe 658-0022, JAPAN -><address>
+hirayama@ti.kshosen.ac.jp -><email>
+Makoto Yokoo -><author>
+NTT Communication Science Laboratories -><affiliation>
+2-4 Hikaridai, Seika-cho, Soraku-gun -><address>
+Kyoto 619-0237, JAPAN -><address>
+yokoo@cslab.kecl.ntt.co.jp -><affiliation>

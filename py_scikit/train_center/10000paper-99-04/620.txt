@@ -1,0 +1,16 @@
+Abstract -><abstract>
+This article introduces a novel approach to the -><abstract>
+problem of collaborative planning. We present a method -><affiliation>
+that takes classical one-shot planning techniques - that -><abstract>
+take a fixed set of goals, initial state, and a domain -><abstract>
+theory - and adapts them to support the incremental, -><abstract>
+hierarchical and exploratory nature of collaborative -><affiliation>
+planning that occurs between human planners, and that -><abstract>
+multi-agent planning systems attempt to support. This -><abstract>
+approach is planner-independent - in that it could be -><abstract>
+applied to any classical planning technique - and recasts -><abstract>
+the problem of collaborative planning as a search -><affiliation>
+through a space of possible inputs to a classical plan- -><abstract>
+ning system. This article outlines the technique and -><abstract>
+describes its application to the Mission Rehearsal Ex- -><abstract>
+ercise, a multi-agent training system. -><abstract>

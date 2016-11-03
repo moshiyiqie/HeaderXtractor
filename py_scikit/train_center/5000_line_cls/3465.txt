@@ -1,0 +1,27 @@
+The Power of Swap Deals in Distributed Resource -><title>
+Allocation -><title>
+Aurélie Beynier -><author>
+Sorbonne Universités, UPMC -><affiliation>
+Univ Paris 06 -><address>
+CNRS, UMR 7606, LIP6 -><address>
+F-75005, Paris, France -><address>
+aurelie.beynier@lip6.fr -><email>
+Anastasia Damamme -><author>
+Sorbonne Universités, UPMC -><affiliation>
+Univ Paris 06 -><address>
+CNRS, UMR 7606, LIP6 -><address>
+F-75005, Paris, France -><address>
+anastasia.damamme.lip6.fr -><author>
+Yann Chevaleyre -><author>
+Université Paris 13, Sorbonne -><affiliation>
+Paris Cité -><address>
+LIPN, CNRS, UMR 7030 -><address>
+F-93430, Villetaneuse, France -><address>
+yann.chevaleyre@lipn.univ- -><email>
+paris13.fr -><email>
+Nicolas Maudet -><author>
+Sorbonne Universités, UPMC -><affiliation>
+Univ Paris 06 -><affiliation>
+CNRS, UMR 7606, LIP6 -><address>
+F-75005, Paris, France -><address>
+nicolas.maudet@lip6.fr -><email>

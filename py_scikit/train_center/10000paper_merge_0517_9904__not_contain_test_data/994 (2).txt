@@ -1,0 +1,19 @@
+An N-Tier Client/Server Course: A Classroom Experience -><title>
+Mario Guimaraes -><author>
+Kennesaw State University -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA -><address>
+770-420-4424 -><phone>
+mguimara@kennesaw.edu -><email>
+Ken Hoganson -><author>
+Kennesaw State University -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA -><address>
+770-499-3402 -><phone>
+khoganso@kennesaw.edu -><email>
+Tacksoo Im -><author>
+Kennesaw State University -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA -><address>
+770-423-6160 -><phone>
+tacksoo_im@charter.net -><email>

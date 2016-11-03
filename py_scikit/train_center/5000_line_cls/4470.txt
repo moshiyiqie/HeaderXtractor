@@ -1,0 +1,11 @@
+Dynamic Subset Selection for Multi-Camera Tracking -><title>
+Scott Spurlock -><author>
+UNC Charlotte -><affiliation>
+9201 University City Blvd. -><affiliation>
+Charlotte, NC 28223 -><address>
+sspurloc@uncc.edu -><email>
+Richard Souvenir -><author>
+UNC Charlotte -><affiliation>
+9201 University City Blvd. -><affiliation>
+Charlotte, NC 28223 -><address>
+souvenir@uncc.edu -><email>

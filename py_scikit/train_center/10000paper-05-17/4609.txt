@@ -1,0 +1,8 @@
+A Study of Querying Behaviour of Expert and Non-expert -><title>
+Users of Biomedical Search Systems -><title>
+Sadegh Kharazmi Sarvnaz Karimi -><author>
+RMIT University CSIRO -><affiliation>
+sadegh.kharazmi@rmit.edu.au sarvnaz.karimi@csiro.au -><email>
+Falk Scholer Adam Clark -><author>
+RMIT University Alfred Health -><affiliation>
+falk.scholer@rmit.edu.au a.clark@alfred.org.au -><email>

@@ -1,0 +1,8 @@
+Motion Tracking in Video Sequences Using -><title>
+Watershed Regions and SURF Features -><title>
+Jonathan Baran, John Gauch -><author>
+CSCE Department -><affiliation>
+University of Arkansas -><affiliation>
+Fayetteville AR 72701 -><address>
+(479) 575-6197 -><phone>
+jbaran@uark.edu, jgauch@uark.edu -><email>

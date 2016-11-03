@@ -1,0 +1,32 @@
+Optimization of the Multiple Retailer Supply Chain -><title>
+Management Problem -><title>
+Gerry Dozier -><author>
+Dept. of Computer Science -><affiliation>
+North Carolina A&T State University -><affiliation>
+Greensboro, NC 27411 -><address>
+(336) 334-7245 ext. 467 -><phone>
+gvdozier@ncat.edu -><email>
+Emmett Lodree -><author>
+Dept. of Industrial & Systems Eng. -><affiliation>
+3312 Shelby Center -><address>
+Auburn University, AL 36849-5346 -><affiliation>
+(334) 844-1433 -><phone>
+lodreej@eng.auburn.edu -><email>
+Caio Soares -><author>
+Dept. of Comp. Sci. & Soft. Eng. -><affiliation>
+3137 Shelby Center -><address>
+Auburn University, AL 36849-5347 -><affiliation>
+(334) 844-6333 -><phone>
+soarecv@auburn.edu -><email>
+Jared Phillips -><author>
+Dept. of Comp. Sci. & Soft. Eng. -><affiliation>
+Auburn University, AL 36849-5347 -><affiliation>
+philljr@auburn.edu -><email>
+Katie Nobles -><author>
+Dept. of Comp. Sci. & Soft. Eng. -><affiliation>
+Auburn University, AL 36849-5347 -><affiliation>
+noblekl@auburn.edu -><email>
+Yong won Park -><author>
+Dept. of Comp. Sci. & Soft. Eng. -><affiliation>
+Auburn University, AL 36849-5347 -><affiliation>
+parkyon@auburn.edu -><email>

@@ -1,0 +1,20 @@
+Inverse Functions in ACL2(r) -><title>
+John R. Cowles -><author>
+Department of Computer Science -><affiliation>
+University of Wyoming -><affiliation>
+Laramie, Wyoming -><address>
+cowles@cs.uwyo.edu -><email>
+Ruben Gamboa -><author>
+Department of Computer Science -><affiliation>
+University of Wyoming -><affiliation>
+Laramie, Wyoming -><address>
+ruben@cs.uwyo.edu -><email>
+Permission to make digital or hard copies of all or part of -><abstract>
+this work for personal or classroom use is granted without fee -><abstract>
+provided that copies are not made or distributed for profit or -><abstract>
+commercial advantage and that copies bear this notice and -><abstract>
+the full citation on the first page. To copy otherwise, to re- -><abstract>
+publish, to post on servers or to redistribute to lists, requires -><abstract>
+prior specific permission and/or a fee. -><abstract>
+ACL2’09, May 11–12, 2009, Boston, MA, USA -><note>
+Copyright c©2009 ACM 978-1-60558-742-4/09/05. . . $10.00 -><note>

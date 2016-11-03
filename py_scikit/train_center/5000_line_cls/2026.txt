@@ -1,0 +1,2 @@
+Extension of MC-net-based Coalition Structure Generation: -><title>
+Handling Negative Rules and Externalities -><title>

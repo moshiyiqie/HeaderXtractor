@@ -1,0 +1,20 @@
+Mutable Mapping: gradual re-routing of OSC control data -><title>
+as a form of artistic performance -><title>
+Anthony Steed -><author>
+University College London -><affiliation>
+Department of Computer Science -><affiliation>
+Gower Street, WC1E 6BT -><address>
++44 (020) 7679 4435 -><phone>
+a.steed@cs.ucl.ac.uk -><email>
+Beau Lotto -><author>
+University College London -><affiliation>
+Institute of Ophthalmology -><affiliation>
+11-43 Bath Street, EC1V 9EL -><address>
++44 (020) 7608 6800 -><phone>
+lotto@ucl.ac.uk -><email>
+Ilias Bergstrom -><intro>
+University College London -><affiliation>
+Institute of Ophthalmology -><affiliation>
+11-43 Bath Street, EC1V 9EL -><address>
++44 (020) 7608 6800 -><phone>
+i.bergstrom@ucl.ac.uk -><email>

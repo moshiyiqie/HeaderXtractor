@@ -1,0 +1,11 @@
+Locutions for argumentation in agent interaction protocols -><title>
+Peter McBurney -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, UK -><address>
+p.j.mcburney@csc.liv.ac.uk -><email>
+Simon Parsons -><author>
+Department of Computer & Information Science -><affiliation>
+Brooklyn College, City University of New York -><affiliation>
+Brooklyn NY 11210, USA -><address>
+parsons@sci.brooklyn.cuny.edu -><email>

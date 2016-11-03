@@ -1,0 +1,19 @@
+Scalable Mechanism Design for the -><affiliation>
+Procurement of Services with Uncertain Durations -><title>
+Kate Larson -><author>
+Cheriton School of CS -><affiliation>
+University of Waterloo -><affiliation>
+Waterloo, ON, Canada -><address>
+klarson@cs.uwaterloo.ca -><email>
+Alex Rogers -><author>
+& Nicholas R. Jennings -><author>
+School of ECS -><affiliation>
+University of Southampton -><affiliation>
+Southampton, SO17 1BJ, UK -><address>
+{acr,nrj}@ecs.soton.ac.uk -><email>
+Enrico Gerding -><author>
+& Sebastian Stein -><author>
+School of ECS -><affiliation>
+University of Southampton -><affiliation>
+Southampton, SO17 1BJ, UK -><address>
+{eg,ss2}@ecs.soton.ac.uk -><email>

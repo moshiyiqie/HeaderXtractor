@@ -1,0 +1,6 @@
+Eliciting Forecasts from Self-interested Experts: Scoring -><title>
+Rules for Decision Makers -><title>
+Craig Boutilier -><author>
+Department of Computer Science -><affiliation>
+University of Toronto, Toronto, CANADA -><affiliation>
+cebly@cs.toronto.edu -><email>

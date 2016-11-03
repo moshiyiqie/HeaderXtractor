@@ -1,0 +1,14 @@
+Foundations of Organizational Structures -><title>
+in Multiagent Systems -><title>
+Lambe`r Royakkers -><author>
+Eindhoven University of Technology -><affiliation>
+PO Box 513, 5600 MB -><address>
+Eindhoven, The Netherlands -><address>
+l.m.m.royakkers@tm.tue.nl -><email>
+Davide Grossi -><author>
+Frank Dignum -><author>
+Mehdi Dastani -><author>
+Utrecht University -><affiliation>
+PO Box 80.089, 3508TB -><address>
+Utrecht, The Netherlands -><address>
+{davide,dignum,mehdi}@cs.uu.nl -><email>

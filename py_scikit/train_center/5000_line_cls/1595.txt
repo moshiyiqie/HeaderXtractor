@@ -1,0 +1,13 @@
+Approximate Dynamic Programming with Affine ADDs -><title>
+Scott Sanner -><author>
+NICTA and ANU -><affiliation>
+Canberra, Australia -><address>
+ssanner@nicta.com.au -><email>
+Karina Valdivia Delgado -><author>
+University of Sao Paulo -><affiliation>
+Sao Paulo, Brazil -><address>
+kvd@ime.usp.br -><email>
+William Uther -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+William.Uther@nicta.com.au -><email>

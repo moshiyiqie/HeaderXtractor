@@ -1,0 +1,6 @@
+Tactical Operations of Multi-Robot Teams in Urban Warfare -><title>
+(Demonstration)∗ -><title>
+Peter Novák Antonín Komenda Viliam Lisý Branislav Bošanský -><author>
+Michal Cˇáp Michal Peˇchoucˇek -><author>
+Agent Technology Center, Dept. of Computer Science and Engineering, FEE -><affiliation>
+Czech Technical University in Prague, Czech Republic -><affiliation>

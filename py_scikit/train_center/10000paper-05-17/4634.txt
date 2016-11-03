@@ -1,0 +1,7 @@
+Sentiment Classification with Interpolated Information -><title>
+Diffusion Kernels -><title>
+Stephan Raaijmakers -><author>
+TNO Information and Communication Technology -><affiliation>
+Delft -><address>
+The Netherlands -><address>
+stephan.raaijmakers@tno.nl -><email>

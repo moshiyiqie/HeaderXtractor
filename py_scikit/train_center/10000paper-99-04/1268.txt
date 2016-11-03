@@ -1,0 +1,8 @@
+An Assistive Robotic Agent for Pedestrian Mobility -><title>
+Medical Automation Research Center -><author>
+University of Virginia Medical Center -><affiliation>
+UVA HSC Box 800168 -><address>
+Charlottesville, VA 22908 -><address>
+151 Engineers Way, P.O. Box 400740 -><address>
+University of Virginia -><affiliation>
+Charlottesville, VA 22904-4740 -><address>

@@ -1,0 +1,12 @@
+May -><title>
+Playmakers in Multiplayer Game Communities: -><title>
+Their Importance and Motivations for Participation -><title>
+Antti Salovaara1, Mikael Johnson2, Kalle Toiskallio2, Sauli Tiitta1, Marko Turpeinen1 -><author>
+1Helsinki Institute for Information Technology -><affiliation>
+2SoberIT, Helsinki University of Technology -><affiliation>
+P.O.Box 9210 -><address>
+FIN-02015 HUT, Finland -><address>
+{mikael.johnson,kalle.toiskallio}@hut.fi -><email>
+P.O.Box 9800 -><note>
+FIN-02015 HUT, Finland -><address>
+{antti.salovaara,sauli.tiitta,marko.turpeinen}@hiit.fi -><email>

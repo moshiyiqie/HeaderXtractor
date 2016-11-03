@@ -1,0 +1,19 @@
+A Self-Testing Autonomic Job Scheduler -><title>
+Tariq M. King -><author>
+School of Computing and -><affiliation>
+Information Sciences -><affiliation>
+Florida International University -><affiliation>
+Miami, FL 33199 -><address>
+tking003@cis.fiu.edu -><email>
+Barbara Morales -><author>
+Department of Computer -><affiliation>
+Engineering -><affiliation>
+University of Puerto Rico -><affiliation>
+Mayaguez, PR 00681-9000 -><address>
+bmq21964@uprm.edu -><email>
+Alain E. Ramirez -><author>
+School of Computing and -><affiliation>
+Information Sciences -><affiliation>
+Florida International University -><affiliation>
+Miami, FL 33199 -><address>
+aeste010@cis.fiu.edu -><email>

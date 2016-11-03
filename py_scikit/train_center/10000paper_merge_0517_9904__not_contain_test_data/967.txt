@@ -1,0 +1,14 @@
+Using Training Regimens to Teach Expanding -><title>
+Function Approximators -><title>
+Arya J. Irani -><author>
+arya@cc.gatech.edu -><email>
+Peng Zang -><author>
+pengzang@cc.gatech.edu -><email>
+Peng Zhou -><author>
+pzhou6@cc.gatech.edu -><email>
+Charles L. Isbell Jr. -><author>
+isbell@cc.gatech.edu -><email>
+Andrea L. Thomaz -><author>
+athomaz@cc.gatech.edu -><email>
+Georgia Institute of Technology, College of Computing -><affiliation>
+801 Atlantic Dr., Atlanta, GA 30332 -><address>

@@ -1,0 +1,11 @@
+Multi-UAV Motion Planning for Guaranteed Search -><title>
+Alexander Kleiner -><author>
+Dept. of Computer and Information Science -><affiliation>
+Linköping University -><affiliation>
+Linköping, Sweden -><address>
+alexander.kleiner@liu.se -><email>
+Andreas Kolling -><author>
+Dept. of Computer and Information Science -><affiliation>
+Linköping University -><affiliation>
+Linköping, Sweden -><address>
+andreas.kolling@liu.se -><email>

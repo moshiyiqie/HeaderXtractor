@@ -1,0 +1,6 @@
+Communicative -><title>
+Distributed -><title>
+Mariusz -><author>
+Department -><affiliation>
+University -><affiliation>
+PO -><affiliation>

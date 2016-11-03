@@ -1,0 +1,10 @@
+Automated Resource-Driven Mission Phasing Techniques -><title>
+for Constrained Agents -><title>
+Edmund H. Durfee -><author>
+EECS Department, University of Michigan -><affiliation>
+Ann Arbor, MI 48109 USA -><address>
+durfee@umich.edu -><email>
+Jianhui Wu -><author>
+EECS Department, University of Michigan -><affiliation>
+Ann Arbor, MI 48109 USA -><address>
+jianhuiw@umich.edu -><email>

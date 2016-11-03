@@ -1,0 +1,5 @@
+Supervised Morphogenesis – Morphology Control of -><title>
+Ground-based Self-Assembling Robots by Aerial Robots -><title>
+Nithin Mathews, Alessandro Stranieri, Alexander Scheidler, Marco Dorigo -><author>
+IRIDIA, CoDE, Université Libre de Bruxelles, Brussels, Belgium -><affiliation>
+{nmathews,astranie,ascheidler,mdorigo}@ulb.ac.be -><email>

@@ -1,0 +1,11 @@
+Architecting Agents Using Core Competencies -><title>
+K. S. Barber and D. N. Lam -><author>
+The Laboratory for Intelligent Processes and Systems -><affiliation>
+The University of Texas at Austin -><affiliation>
+201 East 24th St., ACES 5.402, Austin, TX 78712 -><address>
+1-512-471-5350 -><phone>
+barber@mail.utexas.edu -><email>
+Categories and Subject Descriptors -><note>
+D.2.1 [Requirements/Specification]: Methodologies; -><note>
+D.2.2 [Design Tools and Techniques]: CASE -><note>
+General Terms: Design -><note>

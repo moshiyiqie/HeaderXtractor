@@ -1,0 +1,8 @@
+Interactive Storybook -><title>
+Sami Kauppinen1.1,Satu Luojus1, Julius Tuomisto2, and Anu Ahlgren1 -><author>
+1Laurea University of Applied Sciences, -><affiliation>
+2Delicode Ltd -><affiliation>
+Vanha Maantie 9, FI-02650 Espoo, Finland -><address>
+{firstname.surname}@laurea.fi -><email>
+Kehruutie 1 LH 2, FI-00410 Helsinki, Finland -><address>
+julius.tuomisto@delicode.fi -><email>

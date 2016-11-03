@@ -1,0 +1,6 @@
+Opponent-Driven Planning and Execution for Pass, Attack, -><title>
+and Defense in a Multi-Robot Soccer Team -><title>
+Joydeep Biswas, Juan P. Mendoza, Danny Zhu, Benjamin Choi, Steven Klee, Manuela Veloso -><author>
+joydeepb@ri.cmu.edu, jpmendoza@ri.cmu.edu, dannyz@cs.cmu.edu, -><email>
+benchoi@cmu.edu, sdklee@cmu.edu, veloso@cmu.edu -><email>
+Robotics Institute and Computer Science Department, Carnegie Mellon University, Pittsburgh, USA -><affiliation>

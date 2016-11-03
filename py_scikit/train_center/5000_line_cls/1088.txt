@@ -1,0 +1,11 @@
+ABSTRACT -><abstract>
+Models of human behaviours used in multi-agent simulations are -><abstract>
+limited by the ability of introspection of the social actors: some of -><abstract>
+their knowledge (reflexes, habits, non-formalized expertise) -><abstract>
+cannot be extracted through interviews. In this paper, we propose -><abstract>
+an artificial maieutic approach to extract such pieces of -><abstract>
+knowledge, by helping the actors to better understand, and -><abstract>
+sometimes formulate, their own behaviours. We present here the -><abstract>
+first results using two complementary works in social simulations, -><abstract>
+one in the domain of air traffic control and one in the domain of -><abstract>
+common-pool resources sharing. -><abstract>

@@ -1,0 +1,15 @@
+Incorporating Global and Local Knowledge in Intentional -><title>
+Narrative Planning -><title>
+Jonathan Teutenberg -><author>
+jono.teutenberg@gmail.com -><email>
+Julie Porteous -><author>
+Teesside University -><affiliation>
+Middlesbrough, UK -><address>
+j.porteous@tees.ac.uk -><email>
+Categories and Subject Descriptors -><note>
+H.5.1 [Multimedia Information Systems]: Artificial, Augmented -><unknow>
+and Virtual Realities -><unknow>
+General Terms -><title>
+Algorithms, Performance -><keyword>
+Keywords -><keyword>
+Virtual Agents; Interactive Storytelling; Planning -><keyword>

@@ -1,0 +1,34 @@
+SAFEPED: Agent-Based Environment for Estimating -><title>
+Accident Risks at the Road Black Spots (Demonstration) -><title>
+Gennady Waizman -><author>
+Department of Geography and Human Environment, -><affiliation>
+Tel Aviv University -><affiliation>
+Ramat Aviv, Tel Aviv, 69978, Israel -><address>
++972-54-2012193 -><phone>
+gennadyw@post.tau.ac.il -><email>
+Itzhak Benenson -><author>
+Department of Geography and Human Environment, -><affiliation>
+Tel Aviv University -><affiliation>
+Ramat Aviv, Tel Aviv, 69978, Israel -><address>
++972-3-6409896 -><phone>
+bennya@post.tau.ac.il -><email>
+A -><abstract>
+The data on traffic accidents clearly point to the "Black Spots", -><abstract>
+where the accident rate remains high in months and years. -><abstract>
+However, road safety research is still far from understanding why -><abstract>
+this certain place on a road is risky. We tackle the problem by -><abstract>
+developing SAFEPED, multi agent microscopic 3D simulation of -><abstract>
+Categories and Subject Descriptors -><keyword>
+I.6.5 Computing Methodologies, Simulation and modeling, Model -><keyword>
+Development -><keyword>
+General Terms -><keyword>
+Algorithms, Design, Reliability, Experimentation, Human Factors, -><keyword>
+Standardization -><keyword>
+K -><keyword>
+Traffic accidents, Black Spot, agent-based modeling, spatially- -><keyword>
+explicit modeling -><keyword>
+1. IN -><note>
+Police data on the number of traffic accidents clearly point to the -><note>
+"Black Spots", where the accident rate remains high in months and -><note>
+years. However, road safety research is still far from understanding -><note>
+why certain road locations are risky. -><note>

@@ -1,0 +1,6 @@
+P2P -><pubnum>
+on -><title>
+Tadachika -><author>
+Department -><affiliation>
+Gokiso-cho, -><address>
+{ozono,shoji,fujimaki,tora}@ics.nitech.ac.jp -><email>

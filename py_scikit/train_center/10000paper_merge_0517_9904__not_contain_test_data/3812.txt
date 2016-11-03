@@ -1,0 +1,24 @@
+Developing a Universally Accessible Web Portal for -><title>
+Traditional and Distance Learning Versions of a Computer -><title>
+Literacy Course: An Auburn University Case Study -><affiliation>
+Daniela Marghitu -><author>
+Department of Computer Science -><affiliation>
+and Software Engineering -><affiliation>
+109C Dunstan Hall -><address>
+Auburn University, Auburn AL -><affiliation>
+36849 USA -><address>
+daniela@auburn.edu -><email>
+Kai Chang -><author>
+Department of Computer Science -><affiliation>
+and Software Engineering -><affiliation>
+103C Dunstan Hall -><address>
+Auburn University, Auburn AL -><affiliation>
+36849 USA -><address>
+kchang@auburn.edu -><email>
+Chris Harmon -><author>
+Department of Computer Science -><affiliation>
+and Software Engineering -><affiliation>
+104 Shop Building -><address>
+Auburn University, Auburn AL -><affiliation>
+36849 USA -><address>
+harmoch@auburn.edu -><email>

@@ -1,0 +1,9 @@
+Norm-Oriented Programming of Electronic Institutions∗ -><title>
+W. Vasconcelos -><author>
+Dept. of Computing Science, University of Aberdeen, -><affiliation>
+Aberdeen AB24 3UE, United Kingdom -><address>
+wvasconcelos@acm.org -><email>
+A. Garcı´a-Camino, -><email>
+J.-A. Rodrı´guez-Aguilar, C. Sierra -><email>
+IIIA-CSIC, Campus UAB, 08193 Bellaterra, Spain -><address>
+{andres, jar, sierra}@iiia.csic.es -><email>

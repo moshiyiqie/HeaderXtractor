@@ -1,0 +1,34 @@
+Migrating Artificial Companions -><title>
+(Demonstration) -><title>
+Iain Wallace, Michael Kriegel, Ruth Aylett -><author>
+Heriot-Watt University -><affiliation>
+Edinburgh, UK -><address>
+{I.Wallace,M.Kriegel,R.S.Aylett}@hw.ac.uk -><email>
+A -><unknow>
+Migration is the ability of an agent to transfer from one -><abstract>
+embodiment, for example a robot, to another such as a mobile -><abstract>
+phone. For agents that are to act as personal companions -><abstract>
+migration is desirable as access to different capabilities can -><abstract>
+provide more constant companionship to a user. This interactive -><abstract>
+demonstration of screen to phone migration illustrates one -><abstract>
+application of the open-source architecture developed on the -><abstract>
+LIREC project to support migration of an affective agent across -><abstract>
+many types of embodiment. -><abstract>
+Categories and Subject Descriptors -><note>
+I.2.11 [A -><note>
+General Terms -><keyword>
+Design, Experimentation, Human Factors. -><keyword>
+K -><keyword>
+Intelligence for human-robot interaction, Middleware for robot -><keyword>
+systems, Affect and personality, Migration. -><keyword>
+1. IN -><note>
+The LIREC project1 (Living with Robots and intEractive -><note>
+Characters) investigates long term interaction that combines work -><note>
+on the integration of robots into human social environments with -><abstract>
+that of virtual agents. It combines the development of an -><abstract>
+innovative agent framework and user studies in an attempt to -><abstract>
+carry out experiments to guide the design of social agents that can -><abstract>
+play an acceptable long-term role. Both social robots and virtual -><abstract>
+agents are embodied, the former physically and the later virtually. -><abstract>
+Physical embodiment raises still unsolved engineering problems -><abstract>
+of power sources, mobility and localisation that typically limit the -><abstract>

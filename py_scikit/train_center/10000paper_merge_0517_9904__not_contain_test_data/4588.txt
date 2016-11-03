@@ -1,0 +1,12 @@
+Efficient Indexing Algorithms for Approximate Pattern -><title>
+Matching in Text -><title>
+J. Shane Culpepper -><author>
+School of of CS&IT -><affiliation>
+RMIT University and NICTA VRL -><affiliation>
+Melbourne, Victoria, 3000 -><address>
+shane.culpepper@rmit.edu.au -><email>
+Matthias Petri -><author>
+School of of CS&IT -><affiliation>
+RMIT University and NICTA VRL -><affiliation>
+Melbourne, Victoria, 3000 -><address>
+matthias.petri@rmit.edu.au -><email>

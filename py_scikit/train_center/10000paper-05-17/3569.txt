@@ -1,0 +1,17 @@
+A Distributed and Collaborative Scheme for Mitigating -><affiliation>
+Coexistence in IEEE 802.15.4 Based WBANs -><affiliation>
+Mohammad Deylami -><title>
+Emil Jovanov -><author>
+Department of Electrical and Computer Engineering -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+md0010@uah.edu -><email>
+Department of Electrical and Computer Engineering -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+emil.jovanov@uah.edu -><email>
+Permission to make digital or hard copies of all or part of this work for -><note>
+personal or classroom use is granted without fee provided that copies are -><note>
+not made or distributed for profit or commercial advantage and that copies -><note>
+bear this notice and the full citation on the first page. To copy otherwise, -><note>
+or republish, to post on servers or to redistribute to lists, requires prior -><note>
+specific permission and/or a fee. -><note>
+Copyright 2012 ACM 978-1-4503-1203-5/12/03...$10.00. -><note>

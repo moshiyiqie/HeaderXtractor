@@ -1,0 +1,20 @@
+"structured creature": -><title>
+A Prototype of Moving Space Structure -><title>
+Yosuke Ushigome -><author>
+The University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku -><address>
+Tokyo, Japan -><address>
+ushi@cyber.t.u- -><email>
+tokyo.ac.jp -><email>
+Kunihiro Nishimura -><author>
+The University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku -><address>
+Tokyo, Japan -><address>
+kuni@cyber.t.u- -><email>
+tokyo.ac.jp -><email>
+Michitaka Hirose -><author>
+The University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku -><address>
+Tokyo, Japan -><address>
+hirose@cyber.t.u- -><email>
+tokyo.ac.jp -><web>

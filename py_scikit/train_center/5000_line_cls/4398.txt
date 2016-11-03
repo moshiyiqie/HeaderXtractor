@@ -1,0 +1,10 @@
+Targeting FPGA-based Processors for an -><title>
+Implementation-Driven Compiler Construction Course -><title>
+∗ -><title>
+D. Brian Larkins -><author>
+and William M. Jones -><author>
+Department of Computer Science -><affiliation>
+Coastal Carolina University -><affiliation>
+P.O. Box 261954 -><address>
+Conway, SC 29528-6054 -><address>
+{blarkins, wjones}@coastal.edu -><email>

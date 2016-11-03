@@ -1,0 +1,12 @@
+Efficient Dynamic Spectrum Access in Vehicular Networks -><title>
+using Filterbank Multicarrier -><title>
+Sriram N. Premnath -><author>
+Sneha K. Kasera -><author>
+School of Computing -><affiliation>
+University of Utah -><affiliation>
+{nandha, kasera}@cs.utah.edu -><email>
+Behrouz Farhang-Boroujeny -><unknow>
+Neal Patwari -><author>
+Dept. of Electrical & Computer Engineering -><affiliation>
+University of Utah -><affiliation>
+{farhang, npatwari}@ece.utah.edu -><email>

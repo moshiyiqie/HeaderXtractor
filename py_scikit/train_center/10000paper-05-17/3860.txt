@@ -1,0 +1,19 @@
+Density-based Multipath Secure Communication over -><title>
+Mobile Ad Hoc Networks -><title>
+Jyh-haw Yeh -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Boise State University, Biose, -><affiliation>
+Idaho 83725 -><date>
+Lei Chen -><author>
+Department of Computer -><affiliation>
+Science and Software -><affiliation>
+Engineering -><affiliation>
+Auburn University, Auburn, AL -><affiliation>
+36830 -><pubnum>
+Chung-wei Lee -><author>
+Department of Computer -><affiliation>
+Science and Software -><affiliation>
+Engineering -><affiliation>
+Auburn University, Auburn, AL -><affiliation>
+36830 -><date>

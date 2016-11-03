@@ -1,0 +1,3 @@
+A Model of CPS Translation and Interpretation -><title>
+Ramon Zatarain R. Stansifer -><author>
+rzatarain@itculiacan.edu.mx, ryan@cs.fit.edu -><email>

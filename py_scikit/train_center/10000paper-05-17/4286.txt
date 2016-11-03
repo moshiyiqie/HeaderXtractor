@@ -1,0 +1,7 @@
+Heap Taichi: Exploiting Memory Allocation Granularity in -><title>
+Heap-Spraying Attacks -><title>
+Yu Ding1,2, Tao Wei1,2∗, TieLei Wang1,2, Zhenkai Liang3, Wei Zou1,2, -><author>
+1Institute of Computer Science and Technology, Peking University -><affiliation>
+2Key Laboratory of Network and Software Security Assurance(Peking University), -><affiliation>
+Ministry of Education, Beijing 100871, China -><address>
+3Department of Computer Science, School of Computing, National University of Singapore -><affiliation>

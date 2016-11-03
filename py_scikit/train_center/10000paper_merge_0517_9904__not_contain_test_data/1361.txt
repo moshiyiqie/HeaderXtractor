@@ -1,0 +1,6 @@
+Agents vs. Pirates: Multi-Agent Simulation and -><title>
+Optimization to Fight Maritime Piracy -><title>
+Michal Jakob, Ondrˇej Vaneˇk, Ondrˇej Hrstka and Michal Peˇchoucˇek -><author>
+Agent Technology Center, Faculty of Electrical Engineering, Czech Technical University in Prague -><affiliation>
+Technicka 2, Praha 6, Czech Republic -><address>
+{jakob, vanek, hrstka, pechoucek}@agents.fel.cvut.cz -><email>

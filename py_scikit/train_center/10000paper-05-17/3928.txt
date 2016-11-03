@@ -1,0 +1,12 @@
+Conceptual Modeling of Service Composition using -><title>
+Aggregation and Specialization Relationships -><title>
+Vicente Pelechano -><author>
+DSIC-Technical University of Valencia -><affiliation>
+Camino de Vera s/n 46022 Valencia, Spain -><address>
+(+34) 96 387 73 50 -><phone>
+pele@dsic.upv.es -><email>
+Ricardo Quintero -><author>
+DSIC-Technical University of Valencia -><affiliation>
+Camino de Vera s/n. 46022 Valencia, Spain -><address>
+(+34) 96 387 73 50 -><phone>
+iscrquinter@dsic.upv.es -><email>

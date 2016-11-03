@@ -1,0 +1,19 @@
+MySQL and The Trouble with Temporal Data -><title>
+Chad Vicknair -><author>
+Department of Computer and -><affiliation>
+Information Sciences -><affiliation>
+University of Mississippi -><affiliation>
+University, MS 38655 -><affiliation>
+cmvickna@cs.olemiss.edu -><email>
+Dawn Wilkins -><author>
+Department of Computer and -><affiliation>
+Information Sciences -><affiliation>
+University of Mississippi -><affiliation>
+University, MS 38655 -><affiliation>
+dwilkins@cs.olemiss.edu -><email>
+Yixin Chen -><author>
+Department of Computer and -><affiliation>
+Information Sciences -><affiliation>
+University of Mississippi -><affiliation>
+University, MS 38655 -><affiliation>
+ychen@cs.olemiss.edu -><email>

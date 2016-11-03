@@ -1,0 +1,17 @@
+Anytime Algorithm for Agent-mediated Merchant -><title>
+,Information Gathering -><title>
+X.F. Wang -><author>
+Department of Electronic and -><affiliation>
+Computer Engineering -><affiliation>
+Carnegie Mellon University -><affiliation>
+xiaofeng @cs.cmu.edu -><email>
+S.C. Zhang -><author>
+School of Computing -><affiliation>
+National University of -><affiliation>
+Singapore -><address>
+zhangsc @ nus.edu.sg -><email>
+P.K. Khosla H. Kiliccote -><author>
+Institute of Complex -><affiliation>
+Engineered Systems -><affiliation>
+Carnegie Mellon University -><affiliation>
+(pkk,kiliccote) @ cs.cmu.edu -><email>

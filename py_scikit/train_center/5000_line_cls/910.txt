@@ -1,0 +1,5 @@
+Bilateral Bargaining in a One-to-Many Bargaining Setting -><title>
+Enrico Gerding∗, Koye Somefun∗, Han La Poutre´∗,† -><author>
+∗CWI, Centre for Mathematics and Computer Science, Amsterdam, The Netherlands. -><affiliation>
+†School of Technology Management, Eindhoven Univ. of Technology, Eindhoven, The Netherlands. -><affiliation>
+E-mail: {egerding, koye, hlp}@cwi.nl. -><email>

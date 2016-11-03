@@ -1,0 +1,11 @@
+The Security of Cryptographic Hashes -><title>
+Svetlana Peltsverger -><author>
+Department of Information Technology -><affiliation>
+Southern Polytechnic State University -><affiliation>
+Marietta, GA -><address>
+speltsve@spsu.edu -><email>
+Chad Teat -><author>
+Lead System Administrator -><affiliation>
+Hewlett Packard Enterprise Services -><affiliation>
+Athens, GA -><address>
+cteat@spsu.edu -><email>

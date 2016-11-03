@@ -1,0 +1,12 @@
+Just-In-Time Information Sharing Architectures in -><title>
+Multiagent Systems -><title>
+Stephen Marsh -><author>
+Institute for Information Technology -><affiliation>
+National Research Council -><affiliation>
+Ottawa, ON, K1A 0R6, Canada -><address>
+steve.marsh@nrc.ca -><email>
+Jonathan Carter and Ali A. Ghorbani -><author>
+Faculty of Computer Science -><affiliation>
+University of New Brunswick -><affiliation>
+Fredericton, NB, E3B 5A3, Canada -><address>
+{s4h08, ghorbani@unb.ca} -><email>

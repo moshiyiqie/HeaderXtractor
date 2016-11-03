@@ -1,0 +1,12 @@
+Finding the Pareto Curve in Bimatrix Games is Easy -><title>
+Nicola Gatti -><author>
+Politecnico di Milano -><affiliation>
+Piazza Leonardo da Vinci 32 -><affiliation>
+Milano, Italy -><address>
+ngatti@elet.polimi.it -><email>
+Tuomas Sandholm -><author>
+Carnegie Mellon University -><affiliation>
+Computer Science Department -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213, USA -><address>
+sandholm@cs.cmu.edu -><email>

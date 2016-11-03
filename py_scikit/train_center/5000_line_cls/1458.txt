@@ -1,0 +1,18 @@
+Efficient Agent-Based Models for Non-Genomic Evolution -><title>
+Kagan Tumer -><author>
+NASA Ames Research Center -><affiliation>
+Mailstop 269-4 -><address>
+Moffett Field, CA 94035, USA -><address>
+ktumer@mail.arc.nasa.gov -><email>
+Adrian Agogino -><email>
+UC Santa Cruz -><author>
+NASA Ames Research Center -><affiliation>
+Mailstop 269-3 -><address>
+Moffett Field, CA 94035, USA -><address>
+adrian@email.arc.nasa.gov -><email>
+Nachi Gupta -><unknow>
+Oxford Univ., Computing Lab -><affiliation>
+Numerical Analysis Group -><affiliation>
+Wolfson Building, Parks Road -><address>
+Oxford, OX1 3QD, UK -><address>
+nachi@comlab.ox.ac.uk -><affiliation>

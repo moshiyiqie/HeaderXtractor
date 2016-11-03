@@ -1,0 +1,9 @@
+Integrating Digital Logic Design and Assembly -><title>
+Programming Using FPGAs in the Classroom -><title>
+∗ -><title>
+William M. Jones -><author>
+and D. Brian Larkins -><author>
+Department of Computer Science and Information Systems -><affiliation>
+Coastal Carolina University -><affiliation>
+P.O. Box 261954, Conway, SC 29528-6054 -><address>
+{wjones, blarkins}@coastal.edu -><email>

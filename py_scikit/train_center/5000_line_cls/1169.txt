@@ -1,0 +1,6 @@
+An Adaptive Solution to Dynamic Transport Optimization -><title>
+Klaus Dorer and Monique Calisti -><author>
+Whitestein Technologies AG -><affiliation>
+Pestalozzistrasse 24 -><address>
+8032 Zu¨rich, Switzerland -><address>
+{kdo,mca}@whitestein.com -><email>

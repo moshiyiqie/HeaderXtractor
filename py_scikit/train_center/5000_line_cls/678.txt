@@ -1,0 +1,15 @@
+Strategy/False-name -><title>
+Procurement -><title>
+Takayuki -><title>
+Makoto -><title>
+Graduate -><title>
+NTT -><title>
+and -><title>
+NTT -><title>
+2-4 -><author>
+6-10-1 -><pubnum>
+Fukuoka, -><address>
+Kyoto, -><email>
+suyama@cslab.kecl.ntt.co.jp -><affiliation>
+www.kecl.ntt.co.jp/csl/ccrg/members/suyama/ -><email>
+yokoo@is.kyushu-u.ac.jp -><email>

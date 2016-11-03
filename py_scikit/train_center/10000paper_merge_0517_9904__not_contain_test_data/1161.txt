@@ -1,0 +1,12 @@
+From Body Space to Interaction Space - Modeling Spatial -><title>
+Cooperation for Virtual Humans -><title>
+Nhung Nguyen -><author>
+Artificial Intelligence Group -><affiliation>
+Faculty of Technology, Bielefeld University -><affiliation>
+33594 Bielefeld, Germany -><address>
+nnguyen@techfak.uni-bielefeld.de -><email>
+Ipke Wachsmuth -><author>
+Artificial Intelligence Group -><affiliation>
+Faculty of Technology, Bielefeld University -><affiliation>
+33594 Bielefeld, Germany -><address>
+ipke@techfak.uni-bielefeld.de -><email>

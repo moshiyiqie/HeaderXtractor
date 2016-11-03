@@ -1,0 +1,13 @@
+Dependence Theory via Game Theory -><title>
+Paolo Turrini -><author>
+Department of Information and Computing -><affiliation>
+Sciences; Utrecht University -><affiliation>
+Padualaan 14, 3584CH -><address>
+Utrecht, The Netherlands -><address>
+paolo@cs.uu.nl -><email>
+Davide Grossi -><author>
+Institute for Logic, Language and Computation; -><affiliation>
+University of Amsterdam -><affiliation>
+Science Park 904, 1098 XH -><address>
+Amsterdam, The Netherlands -><address>
+d.grossi@uva.nl -><email>

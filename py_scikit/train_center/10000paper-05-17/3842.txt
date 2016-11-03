@@ -1,0 +1,23 @@
+Understanding Without Formality: augmenting speech -><title>
+recognition to understand informal verbal commands -><title>
+Lee McCauley -><author>
+Steve Daily -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Memphis -><affiliation>
+Memphis, TN 38152 -><address>
++1 901 678 1690 -><phone>
+sdmello@memphis.edu -><email>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Memphis -><affiliation>
+Memphis, TN 38152 -><address>
++1 901 678 1690 -><phone>
+sdaily@memphis.edu -><email>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Memphis -><affiliation>
+374 Dunn Hall -><address>
+Memphis, TN 38152 -><address>
++1 901 678 2486 -><phone>
+mccauley@memphis.edu -><email>

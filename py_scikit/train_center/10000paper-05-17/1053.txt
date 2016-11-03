@@ -1,0 +1,12 @@
+Deploying Power Grid-Integrated Electric Vehicles as a -><title>
+Multi-Agent System -><title>
+Keith S. Decker -><author>
+Dept. of Computer and Information Sciences -><affiliation>
+University of Delaware -><affiliation>
+Newark, DE 19716 -><address>
+decker@cis.udel.edu -><email>
+Sachin Kamboj, Willett Kempton -><author>
+Center for Carbon-Free Power Integration -><affiliation>
+University of Delaware -><affiliation>
+Newark, DE 19716 -><address>
+{skamboj, willett}@udel.edu -><email>

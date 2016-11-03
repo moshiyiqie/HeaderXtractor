@@ -1,0 +1,11 @@
+Risk-Sensitive Planning in Partially Observable -><title>
+Environments -><title>
+Pradeep Varakantham -><author>
+Singapore Management University -><affiliation>
+Singapore, 207855 -><address>
+pradeepv@smu.edu.sg -><email>
+Janusz Marecki -><author>
+IBM T.J. Watson Research Center -><affiliation>
+1101 Kitchawan Road, Route 134 -><address>
+Yorktown Heights, NY 10598 -><address>
+marecki@us.ibm.com -><email>

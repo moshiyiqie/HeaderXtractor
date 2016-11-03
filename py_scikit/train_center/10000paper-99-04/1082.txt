@@ -1,0 +1,6 @@
+Using a Multiple View System in a Virtual Environment -><title>
+to Explore and Interpret Communication Data Sets -><title>
+Andr~ Hinkenjann -><author>
+GMD, Department of Virtual Environments -><affiliation>
+Sankt Augustin,Germany -><address>
+Andre.Hinkenjann@gmd.de -><email>

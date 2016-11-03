@@ -1,0 +1,7 @@
+The ABC of Rational Agent Modelling -><title>
+Michael Fisher Chiara Ghidini -><author>
+Logic and Computation Group -><affiliation>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, United Kingdom -><address>
+mdf(|)chiara@csc.liv.ac.uk -><email>

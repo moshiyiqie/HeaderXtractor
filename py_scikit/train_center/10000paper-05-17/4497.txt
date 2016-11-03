@@ -1,0 +1,15 @@
+Monitoring -><title>
+Electromagnetic -><title>
+Virtual MIMO Wireless Sensor Network -><title>
+Weidong Yi -><author>
+Wireless Sensor Network Laboratory -><affiliation>
+Graduate University -><affiliation>
+Lanbo Liu -><author>
+Department of Civil & Environmental -><affiliation>
+Engineering -><affiliation>
+University of Connecticut -><affiliation>
+Storrs, CT 06269, USA -><address>
+e-mail: lanbo@engr.uconn.edu -><email>
+of Sciences -><note>
+Beijing, 100049, PRC -><note>
+e-mail: weidong@gucas.ac.cn -><email>

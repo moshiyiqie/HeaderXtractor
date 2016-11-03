@@ -1,0 +1,23 @@
+135 -><pubnum>
+A Comparative Study of ICA Algorithms for ECG Signal -><title>
+Processing -><title>
+Francis Li -><author>
+University of Salford -><affiliation>
+School of Computing -><affiliation>
+Greater Manchester M5 4WT -><address>
++44- 0161 295 5462 -><phone>
+m.sarfraz@salford.ac.uk -><email>
+Mohammad Javed -><email>
+MIT, Modinagar -><keyword>
+NCR Knowledge Park, Modinagar- -><keyword>
+201204 (UP) -><pubnum>
++91-9810440921 -><pubnum>
+javed.ip@gmail.com -><email>
+Mohammad Sarfraz -><author>
+University of Salford -><affiliation>
+School of Computing -><affiliation>
+Greater Manchester M5 4WT -><address>
++44- 0161 295 5462 -><phone>
+F.F.Li@salford.ac.uk -><email>
+Page -><author>
+135 -><pubnum>

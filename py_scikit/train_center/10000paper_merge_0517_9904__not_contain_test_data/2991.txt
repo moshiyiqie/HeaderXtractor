@@ -1,0 +1,7 @@
+Performance of Input Devices in FPS Target Acquisition -><title>
+1. LITA, University Paul Verlaine - Metz -><author>
+57045 METZ CEDEX 1, France -><address>
+benoit.martin@univ-metz.fr -><email>
+2. TAUCHI, Department of Computer Sciences, -><affiliation>
+FIN-33014 University of Tampere, Finland -><affiliation>
+poika@cs.uta.fi -><email>

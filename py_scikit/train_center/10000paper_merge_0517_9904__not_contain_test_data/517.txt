@@ -1,0 +1,11 @@
+A Standards-Based Agent Framework for Instantiating -><title>
+Adaptive Agents -><title>
+Riza Cenk Erdur -><author>
+Computer Eng. Dept., Ege University -><affiliation>
+Computer Eng. Dept., Ege University -><affiliation>
+Turkey. -><address>
++ 90 232 3887221 - 216 -><phone>
+erdur@bornova.ege.edu.tr -><email>
+Turkey. -><address>
++ 90 232 3887221 - 236 -><phone>
+oguzd@staff.ege.edu.tr -><email>

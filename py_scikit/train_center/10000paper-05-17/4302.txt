@@ -1,0 +1,6 @@
+Detecting and Resolving Privacy Conﬂicts for -><title>
+Collaborative Data Sharing in Online Social Networks -><affiliation>
+Hongxin Hu, Gail-Joon Ahn and Jan Jorgensen -><author>
+Arizona State University -><affiliation>
+Tempe, AZ 85287, USA -><address>
+{hxhu,gahn,jan.jorgensen}@asu.edu -><email>

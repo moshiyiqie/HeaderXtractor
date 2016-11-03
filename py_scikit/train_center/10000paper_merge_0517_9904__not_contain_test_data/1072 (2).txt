@@ -1,0 +1,4 @@
+Experiences in porting a Virtual Reality system to Java -><title>
+Shaun Bangay -><author>
+Computer Science Department -><affiliation>
+Rhodes University -><affiliation>

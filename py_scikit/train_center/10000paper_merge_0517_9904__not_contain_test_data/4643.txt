@@ -1,0 +1,9 @@
+An algorithm for analyzing personalized online commercial -><title>
+intention -><title>
+Derek Hao Hu†, Qiang Yang†, Ying Li‡ -><author>
+†Department of Computer Science and Engineering, -><affiliation>
+Hong Kong University of Science and Technology -><email>
+{derekhh, qyang}@cse.ust.hk -><email>
+‡Microsoft Corporation -><affiliation>
+One Microsoft Way, Redmond, WA, USA -><address>
+yingli@microsoft.com -><email>

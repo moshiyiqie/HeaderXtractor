@@ -1,0 +1,12 @@
+Static Detection of Malicious JavaScript-Bearing PDF -><title>
+Documents -><title>
+Pavel Laskov -><author>
+University of Tübingen -><affiliation>
+Sand 1, 72076 -><address>
+Tübingen, Germany -><address>
+pavel.laskov@uni-tuebingen.de -><email>
+Nedim Šrndic´ -><author>
+University of Tübingen -><affiliation>
+Sand 1, 72076 -><date>
+Tübingen, Germany -><address>
+nedim.srndic@uni-tuebingen.de -><email>

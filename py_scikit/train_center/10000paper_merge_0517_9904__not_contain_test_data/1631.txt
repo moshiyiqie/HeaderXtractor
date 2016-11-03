@@ -1,0 +1,13 @@
+Infraworld, a Multi-agent Based Framework to Assist in -><title>
+Civil Infrastructure Collaborative Design (Demonstration) -><affiliation>
+Jaume Domínguez Faus -><unknow>
+Centre for 3D GeoInformation -><author>
+Ålborg Universitet -><affiliation>
+9220 Ålborg, Denmark -><address>
+jaume@land.aau.dk -><email>
+Francisco Grimaldo -><author>
+Departament d’Informàtica -><affiliation>
+Universitat de València -><affiliation>
+Av. de la Univesitat s/n -><affiliation>
+Burjassot (València), Spain 46100 -><address>
+francisco.grimaldo@uv.es -><email>

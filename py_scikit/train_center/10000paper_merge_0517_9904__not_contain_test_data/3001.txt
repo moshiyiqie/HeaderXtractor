@@ -1,0 +1,6 @@
+Shared Virtual Environment (SVE): -><title>
+A framework for developing social games -><title>
+2 Human Technology Lab. Department of General Psychology, University of Padova, Italy -><author>
+3 Telecom Italia S. A., Roma, Italy -><address>
+{mcarmen@dsic.upv.es, malcaniz@degi.upv.es, luciano.gamberini@gmail.com, irzaal@aaa.upv.es, -><email>
+fabrizio.davide@telecomitalia.it } -><email>

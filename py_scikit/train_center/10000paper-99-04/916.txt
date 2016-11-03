@@ -1,0 +1,9 @@
+An Information Retrieval System -><title>
+to Manage Program Maintenance Reports -><title>
+in a Data Processing Shop -><title>
+Tyrone S. Toland -><author>
+Department of Computer Science and Engineering -><affiliation>
+University of South Carolina -><affiliation>
+Columbia, South Carolina -><address>
+Email: toland@cs.sc.edu -><email>
+Advisor: Dr. Caroline M. Eastman -><author>

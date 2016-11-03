@@ -13,14 +13,18 @@ import Tools
 def getPDFLineClassificationResult(pdfFolder, resultFolder):
 	for file in os.listdir(pdfFolder):
 		try:
-			if int(file[:file.find('.')])<=400:
-				continue
+			#if int(file[:file.find('.')])<=400:
+			#	continue
 			#if file != '165.pdf' and file != '167.pdf': continue
 			print 'File:',file,'===================================='
 			filepath = os.path.join(pdfFolder, file)
+			outputPath = os.path.join(resultFolder, file.replace('.pdf','.txt'))
+			if os.path.exists(outputPath):
+				print 'File [%s] exists!'%(outputPath)
+				continue
 			header, fonts, sizes, ypos, xpos, charSizes, pdf, label = PdfProcessor.preProcedure(filepath)
 			outputstr=['->'.join(x) + '\n' for x in zip(header, label)]
-			open(os.path.join(resultFolder, file.replace('.pdf','.txt')), 'w').writelines(outputstr)
+			open(outputPath, 'w').writelines(outputstr)
 		except:
 			print 'error'
 ###从标注的文件夹中获得每行header的label
@@ -152,7 +156,9 @@ def splitTrainSet():
 
 if __name__ == '__main__':
 	#getPDFLineClassificationResult('D:/acm_paper/TAO-TEST', './py_scikit/train_center/line_cls_result/')
-	getPDFLineClassificationResult('D:/acm_paper/5000paper', './py_scikit/train_center/5000_line_cls/')
+	getPDFLineClassificationResult('D:/acm_paper/10000paper-05-17', './py_scikit/train_center/10000paper-05-17/')
+	getPDFLineClassificationResult('D:/acm_paper/10000paper-99-04', './py_scikit/train_center/10000paper-99-04/')
+	
 	#getModelForRichTextFeatureFolder()
 	#pickFeatures('./CRF++/train/nmodel/ntest.txt','./CRF++/train/nmodel/ntest2.txt')
 	#extractHighFreqWord()

@@ -1,0 +1,13 @@
+Undergraduate Computer Graphics Using Java 3D -><title>
+Y. Daniel Liang -><author>
+Armstrong Atlantic State University -><affiliation>
+11935 Abercorn Street -><address>
+Savannah, GA 31419 -><address>
+(912)921-5440 -><phone>
+liang@armstrong.edu -><email>
+Hong Zhang -><author>
+Armstrong Atlantic State University -><affiliation>
+11935 Abercorn Street -><address>
+Savannah, GA 31419 -><address>
+(912)921-5615 -><phone>
+hong@armstrong.edu -><email>

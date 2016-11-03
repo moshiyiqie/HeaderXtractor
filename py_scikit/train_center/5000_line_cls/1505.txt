@@ -1,0 +1,12 @@
+Forming Efficient Agent Groups for Completing Complex -><title>
+Tasks -><title>
+Sarit Kraus 1 and Nicholas R. Jennings 2 -><author>
+2 Electronics and Computer Science -><affiliation>
+Efrat Manisterski 1, Esther David 2 -><address>
+1 Computer Science Department -><affiliation>
+Bar-Ilan University -><address>
+Ramat-Gan 52900, Israel -><address>
+{maniste,sarit}@cs.biu.ac.il -><email>
+University of Southampton -><affiliation>
+Southampton SO17 1BJ, UK -><address>
+{ed,nrj}@ecs.soton.ac.uk -><email>

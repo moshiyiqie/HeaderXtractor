@@ -1,0 +1,17 @@
+Taxation and Stability in Cooperative Games -><title>
+Nicholas R. Jennings -><author>
+School of Electronics and -><affiliation>
+Computer Science -><affiliation>
+University of Southampton, UK -><affiliation>
+nrj@ecs.soton.ac.uk -><email>
+Maria Polukarov -><author>
+School of Electronics and -><affiliation>
+Computer Science -><affiliation>
+University of Southampton, UK -><affiliation>
+mp3@ecs.soton.ac.uk -><email>
+Yair Zick -><email>
+School of Physical and -><degree>
+Mathematical Sciences -><degree>
+Nanyang Technological -><degree>
+University, Singapore -><affiliation>
+yair0001@ntu.edu.sg -><email>

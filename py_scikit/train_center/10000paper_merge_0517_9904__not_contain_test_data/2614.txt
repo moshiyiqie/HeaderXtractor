@@ -1,0 +1,23 @@
+Firefly-Inspired Synchronization -><title>
+in Swarms of Mobile Agents -><title>
+Ruediger Zillmer -><title>
+Unilever R&D, Port Sunlight, -><author>
+UK -><affiliation>
+Ruediger.Zillmer -><address>
+@unilever.com -><email>
+Roderich Groß -><author>
+Natural Robotics Lab -><affiliation>
+Sheffield Robotics & -><author>
+Department of Automatic -><affiliation>
+Control and Systems -><affiliation>
+Engineering -><affiliation>
+The University of Sheffield, UK -><affiliation>
+r.gross@sheffield.ac.uk -><email>
+Fernando Perez-Diaz -><author>
+Natural Robotics Lab -><affiliation>
+Sheffield Robotics & -><affiliation>
+Department of Computer -><affiliation>
+Science -><affiliation>
+The University of Sheffield, UK -><affiliation>
+fernando.perez.diaz -><email>
+@sheffield.ac.uk -><email>

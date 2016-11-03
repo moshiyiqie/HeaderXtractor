@@ -1,0 +1,23 @@
+1 -><pubnum>
+1 -><pubnum>
+The Bronco: A Proof-of-Concept Adaptive Fairground Ride -><title>
+1 -><author>
+1 -><pubnum>
+2 -><pubnum>
+1, -><pubnum>
+, Marshall, J. -><note>
+, Walker, B. -><note>
+, Rowland, D. -><note>
+Rennick Egglestone, S. -><note>
+Benford, S. -><note>
+, Rodden,T. -><note>
+1 -><date>
+2 -><pubnum>
+Mixed Reality Laboratory -><affiliation>
+School of Computer Science, University of Nottingham -><affiliation>
+Nottingham, NG8 1BB, UK -><address>
+{sre,jqm,dar,sdb,tar}@cs.nott.ac.uk -><email>
+Aerial -><affiliation>
+42 Murchison Road -><address>
+London, E10 6NB, UK -><address>
+info@aerial.fm -><email>

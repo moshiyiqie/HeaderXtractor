@@ -1,0 +1,7 @@
+TRESOR-HUNT: Attacking CPU-Bound Encryption -><title>
+Erik-Oliver Blass -><author>
+Northeastern University -><affiliation>
+blass@ccs.neu.edu -><email>
+William Robertson -><author>
+Northeastern University -><affiliation>
+wkr@ccs.neu.edu -><email>

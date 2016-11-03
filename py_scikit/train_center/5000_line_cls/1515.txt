@@ -1,0 +1,6 @@
+ANEMONE: An Effective Minimal Ontology Negotiation -><title>
+Environment -><title>
+Jurriaan van Diggelen, Robbert-Jan Beun, Frank Dignum, Rogier M. van Eijk, John-Jules Meyer -><author>
+Institute of Information and Computing Sciences -><affiliation>
+Utrecht University, the Netherlands -><affiliation>
+{jurriaan, rj, dignum, rogier, jj}@cs.uu.nl -><email>

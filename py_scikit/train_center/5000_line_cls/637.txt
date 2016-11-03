@@ -1,0 +1,21 @@
+Dialogue Games for Ontological Commitment -><title>
+Robbert-Jan Beun and Rogier M. van Eijk -><author>
+Information and Computing Sciences -><affiliation>
+Utrecht University, P.O. Box 80089 -><affiliation>
+3508 TB Utrecht, The Netherlands -><address>
+{rj,rogier}@cs.uu.nl -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed AI—Multiagent Sys- -><note>
+tems -><unknow>
+General Terms -><title>
+Algorithms, Design, Languages -><author>
+Keywords -><keyword>
+Agent communication, dialogue games, ontological discrepancies, -><keyword>
+ontological commitment -><keyword>
+1. ONTOLOGICAL COMMITMENT -><abstract>
+If human or electronic agents are to transfer information, they -><abstract>
+need a conceptualisation of the domain of interest and a shared vo- -><abstract>
+cabulary to communicate facts and modalities (e.g. beliefs, goals -><abstract>
+and obligations) with respect to this domain. The conceptualisation -><abstract>
+can be expressed in a so-called ontology, which is often defined in -><abstract>
+a formal language, such as a programming language or a formal -><abstract>

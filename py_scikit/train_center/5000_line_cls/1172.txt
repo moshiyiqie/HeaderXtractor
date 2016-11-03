@@ -1,0 +1,7 @@
+Multiagent Traffic Management: An Improved Intersection -><title>
+Control Mechanism -><title>
+Kurt Dresner and Peter Stone -><author>
+University of Texas at Austin -><affiliation>
+Department of Computer Sciences -><affiliation>
+Austin, TX 78712 USA -><address>
+{kdresner, pstone}@cs.utexas.edu -><email>

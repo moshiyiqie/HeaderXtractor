@@ -1,0 +1,26 @@
+QoS based Performance Analysis of VoWLAN for -><title>
+Emergency Calls using QualNet -><title>
+N.Radhika -><author>
+Associate Professor, -><affiliation>
+Department of CSE -><affiliation>
+Amrita Vishwa Vidyapeetham, -><address>
+Coimbatore, India. -><address>
+n_radhika@cb.amrita.edu -><email>
+Anoop Jacob -><author>
+Amrita Centre for Wireless -><affiliation>
+Networks and Applications -><affiliation>
+Amrita Vishwa Vidyapeetham, -><address>
+India. -><address>
+anoopjacob@gmail.com -><email>
+Anjitha S -><unknow>
+Amrita Centre for Wireless -><title>
+Networks and Applications -><title>
+Amrita Vishwa Vidyapeetham, -><affiliation>
+India. -><address>
+anjithas@gmail.com -><email>
+Chithra K R -><unknow>
+Amrita Centre for Wireless -><title>
+Networks and Applications -><title>
+Amrita Vishwa Vidyapeetham, -><affiliation>
+India. -><address>
+chithra_kr@ymail.com -><email>

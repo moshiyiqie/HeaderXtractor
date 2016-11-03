@@ -1,0 +1,5 @@
+Equilibrium Analysis in Cake Cutting -><title>
+Simina Brânzei and Peter Bro Miltersen -><author>
+Department of Computer Science -><affiliation>
+Aarhus University, Denmark -><affiliation>
+{simina,bromille}@cs.au.dk -><email>

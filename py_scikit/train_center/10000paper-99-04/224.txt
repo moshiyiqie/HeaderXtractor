@@ -1,0 +1,7 @@
+Multi-Agent Policies: From Centralized Ones to -><title>
+Decentralized Ones ∗ -><title>
+Ping Xuan and Victor Lesser -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts at Amherst -><affiliation>
+Amherst, MA 01003 -><address>
+pxuan@cs.umass.edu, lesser@cs.umass.edu -><email>

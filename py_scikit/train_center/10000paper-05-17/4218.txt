@@ -1,0 +1,9 @@
+Clear Channel Assessment in Wireless Sensor Networks -><title>
+Chase Gray -><author>
+University of South Carolina -><affiliation>
+Columbia, SC 29208 -><address>
+graycm@engr.sc.edu -><email>
+J. Collin Engstrom -><author>
+Southwest Minnesota State University -><affiliation>
+Marshall, MN 56258 -><address>
+engstrj@southwestmsu.edu -><email>

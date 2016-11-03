@@ -1,0 +1,16 @@
+Nail-mounted Tactile Display -><title>
+For Boundary/Texture Augmentation -><title>
+Eisuke Kusachi -><author>
+Hideyuki Ando -><author>
+NTT Communication Science -><affiliation>
+Laboratories -><affiliation>
+3-1, Morinosato Wakamiya, Atsugi- -><address>
+City, Kanagawa-Pref, 243-0198 -><address>
+hide@avg.brl.ntt.co.jp -><email>
+Junji Watanabe -><author>
+PRESTO Japan Science & -><affiliation>
+Technology Agency -><affiliation>
+3-1, Morinosato Wakamiya, Atsugi- -><address>
+City, Kanagawa-Pref, 243-0198 -><address>
+watanabe@avg.brl.ntt.co.jp -><email>
+yo_6_shi_9@yahoo.co.jp -><email>

@@ -1,0 +1,15 @@
+Challenge Optimization -><title>
+(Demonstration) -><title>
+Marconi Madruga -><author>
+National Institute of Informatics -><affiliation>
+2-1-2 Hitotsubashi, Chiyoda-ku -><address>
+Tokyo 101-8430, Japan -><address>
++810342122650 -><phone>
+marconi@nii.ac.jp -><email>
+Helmut Prendinger -><author>
+National Institute of Informatics -><affiliation>
+2-1-2 Hitotsubashi, Chiyoda-ku -><address>
+Tokyo 101-8430, Japan -><address>
++810342122650 -><phone>
+helmut@nii.ac.jp -><email>
+Figure 1. Overview of the iCO2 application. Multiple users practice eco-driving in a shared 3D virtual environment that is also -><note>

@@ -1,0 +1,8 @@
+May -><title>
+The Case for Dynamic Difficulty Adjustment in Games -><author>
+Robin Hunicke -><author>
+Northwestern University -><affiliation>
+1890 Maple Avenue -><address>
+Evanston, IL 60201 -><address>
++01 847.491.7535 -><phone>
+hunicke@cs.northwestern.edu -><email>

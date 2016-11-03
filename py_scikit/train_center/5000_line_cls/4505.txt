@@ -1,0 +1,13 @@
+Educational Use Cases for Virtual Machines -><title>
+Zack Jourdan -><author>
+Auburn University at Montgomery -><affiliation>
+PO Box 244023 -><address>
+Montgomery, AL 36124-4023 -><address>
+(+1) 334-244-3122 -><phone>
+sjourdan@aum.edu -><email>
+Thomas F. Griffin, III -><author>
+Auburn University at Montgomery -><affiliation>
+PO Box 244023 -><address>
+Montgomery, AL 36124-4023 -><address>
+(+1) 334-244-3304 -><phone>
+tgriffin@aum.edu -><email>

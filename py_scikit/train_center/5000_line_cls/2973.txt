@@ -1,0 +1,10 @@
+Tactics Development Framework -><title>
+(Demonstration) -><title>
+Thanh Ly -><author>
+DSTO -><affiliation>
+Rockingham, Australia -><address>
+thanh.ly@dsto.defence.gov.au -><email>
+Rick Evertsz, John Thangarajah, Nitin Yadav -><author>
+School of Computer Science and IT -><affiliation>
+RMIT University, Melbourne, Australia -><affiliation>
+{firstname.lastname@rmit.edu.au} -><email>

@@ -1,0 +1,6 @@
+Network Intrusion Detection: Dead or Alive? -><title>
+[Classic Paper] -><title>
+Giovanni Vigna -><author>
+Department of Computer Science -><affiliation>
+University of California, Santa Barbara -><affiliation>
+vigna@cs.ucsb.edu -><email>

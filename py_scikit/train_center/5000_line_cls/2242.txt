@@ -1,0 +1,6 @@
+Worst-Case Optimal Redistribution of VCG Payments in -><title>
+Heterogeneous-Item Auctions with Unit Demand -><title>
+Mingyu Guo -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool, UK -><affiliation>
+Mingyu.Guo@liverpool.ac.uk -><email>

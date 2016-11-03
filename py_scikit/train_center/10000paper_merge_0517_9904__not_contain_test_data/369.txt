@@ -1,0 +1,19 @@
+Group Formation with Split Rule in Social Dilemmas -><title>
+1Tomohisa YAMASHITA ∗ † 1Koichi KURUMATANI † 2Robert L. Axtell 3Azuma OHUCHI -><note>
+1Cyber Assist Research Center (CARC) -><note>
+3Research Group of -><note>
+2Center on Social and -><intro>
+National Institute of Advanced Industrial -><affiliation>
+Science and Technology (AIST) -><affiliation>
+Tokyo 135-0064, Japan -><address>
+tomohisa@carc.aist.go.jp -><email>
+Complex Systems -><affiliation>
+Hokkaido University -><affiliation>
+Sapporo 060-8628, Japan -><address>
+ohuchi@complex. -><email>
+Economic Dynamics -><author>
+The Brookings Institution -><affiliation>
+Washington, D.C. 20036, USA -><address>
+raxtell@brookings.edu -><email>
+eng.hokudai.ac.jp -><email>
+kurumatani@socsys.org -><email>

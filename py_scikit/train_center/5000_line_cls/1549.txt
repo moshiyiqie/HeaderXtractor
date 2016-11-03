@@ -1,0 +1,13 @@
+MagneBike - Toward multi climbing robots -><title>
+for power plant inspection -><title>
+Roland Moser -><author>
+R&D Inspection Technologies -><affiliation>
+ALSTOM Power Service -><affiliation>
+5401 Baden, Switzerland -><address>
+roland.moser@power.alstom.com -><email>
+Andreas Breitenmoser, Fabien Tâche, -><author>
+Gilles Caprari and Roland Siegwart -><author>
+Autonomous Systems Laboratory, ETH Zurich -><affiliation>
+8092 Zurich, Switzerland -><address>
+{andreas.breitenmoser, fabien.tache, -><email>
+gilles.caprari, roland.siegwart}@mavt.ethz.ch -><email>

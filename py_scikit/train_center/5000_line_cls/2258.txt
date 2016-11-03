@@ -1,0 +1,17 @@
+Solving Non-Zero Sum Multiagent Network Flow Security -><title>
+Games with Attack Costs -><title>
+Katia Sycara -><author>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+katia@cs.cmu.edu -><email>
+Noam Hazon -><author>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+noamh@cs.cmu.edu -><email>
+Steven Okamoto -><author>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+sokamoto@cs.cmu.edu -><email>

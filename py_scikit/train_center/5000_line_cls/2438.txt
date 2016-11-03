@@ -1,0 +1,12 @@
+Expectation and Complex Event Handling in BDI-based -><title>
+Intelligent Virtual Agents (Demonstration) -><title>
+Stephen Cranefield -><author>
+Department of Information Science -><affiliation>
+University of Otago -><affiliation>
+Dunedin 9054, New Zealand -><address>
+scranefield@infoscience.otago.ac.nz -><email>
+Surangika Ranathunga -><author>
+Department of Information Science -><affiliation>
+University of Otago -><affiliation>
+Dunedin 9054, New Zealand -><address>
+surangika@infoscience.otago.ac.nz -><email>

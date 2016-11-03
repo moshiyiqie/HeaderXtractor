@@ -1,0 +1,18 @@
+Egalitarian Pairwise Kidney Exchange: Fast Algorithms via -><title>
+Linear Programming and Parametric Flow∗ -><title>
+Jian Li -><author>
+Tsinghua University -><affiliation>
+Beijing, China -><address>
+lijian83@mail.tsinghua.edu.cn -><email>
+Yicheng Liu -><author>
+Tsinghua University -><affiliation>
+Beijing, China -><address>
+liuyicheng1991@hotmail.com -><email>
+Lingxiao Huang -><author>
+Tsinghua University -><affiliation>
+Beijing, China -><address>
+huanglx12@mails.tsinghua.edu.cn -><email>
+Pingzhong Tang -><author>
+Tsinghua University -><affiliation>
+Beijing, China -><address>
+kenshinping@gmail.com -><email>

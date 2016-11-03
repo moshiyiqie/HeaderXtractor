@@ -1,0 +1,19 @@
+Channeled Multicast for Group Communications -><title>
+Michele Nori -><title>
+ITC-Irst -><author>
+Via Sommarive 18 -><author>
+38050 Povo -><date>
+Trento, Italy -><address>
+nori@itc.it -><email>
+Antonia Dona` -><email>
+ITC-Irst -><author>
+Via Sommarive 18 -><note>
+38050 Povo -><note>
+Trento, Italy -><address>
+antodona@itc.it -><email>
+Paolo Busetta -><author>
+ITC-Irst -><note>
+Via Sommarive 18 -><note>
+38050 Povo -><note>
+Trento, Italy -><address>
+busetta@itc.it -><email>

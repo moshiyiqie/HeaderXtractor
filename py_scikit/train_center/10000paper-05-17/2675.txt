@@ -1,0 +1,7 @@
+Learning Behavior Patterns from Video: A Data-driven -><title>
+Framework for Agent-based Crowd Modeling -><title>
+Jinghui Zhong1, Wentong Cai1, Linbo Luo2, and Haiyan Yin1 -><author>
+1School of Computer Engineering, Nanyang Technological University, Singapore -><affiliation>
+{jinghuizhong, aswtcai, haiyanyin}@ntu.edu.sg -><email>
+2School of Cyber Engineering, Xidian University, China -><affiliation>
+lbluo@xidian.edu.cn -><email>

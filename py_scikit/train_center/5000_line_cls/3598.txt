@@ -1,0 +1,20 @@
+Health Information Systems in Developing Regions -><title>
+Sumita Sharma1, Saurabh Srivastava2, Keyur Sorathia3, Jaakko Hakulinen1, Tomi Heimonen1, -><author>
+Markku Turunen1, Nitendra Rajput2 -><author>
+2IBM Research India -><affiliation>
+1University of Tampere -><affiliation>
+3Indian Institute of Technology, -><affiliation>
+Guwahati -><address>
+Assam 781039, India -><address>
++91 8011693660 -><phone>
+keyur@iitg.ernet.in -><email>
+Kanslerinrinne 1 -><date>
+FI-33014 University of Tampere -><affiliation>
++358 3 3551 8559 -><pubnum>
+(sumita.s.sharma, -><email>
+{firstname.lastname})@sis.uta.fi -><email>
+4 Block C, Institutional Area -><affiliation>
+New Delhi 110070, India -><address>
++91 11 41292265 -><phone>
+(rnitendra, saurabhsrivastava) -><degree>
+@in.ibm.com -><email>

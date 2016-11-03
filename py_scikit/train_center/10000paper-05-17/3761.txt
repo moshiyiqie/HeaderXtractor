@@ -1,0 +1,9 @@
+Local Search for Quantified Boolean Formulas -><title>
+N. Hristov -><author>
+University of West Georgia -><affiliation>
+Carrollton, Georgia, USA -><address>
+nedko@cs.westga.edu -><email>
+A. Remshagen -><author>
+University of West Georgia -><affiliation>
+Carrollton, Georgia, USA -><address>
+anja@westga.edu -><email>

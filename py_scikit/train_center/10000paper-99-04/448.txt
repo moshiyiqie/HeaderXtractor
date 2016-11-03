@@ -1,0 +1,23 @@
+Minimizing Communication Cost in a Distributed Bayesian -><title>
+Network Using a Decentralized MDP∗ -><title>
+Jiaying Shen -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003-4610, -><address>
+USA -><address>
+jyshen@cs.umass.edu -><email>
+Norman Carver -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+Southern Illinois University, -><affiliation>
+mailcode 4511 -><address>
+Carbondale, IL 62901, USA -><address>
+carver@cs.siu.edu -><email>
+Victor Lesser -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003-4610, -><address>
+USA -><address>
+lesser@cs.umass.edu -><email>

@@ -1,0 +1,6 @@
+A Compression Scheme for Video Conferencing -><title>
+Sanmati Kamath -><author>
+Georgia Institute of Technology, Graduate Student -><affiliation>
+Mailing address: 85, 5th Street NW, Technology Square Research Building, Atlanta, GA 30308. -><affiliation>
+Advisor: Dr. Joel R. Jackson, jacksonj@ece.gatech.edu -><affiliation>
+sanmati@ece.gatech.edu -><email>

@@ -1,0 +1,10 @@
+A Methodology and Equilibria for Design Tradeoffs of -><title>
+Autonomous Trading Agents -><title>
+Bart Selman -><author>
+Computer Science Dept., Cornell University -><affiliation>
+Ithaca, NY 14853, USA -><address>
+selman@cs.cornell.edu -><email>
+Ioannis A. Vetsikas -><author>
+Computer Science Dept., Cornell University -><affiliation>
+Ithaca, NY 14853, USA -><address>
+vetsikas@cs.cornell.edu -><email>

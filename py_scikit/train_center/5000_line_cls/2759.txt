@@ -1,0 +1,12 @@
+Multiagent Reinforcement Learning in a Distributed Sensor -><title>
+Network with Indirect Feedback -><title>
+Kagan Tumer -><author>
+Oregon State University -><affiliation>
+204 Rogers Hall -><address>
+Corvallis, OR 97331 -><address>
+kagan.tumer@oregonstate.edu -><email>
+Mitchell Colby -><author>
+Oregon State University -><affiliation>
+442 Rogers Hall -><address>
+Corvallis, OR 97331 -><address>
+colbym@engr.orst.edu -><email>

@@ -1,0 +1,17 @@
+When Hardware Meets Software: -><title>
+A Bulletproof Solution to Forensic Memory Acquisition -><title>
+Alessandro Reina -><author>
+Dipartimento di Informatica -><affiliation>
+Università degli Studi di Milano -><affiliation>
+Aristide Fattori -><author>
+Dipartimento di Informatica -><affiliation>
+Università degli Studi di Milano -><affiliation>
+Fabio Pagani -><author>
+Dipartimento di Informatica -><affiliation>
+Università degli Studi di Milano -><affiliation>
+Danilo Bruschi -><author>
+Dipartimento di Informatica -><affiliation>
+Università degli Studi di Milano -><affiliation>
+Lorenzo Cavallaro -><author>
+Information Security Group -><affiliation>
+Royal Holloway, University of London -><affiliation>

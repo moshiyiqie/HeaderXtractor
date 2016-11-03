@@ -1,0 +1,14 @@
+MoPH: a media performance system with a multi-touch interface -><title>
+Takashi Ikebuchi -><author>
+Kwansei Gakuin university -><affiliation>
+Sanda 669-1337 JAPAN -><address>
+ikebuchi@kwansei.ac.jp -><email>
+Haruhiro Katayose -><author>
+Kwansei Gakuin university -><affiliation>
+Sanda 669-1337 JAPAN -><address>
+katayose@kwansei.ac.jp -><email>
+Saburo Hirano -><author>
+Kyoto SEIKA university -><affiliation>
+137 Iwakura kino-machi Sakyo-ku -><address>
+Kyoto-city 606-8588 JAPAN -><address>
+hirano@kyoto-seika.ac.jp -><email>

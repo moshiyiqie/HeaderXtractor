@@ -1,0 +1,11 @@
+Observation of Recent Microsoft Zero-Day Vulnerabilities -><title>
+Nathaniel Evans -><author>
+Xiaohong Yuan -><author>
+Computer Science Department -><affiliation>
+North Carolina A&T State University -><affiliation>
+Greensboro, NC, USA -><address>
+xhyuan@ncat.edu -><email>
+Computer Science Department -><affiliation>
+North Carolina A&T State University -><affiliation>
+Greensboro, NC, USA -><address>
+nlevans@ncat.edu -><email>

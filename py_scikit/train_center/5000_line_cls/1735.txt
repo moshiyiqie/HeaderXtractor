@@ -1,0 +1,14 @@
+Independent Navigation of Multiple Robots and Virtual -><title>
+Agents -><title>
+Jamie Snape -><author>
+University of North Carolina at -><affiliation>
+Chapel Hill -><address>
+snape@cs.unc.edu -><email>
+Jur van den Berg -><author>
+University of California, -><affiliation>
+Berkeley -><address>
+berg@berkeley.edu -><email>
+Stephen J. Guy -><author>
+University of North Carolina at -><affiliation>
+Chapel Hill -><address>
+sjguy@cs.unc.edu -><email>

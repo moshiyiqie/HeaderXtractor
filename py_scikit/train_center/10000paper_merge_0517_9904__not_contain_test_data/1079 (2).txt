@@ -1,0 +1,6 @@
+Image Caching Algorithms and Strategies -><title>
+for Real Time Rendering of Complex Virtual Environments -><title>
+Marcello Carrozzino, Franco Tecchia, Claudia Falcioni, Massimo Bergamasco -><author>
+PERCRO, Scuola Superiore S.Anna -><affiliation>
+Via S.Cecilia 3, 56127, Pisa, Italy -><address>
+marcello, franco, falcioni, bergamasco@sssup.it -><email>

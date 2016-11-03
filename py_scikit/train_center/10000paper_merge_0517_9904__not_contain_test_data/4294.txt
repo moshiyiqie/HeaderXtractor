@@ -1,0 +1,7 @@
+Fast and Practical Instruction-Set Randomization -><title>
+for Commodity Systems -><title>
+Georgios Portokalidis and Angelos D. Keromytis -><author>
+Network Security Lab -><affiliation>
+Department of Computer Science -><affiliation>
+Columbia University, New York, NY, USA -><affiliation>
+{porto, angelos}@cs.columbia.edu -><email>

@@ -1,0 +1,17 @@
+A qualitative reputation system for multiagent systems -><title>
+with protocol-based communication -><title>
+Juan Botia -><author>
+Facultad de Informática -><affiliation>
+Universidad de Murcia -><affiliation>
+Murcia, Spain -><address>
+juanbot@um.es -><email>
+Emilio Serrano -><author>
+Facultad de Informática -><affiliation>
+Universidad de Murcia -><affiliation>
+Murcia, Spain -><address>
+emilioserra@um.es -><email>
+Michael Rovatsos -><author>
+School of Informatics -><affiliation>
+University of Edinburgh -><affiliation>
+Edinburgh EH8 9AB, UK -><address>
+mrovatso@inf.ed.ac.uk -><email>

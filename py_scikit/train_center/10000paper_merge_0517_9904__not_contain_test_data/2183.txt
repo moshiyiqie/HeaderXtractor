@@ -1,0 +1,15 @@
+Micro Smart Grids and Electromobility Charging -><title>
+Optimisation with a Distributed Agent Application -><title>
+(Demonstration) -><title>
+Christopher-Eyk Hrabia, Marco Lützenberger, Tobias Küster, -><author>
+and Sahin Albayrak -><author>
+Technische Universität Berlin, DAI-Labor -><affiliation>
+Ernst-Reuter-Platz 7 -><address>
+10587 Berlin, Germany -><address>
+firstname.lastname@dai-labor.de -><affiliation>
+Categories and Subject Descriptors -><note>
+I.2 [Computing Methodologies]: Distributed Artificial -><unknow>
+Intelligence—Multiagent systems -><unknow>
+Keywords -><title>
+multi-agent systems; distributed information systems; opti- -><title>
+misation; simulation; smart grids -><title>

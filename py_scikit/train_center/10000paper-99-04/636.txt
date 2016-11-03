@@ -1,0 +1,11 @@
+Executing Agent UML diagrams -><title>
+Lars Ehrler∗ -><author>
+Technische Universita¨t Dresden -><affiliation>
+Fakulta¨t Informatik, Institut SMT -><affiliation>
+01062 Dresden, Germany -><address>
+lars@larsehrler.de -><email>
+Stephen Cranefield -><author>
+Department of Information Science -><affiliation>
+University of Otago -><affiliation>
+PO Box 56, Dunedin, New Zealand -><address>
+scranefield@infoscience.otago.ac.nz -><email>

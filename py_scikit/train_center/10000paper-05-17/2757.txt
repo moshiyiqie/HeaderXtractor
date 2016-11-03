@@ -1,0 +1,15 @@
+Concerns over Students Role as Test Users in -><title>
+Virtual Environments -><title>
+Tarja Tiainen -><author>
+University of Tampere -><affiliation>
+School of Information Sciences, -><affiliation>
+Tampere, Finland -><address>
+phone: +358 40 746 2481 -><phone>
+tarja.tiainen@sis.uta.fi -><email>
+Asko Ellman -><author>
+Tampere University of Technology -><affiliation>
+Dept. of Mechanical Engineering and Industrial -><affiliation>
+Systems, -><address>
+Tampere, Finland -><address>
+phone: +358 40 757 4247 -><phone>
+asko.ellman@tut.fi -><email>

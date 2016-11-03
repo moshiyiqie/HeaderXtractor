@@ -1,0 +1,26 @@
+Exploring Interaction Strategies for Virtual Characters to -><title>
+Induce Stress in Simulated Job Interviews -><author>
+Patrick Gebhard -><affiliation>
+DFKI GmbH, Campus D3 2 -><address>
+Saarbrücken, Germany -><address>
+gebhard@dfki.de -><email>
+Tobias Baur -><author>
+Human Centered Multimedia -><affiliation>
+Augsburg University, Germany -><affiliation>
+baur@hcm-lab.de -><author>
+Ionut Damian -><author>
+Human Centered Multimedia -><affiliation>
+Augsburg University, Germany -><affiliation>
+damian@hcm-lab.de -><author>
+Gregor Mehlmann -><author>
+Human Centered Multimedia -><affiliation>
+Augsburg University, Germany -><affiliation>
+mehlmann@hcm-lab.de -><author>
+Johannes Wagner -><author>
+Human Centered Multimedia -><affiliation>
+Augsburg University, Germany -><affiliation>
+wagner@hcm-lab.de -><author>
+Elisabeth André -><author>
+Human Centered Multimedia -><affiliation>
+Augsburg University, Germany -><affiliation>
+andre@hcm-lab.de -><affiliation>

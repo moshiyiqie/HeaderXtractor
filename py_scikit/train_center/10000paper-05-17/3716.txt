@@ -1,0 +1,13 @@
+Exploring Communication Overheads and Locking -><title>
+Policies in a Peer-to-Peer Synchronous Collaborative -><affiliation>
+Editing System -><unknow>
+Jon A. Preston -><author>
+PhD Student -><affiliation>
+Department of Computer Science -><affiliation>
+Georgia State University -><affiliation>
+P.O. Box 3994 -><address>
+Atlanta, GA 30302-3994 -><address>
+770 456 9681 -><phone>
+Advisor: Dr. Sushil K. Prasad -><author>
+Category: Graduate -><degree>
+jonpreston@mail.clayton.edu -><email>

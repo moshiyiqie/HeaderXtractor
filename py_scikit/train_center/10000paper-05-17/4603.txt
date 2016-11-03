@@ -1,0 +1,12 @@
+Integrated Instance- and Class-based Generative Modeling -><title>
+for Text Classification -><title>
+Antti Puurula -><author>
+The University of Waikato -><affiliation>
+Private Bag 3105 -><address>
+Hamilton 3240, New Zealand -><address>
+asp12@students.waikato.ac.nz -><email>
+Sung-Hyon Myaeng -><author>
+KAIST -><affiliation>
+335 Gwahangro -><address>
+Daejeon 305-701, South Korea -><address>
+myaeng@kaist.ac.kr -><email>

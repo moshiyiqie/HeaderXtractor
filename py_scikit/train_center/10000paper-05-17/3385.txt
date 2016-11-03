@@ -1,0 +1,7 @@
+Functional Validation of AADL Models via Model -><title>
+Transformation to SystemC with ATL -><title>
+Pierre Bomel, Dominique Blouin, Mickael Lanoe, Eric Senn -><author>
+Lab-STICC -><affiliation>
+Lorient, France -><address>
++33 (0)2 97 87 45 26 -><phone>
+{pierre.bomel, dominique.blouin, mickael.lanoe, eric.senn}@univ-ubs.fr -><email>

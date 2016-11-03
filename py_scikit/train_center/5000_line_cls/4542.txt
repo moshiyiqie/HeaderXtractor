@@ -1,0 +1,6 @@
+Interface Design for a Modern Software Ticketing System -><title>
+Minhui Xie, Mark Tomlinson, Bobby Bodenheimer -><author>
+Department of Computer Science -><affiliation>
+Vanderbilt University -><affiliation>
+Nashville, TN 37235 -><address>
+{minhui.xie, mark.tomlinson}@vanderbilt.edu, bobbyb@vuse.vanderbilt.edu -><email>

@@ -1,0 +1,20 @@
+Two Parallel Implementations for One Dimension FFT on Symmetric -><title>
+Multiprocessors -><title>
+W. David Pan -><author>
+Rami A. AL Na'mneh -><author>
+Univ. of Alabama in Huntsville -><affiliation>
+Dep. of Electrical and Computer -><affiliation>
+Engineering -><affiliation>
+Telephone number 256-824-6317 -><address>
+alnamna@ece.uah.edu -><email>
+B. Earl Wells -><author>
+Univ. of Alabama in Huntsville -><affiliation>
+Dep. of Electrical and Computer -><affiliation>
+Engineering -><affiliation>
+Telephone number 256-824- 6047 -><pubnum>
+wells@ece.uah.edu -><email>
+Univ. of Alabama in Huntsville -><affiliation>
+Dep. of Electrical and Computer -><affiliation>
+Engineering -><affiliation>
+Telephone number 256-824-6642 -><address>
+dwpan@ece.uah.edu -><email>

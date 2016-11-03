@@ -1,0 +1,20 @@
+Trust-Based Contracting in Supply Chains -><title>
+Sandip Sen -><author>
+Math & CS Department -><affiliation>
+University of Tulsa -><affiliation>
+sandip@utulsa.edu -><email>
+Sabyasachi Saha -><author>
+Math & CS Department -><affiliation>
+University of Tulsa -><affiliation>
+saby@utulsa.edu -><email>
+Dipyaman Banerjee -><author>
+Math & CS Department -><affiliation>
+University of Tulsa -><affiliation>
+dipu@utulsa.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence— -><note>
+Multiagent systems -><unknow>
+General Terms -><title>
+Algorithm, Performance, Experimentation -><keyword>
+Keywords -><keyword>
+contracting, trust, monopoly -><keyword>

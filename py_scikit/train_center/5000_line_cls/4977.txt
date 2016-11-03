@@ -1,0 +1,17 @@
+Developing Efficient Pipeline Tools for Animation -><title>
+Production -><title>
+John L. Kundert-Gibbs -><author>
+Clemson University -><affiliation>
+Clemson, SC -><address>
+(864) 656-6977 -><phone>
+jkundert@cs.clemson.edu -><email>
+Timothy A. Davis -><author>
+Clemson University -><affiliation>
+Clemson, SC -><address>
+(864) 656-0354 -><phone>
+tadavis@cs.clemson.edu -><email>
+Edward Siomacco -><author>
+Sony Pictures Imageworks -><affiliation>
+Culver City, CA -><address>
+(310) 736-5157 -><phone>
+ed.siomacco@gmail.com -><email>

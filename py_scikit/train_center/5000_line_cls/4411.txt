@@ -1,0 +1,16 @@
+Open Neighborhood Locating-Domination for Infinite -><title>
+Cylinders -><title>
+Suk J. Seo -><author>
+Middle Tennessee State University -><affiliation>
+Computer Science Department -><affiliation>
+Murfreesboro, TN 37132 -><address>
+615-904-8292 -><phone>
+sseo@mtsu.edu -><email>
+Peter J. Slater -><author>
+Mathematical Sciences Department -><affiliation>
+and Computer Science Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899 USA -><address>
+256-824-6609 -><phone>
+slater@math.uah.edu -><email>
+pslater@cs.uah.edu -><email>

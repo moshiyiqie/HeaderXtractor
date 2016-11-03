@@ -1,0 +1,20 @@
+Building Diversity in the -><title>
+Undergraduate Computer Science Research Pipeline -><title>
+Maureen Biggers -><author>
+Georgia Tech -><affiliation>
+College of Computing -><affiliation>
+Atlanta GA 30332 -><address>
++1 404 894-3181 -><phone>
+maureen@cc.gatech.edu -><email>
+Gerry Dozier -><author>
+North Carolina A&T State University -><affiliation>
+Department of Computer Science -><affiliation>
+Greensboro NC -><address>
++1 336 334-7245 -><phone>
+gvdozier@ncat.edu -><email>
+D. Scott McCrickard -><email>
+Virginia Tech -><author>
+Department of Computer Science -><affiliation>
+Blacksburg VA 24060 -><address>
++1 540 231-6698 -><phone>
+mccricks@cs.vt.edu -><email>

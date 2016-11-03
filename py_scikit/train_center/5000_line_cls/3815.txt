@@ -1,0 +1,15 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+ACE 2005, Valencia, Spain -><note>
+or modifications for particular needs; the programs that ef- -><abstract>
+fected this were called ’middleware’ because they came be- -><abstract>
+tween the operating system and the application programs. -><abstract>
+Thus, middleware is software that mediates software inter- -><abstract>
+acting (in our context) with the main game engine. Accord- -><abstract>
+ing to the Software Engineering Institute (SEI), middleware -><affiliation>
+is defined as the software layer that lies between the oper- -><abstract>
+ating system and the applications, providing uniform, stan- -><abstract>
+dard, high-level interfaces to the application developers so -><abstract>
+that applications can be easily composed and reused. The -><abstract>
+role of middleware is then to make application development -><abstract>
+442 -><date>

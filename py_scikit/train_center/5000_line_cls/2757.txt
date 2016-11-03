@@ -1,0 +1,14 @@
+iCO2: Multi-User Eco-Driving Training Environment based -><note>
+on Distributed Constraint Optimization -><title>
+Helmut Prendinger -><author>
+National Institute of Informatics -><affiliation>
+2-1-2 Hitotsubashi, Chiyoda-ku -><address>
+Tokyo 101-8430, Japan -><address>
++810342122650 -><phone>
+helmut@nii.ac.jp -><email>
+Marconi Madruga -><author>
+National Institute of Informatics -><affiliation>
+2-1-2 Hitotsubashi, Chiyoda-ku -><address>
+Tokyo 101-8430, Japan -><address>
++810342122650 -><phone>
+marconi@nii.ac.jp -><email>

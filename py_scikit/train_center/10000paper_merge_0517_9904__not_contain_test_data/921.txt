@@ -1,0 +1,13 @@
+MAS-DisCoSim 4 PDP: -><title>
+a Testbed for Multi-Agent Solutions to PDPs -><title>
+Rutger Claes, Mario Cruz -><author>
+Torres, Tom Holvoet -><author>
+DistriNet Labs, K.U.Leuven -><affiliation>
+{rutger.claes,mario.cruztorres,tom.holvoet} -><email>
+@cs.kuleuven.be -><email>
+Jelle Van Gompel, -><author>
+Bart Tuts -><author>
+CS Master students, -><degree>
+DistriNet Labs, K.U.Leuven -><affiliation>
+{jelle.vangompel,bart.tuts} -><email>
+@student.kuleuven.be -><email>

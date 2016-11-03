@@ -1,0 +1,4 @@
+Scaling Teamwork to Very Large Teams -><title>
+Paul Scerri∗, Yang Xu+, Elizabeth Liao∗, Justin Lai∗ and Katia Sycara∗ -><author>
+∗ Carnegie Mellon University, + University of Pittsburgh -><affiliation>
+pscerri@cs.cmu.edu, xuy3@pitt.edu, eliao@andrew.cmu.edu, guomingl@andrew.cmu.edu, katia@cs.cmu.edu -><email>

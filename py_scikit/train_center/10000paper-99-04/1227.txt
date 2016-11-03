@@ -1,0 +1,20 @@
+Agents and Virtual Environments for Communication and -><title>
+Decision Training for Emergencies -><title>
+Paul Grimm -><author>
+Fraunhofer Application Center for -><affiliation>
+Computer Graphics -><affiliation>
+Frankfurt/Main, Germany -><address>
++49 69 97995 150 -><phone>
+grimm@agc.fhg.de -><email>
+Christian Seiler -><author>
+Fraunhofer Application Center for -><affiliation>
+Computer Graphics -><affiliation>
+Frankfurt/Main, Germany -><address>
++49 69 97995 148 -><phone>
+cseiler@ agc.fhg.de -><email>
+Ralf DSrner -><author>
+Fraunhofer Application Center for -><affiliation>
+Computer Graphics -><affiliation>
+Frankfurt/Main, Germany -><address>
++49 69 97995 152 -><phone>
+doerner@ agc.fhg.de -><email>

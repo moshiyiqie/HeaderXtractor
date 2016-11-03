@@ -1,0 +1,10 @@
+Soter: An Automatic Safety Verifier for Erlang -><title>
+Emanuele D’Osualdo -><author>
+Jonathan Kochems -><author>
+C.-H. Luke Ong -><author>
+University of Oxford -><affiliation>
+University of Oxford -><affiliation>
+University of Oxford -><affiliation>
+emanuele.dosualdo@cs.ox.ac.uk -><email>
+jonathan.kochems@cs.ox.ac.uk -><email>
+luke.ong@cs.ox.ac.uk -><email>

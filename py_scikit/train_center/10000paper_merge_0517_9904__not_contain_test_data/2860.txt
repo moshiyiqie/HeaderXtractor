@@ -1,0 +1,19 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+Human Scale Haptic Interaction with a Reactive Virtual -><title>
+Human in a Realtime Physics Simulator -><title>
+Naoki Hashimoto -><author>
+Tokyo Institute of Technology -><affiliation>
+4259 Nagatsuta Midori -><address>
+Yokohama, Japan -><address>
+naoki@hi.pi.titech.ac.jp -><email>
+Ishikawa Toshiaki -><author>
+Tokyo Institute of Technology -><affiliation>
+4259 Nagatsuta Midori -><address>
+Yokohama, Japan -><address>
+ishikawa@hi.pi.titech.ac.jp -><email>
+Shoichi Hasegawa -><author>
+Tokyo Institute of Technology / -><affiliation>
+PRESTO JST -><affiliation>
+4259 Nagatsuta Midori -><address>
+Yokohama, Japan -><address>
+hase@hi.pi.titech.ac.jp -><email>

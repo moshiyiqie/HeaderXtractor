@@ -1,0 +1,15 @@
+Toward Error-bounded Algorithms for Infinite-Horizon -><title>
+DEC-POMDPs -><title>
+Jilles S. Dibangoye -><author>
+Abdel-Illah Mouaddib -><author>
+Brahim Chaib-draa -><author>
+Ecole des Mines de Douai -><affiliation>
+Douai, France -><address>
+University of Caen -><affiliation>
+Caen, France -><address>
+mouaddib@info.unicaen.fr -><email>
+Laval University -><affiliation>
+Québec, Qc, Canada -><address>
+chaib@aid.ift.ulaval.ca -><email>
+jilles.dibangoye@mines- -><email>
+douai.fr -><web>

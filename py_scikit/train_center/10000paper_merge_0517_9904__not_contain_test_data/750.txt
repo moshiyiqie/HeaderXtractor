@@ -1,0 +1,7 @@
+Strategic Planning for Probabilistic Games with -><title>
+Incomplete Information -><title>
+Henning Schnoor -><author>
+Institut für Informatik -><affiliation>
+Christian-Albrechts-Universität Kiel -><affiliation>
+24118 Kiel, Germany -><address>
+schnoor@ti.informatik.uni-kiel.de -><email>

@@ -1,0 +1,16 @@
+Non-Monotonic-Offers Bargaining Protocol -><title>
+Pinata Winoto -><author>
+Dept. of Computer Science -><affiliation>
+University of Saskatchewan -><affiliation>
+Saskatoon, SK S7N5A9, Canada -><address>
+piw410@mail.usask.ca -><email>
+Gordon McCalla -><author>
+Dept. of Computer Science -><affiliation>
+University of Saskatchewan -><affiliation>
+Saskatoon, SK S7N5A9, Canada -><address>
+mccalla@cs.usask.ca -><email>
+Julita Vassileva -><author>
+Dept. of Computer Science -><affiliation>
+University of Saskatchewan -><affiliation>
+Saskatoon, SK S7N5A9, Canada -><address>
+jiv@cs.usask.ca -><email>

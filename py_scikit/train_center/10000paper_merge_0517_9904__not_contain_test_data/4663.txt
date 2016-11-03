@@ -1,0 +1,7 @@
+Composite Cell Agent Model of Epithelial Culture In Vitro -><title>
+Sean H. J. Kim1 and C. Anthony Hunt1,2 -><author>
+1 Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, California 94143 -><affiliation>
+2 Joint Graduate Group in Bioengineering, University of California, Berkeley and San Francisco, California 94720 -><address>
+seanhjk@gmail.com a.hunt@ucsf.edu -><email>
+Keywords: cell biology, composite agent, cross-model vali- -><keyword>
+dation, morphogenesis, synthetic modeling, systems biology -><keyword>

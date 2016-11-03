@@ -1,0 +1,23 @@
+Randomized Strategic Demand Reduction -><title>
+Getting More by Asking for Less -><title>
+Paul S. A. Reitsma -><author>
+Brown University -><affiliation>
+Peter Stone -><author>
+University of Texas at Austin -><affiliation>
+Ja´nos A. Csirik -><author>
+AT&T Labs Research -><affiliation>
+Michael L. Littman -><author>
+Stowe Research -><affiliation>
+janos@research.att.com -><email>
+www.research.att.com/˜janos -><email>
+mlittman@cs.duke.edu -><email>
+www.cs.duke.edu/˜mlittman -><email>
+psar@cs.brown.edu -><email>
+www.cs.brown.edu/˜psar -><email>
+pstone@cs.utexas.edu -><email>
+www.cs.utexas.edu/˜pstone -><note>
+Categories and Subject Descriptors -><note>
+I.2.1 [Computing Methodologies]: Artificial Intelligence—Appli- -><note>
+cations and Expert Systems -><note>
+Keywords -><keyword>
+Bidding agents, auctions, strategic demand reduction -><keyword>

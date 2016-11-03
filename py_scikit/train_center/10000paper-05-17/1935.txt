@@ -1,0 +1,5 @@
+A Logic of Probabilistic Knowledge and Strategy -><title>
+Xiaowei Huang and Cheng Luo -><author>
+School of Computer Science and Engineering -><affiliation>
+University of New South Wales, Australia -><affiliation>
+{xiaoweih,luoc}@cse.unsw.edu.au -><email>

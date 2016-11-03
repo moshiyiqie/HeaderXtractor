@@ -1,0 +1,8 @@
+Performance Evaluation on CRL Distribution using -><title>
+Flooding in Mobile Ad Hoc Networks (MANETs) -><title>
+H. W. Go1 P. Y. Chan1 Y. Dong2 A. F. Sui1 -><author>
+S. M. Yiu1 Lucas C. K. Hui1 Victor O. K. Li2 -><author>
+1 Dept. of Computer Science 2 Dept. of Electrical and Electronic Engineering -><affiliation>
+The University of Hong Kong The University of Hong Kong -><author>
+Hong Kong Hong Kong -><author>
+{hwgo, pychan, afsui, smyiu, hui}@cs.hku.hk {ydong, vli}@eee.hku.hk -><email>

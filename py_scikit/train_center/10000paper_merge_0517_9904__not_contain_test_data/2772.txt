@@ -1,0 +1,8 @@
+Steve Dahlskog -><author>
+Computer Science Department -><affiliation>
+Julian Togelius, Mark J. Nelson -><author>
+Center for Computer Games Research -><affiliation>
+IT University of Copenhagen -><affiliation>
+Copenhagen, Denmark -><address>
+julian@togelius.com, mjas@itu.dk -><email>
+steve.dahlskog@mah.se -><email>

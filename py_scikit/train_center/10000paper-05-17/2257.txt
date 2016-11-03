@@ -1,0 +1,7 @@
+Online Mechanism Design for Scheduling Non-Preemptive -><title>
+Jobs under Uncertain Supply and Demand -><title>
+Philipp Ströhle∗, Enrico H. Gerding, Mathijs M. de Weerdt◦, -><author>
+Sebastian Stein, Valentin Robu -><author>
+∗ Karlsruhe Institute of Technology, Germany, philipp.stroehle@kit.edu -><affiliation>
+ University of Southampton, UK, {eg,ss2,vr2}@ecs.soton.ac.uk -><affiliation>
+◦ Delft University of Technology, Netherlands, m.m.deweerdt@tudelft.nl -><affiliation>

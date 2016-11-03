@@ -1,0 +1,5 @@
+Stop the Compartmentalization: Unified Robust -><title>
+Algorithms for Handling Uncertainties in Security Games -><title>
+Thanh H. Nguyen, Albert Xin Jiang, Milind Tambe -><author>
+University of Southern California, Los Angeles, CA 90089, USA -><affiliation>
+{thanhhng,jiangx,tambe}@usc.edu -><email>

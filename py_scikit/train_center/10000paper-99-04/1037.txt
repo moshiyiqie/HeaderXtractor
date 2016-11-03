@@ -1,0 +1,6 @@
+A Learning by Doing Model for Teaching Advanced Databases -><title>
+M. V. Ramakrishna -><author>
+School of CSSE -><affiliation>
+Monash University -><affiliation>
+Caulfield, Australia 3145 -><address>
+rama@csse.monash.edu.au -><email>

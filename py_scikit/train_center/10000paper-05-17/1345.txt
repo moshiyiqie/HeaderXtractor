@@ -1,0 +1,17 @@
+Maintaining Team Coherence -><title>
+under the Velocity Obstacle Framework -><title>
+Kostas Bekris -><author>
+University of Nevada, Reno -><affiliation>
+1664 N. Virginia St., MS171 -><address>
+Reno, NV 89557 -><address>
+bekris@cse.unr.edu -><email>
+Andrew Dobson -><author>
+University of Nevada, Reno -><affiliation>
+1664 N. Virginia St., MS171 -><address>
+Reno, NV 89557 -><address>
+dobsona@cse.unr.edu -><email>
+Andrew Kimmel -><author>
+University of Nevada, Reno -><affiliation>
+1664 N. Virginia St., MS171 -><address>
+Reno, NV 89557 -><address>
+akimmel@cse.unr.edu -><email>

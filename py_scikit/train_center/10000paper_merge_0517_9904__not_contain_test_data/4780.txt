@@ -1,0 +1,16 @@
+Fault Tolerant Distributed Computing -><title>
+using Asynchronous Local Checkpointing -><title>
+Phillip Kuang -><author>
+John Field -><author>
+Carlos A. Varela -><author>
+Google -><affiliation>
+New York, NY USA -><address>
+jfield@google.com -><email>
+Dept. of Computer Science -><affiliation>
+Rensselaer Polytechnic Institute -><affiliation>
+Troy, NY USA -><address>
+kuangp@rpi.edu -><email>
+Dept. of Computer Science -><affiliation>
+Rensselaer Polytechnic Institute -><affiliation>
+Troy, NY USA -><address>
+cvarela@cs.rpi.edu -><email>

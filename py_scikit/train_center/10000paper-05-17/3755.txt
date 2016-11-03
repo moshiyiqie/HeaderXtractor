@@ -1,0 +1,7 @@
+An Architecture For High-Speed Execution of Upper -><title>
+Layer (4-7) Network Protocols -><title>
+Taskin Kocak -><author>
+Department of Electrical and Computer Engineering -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, FL 32816 -><address>
+tkocak@cpe.ucf.edu -><email>

@@ -1,0 +1,13 @@
+Formal Semantics and Communication Strategies for -><title>
+Proactive Information Delivery Among Team-based Agents -><title>
+Mike Miller, Richard A. Volz -><author>
+John Yen, Xiaocong Fan, Shuang Sun, -><author>
+Rui Wang, Cong Chen, Kaivan Kamali -><author>
+Dept. of Computer Science -><affiliation>
+Texas A&M University -><affiliation>
+College Station, TX 77843 -><address>
+volz@cs.tamu.edu -><email>
+School of Information Sciences and Technology -><affiliation>
+The Pennsylvania State University -><affiliation>
+University Park, PA16802 -><affiliation>
+{jyen,zfan}@ist.psu.edu -><email>

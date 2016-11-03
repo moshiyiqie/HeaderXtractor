@@ -1,0 +1,10 @@
+Specifying and Applying Commitment-Based -><title>
+Business Patterns -><title>
+Amit K. Chopra -><author>
+University of Trento -><affiliation>
+Via Sommarive, 14 I-38123 Povo, Italy -><address>
+chopra@disi.unitn.it -><email>
+Munindar P. Singh -><author>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-8206 -><address>
+singh@ncsu.edu -><email>

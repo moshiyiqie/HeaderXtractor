@@ -1,0 +1,16 @@
+Automated Selection of Auto Crash Causes -><title>
+Hui-Chuan Chen -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Tuscaloosa, AL 35487-0290 -><address>
+chen@cs.ua.edu -><email>
+Huanjing Wang -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Tuscaloosa, AL 35487-0290 -><address>
+hwang@cs.ua.edu -><email>
+Allen Parrish -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Tuscaloosa, AL 35487-0290 -><address>
+parrish@cs.ua.edu -><email>

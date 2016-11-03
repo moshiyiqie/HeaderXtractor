@@ -1,0 +1,17 @@
+Personalizing Communication about Trust -><title>
+Jordi Sabater-Mir -><title>
+IIIA-CSIC -><author>
+Spain -><author>
+jsabater@iiia.csic.es -><email>
+Andrew Koster -><author>
+IIIA-CSIC, -><email>
+Universitat Autònoma de -><affiliation>
+Barcelona -><address>
+Spain -><address>
+andrew@iiia.csic.es -><email>
+Marco Schorlemmer -><author>
+IIIA-CSIC, -><pubnum>
+Universitat Autònoma de -><affiliation>
+Barcelona -><address>
+Spain -><address>
+marco@iiia.csic.es -><email>

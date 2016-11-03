@@ -1,0 +1,7 @@
+Distributed Lagrangean Relaxation Protocol for the -><title>
+Generalized Mutual Assignment Problem -><title>
+Katsutoshi Hirayama -><author>
+Kobe University -><affiliation>
+5-1-1 Fukaeminami-machi, Higashinada-ku -><address>
+Kobe 658-0022, Japan -><address>
+hirayama@maritime.kobe-u.ac.jp -><email>

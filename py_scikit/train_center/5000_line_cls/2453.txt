@@ -1,0 +1,12 @@
+Smart Exploration in Reinforcement Learning using -><title>
+Absolute Temporal Difference Errors -><title>
+Doina Precup -><author>
+School of Computer Science -><affiliation>
+McGill University -><affiliation>
+Montreal, QC, Canada -><address>
+dprecup@cs.mcgill.ca -><email>
+Clement Gehring -><author>
+School of Computer Science -><affiliation>
+McGill University -><affiliation>
+Montreal, QC, Canada -><address>
+clement.gehring@mail.mcgill.ca -><email>

@@ -1,0 +1,6 @@
+Intuitive Control Using a Mediated Interface Module -><title>
+Sangseung Kang Jaehong Kim Jaeyeon Lee -><author>
+Robot Research Division, -><affiliation>
+Electronics and Telecommunications Research Institute, -><affiliation>
+Deajeon, Korea -><address>
+{kss, jhkim504, leejy}@etri.re.kr -><email>

@@ -1,0 +1,6 @@
+A Comparative Study of the Classification Techniques -><title>
+in Isolated Mandarin Syllable Tone Recognition -><affiliation>
+Jiatang Dong and Cen Li -><author>
+Department of Computer Science, Middle Tennessee State University -><affiliation>
+Murfreesboro, TN, 37132, Phone: (615) 904-8168 -><address>
+Email: jiatang.dong@gmail.com, cli@mtsu.edu -><email>

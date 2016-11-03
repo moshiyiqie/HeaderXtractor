@@ -1,0 +1,12 @@
+V-MAX: Tempered Optimism for Better -><title>
+PAC Reinforcement Learning -><title>
+Shimon Whiteson -><author>
+Informatics Institute -><affiliation>
+University of Amsterdam -><affiliation>
+Amsterdam, The Netherlands -><address>
+s.a.whiteson@uva.nl -><email>
+Karun Rao -><author>
+Informatics Institute -><affiliation>
+University of Amsterdam -><affiliation>
+Amsterdam, The Netherlands -><address>
+karunrao97@gmail.com -><email>

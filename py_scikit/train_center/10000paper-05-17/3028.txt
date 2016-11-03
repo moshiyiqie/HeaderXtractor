@@ -1,0 +1,21 @@
+Evaluation of a Real-Time Sport Information Service -><title>
+Yunrim Park -><author>
+School of EECS -><affiliation>
+Oregon State University -><affiliation>
+1147 Kelley Engr. Ctr. -><address>
+Corvallis, OR, 97331, USA -><address>
+parkyu@eecs.orst.edu -><email>
+Marie-Anne Midy -><author>
+School of EECS -><affiliation>
+Oregon State University -><affiliation>
+1147 Kelley Engr. Ctr -><address>
+Corvallis, OR, 97331, USA -><address>
++1-541-908-3227 -><phone>
+midym@onid.orst.edu -><email>
+Carlos Jensen -><author>
+School of EECS -><affiliation>
+Oregon State University -><affiliation>
+3061 Kelley Engr. Ctr. -><address>
+Corvallis, OR, 97331, USA -><address>
++1-541-737-2555 -><phone>
+cjensen@eecs.orst.edu -><email>

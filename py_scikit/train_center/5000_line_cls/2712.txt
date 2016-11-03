@@ -1,0 +1,34 @@
+Laugh-aware Virtual Agent and its Impact on User -><title>
+Amusement -><title>
+Radosław Niewiadomski -><author>
+TELECOM ParisTech -><affiliation>
+Rue Dareau, 37-39 -><address>
+75014 Paris, France -><address>
+niewiado@telecom- -><email>
+paristech.fr -><email>
+Jennifer Hofmann -><author>
+Universität Zürich -><affiliation>
+Binzmuhlestrasse, 14/7 -><address>
+8050 Zurich, Switzerland -><address>
+j.hofmann@ -><email>
+psychologie.uzh.ch -><email>
+Jérôme Urbain -><author>
+Université de Mons -><affiliation>
+Place du Parc 20 -><address>
+7000 Mons, Belgium -><address>
+jerome.urbain@ -><email>
+umons.ac.be -><web>
+Bilal Piot -><unknow>
+Supelec -><title>
+Rue Edouard Belin, 2 -><title>
+Johannes Wagner -><author>
+Universität Augsburg -><affiliation>
+Universitätsstr. 6a -><affiliation>
+86159 Augsburg, Germany -><address>
+wagner@hcm-lab.de -><affiliation>
+Tracey Platt -><author>
+Universität Zürich -><affiliation>
+Binzmuhlestrasse, 14/7 -><address>
+8050 Zurich, Switzerland -><address>
+tracey.platt@ -><email>
+psychologie.uzh.ch -><web>

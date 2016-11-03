@@ -1,0 +1,6 @@
+How difficult are novice code writing tasks? A software metrics approach -><title>
+Jacqueline Whalley and Nadia Kasto -><author>
+School of Computing and Mathematic Sciences -><affiliation>
+AUT University -><affiliation>
+Auckland, New Zealand -><address>
+{jwhalley,nkasto}@aut.ac.nz -><email>

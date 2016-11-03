@@ -1,0 +1,7 @@
+Using Agent-Based Tactics Models to Control Virtual -><title>
+Actors in VBS3 -><title>
+(Demonstration) -><title>
+Rick Evertsz, John Thangarajah, Nik Ambukovski -><author>
+School of Computer Science and IT -><affiliation>
+RMIT University, Melbourne, Australia -><affiliation>
+{firstname.lastname@rmit.edu.au} -><email>

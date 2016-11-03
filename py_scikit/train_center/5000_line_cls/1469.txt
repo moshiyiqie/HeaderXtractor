@@ -1,0 +1,17 @@
+Social Coordination without Communication in Multi-Agent -><title>
+Territory Exploration Tasks -><title>
+∗ -><title>
+Paul Schermerhorn -><author>
+Artificial Intelligence and Robotics Laboratory -><affiliation>
+Department of Computer Science and -><affiliation>
+Engineering -><affiliation>
+University of Notre Dame -><affiliation>
+Notre Dame, IN 46556 -><address>
+pscherm1@nd.edu -><email>
+Matthias Scheutz -><author>
+Artificial Intelligence and Robotics Laboratory -><affiliation>
+Department of Computer Science and -><affiliation>
+Engineering -><affiliation>
+University of Notre Dame -><affiliation>
+Notre Dame, IN 46556 -><address>
+mscheutz@nd.edu -><email>

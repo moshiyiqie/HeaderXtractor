@@ -1,0 +1,26 @@
+A Knowledge-Based Approach to the Specification and -><title>
+Verification of MAS Design -><title>
+Viviane Torres da Silva -><author>
+Computer Science Dept at PUC-Rio -><affiliation>
+R. Mq de S. Vicente, 225 - RJ -><address>
+22453-900 - Brazil -><address>
++55 21 2540 6915 #131 -><phone>
+viviane@inf.puc-rio.br -><email>
+Carlos J. P. de Lucena -><author>
+Computer Science Dept at PUC-Rio -><affiliation>
+R. Mq de S. Vicente, 225 - RJ -><address>
+22453-900 - Brazil -><address>
++55 21 2540 6915 #103 -><phone>
+lucena@inf.puc-rio.br -><email>
+Computer Science Dept at PUC-Rio -><affiliation>
+R. Mq de S. Vicente, 225 - RJ -><address>
+22453-900 - Brazil -><address>
++55 21 2540 6915 #131 -><phone>
+anarosa@inf.puc-rio.br -><email>
+Categories and Subject Descriptors -><keyword>
+D.2.2 [Software Engineering]: Design Tools and Techniques: -><keyword>
+Design verification -><keyword>
+General Terms -><keyword>
+Design, Verification. -><keyword>
+Keywords -><keyword>
+Multi-agent systems, design verification, ontology. -><keyword>

@@ -1,0 +1,16 @@
+On the Complexity of Practical ATL Model Checking -><title>
+Alessio Lomuscio -><author>
+Dept of Computer Science -><affiliation>
+University College London -><affiliation>
+London WC1E 6BT, UK -><address>
+A.Lomuscio@cs.ucl.ac.uk -><email>
+Wiebe van der Hoek -><author>
+Dept of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, UK -><address>
+wiebe@csc.liv.ac.uk -><email>
+Michael Wooldridge -><author>
+Dept of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, UK -><address>
+mjw@csc.liv.ac.uk -><email>

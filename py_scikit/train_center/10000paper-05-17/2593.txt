@@ -1,0 +1,7 @@
+Quantifying and Improving Robustness of Trust Systems -><title>
+(Doctoral Consortium) -><title>
+Dongxia Wang -><author>
+Supervisors: Yang Liu and Jie Zhang -><author>
+School of Computer Engineering -><affiliation>
+Nanyang Technological University, Singapore -><affiliation>
+wangdx1204@gmail.com -><email>

@@ -1,0 +1,6 @@
+The Versatile List: A Pathway to Abstraction -><title>
+John Hamer and Adriana Ferraro -><author>
+Department of Computer Science -><affiliation>
+Unlvemity of Auckland -><affiliation>
+Auckland, New Zealand -><address>
+{J.Hamer, adriana}~cs.auckland.ac.nz -><email>

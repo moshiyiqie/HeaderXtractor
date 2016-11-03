@@ -1,0 +1,14 @@
+Agents and artefacts for multiple models co-evolution -><title>
+Building complex system simulation as a set of interacting models -><title>
+Vincent Chevrier -><affiliation>
+Nancy Universtity (UHP) -><affiliation>
+vincent.chevrier@loria.fr -><email>
+Julien Siebert -><author>
+INRIA, Centre Nancy Grand -><affiliation>
+Est -><address>
+julien.siebert@loria.fr -><email>
+Laurent Ciarletta -><author>
+Ecole National Supérieure des -><affiliation>
+Mines de Nancy -><affiliation>
+laurent.ciarletta@loria.fr -><email>
+LORIA - Campus Scientiﬁque - BP 239 - 54506 Vandoeuvre-lès-Nancy, France -><address>

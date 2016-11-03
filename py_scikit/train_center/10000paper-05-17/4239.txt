@@ -1,0 +1,34 @@
+A COMPLEX EVENT PROCESSING PROJECT -><title>
+Yusuf Nzibo -><author>
+Jonathan Razza -><author>
+Kennesaw State University -><affiliation>
+Kennesaw State University -><affiliation>
+CSIS Department -><affiliation>
+CSIS Department -><affiliation>
+1000 Chastain Road -><address>
+1000 Chastain Road -><address>
+Kennesaw, GA 30144 -><address>
+Kennesaw, GA 30144 -><address>
+nziboy@yahoo.com -><email>
+jrazza@students.kennesaw.edu -><email>
+Bertin Feutcha -><affiliation>
+Kennesaw State University -><affiliation>
+CSIS Department -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA 30144 -><address>
+bfeutcha@students.kennesaw -><email>
+Travis Hite -><author>
+Kennesaw State University -><affiliation>
+CSIS Department -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA 30144 -><address>
+thite1@students.kennesaw.edu -><email>
+1. PROBLEM AND MOTIVATION -><pubnum>
+Event processing is defined as computing that performs -><abstract>
+operations on event objects, including creating, reading, -><abstract>
+transforming or deleting them. Complex Event Processing (CEP) -><abstract>
+is a new way to deal with applications where lots of agents -><abstract>
+producing huge amounts of data per second and you need to -><abstract>
+transform data into reliable information in a short amount of time. -><abstract>
+These applications consist of massive amounts of data being -><abstract>
+produced by the minute where traditional computing power -><abstract>

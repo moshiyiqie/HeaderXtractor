@@ -1,0 +1,17 @@
+Market-Based Agent Allocation in Global Information -><title>
+Systems -><title>
+I.N. Wang -><author>
+Dept. of Computer Science -><affiliation>
+Cardiff University -><affiliation>
+Cardiff, U.K. -><address>
+I.N.Wang@cs.cf.ac.uk -><email>
+N.J. Fiddian -><author>
+Dept. of Computer Science -><affiliation>
+Cardiff University -><affiliation>
+Cardiff, U.K. -><address>
+N.J.Fiddian@cs.cf.ac.uk -><email>
+W.A. Gray -><author>
+Dept. of Computer Science -><affiliation>
+Cardiff University -><affiliation>
+Cardiff, U.K. -><address>
+W.A.Gray@cs.cf.ac.uk -><email>

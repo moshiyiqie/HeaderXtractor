@@ -1,0 +1,20 @@
+Cognitive Policy Learner: Biasing Winning or Losing -><title>
+Strategies -><title>
+William Harrison -><author>
+School of Computer Science -><affiliation>
+and Statistics -><affiliation>
+Trinity College Dublin -><affiliation>
+Dublin, Ireland -><address>
+bill.harrison@cs.tcd.ie -><email>
+Jim Dowling -><author>
+Computer Systems Laboratory -><affiliation>
+Swedish Institute of Computer -><affiliation>
+Science -><affiliation>
+Stockholm, Sweden -><address>
+jim.dowling@sics.se -><email>
+Dominik Dahlem -><author>
+SENSEable City Laboratory -><affiliation>
+Massachusetts Institute of -><affiliation>
+Technology -><affiliation>
+Cambridge, USA -><address>
+dahlem@mit.edu -><email>

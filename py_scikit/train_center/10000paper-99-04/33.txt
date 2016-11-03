@@ -1,0 +1,19 @@
+Effort Profiles in Multi-Agent Resource Allocation -><title>
+H. Van Dyke Parunak Sven Brueckner John Sauter Robert Savit -><author>
+University of Michigan -><affiliation>
+Physics Department -><affiliation>
+Ann Arbor, MI 48109 -><address>
+1-734-764-3426 -><phone>
+Altarum -><author>
+3520 Green Ct Suite 300 -><affiliation>
+Ann Arbor, MI 48105 -><address>
+1-734-302-4682 -><phone>
+Altarum -><author>
+3520 Green Ct Suite 300 -><affiliation>
+Ann Arbor, MI 48105 -><address>
+1-734-302-4683 -><phone>
+Altarum -><author>
+3520 Green Ct Suite 300 -><affiliation>
+Ann Arbor, MI 48105 -><address>
+1-734-302-4684 -><phone>
+{van.parunak, sven.brueckner, john.sauter}@altarum.org savit@umich.edu -><email>

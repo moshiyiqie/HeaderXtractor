@@ -1,0 +1,23 @@
+Carplication - A Rhetorical Study Information Racer -><title>
+Christoph Wartmann -><author>
+flashvirtuosity.net -><affiliation>
+Sophie-Charlotten-Str. 46 -><address>
+D-14059 Berlin -><address>
++49 30 30 307 345 -><phone>
+root@flashvirtuosity.net -><email>
+Steffen P. Walz, -><author>
+Gerhard M. Buurman -><author>
+Game Design Program -><affiliation>
+University for Applied Sciences & -><affiliation>
+Arts, School of Art & Design (HGKZ) -><affiliation>
+Ausstellungsstr. 60, CH-8031 Zurich -><pubnum>
+Vuillemin -><unknow>
+NovodeX AG -><author>
+Technoparkstr. 1 -><intro>
+CH-8005 Zurich -><pubnum>
++41 1 445 1326 -><pubnum>
++41 43 446 2350 -><pubnum>
+{simon.schirm,adam.moravanszky, -><web>
+ronald.vuillemin@novodex.com} -><email>
+{steffen.walz, -><email>
+gerhard.buurman@hgkz.ch} -><email>

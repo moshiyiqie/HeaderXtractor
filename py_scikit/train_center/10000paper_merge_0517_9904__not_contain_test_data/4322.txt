@@ -1,0 +1,12 @@
+An Empirical Study of Visual Security Cues to Prevent the -><title>
+SSLstripping Attack -><title>
+Rodrigo Lopes -><author>
+Computer Science and Engineering -><affiliation>
+New Mexico Tech -><address>
+Socorro, NM 87801, USA -><address>
+rodrigo@nmt.edu -><email>
+Dongwan Shin -><author>
+Computer Science and Engineering -><affiliation>
+New Mexico Tech -><address>
+Socorro, NM 87801, USA -><address>
+doshin@nmt.edu -><email>

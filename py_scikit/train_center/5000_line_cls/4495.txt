@@ -1,0 +1,10 @@
+Social Network Programming with JavaScript and Spotter -><title>
+Tarsem S. Purewal Jr. -><author>
+Department of Computer Science -><affiliation>
+University of North Carolina at Asheville -><affiliation>
+spurewal@unca.edu -><email>
+David Brown -><author>
+Department of Business and Computer -><affiliation>
+Technology -><affiliation>
+Pellissippi State Community College -><affiliation>
+drbrown@pstcc.edu -><email>

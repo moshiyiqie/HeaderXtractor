@@ -1,0 +1,12 @@
+Fighting with Jelly: User-Centered Development of Wireless Infrastructure -><title>
+Visualization Tools for Authoring Location-Based Experiences -><title>
+Leif Oppermann, Boriana Koleva, Steve Benford -><author>
+School of Computer Science -><affiliation>
+University of Nottingham -><affiliation>
+Nottingham NG8 1BB, UK -><address>
+{lxo,bnk,sdb}@cs.nott.ac.uk -><email>
+Matt Watkins, Rachel Jacobs -><author>
+Active Ingredient, Broadway Media Centre -><affiliation>
+14-18 Broad Street -><address>
+Nottingham NG1 3AL, UK -><address>
+{matt,rachel}@i-am-ai.net -><email>

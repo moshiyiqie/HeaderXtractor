@@ -1,0 +1,28 @@
+TACOP: A Cognitive Agent for a Naval Training Simulation -><title>
+Environment -><title>
+Annerieke Heuvelink -><title>
+Department of Training and -><author>
+Instruction, TNO Defence, Security -><author>
+and Safety -><affiliation>
+P.O. Box 23 -><address>
+3769 ZG Soesterberg, The -><address>
+Netherlands -><address>
++31-346356211 -><phone>
+heuvelink@tm.tno.nl -><email>
+Egon L. van den Broek -><author>
+Department of Artificial Intelligence, -><affiliation>
+Vrije Universiteit Amsterdam -><affiliation>
+De Boelelaan 1081a -><address>
+1081 HV Amsterdam, The -><address>
+Netherlands -><address>
++31-20 5987743 -><phone>
+egon@few.vu.nl -><email>
+Willem A. van Doesburg -><author>
+Department of Training and -><affiliation>
+Instruction, TNO Defence, Security -><keyword>
+and Safety -><note>
+P.O. Box 23 -><address>
+3769 ZG Soesterberg, The -><address>
+Netherlands -><address>
++31-346356211 -><phone>
+vandoesburg@tm.tno.nl -><email>

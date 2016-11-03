@@ -1,0 +1,34 @@
+Facial Expressions as Game Input with Different Emotional -><title>
+Feedback Conditions -><title>
+Michael Lankes -><author>
+ICT&S Center, Univ. Salzburg -><affiliation>
+Sigmund-Haffner-Gasse 18 -><address>
+5020 Salzburg -><address>
+michael.lankes@sbg.ac.at -><email>
+Stefan Riegler -><author>
+ICT&S Center, Univ. Salzburg -><affiliation>
+Sigmund-Haffner-Gasse 18 -><address>
+5020 Salzburg -><address>
+stefan.riegler@sbg.ac.at -><email>
+Astrid Weiss -><author>
+ICT&S Center, Univ. Salzburg -><affiliation>
+Sigmund-Haffner-Gasse 18 -><address>
+5020 Salzburg -><address>
+astrid.weiss@sbg.ac.at -><email>
+Manfred Tscheligi -><author>
+ICT&S Center, Univ. Salzburg -><affiliation>
+Sigmund-Haffner-Gasse 18 -><address>
+5020 Salzburg -><address>
+manfred.tscheligi@sbg.ac.at -><email>
+Thomas Mirlacher -><author>
+ICT&S Center, Univ. Salzburg -><affiliation>
+Sigmund-Haffner-Gasse 18 -><address>
+5020 Salzburg -><address>
+thomas.mirlacher -><email>
+@sbg.ac.at -><email>
+Michael Pirker -><author>
+ICT&S Center, Univ. Salzburg -><affiliation>
+Sigmund-Haffner-Gasse 18 -><address>
+5020 Salzburg -><address>
+michael.pirker3 -><email>
+@sbg.ac.at -><email>

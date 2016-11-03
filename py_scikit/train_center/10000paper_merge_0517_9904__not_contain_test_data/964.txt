@@ -1,0 +1,16 @@
+Using Spatial Hints to Improve Policy Reuse in a -><title>
+Reinforcement Learning Agent -><title>
+Bruno N. da Silva -><author>
+Computer Science Department -><affiliation>
+University of British Columbia -><affiliation>
+201-2366 Main Mall -><address>
+Vancouver, BC Canada -><address>
++1 604 822 3061 -><phone>
+bnds@cs.ubc.ca -><email>
+Alan Mackworth -><author>
+Computer Science Department -><affiliation>
+University of British Columbia -><affiliation>
+201-2366 Main Mall -><address>
+Vancouver, BC Canada -><address>
++1 604 822 3061 -><phone>
+mack@cs.ubc.ca -><email>

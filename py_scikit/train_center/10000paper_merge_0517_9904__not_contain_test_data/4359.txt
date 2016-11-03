@@ -1,0 +1,15 @@
+Iris: A Scalable Cloud File System with -><affiliation>
+Efﬁcient Integrity Checks -><affiliation>
+∗ -><title>
+Ari Juels -><author>
+RSA Laboratories -><affiliation>
+ajuels@rsa.com -><email>
+Marten van Dijk -><author>
+RSA Laboratories -><affiliation>
+mvandijk@rsa.com -><email>
+Emil Stefanov -><email>
+UC Berkeley -><author>
+emil@cs.berkeley.edu -><email>
+Alina Oprea -><author>
+RSA Laboratories -><affiliation>
+aoprea@rsa.com -><email>

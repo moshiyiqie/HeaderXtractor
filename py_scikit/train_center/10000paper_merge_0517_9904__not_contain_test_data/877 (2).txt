@@ -1,0 +1,6 @@
+From C to Java: A Case Study in -><title>
+Portability, Efficiency, and Maintenance -><title>
+Larry A. Barowski, -><author>
+Computer Science and Engineenng -><affiliation>
+Auburn University, AL -><affiliation>
+{larrybar, cross, hendnx} @eng.aubum.edu -><email>

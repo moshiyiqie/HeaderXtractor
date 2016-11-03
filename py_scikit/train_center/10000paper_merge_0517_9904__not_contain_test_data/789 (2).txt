@@ -1,0 +1,16 @@
+Localizing -><title>
+GECHTER -><title>
+UHP-NANCY -><title>
+CHARPILLET -><title>
+INRIA -><title>
+CHEVRIER -><title>
+UHP-NANCY -><title>
+LORIA -><author>
+F-54506 -><pubnum>
+LORIA -><author>
+F-54506 -><pubnum>
+LORIA -><author>
+F-54506 -><pubnum>
+charp@loria.fr -><email>
+chevrier@loria.fr -><email>
+gechterf@loria.fr -><email>

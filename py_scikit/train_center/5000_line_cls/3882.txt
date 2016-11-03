@@ -1,0 +1,34 @@
+Inter-glow: Interaction by Controlling Light -><title>
+Atsushi Hiyama -><author>
+Tomohiro Tanikawa -><author>
+Graduate School of Information -><affiliation>
+Graduate School of Information -><affiliation>
+Science and Technology, -><affiliation>
+Science and Technology, -><affiliation>
+the University of Tokyo -><affiliation>
+the University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku, Tokyo -><address>
+7-3-1 Hongo, Bunkyo-ku, Tokyo -><address>
+113-8656, Japan -><address>
+113-8656, Japan -><address>
+TEL: +81-3-5841-6369 -><phone>
+TEL: +81-3-5841-6369 -><phone>
+atsushi@cyber.t.u-tokyo.ac.jp -><email>
+tani@cyber.t.u-tokyo.ac.jp -><email>
+Michitaka Hirose -><degree>
+Graduate School of Information -><degree>
+Science and Technology, -><degree>
+the University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku, Tokyo -><address>
+113-8656, Japan -><address>
+TEL: +81-3-5841-6369 -><phone>
+hirose@cyber.t.u-tokyo.ac.jp -><email>
+Takuji Narumi -><author>
+Graduate School of -><affiliation>
+Interdisciplinary Information -><unknow>
+Studies, -><title>
+the University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku, Tokyo -><address>
+113-8656, Japan -><address>
+TEL: +81-3-5841-6369 -><phone>
+narumi@cyber.t.u-tokyo.ac.jp -><email>

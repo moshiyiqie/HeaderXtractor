@@ -1,0 +1,10 @@
+Classiﬁcation and Strategical Issues of Argumentation -><title>
+Games on Structured Argumentation Frameworks -><title>
+Matthias Thimm -><author>
+Technische Universität Dortmund -><affiliation>
+Germany -><address>
+matthias.thimm@tu-dortmund.de -><email>
+Alejandro J. García -><author>
+Universidad Nacional del Sur, Bahía Blanca -><affiliation>
+Argentina -><address>
+ajg@cs.uns.edu.ar -><email>

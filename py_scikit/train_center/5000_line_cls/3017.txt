@@ -1,0 +1,34 @@
+Distributed Constraint Optimization for Mobile Sensor -><title>
+Teams -><title>
+(Doctoral Consortium) -><title>
+Harel Yedidsion -><author>
+Department of Industrial Engineering and Management -><affiliation>
+Ben-Gurion University -><affiliation>
+Israel -><address>
+yedidsio@bgu.ac.il -><email>
+Coordinating a mobile sensing agents (MST) to adequately -><abstract>
+position themselves with regards to points of interest gener- -><abstract>
+ally called targets (e.g., disaster survivors, military targets, -><abstract>
+or pollution spills), is a challenging problem in many mul- -><abstract>
+tiagent applications. Such applications are inherently dy- -><abstract>
+namic due to changes in the environment, technology fail- -><abstract>
+ures, and incomplete knowledge of the agents. Agents must -><abstract>
+adaptively respond by changing their locations to continu- -><abstract>
+ally optimize the coverage of targets. Optimally choosing -><abstract>
+where to position agents to meet the coverage requirements -><abstract>
+in a static setting is a known NP-hard optimization prob- -><abstract>
+lem. Doing so in a dynamic distributed environment is a -><abstract>
+challenging task. In this work I continue to develop and -><abstract>
+study the DCOP MST model [2] which is a new model for -><abstract>
+representing MST problems that is based on the Distributed -><abstract>
+Constraint Optimization (DCOP) Framework. -><abstract>
+DCOP is a general model of distributed multi-agent coor- -><abstract>
+dination. A DCOP is constituted of agents, variables, and -><abstract>
+(soft and hard) constraints between sets of variables that -><abstract>
+reflect the costs of assignments to the variables. Each agent -><abstract>
+has exclusive control over a subset of the variables and knows -><abstract>
+information relevant to its variables, such as the values that -><abstract>
+can be assigned to them (their domains) and the constraints -><abstract>
+involving them. The goal is to select an assignment of val- -><abstract>
+ues to the variables that minimizes the aggregated costs of -><abstract>
+the constraints. In many ways DCOPs are a natural fit for -><abstract>

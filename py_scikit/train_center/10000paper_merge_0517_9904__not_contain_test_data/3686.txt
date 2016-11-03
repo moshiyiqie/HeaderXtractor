@@ -1,0 +1,34 @@
+Early Detection and Propagation Mitigation of -><title>
+Worm Programs -><title>
+Xin Xu and Weihua Song, Advisor: Vir Phoha -><author>
+College of Engineering and Science, Computer Science, -><affiliation>
+Louisiana Tech University, Ruston, LA 71270 -><affiliation>
+Email: {xxu001, wso003}@latech.edu -><email>
+Problem and Motivation: -><note>
+The wide-spread connectivity provided by Internet and an -><abstract>
+increasing use of computers have led to the rapid propagation of -><abstract>
+malicious mobile codes like viruses and worms. Worm programs -><abstract>
+have never stopped their attacking since Morris worm was found -><abstract>
+in 1988 [2]. Famous ones include Code Red and Nimda in 2001, -><abstract>
+SQL Slammer, Blaster and Welchia in 2003, Netsky and Sasser in -><abstract>
+2004. The computer worms disrupt tens of thousands of -><abstract>
+businesses and homes worldwide, and cause millions of dollars of -><abstract>
+loss in the society [5]. In this paper, we propose a control system -><abstract>
+to automatically detect such malicious code and mitigate its -><abstract>
+propagation at the early infection stage. -><abstract>
+Background and Related Work: -><abstract>
+As we know, when a machine is online, the network connection is -><abstract>
+generally localized and the connection rate is stable at certain -><abstract>
+level [1]. On the contrary, a worm program always tries to open as -><abstract>
+many connections as possible in order to propagate as fast as -><abstract>
+possible. This observation has been supported by evidence from -><abstract>
+[3] and [4]. Based on this observation, Williamson [1] provides a -><abstract>
+host-based throttling algorithm that could limit the spread of -><abstract>
+machines. Wong et al. [5] analyze the efficiency of different -><abstract>
+deployment strategies of the rate limiting mechanism using -><abstract>
+mathematical epidemic propagation models. We propose to build -><abstract>
+a control system that could detect worm propagation by using -><abstract>
+statistical process control techniques. The control system learns -><abstract>
+from the past data, and then identifies the possible worm -><abstract>
+propagation during the monitoring period. -><abstract>
+The use of statistical method in process control began at the Bell -><abstract>

@@ -1,0 +1,8 @@
+An Ontology Derived from -><title>
+Heterogeneous Sustainability Indicator Set Documents -><title>
+Lida Ghahremanloo1, James A. Thom1, Liam Magee2 -><author>
+1School of Computer Science and Information Technology -><affiliation>
+2School of Global Studies, Social Science and Planning -><affiliation>
+RMIT University -><address>
+Melbourne, Australia -><address>
+(lida.ghahremanloo,james.thom,liam.magee)@rmit.edu.au -><email>

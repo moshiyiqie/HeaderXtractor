@@ -1,0 +1,12 @@
+Learning Multirobot Joint Action Plans from Simultaneous -><title>
+Task Execution Demonstrations -><title>
+Murilo Fernandes Martins -><author>
+Dept. of Elec. and Electronic Engineering -><affiliation>
+Imperial College London -><affiliation>
+London, UK -><address>
+murilo@ieee.org -><email>
+Yiannis Demiris -><author>
+Dept. of Elec. and Electronic Engineering -><affiliation>
+Imperial College London -><affiliation>
+London, UK -><address>
+y.demiris@imperial.ac.uk -><email>

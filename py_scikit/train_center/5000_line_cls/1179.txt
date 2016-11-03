@@ -1,0 +1,10 @@
+A Cooperative Multiagent System for Traffic Management -><title>
+and Control1 -><title>
+Luis A. Garcia -><author>
+Applying intelligent Agents Res. Group -><affiliation>
+Applying intelligent Agents Res. Group -><affiliation>
++34 964 728490 -><date>
++34 964 728300 -><date>
+vtomas@icc.uji.es -><email>
+garcial@icc.uji.es -><email>
+Universitat Jaume I project number P1 1B2003-36 -><affiliation>

@@ -1,0 +1,15 @@
+Teleworkbench: Validating Robot Programs from -><title>
+Simulation to Prototyping with Minirobots -><title>
+(Demonstration) -><title>
+A. Tanoto -><author>
+System and Circuit Technology -><affiliation>
+Heinz Nixdorf Institute -><affiliation>
+University of Paderborn -><affiliation>
+33102 Paderborn, Germany -><address>
+tanoto@hni.uni-paderborn.de -><email>
+F. Werner, U. Rückert, and H. Li -><author>
+Cognitronics and Sensor Systems Group, CITEC -><affiliation>
+Bielefeld University -><affiliation>
+33615 Bielefeld, Germany -><address>
+{fwerner,rueckert,hli}@cit-ec.uni- -><email>
+bielefeld.de -><web>

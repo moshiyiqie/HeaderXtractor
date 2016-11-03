@@ -1,0 +1,6 @@
+Trust-Based Mechanism Design ∗ -><title>
+Nicholas R. Jennings -><author>
+Rajdeep K. Dash Sarvapali D. Ramchurn -><author>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton, Southampton, UK. -><affiliation>
+{rkd02r,sdr01r,nrj}@ecs.soton.ac.uk -><email>

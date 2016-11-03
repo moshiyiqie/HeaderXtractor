@@ -1,0 +1,26 @@
+Adaptive Advice in Automobile Climate Control Systems∗ -><title>
+Ariel Rosenfeld -><author>
+Department of Computer -><affiliation>
+Science, Bar-Ilan University -><affiliation>
+Ramat Gan, Israel -><address>
+rosenfa5@cs.biu.ac.il -><email>
+Sarit Kraus -><author>
+Department of Computer -><affiliation>
+Science, Bar-Ilan University -><affiliation>
+Ramat Gan, Israel -><address>
+sarit@cs.biu.ac.il -><email>
+Amos Azaria -><author>
+Machine Learning Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA, USA -><address>
+amos.azaria@gmail.com -><email>
+Claudia V. Goldman -><author>
+General Motors Advanced -><affiliation>
+Technical Center -><affiliation>
+Herzliya, Israel -><address>
+claudia.goldman@gm.com -><email>
+Omer Tsimhoni -><author>
+General Motors Advanced -><affiliation>
+Technical Center -><affiliation>
+Herzliya, Israel -><address>
+omer.tsimhoni@gm.com -><email>

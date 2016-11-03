@@ -1,0 +1,16 @@
+Heuristic Search of Multiagent Influence Space -><title>
+Frans A. Oliehoek -><author>
+CSAIL, MIT / DKE, Maastricht -><affiliation>
+University -><affiliation>
+Maastricht, The Netherlands -><address>
+fao@csail.mit.edu -><email>
+Stefan J. Witwicki -><author>
+GAIPS / INESC-ID -><affiliation>
+Instituto Superior Técnico -><affiliation>
+Porto Salvo, Portugal -><address>
+stefan.witwicki@ist.utl.pt -><email>
+Leslie P. Kaelbling -><author>
+CSAIL -><affiliation>
+MIT -><affiliation>
+Cambridge, MA 02139, USA -><address>
+lpk@csail.mit.edu -><email>

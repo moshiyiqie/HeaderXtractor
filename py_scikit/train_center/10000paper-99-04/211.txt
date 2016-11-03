@@ -1,0 +1,10 @@
+Bi-concurrent Layered Architecture for eCommerce -><title>
+Agents -><title>
+Onn Shehory, Maria Goldstein, Adi Shulman, Arnon Sturm, Boris Yurovitsky -><author>
+IBM Research Lab in Haifa -><affiliation>
+10 Hasadnaot St., Herzlia, ISRAEL -><address>
+{onn, maria, shulman1, sturm, yuboris} @il.ibm.com -><email>
+Categories and Subject Descriptors -><note>
+D.2.11 [Software Architectures]: Patterns -><note>
+General Terms -><note>
+Performance, Design, Experimentation. -><note>

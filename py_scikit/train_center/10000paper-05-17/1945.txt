@@ -1,0 +1,32 @@
+Multiuser Museum Interactives for Shared Cultural -><title>
+Experiences: an Agent-based Approach -><title>
+Matthew Yee-King -><author>
+Goldsmiths College -><affiliation>
+University of London -><affiliation>
+London SE14 6NW, UK -><address>
+mas01mjy@gold.ac.uk -><email>
+Roberto Confalonieri -><author>
+Goldsmiths College -><affiliation>
+University of London -><affiliation>
+London SE14 6NW, UK -><address>
+confalonieri@lsi.upc.edu -><email>
+Dave de Jonge -><author>
+Artificial Intelligence Research -><affiliation>
+Institute (CSIC-IIIA) -><affiliation>
+08193 Bellaterra, Spain -><address>
+davedejonge@iiia.csic.es -><email>
+Katina Hazelden -><author>
+Goldsmiths College -><affiliation>
+University of London -><affiliation>
+London SE14 6NW, UK -><address>
+exs01kh2@gold.ac.uk -><email>
+Mark d’Inverno -><author>
+Goldsmiths College -><affiliation>
+University of London -><affiliation>
+London SE14 6NW, UK -><address>
+dinverno@gold.ac.uk -><email>
+Carles Sierra -><author>
+Artificial Intelligence Research -><affiliation>
+Institute (CSIC-IIIA) -><affiliation>
+08193 Bellaterra, Spain -><address>
+sierra@iiia.csic.es -><email>

@@ -1,0 +1,23 @@
+Argument-Based Negotiation in a Social Context -><title>
+Timothy J. Norman -><author>
+Iyad Rahwan -><author>
+Nishan C. Karunatillake, -><author>
+Nicholas R. Jennings -><author>
+School of Electronics & Computer Sci. -><affiliation>
+University of Southampton -><affiliation>
+United Kingdom. -><address>
+{nnc02r, nrj}@ecs.soton.ac.uk -><email>
+Dept. of Computing Sci. -><affiliation>
+University of Aberdeen -><affiliation>
+United Kingdom. -><address>
+tnorman@csd.abdn.ac.uk -><email>
+Institute of Informatics -><affiliation>
+The British University in Dubai -><affiliation>
+P.O.Box 502216 Dubai, UAE. -><address>
+irahwan@acm.org -><email>
+Categories and Subject Descriptors -><note>
+I.2 [Computing Methodologies]: Articial Intelligence -><note>
+General Terms -><unknow>
+Theory -><title>
+Keywords -><keyword>
+Argumentation-based Negotiation, Conict Resolution. -><keyword>

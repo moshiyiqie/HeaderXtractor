@@ -1,0 +1,23 @@
+Gaze-Based Infotainment Agents -><title>
+Helmut Prendinger -><author>
+National Institute of -><affiliation>
+Informatics -><affiliation>
+2-1-2 Hitotsubashi, -><address>
+Chiyoda-ku -><address>
+Tokyo 101-8430, Japan -><address>
+helmut@nii.ac.jp -><email>
+Tobias Eichner -><author>
+Elisabeth André -><author>
+Institute of Computer Science -><affiliation>
+University of Augsburg -><affiliation>
+Eichleitnerstr. 30, D-86135 -><address>
+Augsburg, Germany -><address>
+tobias.eichner@gmail.com -><email>
+Mitsuru Ishizuka -><author>
+Graduate School of -><degree>
+Information Science -><degree>
+and Technology -><degree>
+The University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku, -><address>
+Tokyo 113-8656, Japan -><address>
+ishizuka@i.u-tokyo.ac.jp -><email>

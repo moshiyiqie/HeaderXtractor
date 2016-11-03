@@ -1,0 +1,13 @@
+Combining amorphous computing and reactive -><title>
+agent-based systems: a paradigm for pervasive -><title>
+intelligence? -><title>
+David Servat -><author>
+MIRIAD/OASIS/LIP6, Universite´ de Paris 6 -><affiliation>
+Boıˆte 169, 4 Place Jussieu -><address>
+75252 Paris Cedex 05 - France -><address>
+David.Servat@lip6.fr -><email>
+Alexis Drogoul -><author>
+MIRIAD/OASIS/LIP6, Universite´ de Paris 6 -><affiliation>
+Boıˆte 169, 4 Place Jussieu -><address>
+75252 Paris Cedex 05 - France -><address>
+Alexis.Drogoul@lip6.fr -><email>

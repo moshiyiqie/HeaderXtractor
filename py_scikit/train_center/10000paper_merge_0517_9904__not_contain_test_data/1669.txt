@@ -1,0 +1,12 @@
+Force-Based Clustering for Transitive Identity Mapping -><title>
+H. Van Dyke Parunak -><author>
+Sven A. Brueckner -><author>
+Soar Technology -><affiliation>
+Soar Technology -><affiliation>
+3600 Green Court, Suite 600 -><address>
+3600 Green Court, Suite 600 -><address>
+Ann Arbor, MI 48105 -><address>
++1 734 887 7642 -><phone>
++1 734 887 7643 -><phone>
+sven.brueckner@soartech.com -><email>
+van.parunak@soartech.com -><email>

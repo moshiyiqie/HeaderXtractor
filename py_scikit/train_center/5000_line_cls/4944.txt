@@ -1,0 +1,4 @@
+Modern Features for Systems Programming Languages -><title>
+Eric L. McCorkle -><author>
+Atlanta, GA -><affiliation>
+eric@shadowsun.net -><email>

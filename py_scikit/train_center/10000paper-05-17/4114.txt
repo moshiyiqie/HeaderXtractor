@@ -1,0 +1,13 @@
+Analysis Goal Expression Language∗ -><title>
+Sonal Dekhane -><author>
+Tulane University, Department of Electrical -><affiliation>
+Engineering and Computer Science -><affiliation>
+New Orleans -><address>
+Louisiana, USA -><address>
+dekhane@eecs.tulane.edu -><email>
+Boumediene Belkhouche -><author>
+Tulane University, Department of Electrical -><affiliation>
+Engineering and Computer Science -><affiliation>
+New Orleans -><address>
+Louisiana, USA -><address>
+bb@eecs.tulane.edu -><email>

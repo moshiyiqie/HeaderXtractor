@@ -1,0 +1,7 @@
+AgentScope: Multi-Agent Systems Development in Focus -><title>
+Elth Ogston -><author>
+Delft University of Technology -><affiliation>
+e.f.y.ogston@tudelft.nl -><email>
+Frances Brazier -><author>
+Delft University of Technology -><affiliation>
+f.m.t.brazier@tudelft.nl -><email>

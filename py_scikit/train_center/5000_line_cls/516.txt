@@ -1,0 +1,24 @@
+Efficient Ordering and Parameterization of Multi-Linked -><title>
+Negotiation ∗ -><title>
+Xiaoqin Zhang -><author>
+Computer and Information -><affiliation>
+Science Department -><affiliation>
+University of Massachusetts at -><affiliation>
+Dartmouth -><address>
+x2zhang@umassd.edu -><email>
+Victor Lesser -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+University of Massachusetts at -><affiliation>
+Amherst -><address>
+lesser@cs.umass.edu -><email>
+Sherief Abdallah -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+University of Massachusetts at -><affiliation>
+Amherst -><affiliation>
+shario@cs.umass.edu -><email>
+Categories and Subject Descriptors:[I.2.11]: Distributed -><keyword>
+Artiﬁcial Intelligence, Intelligent agents -><keyword>
+General Terms:Management, Performance -><keyword>
+Keywords:Multi-linked negotiation, Decision-making -><keyword>

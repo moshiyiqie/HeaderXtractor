@@ -1,0 +1,11 @@
+Unbounded Model Checking for Alternating-Time Temporal Logic ∗ -><title>
+M. Kacprzak -><author>
+Białystok University of Technology -><affiliation>
+Institute of Mathematics and Physics -><affiliation>
+e-mail: mdkacprzak@wp.pl -><email>
+W. Penczek -><author>
+Institute of Computer Science, PAS -><affiliation>
+and -><unknow>
+Podlasie Academy, -><author>
+Institute of Informatics, Siedlce, Poland -><affiliation>
+email: penczek@ipipan.waw.pl -><email>

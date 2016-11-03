@@ -1,0 +1,8 @@
+MAGENTA Technology: -><title>
+Multi-Agent Systems for Industrial Logistics -><title>
+Jon Himoff1 Petr Skobelev1 Michael Wooldridge2 -><author>
+1 MAGENTA Technology 2 Dept of Computer Science -><affiliation>
+33 Glasshouse Street University of Liverpool -><address>
+London W1B 5DG, UK Liverpool L69 7ZF, UK -><address>
+jon.himoff@magenta-technology.com mjw@csc.liv.ac.uk -><email>
+skobelev@magenta-technology.ru -><email>

@@ -1,0 +1,20 @@
+Modeling the Management of Water Resources Systems -><title>
+Using Multi-Objective DCOPs -><title>
+Andrea Castelletti -><author>
+Politecnico di Milano -><affiliation>
+Piazza Leonardo da Vinci 32 -><affiliation>
+20133 Milano, Italy -><address>
+andrea.castelletti@ -><email>
+polimi.it -><email>
+Francesco Amigoni -><email>
+Politecnico di Milano -><author>
+Piazza Leonardo da Vinci 32 -><affiliation>
+20133 Milano, Italy -><address>
+francesco.amigoni@ -><email>
+polimi.it -><email>
+Matteo Giuliani -><email>
+Politecnico di Milano -><author>
+Piazza Leonardo da Vinci 32 -><affiliation>
+20133 Milano, Italy -><address>
+matteo.giuliani@ -><email>
+polimi.it -><web>

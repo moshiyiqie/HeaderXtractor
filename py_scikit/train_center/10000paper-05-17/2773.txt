@@ -1,0 +1,6 @@
+experience: A survey on gamers satisfaction factors -><title>
+Maria - Eleni Paschali1, Apostolos Ampatzoglou2, Alexander Chatzigeorgiou3, Ioannis Stamelos1 -><author>
+1 Department of Informatics, Aristotle University, Thessaloniki, Greece -><affiliation>
+2 Department of Computer Science, University of Groningen, Groningen, The Netherlands -><affiliation>
+3 Department of Applied Informatics, University of Macedonia, Thessaloniki, Greece -><affiliation>
+maria.eleni.paschali@gmail.com, a.ampatzoglou@rug.nl, achat@uom.gr, stamelos@csd.auth.gr -><email>

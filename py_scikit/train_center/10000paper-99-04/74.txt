@@ -1,0 +1,25 @@
+Evolving Adaptive Pheromone Path Planning Mechanisms -><title>
+Robert Matthews -><title>
+H. Van Dyke Parunak -><title>
+Altarum -><author>
+Altarum -><author>
+PO Box 134001 -><note>
+PO Box 134001 -><note>
+Ann Arbor, MI 48113-4001 -><address>
+Ann Arbor, MI 48113-4001 -><address>
+1-734-302-4657 -><phone>
+1-734-302-4684 -><phone>
+robert.matthews@altarum.org -><email>
+van.parunak@altarum.org -><email>
+John A. Sauter -><author>
+Altarum -><note>
+PO Box 134001 -><note>
+Ann Arbor, MI 48113-4001 -><address>
+1-734-302-4682 -><phone>
+john.sauter@altarum.org -><email>
+Sven Brueckner -><author>
+Altarum -><affiliation>
+PO Box 134001 -><address>
+Ann Arbor, MI 48113-4001 -><address>
+1-734-302-4683 -><phone>
+sbrueckner@erim.org -><email>

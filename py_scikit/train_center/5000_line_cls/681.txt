@@ -1,0 +1,13 @@
+An Intent-Driven Planner for Multi-Agent Story Generation -><title>
+R. Michael Young -><author>
+Liquid Narrative Group -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695 -><address>
+young@csc.ncsu.edu -><email>
+Mark Owen Riedl -><author>
+Liquid Narrative Group -><affiliation>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695 -><address>
+moriedl@ncsu.edu -><email>

@@ -1,0 +1,23 @@
+Model-driven Integration of Federated Event Services in -><title>
+Real-time Component Middleware∗ -><title>
+Balachandran Natarajan -><author>
+Institute for Software -><affiliation>
+Integrated Systems -><affiliation>
+Vanderbilt University -><affiliation>
+Box 1829, Station B -><address>
+Nashville, TN 37235 -><address>
+b.natarajan@vanderbilt.edu -><email>
+Aniruddha Gokhale -><author>
+Institute for Software -><affiliation>
+Integrated Systems -><affiliation>
+Vanderbilt University -><affiliation>
+Box 1829, Station B -><address>
+Nashville, TN 37235 -><address>
+a.gokhale@vanderbilt.edu -><email>
+Gan Deng -><author>
+Institute for Software -><affiliation>
+Integrated Systems -><affiliation>
+Vanderbilt University -><affiliation>
+Box 1829, Station B -><address>
+Nashville, TN 37235 -><address>
+gan.deng@vanderbilt.edu -><email>

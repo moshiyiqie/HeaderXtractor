@@ -1,0 +1,34 @@
+Experimental Evaluation of Teamwork -><title>
+in Many-Robot Systems -><title>
+(Demonstration) -><title>
+Alberto Leo -><author>
+Space Software Italia s.r.l. -><affiliation>
+Rome, Italy -><address>
+alberto.leo@ssi.it -><email>
+Andrea D’Agostini -><author>
+Department of System and -><affiliation>
+Computer Sciences -><affiliation>
+“Sapienza” University of -><affiliation>
+Rome, Italy -><address>
+andreadago@gmail.com -><email>
+Daniele Calisi -><author>
+Department of System and -><affiliation>
+Computer Sciences -><affiliation>
+“Sapienza” University of -><affiliation>
+Rome, Italy -><address>
+calisi@dis.uniroma1.it -><email>
+Francesco Fedi -><author>
+Space Software Italia s.r.l. -><affiliation>
+Rome, Italy -><address>
+francesco.fedi@ssi.it -><email>
+Daniele Nardi -><author>
+Department of System and -><affiliation>
+Computer Sciences -><affiliation>
+“Sapienza” University of -><affiliation>
+Rome, Italy -><address>
+Luca Iocchi -><author>
+Department of System and -><affiliation>
+Computer Sciences -><affiliation>
+“Sapienza” University of -><affiliation>
+Rome, Italy -><address>
+iocchi@dis.uniroma1.it -><email>

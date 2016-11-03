@@ -1,0 +1,3 @@
+SciQL, A Query Language for Science Applications -><title>
+M. Kersten, Y. Zhang, M. Ivanova, N. Nes -><author>
+CWI, Netherlands -><affiliation>

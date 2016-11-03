@@ -1,0 +1,14 @@
+Efficiently Querying XML Bibliography Sources -><title>
+over the Web -><title>
+Mustafa Atay -><author>
+Department of Computer Science -><affiliation>
+Winston-Salem State University -><affiliation>
+Winston-Salem, NC 27110 USA -><address>
+1-336-750-8641 -><phone>
+ataymu@wssu.edu -><email>
+Isaac C. Crumpton Jr. -><author>
+Department of Homeland Security -><affiliation>
+US Computer Emergency Readiness Team -><affiliation>
+Washington, DC 20528 USA -><address>
+1-703-235-8510 -><phone>
+Isaac.Crumpton@us-cert.gov -><email>

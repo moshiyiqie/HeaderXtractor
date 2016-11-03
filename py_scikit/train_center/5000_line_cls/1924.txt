@@ -1,0 +1,6 @@
+False-name bidding in first-price combinatorial auctions -><title>
+with incomplete information -><title>
+Atsushi Iwasaki, Atsushi Katsuragi, and Makoto Yokoo -><author>
+Department of Informatics, Kyushu University -><affiliation>
+Fukuoka, 819-0395, Japan -><address>
+{iwasaki@, katsuragi@agent., yokoo@}is.kyushu-u.ac.jp -><email>

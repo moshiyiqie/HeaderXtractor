@@ -1,0 +1,16 @@
+Multi-Agent Coalition Re-Formation and League Ranking -><title>
+Eran Shoham -><author>
+Technion, Israel Institute of -><affiliation>
+Technology -><affiliation>
+Haifa 32000, ISRAEL -><address>
+erans@tx.technion.ac.il -><email>
+Gal Kaminka -><author>
+Dept. of Computer Science -><affiliation>
+Bar Ilan University -><affiliation>
+Ramat Gan 52900, ISRAEL -><address>
+galk@cs.biu.ac.il -><email>
+Onn Shehory -><author>
+IBM Haifa Research Labs -><affiliation>
+Haifa University -><affiliation>
+Haifa 31905, ISRAEL -><address>
+onn@il.ibm.com -><email>

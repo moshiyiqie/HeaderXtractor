@@ -1,0 +1,15 @@
+May -><title>
+Rendezvous: Supporting Real-time Collaborative Mobile -><affiliation>
+Gaming in High Latency Environments -><unknow>
+Angie Chandler -><author>
+Computing Department -><affiliation>
+Lancaster University -><affiliation>
+Lancaster, UK -><address>
++44 1524 510384 -><phone>
+angie@comp.lancs.ac.uk -><email>
+Joe Finney -><author>
+Computing Department -><affiliation>
+Lancaster University -><affiliation>
+Lancaster, UK -><address>
++44 1524 510325 -><phone>
+joe@comp.lancs.ac.uk -><email>

@@ -1,0 +1,11 @@
+Ascribing beliefs to resource bounded agents -><title>
+Brian Logan -><author>
+School of Computer Science and IT -><affiliation>
+University of Nottingham -><affiliation>
+Nottingham NG8 1BB, UK -><address>
+bsl@cs.nott.ac.uk -><email>
+Natasha Alechina -><author>
+School of Computer Science and IT -><affiliation>
+University of Nottingham -><affiliation>
+Nottingham NG8 1BB, UK -><address>
+nza@cs.nott.ac.uk -><email>

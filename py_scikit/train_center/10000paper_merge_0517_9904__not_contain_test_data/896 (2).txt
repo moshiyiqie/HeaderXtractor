@@ -1,0 +1,34 @@
+Comparing Local Subdivision Schemes -><title>
+X. Wu and J.K. Johnstone -><author>
+Dept. of Computer and Information Sciences, UAB -><affiliation>
+Birmingham, AL 35294 -><address>
+{wux,jj }@cis.uab.edu -><email>
+Subdivision surfaces are smooth surfaces gener- -><abstract>
+ated from polyhedral models. The three most popu- -><abstract>
+lar subdivision methods (Modified Butterfly, Loop, -><abstract>
+and )Catmull-Clark ) are compared in this project by -><abstract>
+the smooth surfaces they generate from the same -><abstract>
+initial meshes. Subdivision methods can be classi- -><abstract>
+fied by 3 independent characteristics: their fidelity -><abstract>
+to the data points (approximating vs. interpolat- -><abstract>
+ing), type of input mesh (triangular vs. quadrilat- -><abstract>
+eral), and type of refinement rule (vertex insertion -><abstract>
+vs. corner-cutting). All 3 methods that we study use -><abstract>
+vertex insertion. The Modified Butterfly scheme [2] -><abstract>
+uses interpolation on a triangular mesh, the Loop -><abstract>
+scheme [3] uses approximation on a triangular mesh, -><abstract>
+and the Catmull-Clark scheme [1] uses approxima- -><abstract>
+tion on a quadrilateral mesh. The different effect of -><abstract>
+the three schemes comes from the different subdivi- -><abstract>
+sion masks used (Fig. 1). -><abstract>
+There are important differences between the -><abstract>
+Loop and Modified Butterfly methods. As an ap- -><abstract>
+proximating scheme, Loop subdivision will not pre- -><abstract>
+serve the control points of the i-th level in the (i+l)- -><abstract>
+st level. For this reason, models shrink during sub- -><abstract>
+division (Fig. 1, column 2). This phenomenon is -><abstract>
+particularly obvious in simple models like the cube -><abstract>
+or tetrahedron. Complex models already have small -><abstract>
+enough triangles that this shrinkage ffect is less no- -><abstract>
+ticeable (Figs. 2-3). Modified Butterfly, on the other -><abstract>
+hand, will keep all the original control points (as -><abstract>

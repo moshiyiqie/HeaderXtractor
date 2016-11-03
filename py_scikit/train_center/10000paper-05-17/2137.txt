@@ -1,0 +1,7 @@
+Simulation-Based Behavior Tracking of Pedestrians -><title>
+in Partially Observed Indoor Environments -><title>
+Arsène Fansi T.?,∓, Vincent Thomas?, Olivier Buffet?, Fabien Flacher∓ , Alain Dutech? -><author>
+?Université de Lorraine, INRIA - LORIA, Nancy, France -><affiliation>
+∓Thales Services, 20-22 rue Grange Dame Rose, 78140 Vélizy, France -><address>
+{arsene.fansi-tchango, vincent.thomas, olivier.buffet, alain.dutech}@loria.fr -><email>
+fabien.flacher@thalesgroup.com -><email>

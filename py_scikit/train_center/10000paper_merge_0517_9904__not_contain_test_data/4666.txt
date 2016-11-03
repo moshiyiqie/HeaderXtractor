@@ -1,0 +1,6 @@
+The Observation of Tolerance in A Social Network Model -><title>
+Kristen Lund and Yu Zhang -><author>
+Department of Computer Science -><affiliation>
+Trinity University -><affiliation>
+San Antonio, TX 78212 -><address>
+{kristen.lund, yzhang}@trinity.edu -><email>

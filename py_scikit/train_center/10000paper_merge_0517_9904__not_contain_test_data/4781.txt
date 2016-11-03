@@ -1,0 +1,5 @@
+Scaling-Up Behavioral Programming: Steps from -><title>
+Basic Principles to Application Architectures -><title>
+David Harel Guy Katz -><author>
+Weizmann Institute of Science, Rehovot, Israel -><affiliation>
+david.harel@weizmann.ac.il, guy.katz@weizmann.ac.il -><email>

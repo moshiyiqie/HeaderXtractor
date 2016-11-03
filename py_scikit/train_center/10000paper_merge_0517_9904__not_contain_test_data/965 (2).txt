@@ -1,0 +1,20 @@
+Interactive Software Architecture Design with Modeling & -><title>
+Simulation -><title>
+Kai H. Chang -><author>
+Department of Computer -><affiliation>
+Science and Software -><affiliation>
+Engineering -><affiliation>
+Auburn University -><affiliation>
+kchang@eng.auburn.edu -><email>
+Yiming Ji -><author>
+Department of Computer -><affiliation>
+Science and Software -><affiliation>
+Engineering -><affiliation>
+Auburn University -><affiliation>
+jiyimin@auburn.edu -><email>
+Patrick O. Bobbie -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Southern Polytechnic State -><affiliation>
+University -><affiliation>
+pbobbie@spsu.edu -><email>

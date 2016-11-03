@@ -1,0 +1,9 @@
+Modeling Space in an Agent-Based Model of Malaria: -><title>
+Comparison between Non-Spatial and Spatial Models -><title>
+S. M. Niaz Arifin, Gregory J. Davis, and Ying Zhou -><author>
+Department of Computer Science and Engineering -><affiliation>
+University of Notre Dame -><affiliation>
+Notre Dame, IN 46556 -><address>
+sarifin@nd.edu, gdavis2@nd.edu, yzhou3@nd.edu -><email>
+Keywords: Spatial ABM, Landscape, Verification & Vali- -><email>
+dation, Malaria, Mosquito. -><keyword>

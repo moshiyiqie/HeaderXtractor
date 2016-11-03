@@ -1,0 +1,5 @@
+Patrick Gebhard -><note>
+German Research Center for Artificial Intelligence (DFKI) -><note>
+Stuhlsatzenhausweg 3 -><note>
++49 681 3025258 -><phone>
+patrick.gebhard@dfki.de -><email>

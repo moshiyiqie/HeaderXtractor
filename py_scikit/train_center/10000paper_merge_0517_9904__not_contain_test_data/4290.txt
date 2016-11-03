@@ -1,0 +1,8 @@
+Defending DSSS-based Broadcast Communication against -><title>
+Insider Jammers via Delayed Seed-Disclosure∗ -><title>
+Cliff Wang -><author>
+U.S. Army Research Office -><pubnum>
+cliff.wang@us.army.mil -><email>
+An Liu, Peng Ning, Huaiyu Dai, Yao Liu -><author>
+North Carolina State University -><affiliation>
+{aliu3, pning, huaiyu_dai, yliu20}@ncsu.edu -><email>

@@ -1,0 +1,7 @@
+Biologically Inspired Multi-Robot Foraging -><title>
+(Demonstration) -><title>
+Sjriek Alers1, Daniel Claes2, Karl Tuyls2 and Gerhard Weiss1 -><author>
+1 Maastricht University, P.O. Box 616, 6200MD Maastricht, The Netherlands -><affiliation>
+2 University of Liverpool, Ashton Building, Liverpool L69 3BX, United Kingdom -><address>
+{sjriek.alers, gerhard.weiss}@maastrichtuniversity.nl -><affiliation>
+{daniel.claes, k.tuyls}@liverpool.ac.uk -><email>

@@ -1,0 +1,28 @@
+Designing Location-based Mobile Games with a Purpose - -><title>
+Collecting Geospatial Data with CityExplorer -><title>
+Hiroko Mitarai -><title>
+Faculty of Environment and -><author>
+Information Studies, Keio -><author>
+University -><affiliation>
+5322 Endo, Fujisawa-shi -><address>
+Kanagawa 252-8520 Japan -><address>
+t05866hm@sfc.keio.ac.jp -><email>
+Maiko Kamata -><author>
+Graduate School of Media and -><affiliation>
+Governance, Keio University -><affiliation>
+(now NEC) -><affiliation>
+5322 Endo, Fujisawa-shi -><address>
+Kanagawa 252-8520 Japan -><address>
+m- -><phone>
+kamata@ap.jp.nec.com -><email>
+Sebastian Matyas, -><degree>
+Christian Matyas, -><degree>
+Christoph Schlieder, -><degree>
+Peter Kiefer -><author>
+Laboratory for Semantic -><affiliation>
+Information Processing -><degree>
+Otto-Friedrich-University -><affiliation>
+Bamberg, Feldkirchenstr. 21 -><address>
+Bamberg, Germany -><address>
+{name.surename}@uni- -><email>
+bamberg.de -><web>

@@ -1,0 +1,9 @@
+Intelligent Learning Agents for Music-Based Interaction -><title>
+and Analysis -><title>
+(Doctoral Consortium) -><title>
+Elad Liebman -><author>
+Supervisor: Prof. Peter Stone -><author>
+University of Texas at Austin -><affiliation>
+Computer Science Department -><affiliation>
+Austin, TX -><address>
+eladlieb@cs.utexas.edu -><email>

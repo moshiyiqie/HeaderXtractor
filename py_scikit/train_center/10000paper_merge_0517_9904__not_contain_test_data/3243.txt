@@ -1,0 +1,14 @@
+Enhancing a Motion Capture Interface by Introducing -><title>
+Context Management -><title>
+Pascal Estraillier(2) -><author>
+(2)Informatics, Image and Interaction Laboratory (L3i) -><affiliation>
+Francois Picard (1, 2) -><address>
+(1)XD Productions, R&D Department -><affiliation>
+145 rue Jean Jacques Rousseau -><address>
+92130, Issy les Moulineaux, France -><address>
++33(0)6-89-34-85-55 -><phone>
+Department of Informatics, University of La Rochelle -><affiliation>
+17042 La Rochelle, France -><address>
++33(0)5-46-45-91-14 -><phone>
+Fran.Picard at gmail dot com -><abstract>
+pascal.estraillier at univ-lr dot fr -><abstract>

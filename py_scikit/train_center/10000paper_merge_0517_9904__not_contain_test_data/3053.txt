@@ -1,0 +1,21 @@
+Learning Educational Research Methods through Collaborative -><affiliation>
+Research: The PhICER Initiative -><title>
+Anders Berglund1,3, Ilona Box2, Anna Eckerdal1, Raymond Lister2 and Arnold Pears1 -><author>
+1Uppsala Computing Education Research Group, -><affiliation>
+2Faculty of Information Technology -><affiliation>
+University of Technology Sydney -><address>
+P.O. Box 123, Broadway 2007 -><address>
+Sydney, Australia -><address>
+ibox@bigpond.net.au,raymond@it.uts.edu.au -><email>
+UpCERG -><author>
+Uppsala University -><affiliation>
+Department of Information Technology -><affiliation>
+P.O. Box 337, SE-751 05 -><address>
+Uppsala, Sweden -><address>
+{Anders.Berglund,Anna.Eckerdal,Arnold.Pears} -><email>
+@it.uu.se -><email>
+3 Currently also affiliated to -><date>
+Helsinki University of Technology -><affiliation>
+COMPSER laboratory -><affiliation>
+Department of Computer Science and Engineering, -><affiliation>
+Espoo, Finland -><address>

@@ -1,0 +1,5 @@
+Groups of Collaborating Users and Agents in Ambient Intelligent Environments -><title>
+Jan M.V. Misker, Cor J. Veenman, Leon J.M. Rothkrantz -><author>
+Delft University of Technology, Faculty of Electrical Engineering and Computer Science, -><affiliation>
+Man Machine Interaction group -><affiliation>
+{j.m.v.misker,c.j.veenman,l.j.m.rothkrantz@ewi.tudelft.nl} -><email>

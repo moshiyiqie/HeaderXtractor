@@ -1,0 +1,12 @@
+Reasoning under Compliance Assumptions in Normative -><title>
+Multiagent Systems -><title>
+Mehdi Dastani -><author>
+Utrecht University -><affiliation>
+Dept. of Computer Science -><affiliation>
+The Netherlands -><address>
+M.M.Dastani@uu.nl -><email>
+Max Knobbout -><author>
+Utrecht University -><affiliation>
+Dept. of Computer Science -><affiliation>
+The Netherlands -><address>
+M.Knobbout@students.uu.nl -><email>

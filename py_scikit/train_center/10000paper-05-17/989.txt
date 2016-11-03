@@ -1,0 +1,10 @@
+Combining Manual Feedback with Subsequent MDP -><title>
+Reward Signals for Reinforcement Learning -><title>
+W. Bradley Knox -><author>
+University of Texas at Austin -><affiliation>
+Department of Computer Science -><affiliation>
+bradknox@cs.utexas.edu -><email>
+Peter Stone -><author>
+University of Texas at Austin -><affiliation>
+Department of Computer Science -><affiliation>
+pstone@cs.utexas.edu -><email>

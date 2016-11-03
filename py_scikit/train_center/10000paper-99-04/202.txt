@@ -1,0 +1,16 @@
+An analysis of Multi-Agent Diagnosis -><title>
+Annette ten Teije -><author>
+Utrecht University, -><affiliation>
+ICS, -><address>
+P.O.Box 80.089, -><address>
+3508 TB Utrecht. -><pubnum>
+Nico Roos -><author>
+Universiteit Maastricht, -><affiliation>
+Infonomics / IKAT, -><affiliation>
+P.O.Box 616, -><address>
+6200 MD Maastricht. -><address>
+Andre´ Bos & Cees Witteveen -><note>
+Delft University of Technology, -><affiliation>
+ITS, -><note>
+P.O.Box 256, -><note>
+2600 AJ Delft. -><note>

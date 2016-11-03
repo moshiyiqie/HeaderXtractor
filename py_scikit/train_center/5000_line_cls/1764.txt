@@ -1,0 +1,16 @@
+Hybrid Transitive Trust Mechanisms -><title>
+Sven Seuken -><author>
+School of Engineering -><affiliation>
+& Applied Sciences -><affiliation>
+Harvard University -><affiliation>
+seuken@eecs.harvard.edu -><email>
+David C. Parkes -><author>
+School of Engineering -><affiliation>
+& Applied Sciences -><affiliation>
+Harvard University -><affiliation>
+parkes@eecs.harvard.edu -><email>
+Jie Tang -><author>
+Computer Science Division -><affiliation>
+University of California, -><affiliation>
+Berkeley -><web>
+jietang@eecs.berkeley.edu -><email>

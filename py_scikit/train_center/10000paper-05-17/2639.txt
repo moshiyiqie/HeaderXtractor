@@ -1,0 +1,6 @@
+Coordinating Measurements for Air Pollution Monitoring in -><title>
+Participatory Sensing Settings -><title>
+Alexandros Zenonos, Sebastian Stein and Nicholas R. Jennings -><author>
+Electronics and Computer Science -><affiliation>
+University of Southampton, UK -><affiliation>
+{az2g13,ss2,nrj}@ecs.soton.ac.uk -><email>

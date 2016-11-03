@@ -1,0 +1,4 @@
+Using Multiagent Teams to Improve the Training of Incident -><title>
+Commanders∗ -><title>
+Nathan Schurr, Pratik Patil, Fred Pighin, Milind Tambe, -><author>
+University of Southern California, Los Angeles, CA 90089, {schurr, pratiksp, pighin, tambe}@usc.edu -><email>

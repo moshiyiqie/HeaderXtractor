@@ -1,0 +1,18 @@
+Karri Palovuori -><title>
+Tampere University of Technology -><affiliation>
+Department of Electronics -><affiliation>
+33720 Tampere, Finland -><address>
++358-40-8490093 -><phone>
+karri.palovuori@tut.fi -><email>
+Ismo Rakkolainen -><author>
+University of Tampere -><affiliation>
+School of Information Sciences -><affiliation>
+33014 Tampere, Finland -><address>
++357-50-3185894 -><phone>
+ismo.rakkolainen@uta.fi -><email>
+Antti Sand -><author>
+University of Tampere -><affiliation>
+School of Information Sciences -><affiliation>
+33014 Tampere, Finland -><address>
++357-50-3185894 -><phone>
+antti.sand@uta.fi -><email>

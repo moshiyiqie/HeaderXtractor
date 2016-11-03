@@ -1,0 +1,28 @@
+Semantic Resolution for E-Commerce -><title>
+Yun Peng -><author>
+Dept. of Comp. Sci. and El. Eng. -><affiliation>
+University of Maryland Baltimore Co. -><affiliation>
+Baltimore, MD 21250, USA -><address>
+ypeng@cs.umbc.edu -><email>
+Youyong Zou -><author>
+Dept. of Comp. Sci. and El. Eng. -><affiliation>
+University of Maryland Baltimore Co. -><affiliation>
+Baltimore, MD 21250, USA -><address>
+yzou1@cs.umbc.edu -><email>
+Xiaocheng Luan -><author>
+Dept. of Comp. Sci. and El. Eng. -><affiliation>
+University of Maryland Baltimore Co. -><affiliation>
+Baltimore, MD 21250, USA -><address>
+xluan1@cs.umbc.edu -><email>
+Nenad Ivezic -><unknow>
+Michael Gruninger -><author>
+Albert Jones -><affiliation>
+100 Bureau Drive -><address>
+Gaithersburg, MD 20899, USA -><address>
+nivezic@nist.gov -><email>
+100 Bureau Drive -><address>
+Gaithersburg, MD 20899, USA -><address>
+gruning@nist.gov -><email>
+100 Bureau Drive -><address>
+Gaithersburg, MD 20899, USA -><address>
+ajones@nist.gov -><email>

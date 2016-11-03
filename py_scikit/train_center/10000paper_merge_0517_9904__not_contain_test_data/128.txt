@@ -1,0 +1,11 @@
+Optimal Sequencing of Individually Rational Contracts -><title>
+Partha Sarathi Dutta -><author>
+Math & CS Department -><affiliation>
+University of Tulsa -><affiliation>
+Tulsa, OK, USA -><address>
+partha@ens.utulsa.edu -><email>
+Sandip Sen -><author>
+Math & CS Department -><affiliation>
+University of Tulsa -><affiliation>
+Tulsa, OK, USA -><address>
+sandip@kolkata.mcs.utulsa.edu -><email>

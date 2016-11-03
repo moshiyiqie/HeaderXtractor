@@ -1,0 +1,23 @@
+Early Detection of Design Faults Relative to Requirement -><title>
+Specifications in Agent-Based Models -><title>
+∗ -><title>
+Yoosef Abushark -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+yoosef.abushark@rmit.edu.au -><email>
+John Thangarajah -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+johnt@rmit.edu.au -><email>
+Tim Miller -><author>
+University of Melbourne -><affiliation>
+Melbourne, Australia -><address>
+tmiller@unimelb.edu.au -><email>
+James Harland -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+james.harland@rmit.edu -><email>
+Michael Winikoff -><author>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+michael.winikoff@otago.ac.nz -><email>

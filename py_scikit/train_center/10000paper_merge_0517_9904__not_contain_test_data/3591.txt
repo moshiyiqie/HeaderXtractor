@@ -1,0 +1,11 @@
+Abstract1: Real Time prediction of end-to-end bandwidth is -><abstract>
+crucial for network quality of service. It remains a challenge for -><abstract>
+providing prediction in good quality. This is mainly because of -><abstract>
+uncertainties involved in network communication. Very recently a -><abstract>
+new algorithm called Rolling Interval Least Squares (RILS) [3] has -><abstract>
+been developed which significantly improved the variability forecast -><abstract>
+of the stock market. In this paper we extend the interval computing -><abstract>
+approach and applied RILS to innovatively predict bandwidth based -><abstract>
+on a wide range of rates. Experimental results indicate that RILS -><abstract>
+improved the quality of bandwidth variability prediction by about -><abstract>
+24% when compared to current methods. -><abstract>

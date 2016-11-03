@@ -1,0 +1,19 @@
+A Fuzzy Model of Reputation in Multi-Agent Systems -><title>
+Jose M. Molina Lopez -><author>
+Computer Science Dept. -><affiliation>
+Univ. Carlos III of Madrid -><affiliation>
+Leganes, 28911 Madrid (Spain) -><address>
+34-1-6249116 -><phone>
+molina@ia.uc3m.es -><email>
+Jorge Davila Muro -><author>
+Faculty of Computer Science -><affiliation>
+Technical Univ. of Madrid -><affiliation>
+Boadilla, 28660 Madrid (Spain) -><address>
+34-1-3366934 -><phone>
+jdavila@fi.upm.es -><email>
+Javier Carbo Rubiera -><author>
+Computer Science Dept. -><affiliation>
+Univ. Carlos III of Madrid -><affiliation>
+Leganes, 28911 Madrid (Spain) -><address>
+34-1-6249105 -><phone>
+jcarbo@inf.uc3m.es -><email>

@@ -1,0 +1,7 @@
+Clustering of Technology Tweets and the Impact of -><title>
+Stop Words on Clusters -><title>
+Teng-Sheng Moh and Surya Bhagvat -><author>
+Computer Science Department -><affiliation>
+San Jose State University -><affiliation>
+San Jose, CA 95192-0249 -><address>
+teng.moh@sjsu.edu and contact_surya@yahoo.com -><email>

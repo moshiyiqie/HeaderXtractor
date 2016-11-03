@@ -1,0 +1,7 @@
+XIAO: Tuning Code Clones at Hands of Engineers in -><title>
+Practice -><title>
+Yingnong Dang1, Dongmei Zhang1, Song Ge1, Chengyun Chu2, Yingjun Qiu3, Tao Xie4 -><author>
+1Microsoft Research Asia, China -><affiliation>
+2Microsoft Corporation, USA -><affiliation>
+3Alibaba Corporation, China, 4NC State University, USA -><affiliation>
+{yidang;dongmeiz;songge;chchu}@microsoft.com, soloqyj@msn.com, xie@csc.ncsu.edu -><email>

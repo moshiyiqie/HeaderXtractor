@@ -1,0 +1,11 @@
+Robust RF Fingerprinting Techniques in 4G Networks -><title>
+Dongwoon Hahn -><author>
+MAXWell Lab, UMIACS -><affiliation>
+University of Maryland, College Park -><affiliation>
+College Park, MD 20742 -><address>
+dhahn@umd.edu -><email>
+Ashok Agrawala -><author>
+MAXWell Lab, UMIACS -><affiliation>
+University of Maryland, College Park -><affiliation>
+College Park, MD 20742 -><address>
+agrawala@cs.umd.edu -><email>

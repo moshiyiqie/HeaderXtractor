@@ -1,0 +1,8 @@
+IT-enabled Donation Boxes to Promote Donation -><title>
+Kohei Tanaka, Murao Kazuya, Shojiro Nishio -><author>
+Graduate School of Information Science and Technology, Osaka University -><affiliation>
+{tanaka.kohei, murao.kazuya, nishio}@ist.osaka-u.ac.jp -><email>
+Satoshi Tanaka, Kohei Kinoshita, Yasuhiko Minami, Tsutomu Terada, Masahiko -><author>
+Tsukamoto -><author>
+Graduate School of Engineering, Kobe University -><affiliation>
+{tanaka@stu., kinoshita@stu., minami@stu., tsutomu@eedept., tuka@}kobe-u.ac.jp -><email>

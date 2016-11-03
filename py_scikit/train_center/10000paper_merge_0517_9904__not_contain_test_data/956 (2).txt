@@ -1,0 +1,5 @@
+Performance Evaluation of Cache Replacement Policies -><title>
+for the SPEC CPU2000 Benchmark Suite -><title>
+Hussein Al-Zoubi, Aleksandar Milenkovic, Milena Milenkovic -><author>
+Department of Electrical and Computer Engineering -><affiliation>
+The University of Alabama in Huntsville -><affiliation>

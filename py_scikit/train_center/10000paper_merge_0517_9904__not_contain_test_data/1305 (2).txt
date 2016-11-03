@@ -1,0 +1,15 @@
+Social Role Awareness in Animated Agents -><title>
+Helmut Prendinger -><author>
+Department of Information and Communication -><affiliation>
+Engineering -><affiliation>
+School of Engineering, University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan -><address>
++81 3 5841 6755 -><phone>
+helmut@miv.t.u-tokyo.jp -><email>
+Mitsuru Ishizuka -><author>
+Department of Information and Communication -><affiliation>
+Engineering -><affiliation>
+School of Engineering, University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan -><address>
++81 3 5841 6347 -><phone>
+ishizuka@miv.t.u-tokyo.jp -><email>

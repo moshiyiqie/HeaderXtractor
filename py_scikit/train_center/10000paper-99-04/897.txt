@@ -1,0 +1,16 @@
+On the Complexity of Sign-Nonsingularity and Equal Unions of Sets -><title>
+Alice A. McRae -><author>
+Dept. of Comp. Sci. -><affiliation>
+Appalachian State Univ. -><affiliation>
+Boone, NC 28698-2133 -><address>
+aam@cs.appstate.edu -><email>
+Robert E. Jamison -><author>
+Dept. of Math. Science -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634-0975 -><address>
+rejam@clemson.edu -><email>
+David P. Jacobs -><author>
+Dept. of Computer Science -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634-0974 -><address>
+dpj@clemson.edu -><email>

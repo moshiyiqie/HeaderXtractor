@@ -1,0 +1,20 @@
+The Integrated Modeling of Multi-Agent Systems -><title>
+and their Environment -><title>
+Daniel Pascot -><author>
+Dep. of Organizational Information -><affiliation>
+Systems, Laval University -><affiliation>
+Quebec City, Quebec, Canada -><address>
+(418) 656-2131 (ext. 3645) -><phone>
+Daniel.Pascot@sio.ulaval.ca -><email>
+Guy W. Mineau -><author>
+Dep. Of Computer Science, Laval -><affiliation>
+university -><affiliation>
+Quebec City, Quebec, Canada -><address>
+(418) 656-5189 -><phone>
+Guy.Mineau@ift.ulaval.ca -><email>
+Sehl Mellouli -><author>
+Dep. of computer Science, Laval -><affiliation>
+university -><affiliation>
+Quebec City, Quebec, Canada -><address>
+(418) 656-2131 (ext. 4704) -><phone>
+Sehl.Mellouli@ift.ulaval.ca -><email>

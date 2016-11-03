@@ -1,0 +1,7 @@
+Formalizing Organizational Constraints -><title>
+A Semantic Approach -><title>
+M. Birna van Riemsdijk1 Koen V. Hindriks1 Catholijn M. Jonker1 Maarten Sierhuis2 -><author>
+Delft University of Technology, Delft, The Netherlands1 -><affiliation>
+Carnegie Mellon University, California, USA2 -><affiliation>
+{m.b.vanriemsdijk,k.v.hindriks,c.m.jonker}@tudelft.nl1 -><email>
+maarten.sierhuis@sv.cmu.edu2 -><email>

@@ -1,0 +1,7 @@
+Type Inference and Informative Error Reporting -><title>
+for Secure Information Flow -><title>
+Zhenyue Deng Geoffrey Smith -><author>
+School of Computing and Information Sciences -><affiliation>
+Florida International University -><affiliation>
+Miami, FL 33199, USA -><address>
+zdeng01@cis.fiu.edu, smithg@cis.fiu.edu -><email>

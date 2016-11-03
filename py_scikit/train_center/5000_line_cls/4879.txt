@@ -1,0 +1,7 @@
+Performance Comparison of BQM and Normal Queue -><title>
+Management Techniques∗ -><title>
+Xiaoming Li -><author>
+Department of Computer Science and Software Engineering -><affiliation>
+Auburn University -><affiliation>
+Alabama, US -><affiliation>
+lixiaom@auburn.edu -><email>

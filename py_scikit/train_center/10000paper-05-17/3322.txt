@@ -1,0 +1,15 @@
+Automatic Configuration of Display Ordering for -><title>
+Multi-Display Environments -><title>
+Takashi Ohta -><author>
+School of Media Science -><affiliation>
+Tokyo University of Technology -><affiliation>
+1404-1 Katakura, Hachioji -><address>
+192-0982 Tokyo, Japan -><address>
+takashi@media.teu.ac.jp -><email>
+Jun Tanaka -><date>
+Graduate School of Bionics, Computer and -><affiliation>
+Media Science -><affiliation>
+Tokyo University of Technology -><affiliation>
+1404-1 Katakura, Hachioji -><address>
+192-0982 Tokyo, Japan -><address>
+junpluse@gmail.com -><email>

@@ -1,0 +1,7 @@
+Core Specification and Experiments in DIET: -><title>
+A Decentralised Ecosystem-inspired Mobile Agent System -><title>
+Cefn Hoile, Fang Wang, Erwin Bonsma, Paul Marrow -><author>
+Intelligent Systems Laboratory, BTexact Technologies -><affiliation>
+Antares 2 PP 5, Adastral Park -><address>
+Ipswich IP5 3RE, UK -><address>
++44-1473-642405 -><phone>

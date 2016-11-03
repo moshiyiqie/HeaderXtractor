@@ -1,0 +1,6 @@
+Massively Multi-player Games : -><title>
+Matching Game Design with Technical Design -><title>
+Anne-Gwenn Bosser -><author>
+PPS, UMR 7126 – CNRS & Paris 7 University -><affiliation>
+2 place Jussieu, Paris, France -><address>
+anne-gwenn.bosser@pps.jussieu.fr -><email>

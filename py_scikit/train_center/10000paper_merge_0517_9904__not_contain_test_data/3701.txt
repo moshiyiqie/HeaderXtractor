@@ -1,0 +1,11 @@
+A Birth-death Dynamic Model of Scale-free Networks -><title>
+Narsingh Deo -><author>
+School of Computer Science -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, FL 32816-2632 -><address>
+deo@cs.ucf.edu -><email>
+Aurel Cami -><author>
+School of Computer Science -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, FL 32816-2632 -><address>
+acami@cs.ucf.edu -><email>

@@ -1,0 +1,10 @@
+An Architecture of a Normative System -><title>
+Counts-as Conditionals, Obligations and Permissions -><title>
+Guido Boella -><author>
+Universita` di Torino -><affiliation>
+Italy -><address>
+guido@di.unito.it -><email>
+Leendert van der Torre -><author>
+University of Luxembourg -><affiliation>
+Luxembourg -><address>
+leendert@vandertorre.com -><email>

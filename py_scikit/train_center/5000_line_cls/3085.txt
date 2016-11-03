@@ -1,0 +1,12 @@
+A Normative Agent-based Model -><title>
+for Predicting Smoking Cessation Trends -><title>
+Gita Sukthankar -><author>
+Department of EECS -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, FL, USA -><address>
+gitars@eecs.ucf.edu -><email>
+Rahmatollah Beheshti -><author>
+Department of EECS -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, FL, USA -><address>
+beheshti@knights.ucf.edu -><email>

@@ -1,0 +1,11 @@
+Metrics for Evaluating Modularity and Extensibility in -><title>
+HMAS Systems -><title>
+∗ -><title>
+Valeria Seidita -><author>
+DICGIM -><affiliation>
+University of Palermo - Italy -><affiliation>
+valeria.seidita@unipa.it -><email>
+Massimo Cossentino, Carmelo Lodato, -><keyword>
+Salvatore Lopes, Patrizia Ribino -><keyword>
+National Research Council of Italy - ICAR -><note>
+cossentino,c.lodato,s.lopes,ribino@pa.icar.cnr.it -><email>

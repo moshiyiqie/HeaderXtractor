@@ -1,0 +1,6 @@
+Monte Carlo Hierarchical Model Learning -><title>
+(Doctoral Consortium) -><title>
+Jacob Menashe and Peter Stone -><author>
+The University of Texas at Austin -><affiliation>
+Austin, Texas -><address>
+{jmenashe,pstone}@cs.utexas.edu -><email>

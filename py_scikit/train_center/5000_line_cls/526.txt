@@ -1,0 +1,16 @@
+Concurrent Dynamic Epistemic Logic for MAS -><title>
+H.P. van Ditmarsch -><author>
+Computer Science -><affiliation>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+hans@cs.otago.ac.nz -><email>
+B.P. Kooi -><author>
+Computing Science -><affiliation>
+University of Groningen -><affiliation>
+Groningen, the Netherlands -><affiliation>
+barteld@cs.rug.nl -><email>
+W. van der Hoek -><author>
+Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool, United Kingdom -><address>
+wiebe@csc.liv.ac.uk -><email>

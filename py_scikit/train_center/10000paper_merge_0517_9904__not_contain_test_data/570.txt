@@ -1,0 +1,20 @@
+The EO-1 Autonomous Science Agent -><title>
+Steve Chien, Rob Sherwood, Daniel Tran, Benjamin Cichy, -><author>
+Gregg Rabideau, Rebecca Castano, Ashley Davies, Rachel Lee -><author>
+Jet Propulsion Laboratory, California Institute of Technology -><affiliation>
+Seth Shulman4, Stephen Ungar, Thomas Brakke -><address>
+Goddard Space Flight Center -><unknow>
+Darrell Boyer, Jim Van Gaasbeck, Interface & Control Systems -><author>
+Ronald Greeley, Thomas Doggett, Arizona State University -><affiliation>
+Victor Baker, James Dohm, Felipe Ip, University of Arizona -><affiliation>
+Contact: steve.chien@jpl.nasa.gov -><email>
+flying onboard the Earth Observing One Spacecraft. This -><abstract>
+software enables the spacecraft to autonomously detect and -><abstract>
+respond to science events occurring on the Earth. The -><abstract>
+package includes software systems that perform science data -><abstract>
+analysis, deliberative planning, and run-time robust -><abstract>
+execution. Because of the deployment to a remote -><abstract>
+spacecraft, this Autonomous Science Agent has stringent -><abstract>
+constraints of autonomy, reliability, and limited computing -><abstract>
+resources. We describe the constraints and how they were -><abstract>
+addressed in our agent design, validation, and deployment1 -><abstract>

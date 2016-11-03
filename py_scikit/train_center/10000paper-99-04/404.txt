@@ -1,0 +1,8 @@
+Social Navigation: Modeling, -><title>
+Simulation, and Experimentation -><title>
+Mark O. Riedl and Robert St. Amant -><author>
+Computer Science Department -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh NC 27695 USA -><address>
++1 919 515 7938 -><phone>
+moriedl@eos.ncsu.edu, stamant@csc.ncsu.edu -><email>

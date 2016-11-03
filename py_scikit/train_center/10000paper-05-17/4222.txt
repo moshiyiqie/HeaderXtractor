@@ -1,0 +1,7 @@
+Using XML to Map Relationships in Hacker Forums -><title>
+Jonathan F. Spencer -><author>
+UNC Charlotte -><affiliation>
+9201 University City Blvd. -><affiliation>
+Charlotte, NC 28223 -><address>
+1 (704) 687-8658 -><phone>
+jfspenc1@uncc.edu -><email>

@@ -1,0 +1,34 @@
+Runtime Plan Adaptation in Structured Reactive Controllers -><title>
+Michae -><title>
+Un -><title>
+Roemerstr -><author>
+emai -><author>
+1 The Problem of Runtime Plan Adaptation -><abstract>
+Autonomous robots that perform complex jobs in changing envi- -><abstract>
+ronments must be capable of managing and adapting their plans as -><abstract>
+the environmental conditions or their tasks change. This raises the -><abstract>
+problem of deciding whether, when, where, and how to revise the -><abstract>
+plans as the robots' beliefs change. The problem is complicated -><abstract>
+by the fact that the robot's beliefs about he world change contin- -><abstract>
+ually and therefore the robot must permanently decide whether it -><abstract>
+should keep executing the plans it has committed to, revise them, -><abstract>
+or generate and commit o new ones. -><abstract>
+Consider, a -><abstract>
+of action. In the midst of carrying out a planned elivery tour the -><abstract>
+robot learns, while passing an office, that a door that it previously -><abstract>
+assumed to be closed is in fact open. What should the robot do? -><abstract>
+Should it simply ignore the open door and continue its intended -><abstract>
+course of action? Or, should it consider the open door as an oppor- -><abstract>
+tunity to achieve its jobs in a better way? A robot, passing offices -><abstract>
+at walking speed, must decide quickly. Taking an open door as an -><abstract>
+opportunity might cause subtle side effects (eg, delays or the ob- -><abstract>
+jects that the robot will be carrying) in the future part of the robot's -><abstract>
+intended course of action. Typically, the robot hasn't planned for -><abstract>
+such contingencies. Therefore, the robot should also reason care- -><abstract>
+fully through the consequences of such decisions. -><abstract>
+2 The Plan Adaptation Framework -><abstract>
+In this paper we propose a framework for runtime plan adapta- -><abstract>
+tion in which the plans themselves specify plan adaptation pro- -><abstract>
+cesses as subplans. The framework treats plan adaptation actions -><abstract>
+as computational processes that monitor the belief changes of the -><abstract>
+robot, and revise the current plan if the processes detect belief -><abstract>

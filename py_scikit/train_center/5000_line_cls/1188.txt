@@ -1,0 +1,6 @@
+Comprehending Agent Software -><title>
+D. N. Lam and K. S. Barber -><author>
+The University of Texas at Austin -><affiliation>
+Laboratory for Intelligent Processes and Systems -><affiliation>
+1 University Station C0803, Austin, TX 78712-0240 -><affiliation>
+{dnlam, barber}@lips.utexas.edu -><email>

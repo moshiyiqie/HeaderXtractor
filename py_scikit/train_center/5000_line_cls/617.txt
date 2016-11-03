@@ -1,0 +1,19 @@
+Modelling Secure Multiagent Systems -><title>
+Paolo Giorgini -><title>
+Haralambos Mouratidis -><title>
+Gordon Manson -><author>
+University of Sheffield -><affiliation>
+Computer Science Department -><affiliation>
+211 Portobello Street -><address>
+S11 4DP, Sheffield, UK -><address>
+G.Manson@dcs.shef.ac.uk -><email>
+University of Sheffield -><affiliation>
+Computer Science Department -><affiliation>
+211 Portobello Street -><address>
+S11 4DP, Sheffield, UK -><address>
+H.Mouratidis@dcs.shef.ac.uk -><email>
+University of Trento -><affiliation>
+Department of Information and -><affiliation>
+Communication Technology -><affiliation>
+Via Sommarive, 14 38050 Povo, Italy -><address>
+Paolo.Giorgini@dit.unitn.it -><email>

@@ -1,0 +1,7 @@
+Remote Augmented Reality for Multiple Players Over -><title>
+Network -><title>
+Daniel C. M. Leung, Pak Shing Au, Irwin King, and Edward H. H. Yau -><author>
+Department of Computer Science and Engineering -><affiliation>
+The Chinese University of Hong Kong -><affiliation>
+cmleung4@cse.cuhk.edu.hk, psau4@cse.cuhk.edu.hk, -><email>
+king@cse.cuhk.edu.hk, edyau@cse.cuhk.edu.hk -><email>

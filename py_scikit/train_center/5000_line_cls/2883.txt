@@ -1,0 +1,2 @@
+SCRAM: Scalable Collision-avoiding Role Assignment with -><affiliation>
+Minimal-makespan for Formational Positioning -><title>

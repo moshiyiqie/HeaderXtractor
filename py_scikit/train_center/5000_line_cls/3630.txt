@@ -1,0 +1,17 @@
+208 -><pubnum>
+Feature Extraction based IP Traffic Classification using -><title>
+Machine Learning -><title>
+S. Agrawal -><author>
+University Institute of Engineering & Technology -><affiliation>
+Panjab University -><affiliation>
+Chandigarh, India -><address>
++91-9417723296 -><phone>
+s.agrawal@hotmail.com -><email>
+Kuldeep Singh -><author>
+University Institute of Engineering & Technology -><affiliation>
+Panjab University -><affiliation>
+Chandigarh, India -><address>
++91-9779540889 -><phone>
+kuldeepsinghbrar87@gmail.com -><email>
+Page -><author>
+208 -><pubnum>

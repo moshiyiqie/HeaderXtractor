@@ -1,0 +1,11 @@
+Cartographic Generalisation using Cooperative Agents -><title>
+Christophe CAMBIER -><author>
+IRD - (laboratoire LIP6-GEODES) -><affiliation>
+32, Avenue Henri Varagnat -><address>
+F-93143 Bondy Cedex FRANCE -><address>
+IGN, COGIT Lab. -><affiliation>
+2 avenue Pasteur -><address>
++33 1 43 98 85 45 -><phone>
+Christophe.Cambier@bondy.ird.fr, -><email>
+Christophe.Cambier@lip6.fr -><email>
+Cecile.Duchene@ign.fr -><email>

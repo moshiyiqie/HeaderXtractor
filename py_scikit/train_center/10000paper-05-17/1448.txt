@@ -1,0 +1,5 @@
+Task Routing for Prediction Tasks -><title>
+Haoqi Zhang∗, Eric Horvitz†, Yiling Chen∗, and David C. Parkes∗ -><author>
+∗Harvard SEAS †Microsoft Research -><affiliation>
+Cambridge, MA 02138, USA Redmond, WA 98052, USA -><address>
+{hq, yiling, parkes}@eecs.harvard.edu horvitz@microsoft.com -><email>

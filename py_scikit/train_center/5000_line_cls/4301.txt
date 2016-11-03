@@ -1,0 +1,14 @@
+Towards A Formal Theory -><title>
+of On Chip Communications in the ACL2 Logic -><title>
+Dominique Borrione -><author>
+Joseph Fourier University -><affiliation>
+TIMA Laboratory - VDS Group -><affiliation>
+46, avenue Felix Viallet, -><address>
+38031 Grenoble, France -><address>
+Dominique.Borrione@imag.fr -><email>
+Julien Schmaltz -><author>
+Saarland University -><affiliation>
+Institute for Computer Architecture -><affiliation>
+FR 6.2 Informatik, Postfach 151150 -><address>
+D-66041 Saarbrücken, Germany -><address>
+julien@cs.uni-sb.de -><email>

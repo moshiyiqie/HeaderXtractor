@@ -1,0 +1,11 @@
+Deriving Axioms Across Ontologies ∗ -><title>
+Drew McDermott -><author>
+Computer Science Department -><affiliation>
+Yale University -><affiliation>
+New Haven, Connecticut 06520 -><address>
+drew.mcdermott@yale.edu -><email>
+Dejing Dou -><author>
+Computer and Information Science -><affiliation>
+University of Oregon -><affiliation>
+Eugene, Oregon 97403 -><address>
+dou@cs.uoregon.edu -><email>

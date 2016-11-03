@@ -1,0 +1,7 @@
+EduPaL: Enabling Blended Learning in Resource -><title>
+Constrained Environments -><title>
+Malolan Chetlur1, Ashay Tamhane2∗, Vinay Kumar Reddy1, Bikram Sengupta1, -><author>
+Mohit Jain1, Pongsakorn Sukjunnimit3∗, Ramrao Wagh4 -><author>
+1IBM Research, 2Myntra India, 3University of Southern California, 4University of Goa India -><affiliation>
+{mchetlur, vinay.reddy, bsengupt, mohitjain}@in.ibm.com, ashayuda@buffalo.edu, -><email>
+sukjunni@usc.edu, ramrao@unigoa.ac.in -><email>

@@ -1,0 +1,10 @@
+Building a Table Tennis Game for Three Players -><title>
+Martin R. Gibbs -><author>
+Department of Information Systems -><affiliation>
+The University of Melbourne -><affiliation>
+Australia -><address>
+martin.gibbs@unimelb.edu.au -><email>
+Department of Information Systems -><affiliation>
+The University of Melbourne -><affiliation>
+Australia -><address>
+floyd@exertioninterfaces.com -><email>

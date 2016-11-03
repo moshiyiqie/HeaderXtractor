@@ -1,0 +1,13 @@
+On the Implementation of SwarmLinda∗ -><title>
+Robert Tolksdorf -><author>
+FU Berlin, Informatik -><affiliation>
+Berlin, Germany -><address>
+research@robert-tolksdorf.de -><email>
+Ahmed Charles -><author>
+Florida Tech, Computer Sciences -><affiliation>
+Melbourne, Florida, USA -><address>
+acharles@fit.edu -><email>
+Ronaldo Menezes -><author>
+Florida Tech, Computer Sciences -><affiliation>
+Melbourne, Florida, USA -><address>
+rmenezes@cs.fit.edu -><email>

@@ -1,0 +1,7 @@
+An Agent-Based Simulation for Water Sharing Between -><title>
+Different Users -><title>
+() M. Le Bars J.M. Attonaty S. Pinson -><author>
+LAMSADE Laboratory /INRA ESR INRA ESR LAMSADE Laboratory -><affiliation>
+78850 Thiverval Grignon France 78850 Thiverval Grignon France 75775 Paris cedex 16 France -><address>
+Phone: 00 33 1 30 81 53 39 Phone: 00 33 1 30 81 53 31 Phone: 00 33 1 44 05 45 51 -><phone>
+lebarsm@aol.com attonaty@grignon.inra.fr pinson@lamsade.dauphine.fr -><email>

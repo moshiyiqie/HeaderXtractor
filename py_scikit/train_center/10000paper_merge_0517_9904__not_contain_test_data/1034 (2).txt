@@ -1,0 +1,7 @@
+Student Motivation and Positive Impressions of Computing -><title>
+Subjects -><title>
+Matthew Mitchell and Judy Sheard and Selby Markham -><author>
+School Of Computer Science and Software Engineering -><affiliation>
+Monash University -><affiliation>
+Caulfield, Australia 3145 -><address>
+{ matt,jsheeard, smarkham} @case.monash. edu. au -><email>

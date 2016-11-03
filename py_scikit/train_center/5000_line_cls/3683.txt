@@ -1,0 +1,8 @@
+Using Frustration in the Design of Adaptive Videogames -><title>
+Kiel M Gilleade, Alan Dix -><author>
+Computing Department -><affiliation>
+Lancaster University -><affiliation>
+Lancaster, LA1 4YR, UK -><address>
++44 01524 {593419, 592268} -><phone>
+gilleade@comp.lancs.ac.uk, -><email>
+alan@hcibook.com -><email>

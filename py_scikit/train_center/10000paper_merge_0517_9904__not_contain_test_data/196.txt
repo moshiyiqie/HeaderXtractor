@@ -1,0 +1,12 @@
+A Logic for Semi-Public Communication in Multi-Agent -><title>
+Systems -><title>
+Andreas Herzig -><author>
+IRIT, Universite´ Paul Sabatier -><affiliation>
+118 route de Narbonne -><address>
+F-31062 Toulouse Cedex 4, France -><address>
+herzig@irit.fr -><email>
+La´szlo´ Aszalo´s -><author>
+Institute of Mathematics and Informatics -><affiliation>
+University of Debrecen -><affiliation>
+Debrecen, 4010 P.O.Box 12, Hungary -><address>
+aszalos@math.klte.hu -><email>

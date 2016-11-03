@@ -1,0 +1,7 @@
+Transition-Independent Decentralized Markov Decision -><title>
+Processes -><title>
+Raphen Becker, Shlomo Zilberstein, Victor Lesser, Claudia V. Goldman -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003 -><address>
+{raphen,shlomo,lesser,clag}@cs.umass.edu -><email>

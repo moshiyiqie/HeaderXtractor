@@ -1,0 +1,17 @@
+An Effective Personal Mobile Robot Agent Through -><title>
+Symbiotic Human-Robot Interaction -><title>
+Manuela Veloso -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA, USA -><address>
+veloso@cs.cmu.edu -><email>
+Joydeep Biswas -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA, USA -><address>
+joydeepb@cs.cmu.edu -><email>
+Stephanie Rosenthal -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA, USA -><address>
+srosenth@cs.cmu.edu -><email>

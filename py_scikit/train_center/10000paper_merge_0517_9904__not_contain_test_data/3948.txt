@@ -1,0 +1,14 @@
+Static Analysis of Anomalies and Security Vulnerabilities -><title>
+in Executable Files -><title>
+John A. Hamilton, Jr. -><author>
+Department of Computer Science -><affiliation>
+Auburn University -><affiliation>
+Auburn, Alabama 36849 -><affiliation>
+(334) 844-4330 -><phone>
+hamilton@eng.auburn.edu -><email>
+Jay-Evan J. Tevis -><author>
+Department of Computer Science -><affiliation>
+Western Illinois University -><affiliation>
+Macomb, Illinois 61455 -><address>
+(309) 298-1035 -><phone>
+jj-tevis@wiu.edu -><email>

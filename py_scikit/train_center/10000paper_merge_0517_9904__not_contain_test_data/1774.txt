@@ -1,0 +1,9 @@
+Simulating Household Activities to Lower Consumption -><title>
+Peaks -><title>
+(Demonstration) -><title>
+Edouard Amourouxa, François Sempé, Thomas Huraux a,b, Nicolas Sabouretc, -><author>
+Yvon Haradjib -><author>
+a LIP6, UPMC, b EDF R&D, c LIMSI CNRS - Supélec -><note>
+a Paris (France), b Clamart (France), c Orsay (France) -><note>
+{edamouroux; sempe.francois}@gmail.com; {thomas.huraux; yvon.haradji}@edf.fr; -><email>
+nicolas.sabouret@limsi.fr -><email>

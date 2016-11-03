@@ -1,0 +1,11 @@
+Pairwise Similarity of TopSig Document Signatures -><title>
+Shlomo Geva -><author>
+Electrical Engineering and Computer Science -><affiliation>
+Queensland University of Technology -><affiliation>
+Brisbane, Australia -><address>
+s.geva@qut.edu.au -><email>
+Christopher M. De Vries -><author>
+Electrical Engineering and Computer Science -><affiliation>
+Queensland University of Technology -><affiliation>
+Brisbane, Australia -><address>
+chris@de-vries.id.au -><email>

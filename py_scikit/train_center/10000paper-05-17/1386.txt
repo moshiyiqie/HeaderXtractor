@@ -1,0 +1,28 @@
+The Emergence of Commitments and Cooperation -><title>
+The Anh Han -><title>
+Centro de Inteligência Artificial -><affiliation>
+Departamento de Informática, -><affiliation>
+Faculdade de Ciências e -><author>
+Tecnologia -><author>
+Universidade Nova de Lisboa, -><affiliation>
+2829-516 Caparical -><address>
+Portugal -><address>
+h.anh@campus.fct.unl.pt -><email>
+Luís Moniz Pereira -><author>
+Centro de Inteligência Artificial -><note>
+Departamento de Informática, -><affiliation>
+Faculdade de Ciências e -><unknow>
+Tecnologia -><author>
+Universidade Nova de Lisboa, -><affiliation>
+2829-516 Caparical -><address>
+Portugal -><address>
+lmp@di.fct.unl.pt -><email>
+Francisco C. Santos -><author>
+Centro de Inteligência Artificial -><note>
+Departamento de Informática, -><affiliation>
+Faculdade de Ciências e -><unknow>
+Tecnologia -><author>
+Universidade Nova de Lisboa, -><affiliation>
+2829-516 Caparical -><address>
+Portugal -><address>
+fcsantos@fct.unl.pt -><email>

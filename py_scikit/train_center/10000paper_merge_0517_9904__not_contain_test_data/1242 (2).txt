@@ -1,0 +1,7 @@
+A Logical Approach to High-Level Agent Control -><title>
+L. Chen, K. Bechkoum, G. Clapworthy -><author>
+Department of Computer and Information Sciences -><affiliation>
+De Montfort University -><affiliation>
+Hammerwood Gate, Kents Hill -><address>
+Milton Keynes, MK7 6HP, U.K. -><address>
+Email: {lchen, kbechkoum, gc}@dmu.ac.uk -><email>

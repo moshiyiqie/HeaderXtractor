@@ -1,0 +1,16 @@
+Object Focused Q-learning for Autonomous Agents -><title>
+Charles L. Isbell Jr. -><author>
+College of Computing -><affiliation>
+Georgia Tech -><address>
+30332 Atlanta, GA, 30332 -><address>
+isbell@cc.gatech.edu -><email>
+Andrea L. Thomaz -><author>
+College of Computing -><affiliation>
+Georgia Tech -><address>
+30332 Atlanta, GA, 30332 -><address>
+athomaz@cc.gatech.edu -><email>
+Luis C. Cobo -><author>
+College of Engineering -><affiliation>
+Georgia Tech -><address>
+30332 Atlanta, GA, 30332 -><address>
+luisca@gatech.edu -><email>

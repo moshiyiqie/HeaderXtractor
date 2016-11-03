@@ -1,0 +1,14 @@
+Ant-Like Missionaries and Cannibals: -><title>
+Synthetic Pheromones for Distributed Motion Control -><title>
+H.. Van Dyke Parunak -><author>
+ERIM Center for Electronic Commerce -><affiliation>
+PO Box 134001 -><address>
+Ann Arbor, MI 48113-4001 USA -><address>
++1-734-623 2509 -><phone>
+vparunak@erim.org -><email>
+Sven Brueckner -><author>
+ERIM Center for Electronic Commerce -><affiliation>
+PO Box 134001 -><address>
+Ann Arbor, MI 48113-4001 USA -><address>
++1-734-623 2529 -><phone>
+sven.brueckner@daimlerchrysler.com -><email>

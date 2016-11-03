@@ -1,0 +1,14 @@
+Multi-Agent Target Tracking using -><title>
+Particle Filters enhanced with Context Data -><title>
+(Demonstration) -><title>
+Rik Claessens,12 Alta de Waal,3 Pieter de Villiers,34 Ate Penders,25 Gregor Pavlin,26 Karl Tuyls15 -><author>
+1University of Liverpool, United Kingdom -><affiliation>
+{rik.claessens, k.tuyls}@liverpool.ac.uk -><email>
+2Thales Research & Technology, Delft, the Netherlands -><note>
+{ate.penders, gregor.pavlin}@d-cis.nl -><email>
+3University of Pretoria, South Africa -><affiliation>
+alta.dewaal@up.ac.za -><email>
+4Council for Scientific and Industrial Research, Pretoria, South Africa -><note>
+jdvilliers1@csir.co.za -><email>
+5Delft University of Technology, the Netherlands -><affiliation>
+6University of Amsterdam, the Netherlands -><affiliation>

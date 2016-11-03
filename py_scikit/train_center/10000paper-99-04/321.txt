@@ -1,0 +1,7 @@
+Emergent Behaviours Considered Harmful -><title>
+Dana Moore and William Wright -><author>
+BBN -><affiliation>
+1300 N 17th Street -><address>
+Arlington, Virginia 22209 -><address>
+703-284-4600 -><phone>
+[damoore ,wwright]@bbn.com -><email>

@@ -1,0 +1,17 @@
+G-Free: Defeating Return-Oriented Programming -><title>
+through Gadget-less Binaries -><title>
+Kaan Onarlioglu -><author>
+Bilkent University, Ankara -><affiliation>
+onarliog@cs.bilkent.edu.tr -><email>
+Leyla Bilge -><email>
+Eurecom, Sophia Antipolis -><author>
+bilge@eurecom.fr -><email>
+Andrea Lanzi -><email>
+Eurecom, Sophia Antipolis -><author>
+lanzi@eurecom.fr -><email>
+Davide Balzarotti -><author>
+Eurecom, Sophia Antipolis -><affiliation>
+balzarotti@eurecom.fr -><email>
+Engin Kirda -><unknow>
+Eurecom, Sophia Antipolis -><author>
+kirda@eurecom.fr -><email>

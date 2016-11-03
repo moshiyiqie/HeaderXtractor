@@ -1,0 +1,10 @@
+The Undecidability of Group Announcements -><title>
+Hans van Ditmarsch -><author>
+LORIA, CNRS - Université de Lorraine -><affiliation>
+hans.van-ditmarsch@loria.fr -><email>
+Thomas Ågotnes -><author>
+University of Bergen -><affiliation>
+thomas.agotnes@infomedia.uib.no -><email>
+Tim French -><author>
+The University of Western Australia -><affiliation>
+tim.french@uwa.edu.au -><email>

@@ -1,0 +1,12 @@
+A New Analysis Method for Dynamic, Distributed -><title>
+Constraint Satisfaction -><title>
+Huimin Zheng -><author>
+University of Tulsa -><affiliation>
+Tandy School of Computer Science -><affiliation>
+Tulsa, Oklahoma -><address>
+huimin-zheng@utulsa.edu -><email>
+Roger Mailler -><author>
+University of Tulsa -><affiliation>
+Tandy School of Computer Science -><affiliation>
+Tulsa, Oklahoma -><address>
+mailler@utulsa.edu -><email>

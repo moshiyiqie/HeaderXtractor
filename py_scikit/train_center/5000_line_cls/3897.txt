@@ -1,0 +1,11 @@
+Playing with Your Brain: Brain-Computer -><title>
+Interfaces and Games -><title>
+Desney Tan -><author>
+Microsoft Research -><affiliation>
+Redmond, WA, USA -><address>
+desney@microsoft.com -><email>
+Anton Nijholt -><author>
+University of Twente -><affiliation>
+Human Media Interaction (HMI) -><affiliation>
+PO Box 217, 7500 E Enschede, Netherlands -><address>
+anijholt@cs.utwente.nl -><email>

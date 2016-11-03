@@ -1,0 +1,17 @@
+Stochastic Dominance in Stochastic DCOPs -><title>
+for Risk-Sensitive Applications -><title>
+Hoong Chuin Lau -><author>
+School of Information Systems -><affiliation>
+Singapore Management University -><affiliation>
+Singapore 178902 -><address>
+hclau@smu.edu.sg -><email>
+William Yeoh -><author>
+School of Information Systems -><affiliation>
+Singapore Management University -><affiliation>
+Singapore 178902 -><address>
+williamyeoh@smu.edu.sg -><email>
+Duc Thien Nguyen -><author>
+School of Information Systems -><affiliation>
+Singapore Management University -><affiliation>
+Singapore 178902 -><address>
+dtnguyen@smu.edu.sg -><email>

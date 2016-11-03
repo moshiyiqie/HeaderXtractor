@@ -1,0 +1,5 @@
+An Implementation of Hierarchical Signal Processing -><title>
+on Wireless Sensor in TinyOS Environment -><author>
+Electrical and Computer Engineering Dept. -><affiliation>
+The University of Alabama in Huntsville -><affiliation>
+jovanov@ece.uah.edu -><email>

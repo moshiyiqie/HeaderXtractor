@@ -1,0 +1,16 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+Fast Delivery of Game Events with an Optimistic -><title>
+Synchronization Mechanism in Massive -><title>
+Multiplayer Online Games -><title>
+Stefano Ferretti -><author>
+Department of Computer Science -><affiliation>
+University of Bologna -><affiliation>
+Mura Anteo Zamboni 7, 40127 -><address>
+Bologna, Italy -><address>
+sferrett@cs.unibo.it -><email>
+Marco Roccetti -><author>
+Department of Computer Science -><affiliation>
+University of Bologna -><affiliation>
+Mura Anteo Zamboni 7, 40127 -><address>
+Bologna, Italy -><address>
+roccetti@cs.unibo.it -><email>

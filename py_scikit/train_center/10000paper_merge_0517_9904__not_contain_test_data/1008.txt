@@ -1,0 +1,14 @@
+Model checking detectability of attacks in -><title>
+multiagent systems -><title>
+Ioana Boureanu -><author>
+Department of Computing -><affiliation>
+Imperial College London, UK -><affiliation>
+ibourean@imperial.ac.uk -><email>
+Alessio Lomuscio -><author>
+Department of Computing -><affiliation>
+Imperial College London, UK -><affiliation>
+a.lomuscio@imperial.ac.uk -><email>
+Mika Cohen -><author>
+Department of Computing -><affiliation>
+Imperial College London, UK -><address>
+mcohen1@imperial.ac.uk -><email>

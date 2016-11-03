@@ -1,0 +1,12 @@
+Using Cooperative Mediation to Coordinate Traffic Lights: -><title>
+a Case Study -><title>
+Victor Lesser -><author>
+University of Massachusetts -><affiliation>
+Department of Computer Science -><affiliation>
+Amherst, MA 01003 -><address>
+lesser@cs.umass.edu -><email>
+Denise de Oliveira and Ana L. C. Bazzan -><author>
+Instituto de Informa´tica, UFRGS -><affiliation>
+Caixa Postal 15064 CEP 91.501-970 -><address>
+Porto Alegre, RS, Brazil -><address>
+{edenise, bazzan}@inf.ufrgs.br -><email>

@@ -1,0 +1,20 @@
+Directions Robot: In-the-Wild Experiences -><title>
+and Lessons Learned -><title>
+Dan Bohus -><author>
+Microsoft Research -><affiliation>
+One Microsoft Way -><address>
+Redmond, WA, 98052 -><address>
++1-425-706-5880 -><phone>
+dbohus@microsoft.com -><email>
+Eric Horvitz -><author>
+Microsoft Research -><affiliation>
+One Microsoft Way -><address>
+Redmond, WA, 98052 -><address>
++1-425-706-2127 -><phone>
+horvitz@microsoft.com -><email>
+Chit W. Saw -><author>
+Microsoft Research -><affiliation>
+One Microsoft Way -><affiliation>
+Redmond, WA, 98052 -><address>
++1-425-722-6430 -><phone>
+Nick.Saw@microsoft.com -><email>

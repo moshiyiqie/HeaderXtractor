@@ -1,0 +1,25 @@
+CPVM: Customizable Portable Virtual Machines -><title>
+Zach Lowry -><author>
+Middle Tennessee State -><affiliation>
+University -><affiliation>
+Department of Computer -><affiliation>
+Science, Box 48 -><address>
+Murfreesboro, TN 37132 -><address>
+1-615-898-2397 -><phone>
+zach@zachlowry.net -><email>
+Chrisila C. Pettey -><email>
+Middle Tennessee State -><author>
+University -><affiliation>
+Department of Computer -><affiliation>
+Science, Box 48 -><address>
+Murfreesboro, TN 37132 -><address>
+1-615-898-2416 -><phone>
+cscbp@mtsu.edu -><email>
+Ralph Butler -><author>
+Middle Tennessee State -><affiliation>
+University -><affiliation>
+Department of Computer -><affiliation>
+Science, Box 48 -><address>
+Murfreesboro, TN 37132 -><address>
+1-615-898-2397 -><phone>
+rbutler@mtsu.cedu -><email>

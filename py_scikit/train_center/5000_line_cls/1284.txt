@@ -1,0 +1,13 @@
+Modelling Dynamics of Cognitive Agents by Higher-Order Potentialities -><title>
+Jan Treur1,2 -><author>
+2Utrecht University -><affiliation>
+Tibor Bosse1 -><address>
+1Vrije Universiteit Amsterdam -><affiliation>
+Department of Philosophy -><address>
+Heidelberglaan 8, 3584 CS Utrecht -><address>
+The Netherlands Tel. +31 6 15028916 -><address>
+{tbosse, treur}@cs.vu.nl -><email>
+Department of Artificial Intelligence -><affiliation>
+De Boelelaan 1081a, 1081 HV Amsterdam -><address>
+The Netherlands Tel. +31 20 598 77{50,63} -><address>
+http://www.cs.vu.nl/~{tbosse, treur} -><web>

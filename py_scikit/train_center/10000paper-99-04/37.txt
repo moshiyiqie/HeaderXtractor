@@ -1,0 +1,11 @@
+for Contracting Agents in Electronic Environments -><title>
+Timothy J. Norman -><author>
+Department of Computing Science -><affiliation>
+University of Aberdeen -><affiliation>
+Aberdeen, AB24 3UE, Scotland, UK -><address>
+tnorman@csd.abdn.ac.uk -><email>
+Martin J. Kollingbaum -><author>
+Department of Computing Science -><affiliation>
+University of Aberdeen -><affiliation>
+Aberdeen, AB24 3UE, Scotland, UK -><address>
+mkolling@csd.abdn.ac.uk -><email>

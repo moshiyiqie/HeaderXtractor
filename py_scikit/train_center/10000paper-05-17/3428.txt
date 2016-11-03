@@ -1,0 +1,5 @@
+An Embedding of the ACL2 Logic in HOL -><title>
+Michael J.C. Gordon, Cambridge University, mjcg@cl.cam.ac.uk -><author>
+Warren A. Hunt, Jr., University of Texas at Austin, hunt@cs.utexas.edu -><email>
+Matt Kaufmann, University of Texas at Austin, kaufmann@cs.utexas.edu -><affiliation>
+James Reynolds, Cambridge University, jr291@cam.ac.uk -><affiliation>

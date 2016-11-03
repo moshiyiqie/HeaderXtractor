@@ -1,0 +1,20 @@
+Integrating a MAS and a Pandemonium: the Open-Source -><title>
+Framework AKIRA -><title>
+Gianguglielmo Calvi -><author>
+ISTC-CNR -><affiliation>
+Viale Marx, 15 -><address>
+00137 Roma, Italy -><address>
++39 06 8609 0208 -><phone>
+gianguglielmo.calvi@noze.it -><email>
+Giovanni Pezzulo -><author>
+ISTC-CNR -><affiliation>
+Viale Marx, 15 -><address>
+00137 Roma, Italy -><address>
++39 06 8609 0208 -><phone>
+g.pezzulo@istc.cnr.it -><email>
+Rino Falcone -><author>
+ISTC-CNR -><affiliation>
+Viale Marx, 15 -><address>
+00137 Roma, Italy -><address>
++39 06 8609 0211 -><phone>
+r.falcone@istc.cnr.it -><email>

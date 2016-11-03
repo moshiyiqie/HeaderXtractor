@@ -1,0 +1,13 @@
+A Dynamic Pricing Mechanism for P2P Referral Systems -><title>
+Bin Yu, Cuihong Li -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>
+Munindar P. Singh -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695, USA -><address>
+Katia Sycara -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>

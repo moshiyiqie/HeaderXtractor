@@ -1,0 +1,16 @@
+A Study of Computational and Human Strategies in -><title>
+Revelation Games -><title>
+∗ -><title>
+Noam Peled -><author>
+Gonda Brain Research Center -><affiliation>
+Bar Ilan University, Israel -><affiliation>
+noam.peled@live.biu.ac.il -><email>
+Sarit Kraus -><author>
+Dept. of Computer Science -><affiliation>
+Bar Ilan University, Israel -><affiliation>
+sarit@cs.biu.ac.il -><email>
+Ya’akov (Kobi) Gal -><author>
+Dept. of Information Systems -><affiliation>
+Engineering -><affiliation>
+Ben-Gurion University, Israel -><affiliation>
+kobig@bgu.ac.il -><email>

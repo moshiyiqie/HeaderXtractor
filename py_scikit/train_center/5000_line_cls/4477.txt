@@ -1,0 +1,12 @@
+Applying Random Projection to the Classification of -><title>
+Malicious Applications using Data Mining Algorithms -><title>
+Travis Atkison -><author>
+Jan Durand -><author>
+Department of Computer Science -><affiliation>
+Louisiana Tech University -><affiliation>
+Ruston, LA 71270 -><address>
+jrd037@latech.edu -><email>
+Department of Computer Science -><affiliation>
+Louisiana Tech University -><affiliation>
+Ruston, LA 71270 -><address>
+atkison@latech.edu -><email>

@@ -1,0 +1,12 @@
+Zuzen, a Cloud-based Framework for Automated -><title>
+Machinima Generation -><title>
+Samuel Munilla -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695 -><address>
+srmunill@ncsu.edu -><email>
+R. Michael Young -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695 -><address>
+young@csc.ncsu.edu -><email>

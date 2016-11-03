@@ -1,0 +1,15 @@
+On the Metaphysics of Agents -><title>
+Paul Davidsson -><author>
+pdv@bth.se -><email>
+Stefan J. Johansson -><author>
+sja@bth.se -><email>
+Department of Systems and Software Engineering -><affiliation>
+School of Engineering -><affiliation>
+Blekinge Institute of Technology -><affiliation>
+372 25 Ronneby, Sweden -><address>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence -><note>
+General Terms -><note>
+Theory, Measurement, Documentation -><keyword>
+Keywords -><keyword>
+Agent definitions, Agent properties -><keyword>

@@ -1,0 +1,5 @@
+A Portable User-Level Approach for -><title>
+System-wide Integrity Protection† -><title>
+Wai-Kit Sze and R. Sekar -><author>
+Stony Brook University -><affiliation>
+Stony Brook, NY, USA -><address>

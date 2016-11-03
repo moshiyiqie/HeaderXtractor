@@ -1,0 +1,7 @@
+Towards a Unifying Characterization for -><title>
+Quantifying Weak Coupling in Dec-POMDPs -><title>
+Stefan J. Witwicki and Edmund H. Durfee -><author>
+Computer Science and Engineering -><affiliation>
+University of Michigan -><affiliation>
+Ann Arbor, MI 48109 -><address>
+{witwicki,durfee}@umich.edu -><email>

@@ -1,0 +1,13 @@
+Partial order reductions for model checking temporal -><title>
+epistemic logics over interleaved multi-agent systems -><title>
+∗ -><title>
+† -><title>
+Alessio Lomuscio -><author>
+Department of Computing -><affiliation>
+Imperial College London, UK -><affiliation>
+Wojciech Penczek -><unknow>
+ICS PAS -><author>
+and Univ. of Podlasie, Poland -><affiliation>
+Hongyang Qu -><author>
+Oxford University Computing -><affiliation>
+Laboratory, UK -><affiliation>

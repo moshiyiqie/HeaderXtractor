@@ -1,0 +1,6 @@
+On the Channel Modelling and Transmission Power -><title>
+Control for Wireless Sensor Networks -><title>
+Ju Wang, Jeremy Cooper, Hongsik Choi -><author>
+Computer Science -><affiliation>
+Virginia Commonwealth University -><affiliation>
+{jwang3,cooperja, hchoi}@vcu.edu -><email>

@@ -1,0 +1,6 @@
+Model Generation for PRS-like Agents -><title>
+Wayne Wobcke,1 Marc Chee1 and Krystian Ji1,2 -><author>
+1School of Computer Science and Engineering 2National ICT Australia -><affiliation>
+University of New South Wales University of New South Wales -><address>
+Sydney NSW 2052, Australia Sydney NSW 2052, Australia -><address>
+{wobcke(|)marcchee(|)krystianj}@cse.unsw.edu.au krystian.ji@nicta.com.au -><email>

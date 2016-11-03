@@ -1,0 +1,6 @@
+UML Class Diagrams and Agent-Based Systems -><title>
+Bernhard Bauer -><author>
+Siemens AG, Corporate Technology, Information and Communications -><affiliation>
+Otto-Hahn-Ring 6, D-81370 Munich, Germany -><address>
+(+49) 89 636 50654 -><phone>
+bernhard.bauer@mchp.siemens.de -><email>

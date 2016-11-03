@@ -1,0 +1,7 @@
+Social Theatre: Showcasing Social Power Aware Agents -><title>
+(Demonstration) -><title>
+Gonçalo Pereira, Rui Prada, Pedro A. Santos -><author>
+INESC-ID and Instituto Superior Técnico and Universidade Técnica de Lisboa -><affiliation>
+Avenida Professor Cavaco Silva -><author>
+Porto Salvo, Portugal -><affiliation>
+{goncalo.pereira,rui.prada}@gaips.inesc-id.pt, pasantos@math.ist.utl.pt -><email>

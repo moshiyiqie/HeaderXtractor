@@ -1,0 +1,18 @@
+Facial Caricature Generation Using a Quadratic -><title>
+Deformation Model -><title>
+1,2 -><pubnum>
+3 -><pubnum>
+2 -><pubnum>
+1 -><pubnum>
+M. Obaid -><author>
+, D. Lond -><note>
+, R. Mukundan -><note>
+, M. Billinghurst -><note>
+1 -><date>
+HITLab New Zealand, University of Canterbury, Christchurch, New Zealand -><affiliation>
+2 -><pubnum>
+Computer Science and Software Engineering Dept., University of Canterbury, New Zealand -><affiliation>
+3 -><pubnum>
+Dept. of Mathematics and Statistics, University of Canterbury, New Zealand -><affiliation>
+{mohammad.obaid, mukundan, mark.billinghurst}@canterbury.ac.nz, -><email>
+d.lond@math.canterbury.ac.nz -><email>

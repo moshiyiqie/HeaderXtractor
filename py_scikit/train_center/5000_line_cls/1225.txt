@@ -1,0 +1,17 @@
+An Agent-based Approach for Managing -><title>
+Symbiotic Simulation of -><title>
+Semiconductor Assembly and Test Operation -><title>
+Stephen John Turner, Reman Tat Wee Chim, -><author>
+Malcolm Yoke Hean Low, -><author>
+Surya Hadisaputra Leo -><author>
+School of Computer Engineering -><affiliation>
+Kong Wei Lye, Peter Lendermann -><author>
+Singapore Institute of -><affiliation>
+Manufacturing Technology -><affiliation>
+Nanyang Technological University -><affiliation>
+71 Nanyang Drive, Singapore 638075 -><address>
+Nanyang Avenue, Singapore 639798 -><address>
+(65)6793 8309 -><date>
+(65)6790 4054 -><date>
+yhlow@simtech.a-star.edu.sg -><email>
+ASSJTurner@ntu.edu.sg -><email>

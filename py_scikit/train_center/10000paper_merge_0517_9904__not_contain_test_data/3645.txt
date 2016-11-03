@@ -1,0 +1,7 @@
+Developing Web Applications to Evaluate Mammography -><title>
+Analysis Algorithms -><title>
+Ruben G. Villao -><author>
+Coastal Carolina University -><affiliation>
+P.O. Box 261954 -><address>
+Conway,SC 29528-6054 US -><address>
+rgvillao@coastal.edu -><email>

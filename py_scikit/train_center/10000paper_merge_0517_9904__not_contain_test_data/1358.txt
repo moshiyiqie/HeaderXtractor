@@ -1,0 +1,12 @@
+Comparative Evaluation of MAL Algorithms -><title>
+in a Diverse Set of Ad Hoc Team Problems -><title>
+Subramanian Ramamoorthy -><author>
+School of Informatics -><affiliation>
+University of Edinburgh -><affiliation>
+Edinburgh EH8 9AB, UK -><address>
+s.ramamoorthy@ed.ac.uk -><email>
+Stefano V. Albrecht -><author>
+School of Informatics -><affiliation>
+University of Edinburgh -><affiliation>
+Edinburgh EH8 9AB, UK -><address>
+s.v.albrecht@sms.ed.ac.uk -><email>

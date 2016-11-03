@@ -1,0 +1,13 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+Natural Interaction with Virtual Objects Using -><title>
+Vision-Based Six DOF Sphere Tracking -><title>
+Gerhard Roth -><author>
+Institute for Information Technology -><affiliation>
+National Research Council of Canada -><affiliation>
+Ottawa, Canada -><address>
+Gerhard.Roth@nrc-cnrc.gc.ca -><email>
+Derek Bradley -><author>
+School of Computer Science -><affiliation>
+Carleton University -><affiliation>
+Ottawa, Canada -><address>
+derek@derekbradley.ca -><email>

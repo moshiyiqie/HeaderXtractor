@@ -1,0 +1,6 @@
+A Complete and Decidable Logic for Resource-Bounded Agents -><title>
+Natasha Alechina Brian Logan Mark Whitsey -><author>
+School of Computer Science -><affiliation>
+University of Nottingham -><affiliation>
+Nottingham, UK -><address>
+{nza,bsl,mtw}@cs.nott.ac.uk -><email>

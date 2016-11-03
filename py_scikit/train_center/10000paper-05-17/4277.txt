@@ -1,0 +1,14 @@
+Familiarity Breeds Contempt -><title>
+The Honeymoon Effect and the Role of Legacy Code in Zero-Day Vulnerabilities -><title>
+Stefan Frei -><author>
+Secunia -><author>
+sfrei@secunia.com -><email>
+Sandy Clark -><author>
+University of Pennsylvania -><affiliation>
+saender@cis.upenn.edu -><email>
+Matt Blaze -><author>
+University of Pennsylvania -><affiliation>
+blaze@cis.upenn.edu -><email>
+Jonathan Smith -><author>
+University of Pennsylvania -><affiliation>
+jms@cis.upenn.edu -><email>

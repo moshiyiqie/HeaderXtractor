@@ -1,0 +1,30 @@
+MIXER: Why the Difference? -><title>
+(Demonstration) -><title>
+Asad Nazir -><author>
+School of Mathematical -><affiliation>
+and Computer Sciences -><affiliation>
+Heriot-Watt University, Edinburgh, UK -><affiliation>
+A.Nazir@hw.ac.uk -><email>
+Ruth Aylett -><author>
+School of Mathematical -><affiliation>
+and Computer Sciences -><affiliation>
+Heriot-Watt University, Edinburgh, UK -><affiliation>
+R.S.Aylett@hw.ac.uk -><email>
+Lynne Hall -><author>
+Department of Computing, -><affiliation>
+Engineering and Technology -><affiliation>
+University of Sunderland, UK -><affiliation>
+Lynne. Hall@sunderland.ac.uk -><email>
+Birgit Endrass -><author>
+Mei Yii Lim -><author>
+School of Mathematical -><affiliation>
+and Computer Sciences -><affiliation>
+Heriot-Watt University, Edinburgh, UK -><affiliation>
+myl@hw.ac.uk -><email>
+Christopher Ritter -><author>
+School of Mathematical -><affiliation>
+and Computer Sciences, -><affiliation>
+Heriot-Watt University, Edinburgh, UK -><affiliation>
+cmr4@hw.ac.uk -><email>
+Augsburg, Germany -><address>
+endrass@hcm-lab.de -><affiliation>

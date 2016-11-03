@@ -1,0 +1,13 @@
+Limiting Disruption in Multiagent Replanning -><title>
+Edmund Durfee -><author>
+University of Michigan -><affiliation>
+1101 Beal Ave -><address>
+Ann Arbor, MI 48109-2110 USA -><address>
+1-734-936-1563 -><phone>
+durfee@umich.edu -><email>
+Thomas Bartold -><author>
+University of Michigan -><affiliation>
+1101 Beal Ave -><address>
+Ann Arbor, MI 48109-2110 USA -><address>
+1-734-763-9074 -><phone>
+tbartold@umich.edu -><email>

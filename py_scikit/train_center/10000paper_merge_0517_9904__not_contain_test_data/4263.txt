@@ -1,0 +1,34 @@
+Barriers to Science in Security -><title>
+Tom Longstaff -><author>
+The Johns Hopkins University -><affiliation>
+Applied Physics Laboratory 11100 -><affiliation>
+Johns Hopkins Rd., Laurel, MD -><address>
+20723 -><date>
+Thomas.Longstaff@jhuapl.edu -><email>
+David Balenson -><author>
+The Johns Hopkins University -><affiliation>
+Applied Physics Laboratory 11100 -><affiliation>
+Johns Hopkins Rd., Laurel, MD -><address>
+20723 -><date>
+Thomas.Longstaff@jhuapl.edu -><email>
+Mark Matties -><author>
+The Johns Hopkins University -><affiliation>
+Applied Physics Laboratory 11100 -><affiliation>
+Johns Hopkins Rd., Laurel, MD -><address>
+20723 -><phone>
+Thomas.Longstaff@jhuapl.edu -><email>
+Overview -><abstract>
+In the past year, there has been significant interest in promoting -><abstract>
+the idea of applying scientific principles to information security. -><abstract>
+The main point made by information security professionals who -><abstract>
+brief at conferences seems to be that our field of information -><abstract>
+security is finally mature enough to begin making significant -><abstract>
+strides towards applying the scientific approach. Audiences -><abstract>
+everywhere enthusiastically agree and thrash themselves for -><abstract>
+bypassing science all along, bemoaning the fact that we could be -><abstract>
+the presentation is over, everyone goes back to the methods that -><abstract>
+have been used throughout our generation to generate prototypes -><abstract>
+and tools with no regard for the scientific principles involved. -><abstract>
+The type of information security1 projects in scope for this essay -><abstract>
+are experimental projects that produce a new approach or -><abstract>
+support/refute a theoretical result. The use of the scientific -><abstract>

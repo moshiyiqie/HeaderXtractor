@@ -1,0 +1,7 @@
+Social Snapshots: -><title>
+Digital Forensics for Online Social Networks -><title>
+Markus Huber∗† Martin Mulazzani∗ Manuel Leithner∗ -><author>
+Sebastian Schrittwieser∗ Gilbert Wondracek‡ Edgar Weippl∗ -><author>
+SBA Research∗ -><affiliation>
+{mhuber, mmulazzani, mleithner, sschrittwieser, eweippl}@sba-research.org -><email>
+Vienna PhD school of informatics† Vienna University of Technology‡ -><affiliation>

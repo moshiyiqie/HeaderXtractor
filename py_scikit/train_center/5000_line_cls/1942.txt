@@ -1,0 +1,27 @@
+A Model of Norm Emergence and Innovation in Language -><title>
+Change -><title>
+Zsuzsanna Fagyal -><author>
+School of Literatures, -><affiliation>
+Cultures, and Linguistics, -><author>
+Department of French, -><affiliation>
+University of Illinois at -><affiliation>
+Urbana-Champaign -><affiliation>
+Urbana, IL, USA -><address>
+zsfagyal@illinois.edu -><email>
+Samarth Swarup -><author>
+Network Dynamics and -><affiliation>
+Simulation Science Lab, -><affiliation>
+Virginia Bioinformatics -><affiliation>
+Institute, -><affiliation>
+Virginia Tech, -><address>
+Blacksburg, VA, USA -><address>
+swarup@vbi.vt.edu -><email>
+Andrea Apolloni -><author>
+Institut des Systèmes -><affiliation>
+Complexes Rhône-Alpes, -><keyword>
+and Laboratoire de Physique, -><affiliation>
+École Normale Supérieure de -><note>
+Lyon -><address>
+69007 Lyon, France -><address>
+andrea.apolloni@ens- -><email>
+lyon.fr -><email>

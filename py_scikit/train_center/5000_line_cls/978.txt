@@ -1,0 +1,11 @@
+Automatic Computer Game Balancing: A Reinforcement -><title>
+Learning Approach -><title>
+Vincent Corruble -><author>
+Gustavo Andrade, Geber Ramalho, and -><author>
+Hugo Santana -><author>
+Universidade Federal de Pernambuco -><affiliation>
+Laboratoire d'Informatique de Paris VI -><affiliation>
+75252 PARIS CEDEX 05 -><address>
+Vincent.Corruble@lip6.fr -><email>
+Caixa Postal 7851, CEP 50732-970, Recife, Brazil -><address>
+{gda,glr,hps}@cin.ufpe.br -><email>

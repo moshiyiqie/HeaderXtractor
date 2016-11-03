@@ -1,0 +1,5 @@
+Requirements for an Architecture for Believable Social Agents -><title>
+Anthony -><author>
+Computer -><affiliation>
+EPFL -><affiliation>
+{ aguye, thalmann} @ l -><email>

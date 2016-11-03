@@ -1,0 +1,11 @@
+Can We Predict Safety Culture? -><title>
+Alexei Sharpanskykh -><author>
+VU University Amsterdam -><affiliation>
+De Boelelaan 1081a -><address>
+Amsterdam, the Netherlands -><address>
+sharp@cs.vu.nl -><email>
+Sybert Stroeve -><author>
+National Aerospace Laboratory NLR -><affiliation>
+Anthony Fokkerweg 2 -><address>
+1059 CM Amsterdam, the Netherlands -><address>
+stroeve@nlr.nl -><email>

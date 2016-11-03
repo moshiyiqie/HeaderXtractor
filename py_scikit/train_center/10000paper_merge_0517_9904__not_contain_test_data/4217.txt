@@ -1,0 +1,7 @@
+Distance Calculating Algorithm -><title>
+Bruce Johnson -><author>
+University of Tennessee -><affiliation>
+1508 Middle Drive -><address>
+Knoxville, TN -><address>
+1-865-974-3461 -><phone>
+bjohnson@cs.utk.edu -><email>

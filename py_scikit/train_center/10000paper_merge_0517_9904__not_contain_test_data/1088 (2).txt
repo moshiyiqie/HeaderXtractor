@@ -1,0 +1,20 @@
+Psychophysically based Artistic Techniques for Increased -><title>
+Perceived Realism of Virtual Environments -><title>
+Alan Chalmers -><author>
+University of Bristol -><affiliation>
+Merchant Ventures Building -><address>
+Woodland Rd, Bristol, BS8 1UB -><address>
+(+44) 0117 954 5150 -><phone>
+alan@cs.bris.ac.uk -><email>
+Patrick Ledda -><author>
+University of Bristol -><affiliation>
+Merchant Ventures Building -><address>
+Woodland Rd, Bristol, BS8 1UB -><address>
+(+44) 0117 954 5112 -><phone>
+ledda@cs.bris.ac.uk -><email>
+Peter Longhurst -><author>
+University of Bristol -><affiliation>
+Merchant Ventures Building -><address>
+Woodland Rd, Bristol, BS8 1UB -><address>
+(+44) 0117 954 5112 -><phone>
+longhurs@cs.bris.ac.uk -><email>

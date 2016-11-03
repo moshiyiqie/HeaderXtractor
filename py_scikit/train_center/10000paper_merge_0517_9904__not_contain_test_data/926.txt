@@ -1,0 +1,6 @@
+Intelligent Agents for the Smart Grid -><title>
+P. Vytelingum, T. D. Voice, S. D. Ramchurn, A. Rogers, and N. R. Jennings -><author>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton, SO17 1BJ, UK -><address>
+{pv,tdv,sdr,acr,nrj}@ecs.soton.ac.uk -><email>

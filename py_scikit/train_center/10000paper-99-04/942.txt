@@ -1,0 +1,17 @@
+Plagiarism Detection in Software Designs -><title>
+∗ -><title>
+Johnette Hassell -><author>
+EECS Department -><affiliation>
+Tulane University -><affiliation>
+New Orleans, LA 70118 -><address>
+hassell@eecs.tulane.edu -><email>
+Anastasia Nix -><author>
+EECS Department -><affiliation>
+Tulane University -><affiliation>
+New Orleans, LA 70118 -><address>
+nix@eecs.tulane.edu -><email>
+B. Belkhouche -><author>
+EECS Department -><affiliation>
+Tulane University -><affiliation>
+New Orleans, LA 70118 -><address>
+bb@eecs.tulane.edu -><email>

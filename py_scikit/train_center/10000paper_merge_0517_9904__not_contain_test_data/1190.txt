@@ -1,0 +1,8 @@
+An Agent-Based Approach to Manage Negotiation -><title>
+Protocols in Flexible CSCW Systems -><title>
+Federico Bergenti and Agostino Poggi -><author>
+Dipartimento di Ingegneria delrlnformazione -><affiliation>
+Universit& degli Studi di Parma -><affiliation>
+Parco Area delle Scienze 181A, Parma, Italy -><address>
+Tel. +39 0521 905708 Fax +39 0521 905723 -><phone>
+{Bergenti, Poggi}@CE.UniPR.IT -><email>

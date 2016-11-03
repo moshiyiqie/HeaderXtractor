@@ -1,0 +1,18 @@
+Technology-enabled Chronic Disease Management in -><title>
+Under-resourced Environments -><title>
+Clifford C. Dacso, MD, MPH, MBA -><author>
+Edward Knightly, PhD -><author>
+Electrical and Computer Engineering -><affiliation>
+Rice University -><affiliation>
+Houston, Texas, USA -><address>
+knightly@rice.edu -><email>
+Molecular & Cell Biology and Medicine -><affiliation>
+Baylor College of Medicine and Abramson Center for -><affiliation>
+the Future of Health -><affiliation>
+Houston, Texas, USA -><address>
+cdacso@bcm.edu -><email>
+Matthew Dacso, MD, MSc -><author>
+Global Health Education -><affiliation>
+University of Texas Medical Branch -><affiliation>
+Galveston, Texas, USA -><address>
+mmdacso@utmb.edu -><email>

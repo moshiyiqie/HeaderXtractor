@@ -1,0 +1,7 @@
+Double Rewriting for Equivalential Reasoning in ACL2 -><title>
+Matt Kaufmann -><author>
+University of Texas at Austin -><affiliation>
+kaufmann@cs.utexas.edu -><email>
+J Strother Moore -><author>
+University of Texas at Austin -><affiliation>
+moore@cs.utexas.edu -><email>

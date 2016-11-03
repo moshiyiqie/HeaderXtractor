@@ -1,0 +1,12 @@
+The -><title>
+Mobile -><title>
+Duncan -><title>
+Computing -><title>
+Lancaster -><title>
+Lancaster, -><title>
+Joe -><author>
+Computing -><affiliation>
+Lancaster -><affiliation>
+Lancaster, -><address>
+d.mccaffery@lancaster.ac.uk -><email>
+joe@comp.lancs.ac.uk -><email>

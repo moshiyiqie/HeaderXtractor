@@ -1,0 +1,13 @@
+Multiagent Planning through Plan Repair∗ -><title>
+Roman van der Krogt -><author>
+Delft University of Technology -><affiliation>
+r.p.j.vanderkrogt@ewi.tudelft.nl -><email>
+Mathijs de Weerdt† -><author>
+Delft University of Technology -><affiliation>
+m.m.deweerdt@ewi.tudelft.nl -><email>
+Nico Roos -><author>
+University of Maastricht -><affiliation>
+roos@cs.unimaas.nl -><email>
+Cees Witteveen -><author>
+Delft University of Technology -><affiliation>
+c.witteveen@ewi.tudelft.nl -><email>

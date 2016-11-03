@@ -1,0 +1,13 @@
+Voting Policies that Cope with Unreliable Agents ∗ -><title>
+Ingrid Zukerman -><author>
+School of Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+Monash University -><affiliation>
+Clayton, VICTORIA 3800, Australia -><address>
+ingrid@csse.monash.edu.au -><email>
+Christian Guttmann† -><author>
+School of Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+Monash University -><affiliation>
+Clayton, VICTORIA 3800, Australia -><address>
+xtg@csse.monash.edu.au -><email>

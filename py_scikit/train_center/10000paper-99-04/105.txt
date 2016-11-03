@@ -1,0 +1,8 @@
+Towards a Real-Time Architecture for Time-Aware Agents -><title>
+Konstantinos Prouskas and Jeremy Pitt -><author>
+Intelligent and Interactive Systems Group -><affiliation>
+Department of Electrical and Electronic Engineering -><affiliation>
+Imperial College of Science, Technology and Medicine -><affiliation>
+Exhibition Road, London SW7 2BT, U.K. -><address>
++44 (0)20 7594 6318 -><phone>
+{k.prouskas, j.pitt}@ic.ac.uk -><email>

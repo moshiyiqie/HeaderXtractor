@@ -1,0 +1,7 @@
+Segregation in Swarms of e-puck Robots -><title>
+Based On the Brazil Nut Effect -><title>
+Jianing Chen, Melvin Gauci, Michael J. Price and Roderich Groß -><author>
+Natural Robotics Lab -><affiliation>
+Department of Automatic Control and Systems Engineering -><affiliation>
+The University of Sheffield, UK -><affiliation>
+{j.n.chen, m.gauci, r.gross}@sheffield.ac.uk, michaelprice@theiet.org -><email>

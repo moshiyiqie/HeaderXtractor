@@ -1,0 +1,9 @@
+Controlling Elections with Bounded Single-Peaked Width -><title>
+Yongjie Yang -><author>
+Universität des Saarlandes -><affiliation>
+Campus E 1.7, D-66123 Saarbrücken, Germany -><address>
+yyongjie@mmci.uni-saarland.de -><email>
+Jiong Guo -><author>
+Universität des Saarlandes -><affiliation>
+Campus E 1.7, D-66123 Saarbrücken, Germany -><address>
+jguo@mmci.uni-saarland.de -><email>

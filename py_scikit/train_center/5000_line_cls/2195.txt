@@ -1,0 +1,34 @@
+Bayesian Model of the Social Effects of Emotion in -><title>
+Decision-Making in Multiagent Systems -><title>
+Peter Carnevale -><author>
+Stephen Read -><author>
+University of -><affiliation>
+University of -><affiliation>
+Southern California -><unknow>
+Southern California -><author>
+Marshall School of -><affiliation>
+Department of -><affiliation>
+Business, -><address>
+Psychology, -><address>
+Los Angeles, CA -><address>
+Los Angeles, CA -><address>
+90089-0808, USA -><address>
+90089-1061, USA -><address>
+read@rcf.usc.edu -><email>
+Dimitrios Antos -><note>
+Harvard -><note>
+University, 33 -><affiliation>
+Oxford st., -><note>
+Maxwell-Dworkin -><unknow>
+217, Cambridge, -><address>
+MA 02138, USA -><address>
+Celso M. de Melo -><author>
+Institute for Creative -><affiliation>
+Technologies, USC, -><affiliation>
+12015 Waterfront -><address>
+Drive, Building #4 -><address>
+Playa Vista, CA -><address>
+90094-2536, USA -><address>
+demelo@ict.usc.edu -><email>
+peter.carnevale@mar -><email>
+shall.usc.edu -><web>

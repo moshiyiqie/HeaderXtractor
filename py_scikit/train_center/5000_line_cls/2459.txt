@@ -1,0 +1,9 @@
+Cooperating with a Markovian Ad Hoc Teammate -><title>
+Peter Stone -><author>
+The University of Texas at Austin -><affiliation>
+Austin, TX 78712, USA -><address>
+pstone@cs.utexas.edu -><email>
+Doran Chakraborty -><author>
+Microsoft -><affiliation>
+Sunnyvale, CA 94089, USA -><address>
+dochakra@microsoft.com -><email>

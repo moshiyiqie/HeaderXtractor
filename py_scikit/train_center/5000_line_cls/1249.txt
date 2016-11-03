@@ -1,0 +1,23 @@
+Making a Strong Business -><title>
+Case for Multiagent Technology -><title>
+Jim Hendrickson -><author>
+VP Global Services, Agentis Software -><affiliation>
+1200 Ashwood Parkway -><address>
+Suite 410, Atlanta, GA 30338 -><address>
++1 650.759.8995 -><phone>
+Daniel Galanti -><author>
+Dir of Engineering, Agentis Software -><affiliation>
+Reconquista 865 - Piso 6 -><address>
+Buenos Aires, Argentina -><address>
++54.11.4317.6880 -><email>
+Steve S. Benfield -><author>
+CTO, Agentis Software -><affiliation>
+1200 Ashwood Parkway -><address>
+Suite 410, Atlanta, GA 30338 -><address>
++1 678.368.4105 -><phone>
+jhendrickson@ -><email>
+agentissoftware.com -><abstract>
+dgalanti@ -><email>
+agentissoftware.com -><abstract>
+sbenfield@ -><email>
+agentisoftware.com -><abstract>

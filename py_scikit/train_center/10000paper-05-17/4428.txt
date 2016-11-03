@@ -1,0 +1,17 @@
+Through the Eye of the PLC: -><title>
+Semantic Security Monitoring for Industrial Processes -><title>
+Pieter H.Hartel -><author>
+University of Twente -><affiliation>
+The Netherlands -><address>
+Emmanuele Zambon -><author>
+University of Twente -><affiliation>
+SecurityMatters B.V. -><address>
+The Netherlands -><address>
+Dina Hadžiosmanovic´ -><author>
+Delft University of -><affiliation>
+Technology -><affiliation>
+The Netherlands -><address>
+Robin Sommer -><author>
+ICSI/LBNL -><affiliation>
+Berkeley, CA -><address>
+USA -><address>

@@ -1,0 +1,12 @@
+BLOCK: A Black-box Approach for Detection of State -><title>
+Violation Attacks Towards Web Applications -><title>
+Xiaowei Li -><author>
+Department of Electrical Engineering and -><affiliation>
+Computer Science -><affiliation>
+Vanderbilt University -><affiliation>
+xiaowei.li@vanderbilt.edu -><email>
+Yuan Xue -><author>
+Department of Electrical Engineering and -><affiliation>
+Computer Science -><affiliation>
+Vanderbilt University -><affiliation>
+yuan.xue@vanderbilt.edu -><email>

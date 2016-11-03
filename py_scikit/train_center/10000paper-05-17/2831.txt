@@ -1,0 +1,29 @@
+Performance Evaluation on Segmentation Methods for -><title>
+Medical Images -><title>
+Manish Khare -><title>
+Image Processing and -><author>
+Computer Vision Lab -><affiliation>
+Department of Electronics and -><affiliation>
+Communication -><author>
+University of Allahabad, India -><affiliation>
++91-9452081912 -><phone>
+mkharejk@gmail.com -><email>
+Ashish Khare -><author>
+Image Processing and -><affiliation>
+Computer Vision Lab -><affiliation>
+Department of Electronics and -><affiliation>
+Communication -><intro>
+University of Allahabad, India -><affiliation>
++91 - 9450618213 -><phone>
+ashishkhare@hotmail.com -><email>
+Rajneesh Kumar -><unknow>
+Srivastava -><title>
+Image Processing and -><author>
+Computer Vision Lab -><affiliation>
+Department of Electronics and -><affiliation>
+Communication -><affiliation>
+University of Allahabad, India -><affiliation>
++91- 9415254349 -><phone>
+rkumarsau@gmail.com -><email>
+Page -><note>
+44 -><note>

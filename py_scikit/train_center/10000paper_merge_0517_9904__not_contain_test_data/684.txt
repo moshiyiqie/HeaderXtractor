@@ -1,0 +1,11 @@
+A Pragmatic Approach to Build Conversation Protocols using Social Commitments -><title>
+Robert C. Kremer -><author>
+University of Calgary -><affiliation>
+Department of Computer Science -><affiliation>
+Calgary, Alberta, Canada T2N 1N4 -><address>
+kremer@cpsc.ucalgary.ca -><email>
+Roberto A. Flores -><author>
+Laval University -><affiliation>
+Department of Informatics -><affiliation>
+Sainte-Foy, Quebec, Canada G1K 7P4 -><address>
+flores@damas.ift.ulaval.ca -><email>

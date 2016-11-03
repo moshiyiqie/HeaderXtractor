@@ -1,0 +1,14 @@
+Consolidated Actor Critic Reinforcement Learning Model -><title>
+Applied to Face Detection -><title>
+Itamar Arel -><author>
+Electrical Engineering and Computer Science -><affiliation>
+Department -><affiliation>
+University of Tennessee, Knoxville -><affiliation>
+Knoxville, TN 37996 -><address>
+itamar@utk.edu -><email>
+Ben Goodrich -><author>
+Electrical Engineering and Computer Science -><affiliation>
+Department -><affiliation>
+University of Tennessee, Knoxville -><affiliation>
+Knoxville, TN 37996 -><address>
+bgoodric@utk.edu -><email>

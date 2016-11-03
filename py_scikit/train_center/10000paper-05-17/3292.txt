@@ -1,0 +1,15 @@
+Tim Bell -><author>
+Department of Computer Science and Software Engineering -><affiliation>
+University of Canterbury -><affiliation>
+Christchurch, New Zealand -><address>
+tim.bell@canterbury.ac.nz -><email>
+Peter Andreae -><author>
+School of Engineering and Computer Science -><affiliation>
+Victoria University of Wellington -><affiliation>
+New Zealand -><address>
+Peter.Andreae@ecs.vuw.ac.nz -><email>
+Lynn Lambert -><author>
+Physics, Computer Science and Engineering Department -><affiliation>
+Christopher Newport University -><affiliation>
+Newport News, Virginia, USA -><address>
+llambert@cnu.edu -><email>

@@ -1,0 +1,13 @@
+Learning to be Scientists via a Virtual Field Trip (Demonstration) -><title>
+Deborah Richards1, Michael J Jacobson2, Meredith Taylor1, Anne Newstead2, Charlotte Taylor2, -><author>
+John Porte1, Iwan Kelaiah1, Nader Hanna1 -><author>
+1Department of Computing -><affiliation>
+Centre for Computer Supported Learning and Cognition, -><affiliation>
+Faculty of Education and Social Work, The University of -><affiliation>
+Sydney, NSW, 2106, Australia -><address>
++61 2 9036 7671 -><phone>
+michael.jacobson@sydney.edu.au -><email>
+Macquarie University -><affiliation>
+North Ryde, NSW, 2109, Australia -><address>
++61 2 9850 9567 -><phone>
+deborah.richards@mq.edu.au -><email>

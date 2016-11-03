@@ -1,0 +1,15 @@
+An Optimal Location Update and Searching -><title>
+Algorithm for Tracking Mobile Agent -><title>
+∗ -><title>
+Kwok-Yan Lam -><author>
+Centre for Systems Security -><affiliation>
+School of Computing -><affiliation>
+National University of Singapore -><affiliation>
+Singapore 119260 -><address>
+lamky@comp.nus.edu.sg -><email>
+Tie-Yan Li -><email>
+Information Security Group -><author>
+Ubiquitous Computing Program -><affiliation>
+Laboratories for Information Technology -><affiliation>
+Singapore 119613 -><address>
+litieyan@lit.org.sg -><email>

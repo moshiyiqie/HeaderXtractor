@@ -1,0 +1,23 @@
+Development of Force-Feedback Device for PC-Game -><title>
+using vibration -><title>
+hee-Dong Chang -><author>
+Dept. of Computer Engineering -><affiliation>
+in Hoseo University -><affiliation>
+29-1 Sechul-ri Baebang-Myun -><address>
+Asan city S. Korea -><note>
+17-714-9296, +82 -><phone>
+dooly@office.hoseo.ac.kr -><email>
+Kyung-Sik Kim -><author>
+Dept. of Computer Engineering -><affiliation>
+in Hoseo University -><affiliation>
+29-1 Sechul-ri Baebang-Myun -><address>
+Asan city S. Korea -><note>
+11-405-7866, +82 -><phone>
+kskim@office.hoseo.ac.kr -><email>
+Sam-ha Choi -><author>
+Dept. of Computer Engineering, in -><affiliation>
+Graduate School of Hoseo University -><affiliation>
+29-1 Sechul-ri Baebang-Myun -><note>
+Asan city S. Korea -><note>
+19-220-9044, +82 -><phone>
+venture@office.hoseo.ac.kr -><email>

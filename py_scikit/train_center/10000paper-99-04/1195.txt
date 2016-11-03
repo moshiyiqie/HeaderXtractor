@@ -1,0 +1,12 @@
+Determining Optimal Paths in a Weighted and Dynamic -><title>
+2D Environment Using Framed-Octrees -><title>
+Bin Xu and Danny Z. Chen -><author>
+Department of Computer Science and Engineering -><author>
+University of Notre Dame -><affiliation>
+Notre Dame, IN 46556 -><address>
+{bxu, Chen} @ cse.nd.edu -><email>
+Robert J. Szczerba -><author>
+Lockheed Martin Federal Systems -><affiliation>
+1801 State Route 17c -><affiliation>
+Owego, New York 13827 -><address>
+robert.j.szczerba@ Imco.com -><email>

@@ -1,0 +1,14 @@
+The Use of Robust Statistics to Improve the Prediction of -><title>
+Software Failure Time -><title>
+Nasser H. Abosaq -><author>
+Florida Institute of Technology -><affiliation>
+150 W. University Blvd. -><affiliation>
+Melbourne, FL 32901 USA -><address>
+(321) 525-0966 -><phone>
+nabosaq@fit.edu -><email>
+Walter Bond -><author>
+Florida Institute of Technology -><affiliation>
+150 W. University Blvd. -><affiliation>
+Melbourne, FL 32901 USA -><address>
+(321) 674-7563 -><phone>
+pbond@fit.edu -><email>

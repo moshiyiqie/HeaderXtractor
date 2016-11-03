@@ -1,0 +1,16 @@
+SolarCAST: -><title>
+Using Widely Accessible Environmental Variables to -><title>
+Forecast Solar Power -><title>
+Chris Hatfield -><author>
+Asbury College -><affiliation>
+1 Macklem Drive -><address>
+Wilmore, KY 40390 -><address>
+(859) 437-0142 -><phone>
+patrick.hatfield@asbury.edu -><email>
+Dr. David Umphress -><author>
+Department of Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, AL 36849-5347 -><address>
+(334) 844-6335 -><phone>
+david.umphress@auburn.edu -><email>

@@ -1,0 +1,4 @@
+Multiagent Self-assembly Simulation Environment -><title>
+Vadim Gerasimov, Ying Guo, Geoff James, Geoff Poulton, and Philip Valencia -><author>
+CSIRO Centre for Intelligent Systems Design -><affiliation>
+{Vadim.Gerasimov, Ying.Guo, Geoff.James, Geoff.Poulton, Philip.Valencia}@csiro.au -><email>

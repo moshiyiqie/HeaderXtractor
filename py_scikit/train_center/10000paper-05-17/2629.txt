@@ -1,0 +1,12 @@
+Dynamic Theoretical Analysis of the Distributed Stochastic -><title>
+and Distributed Breakout Algorithms -><title>
+Anton Ridgway -><author>
+Roger Mailler -><author>
+University of Tulsa -><affiliation>
+Tandy School of Computer Science -><affiliation>
+Tulsa, Oklahoma -><address>
+roger-mailler@utulsa.edu -><email>
+University of Tulsa -><affiliation>
+Tandy School of Computer Science -><affiliation>
+Tulsa, Oklahoma -><address>
+anton-ridgway@utulsa.edu -><email>

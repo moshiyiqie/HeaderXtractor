@@ -1,0 +1,6 @@
+On the Integration of the Actor Model -><title>
+in Mainstream Technologies -><title>
+The Scala Perspective -><title>
+Philipp Haller -><author>
+Typesafe, Inc. -><affiliation>
+philipp.haller@typesafe.com -><email>

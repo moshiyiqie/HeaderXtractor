@@ -1,0 +1,22 @@
+The Complexity of Multiagent Systems: -><title>
+The Price of Silence -><title>
+Claudia V. Goldman -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003 -><address>
+clag@cs.umass.edu -><email>
+Jeffrey S. Rosenschein -><author>
+School of Computer Science -><affiliation>
+and Engineering -><affiliation>
+Hebrew University of -><affiliation>
+Jerusalem -><address>
+91904 Jerusalem, Israel -><address>
+jeff@cs.huji.ac.il -><email>
+Zinovi Rabinovich -><email>
+School of Computer Science -><affiliation>
+and Engineering -><affiliation>
+Hebrew University of -><affiliation>
+Jerusalem -><address>
+91904 Jerusalem, Israel -><address>
+nomad@cs.huji.ac.il -><email>

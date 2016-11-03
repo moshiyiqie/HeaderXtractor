@@ -1,0 +1,13 @@
+Toward Worm Detection in Online Social Networks -><title>
+Wei Xu -><author>
+Pennsylvania State University -><affiliation>
+University Park, Pennsylvania -><affiliation>
+wxx104@cse.psu.edu -><email>
+Fangfang Zhang -><author>
+Pennsylvania State University -><affiliation>
+University Park, Pennsylvania -><affiliation>
+fuz104@cse.psu.edu -><email>
+Sencun Zhu -><author>
+Pennsylvania State University -><affiliation>
+University Park, Pennsylvania -><affiliation>
+szhu@cse.psu.edu -><email>

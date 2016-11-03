@@ -1,0 +1,22 @@
+Magic Mirror : A new VR platform design -><title>
+and its applications -><title>
+Hyun Jin Lee -><author>
+School of Design & Art, Hong-ik -><affiliation>
+University -><affiliation>
+300 Shinan-ri, Jochiwon-eup, Youngi- -><address>
+gun, Chungnam, Korea -><address>
+Ig-Jae Kim -><author>
+Korea Institute of Science and -><affiliation>
+Technology -><affiliation>
+39-1 Hawolgokdong, Seongbukgu, -><address>
+Seoul, Korea -><address>
++82-2-958-5766 -><phone>
+drjay@kist.re.kr -><email>
+Hyoung-Gon Kim -><author>
+Korea Institute of Science and -><affiliation>
+Technology -><affiliation>
+39-1 Hawolgokdong, Seoungbukgu, -><address>
+Seoul, Korea -><address>
++82-2-958-5771 -><phone>
+hgk@kist.re.kr -><email>
+hjlee@hongik.ac.kr -><email>

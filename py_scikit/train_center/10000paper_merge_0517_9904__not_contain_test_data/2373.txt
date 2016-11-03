@@ -1,0 +1,14 @@
+Robust Strategy against Unknown Risk-averse Attackers in -><title>
+Security Games -><title>
+Milind Tambe -><author>
+University of Southern -><affiliation>
+California -><address>
+tambe@usc.edu -><email>
+Yundi Qian -><author>
+University of Southern -><affiliation>
+California -><address>
+yundi.qian@usc.edu -><email>
+William B. Haskell -><author>
+National University of -><affiliation>
+Singapore -><address>
+isehwb@nus.edu.sg -><email>

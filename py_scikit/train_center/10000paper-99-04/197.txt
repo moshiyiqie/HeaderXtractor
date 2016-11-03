@@ -1,0 +1,5 @@
+Model Checking Multi-Agent Systems with MABLE∗ -><title>
+Michael Wooldridge Michael Fisher Marc-Philippe Huget Simon Parsons -><author>
+Department of Computer Science, University of Liverpool -><affiliation>
+Liverpool L69 7ZF, United Kingdom -><address>
+{mjw,mdf,mph,sp}@csc.liv.ac.uk -><email>

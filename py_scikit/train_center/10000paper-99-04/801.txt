@@ -1,0 +1,6 @@
+Toward Intelligent Agents on Quantum Computers -><title>
+Matthias Klusch -><author>
+German Research Center for Artifical Intelligence, -><affiliation>
+Deduction and Multiagent Systems, -><affiliation>
+Stuhlsatzenhausweg 3, D-66123 Saarbru¨cken, Germany. -><address>
+e-mail: klusch@dfki.de -><email>

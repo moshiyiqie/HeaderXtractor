@@ -1,0 +1,34 @@
+Using Emotion in Games: Emotional Flowers -><title>
+Manfred Tscheligi -><author>
+University of Salzburg, -><affiliation>
+ICT&S Center -><affiliation>
+Sigmund-Haffner- -><address>
+Gasse 18 -><address>
+Andreas Boldt -><author>
+University of Salzburg, -><affiliation>
+ICT&S Center -><affiliation>
+Sigmund-Haffner- -><address>
+Gasse 18 -><address>
+Salzburg, 5020, Austria -><address>
+Andreas.Boldt@sbg.ac.at -><email>
+Thomas Mirlacher -><author>
+University of Salzburg, -><affiliation>
+ICT&S Center -><affiliation>
+Sigmund-Haffner- -><address>
+Gasse 18 -><address>
+Salzburg, 5020, Austria -><address>
+Thomas.Mirlacher@sbg.ac.at -><email>
+David Wilfinger -><author>
+University of Salzburg, -><affiliation>
+ICT&S Center -><affiliation>
+Sigmund-Haffner- -><address>
+Gasse 18 -><address>
+Salzburg, 5020, Austria -><address>
+David.Wilfinger@sbg.ac.at -><email>
+Regina Bernhaupt -><author>
+University of Salzburg, -><affiliation>
+ICT&S Center -><affiliation>
+Sigmund-Haffner- -><address>
+Gasse 18 -><address>
+Salzburg, 5020, Austria -><address>
+Regina.Bernhaupt@sbg.ac.at -><email>

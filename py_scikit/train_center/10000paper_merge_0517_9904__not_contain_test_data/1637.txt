@@ -1,0 +1,7 @@
+Baseline: Practical Control Variates for Agent Evaluation -><title>
+in Zero-Sum Domains -><title>
+Joshua Davidson, Christopher Archibald and Michael Bowling -><author>
+{joshuad, archibal, bowling}@ualberta.ca -><email>
+Department of Computing Science -><affiliation>
+University of Alberta -><affiliation>
+Edmonton, AB, Canada T6G 2E8 -><address>

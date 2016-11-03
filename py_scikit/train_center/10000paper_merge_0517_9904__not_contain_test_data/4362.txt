@@ -1,0 +1,10 @@
+Hi-Fi: Collecting High-Fidelity Whole-System Provenance -><title>
+Kevin Butler -><author>
+University of Oregon -><affiliation>
+Eugene, OR -><address>
+butler@cs.uoregon.edu -><email>
+Devin J. Pohly, Stephen McLaughlin, -><author>
+Patrick McDaniel -><author>
+Pennsylvania State University -><affiliation>
+University Park, PA -><affiliation>
+{djpohly,smclaugh,mcdaniel}@cse.psu.edu -><email>

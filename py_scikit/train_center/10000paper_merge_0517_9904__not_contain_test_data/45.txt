@@ -1,0 +1,25 @@
+Equilibrium Reputation Mechanism for Mobile Agent -><title>
+based Electronic Commerce -><title>
+X. F. Wang -><author>
+ECE Department -><affiliation>
+P. K. Khosla -><author>
+ECE Department -><affiliation>
+K. Hosanagar R. Krishnan -><author>
+Heinz School -><affiliation>
+Carnegie Mellon University -><affiliation>
+Carnegie Mellon University -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave., Pittsburgh, -><address>
+PA15213, USA -><address>
+{kartikh,rk2x}@andrew.cmu.edu -><email>
+5000 Forbes Ave., Pittsburgh, -><address>
+PA15213, USA -><address>
+xiaofeng@cs.cmu.edu -><email>
+5000 Forbes Ave., Pittsburgh, -><date>
+PA15213, USA -><date>
+pkk@ece.cmu.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Distributed Artificial Intelligence]: Coherence and -><note>
+coordination, Intelligent agents, Multiagent systems. -><note>
+General Terms -><note>
+Algorithms, Economics, Security, Theory. -><note>

@@ -1,0 +1,12 @@
+Workshop on Designing and Teaching -><title>
+Information Security Curriculum -><title>
+Herbert J. Mattord -><author>
+Kennesaw State University -><affiliation>
+1000 Chastain Rd, MS 1101 -><address>
+770-423-6005 -><phone>
+hmattord@kennesaw.edu -><email>
+Michael E. Whitman -><author>
+Kennesaw State University -><affiliation>
+1000 Chastain Rd, MS 1101 -><address>
+770-423-6005 -><phone>
+mwhitman@kennesaw.edu -><email>

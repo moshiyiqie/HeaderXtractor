@@ -1,0 +1,6 @@
+MINA: An Algorithm for Detecting the Presence of -><title>
+Extrinsic Network Nodes using a Message Induced Graph -><title>
+James A. Jerkins -><author>
+Department of Computer Science -><affiliation>
+The University of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35889jerkinj@uah.edu -><email>

@@ -1,0 +1,14 @@
+Inconsistency Measurement Thanks to MUS -><title>
+Decomposition -><title>
+Badran Raddaoui -><author>
+CRIL-CNRS, Univ. Artois -><affiliation>
+Lens, France -><address>
+raddaoui@cril.fr -><email>
+Said Jabbour -><author>
+CRIL-CNRS, Univ. Artois -><affiliation>
+Lens, France -><address>
+jabbour@cril.fr -><email>
+Yue Ma -><author>
+Institute of TCS -><affiliation>
+TU Dresden, Germany -><address>
+mayue@tu-dresden.de -><email>

@@ -1,0 +1,20 @@
+Domain and Data Partitioning for Parallel Mining of -><title>
+Frequent Closed Itemsets -><title>
+Ningning Wu -><author>
+Dept of Information Science -><affiliation>
+University of Arkansas at LR -><affiliation>
+2801 S. University Ave. -><affiliation>
+Little Rock, AR 72204 -><address>
+nxwu@ualr.edu -><email>
+Li Ning -><author>
+Dept of Computer Science -><affiliation>
+University of Arkansas at LR -><affiliation>
+2801 S. University Ave. -><affiliation>
+Little Rock, AR 72204 -><address>
+lxning@ualr.edu -><email>
+Peiyi Tang -><author>
+Dept of Computer Science -><affiliation>
+University of Arkansas at LR -><affiliation>
+2801 S. University Ave. -><affiliation>
+Little Rock, AR 72204 -><degree>
+ptang@titius.compsci.ualr.edu -><email>

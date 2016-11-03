@@ -1,0 +1,6 @@
+Quantification in Tail-recursive Function Definitions -><title>
+Sandip Ray -><author>
+Department of Computer Sciences -><affiliation>
+The University of Texas at Austin -><affiliation>
+Austin, TX 78712. USA -><address>
+sandip@cs.utexas.edu -><email>

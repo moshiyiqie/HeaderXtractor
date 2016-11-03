@@ -1,0 +1,6 @@
+Synthesizing Expressions using Facial Feature Point -><title>
+Tracking: How Emotion is Conveyed -><title>
+Tadas Baltrušaitis, Laurel D. Riek, and Peter Robinson -><author>
+Computer Laboratory -><affiliation>
+University of Cambridge -><affiliation>
+tb346@cam.ac.uk, Laurel.Riek@cl.cam.ac.uk, Peter.Robinson@cl.cam.ac.uk -><email>

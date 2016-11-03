@@ -1,0 +1,10 @@
+Capture The Flag: Simulating a Location-Based Mobile -><title>
+Game Using the Wizard-Of-Oz Method -><title>
+Regina Bernhaupt -><author>
+Stefan Jenisch, York Keyser, Manuel Will -><author>
+Sigmund-Haffner-Gasse 18 -><note>
+5020 Salzburg -><date>
+Regina.Bernhaupt@sbg.ac.at -><email>
+Department for Computer Sciences, -><affiliation>
+Jakob-Haringer-Str. 2, 5020 Salzburg, Austria -><address>
+{sjenisch, dragon, mwill} @cosy.sbg.ac.at -><email>

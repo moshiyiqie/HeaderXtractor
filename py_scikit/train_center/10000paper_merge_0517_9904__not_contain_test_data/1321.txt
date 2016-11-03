@@ -1,0 +1,5 @@
+Efficient Planning in R-max -><title>
+Marek Grzes´ and Jesse Hoey -><author>
+David R. Cheriton School of Computer Science, University of Waterloo -><affiliation>
+200 University Avenue West, Waterloo, ON, N2L 3G1, Canada -><affiliation>
+{mgrzes, jhoey}@cs.uwaterloo.ca -><email>

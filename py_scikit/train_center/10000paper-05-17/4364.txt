@@ -1,0 +1,22 @@
+CodeShield: Towards Personalized Application -><title>
+Whitelisting -><title>
+Christopher Gates -><author>
+Department of Computer -><affiliation>
+Science and CERIAS -><affiliation>
+Purdue University -><affiliation>
+gates2@cs.purdue.com -><email>
+Jing Chen -><author>
+Department of Psychological -><affiliation>
+Sciences and CERIAS -><affiliation>
+Purdue University -><affiliation>
+chen548@psych.purdue.edu -><email>
+Ninghui Li -><author>
+Department of Computer -><affiliation>
+Science and CERIAS -><affiliation>
+Purdue University -><affiliation>
+ninghui@cs.purdue.com -><email>
+Robert Proctor -><author>
+Department of Psychological -><affiliation>
+Sciences and CERIAS -><affiliation>
+Purdue University -><affiliation>
+proctor@psych.purdue.edu -><email>

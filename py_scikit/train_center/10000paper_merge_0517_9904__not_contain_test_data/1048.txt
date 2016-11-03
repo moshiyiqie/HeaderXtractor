@@ -1,0 +1,18 @@
+A data-driven approach to model Culture-speciﬁc -><title>
+Communication Management Styles for Virtual Agents -><title>
+Birgit Endrass -><author>
+Elisabeth André -><author>
+Multimedia Concepts and Applications -><affiliation>
+Augsburg University -><affiliation>
+Universitätsstr. 6a -><affiliation>
+D-86159 Augsburg, Germany -><address>
+{endrass, andre} -><email>
+@informatik.uni-augsburg.de -><email>
+Lixing Huang -><author>
+Jonathan Gratch -><author>
+Institute for Creative Technologies -><affiliation>
+University of Southern California -><affiliation>
+13274 Fiji Way -><address>
+Marina del Rey, CA 90292 USA -><address>
+lixinghu@usc.edu -><email>
+gratch@ict.usc.edu -><email>

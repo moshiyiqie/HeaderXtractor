@@ -1,0 +1,12 @@
+Cross-Lingual Text Classification with Model Translation -><title>
+and Document Translation -><title>
+Zhang Zhang -><author>
+Computer Science Department -><affiliation>
+San Jose State University -><affiliation>
+San Jose, CA 95192-0249 -><address>
+zhang.zhang@students.sjsu.edu -><email>
+Teng-Sheng Moh -><author>
+Computer Science Department -><affiliation>
+San Jose State University -><affiliation>
+San Jose, CA 95192-0249 -><address>
+teng.moh@sjsu.edu -><email>

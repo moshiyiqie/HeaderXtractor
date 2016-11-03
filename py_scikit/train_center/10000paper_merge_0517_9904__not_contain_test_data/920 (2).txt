@@ -1,0 +1,7 @@
+SOTWARE MODULARIZATION USING REQUIREMENTS -><title>
+ATTRIBUTES -><title>
+Turky N. Al-Otaiby, Walter P. Bond, Mohsen AlSherif -><author>
+Department of Computer Sciences -><affiliation>
+Florida Institute of Technology -><affiliation>
+Melbourne, Florida 32901 -><address>
+{talotaib, pbond, malsherif}@fit.edu -><email>

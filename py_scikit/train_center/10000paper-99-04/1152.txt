@@ -1,0 +1,13 @@
+Improving Management Performance by Using Multiple -><title>
+Mobile Agents -><title>
+Marcelo Gongalves Rubinstein 1,2," Otto Carlos Muniz Bandeira Duarte 1 Guy Pujolle = -><author>
+1 Grupo de Teleinform~ttica e Automa(;~.o -><author>
+Universidade Federal do Rio de Janeiro -><affiliation>
+COPPE/EE - P.O.Box 68504 - 21945-970 -><phone>
+Rio de Janeiro - Brazil -><author>
+{rubi, otto} @ gta.ufrj.br -><email>
+2 Laboratoire PRISM -><affiliation>
+Universit~ de Versailles St-Quentin-en-Yvelines -><affiliation>
+45, Avenue des Etats-Unis - 78035 -><address>
+Versailles - France -><address>
+G uy.Pujolle @ prism.uvsq.fr -><email>

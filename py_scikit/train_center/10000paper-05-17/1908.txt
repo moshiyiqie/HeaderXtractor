@@ -1,0 +1,5 @@
+Competing Intermediary Auctions -><title>
+Lampros C. Stavrogiannis, Enrico H. Gerding, Maria Polukarov -><author>
+School of Electronics and Computer Science, University of Southampton -><affiliation>
+Southampton, SO17 1BJ, United Kingdom -><address>
+{ls8g09, eg, mp3}@ecs.soton.ac.uk -><email>

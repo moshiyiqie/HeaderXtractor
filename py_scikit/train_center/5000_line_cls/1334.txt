@@ -1,0 +1,17 @@
+Organizational Petri Nets -><title>
+for Protocol Design and Enactment -><title>
+Chihab Hanachi -><author>
+IRIT - University Toulouse 1 -><affiliation>
+Place Anatole France -><address>
+31042 Toulouse, France -><address>
+hanachi@univ-tlse1.fr -><email>
+University Toulouse 3 -><affiliation>
+115, Route de Narbonne -><address>
+31077 Toulouse, France -><address>
+Christophe Sibertin-Blanc -><author>
+IRIT - University Toulouse 1 -><affiliation>
+Place Anatole France -><address>
+31042 Toulouse, France -><address>
+sibertin@univ-tlse1.fr -><email>
+stephanie.combettes@iut- -><email>
+tlse3.fr -><email>

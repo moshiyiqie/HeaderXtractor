@@ -1,0 +1,7 @@
+User-Driven Narrative Variation in Large Story Domains -><title>
+using Monte Carlo Tree Search -><title>
+Bilal Kartal, John Koenig, and Stephen J. Guy -><author>
+Department of Computer Science -><affiliation>
+University of Minnesota -><affiliation>
+Minneapolis, MN, 55455 -><address>
+{bilal,koenig,sjguy}@cs.umn.edu -><email>

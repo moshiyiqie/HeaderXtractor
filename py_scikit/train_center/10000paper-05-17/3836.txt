@@ -1,0 +1,9 @@
+Building an Online Conference with Open-Source -><title>
+Components -><title>
+Richard Halstead-Nussloch & Yang Lu -><author>
+Computing and Software Engineering -><affiliation>
+Southern Polytechnic State University -><affiliation>
+1100 South Marietta Parkway -><address>
+Marietta, GA 30060 USA -><address>
++1 678 915 5509 -><phone>
+rhalstea@spsu.edu; ylu@spsu.edu -><email>

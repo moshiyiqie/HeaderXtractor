@@ -1,0 +1,4 @@
+Computing Manipulations of Ranking Systems -><title>
+Ethan Gertler Erika Mackin Malik Magdon-Ismail Lirong Xia Yuan Yi -><author>
+{gertle,mackie2,yiy2}@rpi.edu, {magdon,xial}@cs.rpi.edu -><email>
+Computer Science Department, Rensselaer Polytechnic Institute, Troy, NY, USA -><affiliation>

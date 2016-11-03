@@ -1,0 +1,9 @@
+A Real-Time Semantics for Norms with Deadlines -><title>
+Koen V. Hindriks -><author>
+Delft University of Technology -><affiliation>
+Delft, The Netherlands -><address>
+k.v.hindriks@tudelft.nl -><email>
+M. Birna van Riemsdijk -><author>
+Delft University of Technology -><affiliation>
+Delft, The Netherlands -><address>
+m.b.vanriemsdijk@tudelft.nl -><email>

@@ -1,0 +1,12 @@
+Tuning File System Block Addressing for Performance -><title>
+Harrison Caudill∗ -><author>
+1742 River Drive -><affiliation>
+Morehead City, North Carolina 28557 -><address>
+harrison@hypersphere.org -><email>
+Ada Gavrilovska -><affiliation>
+Georgia Tech -><address>
+801 Atlantic Drive -><address>
+Atlanta, Georgia 30332 -><address>
+ada@cc.gatech.edu -><email>
+General Terms -><author>
+File Systems, Fragmentation, Optimization -><affiliation>

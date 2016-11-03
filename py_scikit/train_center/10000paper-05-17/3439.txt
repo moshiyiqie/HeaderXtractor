@@ -1,0 +1,22 @@
+Efficient, Formally Verifiable Data Structures using ACL2 -><title>
+Single-Threaded Objects for High-Assurance Systems -><title>
+David S. Hardin -><author>
+Advanced Technology Center -><affiliation>
+Rockwell Collins, Inc. -><affiliation>
+Cedar Rapids, IA, USA -><address>
+dshardin@rockwellcollins.com -><email>
+Samuel S. Hardin -><author>
+Department of Electrical and Computer -><affiliation>
+Engineering -><affiliation>
+Iowa State University -><affiliation>
+Ames, IA, USA -><address>
+sshardin@iastate.edu -><email>
+Permission to make digital or hard copies of all or part of -><abstract>
+this work for personal or classroom use is granted without fee -><abstract>
+provided that copies are not made or distributed for profit or -><abstract>
+commercial advantage and that copies bear this notice and -><abstract>
+the full citation on the first page. To copy otherwise, to re- -><abstract>
+publish, to post on servers or to redistribute to lists, requires -><abstract>
+prior specific permission and/or a fee. -><abstract>
+ACL2’09, May 11–12, 2009, Boston, MA, USA -><note>
+Copyright c©2009 ACM 978-1-60558-742-4/09/05. . . $10.00 -><note>

@@ -1,0 +1,10 @@
+Bootstrap Statistics for Empirical Games -><title>
+Michael P. Wellman -><author>
+University of Michigan -><affiliation>
+wellman@umich.edu -><email>
+Bryce Wiedenbeck -><author>
+University of Michigan -><affiliation>
+btwied@umich.edu -><email>
+Ben-Alexander Cassell -><author>
+University of Michigan -><affiliation>
+bcassell@umich.edu -><email>

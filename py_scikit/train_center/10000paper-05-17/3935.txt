@@ -1,0 +1,20 @@
+Evaluation of a Location-Linked Notes System -><title>
+Ingrid Burbey -><author>
+Bradley Dept. of Electrical and -><affiliation>
+Computer Engineering -><affiliation>
+Virginia Tech -><address>
+Blacksburg VA, 24060 -><address>
+iburbey@vt.edu -><email>
+Manas Tungare -><author>
+Dept. of Computer Science & -><affiliation>
+Center for Human-Computer -><affiliation>
+Interaction, Virginia Tech -><address>
+Blacksburg VA, 24060 -><address>
+manas@vt.edu -><email>
+Manuel A. -><author>
+Pe´rez-Quin˜ones -><author>
+Dept. of Computer Science & -><affiliation>
+Center for Human-Computer -><affiliation>
+Interaction, Virginia Tech -><address>
+Blacksburg VA, 24060 -><address>
+perez@cs.vt.edu -><email>

@@ -1,0 +1,6 @@
+Building THINC: User Incentivization and Meeting -><title>
+Rescheduling for Energy Savings -><title>
+Jun-young Kwak, Debarun Kar, William Haskell, Pradeep Varakantham∗, Milind Tambe -><author>
+University of Southern California, Los Angeles, CA, 90089 -><affiliation>
+∗Singapore Management University, Singapore, 178902 -><affiliation>
+{junyounk,dkar,tambe}@usc.edu, wbhaskell@gmail.com, ∗pradeepv@smu.edu.sg -><email>

@@ -1,0 +1,6 @@
+Optimized Distributed Implementation of -><title>
+Multiparty Interactions with Observation ∗ -><title>
+Saddek Bensalem1 Marius Bozga1 Jean Quilbeuf1 Joseph Sifakis1,2 -><author>
+1 UJF-Grenoble 1 / CNRS VERIMAG UMR 5104, Grenoble, F-38041, France -><affiliation>
+2 RISD Laboratory, EPFL, Lausanne, CH-1015, Switzerland -><affiliation>
+{bensalem,bozga,quilbeuf,sifakis}@imag.fr -><email>

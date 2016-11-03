@@ -1,0 +1,7 @@
+The Spinning Screen: -><title>
+A Movable Experience Between Virtual and Real -><title>
+Hyun-Jean Lee, Ali Mazalek, Kirti Goel -><author>
+Synaesthetic Media Lab, GVU Center -><affiliation>
+Georgia Institute of Technology -><affiliation>
+Atlanta, GA 30332 USA -><address>
+{ hyunjean.lee, mazalek, kgoel3 }@gatech.edu -><email>

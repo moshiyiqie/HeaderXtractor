@@ -1,0 +1,10 @@
+Evolving Real-Time Local Agent Control for -><title>
+Large-Scale MAS -><title>
+Thomas Wagner -><author>
+Computer Science Department -><affiliation>
+University of Maine -><affiliation>
+wagner@umcs.maine.edu -><email>
+Victor Lesser -><author>
+Computer Science Department -><affiliation>
+University of Massachusetts -><affiliation>
+lesser@cs.umass.edu -><email>

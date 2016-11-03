@@ -1,0 +1,8 @@
+A Program for Proving that a Given Graph is not a -><title>
+Unit-Distance Graph -><title>
+Preliminary Report -><title>
+Robert Hochberg -><author>
+Department of Computer Science -><affiliation>
+East Carolina University -><affiliation>
+Greenville, North Carolina 27858 -><address>
+hochberg@cs.ecu.edu -><email>

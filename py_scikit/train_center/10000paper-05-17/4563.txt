@@ -1,0 +1,26 @@
+Dynamic Reconfiguration of Middleware -><title>
+for Ubiquitous Computing -><title>
+Enrico Lodolo -><author>
+Stefano Monti -><author>
+DEIS, University of Bologna -><affiliation>
+DEIS, University of Bologna -><affiliation>
+V.le Risorgimento 2, 40136 -><address>
+V.le Risorgimento 2, 40136 -><address>
+Bologna, Italy -><address>
+Bologna, Italy -><address>
++390512093083 -><date>
++390512093323 -><date>
+enrico.lodolo@unibo.it -><email>
+stefano.monti6@unibo.it -><email>
+Samuele Pasini -><author>
+DEIS, University of Bologna -><affiliation>
+V.le Risorgimento 2, 40136 -><address>
+Bologna, Italy -><address>
++390512093323 -><phone>
+samuele.pasini@unibo.it -><email>
+Antonio Corradi -><author>
+DEIS, University of Bologna -><affiliation>
+V.le Risorgimento 2, 40136 -><address>
+Bologna, Italy -><address>
++390512093083 -><phone>
+antonio.corradi@unibo.it -><email>

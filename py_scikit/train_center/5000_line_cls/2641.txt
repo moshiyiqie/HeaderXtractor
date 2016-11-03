@@ -1,0 +1,34 @@
+Creating an Artificially Intelligent Director (AID) -><title>
+for Theatre and Virtual Environments -><title>
+(Doctoral Consortium) -><title>
+Christine Talbot -><author>
+Game Intelligence Group -><affiliation>
+University of North Carolina at Charlotte -><affiliation>
+ctalbot1@uncc.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2 [Artificial Intelligence]: Miscellaneous -><note>
+Keywords -><unknow>
+Theatre; Director; Artificial Intelligence; Spatial Reason- -><title>
+ing; Natural Language Processing; Machine Learning; Force- -><title>
+Directed Graphs; Rules Engine; Shakespeare; Hamlet; BML -><title>
+Realizer; Agent Reasoning; Agent Planning -><title>
+1. BACKGROUND -><abstract>
+Historically, most virtual character research focuses on re- -><abstract>
+alism, interaction with humans, and discourse. The majority -><abstract>
+of the spatial positioning of characters has focused on one- -><abstract>
+on-one conversations with humans or placing virtual charac- -><abstract>
+ters side-by-side when talking. These rely on conversational -><abstract>
+space as the main driver (if any) for character placement. -><abstract>
+Robotics is more of a physical representation of characters -><abstract>
+and by its nature relies on spatial positioning of objects. -><abstract>
+Research in this area has involved providing directions to -><abstract>
+robots or robots providing directions to humans. The main -><abstract>
+concern is how to describe the spatial positioning of objects -><abstract>
+with respect to other items in the environment [5, 16]. Some -><abstract>
+robotics research has worked on incorporating robotics into -><abstract>
+the theatre, but its purpose has been around pre-recording -><abstract>
+humanistic movements for replaying in other scenarios [9]. -><abstract>
+Psychologists have spent a lot of time digging into the -><abstract>
+meanings behind key prepositions that describe spatial con- -><abstract>
+cepts, such as in, on, near, and far [4, 7]. This is useful -><abstract>
+in helping us to understand spatial instructions given by -><abstract>

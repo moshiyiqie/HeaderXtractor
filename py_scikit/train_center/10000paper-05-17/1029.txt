@@ -1,0 +1,11 @@
+Joint Process Games: From Ratings to Wikis ∗ -><title>
+Yoav Shoham -><author>
+Computer Science Department -><affiliation>
+Stanford University -><affiliation>
+Michael Munie -><author>
+Computer Science Department -><affiliation>
+Stanford University -><affiliation>
+munie@stanford.edu -><email>
+Microsoft Israel R&D Center -><affiliation>
+Herzliya Pituach, Israel -><address>
+shoham@stanford.edu -><email>

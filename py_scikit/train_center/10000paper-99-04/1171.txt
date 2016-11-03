@@ -1,0 +1,4 @@
+Broadcast of Local Eligibility: -><title>
+Behavior-Based Control for Strongly Cooperative Robot Teams -><title>
+Barry Brian Werger and Maja J Mataric -><author>
+Computer Science / Robotics Research Labs, University of Southern California -><affiliation>

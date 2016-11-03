@@ -1,0 +1,7 @@
+DipTools: Experimental Data Visualization Tool -><title>
+for the DipGame Testbed -><title>
+(Demonstration) -><title>
+Angela Fabregues, David López-Paz and Carles Sierra -><author>
+Artificial Intelligence Research Institute (IIIA-CSIC) -><affiliation>
+Campus Universitat Autònoma de Barcelona, 08193 Bellaterra, Catalonia, Spain -><affiliation>
+{fabregues, sierra}@iiia.csic.es, dlopez@dipgame.org -><email>

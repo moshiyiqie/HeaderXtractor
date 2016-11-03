@@ -1,0 +1,9 @@
+Improving the Learning Rate by Inducing a Transition Model -><title>
+Eric McCreath -><author>
+Department of Computer Science -><affiliation>
+The Australian National University -><affiliation>
+ericm@cs.anu.edu.au -><email>
+Robert Bridle -><author>
+Department of Computer Science -><affiliation>
+The Australian National University -><affiliation>
+rbridle@cs.anu.edu.au -><email>

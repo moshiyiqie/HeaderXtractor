@@ -1,0 +1,7 @@
+A Knowledge-Based Approach for Designing Intelligent -><title>
+Team Training Systems -><title>
+Jianwen Yin, Michael S. Miller, Thomas R. Ioerger, John Yen, Richard A. Volz -><author>
+Department of Computer Science -><affiliation>
+Texas A&M University -><affiliation>
+College Station, Texas 77843-3112 -><address>
+{jianweny, mmiller, ioerger, yen, volz}@cs.tamu.edu -><email>

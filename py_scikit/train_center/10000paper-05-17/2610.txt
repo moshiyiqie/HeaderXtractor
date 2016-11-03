@@ -1,0 +1,5 @@
+Determining Placements of Influencing Agents in a Flock -><title>
+Katie Genter, Shun Zhang and Peter Stone -><author>
+Department of Computer Science, University of Texas at Austin -><affiliation>
+Austin, TX 78712 USA -><address>
+{katie,menie482,pstone}@cs.utexas.edu -><email>

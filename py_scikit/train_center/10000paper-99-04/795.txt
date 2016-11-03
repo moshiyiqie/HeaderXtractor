@@ -1,0 +1,6 @@
+Role-based Approaches for Agent Development -><title>
+Giacomo Cabri, Luca Ferrari, Letizia Leonardi -><author>
+Franco Zambonelli -><author>
+zambonelli.franco@unimo.it -><email>
+{cabri.giacomo, ferrari.luca, -><email>
+leonardi.letizia}@unimo.it -><email>

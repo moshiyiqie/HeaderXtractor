@@ -1,0 +1,34 @@
+Running or Gaming -><title>
+4 -><pubnum>
+2 -><pubnum>
++ -><abstract>
+3 -><abstract>
++ -><abstract>
+5 -><abstract>
++ -><abstract>
+, -><abstract>
+Sungjun Kwon -><abstract>
+, -><abstract>
+Byunglim Park -><abstract>
+, -><abstract>
+Kyungmin Cho -><abstract>
+, -><abstract>
+Sungwon Peter Choe -><abstract>
+, -><abstract>
+6 -><abstract>
++ -><abstract>
+7 -><abstract>
++ -><abstract>
+8 -><abstract>
+9 -><note>
+10 -><note>
++ -><note>
+Inseok Hwang -><note>
+, -><note>
+Hyukjae Jang -><note>
+, -><note>
+Jaesang Park#, -><note>
+Yunseok Rhee& and -><unknow>
+Junehwa Song -><author>
++ -><affiliation>
+CS Dept. -><affiliation>

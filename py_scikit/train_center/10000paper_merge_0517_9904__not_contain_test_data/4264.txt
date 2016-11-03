@@ -1,0 +1,18 @@
+Friends of An Enemy: Identifying Local Members of -><title>
+Peer-to-Peer Botnets Using Mutual Contacts -><title>
+∗ -><title>
+Baris Coskun -><author>
+AT&T -><affiliation>
+33 Thomas Street -><address>
+New York, NY -><address>
+baris@att.com -><email>
+Sven Dietrich -><author>
+Stevens Inst. of Technology -><affiliation>
+Castle Point on Hudson -><affiliation>
+Hoboken, NJ -><address>
+spock@cs.stevens.edu -><email>
+Nasir Memon -><email>
+Polytechnic Institute of NYU -><affiliation>
+Six Metrotech Center -><affiliation>
+Brooklyn, NY -><address>
+memon@nyu.edu -><email>

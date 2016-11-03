@@ -1,0 +1,29 @@
+Learning, Predicting and Planning against Crime: -><title>
+Demonstration Based on Real Urban Crime Data -><title>
+(Demonstration) -><title>
+Manish Jain -><author>
+Armorway. Inc. -><affiliation>
+Los Angeles, CA 90071, USA -><address>
+manish@armorway.com -><email>
+Ripple Goyal -><author>
+Armorway. Inc. -><affiliation>
+Los Angeles, CA 90071, USA -><address>
+ripple@armorway.com -><email>
+Chao Zhang -><author>
+University of Southern -><affiliation>
+California -><affiliation>
+Los Angeles, CA 90089, USA -><address>
+zhan661@usc.edu -><email>
+Arunesh Sinha -><author>
+University of Southern -><affiliation>
+California -><address>
+Los Angeles, CA 90089, USA -><address>
+aruneshs@usc.edu -><email>
+Milind Tambe -><author>
+University of Southern -><affiliation>
+California -><address>
+Los Angeles, CA 90089, USA -><address>
+tambe@usc.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial In- -><note>
+telligence - multiagent systems -><note>

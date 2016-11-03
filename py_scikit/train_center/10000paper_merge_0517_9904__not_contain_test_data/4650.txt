@@ -1,0 +1,28 @@
+Scalable Clustering and Keyword Suggestion for Online -><affiliation>
+Advertisements -><title>
+Anton Schwaighofer -><author>
+Microsoft Research -><affiliation>
+7 JJ Thomson Ave -><address>
+Cambridge CB3 0FB, UK -><address>
+antonsc@microsoft.com -><email>
+Thomas Borchert -><author>
+Microsoft Research -><affiliation>
+7 JJ Thomson Ave -><address>
+Cambridge CB3 0FB, UK -><address>
+tborcher@microsoft.com -><email>
+Joaquin Quiñonero -><unknow>
+Candela -><author>
+Microsoft Research -><affiliation>
+7 JJ Thomson Ave -><address>
+Cambridge CB3 0FB, UK -><address>
+joaquinc@microsoft.com -><email>
+Thore Graepel -><author>
+Microsoft Research -><affiliation>
+7 JJ Thomson Ave -><address>
+Cambridge CB3 0FB, UK -><address>
+thoreg@microsoft.com -><email>
+Ralf Herbrich -><author>
+Microsoft Research -><affiliation>
+7 JJ Thomson Ave -><address>
+Cambridge CB3 0FB, UK -><address>
+rherb@microsoft.com -><email>

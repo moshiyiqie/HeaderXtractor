@@ -1,0 +1,18 @@
+Agent-based Interaction Analysis of Consumer Behavior -><title>
+Thierry Bouron -><title>
+FTR&D -><title>
+Alexis Drogoul -><author>
+LIP6 -><pubnum>
+Lamjed Ben Said -><author>
+FTR&D / LIP6 -><affiliation>
+2, avenue Pierre Marzin - 22307 -><address>
+du Capitaine Scott 75015 PARIS -><address>
+FRANCE -><address>
+alexis.drogoul@lip6.fr -><email>
+Issy les Moulineaux cedex 9 PARIS -><affiliation>
+FRANCE -><address>
+thierry.bouron@france- -><email>
+telecom.com -><email>
+FRANCE -><affiliation>
+lamjed.bensaid@rd.france- -><email>
+telecom.com -><email>

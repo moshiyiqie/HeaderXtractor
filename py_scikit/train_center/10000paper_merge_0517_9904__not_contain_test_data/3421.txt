@@ -1,0 +1,15 @@
+ACL2 in DrScheme -><title>
+Dale Vaillancourt -><author>
+Northeastern University -><affiliation>
+Boston, MA 02115 -><address>
+dalev@ccs.neu.edu -><email>
+Matthias Felleisen -><author>
+Northeastern University -><affiliation>
+Boston, MA 02115 -><address>
+matthias@ccs.neu.edu -><email>
+Rex Page -><author>
+School of Computer Science -><affiliation>
+University of Oklahoma -><affiliation>
+200 Felgar St, Room 119 -><address>
+Norman, OK 73019-6151 -><address>
+page@ou.edu -><email>

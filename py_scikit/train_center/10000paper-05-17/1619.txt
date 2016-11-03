@@ -1,0 +1,5 @@
+MITRO: an augmented mobile telepresence robot -><title>
+with assisted control (Demonstration) -><title>
+Sjriek Alers, Daan Bloembergen, Max Bügler, Daniel Hennes and Karl Tuyls -><author>
+Maastricht University, P.O. Box 616, 6200MD Maastricht, The Netherlands -><affiliation>
+{sjriek.alers, daan.bloembergen, m.bugler, daniel.hennes, k.tuyls}@maastrichtuniversity.nl -><affiliation>

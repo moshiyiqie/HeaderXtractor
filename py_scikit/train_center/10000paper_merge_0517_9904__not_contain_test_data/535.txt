@@ -1,0 +1,5 @@
+Time-Variant Distributed Agent Matching Applications∗ -><title>
+David Sarne1 and Sarit Kraus1,2 -><author>
+1Department of Computer Science, Bar-Ilan University, Ramat-Gan, 52900 Israel -><affiliation>
+2Institute for Advanced Computer Studies, University of Maryland, College Park, MD 20742 -><affiliation>
+{sarned, sarit}@macs.biu.ac.il -><email>

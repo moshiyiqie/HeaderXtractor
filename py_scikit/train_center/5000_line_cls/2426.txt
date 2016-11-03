@@ -1,0 +1,6 @@
+ARGUS: A Coordination System to Provide First -><title>
+Responders with Live Aerial Imagery of the Scene of a -><title>
+Disaster (Demonstration) -><title>
+F. M. Delle Fave, A. Rogers and N. R. Jennings -><author>
+University Of Southampton -><affiliation>
+{fmdf08r, acr, nrj }@ecs.soton.ac.uk -><email>

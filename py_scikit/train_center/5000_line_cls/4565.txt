@@ -1,0 +1,14 @@
+Deterministic -><title>
+Sorting -><title>
+Jack -><author>
+B. -><note>
+School -><unknow>
+School -><title>
+Carleton -><author>
+Ottawa, -><keyword>
+Carleton -><keyword>
+Ottawa, -><keyword>
+K1S -><pubnum>
+K1S -><pubnum>
+oommen@scs.carleton.ca -><email>
+nussbaum@scs.carleton.ca -><email>

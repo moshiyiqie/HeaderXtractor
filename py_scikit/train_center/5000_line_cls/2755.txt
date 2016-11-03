@@ -1,0 +1,18 @@
+Using Informative Behavior to Increase -><title>
+Engagement in the TAMER Framework -><title>
+Shimon Whiteson -><author>
+University of Amsterdam -><affiliation>
+Amsterdam, Netherlands -><address>
+s.a.whiteson@uva.nl -><email>
+Guangliang Li -><author>
+University of Amsterdam -><affiliation>
+Amsterdam, Netherlands -><address>
+g.li@uva.nl -><email>
+Hayley Hung -><author>
+University of Amsterdam -><affiliation>
+Amsterdam, Netherlands -><address>
+h.hung@uva.nl -><email>
+W. Bradley Knox -><author>
+MIT Media Lab -><affiliation>
+Massachusetts, USA -><address>
+bradknox@mit.edu -><email>

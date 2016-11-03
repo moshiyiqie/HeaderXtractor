@@ -1,0 +1,6 @@
+Efficient Mechanisms for Multiagent Plan Merging -><title>
+Jeffrey S. Cox and Edmund H. Durfee -><author>
+Department of Electrical Engineering and Computer Science -><affiliation>
+University of Michigan -><affiliation>
+Ann Arbor, MI 48109 -><address>
+{jeffcox, durfee}@umich.edu -><email>

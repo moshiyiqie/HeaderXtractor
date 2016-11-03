@@ -1,0 +1,23 @@
+Dissecting Ghost Clicks: Ad Fraud Via Misdirected Human Clicks -><title>
+∗ -><title>
+Sumayah A. Alrwais -><author>
+Indiana University -><affiliation>
+Bloomington, U.S.A. -><address>
+salrwais@cs.indiana.edu -><email>
+Christopher W. Dunn -><author>
+Indiana University -><affiliation>
+Bloomington, U.S.A. -><address>
+chrdunn@cs.indiana.edu -><email>
+Minaxi Gupta -><author>
+Indiana University -><affiliation>
+Bloomington, U.S.A. -><address>
+minaxi@cs.indiana.edu -><email>
+Alexandre Gerber -><author>
+AT&T Labs-Research, U.S.A. -><affiliation>
+alexgerber67@gmail.com -><email>
+Oliver Spatscheck -><author>
+AT&T Labs-Research, U.S.A. -><affiliation>
+spatsch@research.att.com -><email>
+Eric Osterweil -><author>
+Verisign Labs, U.S.A. -><affiliation>
+eosterweil@verisign.com -><email>

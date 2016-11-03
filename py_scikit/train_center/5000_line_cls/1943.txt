@@ -1,0 +1,14 @@
+Dynamic Level of Detail for Large Scale -><title>
+Agent-Based Urban Simulations -><title>
+Fabien Flacher -><author>
+Thales -><author>
+20-22 rue Grange Dame Rose -><author>
+Laurent Navarro -><affiliation>
+Vincent Corruble -><affiliation>
+4 place Jussieu -><address>
+75005 Paris, France -><address>
+laurent.navarro@lip6.fr -><email>
+4 place Jussieu -><note>
+75005 Paris, France -><address>
+vincent.corruble@lip6.fr -><email>
+fabien.flacher@thalesgroup.com -><email>

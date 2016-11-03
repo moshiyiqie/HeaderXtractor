@@ -1,0 +1,6 @@
+Efficient Nash Equilibrium Approximation through Monte -><title>
+Carlo Counterfactual Regret Minimization -><title>
+Michael Johanson, Nolan Bard, Marc Lanctot, Richard Gibson, and Michael Bowling -><author>
+University of Alberta -><affiliation>
+Edmonton, Alberta -><address>
+{johanson,nolan,lanctot,rggibson,bowling}@cs.ualberta.ca -><email>

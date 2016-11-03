@@ -1,0 +1,19 @@
+Closing the Loop: from Affect Recognition to Empathic -><title>
+Interaction -><title>
+Carlos Martinho, -><author>
+Rui Prada, Ana Paiva -><author>
+INESC-ID and Instituto -><affiliation>
+Superior Técnico -><address>
+Porto Salvo, Portugal -><address>
+Ginevra Castellano -><author>
+Dept. of Computer Science -><affiliation>
+School of EECS -><affiliation>
+Queen Mary Univ. of London -><affiliation>
+United Kingdom -><degree>
+Iolanda Leite, -><degree>
+André Pereira, -><degree>
+Samuel Mascarenhas -><author>
+INESC-ID and Instituto -><affiliation>
+Superior Técnico -><address>
+Porto Salvo, Portugal -><address>
+iolanda.leite@inesc-id.pt -><email>

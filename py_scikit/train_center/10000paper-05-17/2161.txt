@@ -1,0 +1,18 @@
+Adding BDI Agents to MATSim Traffic Simulator -><title>
+(Demonstration) -><title>
+Qingyu Chen -><author>
+Computer Science and Information Technology -><affiliation>
+RMIT University Australia -><affiliation>
+s3257935@student.rmit.edu.au -><email>
+Arie Wilsher -><author>
+Computer Science and Information Technology -><affiliation>
+RMIT University Australia -><affiliation>
+s3458698@student.rmit.edu.au -><email>
+Dhirendra Singh -><author>
+Computer Science and Information Technology -><affiliation>
+RMIT University Australia -><affiliation>
+dhirendra.singh@rmit.edu.au -><email>
+Lin Padgham -><author>
+Computer Science and Information Technology -><affiliation>
+RMIT University Australia -><affiliation>
+lin.padgham@rmit.edu.au -><email>

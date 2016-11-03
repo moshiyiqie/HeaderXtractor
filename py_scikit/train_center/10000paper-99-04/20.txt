@@ -1,0 +1,20 @@
+The Cognitive Agents Specification Language and -><title>
+Verification Environment for Multiagent Systems -><title>
+Hector J. Levesque -><author>
+Dept. of Computer Science -><affiliation>
+University of Toronto -><affiliation>
+Toronto, ON M5S 3G4 -><address>
+Canada -><address>
+hector@ai.toronto.edu -><email>
+Yves Lespe´rance -><author>
+Dept. of Computer Science -><affiliation>
+York University -><affiliation>
+Toronto, ON M3J 1P3 -><address>
+Canada -><address>
+lesperan@cs.yorku.ca -><email>
+Steven Shapiro -><author>
+Dept. of Computer Science -><affiliation>
+University of Toronto -><affiliation>
+Toronto, ON M5S 3G4 -><address>
+Canada -><address>
+steven@ai.toronto.edu -><email>

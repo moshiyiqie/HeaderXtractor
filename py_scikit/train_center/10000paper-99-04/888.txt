@@ -1,0 +1,5 @@
+A New UML-Compatible Object Relationship Notation (ORN) -><title>
+Efika T. Neal a -><author>
+(Faculty Advisor: Dr. Bryon K. Ehlmann b) -><author>
+Department of Computer and Information Sciences, Florida A &M University, Tallahassee FL 32307 -><affiliation>
+a missneal@visto.com, b ehlmann@cis.famu.edu -><email>

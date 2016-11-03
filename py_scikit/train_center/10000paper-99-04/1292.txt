@@ -1,0 +1,20 @@
+Every Agent a Web Server, -><title>
+Every Agent Community an Intranet... -><author>
+Todd M. Carrico, Ph.D. -><degree>
+DARPA -><unknow>
+Marshall Brinn -><author>
+BBN Technologies -><affiliation>
+Nathan Combs -><author>
+BBN Technologies -><affiliation>
+10 Moulton Street -><address>
+3701 N. Fairfax Drive -><address>
+10 Moulton Street -><address>
+Cambridge, MA 02138 -><address>
+Arlington, VA 22203 -><address>
+Cambridge, MA 02138 -><address>
+(617) 873-2717 -><phone>
+(703) 526-6616 -><phone>
+(617) 873-4495 -><phone>
+mbrinn@bbn.com -><email>
+tcarrico@darpa.mil -><email>
+ncombs@bbn.com -><email>

@@ -1,0 +1,5 @@
+Interactive Digital Violin Tutor (iDVT): -><title>
+An Edutainment System for Violin Learners -><title>
+Ye Wang and Jia Zhu -><author>
+School of Computing, National University of Singapore, Singapore -><affiliation>
+{wangye, zhujia}@comp.nus.edu.sg -><email>

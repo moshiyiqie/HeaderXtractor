@@ -1,0 +1,7 @@
+A Flexible Framework for Representing Personality in -><title>
+Agents -><author>
+1 Informatics and Applied Mathematics Department, Federal University of RN Natal, RN - BRAZIL, 59072-970 -><affiliation>
+Telephone: +55-84-3215-3813 -><phone>
+2 Psychology Department, Federal University of RN Natal, RN - BRAZIL, 59072-970 -><affiliation>
+Telephone: +55-84-3215-3590 -><phone>
+{andre, anne}@dimap.ufrn.br, {emanuel, rodrigo}@ppgsc.ufrn.br, jcalchieri@brturbo.com -><email>

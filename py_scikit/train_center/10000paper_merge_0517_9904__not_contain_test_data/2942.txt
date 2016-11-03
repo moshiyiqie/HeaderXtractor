@@ -1,0 +1,22 @@
+May -><title>
+Personality model for a companion AIBO -><title>
+Leon Rothkrantz -><author>
+Delft University of Technology -><affiliation>
+Mekelweg 4, Delft, 2628CD -><address>
+Charles van der Mast -><author>
+Delft University of Technology -><affiliation>
+Mekelweg 4, Delft, 2628CD -><address>
+Iulia Dobai -><author>
+Delft University of Technology -><affiliation>
+Mekelweg 4, Delft, 2628CD -><address>
+The Netherlands -><address>
++31 152787504 -><phone>
+The Netherlands -><affiliation>
++31 15 2787504 -><address>
+The Netherlands -><address>
++31 610700219 -><phone>
+i.dobai@ewi.tudelft.nl -><email>
+l.j.m.rothkrantz@ewi.tudelf -><email>
+t.nl -><email>
+c.a.p.g.vandermast@ewi.tu -><email>
+delft.nl -><email>

@@ -1,0 +1,8 @@
+Toward Efficient Flow-Sensitive Induction Variable -><title>
+Analysis and Dependence Testing for Loop Optimization∗ -><title>
+Yixin Shou Robert A. van Engelen Johnnie Birch Kyle A. Gallivan -><author>
+Department of Computer Science -><affiliation>
+and School of Computational Science -><affiliation>
+Florida State University -><affiliation>
+Tallahassee, FL 32306 -><address>
+{shou, engelen, birch}@cs.fsu.edu gallivan@scs.fsu.edu -><email>

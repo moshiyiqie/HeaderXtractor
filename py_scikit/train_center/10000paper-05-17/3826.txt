@@ -1,0 +1,11 @@
+A Small and Secure Submission System for UNIX Systems -><title>
+Chrisila C. Pettey -><author>
+Ralph Butler -><author>
+Roland H. Untch -><author>
+untch@mtsu.edu -><email>
+rbutler@mtsu.edu -><email>
+cscbp@mtsu.edu -><email>
+Department of Computer Science -><affiliation>
+Middle Tennessee State University -><affiliation>
+Murfreesboro, TN 37132–0048 -><address>
+(615) 898-5047 -><phone>

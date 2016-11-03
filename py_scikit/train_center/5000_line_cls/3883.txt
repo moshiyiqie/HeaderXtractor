@@ -1,0 +1,6 @@
+HIPMATE: An Entertainment System in the Office -><title>
+Shingo Yoshida, Kumiko Osawa, Takahiro Ogasawara, Naohito Okude -><author>
+Keio University Okude Laboratory -><affiliation>
+DNP HOUSE, 5322 Endo Fujisawa Kanagawa Japan -><address>
++81-466-49-3404 -><phone>
+{shingoy, t04148ko, s03246to, okude}@sfc.keio.ac.jp -><email>

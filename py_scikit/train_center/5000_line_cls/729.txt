@@ -1,0 +1,13 @@
+Brain Meets Brawn: Why Grid and Agents Need Each Other -><title>
+Carl Kesselman -><author>
+Information Sciences Institute -><affiliation>
+University of Southern California -><affiliation>
+carl@isi.edu -><email>
+Nicholas R. Jennings -><author>
+Electronics & Comp. Science -><affiliation>
+University of Southampton -><affiliation>
+nrj@ecs.soton.ac.uk -><email>
+Ian Foster -><author>
+Argonne National Laboratory -><affiliation>
+& University of Chicago -><affiliation>
+foster@mcs.anl.gov -><email>

@@ -1,0 +1,14 @@
+An Average-case Budget-Non-Negative Double Auction -><title>
+Protocol -><title>
+Makoto Yokoo -><author>
+NTT Corporation -><affiliation>
+NTT Communication Science Laboratories -><affiliation>
+2-4 Hikaridai, Seika-cho, Soraku-gun, Kyoto -><address>
+619-0237 Japan -><phone>
+yokoo@cslab.kecl.ntt.co.jp -><affiliation>
+Yuko Sakurai -><author>
+NTT Corporation -><affiliation>
+NTT Communication Science Laboratories -><affiliation>
+2-4 Hikaridai, Seika-cho, Soraku-gun, Kyoto -><address>
+619-0237 Japan -><address>
+yuko@cslab.kecl.ntt.co.jp -><affiliation>

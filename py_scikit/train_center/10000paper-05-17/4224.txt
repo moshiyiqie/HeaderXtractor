@@ -1,0 +1,16 @@
+Grid Computing: Student Research Experiences -><title>
+Rahman Tashakkori -><author>
+Appalachian State University -><affiliation>
+Darren W Greene -><unknow>
+Barry L Kurtz -><author>
+Appalachian State University -><affiliation>
+401 Elkin Hwy -><address>
+North Wilkesboro, NC 28659 -><address>
+828-493-0751 -><phone>
+dgreene15@gmail.com -><email>
+Boone, NC 28608 -><address>
+828-262-7009 -><phone>
+rt@cs.appstate.edu -><email>
+Boone, NC 28608 -><address>
+828-262-7008 -><phone>
+blk@cs.appstate.edu -><email>

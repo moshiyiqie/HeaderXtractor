@@ -1,0 +1,9 @@
+Quality guarantees for region optimal DCOP algorithms -><title>
+Meritxell Vinyals1, Eric Shieh2, Jesus Cerquides1, Juan Antonio Rodriguez-Aguilar1, -><author>
+Zhengyu Yin2, Milind Tambe2, and Emma Bowring3 -><author>
+1 Artificial Intelligence Research Institute (IIIA), Campus UAB, Bellaterra, Spain -><affiliation>
+{meritxell, cerquide,jar}@iiia.csic.es -><email>
+2 University of Southern California, Los Angeles, CA 90089 -><affiliation>
+{eshieh, zhengyuy,tambe}@usc.edu -><email>
+3 University of the Pacific, Stockton, CA 95211 -><affiliation>
+ebowring@pacific.edu -><email>

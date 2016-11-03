@@ -1,0 +1,7 @@
+Empirical Reasoning about Quality of Service -><title>
+of Component-Based Distributed Systems -><title>
+Changlin Sun -><author>
+Department of Computer and Information Sciences -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+1300 University Boulevard Birmingham, AL 35294-1170, USA -><affiliation>
+sunc@cis.uab.edu -><email>

@@ -1,0 +1,12 @@
+Multi-Robot Informative Path Planning for Active Sensing -><title>
+of Environmental Phenomena: A Tale of Two Algorithms -><title>
+John M. Dolan -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh PA 15213 USA -><address>
+jmd@cs.cmu.edu -><email>
+Nannan Cao and Kian Hsiang Low -><author>
+Department of Computer Science -><affiliation>
+National University of Singapore -><affiliation>
+Republic of Singapore -><affiliation>
+{nncao, lowkh}@comp.nus.edu.sg -><email>

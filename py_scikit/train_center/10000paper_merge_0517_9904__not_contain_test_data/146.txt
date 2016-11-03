@@ -1,0 +1,7 @@
+An Approach to the Analysis and Design of -><title>
+Multiagent Systems Based on Interaction Frames -><title>
+Michael Rovatsos, Gerhard Weiss, Marco Wolf -><author>
+{rovatsos, weissg, wolf}@cs.tum.edu -><email>
+Faculty of Informatics -><affiliation>
+Technical University of Munich -><affiliation>
+80290 Munich, Germany -><address>

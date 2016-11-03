@@ -1,0 +1,8 @@
+What vs. How: Comparing Students’ -><title>
+Testing and Coding Skills -><title>
+Colin Fidge1 Jim Hogan1 Ray Lister2 -><author>
+1School of Electrical Engineering and Computer Science, -><affiliation>
+Queensland University of Technology, Brisbane, Qld, Australia -><affiliation>
+2Faculty of Engineering and Information Technology, -><address>
+University of Technology Sydney, Sydney, NSW, Australia -><affiliation>
+{c.fidge, j.hogan}@qut.edu.au, Raymond.Lister@uts.edu.au -><email>

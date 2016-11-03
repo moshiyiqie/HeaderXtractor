@@ -1,0 +1,11 @@
+Formalization of a Voting Protocol for Virtual Organizations -><title>
+Marek Sergot, Alexander Artikis -><author>
+Computational Logic Group -><affiliation>
+Department of Computing -><affiliation>
+Imperial College London, London, SW7 2AZ, UK -><address>
+{mjs,aartikis}@doc.ic.ac.uk -><email>
+Jeremy Pitt, Lloyd Kamara -><author>
+Intelligent Systems & Networks Group -><affiliation>
+Dept. of Electrical & Electronic Engineering -><affiliation>
+Imperial College London, London, SW7 2BT, UK -><address>
+{j.pitt,l.kamara}@imperial.ac.uk -><email>

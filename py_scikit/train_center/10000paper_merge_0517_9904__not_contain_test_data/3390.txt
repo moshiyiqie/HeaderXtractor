@@ -1,0 +1,6 @@
+Formal Execution Semantics for Asynchronous -><title>
+Constructs of AADL -><title>
+Jiale Zhou, Andreas Johnsen, Kristina Lundqvist -><author>
+School of Innovation Design and Technology -><affiliation>
+Mälardalen University, Västerås, Sweden -><affiliation>
+{zhou.jiale, andreas.johnsen, kristina.lundqvist}@mdh.se -><email>

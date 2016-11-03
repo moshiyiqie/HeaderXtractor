@@ -1,0 +1,7 @@
+Optimal False-name-proof Single-Item Redistribution -><title>
+Mechanisms -><author>
+Shunsuke Tsuruta1, Masaaki Oka1, Taiki Todo1, Yujiro Kawasaki1, -><affiliation>
+Mingyu Guo2, Yuko Sakurai1, and Makoto Yokoo1 -><address>
+1Kyushu University, Fukuoka 819-0395, Japan -><affiliation>
+{ tsuruta@agent., oka@agent., todo@, yujiro.kawasaki@, ysakurai@, yokoo@ } inf.kyushu-u.ac.jp -><email>
+2Adelaide University, North Terrace, Adelaide SA 5005, Australiamingyu.guo@adelaide.edu.au -><affiliation>

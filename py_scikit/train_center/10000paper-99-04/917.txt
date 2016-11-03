@@ -1,0 +1,6 @@
+Reusability and. Maintainability Metrics -><note>
+for Object-Oriented Software -><title>
+Young Lee and Kai H. Chang -><author>
+Department ofComputer Science and Software Engineering -><affiliation>
+Auburn University, Auburn, AL 36849 -><affiliation>
+{ younglee,kchang } @eng. auburn.edu -><email>

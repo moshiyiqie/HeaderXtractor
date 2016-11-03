@@ -1,0 +1,9 @@
+Complexity of Mechanism Design with Signaling Costs -><title>
+Andrew Kephart -><author>
+Dept. of Computer Science -><affiliation>
+Duke University -><affiliation>
+kephart@cs.duke.edu -><email>
+Vincent Conitzer -><email>
+Dept. of Computer Science -><affiliation>
+Duke University -><affiliation>
+conitzer@cs.duke.edu -><email>

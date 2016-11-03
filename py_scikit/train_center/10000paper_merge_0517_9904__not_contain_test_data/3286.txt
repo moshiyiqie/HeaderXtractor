@@ -1,0 +1,11 @@
+A Focus Group Study of Student Attitudes to Lectures -><title>
+Michael Hitchens -><author>
+Department of Computing, -><affiliation>
+Macquarie University, -><affiliation>
+NSW 2109, Australia -><address>
+michaelh@ics.mq.edu.au -><email>
+Raymond Lister -><author>
+Faculty of Engineering and Information Technology -><affiliation>
+University of Technology, Sydney -><affiliation>
+NSW 2007, Australia -><address>
+raymond@it.uts.edu.au -><email>

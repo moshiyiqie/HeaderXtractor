@@ -1,0 +1,10 @@
+Łukasiewicz Games -><title>
+Michael Wooldridge -><author>
+Dept of Computer Science -><affiliation>
+University of Oxford, UK -><affiliation>
+mjw@cs.ox.ac.uk -><email>
+Enrico Marchioni -><author>
+Institut de Recherche en -><affiliation>
+Informatique de Toulouse -><affiliation>
+Université Paul Sabatier, France -><affiliation>
+enrico.marchioni@irit.fr -><email>

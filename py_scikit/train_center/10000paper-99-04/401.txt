@@ -1,0 +1,16 @@
+False-name-proof Multi-unit Auction Protocol Utilizing -><title>
+Greedy Allocation Based on Approximate Evaluation -><title>
+Values -><title>
+Makoto Yokoo -><author>
+NTT Communication Science Laboratories -><affiliation>
+NTT Corporation -><affiliation>
+2-4 Hikaridai, Seika-cho, Soraku-gun, -><address>
+Kyoto 619-0237 Japan -><address>
+Kenji Terada -><author>
+NTT Information Sharing Platform Laboratories -><affiliation>
+NTT Corporation -><affiliation>
+3-9-11 Midori-cho, Musashino, -><address>
+Tokyo 180-8585 Japan -><address>
+terada.kenji@lab.ntt.co.jp -><affiliation>
+yokoo@cslab.kecl.ntt.co.jp -><affiliation>
+www.kecl.ntt.co.jp/csl/ccrg/members/yokoo/ -><web>

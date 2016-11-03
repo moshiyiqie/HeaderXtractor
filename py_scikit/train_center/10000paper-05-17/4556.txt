@@ -1,0 +1,10 @@
+Hybrid Merge/Overlap Execution Technique -><title>
+for Parallel Array Processing -><title>
+Emad Soroush -><author>
+Dept. of Computer Science and Engineering -><affiliation>
+University of Washington, Seattle, USA -><affiliation>
+soroush@cs.washington.edu -><email>
+Magdalena Balazinska -><author>
+Dept. of Computer Science and Engineering -><affiliation>
+University of Washington, Seattle, USA -><affiliation>
+magda@cs.washington.edu -><email>

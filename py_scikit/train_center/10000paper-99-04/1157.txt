@@ -1,0 +1,7 @@
+The Coordination Infrastructure of the ARCA Framework -><title>
+Antonella Di Stefano, Corrado Santoro -><author>
+Universita' di Catania - Facolta' di Ingegneria -><affiliation>
+Dipartimento di Ingegneria Informatica e delle Telecornunicazioni -><affiliation>
+Viale A. Doria, 6 - 95125 Catania (ITALY) -><address>
+Tel. +39 095 7382365 - Fax. +39 095 7382397 -><phone>
+{adistefa, csanto}~iit.unict.it -><email>

@@ -1,0 +1,5 @@
+A Quadtree Dictionary Approach to Multi-Resolution -><title>
+Compression -><title>
+Rion Dooley -><author>
+Department of Computer Science, Louisiana State University, Baton Rouge, LA 70803 -><affiliation>
+rdoole1@bit.csc.lsu.edu -><email>

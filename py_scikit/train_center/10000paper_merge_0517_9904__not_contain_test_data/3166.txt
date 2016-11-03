@@ -1,0 +1,16 @@
+Networked Penalty Shootout with Haptic Media and Video -><title>
+Yutaka Ishibashi -><author>
+Department of Scientific and -><affiliation>
+Engineering Simulation, -><degree>
+Nagoya Institute of Technology -><affiliation>
+ishibasi@nitech.ac.jp -><email>
+Takeshi Fujimoto -><author>
+Department of Computer -><affiliation>
+Science and Engineering, -><affiliation>
+Nagoya Institute of Technology -><affiliation>
+fujimoto@mcl.nitech.ac.jp -><email>
+Shinji Sugawara -><email>
+Department of Scientific and -><degree>
+Engineering Simulation, -><degree>
+Nagoya Institute of Technology -><affiliation>
+shinji@nitech.ac.jp -><email>

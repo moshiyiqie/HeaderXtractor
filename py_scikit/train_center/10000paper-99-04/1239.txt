@@ -1,0 +1,19 @@
+Toward Robust Agent Control in Open Environments. -><title>
+Thomas Wagner -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+University of Maine -><affiliation>
+Orono, ME 04469 -><address>
+wagner@ umcs.maine.edu -><email>
+Victor Lesser -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01002 -><address>
+lesser@ cs.umass.edu -><email>
+Anita Raja -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01002 -><address>
+araja@cs.umass.edu -><email>

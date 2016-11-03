@@ -1,0 +1,6 @@
+Agent Composition Synthesis based on ATL -><title>
+Giuseppe De Giacomo and Paolo Felli -><author>
+Dipartimento di Informatica e Sistemistica -><affiliation>
+SAPIENZA - Università di Roma -><affiliation>
+Via Ariosto 25 - 00185 Roma, Italy -><address>
+{degiacomo,felli}@dis.uniroma1.it -><email>

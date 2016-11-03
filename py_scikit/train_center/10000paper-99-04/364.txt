@@ -1,0 +1,15 @@
+Towards Deception in Agents -><title>
+Derrick Ward -><author>
+Henry Hexmoor -><author>
+Computer Science & Computer Engineering -><affiliation>
+Department -><affiliation>
+Engineering Hall, Room 313 -><address>
+Computer Science & Computer Engineering -><affiliation>
+Department -><affiliation>
+Engineering Hall, Room 313 -><address>
+Fayetteville, AR 72701 -><address>
+Fayetteville, AR 72701 -><address>
++01-479-575-2420 -><phone>
+hexmoor@uark.edu -><email>
++01-479-575-6197 -><phone>
+daward@uark.edu -><email>

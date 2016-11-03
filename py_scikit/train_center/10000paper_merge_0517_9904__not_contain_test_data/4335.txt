@@ -1,0 +1,13 @@
+BareBox: Efﬁcient Malware Analysis on Bare-Metal -><title>
+Dhilung Kirat -><author>
+University of California, Santa -><affiliation>
+Barbara -><author>
+dhilung@cs.ucsb.edu -><email>
+Giovanni Vigna -><author>
+University of California, Santa -><affiliation>
+Barbara -><address>
+vigna@cs.ucsb.edu -><email>
+Christopher Kruegel -><author>
+University of California, Santa -><affiliation>
+Barbara -><address>
+chris@cs.ucsb.edu -><email>

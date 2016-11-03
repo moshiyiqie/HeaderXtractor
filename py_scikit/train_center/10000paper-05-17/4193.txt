@@ -1,0 +1,8 @@
+COSA: A Contents-Oriented Self Adaptive -><title>
+Browsing Approach -><title>
+Li Liu Jingyuan Zhang Michael Galloway -><author>
+Computer Science Department Computer Science Department Computer Science Department -><author>
+University of Alabama University of Alabama University of Alabama -><affiliation>
+Tuscaloosa, AL 35401 Tuscaloosa, AL 35401 Tuscaloosa, AL 35401 -><address>
+205-348-4885 205-348-9516 205-348-7373 -><phone>
+lliu@cs.ua.edu zhang@cs.ua.edu mgalloway@cs.ua.edu -><email>

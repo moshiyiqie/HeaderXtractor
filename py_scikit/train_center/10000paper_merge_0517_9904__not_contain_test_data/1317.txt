@@ -1,0 +1,22 @@
+Analyzing Intra-Team Strategies for Agent-Based -><title>
+Negotiation Teams -><title>
+Vicente Julián -><author>
+Universidad Politécnica de Valencia -><affiliation>
+Camí de Vera s/n, ZIP 46022 -><address>
+Valencia, Spain -><address>
+vinglada@dsic.upv.es -><email>
+Víctor Sánchez-Anguix -><author>
+Universidad Politécnica de Valencia -><affiliation>
+Camí de Vera s/n, ZIP 46022 -><address>
+Valencia, Spain -><address>
+sanguix@dsic.upv.es -><email>
+Vicente Botti -><author>
+Universidad Politécnica de Valencia -><affiliation>
+Camí de Vera s/n, ZIP 46022 -><address>
+Valencia, Spain -><address>
+vbotti@dsic.upv.es -><email>
+Ana García-Fornes -><author>
+Universidad Politécnica de Valencia -><affiliation>
+Camí de Vera s/n, ZIP 46022 -><address>
+Valencia, Spain -><address>
+agarcia@dsic.upv.es -><email>

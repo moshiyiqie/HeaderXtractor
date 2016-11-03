@@ -1,0 +1,9 @@
+Selecting Robust Strategies in RTS Games -><title>
+via Concurrent Plan Augmentation -><title>
+Abdelrahman Elogeel♣ Andrey Kolobov♦ Matthew Alden♣ Ankur Teredesai♣ -><author>
+♣Institute of Technology -><affiliation>
+♦Microsoft Research -><affiliation>
+Redmond, WA, USA -><address>
+akolobov@microsoft.com -><email>
+University of Washington, Tacoma -><affiliation>
+{elogeel,mealden,ankurt}@uw.edu -><email>

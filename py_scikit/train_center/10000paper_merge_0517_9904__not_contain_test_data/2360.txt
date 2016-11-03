@@ -1,0 +1,13 @@
+Fractional Hedonic Games: Individual and Group Stability -><title>
+Florian Brandl -><author>
+Institut für Informatik -><affiliation>
+TU München, Germany -><address>
+brandlfl@in.tum.de -><email>
+Felix Brandt -><author>
+Institut für Informatik -><affiliation>
+TU München, Germany -><address>
+brandtf@in.tum.de -><email>
+Martin Strobel -><author>
+Institut für Informatik -><affiliation>
+TU München, Germany -><address>
+martin.r.strobel@mytum.de -><email>

@@ -1,0 +1,11 @@
+Congregating and Market Formation -><title>
+Christopher H. Brooks -><author>
+Artificial Intelligence Laboratory -><affiliation>
+University of Michigan -><affiliation>
+Ann Arbor, MI 48109-2110 -><address>
+chbrooks@umich.edu -><email>
+Edmund H. Durfee -><author>
+Artificial Intelligence Laboratory -><affiliation>
+University of Michigan -><affiliation>
+Ann Arbor, MI 48109-2110 -><address>
+durfee@umich.edu -><email>

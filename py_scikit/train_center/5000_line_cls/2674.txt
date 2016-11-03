@@ -1,0 +1,14 @@
+No Agent Left Behind: -><title>
+Dynamic Fair Division of Multiple Resources -><title>
+Ariel D. Procaccia -><author>
+Carnegie Mellon University, -><affiliation>
+USA -><address>
+arielpro@cs.cmu.edu -><email>
+Nisarg Shah -><author>
+Carnegie Mellon University, -><affiliation>
+USA -><address>
+nkshah@cs.cmu.edu -><email>
+Ian Kash -><author>
+Microsoft Research -><affiliation>
+Cambridge, UK -><address>
+iankash@microsoft.com -><email>

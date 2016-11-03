@@ -1,0 +1,12 @@
+Towards robust multi-agent systems: Handling communication exceptions in -><title>
+double auctions -><title>
+Mark Klein -><author>
+Center for Coordination Science -><affiliation>
+Massachusetts Institute of Technology -><affiliation>
+Cambridge, MA 02142, USA -><address>
+m klein@mit.edu -><email>
+Simon Parsons -><author>
+Dept of Computer and Information Science -><affiliation>
+Brooklyn College, City University of New York, -><affiliation>
+Brooklyn, NY 11210, USA. -><address>
+parsons@sci.brooklyn.cuny.edu -><email>

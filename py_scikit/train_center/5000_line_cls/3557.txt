@@ -1,0 +1,29 @@
+1 -><pubnum>
+1 -><pubnum>
+1 -><pubnum>
+Enhancing the Conference Experience with a Multi-Device, -><title>
+Multimodal, Multi-User Program Guide -><author>
+1 -><pubnum>
+2 -><pubnum>
+, Roope Raisamo -><unknow>
+, Thomas Olsson -><author>
+1 -><pubnum>
+Tomi Heimonen -><author>
+, Jaakko Hakulinen -><keyword>
+Markku Turunen -><keyword>
+, Toni Miettinen -><keyword>
+, -><keyword>
+, Juho Hella -><keyword>
+, Ismo Rakkolainen -><keyword>
+1 -><pubnum>
+1 -><pubnum>
+1 -><pubnum>
+2 -><pubnum>
+University of Tampere -><affiliation>
+Tampere University of Technology -><affiliation>
+Kanslerinrinne 1 -><address>
+Korkeakoulunkatu 10 -><address>
+FI-33014 University of Tampere -><affiliation>
+FI-33720 Tampere -><address>
+firstname.surname@sis.uta.fi -><email>
+firstname.surname@tut.fi -><email>

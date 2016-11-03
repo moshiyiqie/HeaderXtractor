@@ -1,0 +1,17 @@
+Stratified Tree Search: A Novel Suboptimal Heuristic -><title>
+Search Algorithm -><title>
+Robert C. Holte -><author>
+Dept. of Computing Science -><affiliation>
+University of Alberta -><affiliation>
+Edmonton, Canada -><address>
+rholte@ualberta.ca -><email>
+Levi H. S. Lelis -><author>
+Dept. of Computing Science -><affiliation>
+University of Alberta -><affiliation>
+Edmonton, Canada -><address>
+levi.lelis@ualberta.ca -><email>
+Sandra Zilles -><author>
+Dept. of Computer Science -><affiliation>
+University of Regina -><affiliation>
+Regina, Canada -><address>
+zilles@cs.uregina.ca -><email>

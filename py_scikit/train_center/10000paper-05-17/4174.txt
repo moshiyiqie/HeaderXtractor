@@ -1,0 +1,7 @@
+An Instance-Based Approach for Domain-Independent -><title>
+Schema Matching -><title>
+Yan Liang -><author>
+Computer Science Department -><affiliation>
+The University of Alabama -><affiliation>
+Tuscaloosa AL 35401 -><address>
+yliang@cs.ua.edu -><email>

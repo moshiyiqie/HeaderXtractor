@@ -1,0 +1,22 @@
+Enabling Intelligence Analysis through Agent-Support: -><title>
+the CISpaces Toolkit -><title>
+(Demonstration) -><title>
+Alice Toniolo -><author>
+Hengfei Li -><author>
+Dept. of Computing Science -><affiliation>
+University of Aberdeen, UK -><affiliation>
+Timothy J. Norman -><author>
+Nir Oren -><author>
+Dept. of Computing Science -><affiliation>
+University of Aberdeen, UK -><affiliation>
+Robin Wentao Ouyang -><author>
+Mani Srivastava -><author>
+University of California -><affiliation>
+Los Angeles, CA, USA -><address>
+∗ -><phone>
+Paul Sullivan -><author>
+INTELPOINT Incorporated -><affiliation>
+Pennsylvania, USA -><address>
+Timothy Dropps -><author>
+John A. Allen -><author>
+Honeywell, USA -><address>

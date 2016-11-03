@@ -1,0 +1,9 @@
+Planning for Crowdsourcing Hierarchical Tasks -><title>
+Eric Horvitz -><author>
+Microsoft Research -><affiliation>
+Redmond, WA 98052 -><address>
+horvitz@microsoft.com -><email>
+Ece Kamar -><author>
+Microsoft Research -><affiliation>
+Redmond, WA 98052 -><address>
+eckamar@microsoft.com -><email>

@@ -1,0 +1,7 @@
+A Big-O Experiment: Which Function Is It? -><title>
+Sandria N. Kerr -><author>
+Computer Science Department -><affiliation>
+Winston-Salem State University -><affiliation>
+Winston-Salem NC 27110 -><address>
+1-336-750-2495 -><phone>
+kerrs@wssu.edu -><email>

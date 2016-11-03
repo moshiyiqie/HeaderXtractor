@@ -1,0 +1,21 @@
+Organizational Multi-Agent Architectures: -><title>
+A Mobile Robot Example -><title>
+John Mylopoulos -><author>
+Department of Computer Science -><affiliation>
+University of Toronto -><affiliation>
+Paolo Giorgini -><author>
+Department of Mathematics -><affiliation>
+University of Trento -><affiliation>
+Via Sommarive, 4 -><address>
+Manuel Kolp -><author>
+IAG School of Management -><affiliation>
+University of Louvain -><affiliation>
+1, Place des Doyens -><address>
+B-1348, Louvain-La-Neuve - Belgium -><address>
+Tel.: +32 10 47 83 95 -><phone>
+kolp@isys.ucl.ac.be -><email>
+Tel.: +39 0461 882052 -><note>
+M5S 3H5, Toronto - Canada -><note>
+Tel.: +1 416 978 5180 -><note>
+jm@cs.toronto.edu -><email>
+pgiorgini@science.unitn.it -><email>

@@ -1,0 +1,24 @@
+AN APPROACH FOR DETECTION OF MALICIOUS NODE -><title>
+USING FUZZY BASED TRUST LEVELS IN MANET -><title>
+Vijayan R -><title>
+Asst Professor(Senior) -><author>
+School of Information Technology -><affiliation>
+and Engineering, -><affiliation>
+,VIT University, -><affiliation>
+Vellore-632014, India. -><address>
+email:rvijayan@vit.ac.in -><email>
+Mohammed Aaqib M -><author>
+MS (Software Engineering) -><affiliation>
+School of Information Technology -><affiliation>
+and Engineering, -><degree>
+VIT University, -><affiliation>
+Vellore-632014, India -><address>
+email:aaqibrayan@gmail.com -><email>
+Manoj V, Raghavendiran N -><affiliation>
+MS (Software Engineering) -><affiliation>
+School of Information Technology -><affiliation>
+and Engineering, -><degree>
+VIT University, -><affiliation>
+Vellore-632014, India -><address>
+email:manojv1991@gmail.com -><email>
+email:sriragav.2009@gmail.com -><email>

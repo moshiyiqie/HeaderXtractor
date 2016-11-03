@@ -1,0 +1,12 @@
+Stationary Queue-Size Distribution for Variable Complexity -><title>
+Sequential Decoders with Large Timeout -><title>
+W. David Pan -><author>
+Khalid Darabkh -><author>
+Dept. of Electrical and Computer Engineering -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899 -><address>
+Email: <dwpan>@ece.uah.edu -><email>
+Dept. of Electrical and Computer Engineering -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899 -><address>
+Email: <darabkk>@eng.uah.edu -><email>

@@ -1,0 +1,8 @@
+A Decision-Theoretic Approach to File Consistency -><title>
+in Constrained Peer-to-Peer Device Networks -><title>
+David L. Roberts Sooraj Bhat Charles L. Isbell Jr. -><author>
+Brian F. Cooper Jeffrey S. Pierce -><author>
+College of Computing -><affiliation>
+Georgia Institute of Technology -><affiliation>
+Atlanta, GA 30332-0706 -><address>
+{robertsd,sooraj,isbell,cooperb,jpierce}@cc.gatech.edu -><email>

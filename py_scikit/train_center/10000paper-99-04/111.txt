@@ -1,0 +1,19 @@
+Representing and Executing Protocols as Joint Actions -><title>
+Marcus J. Huber -><author>
+OGI School of Science & Eng. -><affiliation>
+20000 NW Walker Road, -><address>
+Beaverton, OR 97006, USA -><address>
++1-503-748-7666 -><phone>
+marcush@cse.ogi.edu -><email>
+Philip R. Cohen -><author>
+OGI School of Science & Eng. -><affiliation>
+20000 NW Walker Road, -><address>
+Beaverton, OR 97006, USA -><address>
++1-503-748-1326 -><phone>
+pcohen@cse.ogi.edu -><email>
+Sanjeev Kumar -><author>
+OGI School of Science & Eng. -><affiliation>
+20000 NW Walker Road, -><address>
+Beaverton, OR 97006, USA -><address>
++1-503-748-7803 -><phone>
+skumar@cse.ogi.edu -><email>

@@ -1,0 +1,11 @@
+A Prototype MultiAgent Network Security System -><title>
+Jose´ M. Vidal -><author>
+University of South Carolina -><affiliation>
+Computer Science and Engineering -><affiliation>
+Columbia, SC, 29208 -><address>
+vidal@sc.edu -><email>
+Taraka Pedireddy -><author>
+University of South Carolina -><affiliation>
+295 Barnes Blvd. -><address>
+Rockledge, FL, 32955 -><address>
+taraka reddy@hotmail.com -><email>

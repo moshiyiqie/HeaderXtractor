@@ -1,0 +1,14 @@
+Real Time 2-D Face Detection Using Color Ratios and K- -><title>
+Mean Clustering -><title>
+RanjaniBalaji -><author>
+Western Kentucky University -><affiliation>
+30 River Court, Apt 1011 -><address>
+Jersey City, NJ 07310 -><address>
+(201) 336-2237 -><phone>
+ranjani19@yahoo.com -><email>
+Rob Byrd -><author>
+York College -><affiliation>
+1125 E.8th St. -><address>
+York, NE 68467 -><address>
+402-363-5737 -><phone>
+rob.byrd@york.edu -><email>

@@ -1,0 +1,16 @@
+Stimulax: Psychological Relationship Modeling Software -><title>
+Student Paper ∗ -><title>
+S. Callan, C. Lariscy, & B. Claroni -><author>
+Department of Computer Sciences -><affiliation>
+Georgia Southern University -><affiliation>
+Statesboro, Georgia, USA -><address>
+{seancallan, chris.mmonkey, -><email>
+bclaroni}@gmail.com -><author>
+A. Garcia & S. Murray -><author>
+Department of Computer Sciences -><affiliation>
+Georgia Southern University -><affiliation>
+Statesboro, Georgia, USA -><address>
+{andres.meursault, -><email>
+gunnerguyven@gmail.com}@gmail.com -><email>
+‡ -><abstract>
+† -><abstract>

@@ -1,0 +1,11 @@
+A style controller for generating virtual human behaviors -><title>
+Stacy Marsella -><author>
+USC Institute for Creative Technologies -><affiliation>
+12015 Waterfront Drive -><address>
+Playa Vista, CA 90094 -><address>
+marsella@ict.usc.edu -><email>
+Chung-Cheng Chiu -><author>
+USC Institute for Creative Technologies -><affiliation>
+12015 Waterfront Drive -><address>
+Playa Vista, CA 90094 -><address>
+chiu@ict.usc.edu -><email>

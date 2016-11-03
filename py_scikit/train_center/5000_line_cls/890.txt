@@ -1,0 +1,7 @@
+STAPLE: An Agent Programming Language Based on the Joint Intention Theory -><title>
+Sanjeev Kumar -><author>
+Oregon Health & Science University -><affiliation>
+skumar@cse.ogi.edu -><email>
+Philip R. Cohen -><author>
+Oregon Health & Science University -><affiliation>
+pcohen@cse.ogi.edu -><email>

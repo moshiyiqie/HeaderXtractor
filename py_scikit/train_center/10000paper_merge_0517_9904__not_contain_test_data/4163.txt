@@ -1,0 +1,20 @@
+A Distributed Firewall and Active Response Architecture -><title>
+Providing Preemptive Protection -><title>
+Randal Abler -><author>
+Georgia Institute of Technology -><affiliation>
+210 Technology Circle -><address>
+Savannah, GA 31407 -><address>
+001-912-966-7922 -><phone>
+randal.abler@.gatech.edu -><email>
+J. Lane Thames -><author>
+Georgia Institute of Technology -><affiliation>
+210 Technology Circle -><address>
+Savannah, GA 31407 -><address>
+001-912-966-7922 -><phone>
+lane.thames@gatech.edu -><email>
+David Keeling -><author>
+Georgia Institute of Technology -><affiliation>
+210 Technology Circle -><address>
+Savannah, GA 31407 -><address>
+001-912-966-7922 -><phone>
+dkeeling@gatech.edu -><email>

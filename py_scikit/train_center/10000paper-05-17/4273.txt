@@ -1,0 +1,26 @@
+SCA-Resistant Embedded Processors—The Next -><title>
+Generation -><title>
+Mario Kirschbaum -><author>
+Graz University of Technology -><affiliation>
+Institute for Applied -><affiliation>
+Information Processing and -><affiliation>
+Communications -><affiliation>
+Inffeldgasse 16a, A–8010 -><address>
+Graz, Austria -><address>
+mkirschbaum@iaik.at -><email>
+Stefan Tillich -><author>
+University of Bristol -><affiliation>
+Computer Science -><affiliation>
+Department -><affiliation>
+Merchant Venturers Building -><address>
+Woodland Road, BS8 1UB, -><address>
+Bristol, UK -><address>
+tillich@cs.bris.ac.uk -><email>
+Alexander Szekely -><author>
+Graz University of Technology -><affiliation>
+Institute for Applied -><affiliation>
+Information Processing and -><affiliation>
+Communications -><address>
+Inffeldgasse 16a, A–8010 -><address>
+Graz, Austria -><address>
+aszekely@iaik.tugraz.at -><email>

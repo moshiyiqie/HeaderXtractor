@@ -1,0 +1,13 @@
+Propositional Opinion Diffusion -><title>
+Emiliano Lorini -><author>
+IRIT, University of Toulouse -><affiliation>
+France -><address>
+emiliano.lorini@irit.fr -><email>
+Umberto Grandi -><author>
+IRIT, University of Toulouse -><affiliation>
+France -><address>
+umberto.grandi@irit.fr -><email>
+Laurent Perrussel -><author>
+IRIT, University of Toulouse -><affiliation>
+France -><address>
+laurent.perrussel@irit.fr -><email>

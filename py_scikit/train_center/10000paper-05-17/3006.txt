@@ -1,0 +1,16 @@
+Pileus: Umbrella Type Entertainment Browser -><title>
+Takashi Matsumoto -><author>
+Keio University, Media Design -><affiliation>
+Okude Lab. -><affiliation>
+Kanagawa, Japan 252-8520 -><address>
+ma22n@sfc.keio.ac.jp -><email>
+Sho Hashimoto -><author>
+Keio University, Media Design -><affiliation>
+Okude Lab. -><affiliation>
+Kanagawa, Japan 252-8520 -><address>
+t03792sh@sfc.keio.ac.jp -><email>
+Naohito Okude -><author>
+Keio University, Media Design -><affiliation>
+Okude Lab. -><affiliation>
+Kanagawa, Japan 252-8520 -><address>
+okude@sfc.keio.ac.jp -><email>

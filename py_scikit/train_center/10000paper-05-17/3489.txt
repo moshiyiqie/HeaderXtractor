@@ -1,0 +1,12 @@
+A Platform-Independent Tool for Modeling -><title>
+Parallel Programs -><title>
+Yu Sun, Purushotham Bangalore -><author>
+Department of Computer and Information Sciences -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+Birmingham, AL 35205 -><address>
+{yusun, puri}@cis.uab.edu -><email>
+Ferosh Jacob, Jeff Gray -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Tuscaloosa, AL 35401 -><address>
+fjacob@crimson.ua.edu, gray@cs.ua.edu -><email>

@@ -1,0 +1,19 @@
+Character Animation Scripting Languages: A Comparison -><title>
+Ebrahim Mamdani -><title>
+IIS -><author>
+Imperial College London SW7 2BT, -><affiliation>
+UK -><address>
++44 (0) 20 75946317 -><phone>
+e.mamdani@ic.ac.uk -><email>
+Kaveh Kamyab -><author>
+IIS -><affiliation>
+Imperial College London SW7 2BT, -><address>
+UK -><address>
++44 (0) 20 75946319 -><phone>
+k.kamyab@ic.ac.uk -><email>
+Yasmine Arafa -><email>
+IIS -><affiliation>
+Imperial College London SW7 2BT, -><affiliation>
+UK -><address>
++44 (0) 20 75946319 -><phone>
+y.arafa@ic.ac.uk -><email>

@@ -1,0 +1,13 @@
+Norm Adoption in the NoA Agent Architecture -><title>
+Timothy J. Norman -><author>
+Department of Computing Science -><affiliation>
+University of Aberdeen -><affiliation>
+Aberdeen AB24 3UE, UK -><address>
+Tel: +44 (0) 1224 272284 -><phone>
+tnorman@csd.abdn.ac.uk -><email>
+Martin J. Kollingbaum -><author>
+Department of Computing Science -><affiliation>
+University of Aberdeen -><affiliation>
+Aberdeen AB24 3UE, UK -><address>
+Tel: +44 (0) 1224 272293 -><phone>
+mkolling@csd.abdn.ac.uk -><email>

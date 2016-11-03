@@ -1,0 +1,15 @@
+CPS: Driving Cyber-Physical Systems to Unsafe Operating -><title>
+Conditions by Timing DoS Attacks on Sensor Signals -><title>
+Alvaro A. Cárdenas -><author>
+University of Texas in Dallas -><affiliation>
+Richardson, TX 75080, USA -><address>
+Marina Krotoﬁl -><author>
+Hamburg University of -><affiliation>
+Technology -><affiliation>
+Hamburg, Germany -><affiliation>
+Bradley Manning -><address>
+Autolive GmbH -><address>
+Hamburg, Germany -><address>
+Jason Larsen -><author>
+IOActive, Inc. -><affiliation>
+Seattle, WA 98104, USA -><address>

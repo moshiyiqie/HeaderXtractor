@@ -1,0 +1,11 @@
+Effect of time delays on agents’ interaction dynamics -><title>
+Catherine Pelachaud -><author>
+LTCI/TSI, Telecom-ParisTech/CNRS, -><affiliation>
+37-39 rue Dareau, -><address>
+75014, Paris, France -><address>
+catherine.pelachaud@telecom-paristech.fr -><email>
+Ken Prepin -><author>
+LTCI/TSI, Telecom-ParisTech/CNRS, -><affiliation>
+37-39 rue Dareau, -><address>
+75014, Paris, France -><address>
+ken.prepin@telecom-paristech.fr -><email>

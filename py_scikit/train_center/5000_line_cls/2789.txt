@@ -1,0 +1,7 @@
+Avoiding Convergence in Cooperative Coevolution -><title>
+with Novelty Search -><title>
+Jorge Gomes1,2, Pedro Mariano2, Anders Lyhne Christensen1,3 -><author>
+1Instituto de Telecomunicações, Lisboa, Portugal -><affiliation>
+2LabMAg – Faculdade de Ciências da Universidade de Lisboa, Portugal -><affiliation>
+3ISCTE-IUL, Lisboa, Portugal -><address>
+jgomes@di.fc.ul.pt, plmariano@di.fc.ul.pt, anders.christensen@iscte.pt -><email>

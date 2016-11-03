@@ -1,0 +1,14 @@
+Operational Specification of a Commitment-Based Agent -><title>
+Communication Language∗ -><title>
+Nicoletta Fornara -><author>
+University of Lugano -><affiliation>
+via Buffi 13, 6900 Lugano, Switzerland -><address>
+IDSIA -><affiliation>
+Galleria 2 6928 Manno, Switzerland -><address>
+nicoletta.fornara@lu.unisi.ch -><email>
+Marco Colombetti -><author>
+University of Lugano -><affiliation>
+via Buffi 13, 6900 Lugano, Switzerland -><address>
+Politecnico di Milano -><affiliation>
+Piazza L. da Vinci 32, I-20133 Milano, Italy -><address>
+marco.colombetti@lu.unisi.ch -><email>

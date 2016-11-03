@@ -1,0 +1,17 @@
+Modeling Physical Capabilities of Humanoid Agents Using Motion Capture Data -><title>
+Gita Sukthankar -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon -><address>
+gitars@cs.cmu.edu -><email>
+Michael Mandel -><author>
+Computer Science -><affiliation>
+Carnegie Mellon -><address>
+mmandel@cs.cmu.edu -><email>
+Katia Sycara -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon -><address>
+katia+@cs.cmu.edu -><email>
+Jessica Hodgins -><author>
+Computer Science -><affiliation>
+Carnegie Mellon -><address>
+jkh@cs.cmu.edu -><email>

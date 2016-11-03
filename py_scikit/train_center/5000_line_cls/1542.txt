@@ -1,0 +1,9 @@
+Coalition Formation with Spatial and Temporal Constraints -><title>
+Sarvapali D. Ramchurn1 Maria Polukarov1 Alessandro Farinelli1,2 Cuong Truong1 -><author>
+Nicholas R. Jennings1 -><author>
+1IAM Group, School of Electronics and Computer Science -><affiliation>
+University of Southampton, UK -><affiliation>
+{sdr,mp3,af2,cnt105,nrj}@ecs.soton.ac.uk -><email>
+2Computer Science Department -><affiliation>
+University of Verona,Italy -><affiliation>
+alessandro.farinelli@univr.it -><email>

@@ -1,0 +1,34 @@
+Building Dynamic Organizations of Distributed, Heterogeneous Agents -><title>
+David V. Pynadath, Milind Tambe, Nicolas Chauvat -><author>
+Information Sciences Institute and Computer Science Department -><affiliation>
+University of Southern Califomia -><affiliation>
+4676 Admiralty Way, Marina del Rey, CA 90292 -><address>
+{pynadath,tambe,nico} @isi.edu -><email>
+An increasing number of agent-based systems now oper- -><abstract>
+ate in complex dynamic environments, such as disaster res- -><abstract>
+cue missions, enterprise integration, and education/training -><abstract>
+environments. The proliferation of agents throughout these -><abstract>
+domains will open up new opportunities for building large- -><abstract>
+scale systems, but integrating agents into such large-scale -><abstract>
+systems remains challenging. First, it is difficult for devel- -><abstract>
+opers to locate relevant agents in distributed, open environ- -><abstract>
+ments. Second, since the recruited agents do not usually -><abstract>
+know how to work together, it -><abstract>
+propriate inter-agent coordination. Third, the resulting inte- -><abstract>
+grated system must be robust despite the uncertainties (e.g., -><abstract>
+agent failures) of an open environment. -><abstract>
+To address these particular challenges, our framework fo- -><abstract>
+cuses on enabling developers torapidly construct large-scale -><abstract>
+agent organizations. This project currently has two key as- -><abstract>
+pects: specifying and monitoring the agent organization, and -><abstract>
+enabling it -><abstract>
+work among agents. We address the first aspect hrough -><abstract>
+KARMA, the Knowledgeable Agent Resources Manager As- -><abstract>
+sistant, and the second through TEAMCORE. The following -><abstract>
+sections explain our framework's typical stages of interac- -><abstract>
+tions (the numbered arrows in Figure 1). -><abstract>
+Karma: Specifying & Monitoring Team-Oriented Pro- -><abstract>
+grams-- -><abstract>
+specifying an organization ofinterest via "team-oriented pro- -><abstract>
+gramming" [ 1 ]. The developer specifies three key aspects of -><abstract>
+a team: a team organization hierarchy, a -><abstract>

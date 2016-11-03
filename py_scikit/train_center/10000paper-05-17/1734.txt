@@ -1,0 +1,28 @@
+Modeling How Thinking About the Past and Future Impacts -><title>
+Network Traffic with the GOSMR Architecture -><title>
+Kevin Gold -><author>
+MIT Lincoln Laboratory -><affiliation>
+Lexington, MA -><address>
+kevin.gold@ll.mit.edu -><email>
+Zachary J. Weber -><author>
+MIT Lincoln Laboratory -><affiliation>
+Lexington, MA -><address>
+zweber@ll.mit.edu -><email>
+Ben Priest -><author>
+MIT Lincoln Laboratory -><affiliation>
+Lexington, MA -><address>
+benjamin.priest@ll.mit.edu -><email>
+William W. Streilein -><author>
+MIT Lincoln Laboratory -><affiliation>
+Lexington, MA -><address>
+wws@ll.mit.edu -><email>
+Josh Ziegler -><author>
+Air Force Institute of -><affiliation>
+Technology -><affiliation>
+Wright-Patterson AFB, OH -><address>
+Joshua.Ziegler@afit.edu -><email>
+Karen Sittig -><author>
+Massachusetts Institute of -><affiliation>
+Technology -><affiliation>
+Cambridge, MA -><address>
+kasittig@mit.edu -><email>

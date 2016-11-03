@@ -1,0 +1,5 @@
+Your Way Your Missions: From Location-Based -><title>
+to Route-Based Pervasive Gaming -><title>
+Ling Chen, Steve Benford -><author>
+School of Computer Science and IT, The University of Nottingham, Nottingham NG8 1BB, UK -><affiliation>
+{lxc, sdb}@cs.nott.ac.uk -><email>

@@ -1,0 +1,7 @@
+Incorporating Agent Based Neural Network -><title>
+Model for Adaptive Meta-Search -><title>
+Ying Xie, Dheerendranath Mundluru, Vijay V. Raghavan -><author>
+The Center for Advanced Computer Studies -><affiliation>
+University of Louisiana at Lafayette -><affiliation>
+Lafayette, LA 70504-4330, USA -><address>
+{yxx2098, dnm8925, raghavan}@cacs.louisiana.edu -><email>

@@ -1,0 +1,20 @@
+Multiscale Simulation of Ligand-Receptor Binding and -><title>
+Dissociation in Circulation∗ -><title>
+Wensheng Shen† -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Kentucky -><affiliation>
+Lexington, KY, 40506, USA -><address>
+wensheng@csr.uky.edu -><email>
+Jun Zhang§ -><date>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Kentucky -><affiliation>
+Lexington, KY, 40506, USA -><address>
+jzhang@cs.uky.edu -><email>
+Changjiang Zhang‡ -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Kentucky -><affiliation>
+Lexington, KY, 40506, USA -><address>
+czhanb@csr.uky.edu -><email>

@@ -1,0 +1,12 @@
+CAMEO - Camera, Audio and Motion with Emotion -><title>
+Orchestration for Immersive Cinematography -><title>
+Bo Gyeong Kang -><author>
+Graphics&OS Group, -><affiliation>
+Samsung Advanced Institute of Technology -><affiliation>
+Giheung-Gu, Gyeonggi-Do, South Korea -><address>
+bogyeong.kang@samsung.com -><email>
+Hyunju Shim -><unknow>
+Graphics&OS Group, -><author>
+Samsung Advanced Institute of Technology -><affiliation>
+Giheung-Gu, Gyeonggi-Do, South Korea -><address>
+hyunju67.shim@samsung.com -><email>

@@ -1,0 +1,19 @@
+Conviviality Measures -><title>
+Chattrakul Sombattheera -><title>
+Faculty of Informatics -><author>
+Mahasarakham University -><affiliation>
+Thailand -><address>
+chattrakul.s@msu.ac.th -><email>
+Patrice Caire -><author>
+FNRS Research Fellow -><affiliation>
+PReCISE Research Center -><affiliation>
+University of Namur -><affiliation>
+Belgium -><address>
+patrice.caire@fundp.ac.be -><email>
+Baptiste Alcalde, -><degree>
+Leendert van der Torre -><degree>
+CSC -><affiliation>
+University of Luxembourg -><affiliation>
+Luxembourg -><address>
+baptiste.alcalde@laposte.net -><email>
+leendert@vandertorre.com -><email>

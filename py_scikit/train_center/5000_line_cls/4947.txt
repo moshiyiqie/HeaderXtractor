@@ -1,0 +1,22 @@
+Using an End-To-End Demonstration in an Undergraduate -><title>
+Grid Computing Course -><title>
+Barry Wilkinson -><author>
+Dept. of Computer Science -><affiliation>
+Univ. of North Carolina at Charlotte -><affiliation>
+Charlotte, NC 28223 -><address>
+01-704-687-8381 -><phone>
+abw@uncc.edu -><email>
+James Ruff -><author>
+Dept. of Mathematics and Computer -><affiliation>
+Science -><affiliation>
+Western Carolina University -><affiliation>
+Cullowhee, NC 28723 -><address>
+01-828-227-7245 -><phone>
+jruff@cs.wcu.edu -><email>
+Mark A. Holliday -><author>
+Dept. of Mathematics and Computer -><affiliation>
+Science -><affiliation>
+Western Carolina University -><affiliation>
+Cullowhee, NC 28723 -><address>
+01-828-227-3951 -><phone>
+holliday@cs.wcu.edu -><email>

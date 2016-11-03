@@ -1,0 +1,5 @@
+Polymorphic Type Inference for the Relational Algebra in -><title>
+the Functional Database Programming Language Neon -><title>
+Lajos Nagy Ryan Stansifer -><author>
+lnagy@fit.edu ryan@cs.fit.edu -><email>
+Florida Institute of Technology -><affiliation>

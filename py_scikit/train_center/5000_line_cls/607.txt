@@ -1,0 +1,5 @@
+A Method for Decentralized Clustering in Large Multi-Agent -><title>
+Systems -><title>
+Elth Ogston , Benno Overeinder, Maarten van Steen, and Frances Brazier -><author>
+Department of Computer Science, Vrije Universiteit Amsterdam -><affiliation>
+{elth,bjo,steen,frances}@cs.vu.nl -><email>

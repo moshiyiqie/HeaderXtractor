@@ -1,0 +1,15 @@
+Toward DAML-based Policy Enforcement for Semantic -><title>
+Data Transformation and Filtering in Multi-agent Systems -><title>
+Niranjan Suri, Jeffrey Bradshaw, Mark Burstein, Andrzej Uszok, Brett Benyo, Maggie Breedy, -><author>
+Marco Carvalho, David Diller, Paul Groth, Renia Jeffers, Matt Johnson, Shri Kulkarni, James Lott -><author>
+Institute for Human & Machine Cognition -><affiliation>
+University of West Florida -><affiliation>
+40 S. Alcaniz St., Pensacola, FL 32501 -><address>
+++1-850-202-4462 -><phone>
+BBN Technologies -><affiliation>
+10 Moulton St., Cambridge, MA 02138 -><address>
+++1-617-873-3861 -><phone>
+{burstein,bbenyo,ddiller}@bbn.com -><email>
+{nsuri,jbradshaw,auszok,mbreedy, -><keyword>
+mcarvalho,pgroth,rjeffers,mjohnson, -><keyword>
+skulkarni,jlott}@ai.uwf.edu -><email>

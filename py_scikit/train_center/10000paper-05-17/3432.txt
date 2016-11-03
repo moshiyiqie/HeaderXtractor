@@ -1,0 +1,9 @@
+Combining ACL2 and an Automated Verification Tool to -><title>
+Verify a Multiplier -><title>
+Jun Sawada -><author>
+IBM Austin Research Laboratory -><affiliation>
+sawada@us.ibm.com -><email>
+Erik Reeber -><author>
+University of Texas at Austin -><affiliation>
+Department of Computer Sciences -><affiliation>
+reeber@cs.utexas.edu -><email>

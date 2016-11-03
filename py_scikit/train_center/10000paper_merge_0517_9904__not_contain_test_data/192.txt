@@ -1,0 +1,5 @@
+Fuzzy Argumentation for Negotiating Agents -><title>
+Michael Schroeder and Ralf Schweimeier -><author>
+Department of Computing, City University -><affiliation>
+Northampton Square, London EC1V 0HB, UK -><address>
+{msch,ralf}@soi.city.ac.uk -><email>

@@ -1,0 +1,7 @@
+Constraint Animation Using an -><title>
+Object-Oriented Declarative Language -><title>
+Jeff Gray and Stephen Schach -><author>
+Department of Computer Science -><affiliation>
+Vanderbilt University -><affiliation>
+Nashville, TN -><address>
+{jgray, srs } @vuse.vanderbilt.edu -><email>

@@ -1,0 +1,20 @@
+Multiagent Planning for Agents -><title>
+with Internal Execution Resource Constraints -><title>
+Edmund H. Durfee -><author>
+The University of Michigan, Ann Arbor -><affiliation>
+1101 Beal Avenue -><address>
+Ann Arbor MI 48109-2110, USA -><address>
+1-734-936-1563 -><phone>
+durfee@umich.edu -><email>
+Kang G. Shin -><author>
+The University of Michigan, Ann Arbor -><affiliation>
+1301 Beal Avenue -><address>
+Ann Arbor, MI 48109-2122 -><address>
+1-734-763-0391 -><phone>
+kgshin@eecs.umich.edu -><email>
+Haksun Li -><author>
+The University of Michigan, Ann Arbor -><affiliation>
+1101 Beal Avenue -><address>
+Ann Arbor MI 48109-2110, USA -><address>
+1-734-327-7907 -><phone>
+haksunli@engin.umich.edu -><email>

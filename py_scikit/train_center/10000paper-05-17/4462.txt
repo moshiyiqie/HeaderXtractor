@@ -1,0 +1,8 @@
+A Security Evaluation of AIS -><title>
+Automated Identiﬁcation System -><title>
+Marco Balduzzi -><author>
+Trend Micro Research -><affiliation>
+Alessandro Pasta -><author>
+Independent Researcher -><affiliation>
+Kyle Wilhoit -><author>
+Trend Micro Research -><affiliation>

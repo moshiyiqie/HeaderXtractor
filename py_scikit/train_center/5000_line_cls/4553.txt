@@ -1,0 +1,14 @@
+Mapping Component Specifications to Enterprise -><title>
+JavaBeans Implementations -><title>
+Yi Liu -><author>
+Computer & Information Science -><affiliation>
+201 Weir Hall -><address>
+University of Mississippi -><affiliation>
+University, MS 38677 USA -><affiliation>
+liuyi@cs.olemiss.edu -><email>
+H. Conrad Cunningham -><author>
+Computer & Information Science -><affiliation>
+201 Weir Hall -><address>
+University of Mississippi -><affiliation>
+University, MS 38677 USA -><affiliation>
+cunningham@cs.olemiss.edu -><email>

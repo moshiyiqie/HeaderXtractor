@@ -1,0 +1,20 @@
+Boosted and Reward-regularized Classiﬁcation for -><title>
+Apprenticeship Learning -><title>
+Bilal Piot -><author>
+Supelec, MaLIS Research -><affiliation>
+group, France -><address>
+GeorgiaTech-CNRS UMI -><address>
+2958, France -><address>
+bilal.piot@supelec.fr -><email>
+Matthieu Geist -><author>
+Supelec, MaLIS Research -><affiliation>
+group, France -><address>
+GeorgiaTech-CNRS UMI -><address>
+2958, France -><address>
+matthieu.geist@supelec.fr -><email>
+Olivier Pietquin -><author>
+University Lille 1, France -><affiliation>
+LIFL (UMR 8022 CNRS / Lille -><address>
+1), SequeL Team, France -><address>
+olivier.pietquin@univ- -><email>
+lille1.fr -><web>

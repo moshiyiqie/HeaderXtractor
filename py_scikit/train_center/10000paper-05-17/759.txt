@@ -1,0 +1,9 @@
+Path Disruption Games -><title>
+Ely Porat -><author>
+Department of Computer Science -><affiliation>
+Bar-Ilan University, Ramat-Gan, Israel -><affiliation>
+porately@cs.biu.ac.il -><email>
+Yoram Bachrach -><author>
+Microsoft Research -><affiliation>
+Cambridge UK -><address>
+yobach@microsoft.com -><email>

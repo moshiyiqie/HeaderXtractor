@@ -1,0 +1,5 @@
+Online Planning for Optimal Protector Strategies in -><title>
+Resource Conservation Games -><title>
+Yundi Qian, William B. Haskell, Albert Xin Jiang, Milind Tambe -><author>
+University of Southern California, Los Angeles, CA, 90089 -><affiliation>
+{yundi.qian, william.b.haskell, jiangx, tambe}@usc.edu -><email>

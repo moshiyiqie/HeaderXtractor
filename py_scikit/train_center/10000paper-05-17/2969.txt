@@ -1,0 +1,14 @@
+Tangible Interaction in Tabletop Games: -><title>
+Studying iconic and symbolic play pieces -><title>
+Gerard Hollemans and Tom Bergman. -><author>
+Philips Research Laboratories Eindhoven -><affiliation>
+High Tech Campus 34 -><address>
+5656 AE Eindhoven, the Netherlands -><address>
+Saskia Bakker, Debby Vorstenbosch, Elise -><author>
+van den Hoven, -><author>
+Eindhoven University of Technology -><affiliation>
+P.O.Box 513 -><address>
+5600 MB Eindhoven, the Netherlands -><address>
+e.v.d.hoven@tue.nl -><email>
+{gerard.hollemans, -><email>
+tom.bergman}@philips.com -><email>

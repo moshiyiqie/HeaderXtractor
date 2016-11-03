@@ -1,0 +1,13 @@
+Programming Mental State Abduction -><title>
+Mehdi Dastani -><author>
+Intelligent Systems Group -><affiliation>
+University of Utrecht -><affiliation>
+mehdi@cs.uu.nl -><email>
+Michal Sindlar ∗ -><author>
+Intelligent Systems Group -><affiliation>
+University of Utrecht -><affiliation>
+michal@cs.uu.nl -><email>
+John-Jules Meyer -><author>
+Intelligent Systems Group -><affiliation>
+University of Utrecht -><affiliation>
+jj@cs.uu.nl -><email>

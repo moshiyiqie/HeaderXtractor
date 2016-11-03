@@ -1,0 +1,20 @@
+Using Background Knowledge to Speed -><title>
+Reinforcement Learning in Physical Agents -><title>
+Ross Shachter -><author>
+Department of Management -><affiliation>
+Science and Engineering -><affiliation>
+Stanford University -><affiliation>
+Stanford, CA 94305 -><address>
+shachter@stanford.edu -><email>
+Pat Langley -><author>
+Institute for the Study of -><affiliation>
+Learning and Expertise -><affiliation>
+2164 Staunton Court -><address>
+Palo Alto, CA 94306 -><address>
+langley@isle.org -><email>
+Daniel Shapiro -><author>
+Department of Management -><affiliation>
+Science and Engineering -><affiliation>
+Stanford University -><affiliation>
+Stanford, CA 94305 -><address>
+dgs@stanford.edu -><email>

@@ -1,0 +1,12 @@
+Story Similarity Measures for Drama Management with -><title>
+TTD-MDPs -><title>
+Charles L. Isbell -><author>
+College of Computing -><affiliation>
+Georgia Tech -><address>
+Atlanta, GA, USA 30332 -><address>
+isbell@cc.gatech.edu -><email>
+Joshua K. Jones -><author>
+College of Computing -><affiliation>
+Georgia Tech -><address>
+Atlanta, GA, USA 30332 -><address>
+jkj@cc.gatech.edu -><email>

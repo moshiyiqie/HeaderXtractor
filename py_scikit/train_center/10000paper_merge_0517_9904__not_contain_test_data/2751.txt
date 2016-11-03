@@ -1,0 +1,6 @@
+Utilizing Self-Expression Template Method in User -><title>
+Interface Design - Three Design Cases -><title>
+Leena Arhippainen, Minna Pakanen -><author>
+Intel and Nokia Joint Innovation Center/ Center for Internet Excellence -><affiliation>
+P.O. Box 1001, FI-90014 University of Oulu, Finland -><affiliation>
+firstname.lastname@cie.fi -><email>

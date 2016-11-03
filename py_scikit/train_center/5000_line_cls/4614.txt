@@ -1,0 +1,16 @@
+Paving the Way Towards an -><title>
+Efficient Learning Management System -><title>
+Ravi Darbhamulla -><author>
+IAEGS -><affiliation>
+366, KINARD HALL -><address>
+UNIVERSITY OF MISSISSIPPI -><affiliation>
+University, MS 38677 -><affiliation>
+1-662-915-3903 -><phone>
+ravik@olemiss.edu -><email>
+Pamela Lawhead -><author>
+IAEGS -><affiliation>
+371, KINARD HALL -><address>
+UNIVERSITY OF MISSISSIPPI -><affiliation>
+University, MS 38677 -><affiliation>
+1-662-915-3900 -><address>
+lawhead@cs.olemiss.edu -><email>

@@ -1,0 +1,12 @@
+An enterprise search paradigm based on extended query -><note>
+auto-completion. Do we still need search and navigation? -><title>
+Kathy Griffiths -><author>
+Centre for Mental Health Research -><affiliation>
+the Australian National University -><affiliation>
+Canberra Australia 0200 -><address>
+kathy.griffiths@anu.edu.au -><email>
+David Hawking -><author>
+Funnelback Pty Ltd. -><affiliation>
+Canberra ACT 2602, Australia, and -><address>
+RSCS, the Australian National University -><affiliation>
+david.hawking@acm.org -><email>

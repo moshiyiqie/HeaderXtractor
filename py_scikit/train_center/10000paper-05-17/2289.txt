@@ -1,0 +1,10 @@
+Exploring Indirect Reciprocity in Complex Networks using -><title>
+Coalitions and Rewiring -><title>
+Ana Peleteiro and Juan C. Burguillo -><author>
+Dept. of Telematics Engineering -><affiliation>
+University of Vigo, Spain -><affiliation>
+{apeleteiro,J.C.Burguillo}@gti.uvigo.es -><email>
+Siang Yew Chong -><author>
+School of Computer Science -><affiliation>
+University of Nottingham, Malaysia Campus -><affiliation>
+Siang-Yew.Chong@nottingham.edu.my -><email>

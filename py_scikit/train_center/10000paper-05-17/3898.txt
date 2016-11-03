@@ -1,0 +1,9 @@
+A SAT-based Solver for Q-ALL SAT -><title>
+B. Browning -><author>
+University of West Georgia -><affiliation>
+Carrollton, Georgia, USA -><address>
+ben@westgaweb.com -><email>
+A. Remshagen -><author>
+University of West Georgia -><affiliation>
+Carrollton, Georgia, USA -><address>
+anja@westga.edu -><email>

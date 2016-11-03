@@ -1,0 +1,15 @@
+Action models for knowledge and awareness -><title>
+Hans van Ditmarsch -><author>
+Logic -><affiliation>
+University of Seville, Spain -><affiliation>
+hvd@us.es -><email>
+Fernando R. -><author>
+Velázquez-Quesada -><author>
+Logic -><affiliation>
+University of Seville, Spain -><affiliation>
+FRVelazquezQuesada@us.es -><email>
+Tim French -><author>
+Computer Science and -><affiliation>
+Software Engineering -><degree>
+University of Western Australia -><affiliation>
+tim@csse.uwa.edu.au -><email>

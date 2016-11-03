@@ -1,0 +1,8 @@
+An agent model and platform for realizing efficient and -><title>
+reusable agent software -><title>
+Agostino Poggi and Giovanni Rimassa -><author>
+Dipartimento di Ingegneria del/nformazione -><affiliation>
+University of Parma -><affiliation>
+Parco Area delle Scienze, 181A, 43100, Parma, Italy -><address>
++39 0521 905728 -><phone>
+{poggi,rimassa}@ce.unipr.it -><email>

@@ -1,0 +1,6 @@
+Practical Argumentation Semantics -><title>
+for Socially Efficient Defeasible Consequence -><title>
+Hiroyuki Kido and Katsumi Nitta -><author>
+Interdisciplinary Graduate School of Science and Engineering -><affiliation>
+Tokyo Institute of Technology, Japan -><affiliation>
+{kido, nitta}@ntt.dis.titech.ac.jp -><email>

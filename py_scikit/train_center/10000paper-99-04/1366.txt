@@ -1,0 +1,16 @@
+Mobile Agent Security with the IPEditor Development Tool -><title>
+and the Mobile UNITY Language -><title>
+Shinichi Honiden -><author>
+National Institute of Informatics, -><affiliation>
+2-1-2, Hitotsubashi, Chiyoda-ku, Tokyo, -><address>
+101-8430, Japan -><address>
+Tel: +81-3-4212-2513 Fax: +81-3-3556-1916 -><phone>
+honiden@nii.ac.jp -><email>
+Yasuyuki Tahara, Akihiko Ohsuga -><email>
+Computer & Network Systems Laboratory, -><affiliation>
+Corporate Research and Development Center,. -><affiliation>
+Toshiba Corporation, -><affiliation>
+1, Komukai Toshiba-cho, Saiwai-ku, Kawasaki, -><address>
+212-8582, Japan -><address>
+Tel: +81-44-549-2237 Fax: +81-44-520-1841 -><phone>
+{yasuyuki.tahara,akihiko.ohsuga}@toshiba.co.jp -><email>

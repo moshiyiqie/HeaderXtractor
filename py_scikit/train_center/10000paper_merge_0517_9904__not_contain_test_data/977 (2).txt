@@ -1,0 +1,24 @@
+ABSTRACT -><abstract>
+We discuss our research into the development and testing of a -><abstract>
+notification system claims library for assisting designers in -><abstract>
+interface development. Our research focuses on achieving -><abstract>
+consistent values among multiple users when adding and -><abstract>
+searching claims. We discuss the methods used for redesigning -><abstract>
+the application, techniques used for testing, and reengineering -><abstract>
+goals for the Claims Library. This work extends previous efforts -><abstract>
+on design knowledge reuse in the HCI research community, as -><abstract>
+such our methods and techniques should be reusable by others. -><abstract>
+We designed the interface to the library for users entering claims, -><abstract>
+ensuring usability and understandability. Since we noted -><abstract>
+problems with a particular feature (the IRC input method) through -><abstract>
+an internal round of testing, we conducted a lab-based test to -><abstract>
+isolate specific breakdowns. Our results validated portions of -><abstract>
+claim classification indices, suggest key reengineering changes -><abstract>
+that should inform ongoing and future development of the claims -><abstract>
+Categories and Subject Descriptors -><keyword>
+H.1.2 [Models and Principles]: User/Machine Systems - Human -><keyword>
+Factors; H.1.1 [Models and Principles]: Systems and -><keyword>
+General Terms -><keyword>
+Performance, Design, Experimentation, Human Factors -><keyword>
+Keywords -><keyword>
+Notification system, claim, reuse, user testing, interface design -><keyword>

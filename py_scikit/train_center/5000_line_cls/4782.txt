@@ -1,0 +1,34 @@
+Experiences with Managing Student -><title>
+Software Projects Using the Internet -><title>
+Ed Rodgers, Ph.D. -><author>
+Department of Computer Science -><affiliation>
+University of West Florida -><affiliation>
+Pensacola, FL 32514 -><address>
+850-474-2581 -><phone>
+erodgers@uwf.edu -><email>
+Categories and Subject Descriptors -><keyword>
+programming teams, software configuration management. -><keyword>
+General Terms -><keyword>
+Management, Documentation. -><keyword>
+Keywords -><keyword>
+CASE, Project Management, Systems Documentation. -><keyword>
+1. PROBLEM AND MOTIVATION -><intro>
+Declining funding sources for courseware creates problems for -><abstract>
+providing adequate technology in the classroom for many -><abstract>
+institutions [1], [3]. In addition, the changing nature of the student -><abstract>
+population and the increased use of distance learning courses -><abstract>
+require new approaches to course delivery and control [7]. The -><abstract>
+use of the Internet as a project management environment provides -><abstract>
+the potential to solve some of the problems with existing methods -><abstract>
+for managing software projects. This paper describes experiences -><abstract>
+in the use of readily available Web-based technologies as an -><abstract>
+effective and economical alternative to a commercial, network- -><abstract>
+based project management environment to manage software and -><abstract>
+other computer-related projects in an educational setting. -><abstract>
+2. BACKGROUND AND RELATED WORK -><abstract>
+Some of the most important and rewarding courses for students of -><abstract>
+software and other computer-related courses are design or project- -><abstract>
+oriented classes. These design and project courses enable students -><abstract>
+to integrate knowledge from across the curriculum and to apply -><abstract>
+this knowledge to important applications in a realistic, usually -><abstract>
+team-oriented environment [4]. Team progress, content of -><abstract>

@@ -1,0 +1,12 @@
+Parallelizing the Merge Sorting Network Algorithm on a -><title>
+Multi-Core Computer Using Go and Cilk -><title>
+Doug Serfass -><author>
+Department of Computer Science -><affiliation>
+University of Arkansas at Little Rock -><affiliation>
+Little Rock, AR -><address>
+djserfass@ualr.edu -><email>
+Peiyi Tang -><author>
+Department of Computer Science -><affiliation>
+University of Arkansas at Little Rock -><affiliation>
+Little Rock, AR -><address>
+pxtang@ualr.edu -><email>

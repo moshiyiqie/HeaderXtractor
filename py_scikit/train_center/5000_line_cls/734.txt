@@ -1,0 +1,18 @@
+Monitoring and Organizational-Level Adaptation of Multi-Agent Systems -><title>
+Nora Faci -><author>
+MODECO Team, LERI -><affiliation>
+Universite´ de Reims -><affiliation>
+Reims, France -><address>
+faci@leri.univ-reims.fr -><email>
+Zahia Guessoum -><author>
+OASIS Team, LIP6 -><affiliation>
+Universite´ Pierre et Marie Curie -><affiliation>
+Paris, France -><address>
+Zahia.Guessoum@lip6.fr -><email>
+Mikal Ziane -><affiliation>
+OASIS Team, LIP6 -><address>
+Universite´ Pierre et Marie Curie -><affiliation>
+and -><web>
+Universite´ Rene´ Descartes -><affiliation>
+Paris, France -><address>
+Mikal.Ziane@lip6.fr -><email>

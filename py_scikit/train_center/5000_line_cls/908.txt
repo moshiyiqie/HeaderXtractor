@@ -1,0 +1,16 @@
+Flexible Agent Dialogue Strategies and Societal Communication Protocols -><title>
+Pavlos Moraitis -><author>
+Dept. of Comp. Science -><affiliation>
+Univ. of Cyprus -><affiliation>
+CY-1678 Nicosia, Cyprus -><address>
+moraitis@cs.ucy.ac.cy -><email>
+Nicolas Maudet -><author>
+LAMSADE -><affiliation>
+Univ. ParisIX-Dauphine -><affiliation>
+75775 Paris Cedex 16 -><address>
+maudet@lamsade.dauphine.fr -><email>
+Antonis Kakas -><author>
+Dept. of Comp. Science -><affiliation>
+Univ. of Cyprus -><affiliation>
+CY-1678 Nicosia, Cyprus -><address>
+ack@doc.ic.ac.uk -><email>

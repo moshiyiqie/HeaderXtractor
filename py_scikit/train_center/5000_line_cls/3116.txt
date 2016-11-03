@@ -1,0 +1,11 @@
+Gesture Generation with Low-Dimensional Embeddings -><title>
+Stacy Marsella -><author>
+Northeastern University -><affiliation>
+360 Huntington Ave -><address>
+Boston, MA 02115 -><address>
+stacymarsella@gmail.com -><email>
+Chung-Cheng Chiu -><author>
+USC Institute for Creative Technologies -><affiliation>
+12015 Waterfront Drive -><address>
+Playa Vista, CA 90094 -><address>
+chiu@ict.usc.edu -><email>

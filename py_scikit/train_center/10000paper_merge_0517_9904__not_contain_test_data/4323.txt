@@ -1,0 +1,6 @@
+AdSentry: Comprehensive and Flexible Conﬁnement of -><title>
+JavaScript-based Advertisements -><title>
+Xinshu Dong†, Minh Tran‡, Zhenkai Liang†, Xuxian Jiang‡ -><author>
+† Department of Computer Science ‡ Department of Computer Science -><affiliation>
+National University of Singapore North Carolina State University -><email>
+{xdong, liangzk}@comp.nus.edu.sg {mqtran, xuxian_jiang}@ncsu.edu -><email>

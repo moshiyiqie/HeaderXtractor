@@ -1,0 +1,12 @@
+Dealing with the Secure Time Synchronization and Man-in- -><title>
+the-Middle Attacker in Mobile Sensor Networks -><title>
+Mohammad Abdus Salam -><author>
+Department of Computer Science -><affiliation>
+Southern University and A&M College -><affiliation>
+Baton Rouge, Louisiana70813, USA -><address>
+md_salam@subr.edu -><email>
+Kevin Beckwith Bush -><author>
+Science & Technology Forecasting and Assessment -><affiliation>
+Space and Naval Warfare Systems Center, Atlantic -><affiliation>
+North Charleston, SC 29419-9022, USA -><address>
+kevin.b.bush@navy.mil -><email>

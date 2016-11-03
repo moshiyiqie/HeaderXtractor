@@ -1,0 +1,11 @@
+Interactive Legends -><title>
+M. Eduard Tudoreanu -><author>
+Department of Information Science -><affiliation>
+University of Arkansas at Little Rock -><affiliation>
+Little Rock, AR, USA -><address>
+metudoreanu@ualr.edu -><email>
+Delbert Hart -><author>
+Department of Computer Science -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, AL, USA -><address>
+dhart@cs.uah.edu -><email>

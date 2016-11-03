@@ -1,0 +1,7 @@
+Deployment of Multi-agent Algorithms for Tactical -><title>
+Operations on UAV Hardware∗ -><title>
+(Demonstration) -><title>
+Martin Selecký Michal Štolba Tomáš Meiser Michal Cˇáp -><author>
+Antonín Komenda Milan Rollo Jirˇí Vokrˇínek Michal Peˇchoucˇek -><author>
+Agent Technology Center, Department of Computer Science and Engeneering -><affiliation>
+Czech Technical University in Prague, Czech Republic -><affiliation>

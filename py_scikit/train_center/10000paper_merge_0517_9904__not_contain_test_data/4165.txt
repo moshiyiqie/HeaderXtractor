@@ -1,0 +1,16 @@
+Using Java’s Generics Mechanism to Improve Type Safety -><title>
+in the Command Pattern∗ -><title>
+† -><title>
+John Magnotti -><author>
+Auburn University -><affiliation>
+Dept. of Psychology -><affiliation>
+Auburn, ALjohn.magnotti@auburn.edu -><email>
+Karl Ridgeway -><author>
+Rosetta Stone, Ltd. -><affiliation>
+Arlington, VA -><address>
+karl.ridgeway@gmail.com -><email>
+David Bernstein -><author>
+James Madison University -><affiliation>
+Dept. of Computer Science -><affiliation>
+Harrisonburg, VA -><address>
+bernstdh@jmu.edu -><email>

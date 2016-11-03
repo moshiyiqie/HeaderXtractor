@@ -1,0 +1,24 @@
+How to Make a Self-Reconfigurable Robot Run -><title>
+K. Støy -><author>
+The Maersk Mc-Kinney Moller -><affiliation>
+Institute for Production -><affiliation>
+Technology -><affiliation>
+Campusvej 55 -><address>
+DK-5230 Odense M, Denmark -><address>
+kaspers@mip.sdu.dk -><email>
+P. Will -><author>
+Information Sciences Institute -><affiliation>
+and Computer Science -><affiliation>
+Department -><affiliation>
+4676 Admiralty way -><address>
+Marina del Rey, CA 90292, -><address>
+USA -><address>
+will@isi.edu -><email>
+W.-M. Shen -><author>
+Information Sciences Institute -><affiliation>
+and Computer Science -><affiliation>
+Department -><affiliation>
+4676 Admiralty way -><address>
+Marina del Rey, CA 90292, -><address>
+USA -><address>
+shen@isi.edu -><email>

@@ -1,0 +1,25 @@
+166 -><pubnum>
+Fuzzy Rule-Based Controller for Binary Distillation Column -><title>
+Barjeev Tyagi -><author>
+Department of Electrical -><affiliation>
+Engineering -><affiliation>
+Indian Institute of Technology -><affiliation>
+Roorkee, India -><address>
++91-9415441231 -><phone>
+btyagfee@iitr.ernet.in -><email>
+Vishal kumar -><author>
+Department of Electrical -><affiliation>
+Engineering -><affiliation>
+Indian Institute of Technology -><affiliation>
+Roorkee, India -><address>
++91-9412307677 -><phone>
+vksaxfee@iitr.ernet.in -><email>
+Amit Kumar Singh -><author>
+Department of Electrical -><affiliation>
+Engineering -><affiliation>
+Indian Institute of Technology -><affiliation>
+Roorkee, India -><address>
++91-9286501979 -><phone>
+akchauhan.amit@gmail.com -><email>
+Page -><author>
+166 -><date>

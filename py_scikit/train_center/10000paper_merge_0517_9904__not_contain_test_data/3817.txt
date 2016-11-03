@@ -1,0 +1,6 @@
+Facilitating and Automating Empirical Evaluation -><title>
+Laurian Hobby, John Booker, D. Scott McCrickard, C. M. Chewar, Jason Zietz -><author>
+Center for HCI and Department of Computer Science -><affiliation>
+Virginia Polytechnic Institute and State University (Virginia Tech) -><affiliation>
+Blacksburg, VA. 24061-0106 -><address>
+(540) 231-7409 -><phone>

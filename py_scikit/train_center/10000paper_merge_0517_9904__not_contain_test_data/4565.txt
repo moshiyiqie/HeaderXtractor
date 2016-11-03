@@ -1,0 +1,14 @@
+A LLVM Extension for the Generation of Low Overhead -><title>
+Runtime Program Specializer -><title>
+Henri-Pierre Charles -><title>
+CEA, LIST -><title>
+Département Architecture Conception et -><title>
+Logiciels Embarqués -><author>
+F-38054 Grenoble, France. -><address>
+henri-pierre.charles@cea.fr -><email>
+Victor Lomüller -><author>
+CEA, LIST -><note>
+Département Architecture Conception et -><note>
+Logiciels Embarqués -><note>
+F-38054 Grenoble, France. -><address>
+victor.lomuller@cea.fr -><email>

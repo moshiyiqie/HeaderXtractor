@@ -1,0 +1,11 @@
+Now, Later, or Both: a Closed-Form Optimal Decision for a -><title>
+Risk-Averse Buyer -><title>
+Han La Poutré -><author>
+CWI Amsterdam, TU Delft -><author>
+han.la.poutre@cwi.nl -><email>
+Jasper Hoogland -><author>
+CWI Amsterdam -><affiliation>
+hoogland@cwi.nl -><email>
+Mathijs de Weerdt -><email>
+TU Delft -><author>
+M.M.deWeerdt@tudelft.nl -><email>

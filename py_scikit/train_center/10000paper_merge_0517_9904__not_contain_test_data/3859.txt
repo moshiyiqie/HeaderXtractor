@@ -1,0 +1,7 @@
+Determining a Sequence of Stable Multicast Steiner Trees -><title>
+in Mobile Ad Hoc Networks -><title>
+Natarajan Meghanathan -><title>
+Assistant Professor -><author>
+Department of Computer Science -><affiliation>
+Jackson State University, MS 39217 -><affiliation>
+Email: nmeghanathan@jsums.edu -><email>

@@ -1,0 +1,12 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+Keeping Bots out of Online Games -><title>
+Nicolas Ducheneaut -><author>
+Palo Alto Research Center -><affiliation>
+3333 Coyote Hill Rd -><address>
+Palo Alto, CA 94304 USA -><address>
+nicolas@parc.com -><email>
+Philippe Golle -><author>
+Palo Alto Research Center -><affiliation>
+3333 Coyote Hill Rd -><address>
+Palo Alto, CA 94304 USA -><address>
+pgolle@parc.com -><email>

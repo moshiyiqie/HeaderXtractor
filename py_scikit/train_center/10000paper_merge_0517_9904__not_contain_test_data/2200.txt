@@ -1,0 +1,34 @@
+Robust Trust Management -><title>
+(Doctoral Consortium) -><title>
+Athirai A. Irissappane -><author>
+School of Computer Engineering -><affiliation>
+Nanyang Technological University, Singapore -><affiliation>
+athirai001@e.ntu.edu.sg -><email>
+1. RESEARCH PROBLEM -><pubnum>
+Our research is within the area of artificial intelligence and multi- -><abstract>
+agent systems. More specifically, we focus on the robustness is- -><abstract>
+sues [1] in reputation systems for electronic marketplaces and aim -><abstract>
+to address the following problems, -><abstract>
+• how to cope with dishonest advisors (buyers who provide -><abstract>
+misleading opinions), improving the robustness of the trust -><abstract>
+model. -><abstract>
+• how to choose an appropriate seller to perform transaction by -><abstract>
+querying advisors in an optimal way. -><abstract>
+To explain, in multi-agent based e-marketplaces, self-interested -><abstract>
+selling agents may act maliciously by not delivering products with -><abstract>
+the same quality as promised. It is thus important for buying agents -><abstract>
+to analyze their quality and determine which sellers to do business -><abstract>
+with, based on their previous experience with the sellers. However, -><abstract>
+realistically, in most e-marketplaces, buyers often encounter sellers -><abstract>
+with which they have no previous experience. In such cases, they -><abstract>
+can query other buyers (called advisors) about the sellers. But, ad- -><abstract>
+visors may act dishonestly by providing misleading opinions (un- -><abstract>
+fair ratings) to promote low quality sellers or demote sellers with -><abstract>
+high quality. Hence, it is necessary to evaluate the quality of advi- -><abstract>
+sors’ opinions to determine their reliability. -><abstract>
+While it is prima facie necessary to gather opinions about a seller, -><abstract>
+a buyer may not need to query all the advisors about the seller, since -><abstract>
+the cost of querying all the advisors may be greater than the value -><abstract>
+derived from a successful transaction with the seller. Thereby, it is -><abstract>
+necessary to design an optimal scheme to selectively query advi- -><abstract>
+sors and choose a quality seller to perform transaction, in order to -><abstract>

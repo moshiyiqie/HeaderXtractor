@@ -1,0 +1,7 @@
+It’s the Psychology Stupid: How Heuristics Explain -><title>
+Software Vulnerabilities and How Priming Can Illuminate -><title>
+Developer’s Blind Spots -><title>
+Daniela Oliveira Marissa Rosenthal† Nicole Morin† -><author>
+Kuo-Chuan Yeh Justin Cappos‡ Yanyan Zhuang‡ -><author>
+University of Florida Bowdoin College† Pennsylvania State University NYU‡ -><affiliation>
+daniela@ece.uﬂ.edu, mrosenth,nmorin@bowdoin.edu, yeh@cse.psu.edu, jcappos,yyzh@nyu.edu -><email>

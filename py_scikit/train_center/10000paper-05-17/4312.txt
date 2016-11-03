@@ -1,0 +1,7 @@
+Exposing Invisible Timing-based Trafﬁc Watermarks with -><title>
+BACKLIT -><title>
+Xiapu Luo‡, Peng Zhou‡, Junjie Zhang§, -><author>
+Roberto Perdisci†, Wenke Lee§, and Rocky K. C. Chang‡ -><author>
+The Hong Kong Polytechnic University‡ Georgia Institute of Technology§ University of Georgia† -><affiliation>
+{csxluo(|)cspzhouroc(|)csrchang}@comp.polyu.edu.hk, -><email>
+{jjzhang(|)wenke}@cc.gatech.edu, perdisci@cs.uga.edu -><email>

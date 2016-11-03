@@ -1,0 +1,12 @@
+The Design of Agent Communication Languages: -><title>
+An Organizational Approach ∗ -><title>
+Sascha Ossowski -><author>
+Artificial Intelligence Group -><affiliation>
+School of Engineering -><affiliation>
+University Rey Juan Carlos -><affiliation>
+s.ossowski@escet.urjc.es -><email>
+Juan Manuel Serrano -><author>
+Artificial Intelligence Group -><affiliation>
+School of Engineering -><affiliation>
+University Rey Juan Carlos -><affiliation>
+jserrano@escet.urjc.es -><email>

@@ -1,0 +1,21 @@
+Learning and Decision-Making for Intention Reconciliation -><title>
+Sanmay Das -><title>
+MIT Center for Biological and -><title>
+Computational Learning -><title>
+E25-201, 45 Carleton St. -><address>
+Cambridge, MA 02142 -><address>
+sanmay@ai.mit.edu -><email>
+Avi Pfeffer -><author>
+Division of Engineering and -><affiliation>
+Applied Sciences, Harvard -><affiliation>
+University -><affiliation>
+33 Oxford Street -><address>
+Cambridge, MA 02138 -><address>
+avi@eecs.harvard.edu -><email>
+Barbara Grosz -><author>
+Division of Engineering and -><affiliation>
+Applied Sciences, Harvard -><affiliation>
+University -><affiliation>
+33 Oxford Street -><address>
+Cambridge, MA 02138 -><address>
+grosz@eecs.harvard.edu -><email>

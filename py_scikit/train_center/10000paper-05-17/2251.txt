@@ -1,0 +1,6 @@
+Dealing with Ambiguity in Plan Recognition -><title>
+under Time Constraints -><title>
+Moser Silva Fagundes, Felipe Meneguzzi, Rafael H. Bordini, Renata Vieira -><author>
+Postgraduate Programme in Computer Science – School of Informatics (FACIN) -><affiliation>
+Pontifical Catholic University of Rio Grande do Sul (PUCRS) – Porto Alegre – RS, Brazil -><affiliation>
+{moser.fagundes,felipe.meneguzzi,rafael.bordini,renata.vieira}@pucrs.br -><email>

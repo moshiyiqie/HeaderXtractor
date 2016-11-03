@@ -1,0 +1,8 @@
+Finding Keyword from Online Broadcasting Content for -><title>
+Targeted Advertising -><title>
+1Hua Li, 2Duo Zhang, 1Jian Hu, 1Hua-Jun Zeng, 1Zheng Chen -><author>
+2Department of Computer Science and Technology -><author>
+1Microsoft Research Asia -><affiliation>
+Tsinghua University -><email>
+{huli,jianh,hjzeng,zhengc}@microsoft.com -><email>
+dolphin.zduo@gmai.com -><email>

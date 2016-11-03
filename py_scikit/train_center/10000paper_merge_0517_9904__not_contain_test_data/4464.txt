@@ -1,0 +1,22 @@
+TrueClick: Automatically Distinguishing Trick Banners -><title>
+from Genuine Download Links -><title>
+Sevtap Duman -><author>
+Northeastern University -><affiliation>
+Boston, MA -><address>
+sevtap@ccs.neu.edu -><email>
+Kaan Onarlioglu -><author>
+Northeastern University -><affiliation>
+Boston, MA -><address>
+onarliog@ccs.neu.edu -><email>
+Ali Osman Ulusoy -><author>
+Brown University -><affiliation>
+Providence, RI -><address>
+ali_ulusoy@alumni.brown.edu -><email>
+Engin Kirda -><author>
+Northeastern University -><affiliation>
+Boston, MA -><address>
+ek@ccs.neu.edu -><email>
+William Robertson -><author>
+Northeastern University -><affiliation>
+Boston, MA -><address>
+wkr@ccs.neu.edu -><email>

@@ -1,0 +1,5 @@
+A Hybrid Approach for Fault Detection -><title>
+in Autonomous Physical Agents -><title>
+Eliahu Khalastchi, Meir Kalech, Lior Rokach -><author>
+Information Systems Engineering, Ben-Gurion University of the Negev, Israel -><affiliation>
+{khalastc,kalech,liorrk}@bgu.ac.il -><email>

@@ -1,0 +1,6 @@
+Identifying Norms of Behaviour in Open Multi-agent Societies -><title>
+Wagdi Alrawagfeh, Edward Brown, Manrique Mata-Mantero -><author>
+Dept of Computer Science -><affiliation>
+Memorial University of Newfoundland -><affiliation>
+wagdi.alrawagfeh@mun.ca, brown@mun.ca, manrique@mun.ca -><email>
+Keywords: Norms, Behaviours, Norm Identification -><keyword>

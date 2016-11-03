@@ -1,0 +1,10 @@
+Debugging Multi-Agent Systems Using Design Artifacts: -><title>
+The Case of Interaction Protocols -><title>
+Lin Padgham -><author>
+David Poutakidis -><author>
+davpout@cs.rmit.edu.au -><email>
+Michael Winikoff -><author>
+winikoff@cs.rmit.edu.au -><email>
+linpa@cs.rmit.edu.au -><email>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>

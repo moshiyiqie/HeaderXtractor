@@ -1,0 +1,34 @@
+Imputation, Social Choice, and Partial Preferences -><title>
+(Doctoral Consortium) -><title>
+John A. Doucette -><author>
+University of Waterloo -><affiliation>
+Waterloo, Ontario, Canada -><address>
+j3doucet@uwaterloo.ca -><email>
+Within the field of Artificial Intelligence (AI) research, the sub- -><abstract>
+field of Computational Social Choice considers the application of -><abstract>
+AI techniques to problems in Social Choice [3]. Social Choice is -><abstract>
+the theoretical study of elections and voting systems, and is some- -><abstract>
+times referred to as “Voting Theory” instead. It has historical roots -><abstract>
+in 18th century academics’ attempts to determine which voting sys- -><abstract>
+tem was most representative of the will of the electorate, and was -><abstract>
+formalized starting in the 1940’s. Important results include Arrow’s -><abstract>
+theorem and the Gibbard-Satterwaithe theorem. The former shows -><abstract>
+that no single voting system could satisfy 4 axiomatic requirements -><abstract>
+for fairness, while still producing a definite outcome for every elec- -><abstract>
+tion [1]. The latter shows that a similar set of axioms also necessi- -><abstract>
+tated strategic behavior among voters — there is always a potential -><abstract>
+advantage from casting a ballot that differs from your true prefer- -><abstract>
+ences [4]. -><abstract>
+Starting in the early 1990’s, computer scientists began to take an -><abstract>
+interest in social choice. Initial work was concerned with circum- -><abstract>
+venting the impossibility result implied by the Gibbard-Satterwaithe -><abstract>
+theorem using computational hardness. This work showed that, in -><abstract>
+many voting systems, a strategic voter would need to solve an NP- -><abstract>
+Hard problem to determine how best to cast its ballot [2]. -><abstract>
+ -><abstract>
+ -><abstract>
+Y -><unknow>
+X -><title>
+Y -><title>
+Z -><title>
+8 -><pubnum>

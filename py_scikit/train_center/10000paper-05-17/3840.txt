@@ -1,0 +1,34 @@
+Delivering Knowledge to NASA Scientist and Engineers: -><title>
+Using Phrase Matching To Determine Document Similarity -><title>
+Beini Ouyang -><author>
+Department of Computer Science -><affiliation>
+The University of Alabama -><affiliation>
+Box 870290 -><address>
+Tuscaloosa, Al 35487 -><address>
+bouyang@cs.ua.edu -><email>
+Advisor: Dr. Randy K. Smith -><author>
+Categories and Subject Descriptors -><note>
+I.7.5 [Document Capture]: Document analysis -><note>
+H.3.3 [Information Search and Retrieval]: Information filtering, -><note>
+Query formulation, Search process, Selection process. -><note>
+PROBLEM & MOTIVATION -><note>
+Scientist and engineers with the National Aeronautics and Space -><abstract>
+Administration (NASA) deal with hundreds of thousands of -><abstract>
+technical standards from hundreds of technical organizations. -><abstract>
+With such a large scale of technical knowledge available, it can -><abstract>
+be difficult for the individual scientist or engineer to know they -><abstract>
+are examining the most current and relevant information and what -><abstract>
+related knowledge is available. A mechanism is needed to assist -><abstract>
+in answering the following type of questions: -><abstract>
+related to this standard? -><abstract>
+The relationship between standards, training material and lessons -><abstract>
+learned, as depicted in Figure 1, is a valuable source of long-term -><abstract>
+institutional knowledge [1]. -><abstract>
+A lot of work has been done on document search [2, 3], this -><abstract>
+previous work exploits matching strategies to address the issue of -><abstract>
+locating similar documents. These approaches are generally based -><abstract>
+on the frequency of single words across the document corpus. -><abstract>
+These single words may be user supplied keywords or generated -><keyword>
+by indexing the document of interest. Experience has shown that -><degree>
+only searching for the documents by single indexed word -><degree>
+degrades the efficiency and precision of the searching pace once -><degree>

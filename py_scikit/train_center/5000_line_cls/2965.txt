@@ -1,0 +1,7 @@
+Distributed Enterprise Search using Software Agents -><title>
+(Demonstration) -><title>
+Erwin Gunadi, Michael Meder, Till Plumbaum, Christian Scheel, Frank Hopfgartner -><author>
+and Sahin Albayrak -><author>
+Technische Universität Berlin -><affiliation>
+10587 Berlin, Germany -><address>
+{firstname.lastname}@dai-labor.de -><affiliation>

@@ -1,0 +1,18 @@
+A Flexible Approach to Multi-Level Agent-Based -><title>
+Simulation with the Mesoscopic Representation -><title>
+Vincent Corruble -><title>
+Fabien Flacher -><title>
+Thales -><author>
+Laurent Navarro -><affiliation>
+Jean-Daniel Zucker -><affiliation>
+Bondy, France -><address>
+jean-daniel.zucker@ -><email>
+ird.fr -><web>
+Paris, France -><address>
+laurent.navarro@ -><email>
+thalesgroup.com -><web>
+Paris, France -><address>
+vincent.corruble@ -><email>
+lip6.fr -><email>
+fabien.flacher@ -><email>
+thalesgroup.com -><email>

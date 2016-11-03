@@ -1,0 +1,17 @@
+Exploiting Domain Knowledge to Improve Norm Synthesis -><title>
+∗ -><title>
+George Christelis -><author>
+School of Informatics -><affiliation>
+University of Edinburgh -><affiliation>
+Edinburgh EH8 9AB, UK -><address>
+george.christelis@ed.ac.uk -><email>
+Ronald P. A. Petrick -><author>
+School of Informatics -><affiliation>
+University of Edinburgh -><affiliation>
+Edinburgh EH8 9AB, UK -><address>
+r.petrick@ed.ac.uk -><email>
+Michael Rovatsos -><author>
+School of Informatics -><affiliation>
+University of Edinburgh -><affiliation>
+Edinburgh EH8 9AB, UK -><address>
+michael.rovatsos@ed.ac.uk -><email>

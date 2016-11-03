@@ -1,0 +1,7 @@
+Performance Evaluation of Remote Control System -><title>
+with Haptic Media and Video: -><title>
+Position-Force versus Position-Position -><title>
+Tatsuya Watanabe Yutaka Ishibashi Norishige Fukushima Shinji Sugawara -><author>
+Department of Scientific and Engineering Simulation -><affiliation>
+Nagoya Institute of Technology, Nagoya 466–8555, Japan -><affiliation>
+nabe-222@mcl.nitech.ac.jp, ishibasi@nitech.ac.jp, fukushima@nitech.ac.jp, shinji@nitech.ac.jp -><email>

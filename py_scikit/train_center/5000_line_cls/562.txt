@@ -1,0 +1,7 @@
+Walverine: A Walrasian Trading Agent -><title>
+Shih-Fen Cheng, Evan Leung, Kevin M. Lochner, Kevin O’Malley, Daniel M. Reeves, -><author>
+L. Julian Schvartzman, and Michael P. Wellman -><author>
+University of Michigan -><affiliation>
+Artificial Intelligence Laboratory -><affiliation>
+Ann Arbor, MI 48109-2110 USA -><address>
+tac.support@umich.edu -><email>

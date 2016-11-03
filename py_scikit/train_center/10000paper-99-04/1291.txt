@@ -1,0 +1,6 @@
+An Agent-Based System for Email Highlighting -><title>
+Suhayya Abu-Hakima, Connie McFarland, John F. Meech -><author>
+AmikaNow! Corporation -><affiliation>
+320 March Road, Suite 400 -><address>
+Kanata, Ontario, CANADA K2K 2E3 -><address>
+{Suhayya.Abu-Hakima,Connie.McFarland, John.Meech}@AmikaNow.com -><email>

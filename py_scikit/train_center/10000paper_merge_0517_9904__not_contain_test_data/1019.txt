@@ -1,0 +1,16 @@
+Agents Towards Vehicle Routing Problems∗ -><title>
+Antonín Komenda -><author>
+Agent Technology Center -><affiliation>
+Czech Technical University in -><affiliation>
+Prague -><address>
+komenda@agents.felk.cvut.cz -><email>
+Jirˇí Vokrˇínek -><author>
+Agent Technology Center -><affiliation>
+Czech Technical University in -><affiliation>
+Prague -><address>
+vokrinek@agents.felk.cvut.cz -><email>
+Michal Peˇchoucˇek -><author>
+Agent Technology Center -><affiliation>
+Czech Technical University in -><affiliation>
+Prague -><address>
+pechoucek@agents.felk.cvut.cz -><email>

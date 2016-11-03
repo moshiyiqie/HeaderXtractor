@@ -1,0 +1,34 @@
+Franco Zambonelli -><title>
+H. Van Dyke Parunak -><author>
+Altarum -><affiliation>
+3520 Green Ct, Suite 300, -><address>
+Ann Arbor, MI 48105 USA -><address>
+van.parunak@altarum.org -><email>
+franco.zambonelli@unimo.it -><email>
+Categories and Subject Descriptors -><note>
+D.2.2 [Software Engineering]: Design Tools and Techniques; -><note>
+I.2.11 [Artificial Intelligence]: Multiagent Systems; C.2.4 -><note>
+[Computer-Communication Systems]: Distributed Systems. -><note>
+General Terms: Algorithms, Design, Theory -><note>
+The complexity raised in software systems by several emerging -><abstract>
+computing scenarios has moved beyond the capabilities of traditional -><abstract>
+approaches to computer science and software engineering. The -><abstract>
+scenario that will cause the next software crisis is rapidly forming -><abstract>
+under the eyes of everybody: computing systems are going to be -><abstract>
+everywhere, embedded in all our everyday environments, and they -><abstract>
+will be always connected and active [1]. -><abstract>
+development of software systems. Instead, we argue that there will be -><abstract>
+a qualitative change in the characteristics of software systems, as well -><abstract>
+in the methodologies adopted to model and develop them. In -><abstract>
+distinguish future software systems from traditional ones: -><abstract>
+i. situatedness: software components will execute in the context -><abstract>
+of an environment (physical or computational one) and will -><abstract>
+perceive such an environment in terms of environment- -><abstract>
+dependencies in computation [1]. Also, components can -><abstract>
+influence such environment and be influenced by it. -><abstract>
+ii. openness: software systems will be subject to decentralized -><abstract>
+management and will dynamically change their structure: new -><abstract>
+components can be dynamically created or destroyed and, via -><abstract>
+mobility, will be able, to roam in and out the permeable -><abstract>
+boundaries of different software systems. Thus, the problem of -><abstract>
+openness is currently much broader than being simply a -><abstract>

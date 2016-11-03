@@ -1,0 +1,11 @@
+Multi-agent Traffic Simulation For Human-in-the-Loop -><title>
+Cooperative Drive Systems Testing -><title>
+(Demonstration) -><title>
+Daniele Pinotti -><author>
+RE:Lab s.r.l. -><affiliation>
+Reggio Emilia, italy -><affiliation>
+daniele.pinotti@re-lab.it -><author>
+Jiri Vokrinek, Martin Schaefer -><author>
+Department of Computer Science -><affiliation>
+Czech Technical University in Prague -><affiliation>
+{vokrinek, schaefer}@agents.fel.cvut.cz -><email>

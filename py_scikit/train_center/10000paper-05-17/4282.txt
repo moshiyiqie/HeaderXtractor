@@ -1,0 +1,26 @@
+Cross-Layer Comprehensive Intrusion Harm Analysis for -><title>
+Production Workload Server Systems -><title>
+Xiaoqi Jia -><author>
+State Key Laboratory of -><affiliation>
+Information Security, Institute -><affiliation>
+of Software, Chinese -><affiliation>
+Academy of Sciences, China -><affiliation>
+xjia@is.iscas.ac.cn -><email>
+Shengzhi Zhang -><author>
+Department of Computer -><affiliation>
+Science and Engineering, -><affiliation>
+Pennsylvania State University, -><affiliation>
+University Park, USA -><affiliation>
+suz116@psu.edu -><email>
+Jiwu Jing -><author>
+State Key Laboratory of -><affiliation>
+Information Security, Graduate -><degree>
+University of Chinese -><affiliation>
+Academy of Sciences, China -><affiliation>
+jing@is.ac.cn -><email>
+Peng Liu -><author>
+College of Information -><affiliation>
+Sciences and Technology -><affiliation>
+Pennsylvania State University, -><affiliation>
+University Park, USA -><affiliation>
+pliu@ist.psu.edu -><email>

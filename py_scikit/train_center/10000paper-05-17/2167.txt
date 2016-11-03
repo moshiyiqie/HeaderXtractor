@@ -1,0 +1,18 @@
+Your Digital Image: Factors Behind Demographic And -><title>
+Psychometric Predictions From Social Network Profiles -><title>
+(Demonstration) -><title>
+Yoram Bachrach -><author>
+Microsoft Research -><affiliation>
+yobach@microsoft.com -><email>
+Thore Graepel -><author>
+Microsoft Research -><affiliation>
+thoreg@microsoft.com -><email>
+Pushmeet Kohli -><author>
+Microsoft Research -><affiliation>
+pkohli@microsoft.com -><email>
+David Stillwell -><author>
+University of Cambridge -><affiliation>
+ds617@cam.ac.uk -><email>
+Michal Kosinski -><author>
+University of Cambridge -><affiliation>
+mk583@cam.ac.uk -><email>

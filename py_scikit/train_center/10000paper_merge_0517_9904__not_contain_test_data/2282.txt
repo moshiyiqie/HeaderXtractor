@@ -1,0 +1,17 @@
+Possible and Necessary Winner Problem in Social Polls -><title>
+Nina Narodytska -><author>
+University of Toronto -><affiliation>
+Toronto, Canada -><address>
+ninan@cs.toronto.edu -><email>
+Serge Gaspers -><author>
+UNSW and NICTA -><affiliation>
+Sydney, Australia -><address>
+sergeg@cse.unsw.edu.au -><email>
+Victor Naroditskiy -><author>
+University of Southampton -><affiliation>
+Southampton, UK -><address>
+vn@ecs.soton.ac.uk -><email>
+Toby Walsh -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+toby.walsh@nicta.com.au -><email>

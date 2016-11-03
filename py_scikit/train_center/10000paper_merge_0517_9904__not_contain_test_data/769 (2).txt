@@ -1,0 +1,5 @@
+Investigation of Reduction of Traffic Congestion with Route Information Sharing -><title>
+Tomohisa Yamashita Kiyoshi Izumi Koichi Kurumatani -><author>
+Cyber Assist Research Center -><affiliation>
+National Institute of Advanced Industrial Science and Technology -><affiliation>
+tomohisa@carc.aist.go.jp, kiyoshi@ni.aist.go.jp, k.kurumatani@aist.go.jp -><email>

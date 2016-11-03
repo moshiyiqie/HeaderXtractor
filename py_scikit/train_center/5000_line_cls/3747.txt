@@ -1,0 +1,13 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+Adapting a Large Scale Networked Virtual Environment for -><title>
+Display on a PDA -><title>
+Tom Jehaes -><author>
+tom.jehaes@luc.ac.be -><email>
+Peter Quax -><author>
+peter.quax@luc.ac.be -><email>
+Wim Lamotte -><author>
+wim.lamotte@luc.ac.be -><email>
+Expertise Center for Digital Media -><affiliation>
+Limburgs Universitair Centrum -><affiliation>
+Universitaire Campus -><affiliation>
+B-3590 Diepenbeek, Belgium -><address>

@@ -1,0 +1,34 @@
+ACE 2000 Posters -><title>
+Puzzles: A tool for Teaching Knowledge Based Systems -><title>
+Kevin J. Austin, Information Systems Academic Group, Faculty of Mauagement, University of Western Sydney, Blacktown -><author>
+Campus, Locked bag 1, Richmond NSW 2753, Australia. k.austin~uws.edu.au -><address>
+Students have indicated that the waditional method of lecturing was ineffectual, as they lost interest, slxuggled to pay -><abstract>
+attention and attendance rates declined. The traditional method of teaching makes a presumption that the student has little to -><abstract>
+contn'bute to the learning process. Instructions become directives as information isdelivered in a continual stream of facts -><abstract>
+This poster presentation is -><abstract>
+can be used as interactive learnin~ agents for subjects requiring problem solving. Puzzles were viewed as a natural extension -><abstract>
+of knowledge based systems and were inlroduced into the lecture format. -><abstract>
+The puzzles were seen as having two initial benefits. The first benefit is an increase in the participation and interaction of the -><abstract>
+students. Three to four puzzles are employed at various intervals throughout the lecture. The I~ -><abstract>
+minmes in duration. According to Bligh [1] the imroduction of a period of change during the lecture (a period where either a -><abstract>
+short break or a change in the teaching method occurs) can have a positive affect on the level of performance ofthe students -><abstract>
+The second benefit is as a tool to create an environment ofproblem awareness. The puzzles used are a natural extension of -><abstract>
+the learning process in knowledge based systems rather than an intrusion into it. The p-~les require admini~Uation fa level -><abstract>
+of problem solving ability, lateral-th/nlcin~ 'lcillg and ~ p~les -><abstract>
+subject. -><abstract>
+This poster presentation reviews the preliminary survey, and cm'r~t findings, together with a ~rr~le of puzzles, com~e -><abstract>
+material used during the lecture series. -><abstract>
+Keyworde : Interactive l -><keyword>
+Reference: [1] Bfigh, D A (2000) What's the use of Lectures? Jossey-Bass Publishers, San Fra~isco, CA, USA -><keyword>
+Engaging Students in Information Systems Development -><affiliation>
+Ilona Box, Information Systems Academic Group, Faculty of Management, University of Western Sydney, Quakers Hill -><affiliation>
+NSW 2763 Australia. i.box~uws.edn.an -><note>
+The poster descn'bes the forrmdAtion and delivery of an alternative method of instruction of an information system -><note>
+developn~nt (ISD) subject. The method of instruction is non-traditionaL It -><abstract>
+indu~y by sinmlating an information system project. -><abstract>
+Most of the subject's objectives are focused on students being able to build a system, namely, amethod, and the tools and -><abstract>
+techniques of ISD. The remaining objective is applicable to many subjects: selecting criteria for; evaluating based on these -><abstract>
+criteria; reflecting on the evaluation of; and taking action based on the evaluation of; one's own and other's meeHnE, team -><abstract>
+and comL.anication skills as well as the content of tasks. -><abstract>
+ISD had been taught as a traditional lecture with delineated weekly topics. The delivery method ffi'ustrated and questioned the -><abstract>
+beliefs of the lecturer. The lecturer believed espousing wisdom was worthwhile and that the students were "academically -><abstract>

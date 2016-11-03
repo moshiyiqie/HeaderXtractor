@@ -1,0 +1,8 @@
+May -><title>
+Game Logic Portability -><title>
+Ahmed BinSubaih, Steve Maddock, Daniela Romano -><author>
+Department of Computer Science -><affiliation>
+University of Sheffield -><affiliation>
+Regent Court, 211 Portobello Street, Sheffield, U.K. -><address>
++44(0) 114 2221800 -><phone>
+{a.binsubaih, s.maddock, d.romano}@dcs.shef.ac.uk -><email>

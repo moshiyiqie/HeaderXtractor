@@ -1,0 +1,6 @@
+AgentSteel: An agent-based Online System for the -><title>
+Planning and Observation of Steel Production -><title>
+DFKI GmbH -><author>
+Stuhlsatzenhausweg 3 -><affiliation>
+Germany -><address>
+{Sven.Jacobi, Cristian.Madrigal, Esteban.Leon, Klaus.Fischer} @dfki.de -><email>

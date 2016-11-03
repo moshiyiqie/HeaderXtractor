@@ -1,0 +1,11 @@
+Probabilistic Planning with Non-Linear Utility Functions -><title>
+and Worst-Case Guarantees ∗ -><title>
+Alexander Vladimirsky -><author>
+Department of Mathematics -><affiliation>
+Cornell University -><affiliation>
+vlad@math.cornell.edu -><email>
+Stefano Ermon, Carla Gomes, Bart -><author>
+Selman -><author>
+Department of Computer Science -><affiliation>
+Cornell University -><affiliation>
+{ermonste,gomes,selman}@cs.cornell.edu -><email>

@@ -1,0 +1,5 @@
+Analyzing and Improving Linux Kernel Memory Protection: -><title>
+A Model Checking Approach -><title>
+Siarhei Liakh Michael Grace Xuxian Jiang -><author>
+North Carolina State University North Carolina State University North Carolina State University -><affiliation>
+sliakh@ncsu.edu mcgrace@ncsu.edu jiang@cs.ncsu.edu -><email>

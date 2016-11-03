@@ -1,0 +1,20 @@
+Gnutella: Integrating Performance And Security In -><title>
+Fully Decentralized P2P Models -><title>
+Wickus Nienaber -><author>
+Florida State University, -><affiliation>
+Computer Science -><affiliation>
+1004 Academic Way -><address>
+Tallahassee, FL, 32306 USA -><address>
+nienaber@cs.fsu.edu -><email>
+Rossana Motta -><author>
+Florida State University, -><affiliation>
+Computer Science -><affiliation>
+1004 Academic Way -><address>
+Tallahassee, FL, 32306 USA -><address>
+motta@cs.fsu.edu -><email>
+Jon Jenkins -><author>
+Florida State University, -><affiliation>
+Computer Science -><affiliation>
+1004 Academic Way -><address>
+Tallahassee, FL, 32306 USA -><address>
+jenkins@cs.fsu.edu -><email>

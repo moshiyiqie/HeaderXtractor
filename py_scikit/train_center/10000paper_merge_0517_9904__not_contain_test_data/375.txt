@@ -1,0 +1,16 @@
+Single-Model Method for Specifying Multi-Agent Systems -><title>
+Dov Dori -><author>
+Technion - Israel Institute of -><affiliation>
+Technology -><affiliation>
+Haifa 32000, ISRAEL -><address>
+dori@ie.technion.ac.il -><email>
+Arnon Sturm -><author>
+Technion - Israel Institute of -><affiliation>
+Technology -><affiliation>
+Haifa 32000, ISRAEL -><address>
+sturm@tx.technion.ac.il -><email>
+Onn Shehory -><author>
+IBM Haifa Research Lab, Haifa -><affiliation>
+University -><affiliation>
+Haifa 31905, ISRAEL -><address>
+onn@il.ibm.com -><email>

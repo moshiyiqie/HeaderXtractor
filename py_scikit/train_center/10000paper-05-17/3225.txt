@@ -1,0 +1,33 @@
+Poetry Mix-up: A poetry generating system for cultural -><title>
+communication -><title>
+Adrian David Cheok -><author>
+National University of -><affiliation>
+Singapore -><address>
+adriancheok@ -><email>
+mixedrealitylab.org -><affiliation>
+Nimesha Ranasinghe -><author>
+National University of -><affiliation>
+Singapore -><address>
+nimesha@ -><email>
+mixedrealitylab.org -><affiliation>
+Owen Noel Newton -><author>
+Fernando -><author>
+National University of -><affiliation>
+Singapore -><address>
+newtonfernando@ -><email>
+mixedrealitylab.org -><affiliation>
+Kening Zhu -><author>
+National University of -><affiliation>
+Singapore -><address>
+ken@ -><email>
+mixedrealitylab.org -><affiliation>
+Chamari Edirisinghe -><affiliation>
+National University of -><address>
+Singapore -><address>
+chamari@ -><email>
+mixedrealitylab.org -><affiliation>
+Yan Yan Cao -><author>
+National University of -><affiliation>
+Singapore -><address>
+yanyan.cao@ -><email>
+mixedrealitylab.org -><affiliation>

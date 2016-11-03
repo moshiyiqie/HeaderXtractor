@@ -1,0 +1,12 @@
+Defeasible Argumentation for Multi-Agent Planning in -><title>
+Ambient Intelligence Applications -><title>
+Sergio Pajares Ferrando -><author>
+Dpto. de Sistemas Informáticos y Computación -><affiliation>
+Universitat Politècnica de València -><affiliation>
+Camino de Vera, s/n, 46022 Valencia, Spain -><address>
+spajares@dsic.upv.es -><email>
+Eva Onaindia -><email>
+Dpto. de Sistemas Informáticos y Computación -><author>
+Universitat Politècnica de València -><affiliation>
+Camino de Vera, s/n, 46022 Valencia, Spain -><address>
+onaindia@dsic.upv.es -><email>

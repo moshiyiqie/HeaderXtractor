@@ -1,0 +1,11 @@
+An Experimental Evaluation of a Distributed Java Compiler -><title>
+Cindy Norris -><author>
+Department of Computer Science -><affiliation>
+Appalachian State University -><affiliation>
+Boone, NC, USA -><address>
+can@cs.appstate.edu -><email>
+Andrew R. Dalton -><author>
+Department of Computer Science -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC, USA -><address>
+adalton@cs.clemson.edu -><email>

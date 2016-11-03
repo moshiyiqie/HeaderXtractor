@@ -1,0 +1,27 @@
+Analysis Problems for Graphical Dynamical Systems: -><title>
+A Unified Approach Through Graph Predicates -><title>
+Daniel J. Rosenkrantz -><author>
+Computer Science Dept. -><affiliation>
+University at Albany – SUNY -><affiliation>
+Albany, NY 12222, USA -><address>
+drosenkrantz@gmail.com -><email>
+Harry B. Hunt III -><author>
+Computer Science Dept. -><affiliation>
+University at Albany – SUNY -><affiliation>
+Albany, NY 12222, USA -><address>
+hunt@cs.albany.edu -><email>
+Madhav V. Marathe -><author>
+VA Bioinformatics Institute -><affiliation>
+Virginia Tech -><address>
+Blacksburg, VA 24061, USA -><address>
+mmarathe@vbi.vt.edu -><email>
+S. S. Ravi -><author>
+Computer Science Dept. -><affiliation>
+University at Albany – SUNY -><affiliation>
+Albany, NY 12222, USA -><address>
+sravi@albany.edu -><email>
+Richard E. Stearns -><author>
+Computer Science Dept. -><affiliation>
+University at Albany – SUNY -><affiliation>
+Albany, NY 12222, USA -><address>
+rstearns@albany.edu -><email>

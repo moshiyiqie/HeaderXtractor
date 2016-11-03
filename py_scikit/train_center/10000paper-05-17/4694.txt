@@ -1,0 +1,6 @@
+Extended Interface Grammars for Automated Stub -><note>
+Generation∗ -><title>
+Graham Hughes and Tevfik Bultan -><author>
+Computer Science Department -><affiliation>
+University of California -><affiliation>
+Santa Barbara, CA 93106, USA{graham,bultan}@cs.ucsb.edu -><email>

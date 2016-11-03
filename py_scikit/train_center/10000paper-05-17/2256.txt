@@ -1,0 +1,4 @@
+Constrained Scheduling of Robot Exploration Tasks -><title>
+Max Korein, Brian Coltin, Manuela Veloso -><author>
+mkorein@cmu.edu, vcoltin@cmu.edu, veloso@cmu.edu -><email>
+Robotics Institute and Computer Science Department, Carnegie Mellon University, Pittsburgh, USA -><affiliation>

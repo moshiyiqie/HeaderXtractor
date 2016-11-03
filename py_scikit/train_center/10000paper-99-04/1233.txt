@@ -1,0 +1,8 @@
+Reverse Engineering of Soar Agents -><title>
+Anthony J Hirst -><author>
+Department of Telematics, -><affiliation>
+Open University, -><affiliation>
+Walton Hall, Milton Keynes, -><address>
+MK7 6AA, UK -><address>
++44 1908 652789 -><phone>
+a.j.hirst@open.ac.uk -><email>

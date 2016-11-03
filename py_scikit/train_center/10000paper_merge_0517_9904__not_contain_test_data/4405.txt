@@ -1,0 +1,8 @@
+Crossover: Secure and Usable User Interface for Mobile -><title>
+Devices With Multiple Isolated OS Personalities -><title>
+Matthias Lange -><author>
+mlange@sec.t-labs.tu-berlin.de -><affiliation>
+Steffen Liebergeld -><author>
+steffen@sec.t-labs.tu-berlin.de -><author>
+Security in Telecommunications -><affiliation>
+Technische Universität Berlin -><affiliation>

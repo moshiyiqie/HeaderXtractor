@@ -1,0 +1,34 @@
+for Broadband Wireless Access Network -><title>
+Y. B. Reddy (Research Advisor) -><author>
+Professor, Dept of Math and Computer Science -><affiliation>
+Grambling State University, Grambling, LA 71245 -><affiliation>
+ybreddy@gram.edu -><email>
+Aisha Kigongo (Undergraduate Student) -><author>
+Department of Math and Computer Science -><affiliation>
+Grambling State University, Grambling, LA 71245 -><affiliation>
+aishakigongo@yahoo.com -><email>
+PROBLEM AND MOTIVATION -><affiliation>
+The crux of the problem is the interference in -><abstract>
+Broadband fixed wireless networks. The number -><abstract>
+of wireless channels is usually limited and the -><abstract>
+channels are reused. Reusing channels causes -><abstract>
+co-channel and adjacent channel interference, -><abstract>
+which will degrade the Signal to Noise Ratio of -><abstract>
+received packets and the throughput of a -><abstract>
+Broadband fixed wireless network. Recently, -><abstract>
+stochastic and machine learning models were -><abstract>
+used to reduce or eliminate the interference -><abstract>
+between the channels. Recent research [1-7] -><abstract>
+encourages that genetic algorithms can be used -><abstract>
+in channel allocation and interference avoidance. -><abstract>
+In this research, we used a simple genetic -><abstract>
+algorithm for selection of the best channel -><abstract>
+among the free and available channels at a given -><affiliation>
+access point. -><affiliation>
+BACKGROUND AND RELATED -><abstract>
+WORK -><abstract>
+Wireless cellular networks are bandwidth and -><abstract>
+power limited. A finite frequency spectrum is -><abstract>
+available for provision of commercial services. -><affiliation>
+Based on the service requirements, the allocated -><abstract>
+spectrum is divided into a number of channels. -><abstract>

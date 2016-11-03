@@ -1,0 +1,10 @@
+A Probabilistic Approach to Resource Allocation in -><title>
+Distributed Fusion Systems -><title>
+Gregor Pavlin -><author>
+Informatics Institute, Faculty of Science -><affiliation>
+University of Amsterdam -><affiliation>
+gpavlin@science.uva.nl -><email>
+Jan R. J. Nunnink -><author>
+Informatics Institute, Faculty of Science -><affiliation>
+University of Amsterdam -><affiliation>
+jnunnink@science.uva.nl -><email>

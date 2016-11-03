@@ -1,0 +1,10 @@
+Analysis of the Communication between Colluding -><title>
+Applications on Modern Smartphones -><title>
+Claudio Marforio†, Hubert Ritzdorf†, -><author>
+Aurélien Francillon‡, Srdjan Capkun† -><author>
+†Institute of Information Security -><affiliation>
+‡Networking and Security Group -><affiliation>
+ETH Zurich, Switzerland -><address>
+{maclaudi,rihubert,capkuns}@inf.ethz.ch -><email>
+Eurecom, Sophia-Antipolis, France -><author>
+aurelien.francillon@eurecom.fr -><email>

@@ -1,0 +1,10 @@
+A SAT-Based Procedure for Verifying Finite State Machines -><title>
+in ACL2 -><title>
+Erik Reeber -><author>
+University of Texas at Austin -><affiliation>
+Department of Computer Sciences -><affiliation>
+reeber@cs.utexas.edu -><email>
+Warren A. Hunt, Jr. -><author>
+University of Texas at Austin -><affiliation>
+Department of Computer Sciences -><affiliation>
+hunt@cs.utexas.edu -><email>

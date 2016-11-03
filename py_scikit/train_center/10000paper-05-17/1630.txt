@@ -1,0 +1,17 @@
+Stigmergic Coverage Algorithm for Multi-Robot Systems -><title>
+(Demonstration) -><title>
+Bijan Ranjbar-Sahraei -><author>
+Maastricht University -><affiliation>
+Gerhard Weiss -><author>
+Maastricht University -><affiliation>
+Ali Nakisaee -><author>
+National Organization for -><affiliation>
+PO Box 616, 6200 MD -><address>
+PO Box 616, 6200 MD -><address>
+Development of Exceptional Talents -><affiliation>
+Maastricht, The Netherlands -><address>
+Maastricht, The Netherlands -><address>
+(NODET), Shiraz, Iran -><address>
+b.ranjbar@ieee.org -><email>
+gerhard.weiss@maastrichtuniversity.nl -><affiliation>
+ali.n123@gmail.com -><email>

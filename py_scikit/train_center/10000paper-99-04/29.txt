@@ -1,0 +1,23 @@
+A Hybrid Mobile Robot Architecture -><title>
+with Integrated Planning and Control -><title>
+Marcelo H. Ang, Jr. -><author>
+Dept. Mechanical Engineering -><affiliation>
+National University of -><affiliation>
+Singapore -><address>
+10 Kent Ridge Crescent -><address>
+Singapore 119260, Singapore -><address>
+mpeangh@nus.edu.sg -><email>
+Wee Kheng Leow -><author>
+Dept. Computer Science -><affiliation>
+National University of -><affiliation>
+Singapore -><address>
+3 Science Drive 2 -><address>
+Singapore 117543, Singapore -><address>
+leowwk@comp.nus.edu.sg -><email>
+Kian Hsiang Low -><author>
+Dept. Computer Science -><affiliation>
+National University of -><affiliation>
+Singapore -><address>
+3 Science Drive 2 -><address>
+Singapore 117543, Singapore -><address>
+lowkianh@comp.nus.edu.sg -><email>

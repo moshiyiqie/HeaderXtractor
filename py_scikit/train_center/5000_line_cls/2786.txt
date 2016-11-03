@@ -1,0 +1,6 @@
+Automatic Rule Identification for Agent-Based Crowd -><title>
+Models Through Gene Expression Programming -><title>
+Jinghui Zhong1, Linbo Luo1, Wentong Cai1, Michael Lees2 -><author>
+1School of Computer Engineering, Nanyang Technological University, Singapore -><affiliation>
+2Section Computational Science, University of Amsterdam, Netherlands -><affiliation>
+{jinghuizhong, lbluo, aswtcai}@ntu.edu.sg, m.h.lees@uva.nl -><email>

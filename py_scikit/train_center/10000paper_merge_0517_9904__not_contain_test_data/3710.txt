@@ -1,0 +1,7 @@
+Project Management for the 21st Century: -><pubnum>
+Supporting Collaborative Design through Risk Analysis -><title>
+Jamie L. Smith Shawn A. Bohner D. Scott McCrickard -><author>
+Center for Human-Computer Interaction and Department of Computer Science -><affiliation>
+Virginia Polytechnic Institute and State University, Blacksburg, VA 24061-0106 USA -><address>
+540-231-7409 -><phone>
+jls05@vt.edu sbohner@vt.edu mccricks@cs.vt.edu -><email>

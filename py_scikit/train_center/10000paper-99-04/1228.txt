@@ -1,0 +1,14 @@
+From One Virtual Actor to Virtual Crowds: -><title>
+Requirements and Constraints -><title>
+Soraia Raupp Musse -><author>
+Daniel Thalmann -><author>
+Computer Graphics Lab. -><author>
+Computer Graphics Lab. -><affiliation>
+Swiss Federal Institute of Technology -><affiliation>
+EPFL, DI-LIG, CH 1015 Lausanne, Switzerland -><address>
+http://ligwww.epfl.ch -><web>
+thalmann @ lig.di.epfl.ch -><email>
+Swiss Federal Institute of Technology -><affiliation>
+EPFL, DI-LIG, CH 1015 Lausanne, Switzerland -><address>
+http://ligwww.epfl.ch -><web>
+soraia @ lig.di.epfl.ch -><email>

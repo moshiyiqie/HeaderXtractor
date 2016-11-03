@@ -1,0 +1,8 @@
+Meta-BCS: A Novel Way to BCS Ranking -><title>
+Using Generalized Regression Neural Network and -><title>
+Genetic Algorithm -><title>
+Lei Zhang Haiquan Chen -><author>
+Department of Computer Science Department of Computer Science -><affiliation>
+and Software Engineering and Software Engineering -><affiliation>
+Auburn University, AL 36849-5347 Auburn University, AL 36849-5347 -><affiliation>
+zhangl3@auburn.edu chenhai@auburn.edu -><email>

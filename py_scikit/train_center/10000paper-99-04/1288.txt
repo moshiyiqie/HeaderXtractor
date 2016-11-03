@@ -1,0 +1,8 @@
+Building Agents for Service Provisioning -><title>
+Out of Components -><title>
+Ralf Sesseler -><author>
+DAI-Lab, TU Berlin -><affiliation>
+Sekr. FR 6-7, Franklinstr. 28/29 -><address>
+D-10587 Berlin, Germany -><address>
++49 (0)30 314-21763 -><phone>
+sesseler@cs.tu-berlin.de -><email>

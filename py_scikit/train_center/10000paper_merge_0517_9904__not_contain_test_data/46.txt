@@ -1,0 +1,17 @@
+Incentive Compatible Mechanism for Trust Revelation -><title>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+sandholm@cs.cmu.edu -><email>
+Sviatoslav Braynov -><author>
+Department of Computer Science and -><affiliation>
+Engineering -><affiliation>
+University at Buffalo -><affiliation>
+Buffalo, NY 14260 -><address>
+sbraynov@cse.buffalo.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Distributed Artificial Intelligence]: Multiagent -><unknow>
+Systems -><unknow>
+General Terms -><title>
+Theory, Economics -><degree>

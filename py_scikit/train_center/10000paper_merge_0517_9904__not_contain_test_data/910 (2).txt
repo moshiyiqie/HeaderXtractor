@@ -1,0 +1,22 @@
+Multiobjective Particle Swarm Optimization -><title>
+Gerry Dozier -><author>
+Department ofComputer -><affiliation>
+Science and Software -><affiliation>
+Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, Alabama 36849 -><affiliation>
+gvdozier@eng.auburn.edu -><email>
+Richard Chapman -><author>
+Department ofComputer -><affiliation>
+Science and Software -><affiliation>
+Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, Alabama 36849 -><affiliation>
+chapman@eng, auburn.edu -><email>
+Jacqueline Moore -><author>
+Department ofComputer -><affiliation>
+Science and Software -><affiliation>
+Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, Alabama 36849 -><affiliation>
+jmoore@eng.aubum.edu -><email>

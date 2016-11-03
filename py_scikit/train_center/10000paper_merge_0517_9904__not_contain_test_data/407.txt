@@ -1,0 +1,13 @@
+A Multi-Agent System for the Quantitative Simulation of -><title>
+Biological Networks -><title>
+William Gillis and Carl Schmidt -><author>
+Animal and Food Sciences Dept. -><affiliation>
+University of Delaware -><affiliation>
+Newark, DE 19716, USA. -><address>
+fkerouac,schmidtcg@udel.edu -><email>
+Salim Khan y , Ravi Makkena y, -><author>
+Foster McGeary and Keith Decker -><author>
+Computer and Information Sciences Dept. -><affiliation>
+University of Delaware -><affiliation>
+Newark, DE 19716, USA. -><address>
+fskhan,makkena,mcgeary,deckerg@cis.udel.edu -><email>

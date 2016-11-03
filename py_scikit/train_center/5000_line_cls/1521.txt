@@ -1,0 +1,23 @@
+Reconciling Ontological Differences -><title>
+by Assistant Agents -><title>
+Leon Sterling -><author>
+The University of Melbourne -><affiliation>
+Department of Computer Science -><affiliation>
+and Software Engineering -><affiliation>
+Victoria, 3010, Australia -><address>
++61 3 8344 1404 -><phone>
+leon@cs.mu.oz.au -><email>
+Kuldar Taveter -><author>
+The University of Melbourne -><affiliation>
+Department of Computer Science -><affiliation>
+and Software Engineering -><affiliation>
+Victoria, 3010, Australia -><address>
++61 3 8344 1403 -><phone>
+kuldar@cs.mu.oz.au -><email>
+Kendall Lister -><author>
+The University of Melbourne -><affiliation>
+Department of Computer Science -><affiliation>
+and Software Engineering -><affiliation>
+Victoria, 3010, Australia -><address>
++61 3 8344 1418 -><phone>
+krl@cs.mu.oz.au -><email>

@@ -1,0 +1,11 @@
+The Shared Assignment Game and Applications to Pricing -><title>
+in Cloud Computing -><title>
+Gideon Blocq∗ -><author>
+Technion -><author>
+gideon@tx.technion.ac.il -><email>
+Yoram Bachrach -><author>
+Microsoft Research -><affiliation>
+yobach@microsoft.com -><email>
+Peter Key -><author>
+Microsoft Research -><affiliation>
+peter.key@microsoft.com -><email>

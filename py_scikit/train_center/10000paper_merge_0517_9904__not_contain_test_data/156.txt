@@ -1,0 +1,7 @@
+MACE3J: Fast Flexible Distributed Simulation of Large, -><title>
+Large-Grain Multi-Agent Systems -><title>
+Les Gasser Kelvin Kakugawa -><author>
+Graduate School of Library and Information Science -><affiliation>
+University of Illinois at Urbana-Champaign -><affiliation>
+Champaign, IL 61820, USA -><address>
+{gasser, kakugawa}@uiuc.edu -><email>

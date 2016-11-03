@@ -1,0 +1,14 @@
+Decentralised stable coalition formation among energy -><title>
+consumers in the smart grid -><title>
+(Demonstration) -><title>
+Alex Rogers -><author>
+Agents, Interaction and Complexity Group -><affiliation>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton,UK -><affiliation>
+acr@ecs.soton.ac.uk -><email>
+Filippo Bistaffa, -><author>
+Alessandro Farinelli, -><author>
+Meritxell Vinyals -><author>
+Department of Computer Science -><affiliation>
+University of Verona, Italy -><affiliation>
+{meritxell.vinalssalgado,alessandro.farinelli}@univr.it -><email>

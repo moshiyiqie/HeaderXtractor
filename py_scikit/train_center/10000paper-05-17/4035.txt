@@ -1,0 +1,7 @@
+BARA: A Sender Based Rate Adaptation in Wireless -><title>
+Networks -><title>
+Shaoen Wu, Saa^d Biaz, Bing Qi, Kehao Zhang -><author>
+Auburn University -><affiliation>
+Computer Science and Software Engineering Department -><affiliation>
+107 Dunstan Hall, Auburn University, AL, 36849-5347, USA -><affiliation>
+{wushaoe, biazsaa, qibing1, zhangke}@eng.auburn.edu -><email>

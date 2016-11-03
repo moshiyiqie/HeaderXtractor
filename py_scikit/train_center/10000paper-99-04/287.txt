@@ -1,0 +1,14 @@
+Elicitation of User Preferences for Multi-attribute -><title>
+Negotiation -><title>
+Yutao Guo, Jo¨rg P. Mu¨ller -><author>
+Intelligent Autonomous Systems -><affiliation>
+Siemens AG, Corporate Technology -><affiliation>
+81730 Munich, Germany -><address>
+Christof Weinhardt -><author>
+Department of Economics and -><affiliation>
+Business Engineering -><affiliation>
+University of Karlsruhe -><affiliation>
+76131 Karlsruhe, Germany -><address>
+weinhardt@iw.uni-karlsruhe.de -><email>
+{yutao.guo.external, joerg.mueller} -><email>
+@mchp.siemens.de -><email>

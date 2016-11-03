@@ -1,0 +1,21 @@
+Autonomous Fault Detection in Self-Healing Systems: -><title>
+Comparing Hidden Markov Models and Artificial Neural -><title>
+Networks -><title>
+Chris Schneider -><author>
+University of St Andrews -><affiliation>
+School of Computer Science -><affiliation>
+Fife, Scotland -><address>
+chris.schneider@ -><email>
+st-andrews.ac.uk -><email>
+Simon Dobson -><author>
+University of St Andrews -><affiliation>
+School of Computer Science -><affiliation>
+Fife, Scotland -><address>
+simon.dobson@ -><email>
+st-andrews.ac.uk -><email>
+Adam Barker -><author>
+University of St Andrews -><affiliation>
+School of Computer Science -><affiliation>
+Fife, Scotland -><address>
+adam.barker@ -><email>
+st-andrews.ac.uk -><email>

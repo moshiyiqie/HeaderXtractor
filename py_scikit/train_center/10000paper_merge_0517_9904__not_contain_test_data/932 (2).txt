@@ -1,0 +1,23 @@
+Addressing the Middleware Configuration Challenges -><title>
+using Model-based Techniques∗ -><title>
+Balachandran Natarajan -><author>
+Institute for Software -><affiliation>
+Integrated Systems -><affiliation>
+Vanderbilt University -><affiliation>
+Box 1829, Station B -><address>
+Nashville, TN 37235 -><address>
+b.natarajan@vanderbilt.edu -><email>
+Aniruddha Gokhale -><author>
+Institute for Software -><affiliation>
+Integrated Systems -><affiliation>
+Vanderbilt University -><affiliation>
+Box 1829, Station B -><address>
+Nashville, TN 37235 -><address>
+a.gokhale@vanderbilt.edu -><email>
+Emre Turkay -><author>
+Institute for Software -><affiliation>
+Integrated Systems -><affiliation>
+Vanderbilt University -><affiliation>
+Box 1829, Station B -><address>
+Nashville, TN 37235 -><address>
+emre.turkay@vanderbilt.edu -><email>

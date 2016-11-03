@@ -1,0 +1,6 @@
+Policy Driven Systems for Dynamic Security Reconfiguration -><title>
+Juan Jim Tan, Stefan Poslad, Yanmin Xi -><author>
+Department of Electronic Engineering -><affiliation>
+Queen Mary, University of London -><affiliation>
+Mile End Road, London E1 4NS, UK -><address>
+{juanjim.tan, stefan.poslad, yanmin.xi}@elec.qmul.ac.uk -><email>

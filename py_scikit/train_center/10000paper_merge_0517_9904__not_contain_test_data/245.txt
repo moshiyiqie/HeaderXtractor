@@ -1,0 +1,6 @@
+A study on the termination of negotiation dialogues -><title>
+Paolo Torroni -><author>
+DEIS, Universita` di Bologna -><affiliation>
+V.le Risorgimento 2 -><address>
+40136 Bologna, Italy -><address>
+ptorroni@deis.unibo.it -><email>

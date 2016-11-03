@@ -1,0 +1,20 @@
+Human-like Memory Retrieval Mechanisms for Social -><title>
+Companions -><title>
+João Dias -><author>
+INESC-ID, IST, Taguspark, -><affiliation>
+Porto Salvo, Portugal -><address>
+joao.dias@gaips.inesc- -><email>
+id.pt -><email>
+Wan Ching Ho -><author>
+Department of Computing -><affiliation>
+Science, -><email>
+University of Hertsfordshire, -><affiliation>
+England, UK -><address>
+w.c.ho@herts.ac.uk -><email>
+Mei Yii Lim, Ruth Aylett, -><author>
+Patricia A. Vargas -><author>
+School of Mathematical and -><affiliation>
+Computer Sciences -><affiliation>
+Heriot-Watt University, UK -><affiliation>
+{M.Lim, ruth, -><email>
+P.A.Vargas}@hw.ac.uk -><email>

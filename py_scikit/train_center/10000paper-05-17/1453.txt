@@ -1,0 +1,5 @@
+Scaling Simulation-Based Game Analysis through -><title>
+Deviation-Preserving Reduction -><title>
+Bryce Wiedenbeck and Michael P. Wellman -><author>
+University of Michigan -><affiliation>
+{btwied,wellman}@umich.edu -><email>

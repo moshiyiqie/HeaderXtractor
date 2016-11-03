@@ -1,0 +1,8 @@
+Developing Trust in Recommender Agents -><title>
+Miquel Montaner, Beatriz Lo´pez, Josep Lluı´s de la Rosa -><author>
+Institut d’Informa`tica i Aplicacions -><affiliation>
+Agents Research Laboratory -><affiliation>
+Universitat de Girona -><affiliation>
+Campus Montilivi -><address>
+17071 Girona, Spain -><address>
+mmontane,blopez,peplluis@eia.udg.es -><email>

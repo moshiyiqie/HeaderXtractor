@@ -1,0 +1,12 @@
+Automatic information extraction from the Web: Case -><title>
+study with recipes -><title>
+King-Ip Lin -><author>
+Department of Computer Science -><affiliation>
+University of Memphis -><affiliation>
+Memphis, TN 38152, USA -><address>
+Neva Smith -><author>
+Department of Computer Science -><affiliation>
+University of Memphis -><affiliation>
+Memphis, TN 38152, USA -><address>
+Neva.smith@gmail.com -><email>
+davidlin@memphis.edu -><email>

@@ -1,0 +1,11 @@
+CASA: A Distributed Holonic Multiagent Architecture -><title>
+for Timber Production -><title>
+Andreas Gerber, Nils Kammenhuber, Matthias Klusch -><author>
+German Research Center for Artificial Intelligence -><affiliation>
++49 681 302 5010 -><phone>
+{agerber, hirvi, klusch}@dfki.de -><email>
+Categories & Descriptors: D.1.3 Concurrent Programming--- -><keyword>
+Distributed programming, C.2.4 Distributed Systems--- -><keyword>
+Distributed applications, H.5.2 User Interfaces---user centered -><keyword>
+design -><keyword>
+General Terms: Design, Algorithms, Human Factors -><keyword>

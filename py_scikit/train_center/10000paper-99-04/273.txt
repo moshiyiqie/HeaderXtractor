@@ -1,0 +1,12 @@
+Proposal of a Script Language for Embodied Conversational -><title>
+Agents as Asynchronous Conversational Media -><author>
+Graduate School of Information Science, Nara Institute of Science and Technology, -><affiliation>
+8916-5 Takayama-cho, Ikoma-city, Nara 630-0101, JAPAN -><address>
++81 743 72 5265 -><phone>
+ATR Media Information Science Laboratories, -><affiliation>
+2-2-2 Seika-cho, Soraku-gun, Kyoto 619-0288, JAPAN -><address>
++81 774 95 1486 -><phone>
+ National Institute of Informatics, -><affiliation>
+2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, JAPAN -><address>
++81 3 4212 2543 -><phone>
+toru@atr.co.jp takeda@nii.ac.jp -><email>

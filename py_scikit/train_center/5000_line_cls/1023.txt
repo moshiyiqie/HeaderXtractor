@@ -1,10 +1,12 @@
-An Empirical Assessment of Using Stereotypes to Improve Reading Techniques -><abstract>
-in Software Inspections -><abstract>
-Miroslaw Staron, Ludwik Kuzniarz, Christian Thurn -><abstract>
-Department of Systems and Software Engineering -><abstract>
-School of Engineering -><abstract>
-Blekinge Institute of Technology -><affiliation>
-Box 520, Soft Center -><abstract>
-SE-372 25 Ronneby, Sweden -><abstract>
-(Miroslaw.Staron, Ludwik.Kuzniarz)@bth.se, Christian.Thurn@ipbolaget.com -><email>
-63 -><abstract>
+Balancing Conflict and Cost in the Selection of Negotiation -><title>
+Opponents -><title>
+Michael Luck -><author>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton, UK -><address>
+mml@ecs.soton.ac.uk -><email>
+Steve Munroe -><author>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton, UK -><address>
+sjm@ecs.soton.ac.uk -><email>

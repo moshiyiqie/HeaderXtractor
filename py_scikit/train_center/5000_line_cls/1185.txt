@@ -1,0 +1,6 @@
+On the Meta-Logic of Arguments -><title>
+Michael Wooldridge∗ Peter McBurney∗ Simon Parsons† -><author>
+∗Dept of Computer Science †Dept of Computer and Information Science -><affiliation>
+University of Liverpool Brooklyn College, CUNY -><address>
+Liverpool L69 7ZF, U.K. Brooklyn, 11210 NY, USA -><address>
+mjw,peter@csc.liv.ac.uk parsons@sci.brooklyn.cuny.edu -><email>

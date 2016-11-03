@@ -1,0 +1,9 @@
+Strategic Deception in Agents -><title>
+R. Michael Young -><author>
+North Carolina State University -><affiliation>
+Department of Computer Science -><affiliation>
+young@csc.ncsu.edu -><email>
+David Christian -><author>
+North Carolina State University -><affiliation>
+Department of Computer Science -><affiliation>
+dbchrist@unity.ncsu.edu -><email>

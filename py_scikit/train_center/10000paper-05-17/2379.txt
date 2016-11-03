@@ -1,0 +1,5 @@
+Stackelberg Games for Vaccine Design -><title>
+Swetasudha Panda and Yevgeniy Vorobeychik -><author>
+Vanderbilt University -><affiliation>
+Nashville, TN -><address>
+{swetasudha.panda, yevgeniy.vorobeychik}@vanderbilt.edu -><email>

@@ -1,0 +1,10 @@
+TrueErase: Per-File Secure Deletion -><title>
+for the Storage Data Path -><title>
+Geoff Kuenning -><author>
+Harvey Mudd -><affiliation>
+College -><affiliation>
+geoff@cs.hmc.edu -><email>
+Sarah Diesburg, Christopher Meyers, Mark Stanovich, Michael Mitchell, Justin -><author>
+Marshall, Julia Gould, and An-I Andy Wang -><author>
+Florida State University -><affiliation>
+{diesburg, meyers, stanovic, mitchell, jmarshal, gould, awang}@cs.fsu.edu -><email>

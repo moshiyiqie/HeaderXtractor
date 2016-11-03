@@ -1,0 +1,8 @@
+The Autonomous Sciencecraft Experiment -><title>
+Onboard the EO-1 Spacecraft -><title>
+Daniel Tran, Steve Chien, Rob Sherwood, Rebecca Castano, Benjamin Cichy, -><author>
+Ashley Davies, Gregg Rabideau -><author>
+Jet Propulsion Laboratory, California Institute of Technology -><affiliation>
+4800 Oak Grove Dr. -><address>
+Pasadena, CA 91109 -><address>
+Firstname.Lastname@jpl.nasa.gov -><email>

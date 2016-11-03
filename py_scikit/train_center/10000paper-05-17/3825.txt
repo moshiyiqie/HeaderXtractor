@@ -1,0 +1,14 @@
+First Year Experiences of NSF REU Grant: -><title>
+Emerging Issues in Computer Networking -><title>
+Stan Kurkovsky -><author>
+Columbus State University -><affiliation>
+4225 University Avenue -><affiliation>
+Columbus, GA 31906 -><address>
+1-706-565-3520 -><phone>
+Kurkovsky_Stan@colstate.edu -><email>
+Bhagyavati -><author>
+Columbus State University -><affiliation>
+4225 University Avenue -><affiliation>
+Columbus, GA 31906 -><address>
+1-706-565-3519 -><phone>
+Bhagyavati@colstate.edu -><email>

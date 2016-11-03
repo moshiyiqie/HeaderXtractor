@@ -1,0 +1,18 @@
+Strategic Considerations in the Design of Committees -><title>
+Michael Wooldridge -><author>
+Department of -><affiliation>
+Computer Science -><affiliation>
+University of Oxford, UK -><affiliation>
+mjw@cs.ox.ac.uk -><email>
+Edith Elkind -><author>
+School of Physical and -><affiliation>
+Mathematical Sciences -><unknow>
+Nanyang Technological -><author>
+University, Singapore -><affiliation>
+eelkind@ntu.edu.sg -><email>
+Dmitrii Pasechnik -><unknow>
+School of Physical and -><degree>
+Mathematical Sciences -><degree>
+Nanyang Technological -><degree>
+University, Singapore -><affiliation>
+dima@ntu.edu.sg -><email>

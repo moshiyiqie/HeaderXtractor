@@ -1,0 +1,12 @@
+A Framework for Designing Benchmarks of Investigating Digital -><title>
+Forensics Tools for Mobile Devices -><title>
+Hongmei Chi -><author>
+Florida Agricultural and Mechanical University -><affiliation>
+Department of Computer and Information Sciences, -><affiliation>
+Tallahassee, FL 32307-5100 -><address>
+hchi@cis.famu.edu -><email>
+Maynard Yates -><author>
+Florida Agricultural and Mechanical University -><affiliation>
+Department of Computer and Information Sciences, -><affiliation>
+Tallahassee, FL 32307-5100 -><address>
+maynard1.yates@famu.edu -><email>

@@ -1,0 +1,6 @@
+A Logical Approach for Describing (Dis)Belief Change and Message Processing -><title>
+Laurent Perrussel Jean-Marc Thévenin -><author>
+IRIT-Université Toulouse 1 -><affiliation>
+Manufacture des Tabacs – 21,allée de Brienne -><address>
+F-31042 Toulouse Cedex - France -><address>
+E-mail: {laurent.perrussel,jean-marc.thevenin}@univ-tlse1.fr -><email>

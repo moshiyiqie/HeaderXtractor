@@ -1,0 +1,6 @@
+Multi-Agent Physical A Using Large Pheromones -><title>
+Ariel Felner, Yaron Shoshani, Israel A. Wagner and Alfred M. Bruckstein -><author>
+Department of Computer Science -><affiliation>
+Bar Ilan University -><affiliation>
+Ramat Gan, Israel -><address>
+{felner,shoshai}@cs.biu.ac.il -><email>

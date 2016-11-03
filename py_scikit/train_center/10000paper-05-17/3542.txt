@@ -1,0 +1,7 @@
+Digital Democracy Simulation : A Prototype Development -><title>
+Medha S. Sarkar -><author>
+Department of Computer Science -><affiliation>
+Middle Tennessee State University -><affiliation>
+Murfreesboro, TN 37132 -><address>
+615 904 8296 -><phone>
+msarkar@mtsu.edu -><email>

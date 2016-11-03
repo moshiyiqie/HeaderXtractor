@@ -1,0 +1,7 @@
+Tensor Reduction for User Profiling in Personalized -><title>
+Recommender Systems -><title>
+Xiaoyu Tang, Yue Xu, Shlomo Geva -><author>
+Science and Engineering Faculty, -><affiliation>
+Queensland University of Technology, -><affiliation>
+Brisbane, Australia -><address>
+xiaoyu.tang@connect.qut.edu.au, {yue.xu, s.geva}@qut.edu.au -><email>

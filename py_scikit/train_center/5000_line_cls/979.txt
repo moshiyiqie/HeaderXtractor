@@ -1,0 +1,12 @@
+Communication -><title>
+Distributed -><title>
+Jiaying -><author>
+Department -><affiliation>
+University -><affiliation>
+Amherst, -><address>
+{jyshen, -><keyword>
+Categories -><keyword>
+I.2.11 -><keyword>
+General -><keyword>
+DESIGN, -><keyword>
+Keywords -><keyword>

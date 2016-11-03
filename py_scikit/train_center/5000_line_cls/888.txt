@@ -1,0 +1,9 @@
+Mobile multi-agent systems: a programming language and its semantics -><title>
+Alexandru Suna -><author>
+Amal El Fallah-Seghrouchni -><author>
+LIP6 - UMR7606 and University of Paris 6 -><affiliation>
+{Amal.Elfallah, Alexandru.Suna}@lip6.fr -><email>
+Christophe Fouquere´ -><author>
+Patrick Baillot -><author>
+LIPN - UMR7030 and University of Paris 13 -><affiliation>
+{cf, pb}@lipn.univ-paris13.fr -><email>

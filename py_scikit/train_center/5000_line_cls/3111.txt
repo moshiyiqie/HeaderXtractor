@@ -1,0 +1,11 @@
+Softgoal-based Plan Selection in Model-driven BDI Agents -><title>
+Michael Luck -><author>
+Department of Informatics -><affiliation>
+King’s College London -><affiliation>
+London, UK -><address>
+michael.luck@kcl.ac.uk -><email>
+Ingrid Nunes -><author>
+Instituto de Informática -><affiliation>
+Universidade Federal do Rio Grande do Sul -><affiliation>
+Porto Alegre, Brazil -><address>
+ingridnunes@inf.ufrgs.br -><email>

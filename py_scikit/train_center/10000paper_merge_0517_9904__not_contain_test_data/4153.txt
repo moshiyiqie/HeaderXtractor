@@ -1,0 +1,19 @@
+Campus Directions -><title>
+Tucker Watson -><author>
+Clemson University -><affiliation>
+Comp. Science, 100 McAdams -><address>
+Clemson, SC 29634-0974 -><address>
+1 (864) 656-3444 -><phone>
+tuckerw@clemson.edu -><email>
+Tim Hammond -><author>
+Clemson University -><affiliation>
+Comp. Science, 100 McAdams -><address>
+Clemson, SC 29634-0974 -><address>
+1 (864) 656-3444 -><phone>
+thammon@clemson.edu -><email>
+Will Pressly -><author>
+Clemson University -><affiliation>
+Comp. Science, 201 McAdams -><address>
+Clemson, SC 29634-0974 -><address>
+1 (864) 656-3444 -><phone>
+wpressl@clemson.edu -><email>

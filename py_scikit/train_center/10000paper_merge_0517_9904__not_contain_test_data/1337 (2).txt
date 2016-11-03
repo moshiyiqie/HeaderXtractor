@@ -1,0 +1,11 @@
+Agents Teaching Agents to Share Meaning -><title>
+Zijian Ren -><author>
+University of Iowa -><affiliation>
+Department of Electrical and Computer Engineering -><affiliation>
+Iowa City, IA 52242 -><address>
+zjren@eng.uiowa.edu -><email>
+Andrew B. Williams -><author>
+University of Iowa -><affiliation>
+Department of Electrical and Computer Engineering -><affiliation>
+Iowa City, IA 52242 -><address>
+abwill@eng.uiowa.edu -><email>

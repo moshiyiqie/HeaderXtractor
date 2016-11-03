@@ -1,0 +1,19 @@
+Agent-Based Approach to Dynamic Meeting Scheduling Problems -><title>
+Tu Bao Ho -><author>
+School of Knowledge Science, -><affiliation>
+Knowledge Creating -><affiliation>
+Methodology Laboratory, -><affiliation>
+JAIST, Japan -><address>
+bao@jaist.ac.jp -><email>
+Xavier De´fago -><author>
+School of Information Science, -><affiliation>
+JAIST, Japan -><address>
+PRESTO, Japan Science and -><address>
+Technology Agency (JST) -><affiliation>
+defago@jaist.ac.jp -><email>
+Ahlem Ben Hassine -><author>
+School of Knowledge Science, -><degree>
+Knowledge Creating -><degree>
+Methodology Laboratory, -><affiliation>
+JAIST, Japan -><address>
+hassine@jaist.ac.jp -><email>

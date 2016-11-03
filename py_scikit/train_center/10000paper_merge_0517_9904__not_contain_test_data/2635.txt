@@ -1,0 +1,6 @@
+Monitoring Hierarchical Agent-based Simulation Traces -><title>
+Benjamin Herd, Simon Miles, Peter McBurney, Michael Luck -><author>
+Department of Informatics -><affiliation>
+King’s College London -><affiliation>
+London, United Kingdom -><address>
+{benjamin.c.herd, simon.miles, peter.mcburney, michael.luck}@kcl.ac.uk -><email>

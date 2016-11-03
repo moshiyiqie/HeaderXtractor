@@ -1,0 +1,6 @@
+Interacting with Virtual Characters -><title>
+in Interactive Storytelling -><title>
+Marc Cavazza, Fred Charles, Steven J. Mead -><author>
+University of Teesside, School of Computing and Mathematics -><affiliation>
+Middlesbrough, TS1 3BA, United Kingdom -><address>
+{m.o.cavazza, f.charles, steven.j.mead}@tees.ac.uk -><email>

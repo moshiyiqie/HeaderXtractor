@@ -1,0 +1,15 @@
+Detection of Suspicious Behavior from a Sparse Set of -><title>
+Multiagent Interactions -><title>
+Gal A. Kaminka -><author>
+Bar Ilan University -><affiliation>
+Ramat Gan, Israel -><address>
+galk@cs.biu.ac.il -><email>
+Boštjan Kaluža -><author>
+Jozef Stefan Institute -><affiliation>
+Ljubljana, Slovenia -><address>
+bostjan.kaluza@ijs.si -><email>
+Milind Tambe -><author>
+University of Southern -><affiliation>
+California -><address>
+Los Angeles, California -><address>
+tambe@usc.edu -><email>

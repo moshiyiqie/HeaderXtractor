@@ -1,0 +1,6 @@
+Information Security Models and Metrics -><title>
+Andy Ju An Wang -><author>
+Department of Software Engineering -><affiliation>
+School of Computing and Software Engineering -><affiliation>
+Southern Polytechnic State University -><affiliation>
+Marietta, GA 30060, jwang@spsu.edu -><email>

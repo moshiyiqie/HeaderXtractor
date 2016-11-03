@@ -1,0 +1,19 @@
+Forming Coalitions and Facilitating Relationships for -><title>
+Completing Tasks in Social Networks -><title>
+Liat Sless -><author>
+Dept of Computer Science -><affiliation>
+Bar Ilan University, Israel -><affiliation>
+slasli@cs.biu.ac.il -><email>
+Sarit Kraus -><author>
+Dept of Computer Science -><affiliation>
+Bar Ilan University, Israel -><affiliation>
+sarit@cs.biu.ac.il -><email>
+Noam Hazon -><author>
+Dept of Computer Science -><affiliation>
+and Mathematics -><affiliation>
+Ariel University, Israel -><affiliation>
+noamh@ariel.ac.il -><email>
+Michael Wooldridge -><author>
+Dept of Computer Science -><affiliation>
+University of Oxford, UK -><affiliation>
+mjw@cs.ox.ac.uk -><email>

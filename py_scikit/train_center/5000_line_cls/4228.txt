@@ -1,0 +1,26 @@
+A Process for Novice Programming Using Goals and Plans -><title>
+Minjie Hu -><author>
+Department of Information Science -><affiliation>
+University of Otago -><affiliation>
+PO Box 56, Dunedin 9054 -><address>
+Michael Winikoff -><author>
+Department of Information Science -><affiliation>
+University of Otago -><affiliation>
+PO Box 56, Dunedin 9054 -><address>
+New Zealand -><address>
+Stephen Cranefield -><author>
+Department of Information Science -><affiliation>
+University of Otago -><affiliation>
+PO Box 56, Dunedin 9054 -><address>
+New Zealand -><address>
+minjiehu@infoscience. -><email>
+otago.ac.nz -><email>
+mwinikoff@infoscience. -><email>
+otago.ac.nz -><web>
+scranefield@infoscience. -><email>
+otago.ac.nz -><email>
+Tairawhiti Campus -><author>
+Eastern Institute of Technology -><affiliation>
+PO Box 640, Gisborne 4010 -><address>
+New Zealand -><address>
+mhu@eit.ac.nz -><email>

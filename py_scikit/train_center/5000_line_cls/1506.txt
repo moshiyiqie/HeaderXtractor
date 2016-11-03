@@ -1,0 +1,18 @@
+Gradient Field-Based Task Assignment -><title>
+in an AGV Transportation System -><title>
+∗ -><title>
+Danny Weyns -><author>
+Katholieke Universiteit Leuven -><affiliation>
+Celestijnenlaan 200A -><address>
+3001 Leuven, Belgium -><address>
+danny@cs.kuleuven.be -><email>
+Nelis Boucke´ -><author>
+Katholieke Universiteit Leuven -><affiliation>
+Celestijnenlaan 200A -><address>
+3001 Leuven, Belgium -><address>
+nelis@cs.kuleuven.be -><email>
+Tom Holvoet -><author>
+Katholieke Universiteit Leuven -><affiliation>
+Celestijnenlaan 200A -><address>
+3001 Leuven, Belgium -><address>
+tom@cs.kuleuven.be -><email>

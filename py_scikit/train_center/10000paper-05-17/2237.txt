@@ -1,0 +1,23 @@
+Coalition Structure Generation -><title>
+with the Graphics Processing Unit -><title>
+∗ -><title>
+† -><title>
+Krzysztof Pawłowski -><author>
+University of Warsaw -><affiliation>
+kpidpg@gmail.com -><email>
+Karol Kurach -><author>
+University of Warsaw -><affiliation>
+kkidpg@gmail.com -><email>
+Kim Svensson -><author>
+University of Southampton -><affiliation>
+ks6g10@ecs.soton.ac.uk -><email>
+Sarvapali Ramchurn -><author>
+University of Southampton -><affiliation>
+sdr@ecs.soton.ac.uk -><email>
+Talal Rahwan -><author>
+Masdar Institute -><affiliation>
+trahwan@gmail.com -><email>
+Tomasz P. Michalak -><author>
+University of Oxford -><affiliation>
+University of Warsaw -><affiliation>
+tomasz.michalak@cs.ox.ac.uk -><email>

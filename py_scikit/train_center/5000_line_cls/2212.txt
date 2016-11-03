@@ -1,0 +1,21 @@
+Revising Conflicting Intention Sets in BDI Agents∗ -><title>
+Steven Shapiro -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+steven.shapiro@rmit.edu.au -><email>
+Sebastian Sardina -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+sebastian.sardina@rmit.edu.au -><email>
+John Thangarajah -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+john.thangarajah@rmit.edu.au -><email>
+Lawrence Cavedon -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+lawrence.cavedon@rmit.edu.au -><email>
+Lin Padgham -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+lin.padgham@rmit.edu.au -><email>

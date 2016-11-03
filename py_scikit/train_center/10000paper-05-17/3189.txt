@@ -1,0 +1,16 @@
+An In-Game Reporting Tool for -><title>
+Pervasive Games -><title>
+Zeynep Ahmet -><author>
+Mobile Life at Interactive Institute -><affiliation>
+Box 1197 -><address>
+Annika Waern -><author>
+Mobile Life at Stockholm University -><affiliation>
+Box 1197 -><address>
+SE-164 26 Kista, Sweden -><address>
+annika@mobilelifecentre.org -><email>
+Mobile Life at Interactive Institute -><affiliation>
+Box 1197 -><address>
+SE-164 26 Kista, Sweden -><address>
+daniel.sundstrom@tii.se -><email>
+SE-164 26 Kista, Sweden -><address>
+zeynep@tii.se -><email>

@@ -1,0 +1,18 @@
+Agent-Oriented Context-Aware Platforms -><title>
+Supporting Communities of Practice in Health Care -><title>
+Renata S. S. Guizzardi -><author>
+University of Twente -><affiliation>
+P.O. Box 1212 -><address>
+Enschede, the Netherlands -><address>
+souza@cs.utwente.nl -><email>
+Marten van Sinderen -><author>
+University of Twente -><affiliation>
+P.O. Box 1212 -><address>
+Enschede, the Netherlands -><address>
+sinderen@cs.utwente.nl -><email>
+Luiz Olavo Bonino da -><unknow>
+Silva Santos -><author>
+University of Trento -><affiliation>
+Via Sommerive, 14 -><address>
+38100 Povo, TN, Italia -><address>
+bonino@dit.unitn.it -><email>

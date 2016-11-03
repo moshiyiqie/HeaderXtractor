@@ -1,0 +1,12 @@
+Towards a Motivation-Based Approach for Evaluating -><title>
+Goals -><title>
+Mark d’Inverno -><author>
+Computer Science -><affiliation>
+University of Westminster -><affiliation>
+London, UK -><address>
+dinverm@wmin.ac.uk -><email>
+Steve Munroe, Michael Luck -><author>
+Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton, UK -><address>
+{sjm01r, mml}@ecs.soton.ac.uk -><email>

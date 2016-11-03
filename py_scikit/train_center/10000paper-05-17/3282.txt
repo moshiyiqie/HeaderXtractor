@@ -1,0 +1,6 @@
+Easing the Transition: A Collaborative Learning Approach -><title>
+Katrina Falkner David S. Munro -><author>
+School of Computer Science -><affiliation>
+University of Adelaide, -><affiliation>
+Adelaide, South Australia 5005, -><address>
+Email: {katrina.falkner,david.munro}@adelaide.edu.au -><email>

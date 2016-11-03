@@ -1,0 +1,34 @@
+How to Form a Task-Oriented Robust Team -><title>
+Nicolas Schwind -><author>
+Transdisciplinary Research -><affiliation>
+Integration Center -><affiliation>
+Tokyo, Japan -><address>
+schwind@nii.ac.jp -><email>
+Maxime Clement -><author>
+The Graduate University for -><affiliation>
+Advanced Studies -><affiliation>
+Tokyo, Japan -><affiliation>
+Maxime- -><address>
+clement@nii.ac.jp -><email>
+Tenda Okimoto -><email>
+Graduate School of Maritime -><degree>
+Sciences, Kobe University -><affiliation>
+Kobe, Japan -><address>
+tenda@maritime.kobe- -><email>
+u.ac.jp -><email>
+Tony Ribeiro -><author>
+The Graduate University for -><affiliation>
+Advanced Studies -><affiliation>
+Tokyo, Japan -><address>
+tony_ribeiro@nii.ac.jp -><email>
+Katsumi Inoue -><author>
+National Institute of -><affiliation>
+Informatics -><affiliation>
+Tokyo, Japan -><address>
+inoue@nii.ac.jp -><email>
+Pierre Marquis -><author>
+CRIL - CNRS -><affiliation>
+Université d’Artois -><affiliation>
+Lens, France -><address>
+marquis@cril.univ- -><email>
+artois.fr -><web>

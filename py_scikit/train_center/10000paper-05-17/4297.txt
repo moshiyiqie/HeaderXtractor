@@ -1,0 +1,12 @@
+Securing Interactive Sessions Using Mobile Device -><title>
+through Visual Channel and Visual Inspection -><title>
+Chengfang Fang -><author>
+School of Computing -><affiliation>
+National University of Singapore -><affiliation>
+Singapore -><address>
+c.fang@comp.nus.edu.sg -><email>
+Ee-Chien Chang -><author>
+School of Computing -><affiliation>
+National University of Singapore -><affiliation>
+Singapore -><address>
+changec@comp.nus.edu.sg -><email>

@@ -1,0 +1,20 @@
+Permission to make digital or hard copies of all or part of -><note>
+Permission to make digital or hard copies of all or part of -><note>
+this work for personal or classroom use is granted without fee -><note>
+this work for personal or classroom use is granted without fee -><note>
+provided that copies are not made or distributed for profit or -><abstract>
+provided that copies are not made or distributed for profit or -><abstract>
+commercial advantage and that copies bear this notice and the -><abstract>
+commercial advantage and that copies bear this notice and the -><abstract>
+full citation on the first page. To copy otherwise, to republish, -><abstract>
+full citation on the first page. To copy otherwise, to republish, -><abstract>
+to post on servers or to redistribute to lists, requires prior -><abstract>
+to post on servers or to redistribute to lists, requires prior -><abstract>
+specific permission and/or a fee. -><abstract>
+specific permission and/or a fee. -><abstract>
+AAMAS'04, July 19-23, 2004, New York, New York, USA. -><note>
+AAMAS'04, July 19-23, 2004, New York, New York, USA. -><note>
+Copyright 2004 ACM 1-58113-864-4/04/0007...$5.00 -><note>
+Copyright 2004 ACM 1-58113-864-4/04/0007...$5.00 -><note>
+1356 -><date>
+1357 -><date>

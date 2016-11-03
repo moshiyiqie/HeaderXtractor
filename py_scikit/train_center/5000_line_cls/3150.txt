@@ -1,0 +1,9 @@
+An Approach to Quantify Workload in a System of Agents -><title>
+Richard Stocker# Neha Rungta# Eric Mercer+ Franco Raimondiˆ Jon Holbrook -><author>
+Colleen Cardoza Michael Goodrich+ -><author>
+#NASA Ames Research Center, Moffett Field CA, USA -><affiliation>
++Brigham Young University, Provo UT, USA -><affiliation>
+ˆMiddlesex University, London UK -><affiliation>
+San Jose State University, Moffett Field CA, USA -><affiliation>
+{richard.s.stocker,neha.s.rungta,jon.holbrook}@nasa.gov, {egm,mike}@cs.byu.edu, -><email>
+f.raimondi@mdx.ac.uk -><email>

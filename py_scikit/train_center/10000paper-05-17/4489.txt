@@ -1,0 +1,13 @@
+Toward a Communications Satellite Network for -><title>
+Humanitarian Relief -><title>
+Edward J.Birrane -><author>
+The Johns Hopkins University Applied Physics Laboratory -><affiliation>
+Laurel, Maryland, USA -><address>
++1 443-778-7423 -><phone>
+Edward.Birrane@jhuapl.edu -><email>
+Scott C. Burleigh -><author>
+Jet Propulsion Laboratory -><affiliation>
+California Institute of Technology -><affiliation>
+Pasadena, California, USA -><address>
++1 818 393 3353 -><phone>
+Scott.C.Burleigh@jpl.nasa.gov -><email>

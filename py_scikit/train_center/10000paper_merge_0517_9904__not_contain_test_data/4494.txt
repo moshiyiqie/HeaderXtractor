@@ -1,0 +1,26 @@
+Results from German research project I-LOV -><title>
+∗ -><title>
+Quirin Hamp -><author>
+University of Freiburg - IMTEK -><affiliation>
+79110 Freiburg, Germany -><address>
+quirin.hamp@imtek.de -><email>
+Rui Zhang -><author>
+University of Freiburg - IMTEK -><affiliation>
+79110 Freiburg, Germany -><address>
+rui.zhang@imtek.de -><email>
+Ling Chen -><author>
+University of Freiburg - IMTEK -><affiliation>
+79110 Freiburg, Germany -><address>
+ling.chen@imtek.de -><email>
+Omar Gorgis -><author>
+University of Freiburg - IMTEK -><affiliation>
+79110 Freiburg, Germany -><address>
+omar.gorgis@imtek.de -><email>
+Thomas Ostertag -><author>
+University of Freiburg - IMTEK -><affiliation>
+79110 Freiburg, Germany -><address>
+thomas.ostertag@imtek.de -><email>
+John Pavlina -><author>
+University of Freiburg - IMTEK -><affiliation>
+79110 Freiburg, Germany -><address>
+john.pavlina@imtek.de -><email>

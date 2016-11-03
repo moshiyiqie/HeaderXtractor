@@ -1,0 +1,20 @@
+AR-Bowling: Immersive and Realistic Game Play in Real -><title>
+Environments Using Augmented Reality -><title>
+Rafael Radkowski -><author>
+Heinz Nixdorf Institute -><affiliation>
+Fuerstenalee 11 -><address>
+33102 Paderborn, Germany -><address>
++49 5251 606228 -><phone>
+rafael.radkowski@hni.upb.de -><email>
+Carsten Matysczok -><author>
+Heinz Nixdorf Institute -><affiliation>
+Fuerstenallee 11 -><address>
+33102 Paderborn, Germany -><address>
++49 5251 606226 -><phone>
+carsten.matysczok@hni.upb.de -><email>
+Jan Berssenbruegge -><author>
+Heinz Nixdorf Institute -><affiliation>
+Fuerstenallee 11 -><address>
+33102 Paderborn, Germany -><address>
++49 5251 606233 -><phone>
+jan.berssenbruegge@hni.upb.de -><email>

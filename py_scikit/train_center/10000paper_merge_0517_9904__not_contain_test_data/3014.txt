@@ -1,0 +1,21 @@
+Graceful Anytime Interruptibility for Virtual Agents -><title>
+Helmut Prendinger -><author>
+National Institute of Informatics -><affiliation>
+2-1-2 Hitotsubashi, Chiyoda-ku -><address>
+Tokyo 101-8430, JP -><address>
+helmut@nii.ac.jp -><email>
+Klaus Brügmann -><email>
+Friedrich-Alexander-Univ. Erlangen-Nürnberg -><author>
+Computer Graphics Group -><affiliation>
+Am Weichselgarten 9, 91058 Erlangen, GER -><address>
+d3lphi@gmx.de -><email>
+Mitsuru Ishizuka -><author>
+Graduate School of Information Science -><affiliation>
+and Technology, Univ. of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, JP -><address>
+ishizuka@i.u-tokyo.ac.jp -><email>
+Marc Stamminger -><author>
+Friedrich-Alexander-Univ. Erlangen-Nürnberg -><email>
+Computer Graphics Group -><affiliation>
+Am Weichselgarten 9, 91058 Erlangen, GER -><address>
+stamminger@cs.fau.de -><email>

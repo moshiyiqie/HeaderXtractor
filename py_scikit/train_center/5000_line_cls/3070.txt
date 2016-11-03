@@ -1,0 +1,7 @@
+Self-Organized Collective Decision Making: -><title>
+The Weighted Voter Model -><title>
+Gabriele Valentini†, Heiko Hamann‡ and Marco Dorigo†‡ -><author>
+†IRIDIA, Université Libre de Bruxelles, Brussels, Belgium -><affiliation>
+{gvalenti, mdorigo}@ulb.ac.be -><email>
+‡Department of Computer Science, University of Paderborn, Paderborn, Germany -><affiliation>
+{heiko.hamann, marco.dorigo}@uni-paderborn.de -><email>

@@ -1,0 +1,5 @@
+Tweet Author Location Impacts on Tweet Credibility -><title>
+Suliman Aladhadh Xiuzhen Zhang Mark Sanderson -><author>
+School of Computer Science and Information Technology, RMIT University, Australia -><affiliation>
+{suliman.aladhadh, xiuzhen.zhang, mark.sanderson}@rmit.edu.au -><email>
+1 -><date>

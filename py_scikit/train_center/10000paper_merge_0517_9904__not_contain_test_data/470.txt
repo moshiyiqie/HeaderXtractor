@@ -1,0 +1,14 @@
+Representation and Reasoning for DAML-Based Policy -><title>
+and Domain Services in KAoS and Nomads -><title>
+J. Bradshaw3, A. Uszok3, R. Jeffers3, N. Suri3, P. Hayes3, M. Burstein2, A. Acquisti4, -><author>
+B. Benyo2, M. Breedy3, M. Carvalho3, D. Diller2, M. Johnson3, S. Kulkarni3, -><author>
+J. Lott3, M. Sierhuis1, and R. Van Hoof1 -><author>
+1 RIACS and QSS, NASA Ames, MS T35B-1, Moffett Field, CA 94035, -><affiliation>
+{msierhuis, rvanhoof}@mail.arc.nasa.gov -><email>
+2 BBN Technologies, 10 Moulton St., Cambridge, MA 02138, -><affiliation>
+{burstein, bbenyo, ddiller}@bbn.com -><email>
+3 IHMC/UWF, 40 S. Alcaniz, Pensacola, FL 32501 -><note>
+{jbradshaw, auszok, rjeffers, nsuri, phayes, mbreedy, mcarvalho, mjohnson, skulkarni, -><note>
+jlott}@ai.uwf.edu -><email>
+4 SIMS, UC Berkeley, 102 South Hall, Berkeley, CA 94720, -><address>
+acquisti@mail.arc.nasa.gov -><email>

@@ -1,0 +1,11 @@
+Mixed Agent/Social Dynamics for Emotion Computation -><title>
+Hazaël Jones -><author>
+Montpellier SupAgro, UMR ITAP -><affiliation>
+Bâtiment 29, 2 place Pierre Viala, 34060 -><address>
+Montpellier -><address>
+hazael.jones@supagro.inra.fr -><email>
+Julien Saunier -><author>
+LITIS, INSA-Rouen -><affiliation>
+Avenue de l’Université - BP 8, 76801 -><affiliation>
+Saint-Étienne-du-Rouvray Cedex -><author>
+julien.saunier@insa-rouen.fr -><email>

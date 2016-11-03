@@ -1,0 +1,7 @@
+A Framework for Coalitional Normative Systems -><title>
+ -><title>
+Jun Wu1,2, Chongjun Wang1 -><author>
+and Junyuan Xie1 -><author>
+1National Key Laboratory for Novel Software Technology (Nanjing University), Nanjing 210093, China -><affiliation>
+2College of Computer & Information Engineering, Hohai University, Nanjing 210098, China -><affiliation>
+wujun@iip.nju.edu.cn,{chjwang, jyxie}@nju.edu.cn -><email>

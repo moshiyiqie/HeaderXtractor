@@ -1,0 +1,6 @@
+VCG-equivalent in Expectation Mechanism: General -><title>
+Framework for Constructing Iterative Combinatorial -><title>
+Auction Mechanisms -><title>
+Atsushi Iwasaki, Etsushi Fujita, Taiki Todo, Miao Yao, and Makoto Yokoo -><author>
+Department of Informatics, Kyushu University Fukuoka, 819-0395, Japan -><affiliation>
+{iwasaki@, fujita@agent., todo@agent., yaomiao@agent., yokoo@}inf.kyushu-u.ac.jp -><email>

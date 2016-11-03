@@ -1,0 +1,15 @@
+Using the UML to Model Knowledge in Agent Systems -><title>
+Leon Sterling -><author>
+Department of Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+University of Melbourne -><affiliation>
+Carlton, Australia -><address>
++61 3 8344 9100 -><phone>
+leon@cs.mu.oz.au -><email>
+Clint Heinze -><author>
+Department of Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+University of Melbourne -><affiliation>
+Carlton, Australia -><address>
++61 3 9626 7716 -><phone>
+clint@cs.mu.oz.au -><email>

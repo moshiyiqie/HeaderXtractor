@@ -1,0 +1,13 @@
+Agent Based Dynamic Service Synthesis in Large-Scale Open Environments: -><title>
+Experiences from the Agentcities Testbed -><title>
+Simon Thompson (BT Exact) -><author>
+Patricia Charlton (Motorola) -><author>
+Jonathan Dale (Fujitsu) -><author>
+Tianning Zhang (Agentscape) -><author>
+David Bonnefoy (Motorola) -><author>
+Ion Constantinescu (Ecole Polytechnique Federale de -><affiliation>
+Lausanne) -><address>
+ contact author: -><affiliation>
+Modul C5, 211b, Campus Nord, UPC -><address>
+Barcelona, Spain, E-08034 -><address>
+steve@lsi.upc.es -><email>

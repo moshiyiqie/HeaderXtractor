@@ -1,0 +1,17 @@
+X2R: A System for Managing XML Documents and Key -><title>
+Constraints Using RDBMS -><title>
+Zhonghang Xia -><author>
+Dept. of Computer Science -><affiliation>
+Western Kentucky University -><affiliation>
+Bowling Green, KY 42101 -><address>
+zhonghang.xia@wku.edu -><email>
+Guangming Xing ∗ -><email>
+Dept. of Computer Science -><affiliation>
+Western Kentucky University -><affiliation>
+Bowling Green, KY 42101 -><address>
+guangming.xing@wku.edu -><email>
+Douglas Ayers -><author>
+Dept. of Computer Science -><affiliation>
+Western Kentucky University -><affiliation>
+Bowling Green, KY 42101 -><address>
+doug.ayers@wku.edu -><email>

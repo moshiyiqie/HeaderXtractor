@@ -1,0 +1,5 @@
+The Dependence of Effective Planning Horizon -><title>
+on Model Accuracy -><title>
+Nan Jiang, Alex Kulesza, Satinder Singh, and Richard Lewis -><author>
+University of Michigan -><affiliation>
+{nanjiang,kulesza,baveja,rickl}@umich.edu -><email>

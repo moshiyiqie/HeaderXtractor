@@ -1,0 +1,17 @@
+A Multi-Agent System that Facilitates Scientific -><title>
+Publications Search -><title>
+Paolo Giorgini -><author>
+Department of Information and -><affiliation>
+Communication Technology -><affiliation>
+University of Trento - Italy -><affiliation>
+paolo.giorgini@unitn.it -><email>
+Enrico Blanzieri -><author>
+Department of Information and -><affiliation>
+Communication Technology -><affiliation>
+University of Trento - Italy -><affiliation>
+enrico.blanzieri@unitn.it -><email>
+Aliaksandr Birukou -><author>
+Department of Information and -><affiliation>
+Communication Technology -><affiliation>
+University of Trento - Italy -><affiliation>
+birukou@dit.unitn.it -><email>

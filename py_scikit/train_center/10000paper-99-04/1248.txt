@@ -1,0 +1,13 @@
+PHOSPHORUS: A Task-Based Agent Matchmaker -><title>
+Yolanda Gil -><author>
+Information Sciences Institute -><affiliation>
+University of Southern California -><affiliation>
+4676 Admiralty Way -><address>
+Marina del Rey, CA 90292, U.S.A. -><address>
+gil@isi.edu -><email>
+Surya Ramachandran -><author>
+Information Sciences Institute -><affiliation>
+University of Southern California -><affiliation>
+4676 Admiralty Way -><address>
+Marina del Rey, CA 90292, U.S.A. -><address>
+surya@isi.edu -><email>

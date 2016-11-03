@@ -1,0 +1,20 @@
+Achievable Push-Manipulation for Complex Passive Mobile -><title>
+Objects using Past Experience -><title>
+H. Levent Akın -><author>
+Department of Computer -><affiliation>
+Engineering -><affiliation>
+Bog˘aziçi University -><affiliation>
+Istanbul, Turkey -><address>
+akin@boun.edu.tr -><email>
+Tekin Meriçli -><author>
+Department of Computer -><affiliation>
+Engineering -><affiliation>
+Bog˘aziçi University -><affiliation>
+Istanbul, Turkey -><address>
+tekin.mericli@boun.edu.tr -><email>
+Manuela Veloso -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA, USA -><address>
+veloso@cmu.edu -><email>

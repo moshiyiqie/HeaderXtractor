@@ -1,0 +1,13 @@
+Computational Bundling for Auctions -><title>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave -><address>
+Pittsburgh, PA, USA -><address>
+sandholm@cs.cmu.edu -><email>
+Christian Kroer -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave -><address>
+Pittsburgh, PA, USA -><address>
+ckroer@cs.cmu.edu -><email>

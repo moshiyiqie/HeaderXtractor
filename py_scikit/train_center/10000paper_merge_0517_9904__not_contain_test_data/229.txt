@@ -1,0 +1,10 @@
+A Multi-agent System for Collaborative Bookmarking -><affiliation>
+Rushed Kanawati -><title>
+LIPN - CNRS UMR Q 7030 -><title>
+Maria Malek -><author>
+LAPI - EISTI -><affiliation>
+Av. du Parc -><affiliation>
+95011 Cergy, FRance -><address>
+Maria.Malek@eisti.fr -><email>
+93430 Villetaneuse, France -><address>
+Rushed.Kanawati@lipn.univ-paris13.fr -><email>

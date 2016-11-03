@@ -1,0 +1,33 @@
+External Attribution of Intentional Notions to Explain -><title>
+and Predict Agent Behaviour -><title>
+Wieke de Vries -><author>
+Universiteit Utrecht -><affiliation>
+Institute of Information and -><affiliation>
+Computing Sciences -><affiliation>
+Padualaan 14, De Uithof -><address>
+3584CH Utrecht -><address>
+wieke@cs.uu.nl -><email>
+Catholijn Jonker -><author>
+Vrije Universiteit Amsterdam -><affiliation>
+Department of Artificial Intelligence -><affiliation>
+De Boelelaan 1081a -><address>
+1081 HV Amsterdam The Netherlands -><address>
+Tel. +31 20 444 7743 -><phone>
+jonker@cs.vu.nl -><email>
+Jan Treur -><date>
+Vrije Universiteit Amsterdam -><affiliation>
+Department of Artificial Intelligence -><affiliation>
+De Boelelaan 1081a -><address>
+1081 HV Amsterdam The Netherlands -><address>
+Tel. +31 20 444 7763 -><phone>
+treur@cs.vu.nl -><email>
+Categories and Subject Descriptors -><keyword>
+languages and structures. -><keyword>
+General Terms -><keyword>
+Human Factors, Theory, Verification. -><keyword>
+Keywords -><keyword>
+Beliefs, desire, intention, BDI, temporal representation. -><abstract>
+As agent behaviour often goes beyond purely reactive behaviour, -><abstract>
+nontrivial means are needed to understandably describe their -><abstract>
+behaviour. An attractive feature of intentional notions (cf. [3], [10], -><abstract>
+[11]) to describe agent behaviour is that these notions offer a high -><abstract>

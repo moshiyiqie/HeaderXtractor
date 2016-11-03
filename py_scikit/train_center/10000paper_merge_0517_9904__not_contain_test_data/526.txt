@@ -1,0 +1,6 @@
+Ontological Feedback in Multiagent Systems -><title>
+Robbert-Jan Beun, Rogier M. van Eijk and Huub Pru¨st -><author>
+Information and Computing Sciences -><affiliation>
+Utrecht University, P.O. Box 80089 -><affiliation>
+3508 TB Utrecht, The Netherlands -><address>
+{rj, rogier, huub}@cs.uu.nl -><email>

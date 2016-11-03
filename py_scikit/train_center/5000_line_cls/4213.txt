@@ -1,0 +1,16 @@
+Design of a Framework for Interoperable Motion Effects for -><title>
+4D Theaters using Human-centered Motion Data -><title>
+Yangwoo Ahn, Jaesung Choi -><author>
+Simuline, Inc. -><affiliation>
+Daejeon, Korea -><address>
+{ayw, cjs}@simuline.com -><email>
+Soonhung Han -><author>
+Dept. of Mechanical Engineering -><affiliation>
+KAIST -><affiliation>
+Daejeon, Korea -><address>
+shhan@kaist.ac.kr -><email>
+Suchul Shin -><author>
+Dept. of Mechanical Engineering -><affiliation>
+KAIST -><affiliation>
+Daejeon, Korea -><address>
+eva317@icad.kaist.ac.kr -><email>

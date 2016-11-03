@@ -1,0 +1,5 @@
+Discovery of Infrastructure in Multi-Agent Systems -><title>
+Brent K Langley, Massimo Paolucci, Katia Sycara -><author>
+The Robotics Institute, Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue, Pittsburgh, PA - USA - -><address>
+blangley,paolucci,katia@cs.cmu.edu -><email>

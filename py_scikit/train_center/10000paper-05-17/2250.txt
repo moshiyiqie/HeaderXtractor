@@ -1,0 +1,12 @@
+Tasks with Cost Growing over Time and Agent -><title>
+Reallocation Delays -><title>
+Maria Gini -><author>
+Computer Science and Engineering -><affiliation>
+University of Minnesota -><affiliation>
+200 Union St SE, Minneapolis, MN 55455, USA -><address>
+gini@cs.umn.edu -><email>
+James Parker -><author>
+Computer Science and Engineering -><affiliation>
+University of Minnesota -><affiliation>
+200 Union St SE, Minneapolis, MN 55455, USA -><address>
+jparker@cs.umn.edu -><email>

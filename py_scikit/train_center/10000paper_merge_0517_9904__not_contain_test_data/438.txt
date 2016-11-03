@@ -1,0 +1,11 @@
+Optimal -><title>
+Paul -><author>
+Peter -><author>
+Dept. -><email>
+Dept. -><email>
+University -><affiliation>
+Liverpool -><author>
+University -><affiliation>
+Liverpool -><address>
+ped@csc.liv.ac.uk -><email>
+p.j.mcburney@csc.liv.ac.uk -><email>

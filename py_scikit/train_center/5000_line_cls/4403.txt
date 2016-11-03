@@ -1,0 +1,15 @@
+A New Curriculum for Hardware-Based Network Intrusion -><title>
+Detection -><title>
+Andy Wang, Sarah North -><author>
+Department of Information Technology -><affiliation>
+Southern Polytechnic State University -><affiliation>
+{jwang, sarah}@spsu.edu -><email>
+Max North -><author>
+Department of Business Administration -><affiliation>
+Southern Polytechnic State University -><affiliation>
+mnorth1@spsu.edu -><email>
+Dan Lo -><author>
+Department of Computer Science and -><affiliation>
+software Engineering -><affiliation>
+Southern Polytechnic State University -><affiliation>
+clo@spsu.edu -><email>

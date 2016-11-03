@@ -1,0 +1,12 @@
+Improving Security Design Patterns with Aspect-Oriented -><title>
+Strategies -><title>
+Francisco Mitropoulos -><author>
+Nova Southeastern University -><affiliation>
+3301 College Avenue -><address>
+Ft. Lauderdale-Davie, FL 33313 -><address>
+mitrof@nsu.nova.edu -><email>
+Crystal Edge -><author>
+Coastal Carolina University -><affiliation>
+P.O. Box 261954 -><address>
+Conway, SC 29526 -><address>
+cedge@coastal.edu -><email>

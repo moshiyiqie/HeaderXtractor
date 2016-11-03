@@ -1,0 +1,20 @@
+Porscha: Policy Oriented Secure Content Handling in -><title>
+Android -><title>
+Patrick McDaniel -><author>
+Department of Computer -><affiliation>
+Science and Engineering -><affiliation>
+Pennsylvania State University -><affiliation>
+University Park, PA 16802 -><affiliation>
+mcdaniel@cse.psu.edu -><email>
+Kevin Butler -><author>
+Department of Computer and -><affiliation>
+Information Science -><affiliation>
+University of Oregon -><affiliation>
+Eugene, OR 97403 USA -><address>
+butler@cs.uoregon.edu -><email>
+Machigar Ongtang -><author>
+Faculty of Information -><affiliation>
+Technology -><affiliation>
+Dhurakijpundit University -><affiliation>
+Bangkok 10210, Thailand -><address>
+machigar.ong@dpu.ac.th -><email>

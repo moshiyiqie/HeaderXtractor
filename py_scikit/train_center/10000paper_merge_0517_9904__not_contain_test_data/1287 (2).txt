@@ -1,0 +1,18 @@
+JADE -><title>
+A FIPA2000 Compliant Agent Development Environment -><title>
+Agostino Poggi -><author>
+Giovanni Rimassa -><author>
+Fabio Bellifemine -><author>
+CSELT SpA -><affiliation>
+Via G. Reiss Romoli, 274 -><address>
+10148 Torino, Italy -><address>
++39 011 2286175 -><phone>
+bellifemine@cselt.it -><email>
+Parco Area delle Scienze 181A -><note>
+43100 Parma, Italy -><address>
++39 0521 905728 -><phone>
+poggi@ce.unipr.it -><email>
+Parco Area delle Scienze 181A -><note>
+43100 Parma, Italy -><address>
++39 0521 905712 -><phone>
+rimassa@ce.unipr.it -><email>

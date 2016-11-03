@@ -1,0 +1,10 @@
+Combining statistics and arguments to compute trust -><title>
+Maxime Morge -><author>
+Université Lille 1, France -><affiliation>
+maxime.morge@liﬂ.fr -><email>
+Paul-Amaury Matt -><author>
+Imperial College London, UK -><affiliation>
+paulmatt@mac.com -><email>
+Francesca Toni -><author>
+Imperial College London, UK -><affiliation>
+ft@imperial.ac.uk -><email>

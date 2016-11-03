@@ -1,0 +1,14 @@
+Electric Boolean Games -><title>
+Redistribution Schemes for Resource-Bounded Agents -><title>
+Michael Wooldridge -><author>
+Dept. of Computer Science -><affiliation>
+University of Oxford -><affiliation>
+mjw@cs.ox.ac.uk -><email>
+Paul Harrenstein -><author>
+Dept. of Computer Science -><affiliation>
+University of Oxford -><affiliation>
+paulhar@cs.ox.ac.uk -><email>
+Paolo Turrini -><author>
+Dept. of Computing -><affiliation>
+Imperial College London -><affiliation>
+p.turrini@imperial.ac.uk -><email>

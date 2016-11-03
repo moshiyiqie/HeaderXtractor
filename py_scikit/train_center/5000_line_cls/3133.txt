@@ -1,0 +1,12 @@
+A Privacy-Preserving Algorithm for -><title>
+Distributed Constraint Optimization -><title>
+Tamir Tassa -><author>
+Dept. of Mathematics and Computer Science -><affiliation>
+The Open University -><affiliation>
+Ra’anana, Israel -><address>
+tamirta@openu.ac.il -><email>
+Tal Grinshpoun∗ -><author>
+Dept. of Industrial Engineering and Management -><affiliation>
+Ariel University -><affiliation>
+Ariel, Israel -><address>
+talgr@ariel.ac.il -><email>

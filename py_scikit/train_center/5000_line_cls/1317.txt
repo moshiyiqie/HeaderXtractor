@@ -1,0 +1,15 @@
+Automated Analysis and Verification of Agent Behavior -><title>
+Dung N. Lam, K. Suzanne Barber -><author>
+Tibor Bosse -><author>
+The University of Texas at Austin -><affiliation>
+Vrije Universiteit Amsterdam -><affiliation>
+Laboratory for Intelligent -><affiliation>
+Department of Artificial Intelligence -><affiliation>
+Processes and Systems -><affiliation>
+De Boelelaan 1081a -><address>
+1 University Station C5000 -><affiliation>
+1081 HV Amsterdam -><address>
+Austin, TX 78712-0240 -><address>
+The Netherlands -><address>
+{dnlam, barber}@lips.utexas.edu -><email>
+tbosse@cs.vu.nl -><email>

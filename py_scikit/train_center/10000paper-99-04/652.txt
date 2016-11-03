@@ -1,0 +1,7 @@
+Adaptive, Confidence-Based Multiagent Negotiation Strategy -><title>
+Leen-Kiat Soh and Xin Li -><author>
+Computer Science and Engineering -><affiliation>
+University of Nebraska-Lincoln -><affiliation>
+115 Ferguson Hall -><address>
+Lincoln, NE 68588-0115 USA -><address>
+{lksoh, xinli}@cse.unl.edu -><email>

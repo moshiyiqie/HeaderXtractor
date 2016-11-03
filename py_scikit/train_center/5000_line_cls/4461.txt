@@ -1,0 +1,13 @@
+RRA: An audio format for single-source music and lyrics -><title>
+† -><title>
+∗ -><title>
+J. C. Lusth -><author>
+101 Houser Hall -><address>
+The University of Alabama -><affiliation>
+Tuscaloosa, Alabama -><affiliation>
+lusth@cs.ua.edu -><email>
+M. Rao -><author>
+204 Houser Hall -><address>
+The University of Alabama -><affiliation>
+Tuscaloosa, Alabama -><affiliation>
+mrrao@crimson.ua.edu -><email>

@@ -1,0 +1,7 @@
+Towards a Deeper Understanding of Cooperative -><title>
+Equilibrium: Characterization and Complexity -><title>
+Nan Rong Joseph Y. Halpern -><author>
+Department of Computer Science -><affiliation>
+Cornell University -><affiliation>
+Ithaca, NY 14853 -><address>
+{rongnan,halpern}@cs.cornell.edu -><email>

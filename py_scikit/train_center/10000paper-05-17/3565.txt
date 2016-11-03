@@ -1,0 +1,7 @@
+Quantifying the Similiarities between -><title>
+Source Code Lexicons -><title>
+Lauren R. Biggers and Nicholas A. Kraft -><author>
+Department of Computer Science -><affiliation>
+The University of Alabama -><affiliation>
+Tuscaloosa, AL 35487-0290 -><address>
+{lbiggers(|)nkraft}@cs.ua.edu -><email>

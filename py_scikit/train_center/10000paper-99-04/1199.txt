@@ -1,0 +1,7 @@
+Flexible Group Behavior: -><title>
+Virtual Commanders for Synthetic Battlespaces -><title>
+Randall Hill, Jonathan Gratch, Paul Rosenbloom -><author>
+University of Southern California -><affiliation>
+4676 Admiralty Way, Marina del Rey, CA 90292-6695 -><address>
++1-310-822-1511 -><phone>
+{hill,g ratch,rosenbloom} @ isi.edu -><email>

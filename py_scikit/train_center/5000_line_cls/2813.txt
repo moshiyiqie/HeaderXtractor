@@ -1,0 +1,15 @@
+Anytime Coalition Structure Generation -><title>
+on Synergy Graphs -><title>
+Sarvapali D. Ramchurn -><author>
+University of Southampton, UK -><affiliation>
+sdr@ecs.soton.ac.uk -><email>
+Jesús Cerquides, -><author>
+Juan Rodríguez-Aguilar -><author>
+IIIA-CSIC -><affiliation>
+cerquide@iiia.csic.es -><email>
+jar@iiia.csic.es -><email>
+Filippo Bistaffa, -><author>
+Alessandro Farinelli -><author>
+University of Verona -><affiliation>
+filippo.bistaffa@univr.it -><email>
+alessandro.farinelli@univr.it -><email>

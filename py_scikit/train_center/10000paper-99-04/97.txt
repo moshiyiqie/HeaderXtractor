@@ -1,0 +1,8 @@
+Specifying Agents with UML in Robotic Soccer∗ -><title>
+Jan Murray -><author>
+Institut fu¨r Informatik -><affiliation>
+Universita¨t Koblenz-Landau -><affiliation>
+Universita¨tsstr. 1 -><affiliation>
+D-56070 Koblenz -><address>
+GERMANY -><address>
+murray@uni-koblenz.de -><email>

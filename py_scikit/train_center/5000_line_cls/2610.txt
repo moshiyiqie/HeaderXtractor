@@ -1,0 +1,8 @@
+MUST: MUlti Agent Simulation of Multi-Modal Urban Traffic -><title>
+(Demonstration) -><title>
+Deepika Pathania, Bharath Vissapragada, Nahil Jain, Apeksha Khare, -><author>
+Soujanya Lanka and Kamalakar Karlapalem -><author>
+Centre for Data Engineering (CDE), -><affiliation>
+International Institute of Information Technology, Hyderabad, India. -><affiliation>
+{deepika.pathaniaug08, bharath_v, nahil, apeksha.khareug08}@students.iiit.ac.in -><email>
+{soujanya, kamal}@iiit.ac.in -><email>

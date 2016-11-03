@@ -1,0 +1,9 @@
+Discovering and Exploiting Synergy Between Hierarchical -><title>
+Planning Agents -><title>
+Jeffrey S. Cox -><author>
+Edmund H. Durfee -><author>
+durfee@umich.edu -><email>
+jeffcox@umich.edu -><email>
+Department of Electrical Engineering and Computer Science -><affiliation>
+University of Michigan -><affiliation>
+Ann Arbor, MI 48109 -><address>

@@ -1,0 +1,12 @@
+Teaching and Assessing Programming Strategies -><title>
+Explicitly -><title>
+Michael de Raadt, Richard Watson -><author>
+Department of Mathematics and Computing -><affiliation>
+University of Southern Queensland -><affiliation>
+Toowoomba, Qld, 4350, Australia -><address>
+{deraadt, rwatson}@usq.edu.au -><email>
+Mark Toleman -><author>
+School of Information Systems -><affiliation>
+University of Southern Queensland -><affiliation>
+Toowoomba, Qld, 4350, Australia -><address>
+markt@usq.edu.au -><email>

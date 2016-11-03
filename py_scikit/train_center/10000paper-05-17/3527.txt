@@ -1,0 +1,14 @@
+Inter-Disciplinary Doctor of Science with Computer -><title>
+Science and Information Systems -><title>
+Donald Amoroso, Ph.D. -><author>
+Kennesaw State University -><affiliation>
+1000 Chastain Road, Kennesaw, Georgia -><address>
+Department of Computer Science and Information Systems, -><affiliation>
+770-423-6378 -><phone>
+damoroso@kennesaw.edu -><phone>
+Kenneth Hoganson, Ph.D. -><email>
+Kennesaw State University -><affiliation>
+1000 Chastain Road, Kennesaw, Georgia -><address>
+Department of Computer Science and Information Systems, -><affiliation>
+770-499-3402 -><address>
+khoganso@kennesaw.edu -><email>

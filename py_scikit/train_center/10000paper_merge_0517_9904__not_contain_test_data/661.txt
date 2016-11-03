@@ -1,0 +1,20 @@
+1 -><pubnum>
+Multi-Agent Patrolling with Reinforcement Learning -><title>
+Vincent Corruble -><author>
+Hugo Santana -><author>
+Geber Ramalho -><author>
+Universidade Federal de -><affiliation>
+Pernambuco -><unknow>
+Paris VI -><author>
+Bohdana Ratitch -><author>
+School of Computer Science -><affiliation>
+McGill University, -><affiliation>
+3480 University St., -><affiliation>
+Montreal, Canada -><address>
+H3A 2A7 -><date>
+bohdana@cs.mcgill.ca -><email>
+75252 PARIS CEDEX 05 -><phone>
+Vincent.Corruble@lip6.fr -><email>
+Caixa Postal 7851, CEP 50732- -><address>
+970, Recife, Brazil -><address>
+{hps, glr}@cin.ufpe.br -><email>

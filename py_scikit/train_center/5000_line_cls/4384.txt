@@ -1,0 +1,23 @@
+Towards a Measure of Object Oriented Runtime Cohesion -><title>
+based on Number of Instance Variable Accesses -><title>
+Kevin J. Keen -><author>
+Computer Science Department -><affiliation>
+UAHuntsville -><affiliation>
+301, Sparkman Drive -><address>
+Huntsville, AL 35899 -><address>
+1-256-824-6140 -><phone>
+kkeen@cs.uah.edu -><email>
+Letha H. Etzkorn -><author>
+Computer Science Department -><affiliation>
+UAHuntsville -><affiliation>
+301, Sparkman Drive -><address>
+Huntsville, AL 35899 -><address>
+1-256-824-6291 -><phone>
+letzkorn@cs.uah.edu -><email>
+Ruchira Mathur -><author>
+Computer Science Department -><affiliation>
+UAHuntsville -><affiliation>
+301, Sparkman Drive -><address>
+Huntsville, AL 35899 -><address>
+1-256-876-4536 -><phone>
+mathurr@uah.edu -><email>

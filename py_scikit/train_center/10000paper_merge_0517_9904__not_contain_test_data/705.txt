@@ -1,0 +1,4 @@
+Agents for e-Business Applications -><title>
+A.Negri, A. Poggi, M. Tomaiuolo, P. Turci -><author>
+Tel. +39 0521 905708, Fax +39 0521 905723 -><phone>
+{negri, poggi, tomamic, turci}@ce.unipr.it -><email>

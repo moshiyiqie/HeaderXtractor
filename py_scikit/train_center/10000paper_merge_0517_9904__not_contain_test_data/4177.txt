@@ -1,0 +1,7 @@
+A Little Language for Surveys: -><title>
+Constructing an Internal DSL in Ruby -><title>
+H. Conrad Cunningham -><author>
+Department of Computer and Information Science -><affiliation>
+University of Mississippi -><affiliation>
+University, MS 38677 USA -><affiliation>
+cunningham@cs.olemiss.edu -><email>

@@ -1,0 +1,6 @@
+Monitoring Large-Scale Multi-Agent Systems -><title>
+using Overhearing -><title>
+Gery Gutnik -><author>
+(Advisor: Gal A. Kaminka) -><affiliation>
+Computer Science Department, Bar Ilan University, Israel -><affiliation>
+gutnikg@cs.biu.ac.il -><email>

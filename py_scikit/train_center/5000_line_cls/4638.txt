@@ -1,0 +1,13 @@
+The SONET Ring Transport Planning Problem -><title>
+Victor A. Clincy -><author>
+Computer Science & Information Systems Department -><affiliation>
+Kennesaw State University -><affiliation>
+Kennesaw, Georgia 30144 -><address>
+770-420-4440 -><phone>
+vclincy@kennesaw.edu -><email>
+1. PROBLEM AND MOTIVATION -><abstract>
+The demands for very high bandwidth transmission equipment -><abstract>
+many Telecommunications companies to employ Synchronous -><abstract>
+Optical Network (SONET) Rings. SONET technology coupled -><abstract>
+with physical self-healing ring topologies have vastly increased -><abstract>
+restoration virtually transparent to the customer. This -><abstract>

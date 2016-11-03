@@ -1,0 +1,19 @@
+Solving POMDPs Using Quadratically Constrained -><title>
+Linear Programs -><title>
+Christopher Amato -><author>
+Daniel S. Bernstein -><author>
+bern@cs.umass.edu -><email>
+Shlomo Zilberstein -><author>
+shlomo@cs.umass.edu -><email>
+camato@cs.umass.edu -><email>
+Department of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003 -><address>
+Categories and Subject Descriptors -><note>
+I.2.8 [Artificial Intelligence]: Problem Solving, Control -><note>
+Methods, and Search; G.1.6 [Numerical Analysis]: Opti- -><note>
+mization—Constrained Optimization -><intro>
+General Terms -><unknow>
+Algorithms -><title>
+Keywords -><keyword>
+POMDPs, Planning under uncertainty, Optimization -><keyword>

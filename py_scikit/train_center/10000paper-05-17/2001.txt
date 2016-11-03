@@ -1,0 +1,17 @@
+Linear Support for -><title>
+Multi-Objective Coordination Graphs -><title>
+Shimon Whiteson -><author>
+Informatics Institute -><affiliation>
+University of Amsterdam -><affiliation>
+Amsterdam, the Netherlands -><address>
+s.a.whiteson@uva.nl -><email>
+Diederik M. Roijers -><author>
+Informatics Institute -><affiliation>
+University of Amsterdam -><affiliation>
+Amsterdam, the Netherlands -><address>
+d.m.roijers@uva.nl -><email>
+Frans A. Oliehoek -><author>
+DKE / Informatics Institute -><affiliation>
+Maastricht University / -><affiliation>
+University of Amsterdam -><affiliation>
+f.a.oliehoek@uva.nl -><email>

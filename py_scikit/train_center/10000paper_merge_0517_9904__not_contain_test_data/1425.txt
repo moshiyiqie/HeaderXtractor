@@ -1,0 +1,19 @@
+Predicting Your Own Effort -><title>
+David F. Bacon -><author>
+IBM Research -><affiliation>
+dfb@watson.ibm.com -><email>
+Yiling Chen -><author>
+SEAS, Harvard University -><affiliation>
+yiling@eecs.harvard.edu -><email>
+Ian Kash -><author>
+MSR Cambridge -><affiliation>
+iankash@microsoft.com -><email>
+Manu Sridharan -><author>
+IBM Research -><affiliation>
+msridhar@us.ibm.com -><email>
+David C. Parkes -><author>
+SEAS, Harvard University -><affiliation>
+parkes@eecs.harvard.edu -><email>
+Malvika Rao -><author>
+SEAS, Harvard University -><affiliation>
+malvika@eecs.harvard.edu -><email>

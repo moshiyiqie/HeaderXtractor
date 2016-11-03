@@ -1,0 +1,11 @@
+Using Lotteries to Approximate the Optimal Revenue∗ -><title>
+Carmine Ventre -><author>
+School of Computing -><affiliation>
+Teesside University -><affiliation>
+U.K. -><address>
+C.Ventre@tees.ac.uk -><email>
+Paul W. Goldberg -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+U.K. -><address>
+P.W.Goldberg@liverpool.ac.uk -><email>

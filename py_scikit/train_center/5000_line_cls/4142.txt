@@ -1,0 +1,20 @@
+A Citation Analysis of the ICER 2005-07 Proceedings -><title>
+Raymond Lister and Ilona Box -><author>
+Faculty of Information Technology -><affiliation>
+University of Technology, Sydney -><affiliation>
+Broadway, NSW 2007, Australia -><address>
++61 (2) 9514 1850 -><phone>
+raymond@it.uts.edu.au -><email>
+This paper identifies the most commonly cited -><abstract>
+conferences, journals and books of the 43 papers within -><abstract>
+the first three ICER proceedings. A large array of -><abstract>
+conferences, journals, and books were cited. However, -><abstract>
+only a small set of journals and conferences were cited -><abstract>
+frequently, and the majority were only cited within a -><abstract>
+single paper, which is consistent with a power law -><abstract>
+commonly cited books are concerned with education in -><abstract>
+general (29%) or psychology (20%), while 17% of books -><abstract>
+are concerned with computer science education and 12% -><abstract>
+with computing content. The citation results for ICER -><abstract>
+are contrasted with earlier published citation analyses of -><abstract>
+Keywords: Citation analysis, ICER, SIGCSE, ACE. -><keyword>

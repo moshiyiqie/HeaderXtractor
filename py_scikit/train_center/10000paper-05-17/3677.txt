@@ -1,0 +1,11 @@
+Alert Confidence Fusion in Intrusion Detection Systems -><title>
+with Extended Dempster-Shafer Theory -><author>
+Deborah Frincke -><affiliation>
+Pacific Northwest National Laboratory -><affiliation>
+University of Idaho -><affiliation>
+deborah.frincke@pnl.gov -><email>
+Dong Yu -><author>
+Department of Computer Science -><affiliation>
+University of Idaho -><affiliation>
++1 (425) 707-9282 -><phone>
+dongyu@csds.uidaho.edu -><email>

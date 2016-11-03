@@ -1,0 +1,11 @@
+Enforceable Social Laws -><title>
+Leendert van der Torre -><author>
+CWI Amsterdam -><affiliation>
+and Delft Univ. of Technology -><affiliation>
+The Netherlands -><address>
+torre@cwi.nl -><email>
+Guido Boella -><email>
+Dip. di Informatica -><author>
+Universita` di Torino -><affiliation>
+Italy -><address>
+guido@di.unito.it -><email>

@@ -1,0 +1,3 @@
+ACCESS: An Agent-based Membrane for the Rapid Deployment of Context -><title>
+Sensitive Services -><author>
+Department of Computer Science, University College Dublin, Ireland -><affiliation>

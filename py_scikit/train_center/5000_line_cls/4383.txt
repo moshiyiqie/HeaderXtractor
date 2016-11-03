@@ -1,0 +1,25 @@
+Teaching Operating Systems with Simple Low-Cost -><title>
+Portable Energy Efficient Devices -><title>
+Kai Qian -><author>
+Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+Southern Polytechnic State University -><affiliation>
+1100 S. Marietta Pkwy -><address>
+Marietta, GA 30060 -><address>
+(678) 915-3717 -><phone>
+clo@spsu.edu -><email>
+Yan-Qing Zhang -><author>
+Computer Science -><affiliation>
+Georgia State University -><affiliation>
+P.O. Box 3994 -><address>
+Atlanta, GA 30302-3994 -><address>
+(404) 413-5717 -><phone>
+yzhang@cs.gsu.edu -><email>
+Chia-Tien Dan Lo -><author>
+Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+Southern Polytechnic State University -><affiliation>
+1100 S. Marietta Pkwy -><address>
+Marietta, GA 30060 -><address>
+(678) 915-5487 -><phone>
+clo@spsu.edu -><email>

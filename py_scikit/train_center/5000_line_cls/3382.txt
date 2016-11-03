@@ -1,0 +1,6 @@
+emigo: A Large-Scale Multi-Agent Platform for the Web -><title>
+(Demonstration) -><title>
+Rym Wenkstern, Travis Steel, Dane Kuiper, -><author>
+ZW Corp -><affiliation>
+Dallas, Texas, USA -><address>
+{rym, travis, dane}@myemigo.com -><email>

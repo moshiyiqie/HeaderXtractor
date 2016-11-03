@@ -1,0 +1,7 @@
+"GANGS": an Energy Efficient MAC Protocol for Sensor -><title>
+Networks -><title>
+Saaˆd Biaz Yawen Dai Barowski -><author>
+Computer Science and Software Engineering Department -><affiliation>
+Auburn University -><affiliation>
+Auburn, AL 36849-5347, USA -><address>
+{sbiaz,dyeaiya}@eng.auburn.edu -><email>

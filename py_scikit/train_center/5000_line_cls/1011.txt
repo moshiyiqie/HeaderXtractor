@@ -1,10 +1,6 @@
-An Empirical Assessment of Using Stereotypes to Improve Reading Techniques -><abstract>
-in Software Inspections -><abstract>
-Miroslaw Staron, Ludwik Kuzniarz, Christian Thurn -><abstract>
-Department of Systems and Software Engineering -><abstract>
-School of Engineering -><abstract>
-Blekinge Institute of Technology -><affiliation>
-Box 520, Soft Center -><abstract>
-SE-372 25 Ronneby, Sweden -><abstract>
-(Miroslaw.Staron, Ludwik.Kuzniarz)@bth.se, Christian.Thurn@ipbolaget.com -><email>
-63 -><abstract>
+An Organisation Infrastructure for Multi-Agent Systems -><title>
+based on Agent Coordination Contexts -><title>
+Mirko Viroli, Alessandro Ricci, Andrea Omicini -><author>
+DEIS, Alma Mater Studiorum – Universita` di Bologna a Cesena -><affiliation>
+Via Venezia 52, 47023 Cesena, Italy -><address>
+{mviroli,aricci,aomicini}@deis.unibo.it -><email>

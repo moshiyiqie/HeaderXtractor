@@ -1,0 +1,19 @@
+A Motivational Health Companion in the Home as Part -><title>
+of an Intelligent Health Monitoring Sensor Network -><title>
+Sabine Wildvuur -><author>
+Waag Society, -><note>
+Nieuwmarkt 4, 1012 CR, -><note>
+Amsterdam, -><note>
++31 20 5579898 -><phone>
+sabine@waag.org -><email>
+Vanessa Evers -><author>
+Institute of informatics -><affiliation>
+University of Amsterdam, -><affiliation>
+Sciencepark 107, 1098 XG, -><address>
+Amsterdam, +31 20 5256789 -><address>
+evers@uva.nl -><email>
+Institute of informatics -><affiliation>
+University of Amsterdam, -><affiliation>
+Sciencepark 107, 1098 XG, -><address>
+Amsterdam, +31 20 5256789 -><phone>
+krose@uva.nl -><email>

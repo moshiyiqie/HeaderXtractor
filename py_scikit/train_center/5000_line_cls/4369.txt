@@ -1,0 +1,5 @@
+An Empirical Analysis of Communication Links -><title>
+in Embedded Wireless Networks -><title>
+Sally K. Wahba and Jason O. Hallstrom -><author>
+School of Computing, Clemson University, Clemson, SC 29634-0974 -><affiliation>
+{sallyw, jasonoh}@cs.clemson.edu -><email>

@@ -1,0 +1,7 @@
+A Peer-To-Peer Checkers Program -><title>
+Luke Markey -><author>
+Kennesaw State University -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA 30144 -><address>
+(770) 262-4251 -><phone>
+Lmarkey1@students.kennesaw.edu -><email>

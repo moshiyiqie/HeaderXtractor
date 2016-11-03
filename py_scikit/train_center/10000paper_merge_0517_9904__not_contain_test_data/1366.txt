@@ -1,0 +1,17 @@
+Strong Mitigation: Nesting Search for Good Policies -><title>
+Within Search for Good Reward -><title>
+Richard Lewis -><author>
+Department of Psychology -><affiliation>
+University of Michigan -><affiliation>
+rickl@umich.edu -><email>
+Jeshua Bratman -><author>
+Computer Science & Eng. -><affiliation>
+University of Michigan -><affiliation>
+jeshua@umich.edu -><email>
+Satinder Singh -><author>
+Computer Science & Eng. -><affiliation>
+University of Michigan -><affiliation>
+baveja@umich.edu -><email>
+Jonathan Sorg -><author>
+Facebook -><affiliation>
+jdsorg@umich.edu -><email>

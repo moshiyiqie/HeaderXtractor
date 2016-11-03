@@ -1,0 +1,27 @@
+The Shuffle Index and Evaluation of -><title>
+Models of Signal Transduction Pathways ∗ -><title>
+Edward E. Allen -><author>
+Liyang Diao -><author>
+Department of Mathematics -><affiliation>
+Wake Forest University -><affiliation>
+Winston-Salem, NC 27109 -><address>
+{allene,diaol4}@wfu.edu -><email>
+Jacquelyn S. Fetrow -><author>
+Departments of Computer -><affiliation>
+Science and Physics -><affiliation>
+David J. John -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Wake Forest University -><affiliation>
+Winston-Salem, NC 27109 -><address>
+{fetrowjs,djj}@wfu.edu -><email>
+Richard F. Loeser -><author>
+Department of Internal -><affiliation>
+Medicine -><unknow>
+Section of Molecular Medicine -><title>
+Leslie B. Poole -><author>
+Dept. of Biochemistry -><affiliation>
+Wake Forest University School -><affiliation>
+of Medicine -><affiliation>
+Winston-Salem, NC 27157 -><address>
+{rloeser,lbpoole}@wfubmc.edu -><email>

@@ -1,0 +1,11 @@
+Towards Practical Reasoning Agents for the Semantic Web -><title>
+Ian Dickinson -><author>
+Michael Wooldridge -><author>
+Hewlett-Packard Laboratories -><affiliation>
+Department of Computer Science -><affiliation>
+Filton Road, Stoke Gifford -><author>
+University of Liverpool -><affiliation>
+Bristol BS34 8QZ, U.K. -><address>
+Liverpool L69 7ZF, U.K. -><address>
+Ian.Dickinson@hp.com -><email>
+M.J.Wooldridge@csc.liv.ac.uk -><email>

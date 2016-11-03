@@ -1,0 +1,19 @@
+Bounty Hunters and Multiagent Task Allocation -><title>
+Drew Wicke -><author>
+Department of Computer Science -><affiliation>
+George Mason University -><affiliation>
+4400 University Drive MSN 4A5 -><affiliation>
+Fairfax, VA 22030, USA -><address>
+dwicke@gmu.edu -><email>
+Sean Luke -><author>
+Department of Computer Science -><affiliation>
+George Mason University -><affiliation>
+4400 University Drive MSN 4A5 -><affiliation>
+Fairfax, VA 22030, USA -><address>
+sean@cs.gmu.edu -><email>
+David Freelan -><author>
+Department of Computer Science -><affiliation>
+George Mason University -><affiliation>
+4400 University Drive MSN 4A5 -><affiliation>
+Fairfax, VA 22030, USA -><address>
+dfreelan@gmu.edu -><email>

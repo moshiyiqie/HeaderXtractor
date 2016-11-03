@@ -1,0 +1,5 @@
+Model Checking for the Practical Verificationist: -><title>
+A User’s Perspective on SAL -><title>
+Lee Pike -><author>
+Galois, Inc. -><affiliation>
+leepike@galois.com -><email>

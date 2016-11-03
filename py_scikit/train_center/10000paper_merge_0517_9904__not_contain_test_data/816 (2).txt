@@ -1,0 +1,5 @@
+An Intra-Stream Synchronization Algorithm for Haptic -><title>
+Media in Networked Virtual Environments -><title>
+Yutaka Ishibashi, Hidehiko Kasugai, and Masaki Fujimoto -><author>
+Nagoya Institute of Technology, Nagoya 466-8555, Japan -><affiliation>
+{ishibasi, hide-k, zeal}@mcl.elcom.nitech.ac.jp -><email>

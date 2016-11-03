@@ -1,0 +1,8 @@
+A Collaborative Activity for Evaluating HAT-COM: -><affiliation>
+Human-Agent Teamwork Communication Model -><title>
+(Demonstration) -><title>
+Nader Hanna, Deborah Richards -><author>
+Department of Computing, Macquarie University -><affiliation>
+NSW, 2109, Australia -><address>
+T: +61298509567 F: +61298509551 -><phone>
+{nader.hanna, deborah.richards}@mq.edu.au -><email>

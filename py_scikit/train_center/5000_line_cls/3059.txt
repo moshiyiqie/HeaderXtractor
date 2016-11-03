@@ -1,0 +1,11 @@
+The Cost of Principles: Analyzing Power in Compatibility -><title>
+Weighted Voting Games -><title>
+Pushmeet Kohli -><author>
+Microsoft Research -><affiliation>
+pkohli@microsoft.com -><email>
+Yoram Bachrach -><author>
+Microsoft Research -><affiliation>
+yobach@microsoft.com -><email>
+Abigail See -><author>
+University of Cambridge -><affiliation>
+aes65@cam.ac.uk -><email>

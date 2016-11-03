@@ -1,0 +1,7 @@
+Performance Measurements of Coexisting -><title>
+IEEE 802.11g/n Networks -><title>
+Michael Galloway -><author>
+University of Alabama -><affiliation>
+Department of Computer Science -><affiliation>
+Tuscaloosa, AL 35401 -><address>
+jmgalloway@crimson.ua.edu -><email>

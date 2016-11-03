@@ -1,0 +1,21 @@
+220 -><pubnum>
+Security Threats to Mobile Agents -><title>
+Manish Snehi -><author>
+Infosys Technologies Limited -><affiliation>
+Chandigarh, India -><address>
++91-9569446393 -><phone>
+snehi.manish@gmail.com -><email>
+Jyoti Snehi -><author>
+Department of Computer Science & -><affiliation>
+Engineering -><affiliation>
+Chitkara University Punjab, India -><affiliation>
++91-9988701479 -><phone>
+jyoti.snehi@chitkara.edu.in -><email>
+Sudha Goyal -><author>
+Department of Computer Science & -><affiliation>
+Engineering -><affiliation>
+Chitkara University Punjab, India -><affiliation>
++91-9463205734 -><phone>
+sudha.goyal@chitkara.edu.in -><email>
+Page -><author>
+220 -><date>

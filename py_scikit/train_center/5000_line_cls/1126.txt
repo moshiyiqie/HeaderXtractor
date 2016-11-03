@@ -1,0 +1,7 @@
+A Multiagent System Manages Collaboration in Emergent -><affiliation>
+Processes -><title>
+John Debenham -><author>
+Faculty of Information Technology -><affiliation>
+University of Technology, Sydney -><affiliation>
+NSW, Australia -><address>
+debenham@it.uts.edu.au -><email>

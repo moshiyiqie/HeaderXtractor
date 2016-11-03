@@ -1,0 +1,6 @@
+Optimal Randomized Classification in Adversarial Settings -><title>
+Yevgeniy Vorobeychik and Bo Li -><author>
+Electrical Engineering and Computer Science -><affiliation>
+Vanderbilt University -><affiliation>
+Nashville, TN -><address>
+{yevgeniy.vorobeychik, bo.li.2}@vanderbilt.edu -><email>

@@ -1,0 +1,12 @@
+Approximate -><title>
+Common -><title>
+Rosemary -><author>
+Sebastian -><author>
+Stanford -><affiliation>
+Stanford -><affiliation>
+Stanford, -><affiliation>
+thrun@stanford.edu -><email>
+School -><affiliation>
+Carnegie -><address>
+Pittsburgh, -><address>
+{remery,ggordon,schneide}@cs.cmu.edu -><email>

@@ -1,0 +1,9 @@
+Computing Equilibria by Incorporating Qualitative Models∗ -><title>
+Sam Ganzfried -><author>
+Department of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+sganzfri@cs.cmu.edu -><email>
+Tuomas Sandholm -><author>
+Department of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+sandholm@cs.cmu.edu -><email>

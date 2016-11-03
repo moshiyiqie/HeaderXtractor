@@ -1,0 +1,12 @@
+Strategic Sequential Bidding in Auctions using Dynamic -><title>
+Programming -><title>
+Gerald Tesauro -><author>
+IBM T. J. Watson Research Center -><affiliation>
+19 Skyline Drive -><address>
+Hawthorne, NY 10532 -><address>
+tesauro@watson.ibm.com -><email>
+Jonathan L. Bredin -><author>
+Colorado College -><affiliation>
+14 E. Cache La Poudre St. -><affiliation>
+Colorado Springs, CO 80903 -><address>
+jbredin@coloradocollege.edu -><email>

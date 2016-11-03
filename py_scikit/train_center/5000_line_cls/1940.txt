@@ -1,0 +1,7 @@
+An Investigation of the Vulnerabilities of Scale Invariant -><title>
+Dynamics in Large Teams -><title>
+Robin Glinton, Paul Scerri, Katia Sycara -><author>
+Robotics Institute, Carnegie Mellon University -><affiliation>
+5000 Forbes Ave. -><address>
+Pittsburgh, PA -><address>
+rglinton, pscerri, katia@cs.cmu.edu -><email>

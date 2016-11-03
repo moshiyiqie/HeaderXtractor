@@ -1,0 +1,8 @@
+TOWARD SOFTWARE REQUIREMENTS -><title>
+MODULARIZATION USING HIERARCHICAL CLUSTERING -><title>
+TECHNIQUES -><title>
+Turky N. Al-Otaiby Mohsen AlSherif Walter P. Bond -><author>
+Ministry of Defense Department of Computer Sciences Department of Computer Sciences -><affiliation>
+Saudi Arabia Florida Institute of Technology Florida Institute of Technology -><email>
+talotaiby@yahoo.com Melbourne, Florida 32901 Melbourne, Florida 32901 -><email>
+malsherif@fit.edu pbond@fit.edu -><email>

@@ -1,0 +1,34 @@
+Issues of Agent-Based Distributed Data Mining -><title>
+Gianluca Moro -><author>
+Department of Electronics, -><affiliation>
+Computer Science and -><affiliation>
+Systems -><affiliation>
+University of Bologna -><affiliation>
+Via Rasi e Spinelli 176 -><address>
+47023 Cesena FC, Italy -><address>
+gmoro@deis.unibo.it -><email>
+Matthias Klusch -><author>
+Deduction and Multiagent -><note>
+Systems -><note>
+German Research Centre for -><note>
+Artificial Intelligence -><note>
+Stuhlsatzenhausweg 3 -><note>
+66123 Saarbruecken, -><address>
+Germany -><address>
+klusch@dfki.de -><email>
+Stefano Lodi -><author>
+Department of Electronics, -><affiliation>
+Computer Science and -><affiliation>
+Systems -><unknow>
+IEIIT-BO/CNR -><author>
+University of Bologna -><affiliation>
+Viale Risorgimento 2 -><address>
+40136 Bologna BO, Italy -><address>
+slodi@deis.unibo.it -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artiﬁcial In- -><note>
+telligence—Multiagent Systems; I.5.3 [Pattern Recogni- -><note>
+tion]: Clustering—Algorithms -><note>
+General Terms -><note>
+Algorithms, Theory -><note>
+Keywords -><keyword>

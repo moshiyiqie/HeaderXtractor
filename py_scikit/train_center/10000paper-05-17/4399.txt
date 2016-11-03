@@ -1,0 +1,15 @@
+The Man Who Was There: -><title>
+Validating Check-ins in Location-Based Services -><title>
+∗ -><title>
+Iasonas Polakis -><author>
+FORTH-ICS, Greece -><address>
+polakis@ics.forth.gr -><email>
+Stamatis Volanis -><affiliation>
+FORTH-ICS, Greece -><address>
+sebolani@ics.forth.gr -><email>
+Elias Athanasopoulos -><author>
+Columbia University, USA -><affiliation>
+elathan@cs.columbia.edu -><email>
+Evangelos P. Markatos -><affiliation>
+FORTH-ICS, Greece -><address>
+markatos@ics.forth.gr -><email>

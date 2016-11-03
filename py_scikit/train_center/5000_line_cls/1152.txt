@@ -1,0 +1,10 @@
+A Comparative Evaluation of Agent Location Mechanisms -><title>
+in Large Scale MAS -><title>
+David Ben-Ami -><author>
+Technion - Israel Institute of Technology -><affiliation>
+Haifa 32000, ISRAEL -><address>
+davb@tx.technion.ac.il -><email>
+Onn Shehory -><author>
+IBM Haifa Research Lab -><affiliation>
+Haifa 31905, ISRAEL -><address>
+onn@il.ibm.com -><email>

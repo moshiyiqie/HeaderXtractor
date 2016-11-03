@@ -1,0 +1,12 @@
+A Series of Choices -><title>
+Variability in the Development Process -><title>
+John D. McGregor -><author>
+Clemson University -><affiliation>
+312 McAdams Hall -><address>
+Clemson, SC -><address>
+johnmc@cs.clemson.edu -><email>
+John M. Hunt -><author>
+Clemson University -><affiliation>
+201 McAdams Hall -><address>
+Clemson, SC -><address>
+hunt2@cs.clemson.edu -><email>

@@ -1,0 +1,17 @@
+Learning -><title>
+in -><title>
+Satoshi -><title>
+Osamu -><title>
+Toshiharu -><title>
+NTT -><author>
+3-9-11 -><pubnum>
+NTT -><unknow>
+3-9-11 -><pubnum>
+NTT -><pubnum>
+3-9-11 -><pubnum>
+Tokyo -><unknow>
+Tokyo -><title>
+Tokyo -><author>
+sugawara@ntt-20.ecl.net -><email>
+kurihara@t.onlab.ntt.co.jp -><affiliation>
+akashi@core.ecl.net -><email>

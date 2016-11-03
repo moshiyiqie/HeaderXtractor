@@ -1,0 +1,34 @@
+Identifying Qualitatively Different Outcomes of Actions: -><title>
+Gaining Autonomy Through Learning -><title>
+T -><title>
+Computer -><title>
+Univers -><title>
+Amherst -><author>
+{oates,schmil -><abstract>
+If robotic agents are to act autonomously they must -><abstract>
+have the ability to construct and reason about models -><abstract>
+of their physical environment. In all but the simplest, -><abstract>
+static domains, such models must represent the dynam- -><abstract>
+ics of environmental change. For example, because the -><abstract>
+effects of actions are not instantaneous, planning to -><abstract>
+achieve goals requires knowledge of how the robot's ac- -><abstract>
+tions affect the state of the world over time. The tradi- -><abstract>
+tional approach of hand-coding this knowledge is often -><abstract>
+quite difficult, especially for robotic agents with rich -><abstract>
+sensing abilities that exist in dynamic and uncertain -><abstract>
+environments. Ideally, agents would acquire knowledge -><abstract>
+of their environment autonomously, and then use this -><abstract>
+knowledge to act autonomously. -><abstract>
+This paper presents an unsupervised method for learn- -><abstract>
+ing models of environmental dynamics based on clus- -><abstract>
+tering multivariate time series. Experiments with a -><abstract>
+Pioneer-1 mobile robot demonstrate the utility of the -><abstract>
+method and show that the models acquired by the robot -><abstract>
+correlate surprisingly well with human models of the en- -><abstract>
+vironment. -><abstract>
+Individual time series are obtained by recording the -><abstract>
+output of a subset of an agent's ensors. We call these -><abstract>
+time series experiences. An example of a sensor subset -><abstract>
+on the Pioneer-1 robot is its array of seven sonars. Each -><abstract>
+sonar returns the distance to the closest object in the -><abstract>
+direction that it points. Recording of t -><abstract>

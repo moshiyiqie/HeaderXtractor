@@ -1,0 +1,14 @@
+Reasoning about Agents and Protocols via Goals and -><title>
+Commitments -><title>
+Fabiano Dalpiaz -><author>
+University of Trento, Italy -><affiliation>
+dalpiaz@disi.unitn.it -><email>
+Amit K. Chopra -><author>
+University of Trento, Italy -><affiliation>
+chopra@disi.unitn.it -><email>
+John Mylopoulos -><author>
+University of Trento, Italy -><affiliation>
+jm@disi.unitn.it -><email>
+Paolo Giorgini -><author>
+University of Trento, Italy -><affiliation>
+paolo.giorgini@disi.unitn.it -><email>

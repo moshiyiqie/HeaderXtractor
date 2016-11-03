@@ -1,0 +1,11 @@
+The RETSINA Communicator -><title>
+Onn Shehory t -><title>
+IBM Research Lab in Haifa -><affiliation>
+The Tel Aviv Site -><affiliation>
+2 Weizmann St., Tel Aviv, 61336 Israel -><address>
+onn@il.ibm.com -><email>
+Katia Sycara -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave., Pittsburgh, PA 15213 USA -><address>
+katia@ri.cmu.edu -><email>

@@ -1,0 +1,13 @@
+Ballistic Tracking - A True Zero Latency Gaming Interface -><title>
+Karri Palovuori -><author>
+Ismo Rakkolainen -><author>
+Tampere University of Technology -><affiliation>
+University of Tampere -><affiliation>
+Korkeakoulunkatu 3 -><address>
+School of Information Sciences -><affiliation>
+33720 Tampere, Finland -><address>
+FIN-33014 University of Tampere, Finland -><affiliation>
++358 40 849 0093 -><phone>
++357 50 3185894 -><phone>
+karri.palovuori@tut.fi -><email>
+ismo.rakkolainen@uta.fi -><email>

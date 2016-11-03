@@ -1,0 +1,7 @@
+A Repository of Knowledge About Handling Exceptions -><title>
+in Multi-Agent Systems -><title>
+Mark Klein -><author>
+Massachusetts Institute of Technology -><affiliation>
+NE20-336, Cambridge MA USA 02139 -><address>
++1 (617) 253-6796 -><phone>
+m_klein@mit.edu -><email>

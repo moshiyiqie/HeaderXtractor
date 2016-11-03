@@ -1,0 +1,34 @@
+Online Allocation of Display Advertisements Subject to -><title>
+Advanced Sales Contracts -><title>
+Esteban Arcaute -><author>
+Stanford University -><affiliation>
+496 Lomita Mall -><address>
+Stanford, CA 94305. -><address>
+arcaute@stanford.edu -><email>
+Saeed Alaei -><author>
+University of Maryland -><affiliation>
+A.V. Williams Building -><address>
+College Park, MD 20740. -><address>
+saeed@cs.umd.edu -><email>
+Samir Khuller -><email>
+University of Maryland -><affiliation>
+A.V. Williams Bldg., Room -><address>
+3369 -><address>
+College Park, MD 20740. -><address>
+samir@cs.umd.edu -><email>
+John Tomlin -><author>
+Yahoo! Research -><affiliation>
+701 First Ave -><address>
+Sunnyvale, CA 94089. -><address>
+tomlin@yahoo-inc.com -><email>
+Azarakhsh Malekian -><author>
+University of Maryland -><affiliation>
+A.V. Williams Building -><address>
+College Park, MD 20740. -><address>
+malekian@cs.umd.edu -><email>
+Wenjing Ma -><author>
+Yahoo! Inc. -><affiliation>
+701 First Ave -><address>
+Sunnyvale, CA 94089. -><address>
+wenjingm@yahoo- -><email>
+inc.com -><web>

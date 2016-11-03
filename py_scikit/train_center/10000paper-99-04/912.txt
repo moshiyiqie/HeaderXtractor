@@ -1,0 +1,9 @@
+Cache Conflict Resolution Through Detection, Analysis -><title>
+and Dynamic Remapping of Active Pages -><title>
+A. Wayne Madison -><author>
+wayne@cs.clemson.edu -><email>
+Michal Marko ~ -><author>
+mmarko@sco.com -><email>
+Department ofComputer Science -><affiliation>
+Clemson University -><affiliation>
+Clemson, S.C. 29634 -><address>

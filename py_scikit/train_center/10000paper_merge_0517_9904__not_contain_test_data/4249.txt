@@ -1,0 +1,10 @@
+A Concurrent Automatic Programming System -><title>
+K. E. Kennedy -><author>
+Department of Computer Science -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634-1906 -><address>
+http://www.cs.clemson.edu/∼kkennedy -><web>
+kkennedy@cs.clemson.edu -><email>
+Keywords -><keyword>
+automatic programming, concurrent computing, colored petri net, -><keyword>
+formal verification -><keyword>

@@ -1,0 +1,9 @@
+Lot-based Voting Rules -><title>
+Toby Walsh -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+toby.walsh@nicta.com.au -><email>
+Lirong Xia -><author>
+SEAS, Harvard University -><affiliation>
+Cambridge, MA 02138, USA -><address>
+lxia@seas.harvard.edu -><email>

@@ -1,0 +1,5 @@
+Adversarial Modeling in the Robotic Coverage Problem -><title>
+Roi Yehoshua and Noa Agmon -><title>
+The SMART Group -><author>
+Bar Ilan University, Israel -><affiliation>
+{yehoshr1,agmon}@cs.biu.ac.il -><email>

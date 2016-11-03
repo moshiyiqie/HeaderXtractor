@@ -1,0 +1,6 @@
+Teaching Software Tools via Design Patterns -><title>
+Yonglei Tao -><author>
+Department of Computer Science and Info Systems -><affiliation>
+Grand Valley State University -><affiliation>
+Ailendale, MI49401, USA -><address>
+tao~csis.clVSU.edu -><email>

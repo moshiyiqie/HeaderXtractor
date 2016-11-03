@@ -1,0 +1,34 @@
+Recent Upgrades to an Animated Database Courseware -><title>
+(ADbC) -><title>
+Mario Guimaraes -><author>
+Kennesaw State University -><affiliation>
+CSIS Department -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA 30144 -><address>
+770-420-442 -><phone>
+mguimara@kennesaw.edu -><email>
+Meg Murray -><author>
+Kennesaw State University -><affiliation>
+CSIS Department -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA 30144 -><address>
+770-423-6652 -><phone>
+mcmurray@kennesaw.edu -><email>
+1. PROBLEM AND MOTIVATION -><pubnum>
+This poster will present recent enhancements to the Animated -><abstract>
+Database Courseware (ADbC), formerly called KDC, to help -><abstract>
+students understand the fundamentals of database concepts and -><abstract>
+technologies. The software has gone through a major re-structure -><abstract>
+of the menu system with the redesign of many modules, and the -><abstract>
+addition of additional modules as well as the planning for -><abstract>
+modules based on advanced concepts. As it is difficult to -><abstract>
+communicate breadth and depth of concepts in a single database -><abstract>
+course, these animations are intended to support more in-depth -><abstract>
+student learning. The animations were developed to complement -><abstract>
+(not substitute for) introductory database textbook or DBMS -><abstract>
+products. The software is independent of any book or software -><abstract>
+and is designed to be fairly intuitive with a very low learning -><abstract>
+curve for faculty. Furthermore, the software is available at no cost -><note>
+at and has been made freely available at http://adbc.kennesaw.edu. -><affiliation>
+The work is the result of an NSF funded project (#0717707). -><affiliation>
+2. BACKGROUND AND RELATED -><note>

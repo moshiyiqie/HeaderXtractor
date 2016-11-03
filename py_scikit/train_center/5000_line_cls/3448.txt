@@ -1,0 +1,6 @@
+A Framework for Institutions Governing Institutions -><title>
+Thomas C. King1, Tingting Li2, Marina De Vos3, Virginia Dignum1, Catholijn M. Jonker1, -><author>
+Julian Padget3, M. Birna van Riemsdijk1 -><author>
+1Delft University of Technology 2Imperial College London 3University of Bath -><affiliation>
+{t.c.king-1, M.V.Dignum, C.M.Jonker, tingting.li@imperial.ac.uk {mdv, jap}@cs.bath.ac.uk -><email>
+M.B.vanRiemsdijk}@tudelft.nl -><email>

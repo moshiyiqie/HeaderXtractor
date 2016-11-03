@@ -1,0 +1,8 @@
+A Taxonomy of Discovery Services and -><title>
+Gap Analysis for Ultra-Large Scale Systems∗ -><title>
+Joe Hoffert, Shanshan Jiang, and Douglas C. Schmidt -><author>
+Institute for Software Integrated Systems -><affiliation>
+Vanderbilt University -><affiliation>
+2015 Terrace Place -><address>
+Nashville, TN 37212 -><address>
+{joseph.w.hoffert,shanshan.jiang,d.schmidt}@vanderbilt.edu -><email>

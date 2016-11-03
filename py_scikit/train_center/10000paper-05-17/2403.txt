@@ -1,0 +1,20 @@
+Observation Modelling for Vision-Based Target Search by -><title>
+Unmanned Aerial Vehicles -><title>
+W. T. Luke Teacy -><author>
+University of Southampton -><affiliation>
+Southampton, SO17 1BJ -><address>
+United Kingdom -><address>
+wtlt@ecs.soton.ac.uk -><email>
+Alex Rogers -><author>
+Nicholas R. Jennings -><author>
+University of Southampton -><affiliation>
+Southampton, SO17 1BJ -><address>
+United Kingdom -><address>
+{acr,nrj}@ecs.soton.ac.uk -><email>
+Simon J. Julier -><author>
+Renzo De Nardi -><author>
+University College London -><affiliation>
+London, WC1E 6BT -><address>
+United Kingdom -><address>
+S.Julier@ucl.ac.uk -><email>
+r.denardi@cs.ucl.ac.uk -><email>

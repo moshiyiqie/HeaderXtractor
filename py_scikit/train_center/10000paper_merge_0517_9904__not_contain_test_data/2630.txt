@@ -1,0 +1,21 @@
+Efficient Inter-Team Task Allocation in RoboCup Rescue -><title>
+Alessandro Farinelli -><author>
+Computer Science Department -><affiliation>
+University of Verona -><affiliation>
+Ca Vignal 2, Strada le Grazie 15 -><address>
+Verona, Italy -><address>
+alessandro.farinelli@univr.it -><email>
+Pedro Meseguer -><author>
+Juan A. Rodriguez-Aguilar -><author>
+IIIA-CSIC -><affiliation>
+Campus de la UAB -><address>
+Bellaterra, Spain -><address>
+pedro@iiia.cisc.es -><email>
+jar@iiia.cisc.es -><email>
+Marc Pujol-Gonzalez -><author>
+Jesus Cerquides -><author>
+IIIA-CSIC -><affiliation>
+Campus de la UAB -><affiliation>
+Bellaterra, Spain -><address>
+mpujol@iiia.cisc.es -><email>
+cerquide@iiia.cisc.es -><email>

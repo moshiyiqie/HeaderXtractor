@@ -1,0 +1,5 @@
+A Gesture Processing Framework for Multimodal Interaction -><title>
+in Virtual Reality -><title>
+Marc Erich Latoschik (marcl @techfak.uni-bielefeld.de) -><email>
+AI -><author>
+University of Bielefeld, Germany -><affiliation>

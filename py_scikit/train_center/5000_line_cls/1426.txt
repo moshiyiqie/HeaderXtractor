@@ -1,0 +1,11 @@
+A formal model for designing dialogue strategies -><title>
+Nabil Hameurlain -><author>
+Université de Pau -><affiliation>
+Avenue de l’université -><affiliation>
+BP 1155 64012 Pau Cedex, France -><address>
+nabil.hameurlain@univ-pau.fr -><email>
+Leila Amgoud -><author>
+IRIT - CNRS -><affiliation>
+118, route de Narbonne -><address>
+31062 Toulouse Cedex 9, France -><address>
+amgoud@irit.fr -><email>

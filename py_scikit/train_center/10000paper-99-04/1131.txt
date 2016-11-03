@@ -1,0 +1,7 @@
+A Comparison of Coordinated Planning -><title>
+Methods for Cooperating Rovers -><title>
+Steve Chien, Anthony Barrett, Tara Estlin, Gregg Rabideau -><author>
+Jet Propulsion Laboratory, California Institute of Technology -><affiliation>
+4800 Oak Grove Drive, M/S 126-347 -><address>
+Pasadena, CA 91109 -><address>
+{firstname.lastname}@jpl.nasa.gov -><email>

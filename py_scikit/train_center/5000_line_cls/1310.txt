@@ -1,0 +1,13 @@
+Agent-based -><title>
+Yuqing -><author>
+Simon -><author>
+Department -><affiliation>
+Brooklyn -><affiliation>
+Department -><affiliation>
+Graduate -><degree>
+365, -><date>
+2900 -><date>
+Brooklyn, -><note>
+New -><note>
+ytang@gc.cuny.edu -><email>
+{parsons,sklar}@sci.brooklyn.cuny.edu -><email>

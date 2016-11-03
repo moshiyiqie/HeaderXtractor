@@ -1,0 +1,12 @@
+Probabilistic Policy Reuse in a Reinforcement Learning -><title>
+Agent -><title>
+Manuela Veloso -><author>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213, USA -><address>
+veloso@cs.cmu.edu -><email>
+Fernando Ferna´ndez -><author>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213, USA -><address>
+fernando@cs.cmu.edu -><email>

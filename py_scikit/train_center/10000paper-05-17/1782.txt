@@ -1,0 +1,7 @@
+OctoSLAM: A 3D Mapping Approach to Situational -><title>
+Awareness of Unmanned Aerial Vehicles -><title>
+(Demonstration) -><title>
+Joscha Fossel, Daniel Hennes, Sjriek Alers, Daniel Claes, Karl Tuyls -><author>
+Department of Knowledge Engineering, Maastricht University -><affiliation>
+P.O. Box 616, 6200MD Maastricht, The Netherlands -><address>
+{j.fossel,daniel.hennes,sjriek.alers,daniel.claes,k.tuyls}@maastrichtuniversity.nl -><affiliation>

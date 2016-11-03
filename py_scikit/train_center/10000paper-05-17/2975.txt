@@ -1,0 +1,12 @@
+Koichi Furukawa -><title>
+Graduate School of Media and Governance, -><degree>
+Keio University -><affiliation>
+5322 Endoh Fujisawa-shi -><address>
+Kanagawa-ken, Japan -><address>
+furukawa@sfc.keio.ac.jp -><email>
+Maiko Kamata -><author>
+Graduate School of Media and Governance, -><affiliation>
+Keio University -><affiliation>
+5322 Endoh Fujisawa-shi -><address>
+Kanagawa-ken, Japan -><address>
+kamata@sfc.keio.ac.jp -><email>

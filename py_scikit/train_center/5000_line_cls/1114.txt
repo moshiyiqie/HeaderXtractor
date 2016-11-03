@@ -1,0 +1,6 @@
+Gamble v2.0 — Social interactions with multiple users -><title>
+Matthias Rehm, Elisabeth Andre´, Michael Wissner -><author>
+Multimedia Concepts and Applications -><affiliation>
+Faculty of Applied Computer Science -><affiliation>
+University of Augsburg, Germany -><affiliation>
+{rehm(|)andre}@informatik.uni-augsburg.de -><email>

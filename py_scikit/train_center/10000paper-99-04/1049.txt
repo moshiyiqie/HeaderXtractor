@@ -1,0 +1,34 @@
+themselves we store hash values that represent chunkg. Not only do we expect false positives because l~h functions can -><abstract>
+produce the same value for different chunks but also because the number of possible cbnnk.~ in Interuet-docomants -><abstract>
+onmumber the available mmaber of hash values. -><affiliation>
+There are two ways to reduce index-space. We can either educe the number ofchunk~ to be kept, which increases the chance -><abstract>
+of false negatives, or we can reduce the size of the hash value we calculate on each chunk, which increases the chance of -><abstract>
+false positives. False negatives are harder to handle because we have already missed potential documents. We propose a -><abstract>
+method that is able to ellm/nate false positives from a given set of documents. The comparison iscompleted intwo phases. In -><abstract>
+the :first phase we define candiclate documents using the aforementioned methods and the second stage llrn/nates false -><abstract>
+positives. Our algorithm for eliminating false positives uses a suffix tree built on the suspicious document to compare -><abstract>
+candidate documents and elim/nate accidental matches. Comparison of the chnnking methods and our algorithm are -><abstract>
+presented inthis poster. -><abstract>
+Teach -><intro>
+Margot Postema, School of Computer Science and Software Engineering, Monash University. -><affiliation>
+margot.postema~csse.monash.edu.au -><email>
+Jan Miller, School of Computer Science and Software Engineering, Monash University, jan_miller@csse.monash.edu.an -><email>
+Martin Dick, School of Compoter Science and Software Engineering, Monash University, martin-dick~csse.monash.edman -><affiliation>
+Maintenance can be defined as the single most expensive activity in large software ngineering projects, requiring -><abstract>
+65% to 75% of -><abstract>
+Engineering Practice (CSE2201) taught in the School of Computer Science and Software Engineering at Monash -><note>
+University is a second year core subject in an undergraduate d -><note>
+per year. CSE2201 introduces oftware ngineering concepts to students and expects tudents to view software -><note>
+engineering as an evolutionary process. Students are additionally introduced to and expected to implement the -><note>
+practical aspects of the Personal Software Process (PSP). We demonstrate he practice of -><note>
+evolution to undergraduate computing students in the Bachelor of Computing degree, and show how the four -><degree>
+maintenance activities of -><degree>
+component of -><degree>
+engineering. -><web>
+Classical -><title>
+Alan Wheeldon, Queenslanrl University of Technology, Brisbane, Australia. a.wheeldon@qut.edu.au -><author>
+Jim Reye, Queensland University of Technology,Brisbane, AnsU'Mia~ j.reye~qut.edu.au -><affiliation>
+Expla-ations are needed to give feedback to students, as part of an Intelligent Tutoring System (ITS). A student submits an -><abstract>
+SQL query to the ITS as a solution to a question. When the query is incorrect the student receives an explanation, from the -><abstract>
+ITS, of how they can improve it so that it satisfies the task at hand. -><abstract>
+An expert enters an SQL question into the ITS along with a goal statement represent'in S the objective or target of the question -><abstract>

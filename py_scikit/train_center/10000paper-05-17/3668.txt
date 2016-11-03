@@ -1,0 +1,13 @@
+A Variation of Reporting Center Scheme -><title>
+Yuanyuan Ding -><author>
+Department of Computer Science -><affiliation>
+The University of Mississippi -><affiliation>
+University, MS 38677 -><affiliation>
++1 (662) 915-5023 -><phone>
+yding@olemiss.edu -><email>
+Guangbin Fan -><author>
+Department of Computer Science -><affiliation>
+The University of Mississippi -><affiliation>
+University, MS 38677 -><affiliation>
++1 (662) 915-5355 -><phone>
+gfan@cs.olemiss.edu -><email>

@@ -1,0 +1,27 @@
+Mastering multi-player games -><title>
+∗ -><title>
+† -><title>
+‡ -><title>
+Michal Feldman -><author>
+Hebrew University -><affiliation>
+and Harvard University -><affiliation>
+Jerusalem, 91905, Israel -><address>
+mfeldman@huji.ac.il -><email>
+Yossi Azar -><author>
+Blavatnik School of Computer -><affiliation>
+Science -><affiliation>
+Tel-Aviv University -><affiliation>
+Tel-Aviv, Israel -><address>
+azar@post.tau.ac.il -><email>
+Uriel Feige -><author>
+Department of Computer -><affiliation>
+Science and Applied -><affiliation>
+Mathematics -><affiliation>
+the Weizmann Institute -><affiliation>
+Rehovot 76100, Israel -><address>
+uriel.feige@weizmann.ac.il -><email>
+Moshe Tennenholtz -><author>
+Microsoft Research and Technion -><affiliation>
+13 Shenkar street -><address>
+Herzliyah, Israel -><address>
+moshet@microsoft.com -><email>

@@ -1,0 +1,14 @@
+An Agent-Based Approach to Alleviating Packaging -><title>
+Mismatch -><title>
+Prasanta Bose -><author>
+Information and Software Engineering -><affiliation>
+George Mason University -><affiliation>
+Fairfax, VA 22030 -><address>
+(703) 993-1651 -><phone>
+pbose@gmu.edu -><email>
+Brian Blake -><author>
+Information and Software Engineering -><affiliation>
+George Mason University -><affiliation>
+Fairfax, VA 22030 -><address>
+(703) 883-7894 -><phone>
+mblake@gmu.edu -><email>

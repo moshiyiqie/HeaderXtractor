@@ -1,0 +1,7 @@
+Offline Policy Evaluation Across Representations with -><title>
+Applications to Educational Games -><title>
+Travis Mandel1,Yun-En Liu1, Sergey Levine2, Emma Brunskill3, and Zoran Popovic´1 -><author>
+1Center for Game Science, Computer Science & Engineering, University of Washington -><affiliation>
+2Department of Computer Science, Stanford University -><affiliation>
+3School of Computer Science, Carnegie Mellon University -><affiliation>
+{tmandel, yunliu, zoran}@cs.washington.edu, svlevine@cs.stanford.edu, ebrun@cs.cmu.edu -><email>

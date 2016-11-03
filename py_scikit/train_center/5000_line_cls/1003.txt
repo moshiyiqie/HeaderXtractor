@@ -1,10 +1,25 @@
-An Empirical Assessment of Using Stereotypes to Improve Reading Techniques -><abstract>
-in Software Inspections -><abstract>
-Miroslaw Staron, Ludwik Kuzniarz, Christian Thurn -><abstract>
-Department of Systems and Software Engineering -><abstract>
-School of Engineering -><abstract>
-Blekinge Institute of Technology -><affiliation>
-Box 520, Soft Center -><abstract>
-SE-372 25 Ronneby, Sweden -><abstract>
-(Miroslaw.Staron, Ludwik.Kuzniarz)@bth.se, Christian.Thurn@ipbolaget.com -><email>
-63 -><abstract>
+Pheromone Model: Application to Traffic Congestion Prediction -><title>
+Osamu Masutani, -><title>
+Hiroshi Sasaki, -><title>
+Shinichi Honiden -><author>
+National Institute of Informatics -><affiliation>
+2-1-2 Hitotsubashi Chiyoda-ku Tokyo, -><address>
+Japan -><address>
++81-3-4212-2513 -><phone>
+honiden@nii.ac.jp -><email>
+Hirotoshi Iwasaki -><author>
+Yasushi Ando, -><author>
+Yoshiaki Fukazawa -><author>
+Department of Science and -><affiliation>
+Engineering, Waseda University -><affiliation>
+3-4-1 Okubo Shinjuku-ku, Tokyo, -><address>
+Japan -><address>
++81-3-3208-9162 -><phone>
+Denso IT Laboratory, Inc. -><affiliation>
+3-12-22 Shibuya Shibuya-ku Tokyo -><note>
+Japan -><address>
++81-3-6419-2300 -><phone>
+ando@fuka.info.waseda.ac.jp, -><email>
+fukazawa@waseda.jp -><email>
+{omasutani,hsasaki,hiwasaki}@ -><email>
+d-itlab.co.jp -><affiliation>

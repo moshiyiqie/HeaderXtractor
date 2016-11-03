@@ -1,0 +1,5 @@
+Adaptive Sharing of Large Resources in P2P Networks -><title>
+Prithviraj Dasgupta -><author>
+Computer Science Department -><affiliation>
+University of Nebraska, Omaha, NE 68182, USA -><affiliation>
+E-mail: pdasgupta@mail.unomaha.edu -><email>

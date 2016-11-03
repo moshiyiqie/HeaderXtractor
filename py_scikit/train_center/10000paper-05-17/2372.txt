@@ -1,0 +1,7 @@
+Continuous Foraging and Information Gathering -><title>
+in a Multi-Agent Team -><title>
+Somchaya Liemhetcharat, Rui Yan, Keng Peng Tee -><author>
+Institute for Infocomm Research -><affiliation>
+Agency for Science, Technology and Research -><affiliation>
+Singapore 138632, Singapore -><address>
+{liemhet-s, ryan, kptee}@i2r.a-star.edu.sg -><email>

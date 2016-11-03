@@ -1,0 +1,10 @@
+Multi-Robot Inverse Reinforcement Learning under -><title>
+Occlusion with Interactions -><title>
+Kenneth Bogert -><author>
+Computer Science Department, University of -><affiliation>
+Georgia -><address>
+kbogert@uga.edu -><email>
+Prashant Doshi -><author>
+Computer Science Department, University of -><affiliation>
+Georgia -><address>
+pdoshi@cs.uga.edu -><email>

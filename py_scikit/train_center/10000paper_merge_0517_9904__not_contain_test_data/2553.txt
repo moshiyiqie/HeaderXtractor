@@ -1,0 +1,6 @@
+Aerial Robotic Simulations for Evaluation of Multi-Agent -><title>
+Planning in GaTAC -><title>
+(Demonstration) -><title>
+Kenneth Bogert, Sina Solaimanpour, Prashant Doshi -><author>
+THINC Lab, Computer Science Department, University of Georgia -><affiliation>
+{kbogert, sina, pdoshi}@uga.edu -><email>

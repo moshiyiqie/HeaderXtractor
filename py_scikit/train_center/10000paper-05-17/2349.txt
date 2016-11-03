@@ -1,0 +1,14 @@
+A Multiagent Approach to Variable-Rate Electric Vehicle -><title>
+Charging Coordination -><title>
+Konstantina Valogianni -><author>
+Erasmus University Rotterdam -><affiliation>
+The Netherlands -><address>
+kvalogianni@rsm.nl -><email>
+Wolfgang Ketter -><author>
+Erasmus University Rotterdam -><affiliation>
+The Netherlands -><address>
+wketter@rsm.nl -><email>
+John Collins -><author>
+University of Minnesota -><affiliation>
+Minneapolis, MN, USA -><address>
+jcollins@cs.umn.edu -><email>

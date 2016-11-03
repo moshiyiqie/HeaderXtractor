@@ -1,0 +1,8 @@
+ACUMEN: Amplifying Control and Understanding of -><title>
+Multiple ENtities -><title>
+Jan Allbeck, Karin Kipper, Charles Adams, William Schuler, Elena Zoubanova, -><author>
+Norman Badler, Martha Palmer, and Aravind Joshi -><author>
+Computer and Information Science -><affiliation>
+200 S. 33rd St. -><address>
+Philadelphia, PA 19104-6389 -><address>
+allbeck@seas.upenn.edu -><email>

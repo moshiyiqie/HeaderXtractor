@@ -1,0 +1,6 @@
+A Decentralised Coordination Algorithm for Minimising -><title>
+Conflict and Maximising Coverage in Sensor Networks -><title>
+Ruben Stranders, Alex Rogers and Nicholas R. Jennings -><author>
+School of Electronics and Computer Science -><affiliation>
+Southampton, SO17 1BJ, UK. -><address>
+{rs06r,acr,nrj}@ecs.soton.ac.uk -><email>

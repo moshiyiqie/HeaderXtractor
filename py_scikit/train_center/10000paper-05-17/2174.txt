@@ -1,0 +1,6 @@
+A Multi-Agent Game for Studying Human Decision-making -><title>
+(Demonstration) -><title>
+Han Yu, Xinjia Yu, Su Fang Lim, Jun Lin, Zhiqi Shen, and Chunyan Miao -><author>
+Joint NTU-UBC Research Centre of Excellence in Active Living for the Elderly (LILY) -><affiliation>
+Nanyang Technological University, 50 Nanyang Avenue, Singapore 639798 -><affiliation>
+{han.yu, xyu009, sflim2, jlin7, zqshen, ascymiao}@ntu.edu.sg -><email>

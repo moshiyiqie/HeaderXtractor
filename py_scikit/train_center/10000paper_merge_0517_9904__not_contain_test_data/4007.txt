@@ -1,0 +1,26 @@
+Extensions to and Optimization of a Mobile Computational -><title>
+System for Internet Programming -><title>
+Gregory Adkins -><author>
+Elizabeth Carter -><author>
+The College of New Jersey -><affiliation>
+The College of New Jersey -><affiliation>
+2000 Pennington Rd -><address>
+2000 Pennington Rd -><address>
+Ewing, NJ 08628 -><address>
+Ewing, NJ 08628 -><address>
+1-609-771-2788 -><phone>
+1-609-771-2788 -><phone>
+adkins5@tcnj.edu -><email>
+carter6@tcnj.edu -><email>
+Amanda Micai -><author>
+The College of New Jersey -><affiliation>
+2000 Pennington Rd -><address>
+Ewing, NJ 08628 -><address>
+1-609-771-2788 -><phone>
+micai2@tcnj.edu -><email>
+Sarah M. Pulimood -><author>
+The College of New Jersey -><affiliation>
+2000 Pennington Rd -><address>
+Ewing, NJ 08628 -><address>
+1-609-771-2788 -><phone>
+pulimood@tcnj.edu -><email>

@@ -1,0 +1,4 @@
+Security Games with Interval Uncertainty -><title>
+Christopher Kiekintveld, Towhidul Islam, Vladick Kreinovich -><author>
+Computer Science Department, University of Texas at El Paso -><affiliation>
+cdkiekintveld@utep.edu, mislam2@miners.utep.edu, vladik@utep.edu -><email>

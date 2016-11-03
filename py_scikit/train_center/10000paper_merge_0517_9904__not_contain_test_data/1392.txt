@@ -1,0 +1,12 @@
+Memory Formation, Consolidation, and Forgetting -><title>
+in Learning Agents -><title>
+Yuan-Sin Tan, Loo-Nin Teow -><author>
+DSO National Laboratories, -><affiliation>
+20 Science Park Drive, Singapore 118230 -><address>
+{tyuansin,tloonin}@dso.org.sg -><email>
+Budhitama Subagdja, -><author>
+Wenwen Wang, Ah-Hwee Tan -><author>
+School of Computer Engineering, -><affiliation>
+Nanyang Technological University -><affiliation>
+Nanyang Avenue, Singapore 639798 -><address>
+{budhitama,wa0003en,asahtan}@ntu.edu.sg -><email>

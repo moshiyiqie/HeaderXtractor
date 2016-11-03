@@ -1,0 +1,6 @@
+An -><title>
+(Extended -><title>
+William -><author>
+Department -><affiliation>
+University -><affiliation>
+{groves,gini}@cs.umn.edu -><email>

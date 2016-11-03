@@ -1,0 +1,9 @@
+PAWS: Adaptive Game-theoretic Patrolling for Wildlife -><title>
+Protection -><title>
+(Demonstration) -><title>
+Benjamin Ford, Debarun Kar, Francesco M. Delle Fave, Rong Yang, Milind Tambe -><author>
+University of Southern California, Los Angeles, CA, US -><affiliation>
+{benjamif,dkar,dellefav,yangrong,tambe}@usc.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial In- -><unknow>
+telligence - multiagent systems -><unknow>

@@ -1,0 +1,14 @@
+On the Tradeoff between Economic Efficiency and -><title>
+Strategyproofness in Randomized Social Choice -><title>
+Haris Aziz -><author>
+NICTA and UNSW -><affiliation>
+Australia -><address>
+haris.aziz@nicta.com.au -><email>
+Markus Brill -><author>
+TU München -><affiliation>
+Germany -><address>
+brill@in.tum.de -><email>
+Felix Brandt -><author>
+TU München -><affiliation>
+Germany -><address>
+brandtf@in.tum.de -><email>

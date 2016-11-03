@@ -1,0 +1,34 @@
+Holonic Agents for the Coordination of Supply Webs -><title>
+German Research Centre for Artificial Intelligence -><author>
+++49 681 3025010 -><phone>
+{agerber,klusch,russ,zinnikus}@dfki.de -><email>
+1. MOTIVATION -><abstract>
+In retail industry as well as in many other industries supply -><abstract>
+structures are evolving appearing more web-like than chain-like. -><abstract>
+Such structures are called supply webs [9][11] - i.e. B2B-enabled -><abstract>
+dynamic networks of supply chain units - and will replace today's -><abstract>
+static supply chains to an increasing extent. -><abstract>
+Partnerships between autonomous business entities in these -><abstract>
+supply webs can be flexibly contracted or withdrawn and are -><abstract>
+predominantly short-dated. This may cause complex coordination -><abstract>
+problems since the resulting many-to-many interactions and -><abstract>
+instantiated supply paths are not stable but change dynamically. -><abstract>
+Each operative unit of a retail supply web can be modelled as an -><abstract>
+agent [2] [3] which represents either a supplier, producer, broker, -><abstract>
+wholesaler, retailer, warehouse, distribution center, branch, or -><abstract>
+logistics service provider. -><abstract>
+Flexible and efficient interactions between the supply web agents -><abstract>
+can be enabled by the use of an agent-based supply web -><abstract>
+coordination infrastructure that brings supply chain entities with -><abstract>
+common or complementing goals together and enables them to -><abstract>
+coordinate their activities. We propose to realize the supply web -><abstract>
+agents as well as the components of the coordination -><abstract>
+infrastructure as holonic agents [3] [10]. -><abstract>
+2. HOLONIC MULTI-AGENT SYSTEMS -><abstract>
+A holonic agent [4] [5] [6] consists of a hierarchically structured -><abstract>
+set of subagents from which each can consist of further subagents. -><abstract>
+With agents, holonic agents share the properties of autonomy, -><abstract>
+goal-directed behavior and communication. But the subagents -><abstract>
+surrender parts of their autonomy to the upper hierarchy levels -><abstract>
+within the holonic agent, e.g. the control over their local -><abstract>
+resources. In this sense, one subagent of the holon, called head -><abstract>

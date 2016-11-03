@@ -1,0 +1,7 @@
+A New Watermarking Approach for Relational Data -><title>
+Vahab Pournaghshband -><author>
+University of California, Berkeley -><affiliation>
+Computer Science Division -><affiliation>
+Berkeley, CA 94720-1776 -><address>
++1 (510) 847-6182 -><phone>
+vahab@berkeley.edu -><email>

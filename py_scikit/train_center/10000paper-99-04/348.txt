@@ -1,0 +1,14 @@
+Modelling the Collaborative Mission Planning Process -><affiliation>
+using Dynamic Teamwork Structures -><title>
+Susannah Soon1, 2 -><author>
+susannah@cs.mu.oz.au -><email>
+Adrian Pearce1 -><author>
+pearce@cs.mu.oz.au -><email>
+Max Noble2 -><author>
+max.noble@adi-limited.com -><email>
+2ADI Limited, -><address>
+1Department of Computer Science and Software Engineering, -><address>
+The University of Melbourne, -><affiliation>
+Victoria, 3010, Australia -><address>
+20-22 Stirling Highway, -><address>
+Nedlands, WA, 6009, Australia -><address>

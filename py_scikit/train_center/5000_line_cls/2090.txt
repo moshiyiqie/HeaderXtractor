@@ -1,0 +1,10 @@
+A MAS Decision Support Tool for Water-Right Markets -><title>
+(Demonstration) -><title>
+A. Giret, A. Garrido, J.A. Gimeno, V.Botti -><author>
+Universitat Politècnica de València, -><affiliation>
+Valencia, Spain -><address>
+{agiret,agarridot,jgimeno,vbotti}@dsic.upv.es -><email>
+P. Noriega -><author>
+IIIA-CSIC, Spanish Scientific Research Council -><affiliation>
+Barcelona, Spain -><address>
+pablo@iiia.csic.es -><email>

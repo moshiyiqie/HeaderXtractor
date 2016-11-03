@@ -1,0 +1,16 @@
+Interactions as a Source of Learning -><title>
+Nadia Kabachi -><title>
+LASS -><title>
+Michel Lamure -><author>
+LASS -><author>
+Isabelle Jars -><author>
+LASS -><affiliation>
+43 bd du 11 Novembre 1918 -><address>
+69622 Villeurbanne Cedex, France -><address>
+isabelle.jars@univ-lyon1.fr -><email>
+43 bd du 11 Novembre 1918 -><address>
+69622 Villeurbanne Cedex, France -><address>
+nadia.kabachi@univ-lyon1.fr -><email>
+43 bd du 11 Novembre 1918 -><date>
+69622 Villeurbanne Cedex, France -><address>
+michel.lamure@univ-lyon1.fr -><email>

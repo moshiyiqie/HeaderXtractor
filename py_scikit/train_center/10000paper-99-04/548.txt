@@ -1,0 +1,11 @@
+Distributed Implementations of Vickrey-Clarke-Groves Mechanisms -><title>
+David C. Parkes -><author>
+Division of Engineering and Applied Sciences, -><affiliation>
+Harvard University, -><affiliation>
+33 Oxford Street, Cambridge MA 02138 -><address>
+parkes@eecs.harvard.edu -><email>
+Jeffrey Shneidman -><author>
+Division of Engineering and Applied Sciences, -><affiliation>
+Harvard University, -><affiliation>
+33 Oxford Street, Cambridge MA 02138 -><address>
+jeffsh@eecs.harvard.edu -><email>

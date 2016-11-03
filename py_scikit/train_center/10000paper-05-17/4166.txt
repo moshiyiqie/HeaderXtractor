@@ -1,0 +1,8 @@
+Improving the Capstone Project Experience: -><title>
+A Case Study in Software Engineering -><title>
+John G. Flowers -><author>
+University of South Carolina -><affiliation>
+Computer Science & Engineering -><affiliation>
+Columbia, SC 29208 -><address>
+1-803-600-1707 -><phone>
+flowerjg@engr.sc.edu -><email>

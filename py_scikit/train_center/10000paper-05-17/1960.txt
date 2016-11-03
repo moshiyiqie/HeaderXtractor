@@ -1,0 +1,5 @@
+Price of Fairness in Kidney Exchange -><title>
+John P. Dickerson, Ariel D. Procaccia, and Tuomas Sandholm -><author>
+Computer Science Department, Carnegie Mellon University -><affiliation>
+Pittsburgh, PA, USA -><address>
+{dickerson,arielpro,sandholm}@cs.cmu.edu -><email>

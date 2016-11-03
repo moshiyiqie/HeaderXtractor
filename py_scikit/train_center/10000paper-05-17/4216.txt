@@ -1,0 +1,13 @@
+DSR and TORA in Fixed and Mobile Wireless Networks -><title>
+Suhair Hafez Amer -><author>
+Department of Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+107 Dunstan Hall, Auburn University -><affiliation>
+Auburn, Alabama 36849-5347, USA -><affiliation>
+amersuh@auburn.edu -><email>
+John A. Hamilton, Jr. -><author>
+Department of Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+107 Dunstan Hall, Auburn University -><affiliation>
+Auburn, Alabama 36849-5347, USA -><affiliation>
+hamilton@auburn.edu -><email>

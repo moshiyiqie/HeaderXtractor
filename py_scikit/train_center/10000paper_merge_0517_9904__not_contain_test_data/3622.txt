@@ -1,0 +1,7 @@
+Examining the Expectations of Autonomy and Human -><title>
+Intervention in a Multi-robot Surveillance Task -><title>
+Shameka Dawson, Chris Crawford, Edward Dillon, and Monica Anderson -><author>
+The University of Alabama -><affiliation>
+Computer Science Department -><affiliation>
+Tuscaloosa, Alabama 35487 -><affiliation>
+{dawso003,cscrawford,ecdillon}@crimson.ua.edu, anderson@cs.ua.edu -><email>

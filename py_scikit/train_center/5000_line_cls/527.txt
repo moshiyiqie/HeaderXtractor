@@ -1,0 +1,13 @@
+Verifying Epistemic Properties of Multi-agent Systems via -><title>
+Bounded Model Checking∗ -><title>
+A. Lomuscio -><author>
+Department of Computer Science -><affiliation>
+King’s College London -><affiliation>
+Strand, London WC2R 2LS, UK -><address>
+email: alessio@dcs.kcl.ac.uk -><email>
+W. Penczek -><author>
+Institute of Computer Science, PAS -><affiliation>
+01-237 Warsaw, ul. Ordona 21, Poland -><address>
+and Podlasie Academy -><author>
+Institute of Informatics, Siedlce, Poland -><affiliation>
+email: penczek@ipipan.waw.pl -><email>

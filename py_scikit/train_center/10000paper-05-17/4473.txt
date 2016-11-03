@@ -1,0 +1,14 @@
+An Adaptive Localization System for First Responders -><title>
+∗ -><title>
+Federica Pascucci -><author>
+Dipartimento di Informatica e Automazione -><affiliation>
+Università degli Studi -><affiliation>
+“Roma Tre” -><affiliation>
+Via della Vasca Navale 79, 00146 Rome – IT -><address>
+pascucci@dia.uniroma3.it -><email>
+Roberto Setola -><author>
+Complex System & -><affiliation>
+Security Lab -><affiliation>
+Università CAMPUS BioMedico -><affiliation>
+via Alvaro del Portillo 21, 00128 Rome – IT -><address>
+r.setola@unicampus.it -><email>

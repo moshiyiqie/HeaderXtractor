@@ -1,0 +1,16 @@
+Service-Based Computing for Agents on Disruption and -><title>
+Delay Prone Networks -><title>
+Joseph Kopena, Guarav Naik, Maxim Peysakhov, -><author>
+Evan Sultanik, William Regli, Moshe Kam -><author>
+Drexel University -><affiliation>
+College of Engineering -><affiliation>
+Philadelphia PA 19104 -><address>
+kopena, gnaik, maxim, eas28, regli, kam@drexel.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Computing Methodologies]: Artificial Intelligence -><note>
+General Terms -><unknow>
+Communication planning -><title>
+Keywords -><keyword>
+agents & networks: web agents, semantic web, grid, web services, -><keyword>
+P2P, agent architectures; perception, action & planning in agents, -><keyword>
+mobile agents -><keyword>

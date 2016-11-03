@@ -1,0 +1,16 @@
+Student Paper: Self-organized Autonomous Web Proxies -><title>
+Markus J. Kaiser -><author>
+Kwok Ching Tsui -><author>
+Jiming Liu -><author>
+Department of Computer Science -><affiliation>
+Hong Kong Baptist University -><affiliation>
+Kowloon Tong, Kowloon, Hong Kong -><address>
+mjk@gmx.it -><email>
+Department of Computer Science -><affiliation>
+Hong Kong Baptist University -><affiliation>
+Kowloon Tong, Kowloon, Hong Kong -><address>
+tsuikc@comp.hkbu.edu.hk -><email>
+Department of Computer Science -><affiliation>
+Hong Kong Baptist University -><affiliation>
+Kowloon Tong, Kowloon, Hong Kong -><address>
+jiming@comp.hkbu.edu.hk -><email>

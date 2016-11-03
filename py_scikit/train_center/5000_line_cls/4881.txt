@@ -1,0 +1,7 @@
+Embodied Data Objects: Tangible Interfaces to Information -><title>
+Appliances -><title>
+Manas Tungare, Pardha S. Pyla, Pradyut Bafna, Vladimir Glina, Wenjie Zheng, Xiaoyan Yu, -><author>
+Umut Balli, Steven Harrison -><author>
+Dept. of Computer Science and Center for Human-Computer Interaction -><affiliation>
+Virginia Tech, Blacksburg VA 24061, USA -><address>
+{manas, ppyla, pradyut, vglina, wzheng, xiaoyany, uballi, sharrison}@vt.edu -><email>

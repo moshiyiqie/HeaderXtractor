@@ -1,0 +1,5 @@
+Min Xin Ehud Sharlin Mario Costa Sousa Saul Greenberg Faramarz Samavati -><author>
+University of Calgary -><affiliation>
+2500 University Drive NW -><affiliation>
+Calgary, Alberta, Canada, T2N 1N4 -><address>
+{mxin, ehud, mario, saul, samavati}@cpsc.ucalgary.ca -><email>

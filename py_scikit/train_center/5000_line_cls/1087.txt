@@ -1,0 +1,17 @@
+Intentional Adequacy of Computer Programs as -><title>
+the Experimental Reference of Agent-Based Social Simulation -><title>
+Nuno David -><author>
+ISCTE/DCTI, Department of -><affiliation>
+Information Science and Technology -><affiliation>
+Intelligent Techniques Laboratory -><affiliation>
+Helder Coelho -><author>
+Department of Informatics -><affiliation>
+University of Lisbon -><affiliation>
+Bloco C6, Piso 3 (06), 1749-016 -><address>
+Lisboa, Portugal -><address>
+hcoelho@di.fc.ul.pt -><email>
+1649-026 Lisboa, Portugal -><address>
+Av. Prof. Luciano Gualberto, tv.3, 158, -><address>
+05508-900 Sao Paulo SP Brazil -><address>
+Jaime.Sichman@poli.usp.br -><email>
+Nuno.David@iscte.pt -><email>

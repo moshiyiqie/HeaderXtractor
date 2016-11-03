@@ -1,0 +1,13 @@
+Dynamically Scripted Artificial Intelligence -><title>
+Hunter Hale -><author>
+Western Carolina University -><affiliation>
+5104 Dull Rd. -><address>
+East Bend, NC 27018 -><address>
++1 (336) 699-3657 -><phone>
+hhale@cs.wcu.edu -><email>
+Nathan Dawson -><author>
+Western Carolina University -><affiliation>
+1918 Merrimac Dr. -><address>
+Fayetteville, NC 28304 -><address>
++1 (910) 860-1148 -><phone>
+dawson@cs.wcu.edu -><email>

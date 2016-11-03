@@ -1,0 +1,6 @@
+The Complexity of Model Checking Concurrent Programs -><title>
+against CTLK Specifications -><title>
+Alessio Lomuscio, Franco Raimondi -><author>
+Department of Computer Science -><affiliation>
+University College London – London, UK -><affiliation>
+{a.lomuscio,f.raimondi}@cs.ucl.ac.uk -><email>

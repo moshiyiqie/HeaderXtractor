@@ -1,0 +1,13 @@
+The Movable Point Problem and Its Resolution in Object -><title>
+Type Graphs -><title>
+Boumediene Belkhouche -><author>
+EECS Department -><affiliation>
+Tulane University -><affiliation>
+New Orleans, LA 70118 -><address>
+bb@eecs.tulane.edu -><email>
+Cong-cong Xing -><author>
+Department of Mathematics and Computer -><affiliation>
+Science -><affiliation>
+Nicholls State University -><affiliation>
+Thibodaux, LA 70310 -><address>
+cmps-cx@nicholls.edu -><email>

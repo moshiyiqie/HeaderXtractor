@@ -1,0 +1,20 @@
+Hierarchical Planning about Goals and Commitments -><title>
+Munindar P. Singh -><author>
+Dept. of Computer Science -><affiliation>
+North Carolina State -><author>
+University -><affiliation>
+Raleigh, NC 27695-8206 -><address>
+singh@ncsu.edu -><email>
+Pankaj R. Telang -><author>
+Dept. of Computer Science -><affiliation>
+North Carolina State -><author>
+University -><affiliation>
+Raleigh, NC 27695-8206 -><address>
+prtelang@ncsu.edu -><email>
+Felipe Meneguzzi -><author>
+School of Computer Science -><affiliation>
+Pontifical Catholic University -><affiliation>
+of Rio Grande do Sul -><affiliation>
+Porto Alegre, RS 90619-900 -><address>
+Brazil -><address>
+felipe.meneguzzi@pucrs.br -><email>

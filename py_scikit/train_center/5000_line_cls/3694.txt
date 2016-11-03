@@ -1,0 +1,20 @@
+Variations on a Fuzzy Logic Gesture Recognition -><title>
+Algorithm -><title>
+Dr. Jon Purdy -><author>
+SimVis Group -><affiliation>
+University of Hull -><affiliation>
+Hull HU6 7RX -><address>
+United Kingdom -><address>
+j.h.purdy@dcs.hull.ac.uk -><email>
+Warren Viant -><email>
+SimVis Group -><author>
+University of Hull -><affiliation>
+Hull HU6 7RX -><address>
+United Kingdom -><address>
+w.j.viant@dcs.hull.ac.uk -><email>
+Lesley Anderson -><email>
+SimVis Group -><author>
+University of Hull -><affiliation>
+Hull HU6 7RX -><address>
+United Kingdom -><address>
+lesley.anderson@dcs.hull.ac.uk -><email>

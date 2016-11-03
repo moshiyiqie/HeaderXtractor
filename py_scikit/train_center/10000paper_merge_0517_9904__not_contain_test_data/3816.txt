@@ -1,0 +1,34 @@
+Towards a Model of Student Success in -><title>
+Programming Courses -><title>
+Anita F. Zgambo -><author>
+Kennesaw State University -><affiliation>
+1000 Chastain Rd. -><address>
+Kennesaw, GA 30144 -><address>
+azgambo@charter.net -><email>
+Hisham M. Haddad -><author>
+Kennesaw State University -><affiliation>
+1000 Chastain Rd. -><address>
+Kennesaw, GA 30144 -><address>
+hhaddad@kennesaw.edu -><email>
+Amy B. Woszczynski -><author>
+Kennesaw State University -><affiliation>
+1000 Chastain Rd. -><address>
+Kennesaw, GA 30144 -><address>
+awoszczy@kennesaw.edu -><email>
+1. PROBLEM AND MOTIVATION -><note>
+Since the birth of computer science some 40 years ago, -><abstract>
+educators and researchers alike have struggled with -><abstract>
+improving student success, particularly in the introductory -><abstract>
+programming courses, which often have a very high failure -><abstract>
+rate. Although many researchers have studied how and -><abstract>
+why students succeed in programming courses, no research -><abstract>
+to date has analyzed multiple variables simultaneously to -><abstract>
+develop an integrated model of student success. Rather, the -><abstract>
+research has been fragmented and non-cumulative, with -><abstract>
+researchers studying hundreds of different variables, under -><abstract>
+different conditions, and reaching different conclusions. -><abstract>
+Educators are faced with the arduous task of developing -><abstract>
+interventions and pedagogical techniques based on a -><abstract>
+plethora of seemingly important variables. In this work, we -><abstract>
+begin to bring together previous research to develop a -><abstract>
+model of student success based on theoretical reasoning. -><abstract>

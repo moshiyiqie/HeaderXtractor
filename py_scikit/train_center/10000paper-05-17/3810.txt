@@ -1,0 +1,14 @@
+A Free, Readily Upgradeable, Interactive Tool for Teaching -><title>
+Encryption Algorithms -><title>
+Chrisila C. Pettey -><author>
+Middle Tennessee State University -><affiliation>
+Department of Computer Science, Box 48 -><affiliation>
+Murfreesboro, TN 37132 -><address>
+1-615-898-2416 -><phone>
+cscbp@mtsu.edu -><email>
+Chris McNear -><author>
+Middle Tennessee State University -><affiliation>
+Department of Computer Science, Box 48 -><address>
+Murfreesboro, TN 37132 -><address>
+1-615-898-2416 -><phone>
+Christopher.K.McNear@boeing.com -><email>

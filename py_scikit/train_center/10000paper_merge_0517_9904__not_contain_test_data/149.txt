@@ -1,0 +1,20 @@
+Towards an Organizational Model for Agent Societies -><title>
+Using Contracts -><title>
+Virginia Dignum -><author>
+Achmea & University Utrecht -><affiliation>
+PO Box 80.089, 3508TB Utrecht -><address>
+The Netherlands -><address>
+Phone: +31-(0)30-2534432 -><phone>
+virginia.dignum@achmea.nl -><email>
+Hans Weigand -><author>
+Infolab, Tilburg University -><affiliation>
+PO Box 90153, 5000 LE Tilburg -><address>
+The Netherlands -><address>
+Phone: +31-(0)13-4662806 -><phone>
+weigand@kub.nl -><email>
+John-Jules Meyer -><author>
+University Utrecht -><affiliation>
+PO Box 80.089, 3508TB Utrecht -><address>
+The Netherlands -><address>
+Phone: +31-(0)30-2534432 -><phone>
+jj@cs.uu.nl -><email>

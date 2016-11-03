@@ -1,0 +1,6 @@
+An Implementation of Heegaard Diagrams -><title>
+P. J. Kapitza -><author>
+Department of Mathematics -><affiliation>
+Berry College -><affiliation>
+Mount Berry, GA, U.S. -><address>
+pkapitza@berry.edu -><email>

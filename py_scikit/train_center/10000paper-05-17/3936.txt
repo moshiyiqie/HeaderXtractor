@@ -1,0 +1,11 @@
+Optimizing Octree Motion Representation for 3D animation -><title>
+Jinghua Zhang -><author>
+Wesleyan College -><affiliation>
+4760 Forsyth Road -><address>
+Macon, Georgia 31210 -><address>
+jzhang@wesleyancollege.edu -><email>
+Jinsheng Xu -><author>
+North Carolina A&T State University -><affiliation>
+1601 East Market Street -><address>
+Greensboro, NC 27411 -><address>
+jxu@ncat.edu -><email>

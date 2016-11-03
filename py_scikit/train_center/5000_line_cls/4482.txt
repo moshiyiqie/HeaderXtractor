@@ -1,0 +1,5 @@
+An Embedded Sensing Approach to -><title>
+Monitoring Parking Lot Occupancy -><title>
+J.A. Propst, K.M. Poole, J.O. Hallstrom -><author>
+School of Computing, Clemson University -><affiliation>
+{japrops,kmp,jasonoh}@cs.clemson.edu -><email>

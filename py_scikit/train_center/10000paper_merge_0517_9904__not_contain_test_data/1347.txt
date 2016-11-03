@@ -1,0 +1,7 @@
+Max/Min-sum Distributed Constraint Optimization through -><title>
+Value Propagation on an Alternating DAG -><title>
+Roie Zivan and Hilla Peled -><author>
+Industrial Engineering and Management department, -><affiliation>
+Ben Gurion University, -><affiliation>
+Beer-Sheva, Israel -><address>
+{zivanr,hillapel}@bgu.ac.il -><email>

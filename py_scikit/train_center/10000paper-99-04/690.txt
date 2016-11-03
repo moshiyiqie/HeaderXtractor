@@ -1,0 +1,19 @@
+Reaching diagnostic agreement in Multi-Agent Diagnosis -><title>
+Nico Roos -><author>
+IKAT -><affiliation>
+Universiteit Maastricht -><affiliation>
+P.O.Box 616 -><address>
+6200 MD Maastricht -><address>
+roos@cs.unimaas.nl -><email>
+Annette ten Teije -><author>
+Faculty of Sciences -><affiliation>
+Free University -><affiliation>
+De Boelelaan 1081A -><address>
+1081 HV Amsterdam -><address>
+annette@cs.vu.nl -><email>
+Cees Witteveen -><degree>
+Faculty of EEMCS -><degree>
+Delft University of Technology -><affiliation>
+PO Box 5031 -><address>
+2600 GA Delft -><address>
+c.witteveen@ewi.tudelft.nl -><email>

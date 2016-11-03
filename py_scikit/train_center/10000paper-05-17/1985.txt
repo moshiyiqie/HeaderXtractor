@@ -1,0 +1,14 @@
+Counting Votes for Aggregating Judgments -><title>
+Sébastien Konieczny -><author>
+CRIL – CNRS -><affiliation>
+Lens, France -><address>
+konieczny@cril.fr -><email>
+Pierre Marquis -><author>
+CRIL – CNRS -><affiliation>
+Lens, France -><address>
+marquis@cril.fr -><email>
+Patricia Everaere -><author>
+LIFL – CNRS -><affiliation>
+Lille, France -><address>
+patricia.everaere@univ- -><email>
+lille1.fr -><web>

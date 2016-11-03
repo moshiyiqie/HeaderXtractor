@@ -1,0 +1,7 @@
+Mapping Induced Residential Demand for Electricity in -><title>
+Kenya -><title>
+Douglas Fabini†, Diego Ponce de León Baridó‡, Akomeno Omu, and Jay Taneja -><author>
+IBM Research, Africa †Materials Research Laboratory ‡Energy and Resources Group -><affiliation>
+Nairobi, Kenya University of California, Santa Barbara University of California, Berkeley -><affiliation>
+{akomeno_omu,taneja} Santa Barbara, CA, U.S.A. Berkeley, CA, U.S.A. -><email>
+@ke.ibm.com fabini@mrl.ucsb.edu diegoleon@berkeley.edu -><email>

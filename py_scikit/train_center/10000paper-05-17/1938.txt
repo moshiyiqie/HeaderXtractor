@@ -1,0 +1,18 @@
+A Synergistic and Extensible Framework for Multi-Agent -><title>
+System Verification. -><title>
+Neha Rungta -><author>
+NASA Ames Research Center -><affiliation>
+Moffett Field, CA, USA -><address>
+neha.s.rungta@nasa.gov -><email>
+Franco Raimondi -><author>
+MiddleSex University -><affiliation>
+London, UK -><address>
+f.raimondi@mdx.ac.uk -><email>
+Josie Hunter -><author>
+Oregon State University -><affiliation>
+Corvallis, Oregon, USA -><address>
+josie@snowgoose.com -><email>
+Richard Stocker -><author>
+University of Liverpool -><affiliation>
+Liverpool, Merseyside, UK -><address>
+r.s.stocker@liverpool.ac.uk -><email>

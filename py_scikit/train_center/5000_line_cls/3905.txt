@@ -1,0 +1,23 @@
+iGameFloor -><title>
+Louise Aagaard -><author>
+Aarhus School of -><affiliation>
+Architecture, -><address>
+Karen Johanne Kortbek, -><author>
+Kaspar R. Nielsen, -><author>
+Alexandra Institute Ltd., -><affiliation>
+Department of Computer -><affiliation>
+Science, University of -><affiliation>
+Ole S. Iversen -><author>
+Department of -><affiliation>
+Information Science, -><address>
+Helsingforsgade 14, -><address>
+8200 Aarhus N, -><address>
+Denmark -><address>
+imvoi@hum.au.dk -><email>
+kgronbak@daimi.au.dk -><email>
+8000 Aarhus C, Denmark -><note>
+louise.aagaard -><note>
+@aarch.dk -><email>
+Denmark -><address>
+{kortbek, kaspar} -><address>
+@alexandra.dk -><email>

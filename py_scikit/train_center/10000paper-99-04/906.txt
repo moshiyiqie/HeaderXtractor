@@ -1,0 +1,7 @@
+Accelerated 3-D Graphics in an XFree86 -><title>
+Environment -><title>
+James M. Westall -><author>
+Department ofComputer Science -><affiliation>
+Clemson University -><affiliation>
+Clemson, South Carolina USA 29634-0974 -><address>
+westall@cs.clemson.edu -><email>

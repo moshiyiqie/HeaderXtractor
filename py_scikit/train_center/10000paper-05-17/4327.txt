@@ -1,0 +1,11 @@
+Reliable Telemetry in White Spaces using -><title>
+Remote Attestation -><title>
+Carl A. Gunter -><author>
+University of Illinois -><affiliation>
+Urbana-Champaign -><unknow>
+Omid Fatemieh -><author>
+University of Illinois -><affiliation>
+Urbana-Champaign -><unknow>
+Michael LeMay -><author>
+University of Illinois -><affiliation>
+Urbana-Champaign -><address>

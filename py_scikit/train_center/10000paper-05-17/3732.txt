@@ -1,0 +1,8 @@
+Acquiring and Delivering Lessons Learned for NASA -><title>
+Scientists and Engineers: A Dynamic Approach -><title>
+Swapna Gupta J. Scott Hawker Randy K. Smith -><author>
+The University of Alabama Rochester Institute of Technology The University of Alabama -><affiliation>
+Department of Computer Science Department of Software Engineering Department of Computer Science -><affiliation>
+Box 870290 20 Lomb Memorial Drive Box 870290 -><address>
+Tuscaloosa, Al 35487 Rochester, NY 14623 Tuscaloosa, Al 35487 -><address>
+sgupta@cs.ua.edu hawker@se.rit.edu rsmith@cs.ua.edu -><email>

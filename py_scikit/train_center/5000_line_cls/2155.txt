@@ -1,0 +1,19 @@
+A New Approach to Betweenness Centrality Based on -><title>
+the Shapley Value∗ -><title>
+Tomasz Michalak -><author>
+Institute of Informatics, -><affiliation>
+University of Warsaw -><affiliation>
+02-097 Warsaw -><address>
+ul. Banacha 2, Poland -><address>
+Talal Rahwan -><author>
+Electronics and Computer -><affiliation>
+Science, University of -><affiliation>
+Southampton -><address>
+SO17 1BJ -><address>
+University Road, UK -><affiliation>
+Piotr L. Szczepan´ski -><author>
+Institute of Informatics, -><affiliation>
+Warsaw University of -><affiliation>
+Technology -><affiliation>
+Pl. Politechniki 1 -><address>
+00-661 Warsaw, Poland -><address>

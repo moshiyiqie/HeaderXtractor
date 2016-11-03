@@ -1,0 +1,11 @@
+Facility Location Games with Dual Preference -><title>
+Minming Li -><author>
+Department of Computer Science, City -><affiliation>
+University of Hong Kong -><affiliation>
+Hong Kong -><address>
+minming.li@cityu.edu.hk -><email>
+Shaokun Zou -><author>
+Department of Computer Science, City -><affiliation>
+University of Hong Kong -><affiliation>
+Hong Kong -><address>
+zoushaokun15@gmail.com -><email>

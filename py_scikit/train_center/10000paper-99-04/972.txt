@@ -1,0 +1,7 @@
+A Model-Driven Approach for Generating Embedded -><title>
+Robot Navigation Control Software -><title>
+Bina Shah, Rachael Dennison, Jeff Gray -><author>
+Department of Computer and Information Sciences -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+Birmingham, AL 35294 USA -><address>
+{iambina, raeanne, jgg}@uab.edu -><email>

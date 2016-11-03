@@ -1,0 +1,7 @@
+Empirical Software Engineering for Agent Programming -><title>
+M. Birna van Riemsdijk -><author>
+Interactive Intelligence -><affiliation>
+Delft University of Technology -><affiliation>
+Mekelweg 4, 2628 CD, Delft -><address>
+The Netherlands -><address>
+m.b.vanriemsdijk@tudelft.nl -><email>

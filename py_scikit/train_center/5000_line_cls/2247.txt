@@ -1,0 +1,20 @@
+Overlapping Coalition Formation Games: -><title>
+Charting the Tractability Frontier -><title>
+Georgios Chalkiadakis -><author>
+Department of Electronic and -><affiliation>
+Computer Engineering -><affiliation>
+Technical University of Crete, -><affiliation>
+Greece -><address>
+gehalk@ece.tuc.gr -><email>
+Edith Elkind -><author>
+School of Physical and -><affiliation>
+Mathematical Sciences -><address>
+Nanyang Technological -><address>
+University, Singapore -><affiliation>
+eelkind@ntu.edu.sg -><email>
+Yair Zick -><email>
+School of Physical and -><degree>
+Mathematical Sciences -><degree>
+Nanyang Technological -><degree>
+University, Singapore -><affiliation>
+yair0001@ntu.edu.sg -><email>

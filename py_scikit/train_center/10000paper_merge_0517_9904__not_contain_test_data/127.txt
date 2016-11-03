@@ -1,0 +1,20 @@
+The Eager Bidder Problem: -><title>
+A Fundamental Problem of DAI and Selected Solutions -><title>
+Klaus Fischer -><author>
+German Research Center for -><affiliation>
+Artificial Intelligence (DFKI) -><affiliation>
+Stuhlsatzenhausweg 3 -><address>
+66123 Saarbru¨cken, Germany -><address>
+kuf@dfki.de -><email>
+Christian Kray -><author>
+German Research Center for -><affiliation>
+Artificial Intelligence (DFKI) -><affiliation>
+Stuhlsatzenhausweg 3 -><address>
+66123 Saarbru¨cken, Germany -><address>
+kray@dfki.de -><email>
+Michael Schillo -><author>
+German Research Center for -><affiliation>
+Artificial Intelligence (DFKI) -><affiliation>
+Stuhlsatzenhausweg 3 -><address>
+66123 Saarbru¨cken, Germany -><address>
+schillo@dfki.de -><email>

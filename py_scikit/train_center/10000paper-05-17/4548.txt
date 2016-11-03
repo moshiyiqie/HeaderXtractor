@@ -1,0 +1,14 @@
+Contextual Information Integration Platform for -><title>
+Humanitarian Relief -><title>
+Shivsubramani Krishnamoorthy -><author>
+MIND Lab, -><affiliation>
+Department of Computer Science, -><affiliation>
+University of Maryland -><affiliation>
+College Park, MD 20742. USA -><address>
+Ashok Agrawala -><author>
+MIND Lab, -><affiliation>
+Department of Computer Science, -><affiliation>
+University of Maryland -><affiliation>
+College Park, MD 20742. USA -><address>
+agrawala@cs.umd.edu -><email>
+shiv@cs.amrita.edu -><email>

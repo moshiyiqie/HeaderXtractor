@@ -1,0 +1,12 @@
+A Mobile Geo-wand Enabling Gesture Based POI Search -><title>
+an User Generated Directional POI Photography -><title>
+Paul Coulton -><author>
+Infolab21, Lancaster University -><affiliation>
+Lancaster, Lancashire, LA1 4WA, UK -><address>
++44(0)1524 510393 -><phone>
+p.coulton@lancaster.ac.uk -><email>
+Zhang Lei -><author>
+Infolab21, Lancaster University -><affiliation>
+Lancaster, Lancashire, LA1 4WA, UK -><address>
++44(0)1524 510537 -><phone>
+l.zhang2@lancaster.ac.uk -><email>

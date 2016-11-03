@@ -1,0 +1,21 @@
+PhoneGuard: A smartphone in the coalmine -><title>
+Abhishek Samanta -><author>
+College of Computer and -><affiliation>
+Information Science -><affiliation>
+Northeastern University -><affiliation>
+Boston, USA -><address>
+samanta@ccs.neu.edu -><email>
+Ravi Sundaram -><author>
+College of Computer and -><affiliation>
+Information Science -><affiliation>
+Northeastern University -><affiliation>
+Boston, USA -><address>
+koods@ccs.neu.edu -><email>
+Nicolas Mayor and Jean- -><author>
+Frederic Wagen -><author>
+Mobile Systems -><affiliation>
+University of Applied Sciences -><affiliation>
+of Western Switzerland -><affiliation>
+Fribourg, Switzerland -><address>
+Jean- -><email>
+Frederic.Wagen@hefr.ch -><email>

@@ -1,0 +1,17 @@
+Decision Procedures for Multiple Auctions -><title>
+Andrew Byde -><author>
+Hewlett-Packard Laboratories, -><affiliation>
+Filton Road, Stoke Gifford, -><address>
+Bristol BS34 8QZ, UK. -><address>
+Andrew Byde@hp.com -><email>
+Chris Preist -><author>
+Hewlett-Packard Laboratories, -><affiliation>
+Filton Road, Stoke Gifford, -><address>
+Bristol BS34 8QZ, UK. -><address>
+Chris Preist@hp.com -><email>
+Nicholas R Jennings -><author>
+Dept of Electronics & -><affiliation>
+Computer Science, -><affiliation>
+University of Southampton, -><affiliation>
+Southampton SO17 1BJ, UK. -><address>
+nrj@ecs.soton.ac.uk -><email>

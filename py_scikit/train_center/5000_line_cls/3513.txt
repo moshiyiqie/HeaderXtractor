@@ -1,0 +1,17 @@
+Social Media -><title>
+Minna Isomursu -><author>
+VTT Technical Research Center of -><affiliation>
+Finland -><address>
+Ari-Heikki Sarjanoja -><author>
+University of Oulu -><affiliation>
+P.O.Box 1001 -><address>
+FI-90014 Oulu -><address>
+Finland -><address>
+ari-heikki.sarjanoja@oulu.fi -><email>
+Center for Internet Excellence -><affiliation>
+University of Oulu -><affiliation>
+P.O.Box 1001 -><address>
+FI-90014 Oulu, Finland -><address>
+jonna.hakkila@cie.fi -><email>
+FI-90570 Oulu, Finland -><address>
+minna.isomursu@vtt.fi -><email>

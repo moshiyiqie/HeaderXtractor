@@ -1,0 +1,24 @@
+3D Reconstruction of 2D Crystals -><title>
+James Ervin Glover -><author>
+Fort Valley State University -><affiliation>
+1005 State University Dr. -><affiliation>
+Fort Valley, GA 31030 -><address>
+1-478-825-6286 -><phone>
+gloverj@fvsu.edu -><email>
+Owen Hughes -><author>
+Eon Corporation -><affiliation>
+707 4th St., Suite 305 -><address>
+Davis, CA 95616 -><address>
+1-530-756-6903 -><phone>
+owen@eonresearch.com -><email>
+Xiangyan Zeng -><author>
+Fort Valley State University -><affiliation>
+1005 State University Dr. -><affiliation>
+Fort Valley, GA 31030 -><address>
+1-478-825-6528 -><phone>
+zengx@fvsu.edu -><email>
+Henning Stahlberg -><author>
+University Basel -><affiliation>
+CH-4058 Basel, Switzerland -><address>
+41-61-387-3262 -><phone>
+henning.stahlberg@unibas.ch -><email>

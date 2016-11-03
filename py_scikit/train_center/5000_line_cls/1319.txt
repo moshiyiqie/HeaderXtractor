@@ -1,0 +1,17 @@
+The hidden dangers of experimenting in distributed AI -><title>
+Annika Smit  -><title>
+Masja Kempen -><title>
+Niek Wijngaards -><author>
+DECIS Lab -><affiliation>
+Thales Research & Technology Netherlands -><affiliation>
+P.O. Box 90, 2600 AB Delft, The Netherlands -><address>
++31 15 2517{865, 861, 867} -><phone>
+DECIS Lab -><affiliation>
+TNO Defence, Security & Safety -><affiliation>
+P.O. Box 96864 -><address>
+2509 JG The Hague, -><address>
+The Netherlands -><address>
++31 70 374 01 78 -><phone>
+andre.meyer@{decis.nl, tno.nl} -><email>
+{annika.smit, masja.kempen, -><email>
+niek.wijngaards}@icis.decis.nl -><email>

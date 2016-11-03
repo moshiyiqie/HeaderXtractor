@@ -1,0 +1,8 @@
+Structured Tiles: Directed Subgraphs of Recurring Path -><title>
+Patterns in Board Games -><title>
+Yannis Lilis1, Anthony Savidis1,2 -><author>
+Institute of Computer Science, FORTH -><affiliation>
+1 -><pubnum>
+2 -><pubnum>
+Department of Computer Science, University of Crete -><affiliation>
+{lilis, as}@ics.forth.gr -><email>

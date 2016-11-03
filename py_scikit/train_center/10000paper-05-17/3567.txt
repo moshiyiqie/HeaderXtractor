@@ -1,0 +1,7 @@
+Efficient schema extraction from a large collection of -><title>
+XML documents -><title>
+Guangming Xing Vijayeandra Parthepan -><author>
+Dept. of Mathematics and Computer Science Dept. of Mathematics and Computer Science -><affiliation>
+Western Kentucky University Western Kentucky University -><affiliation>
+Bowling Green, KY 42101 Bowling Green, KY 42101 -><address>
+guangming.xing@wku.edu vijayeandra.parthepan713@topper.wku.edu -><email>

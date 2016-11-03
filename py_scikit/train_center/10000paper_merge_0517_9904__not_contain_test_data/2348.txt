@@ -1,0 +1,7 @@
+Predicting Bundles of Spatial Locations from Learning -><title>
+Revealed Preference Data -><author>
+Truc Viet Le#, Siyuan Liu?, Hoong Chuin Lau#, and Ramayya Krishnan? -><affiliation>
+#School of Information Systems, Singapore Management University -><affiliation>
+?Heinz College, Carnegie Mellon University -><affiliation>
+#{trucviet.le.2012, hclau}@smu.edu.sg -><email>
+?{siyuan, rk2x}@cmu.edu -><email>

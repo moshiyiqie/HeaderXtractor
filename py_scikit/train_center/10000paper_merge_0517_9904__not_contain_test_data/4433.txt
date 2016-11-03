@@ -1,0 +1,18 @@
+Network Dialog Minimization and Network Dialog Difﬁng: -><title>
+Two Novel Primitives for Network Security Applications -><title>
+M. Zubair Raﬁque -><author>
+iMinds-DistriNet, KU Leuven -><affiliation>
+3001 Leuven, Belgium -><address>
+zubair.raﬁque@cs.kuleuven.be -><email>
+Juan Caballero -><author>
+IMDEA Software Institute -><affiliation>
+Madrid, Spain -><address>
+juan.caballero@imdea.org -><email>
+Wouter Joosen -><author>
+iMinds-DistriNet, KU Leuven -><affiliation>
+3001 Leuven, Belgium -><address>
+wouter.joosen@cs.kuleuven.be -><email>
+Christophe Huygens -><author>
+iMinds-DistriNet, KU Leuven -><affiliation>
+3001 Leuven, Belgium -><address>
+christophe.huygens@cs.kuleuven.be -><email>

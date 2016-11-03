@@ -1,0 +1,7 @@
+Elastic Management of Cluster-based Services -><title>
+in the Cloud ∗ -><title>
+Rafael Moreno-Vozmediano, Ruben S. Montero, Ignacio M. Llorente -><author>
+Dept. Arquitectura de Computadores y Automática -><affiliation>
+Universidad Complutense de Madrid -><affiliation>
+28040 Madrid, Spain -><address>
+{rmoreno,rubensm,llorente}@dacya.ucm.es -><email>

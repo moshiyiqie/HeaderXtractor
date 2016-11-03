@@ -1,0 +1,17 @@
+Balancing the needs of players and spectators in -><title>
+agent-based commentary systems -><title>
+Daniel Fielding -><author>
+University of Nottingham -><affiliation>
+School of Computer Science -><affiliation>
+Notingham, UK -><address>
+dgf@cs.nott.ac.uk -><email>
+Brian Logan -><author>
+University of Nottingham -><affiliation>
+School of Computer Science -><affiliation>
+Nottingham, UK -><address>
+bsl@cs.nott.ac.uk -><email>
+Steve Benford -><author>
+University of Nottingham -><affiliation>
+School of Computer Science -><affiliation>
+Nottingham, UK -><address>
+sdb@cs.nott.ac.uk -><email>

@@ -1,0 +1,18 @@
+Coalitional Manipulation for Schulze’s Rule -><title>
+Nina Narodytska -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+nina.narodytska@nicta.com.au -><email>
+Serge Gaspers -><author>
+UNSW and NICTA -><affiliation>
+Sydney, Australia -><address>
+sergeg@cse.unsw.edu.au -><email>
+Thomas Kalinowski -><author>
+University of Rostock -><affiliation>
+Rostock, Germany -><address>
+thomas.kalinowski@uni- -><email>
+rostock.de -><email>
+Toby Walsh -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+toby.walsh@nicta.com.au -><email>

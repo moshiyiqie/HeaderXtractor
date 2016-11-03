@@ -1,0 +1,13 @@
+An Open Source Stimulator for SSVEP-Based BCIs -><title>
+Jason Boyd -><author>
+University of Mississippi -><affiliation>
+1029 Scarlett Dr. -><address>
+Oxford, MS 38655 -><address>
+1 662 744 2996 -><phone>
+jmboyd1@olemiss.edu -><email>
+Yixin Chen -><author>
+University of Mississippi -><affiliation>
+207 Weir Hall -><address>
+University, MS 38677 -><affiliation>
+1 662 915 7438 -><phone>
+ychen@cs.olemiss.edu -><email>

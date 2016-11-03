@@ -1,0 +1,7 @@
+Hierarchical Reinforcement Learning in -><title>
+Communication-Mediated Multiagent Coordination∗ -><title>
+Felix Fischer Michael Rovatsos Gerhard Weiss -><author>
+Department of Informatics -><affiliation>
+Technical University of Munich -><affiliation>
+85748 Garching, Germany -><address>
+{fischerf,rovatsos,weissg}@cs.tum.edu -><email>

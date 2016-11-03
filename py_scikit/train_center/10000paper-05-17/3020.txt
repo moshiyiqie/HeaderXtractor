@@ -1,0 +1,20 @@
+Crossing Colorful Communication: -><title>
+A system for enhancing sound communication -><title>
+Haruhiro Katayose -><author>
+Kwansei Gakuin University -><affiliation>
+2-1 Gakuen Sanda -><address>
+Hyogo, JAPAN -><address>
+(81) 079-565-7861 -><phone>
+katayose@ksc.kwansei.ac.jp -><email>
+Mitsuyo Hashida -><author>
+Kwansei Gakuin University -><affiliation>
+2-1 Gakuen Sanda -><address>
+Hyogo, JAPAN -><address>
+(81) 079-565-7861 -><phone>
+hashida@ksc.kwansei.ac.jp -><email>
+Ryota Oiwa -><author>
+Kwansei Gakuin University -><affiliation>
+2-1 Gakuen Sanda -><address>
+Hyogo, JAPAN -><address>
+(81) 079-565-7861 -><phone>
+for_you@ksc.kwansei.ac.jp -><email>

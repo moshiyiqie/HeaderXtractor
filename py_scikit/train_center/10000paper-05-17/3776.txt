@@ -1,0 +1,13 @@
+File Replication in Video on Demand Services -><title>
+Kairui Chen Hui-Chuan Chen Richard Borie Jonathan C.L. Liu -><author>
+Computer Science -><affiliation>
+Computer Science -><affiliation>
+Dept. -><note>
+Dept. -><note>
+CIS & Engineering -><note>
+Dept. -><note>
+Computer Science -><note>
+Dept. -><note>
+University of -><affiliation>
+Tuscaloosa, AL 35487 Tuscaloosa, AL 35487 Tuscaloosa, AL 35487 Gainesville, FL 32611 -><address>
+kchen@cs.ua.edu chen@cs.ua.edu borie@cs.ua.edu jcliu@cise.ufl.edu -><email>

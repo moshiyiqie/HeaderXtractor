@@ -1,0 +1,14 @@
+Axiomatic Analysis of Aggregation Methods -><title>
+for Collective Annotation -><title>
+Justin Kruger -><author>
+ILLC, University of Amsterdam -><affiliation>
+justin.g.kruger@gmail.com -><email>
+Ulle Endriss -><author>
+ILLC, University of Amsterdam -><affiliation>
+ulle.endriss@uva.nl -><email>
+Raquel Fernández -><author>
+ILLC, University of Amsterdam -><affiliation>
+raquel.fernandez@uva.nl -><email>
+Ciyang Qing -><author>
+ILLC, University of Amsterdam -><affiliation>
+qciyang@gmail.com -><email>

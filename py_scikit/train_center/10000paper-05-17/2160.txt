@@ -1,0 +1,24 @@
+A Testbed for Autonomous Robot Surveillance -><title>
+(Demonstration) -><title>
+Stefan J. Witwicki -><author>
+EPFL, Switzerland -><address>
+stefan.witwicki@epfl.ch -><email>
+José Carlos Castillo -><email>
+U. Carlos III de Madrid, Spain -><author>
+jocastil@int.uc3m.es -><email>
+Jesús Capitán -><author>
+University of Seville, Spain -><affiliation>
+jcapitan@us.es -><email>
+Matthijs T. J. Spaan -><author>
+Delft University of Technology, -><affiliation>
+The Netherlands -><address>
+m.t.j.spaan@tudelft.nl -><email>
+Francisco S. Melo -><author>
+INESC-ID / Inst. Superior Técnico, -><email>
+Universidade de Lisboa, Portugal -><affiliation>
+fmelo@inesc-id.pt -><email>
+João V. Messias, João C. -><degree>
+Reis, and Pedro U. Lima -><degree>
+Instituto Superior Técnico, -><affiliation>
+Universidade de Lisboa, Portugal -><affiliation>
+{jmessias,jreis,pal}@isr.ist.utl.pt -><email>

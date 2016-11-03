@@ -1,0 +1,7 @@
+MPML3D: Agent Authoring Language for Virtual Worlds -><title>
+Sebastian Ullrich1,2, Helmut Prendinger1, Mitsuru Ishizuka3 -><author>
+1 National Institute of Informatics, 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan -><affiliation>
+2 Virtual Reality Group, RWTH Aachen University, Seffenter Weg 23, 52074 Aachen, Germany -><affiliation>
+3 Graduate School of Information Science and Technology, The University of Tokyo, 7-3-1 Hongo, -><affiliation>
+Bunkyo-ku, Tokyo 113-8656, Japan -><address>
+s.ullrich@ieee.org, helmut@nii.ac.jp, ishizuka@i.u-tokyo.ac.jp -><email>

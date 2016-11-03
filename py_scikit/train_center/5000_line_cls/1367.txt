@@ -1,0 +1,23 @@
+MAGENTA Technology -><title>
+Multi-Agent Logistics i-Scheduler for Road Transportation -><title>
+George Rzevski -><author>
+MAGENTA Technology -><affiliation>
+130 Shaftesbury Avenue -><address>
+London W1D 5EU, UK -><address>
+Tel.: +44 (0) 20 7149 3750 -><phone>
+Jonathan Himoff -><author>
+MAGENTA Technology -><affiliation>
+130 Shaftesbury Avenue -><address>
+London W1D 5EU, UK -><address>
+Tel.: +44 (0) 20 7149 3750 -><phone>
+Petr Skobelev -><author>
+MAGENTA Development -><affiliation>
+1a Osipenko St. -><address>
+Samara, 443010, Russia -><address>
+Tel.: +7 846 270 66 85 -><phone>
+jon.himoff@magenta- -><email>
+technology.com -><web>
+george.rzevski@magenta- -><email>
+technology.com -><email>
+skobelev@magenta- -><email>
+technology.ru -><email>

@@ -1,0 +1,7 @@
+An Algorithm for Automatically Designing Deterministic Mechanisms without -><title>
+Payments∗ -><author>
+Vincent Conitzer and Tuomas Sandholm -><affiliation>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+{conitzer, sandholm}@cs.cmu.edu -><email>

@@ -1,0 +1,11 @@
+Behaviour through a Reflective Playful Experience -><title>
+Ben Kirman1, Eva Ferrari2, Shaun Lawson1, Jonathan Freeman3, Jane Lessiter3 -><author>
+and Conor Linehan1 -><author>
+1Lincoln Social Computing Research Centre, -><affiliation>
+3i2 Media Research Ltd -><pubnum>
+2Psychology Department, Goldsmiths -><pubnum>
+University of Lincoln, -><affiliation>
+LN6 7TS -><affiliation>
+University of London SE14 6NW -><affiliation>
+{bkirman, slawson, clinehan}@lincoln.ac.uk -><email>
+{e.ferrari,j.freeman,j.lessiter}@gold.ac.uk -><email>

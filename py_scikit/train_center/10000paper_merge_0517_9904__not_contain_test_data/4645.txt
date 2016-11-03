@@ -1,0 +1,16 @@
+Variable Selection for Ad Prediction -><title>
+Suma Bhat -><author>
+Department of ECE, UIUC -><affiliation>
+Urbana-Champaign, IL -><address>
+spbhat2@uiuc.edu -><email>
+Kenneth Church -><author>
+Microsoft Research -><affiliation>
+Redmond, WA -><address>
+church@microsoft.com -><email>
+Categories and Subject Descriptors -><keyword>
+I.5.1 [Model]: Statistical -><keyword>
+General Terms -><keyword>
+Algorithms, Measurements, Performance -><keyword>
+Keywords -><keyword>
+Click-through-rate, variable selection, model selection, Web -><intro>
+advertising -><intro>

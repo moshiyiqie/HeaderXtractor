@@ -1,0 +1,4 @@
+Adding Distribution and Fault Tolerance to Jason -><title>
+´Alvaro Ferna´ndez Dı´az Clara Benac Earle Lars-A˚ke Fredlund -><author>
+Babel group, DLSIIS, Facultad de Informa´tica, Universidad Polite´cnica de Madrid -><affiliation>
+{avalor,cbenac,fred}@babel.ls.fi.upm.es -><email>

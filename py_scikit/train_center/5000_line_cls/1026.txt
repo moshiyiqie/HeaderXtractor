@@ -1,10 +1,10 @@
-An Empirical Assessment of Using Stereotypes to Improve Reading Techniques -><abstract>
-in Software Inspections -><abstract>
-Miroslaw Staron, Ludwik Kuzniarz, Christian Thurn -><abstract>
-Department of Systems and Software Engineering -><abstract>
-School of Engineering -><abstract>
-Blekinge Institute of Technology -><affiliation>
-Box 520, Soft Center -><abstract>
-SE-372 25 Ronneby, Sweden -><abstract>
-(Miroslaw.Staron, Ludwik.Kuzniarz)@bth.se, Christian.Thurn@ipbolaget.com -><email>
-63 -><abstract>
+A Simulator for Multi-Agent Partnership Formation Based -><title>
+on Dependence Graphs -><author>
+Intelligent Techniques Laboratory (LTI) -><affiliation>
+Intelligent Techniques Laboratory (LTI) -><affiliation>
+Av. Prof. Luciano Gualberto, 158 trav. 3 -><address>
+Av. Prof. Luciano Gualberto, 158 trav. 3 -><address>
++55 11 30915397 -><phone>
++55 11 30915397 -><phone>
+monteiro@lab.pro.br -><affiliation>
+jaime.sichman@poli.usp.br -><email>

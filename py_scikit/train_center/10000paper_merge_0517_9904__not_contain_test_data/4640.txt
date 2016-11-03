@@ -1,0 +1,11 @@
+An Empirical Analysis of Return on Investment -><title>
+Maximization in Sponsored Search Auctions -><title>
+Mukund Sundararajan -><author>
+Stanford University -><affiliation>
+mukunds@cs.stanford.edu -><email>
+Jason Auerbach -><author>
+Stanford University -><affiliation>
+jasonaue@cs.stanford.edu -><email>
+Joel Galenson -><author>
+Stanford University -><affiliation>
+galenson@cs.stanford.edu -><email>

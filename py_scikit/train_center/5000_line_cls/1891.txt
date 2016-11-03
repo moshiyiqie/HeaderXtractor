@@ -1,0 +1,8 @@
+Modeling Social Preferences in Multi-player Games -><title>
+Brandon Wilson, Inon Zuckerman, and Dana Nau -><author>
+Department of Computer Science, -><affiliation>
+Institute for Advanced Computer Studies, and -><affiliation>
+Institute of Systems Research -><affiliation>
+University of Maryland -><affiliation>
+College Park, MD 20742 -><address>
+{bswilson,inon,nau}@cs.umd.edu -><email>

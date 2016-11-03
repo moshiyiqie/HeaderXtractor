@@ -1,0 +1,11 @@
+On Module Checking and Strategies -><title>
+Aniello Murano -><title>
+Dipartimento di Ingegneria Elettrica e -><author>
+Tecnologie dell’Informazione -><author>
+Università degli Studi di Napoli Federico II, Italy -><affiliation>
+murano@na.infn.it -><email>
+Wojciech Jamroga -><author>
+Computer Science and Communication -><affiliation>
+and Interdisc. Centre on Security and Trust -><affiliation>
+University of Luxembourg, Luxembourg -><affiliation>
+wojtek.jamroga@uni.lu -><email>

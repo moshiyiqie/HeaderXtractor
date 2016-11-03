@@ -1,0 +1,5 @@
+Inheritance in Computational Biology -><title>
+Gurmukh Singh, Ph.D. -><author>
+Department of Computer and Information Sciences -><affiliation>
+SUNY at Fredonia, Fredonia, NY 14063 USA -><address>
+singh@cs.fredonia.edu -><email>

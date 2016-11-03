@@ -1,0 +1,10 @@
+Modulo-X: A Simple Transformation Language -><title>
+for HPC Programs -><title>
+Ferosh Jacob, Jeff Gray -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+{fjacob,jjgray}@crimson.ua.edu -><email>
+Purushotham Bangalore -><author>
+Department of Computer and Info. Sciences -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+puri@cis.uab.edu -><email>

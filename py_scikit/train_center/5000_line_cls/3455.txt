@@ -1,0 +1,23 @@
+HAC-ER: A Disaster Response System based on -><title>
+Human-Agent Collectives∗ -><title>
+Joel E. Fischer, -><author>
+Wenchao Jiang, -><author>
+Tom Rodden -><author>
+Mixed Reality Lab -><affiliation>
+University of Nottingham -><affiliation>
+Nottingham, UK -><affiliation>
+Edwin Simpson, -><address>
+Steven Reece, -><address>
+Stephen Roberts -><address>
+Pattern Recognition Group -><author>
+University of Oxford -><affiliation>
+Oxford, UK -><address>
+Sarvapali D. Ramchurn, -><author>
+Trung Dong Huynh, -><affiliation>
+Yuki Ikuno, Jack Flann, -><address>
+Feng Wu, Luc Moreau, -><author>
+Nicholas R. Jennings -><author>
+Electronics and Computer -><affiliation>
+Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton, UK -><address>

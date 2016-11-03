@@ -1,0 +1,31 @@
+T-DRE: A Hardware Trusted Computing Base for Direct -><title>
+Recording Electronic Vote Machines -><title>
+∗ -><title>
+† -><title>
+Ricardo Dahab -><author>
+University of Campinas -><affiliation>
+Campinas, SP, Brazil -><address>
+dahab@ic.unicamp.br -><email>
+Henrique Kawakami -><unknow>
+KRYPTUS Cryptographic -><author>
+Engineering Ltd. -><affiliation>
+Campinas, SP, Brazil -><address>
+kawakami@kryptus.com -><email>
+Roberto Gallo -><author>
+University of Campinas -><affiliation>
+Campinas, SP, Brazil -><address>
+gallo@ic.unicamp.br -><email>
+gallo@kryptus.com -><email>
+‡ -><unknow>
+Rafael Azevedo -><author>
+Tribunal Superior Eleitoral -><affiliation>
+Brasilia, DF, Brazil -><address>
+rafael@tse.gov.br -><email>
+Saulo Lima -><email>
+Tribunal Superior Eleitoral -><affiliation>
+Brasilia, DF, Brazil -><address>
+saulo@tse.gov.br -><email>
+Guido Araujo -><author>
+University of Campinas -><affiliation>
+Campinas, SP, Brazil -><address>
+guido@ic.unicamp.br -><email>

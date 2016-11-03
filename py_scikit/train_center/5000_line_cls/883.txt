@@ -1,0 +1,5 @@
+Interactive POMDPs: Properties and Preliminary Results -><title>
+Piotr J. Gmytrasiewicz and Prashant Doshi∗ -><author>
+Department of Computer Science -><affiliation>
+University of Illinois at Chicago -><affiliation>
+{piotr,pdoshi}@cs.uic.edu -><email>

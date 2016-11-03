@@ -1,0 +1,19 @@
+Agent Heterogeneity and Coalition Formation: -><title>
+Investigating Market-Based Cooperative Problem Solving -><title>
+Terry Bossomaier -><author>
+School of Information Technology -><affiliation>
+Charles Sturt University -><affiliation>
+Bathurst, NSW, Australia -><address>
+tbossomaier@csu.edu.au -><email>
+David Cornforth -><author>
+School of Environmental and -><affiliation>
+Information Sciences -><affiliation>
+Charles Sturt University -><affiliation>
+Albury, NSW, Australia -><address>
+dcornforth@csu.edu.au -><email>
+Michael Kirley -><author>
+Dept. of Computer Science and -><affiliation>
+Software Engineering -><affiliation>
+The University of Melbourne -><affiliation>
+Melbourne, Vic, Australia -><address>
+mkirley@cs.mu.oz.au -><email>

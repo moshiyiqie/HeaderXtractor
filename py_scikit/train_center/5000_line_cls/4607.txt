@@ -1,0 +1,14 @@
+Knowledge-Contribution Motivated Adaptive -><title>
+Neighborhood for Multi-Agent Communities -><title>
+Wan Huang -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Box 870290, Tuscaloosa AL 35487-0290 -><address>
+205-348-6363, USA -><address>
+whuang@cs.ua.edu -><email>
+David Cordes -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Box 870290, Tuscaloosa AL 35487-0290 -><address>
+205-348-6363, USA -><address>
+cordes@cs.ua.edu -><email>

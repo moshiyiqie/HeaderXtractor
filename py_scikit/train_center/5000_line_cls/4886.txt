@@ -1,0 +1,7 @@
+Incorporating Object Relationship Notation (ORN) -><title>
+Bryon K. Ehlmann -><author>
+Southern Illinois University Edwardsville -><affiliation>
+Computer Science Department -><affiliation>
+Edwardsville, IL 62026-1656, USA -><address>
+618-650-3348 -><phone>
+behlman@siue.edu -><email>

@@ -1,0 +1,5 @@
+A Comparison of Fast Search Methods for Real-Time Situated Agents -><title>
+Sven Koenig∗ -><author>
+Computer Science Department, University of Southern California -><affiliation>
+941 W 37th Street, Los Angeles, California 90089-0781 -><address>
+skoenig@usc.edu -><email>

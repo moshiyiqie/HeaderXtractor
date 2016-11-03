@@ -1,0 +1,16 @@
+Multiple UAV Task Allocation using Negotiation -><title>
+A. Sinha -><author>
+Department of Aerospace -><affiliation>
+Engineering -><affiliation>
+IISc, Bangalore, India -><address>
+asinha@aero.iisc.ernet.in -><email>
+P.B. Sujit -><author>
+Department of Aerospace -><affiliation>
+Engineering -><affiliation>
+IISc, Bangalore, India -><address>
+sujit@aero.iisc.ernet.in -><email>
+D. Ghose -><author>
+Department of Aerospace -><affiliation>
+Engineering -><affiliation>
+IISc, Bangalore, India -><address>
+dghose@aero.iisc.ernet.in -><email>

@@ -1,0 +1,10 @@
+Anchors: A Technique of Pre-Classification and its -><title>
+Effects on Hidden Markov Models -><title>
+Jeremy Fisher -><author>
+Computer and Information Science -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+fisherje@cis.uab.edu -><email>
+Dr. Alan Sprague -><author>
+Computer and Information Science -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+sprague@cis.uab.edu -><email>

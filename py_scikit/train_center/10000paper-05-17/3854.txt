@@ -1,0 +1,21 @@
+Ethics Across the Computer Science Curriculum -><title>
+Janine DeWitt -><author>
+Marymount University -><affiliation>
+2807 North Glebe Road -><address>
+Arlington, VA 22207 -><address>
+(703) 526-6824 -><phone>
+Cynthia Cicalese -><author>
+Marymount University -><affiliation>
+2807 North Glebe Road -><address>
+Arlington, VA 22207 -><address>
+(703) 284-1686 -><phone>
+C. Dianne Martin -><author>
+The George Washington University -><affiliation>
+801 22nd Street, NW, Suite 703 -><address>
+Washington, DC 20052 -><address>
+(202) 994-7181 -><phone>
+dmartin@gwu.edu -><email>
+janine.dewitt-heffner@ -><email>
+marymount.edu -><web>
+cynthia.cicalese@ -><email>
+marymount.edu -><email>

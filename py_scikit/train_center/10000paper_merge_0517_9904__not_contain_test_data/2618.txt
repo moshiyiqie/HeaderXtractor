@@ -1,0 +1,11 @@
+The Power of Verification for Greedy Mechanism Design∗ -><title>
+Piotr Krysta -><author>
+University of Liverpool, UK -><affiliation>
+pkrysta@liverpool.ac.uk -><email>
+Carmine Ventre -><author>
+Teesside University, UK -><affiliation>
+c.ventre@tees.ac.uk -><email>
+Dimitris Fotakis -><author>
+National Technical Univ. of -><affiliation>
+Athens, Greece -><address>
+fotakis@cs.ntua.gr -><email>

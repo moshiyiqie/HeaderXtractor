@@ -1,0 +1,9 @@
+Manipulating Two Stage Voting Rules -><title>
+Nina Narodytska -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+nina.narodytska@nicta.com.au -><email>
+Toby Walsh -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+toby.walsh@nicta.com.au -><email>

@@ -1,0 +1,7 @@
+Impact of Problem Centralization in Distributed Constraint -><title>
+Optimization Algorithms -><title>
+John Davin and Pragnesh Jay Modi -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+{jdavin, pmodi}@cs.cmu.edu -><email>

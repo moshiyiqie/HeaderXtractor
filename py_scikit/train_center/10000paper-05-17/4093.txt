@@ -1,0 +1,6 @@
+A performance comparison of RIPPLE and LMS for -><title>
+high dimensional piecewise linear functions -><title>
+Manjula A. Iyer and Layne T. Watson -><author>
+Departments of Computer Science and Mathematics -><affiliation>
+Virginia Polytechnic Institute and State University -><affiliation>
+Blacksburg, Virginia 24061 -><address>

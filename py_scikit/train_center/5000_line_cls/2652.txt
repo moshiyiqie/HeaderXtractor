@@ -1,0 +1,8 @@
+Optimal Interdiction of Attack Plans -><title>
+Joshua Letchford∗jcl@cs.duke.edu -><email>
+Yevgeniy Vorobeychik -><author>
+yvorobe@sandia.gov -><email>
+Sandia National Laboratories† -><affiliation>
+Livermore, CA -><address>
+Duke University -><affiliation>
+Durham, NC -><address>

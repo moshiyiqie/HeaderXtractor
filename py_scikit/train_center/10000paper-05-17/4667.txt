@@ -1,0 +1,6 @@
+An Agent-Based Genetically-Aware Entomological Model -><title>
+Regina McCormack1, James E. Gentile2, Samuel S.C. Rund1 -><author>
+Department of Biological Sciences1 -><affiliation>
+Department of Computer Science and Engineering2 -><affiliation>
+University of Notre Dame -><affiliation>
+{ rmccorma, jgentile, srund }@nd.edu -><email>

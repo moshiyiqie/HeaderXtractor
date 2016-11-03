@@ -1,0 +1,11 @@
+Black Hole Attack in Mobile Ad Hoc Networks -><title>
+Mohammad Al-Shurman and Seong-Moo Yoo -><author>
+Electrical and Computer Engineering Department -><affiliation>
+The University of Alabama in Huntsville -><affiliation>
+Huntsville, Alabama 35899 -><affiliation>
+E-mail: {al-shum,yoos}@eng.uah.edu -><email>
+Seungjin Park -><author>
+Department of Computer Science -><affiliation>
+Michigan Technological University -><affiliation>
+Houghton, Michigan 49930 -><address>
+E-mail: spark@mtu.edu -><email>

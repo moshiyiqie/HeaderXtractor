@@ -1,0 +1,9 @@
+Policy Based Agent Management using Conversation Patterns -><title>
+Geert Arys -><author>
+Christos Stergiou -><author>
+Free University of Brussels -><affiliation>
+Imperial College -><affiliation>
+Pleinlaan 2, 1050 Brussels, Belgium -><address>
+Exhibition Road, London SW7 2BT -><address>
+geert.arys@chello.be -><email>
+c.stergiou@ieee.org -><email>

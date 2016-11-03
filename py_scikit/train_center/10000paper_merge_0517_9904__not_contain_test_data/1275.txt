@@ -1,0 +1,12 @@
+BDI Agent model Based Evacuation Simulation -><title>
+(Demonstration) -><title>
+Masaru Okaya -><author>
+Meijo University -><affiliation>
+Shiogamaguchi, Tempaku, -><address>
+Nagoya, Japan -><address>
+m0930007@ccalumni.meijo-u.ac.jp -><email>
+Tomoichi Takahashi -><author>
+Meijo University -><affiliation>
+Shiogamaguchi, Tempaku, -><address>
+Nagoya, Japan -><address>
+ttaka@meijo-u.ac.jp -><email>

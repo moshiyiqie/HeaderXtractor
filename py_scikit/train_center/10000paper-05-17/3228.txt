@@ -1,0 +1,12 @@
+A Rule-based Approach to 3D Terrain Generation via -><title>
+Texture Splatting -><title>
+Jonathan Ferraris -><author>
+Bournemouth University, School Of Design, -><affiliation>
+Engineering & Computing, Talbot Campus, Poole -><address>
+Christos Gatzidis -><author>
+Bournemouth University, School Of Design, -><affiliation>
+Engineering & Computing, Talbot Campus, Poole -><affiliation>
+House, UK -><address>
+House, UK -><address>
+d1404587@bournemouth.ac.uk -><email>
+cgatzidis@bournemouth.ac.uk -><email>

@@ -1,0 +1,14 @@
+Fast Approximation of Probabilistic Frequent Closed -><title>
+Itemsets ∗ -><title>
+Peiyi Tang -><author>
+University of Arkansas at Little Rock -><affiliation>
+Department of Computer Science -><affiliation>
+2801 S. University Ave. -><affiliation>
+Little Rock, AR 72204 -><address>
+pxtang@ualr.edu -><email>
+Erich A. Peterson -><author>
+University of Arkansas at Little Rock -><affiliation>
+Department of Computer Science -><affiliation>
+2801 S. University Ave. -><affiliation>
+Little Rock, AR 72204 -><address>
+contact@erichpeterson.com -><email>

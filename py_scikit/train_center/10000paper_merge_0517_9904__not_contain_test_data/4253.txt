@@ -1,0 +1,9 @@
+The HighspectJ Framework -><title>
+Shmuel Katz -><author>
+Department of Computer Science -><affiliation>
+Technion – Israel Institute of Technology -><affiliation>
+katz@cs.technion.ac.il -><email>
+Oren Mishali -><author>
+Department of Computer Science -><affiliation>
+Technion – Israel Institute of Technology -><affiliation>
+omishali@cs.technion.ac.il -><email>

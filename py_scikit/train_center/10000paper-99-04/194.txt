@@ -1,0 +1,6 @@
+The bit transmission problem revisited -><title>
+Alessio Lomuscio Marek Sergot -><author>
+Department of Computing -><affiliation>
+Imperial College of Science, Technology and Medicine -><affiliation>
+London SW7 2BZ, United Kingdom -><address>
+{A.Lomuscio,M.Sergot}@doc.ic.ac.uk -><email>

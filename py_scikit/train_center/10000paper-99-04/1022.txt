@@ -1,0 +1,8 @@
+Experiences when Migrating from Structured Analysis to Object- -><title>
+Oriented Modelling. -><title>
+Roger Box, Michael Whitelaw -><author>
+School of Information Studies -><affiliation>
+Charles Sturt Univemity -><affiliation>
+Locked Bag 675 -><address>
+Wagga Wagga 2678 -><address>
+{rbox, mwhitelaw }@csu.edu.au -><email>

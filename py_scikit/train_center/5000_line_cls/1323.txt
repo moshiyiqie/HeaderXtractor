@@ -1,0 +1,15 @@
+Ricardo Choren -><author>
+SE/9, IME/RJ -><date>
+Enhancing Agent-Oriented Models with Aspects -><title>
+Christina Chavez -><author>
+Computing Dept, UFBA -><affiliation>
+Av. Adhemar de Barros, s/n -><affiliation>
+Salvador/BA, 40170-110, Brazil -><address>
+flach@dcc.ufba.br -><email>
+Alessandro Garcia -><author>
+Computing Dept, Lancaster Univ. -><affiliation>
+South Drive, InfoLab21 -><affiliation>
+Lancaster, LA14WA, UK -><address>
+garciaa@comp.lancs.ac.uk -><email>
+Rio de Janeiro/RJ, 22290-270, Brazil -><address>
+choren@de9.ime.eb.br -><email>

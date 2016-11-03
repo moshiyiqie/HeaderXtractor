@@ -1,0 +1,34 @@
+RoboJockey: Real-time, Simultaneous, and Continuous -><title>
+Creation of Robot Actions for Everyone -><title>
+Daisuke Sakamoto -><author>
+JST ERATO -><affiliation>
+sakamoto@ -><email>
+designinterface.jp -><email>
+Yuta Sugiura -><author>
+Graduate School of Media -><affiliation>
+Design, Keio University, JST -><affiliation>
+ERATO -><affiliation>
+sugiura@designinterface.jp -><email>
+Takumi Shirokura -><email>
+Graduate School of -><degree>
+Information Science and -><degree>
+Technology, Hokkaido -><degree>
+University, JST ERATO -><affiliation>
+shirokura@complex.ist. -><email>
+hokudai.ac.jp -><degree>
+Masahiko Inami -><degree>
+Graduate School of Media -><affiliation>
+Design, Keio University, JST -><affiliation>
+ERATO -><degree>
+Inami@designinterface.jp -><email>
+Takeo Igarashi -><author>
+Computer Science -><affiliation>
+Department, The University of -><affiliation>
+Tokyo, JST ERATO -><affiliation>
+takeo@acm.org -><email>
+Tetsuo Ono -><author>
+Graduate School of -><affiliation>
+Information Science and -><affiliation>
+Technology, Hokkaido -><address>
+University -><affiliation>
+tono@complex.ist.hokudai.ac.jp -><email>

@@ -1,0 +1,7 @@
+A Decision-Theoretic Characterization of Organizational -><title>
+Influences -><title>
+Jason Sleight and Edmund H. Durfee -><author>
+Computer Science and Engineering -><affiliation>
+University of Michigan -><affiliation>
+Ann Arbor, MI 48109 -><address>
+{jsleight,durfee}@umich.edu -><email>

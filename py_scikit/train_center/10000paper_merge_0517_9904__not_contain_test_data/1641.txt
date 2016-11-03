@@ -1,0 +1,23 @@
+Cooperative Control and Modeling for Narrow Passage -><title>
+Traversal with an Ornithopter MAV and Lightweight Ground -><title>
+Station -><title>
+Cameron J. Rose -><author>
+Department of EECS -><affiliation>
+Univ. of California, Berkeley -><affiliation>
+Berkeley, CA 94720 -><address>
+c_rose@eecs.berkeley.edu -><email>
+Ryan C. Julian -><author>
+Department of EECS -><affiliation>
+Univ. of California, Berkeley -><affiliation>
+Berkeley, CA 94720 -><address>
+ryanjulian@berkeley.edu -><email>
+Humphrey Hu -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+humhu@cmu.edu -><email>
+Ronald S. Fearing -><author>
+Department of EECS -><affiliation>
+Univ. of California, Berkeley -><affiliation>
+Berkeley, CA 94720 -><address>
+ronf@eecs.berkeley.edu -><email>

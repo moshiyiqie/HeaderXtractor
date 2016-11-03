@@ -1,0 +1,8 @@
+Blending Object-Oriented Design Principles and Software -><title>
+Engineering Practices into an Undergraduate Architecture -><title>
+Simulator Project -><title>
+Cindy Norris, James B. Fenwick Jr., James Wilkes and Kenneth H. Jacker -><author>
+Department of Computer Science -><affiliation>
+Appalachian State University -><affiliation>
+Boone, NC, USA -><address>
+{can,jbf,jtw,khj}@cs.appstate.edu -><email>

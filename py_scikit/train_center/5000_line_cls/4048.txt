@@ -1,0 +1,29 @@
+Oleg V. Komogortsev -><title>
+Sandeep M. Gowda -><title>
+Instantaneous Saccade Driven Eye Gaze Interaction -><author>
+Young Sam Ryu -><author>
+Do Hyong Koh -><author>
+Ingram School of -><affiliation>
+Engineering -><affiliation>
+Department of Computer -><affiliation>
+Science, Texas State -><affiliation>
+University-San Marcos, -><affiliation>
+USA -><address>
+Department of Computer -><affiliation>
+Science, Texas State -><affiliation>
+University-San Marcos, -><affiliation>
+USA -><address>
+Department of Computer -><affiliation>
+Science, Texas State -><affiliation>
+University-San Marcos, -><affiliation>
+USA -><affiliation>
+Texas State University- -><affiliation>
+San Marcos -><address>
++1 512 245 4467 -><phone>
++1 512 245 0349 -><pubnum>
++1 512 245 0349 -><pubnum>
++1 512 245 0349 -><pubnum>
+yryu@txstate.edu -><email>
+dk1132@txstate.edu -><email>
+sm1499@txstate.edu -><email>
+ok11@txstate.edu -><email>

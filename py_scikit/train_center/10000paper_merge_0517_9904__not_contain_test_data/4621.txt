@@ -1,0 +1,13 @@
+Improvements to BM25 and Language Models Examined -><title>
+Antti Puurula -><author>
+Department of Computer Science -><affiliation>
+University of Waikato -><affiliation>
+Hamilton, New Zealand -><address>
+Blake Burgess -><author>
+Department of Computer Science -><affiliation>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+Andrew Trotman -><author>
+Department of Computer Science -><affiliation>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>

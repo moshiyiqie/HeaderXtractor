@@ -1,0 +1,7 @@
+Common Criteria Requirements Modeling and its Uses for -><title>
+Quality of Information Assurance (QoIA) -><title>
+Deepak S. Yavagal, Seok Won Lee, Gail-Joon Ahn, Robin A. Gandhi -><author>
+Dept. of Software and Information Systems -><affiliation>
+The University of North Carolina at Charlotte -><affiliation>
+Charlotte, NC 28223-0001, USA. -><address>
+{dsyavaga, seoklee, gahn, rgandhi}@uncc.edu -><email>

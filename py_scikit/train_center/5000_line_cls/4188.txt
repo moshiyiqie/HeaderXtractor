@@ -1,0 +1,5 @@
+Exploiting MMORPG Log Data -><title>
+toward Efficient RMT Player Detection -><author>
+Hiroshi Itsukiy, Asuka Takeuchiy, Atsushi Fujitay, Hitoshi Matsubaray -><affiliation>
+yFuture University Hakodate, 116-2, Kameda-nakano-cho, Hakodate, 041-8655, Japan -><affiliation>
+{g3106001,p4410001,fujita,matsubar}@fun.ac.jp -><email>

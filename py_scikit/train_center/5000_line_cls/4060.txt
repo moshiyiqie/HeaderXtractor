@@ -1,0 +1,10 @@
+Simulation as a Game Design Tool -><title>
+Timo Nummenmaa -><title>
+Jussi Kuittinen -><title>
+Jussi Holopainen -><author>
+University of Tampere -><affiliation>
+University of Jyväskylä -><affiliation>
+Nokia Research Center -><affiliation>
+timo.nummenmaa@uta.fi -><email>
+jussi.m.kuittinen@jyu.fi -><email>
+jussi.holopainen@nokia.com -><email>

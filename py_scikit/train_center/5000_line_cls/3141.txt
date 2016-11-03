@@ -1,0 +1,12 @@
+A Field Study of Human-Agent Interaction for Electricity -><title>
+Tariff Switching -><title>
+Alper Alan,1 Enrico Costanza,1 Joel Fischer,2 Sarvapali D. Ramchurn,1 Tom Rodden,2 -><author>
+Nicholas R. Jennings1 -><author>
+1Agents, Interaction, and Complexity Group -><author>
+University of Southampton -><affiliation>
+Southampton, UK -><address>
+{ata1g1,ec,sdr,nrj}@ecs.soton.ac.uk -><email>
+2Mixed Reality Lab -><affiliation>
+University of Nottingham -><address>
+Nottingham, UK -><address>
+{jef,tar}@cs.nott.ac.uk -><email>

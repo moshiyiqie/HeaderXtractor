@@ -1,0 +1,24 @@
+Hyperdraw: A New Computer Aided Drawing System -><title>
+based on Prediction of Drawing Action -><title>
+Hirokatsu So -><author>
+Graduate School of -><affiliation>
+Engineering Science, Osaka -><affiliation>
+University -><affiliation>
+Toyonaka, Japan -><address>
+sou@sens.sys.es.osaka- -><email>
+u.ac.jp -><email>
+Kosuke Sato -><author>
+Graduate School of -><affiliation>
+Engineering Science, Osaka -><email>
+University -><affiliation>
+Toyonaka, Japan -><address>
+sato@sys.es.osaka- -><email>
+u.ac.jp -><web>
+Ichiroh Kanaya -><unknow>
+Graduate School of -><degree>
+Engineering Science, Osaka -><degree>
+University -><affiliation>
+PRESTO, JST -><degree>
+Toyonaka, Japan -><degree>
+kanaya@sys.es.osaka- -><email>
+u.ac.jp -><web>

@@ -1,0 +1,7 @@
+Parameterized Objects and Inducements to Explore -><title>
+Functional Programming -><title>
+Karl Abrahamson -><author>
+Department of Computer Science -><affiliation>
+East Carolina University -><affiliation>
+Greenville, NC -><address>
+abrahamsonk@ecu.edu -><email>

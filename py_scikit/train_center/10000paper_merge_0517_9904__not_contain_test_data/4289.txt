@@ -1,0 +1,10 @@
+Exploiting Smart-Phone USB Connectivity -><title>
+For Fun And Proﬁt -><title>
+Zhaohui Wang -><author>
+Department of Computer Science -><affiliation>
+George Mason University, Fairfax, VA -><affiliation>
+zwange@gmu.edu -><email>
+Angelos Stavrou -><author>
+Department of Computer Science -><affiliation>
+George Mason University, Fairfax, VA -><affiliation>
+astavrou@gmu.edu -><email>

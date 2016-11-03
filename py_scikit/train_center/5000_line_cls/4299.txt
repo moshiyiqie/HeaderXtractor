@@ -1,0 +1,7 @@
+Soundness of the Simply Typed Lambda Calculus in ACL2 -><title>
+Sol Swords -><author>
+sswords@cs.utexas.edu -><email>
+William R. Cook -><author>
+wcook@cs.utexas.edu -><email>
+Department of Computer Sciences -><affiliation>
+University of Texas at Austin -><affiliation>

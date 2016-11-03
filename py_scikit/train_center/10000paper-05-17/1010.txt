@@ -1,0 +1,18 @@
+Optimal Policy Switching Algorithms for Reinforcement -><title>
+Learning -><title>
+Gheorghe Comanici -><author>
+McGill University -><affiliation>
+Montreal, QC, Canada -><address>
+gheorghe.comanici@mail.mcgill.ca -><email>
+Doina Precup -><author>
+McGill University -><affiliation>
+Montreal, QC Canada -><address>
+dprecup@cs.mcgill.ca -><email>
+Categories and Subject Descriptors -><note>
+I.2.8 [Artiﬁcial Intelligence]: Problem Solving, Control Methods, -><unknow>
+and Search -><unknow>
+General Terms -><degree>
+Algorithms, Theory -><degree>
+Keywords -><keyword>
+Markov Decision Processes, reinforcement learning, temporal ab- -><keyword>
+straction, policy gradient -><keyword>

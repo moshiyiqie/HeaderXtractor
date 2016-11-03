@@ -1,0 +1,12 @@
+Modifying Agent Systems for an -><title>
+Open, Dynamic Agent Environment -><title>
+Robert R. Kessler -><author>
+School of Computing -><affiliation>
+University of Utah -><affiliation>
+Salt Lake City, UT 84112 -><address>
+kessler@cs.utah.edu -><email>
+Adam L. Berger∗ -><author>
+School of Computing -><affiliation>
+University of Utah -><affiliation>
+Salt Lake City, UT 84112 -><address>
+adam@addaon.com -><email>

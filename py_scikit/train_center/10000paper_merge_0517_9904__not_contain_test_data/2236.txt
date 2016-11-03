@@ -1,0 +1,10 @@
+Cooperative Max Games and Agent Failures∗ -><title>
+Yoram Bachrach -><author>
+Microsoft Research Cambridge, UK -><affiliation>
+yorambac@gmail.com -><email>
+Rahul Savani -><author>
+University of Liverpool, UK -><affiliation>
+rahul.savani@liverpool.ac.uk -><email>
+Nisarg Shah -><author>
+Carnegie Mellon University, USA -><affiliation>
+nkshah@cs.cmu.edu -><email>

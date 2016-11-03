@@ -1,0 +1,18 @@
+Distributed Agent Platform for Advanced Logistics -><title>
+Tamas Mahr -><author>
+Almende BV -><affiliation>
+Westerstraat 50 -><address>
+3016DJ Rotterdam, The Netherlands -><address>
+tamas@almende.com -><email>
+Mathijs de Weerdt -><author>
+Delft University of Technology -><affiliation>
+Mekelweg 4 -><address>
+2628CD Delft, The Netherlands -><address>
+M.M.deWeerdt@ewi.tudelft.nl -><email>
+Categories and Subject Descriptors -><keyword>
+I.2.11 [ARTIFICIAL INTELLIGENCE]: Distributed Ar- -><keyword>
+tificial Intelligence—Intelligent agents, Multiagent systems -><keyword>
+General Terms -><keyword>
+Design, Experimentation, Performance, Reliability -><keyword>
+Keywords -><keyword>
+Agent platform, Logistics -><keyword>

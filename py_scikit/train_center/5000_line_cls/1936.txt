@@ -1,0 +1,12 @@
+Capability-Aligned Matching: Improving Quality of Games -><title>
+with a Purpose -><title>
+Jane Yung-Jen Hsu -><author>
+Department of Computer Science and -><affiliation>
+Information Engineering -><affiliation>
+National Taiwan University -><affiliation>
+yjhsu@csie.ntu.edu.tw -><email>
+Che-Liang Chiou -><author>
+Department of Computer Science and -><affiliation>
+Information Engineering -><affiliation>
+National Taiwan University -><affiliation>
+clchiou@gmail.com -><email>

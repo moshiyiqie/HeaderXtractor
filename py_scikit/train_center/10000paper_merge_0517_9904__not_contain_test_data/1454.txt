@@ -1,0 +1,11 @@
+Towards Tractable Boolean Games -><title>
+Michael Wooldridge -><author>
+Department of Computer Science -><affiliation>
+Uinversity of Liverpool -><affiliation>
+Liverpool L69 3BX, UK -><address>
+mjw@csc.liv.ac.uk -><email>
+Paul E. Dunne -><author>
+Department of Computer Science -><affiliation>
+Uinversity of Liverpool -><affiliation>
+Liverpool L69 3BX, UK -><address>
+ped@csc.liv.ac.uk -><email>

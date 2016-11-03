@@ -1,0 +1,12 @@
+A Meta-model for Intelligent Adaptive Multi-Agent Systems -><title>
+in Open Environments -><title>
+Thomas Juan -><author>
+Department of Computer Science and Software -><affiliation>
+Engineering, The University of Melbourne -><affiliation>
+Victoria, 3010, Australia -><address>
+tlj@cs.mu.oz.au -><email>
+Leon Sterling -><author>
+Department of Computer Science and Software -><affiliation>
+Engineering, The University of Melbourne -><affiliation>
+Victoria, 3010, Australia -><address>
+leon@cs.mu.oz.au -><email>

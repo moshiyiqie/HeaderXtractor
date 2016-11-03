@@ -1,0 +1,18 @@
+Using visual attention to extract regions of interest in the -><title>
+context of image retrieval -><title>
+Oge Marques and Liam M. Mayron -><author>
+Department of Computer Science and -><affiliation>
+Engineering -><affiliation>
+Florida Atlantic University -><affiliation>
+777 Glades Rd. -><address>
+Boca Raton, FL 33431-0991 -><address>
+{omarques, lmayron}@fau.edu -><email>
+Gustavo B. Borba and Humberto R. -><author>
+Gamba -><author>
+Programa de Po´s-Graduac¸a˜o em Engenharia -><note>
+Ele´trica e Informa´tica Industrial -><note>
+Centro Federal de Educac¸a˜o Tecnolo´gica do -><note>
+Parana´ -><note>
+Av. Sete de Setembro, 3165 -><note>
+CEP 80230-901 - Curitiba - Parana´ - Brasil -><note>
+{humberto, gustavo}@cpgei.cefetpr.br -><email>

@@ -1,0 +1,10 @@
+Negotiating using Rewards -><title>
+Sarvapali D. Ramchurn1, Carles Sierra2, Lluis Godo2, and Nicholas R. Jennings1 -><author>
+1School of Electronics and Computer Science, -><affiliation>
+2Institute of Artificial Intelligence, CSIC, -><affiliation>
+08193 Bellaterra, -><address>
+Spain. -><address>
+{sierra,godo}@iiia.csic.es -><email>
+University of Southampton, Southampton, -><affiliation>
+SO17 1BJ, UK. -><address>
+{sdr,nrj}@ecs.soton.ac.uk -><email>

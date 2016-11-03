@@ -1,0 +1,20 @@
+Commitments with Regulations: -><title>
+Reasoning about Safety and Control in REGULA -><title>
+Elisa Marengo -><author>
+Università degli Studi di Torino -><affiliation>
+emarengo@di.unito.it -><email>
+Matteo Baldoni -><author>
+Università degli Studi di Torino -><affiliation>
+baldoni@di.unito.it -><email>
+Cristina Baroglio -><author>
+Università degli Studi di Torino -><affiliation>
+baroglio@di.unito.it -><email>
+Munindar P. Singh -><author>
+North Carolina State Univ. -><affiliation>
+singh@ncsu.edu -><email>
+Amit K. Chopra -><author>
+Università degli Studi di Trento -><affiliation>
+chopra@disi.unitn.it -><email>
+Viviana Patti -><author>
+Università degli Studi di Torino -><affiliation>
+patti@di.unito.it -><email>

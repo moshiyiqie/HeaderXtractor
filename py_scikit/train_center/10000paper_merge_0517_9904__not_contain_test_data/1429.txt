@@ -1,0 +1,9 @@
+Mixed-bundling auctions with reserve prices∗ -><title>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+sandholm@cs.cmu.edu -><email>
+Pingzhong Tang -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+kenshin@cs.cmu.edu -><email>

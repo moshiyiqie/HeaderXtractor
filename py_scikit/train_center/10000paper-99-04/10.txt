@@ -1,0 +1,11 @@
+Bidders with Hard Valuation Problems -><title>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave, Pittsburgh, PA 15213 -><address>
+sandholm@cs.cmu.edu -><email>
+Kate Larson -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave, Pittsburgh, PA 15213 -><address>
+klarson@cs.cmu.edu -><email>

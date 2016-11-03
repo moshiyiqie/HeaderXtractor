@@ -1,0 +1,16 @@
+Emotions to Control Agent Deliberation∗ -><title>
+Bas R. Steunebrink -><author>
+Department of ICS, -><affiliation>
+Intelligent Systems Group, -><affiliation>
+Utrecht University -><affiliation>
+bass@cs.uu.nl -><email>
+Mehdi Dastani -><author>
+Department of ICS, -><affiliation>
+Intelligent Systems Group, -><affiliation>
+Utrecht University -><affiliation>
+mehdi@cs.uu.nl -><email>
+John-Jules Ch. Meyer -><email>
+Department of ICS, -><affiliation>
+Intelligent Systems Group, -><affiliation>
+Utrecht University -><affiliation>
+jj@cs.uu.nl -><email>

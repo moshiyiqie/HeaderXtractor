@@ -1,0 +1,8 @@
+Reusing Objects for Realistic 3D Maps -><title>
+Bradley J. Wimpey -><author>
+wimpey@cs.uga.edu -><email>
+Walter D. Potter -><author>
+potter@uga.edu -><email>
+Computer Science Department -><affiliation>
+The University of Georgia -><affiliation>
+Athens, Georgia -><address>

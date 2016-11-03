@@ -1,0 +1,13 @@
+On Sex, Evolution, and the Multiplicative Weights Update -><title>
+Algorithm -><title>
+Reshef Meir -><author>
+Harvard University, USA -><affiliation>
+rmeir@seas.harvard.edu -><email>
+David Parkes -><author>
+Harvard University, USA -><affiliation>
+parkes@eecs.harvard.edu -><email>
+“Sex is the queen of problems in evolutionary bi- -><abstract>
+ology. Perhaps no other natural phenomenon has -><abstract>
+aroused so much interest; certainly none has sowed -><abstract>
+so much confusion.” -><abstract>
+—Graham Bell, 1982 -><abstract>

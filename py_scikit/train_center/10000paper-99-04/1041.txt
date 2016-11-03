@@ -1,0 +1,19 @@
+Effective Instructional Animation in 3D -><title>
+Computer Graphics Education -><title>
+Kevin G Suffem -><author>
+Faculty of Information Technology -><affiliation>
+University of Technology, Sydney -><affiliation>
+PO Box 123 Broadway -><address>
+NSW 2001 -><address>
+Australia -><address>
+kevin@lLuts.edu.au -><email>
+A mnnber of instructional animations are discussed for -><abstract>
+teaching 3D computer graphics. They are effective in their -><abstract>
+assigned tasks because they focus on concepts and -><abstract>
+processes that are dimcult or impossible to see withom -><abstract>
+an/ -><abstract>
+m~/malions as simple as possible, focussed on what is -><abstract>
+relevant, and interactive. One animation is a program that -><abstract>
+allows students to explore viewing systems, two are -><abstract>
+concerned with my tracing transparent objects, and one -><abstract>
+visualises the formation of marble. -><abstract>

@@ -1,0 +1,16 @@
+Procedural Generation of Stylized 2D Maps -><title>
+Timothy E. Roden -><author>
+University of Louisiana at Lafayette -><affiliation>
+P.O. Box 44330 -><address>
+Lafayette, LA 70504-4330 -><address>
+troden@cacs.louisiana.edu -><email>
+Mores Prachyabrued -><author>
+University of Louisiana at Lafayette -><affiliation>
+P.O. Box 40660 -><address>
+Lafayette, LA 70504-0660 -><address>
+mxp4758@louisiana.edu -><email>
+Ryan G. Benton -><author>
+University of Louisiana at Lafayette -><affiliation>
+P.O. Box 44330 -><address>
+Lafayette, LA 70504-4330 -><address>
+rgb8817@cacs.louisiana.edu -><email>

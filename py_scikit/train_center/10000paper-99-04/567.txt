@@ -1,0 +1,6 @@
+Experiments on deliberation equilibria in auctions -><title>
+Kate Larson and Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+{klarson,sandholm}@cs.cmu.edu -><email>

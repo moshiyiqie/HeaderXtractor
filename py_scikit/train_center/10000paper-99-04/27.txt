@@ -1,0 +1,20 @@
+A Multiagent Interaction Paradigm for Physiological -><title>
+Process Control -><title>
+Nicola Gatti -><title>
+Dipartimento di Elettronica e -><author>
+Informazione; Politecnico di Milano; -><author>
+Piazza Leonardo da Vinci, 32; -><affiliation>
+I-20133 Milano (MI); Italy -><address>
+ngatti@elet.polimi.it -><email>
+Francesco Amigoni -><author>
+Dipartimento di Elettronica e -><affiliation>
+Informazione; Politecnico di Milano; -><affiliation>
+Piazza Leonardo da Vinci, 32; -><address>
+I-20133 Milano (MI); Italy -><address>
+amigoni@elet.polimi.it -><email>
+Marco Somalvico -><author>
+Dipartimento di Elettronica e -><affiliation>
+Informazione; Politecnico di Milano; -><affiliation>
+Piazza Leonardo da Vinci, 32; -><address>
+I-20133 Milano (MI); Italy -><address>
+somalvic@elet.polimi.it -><email>

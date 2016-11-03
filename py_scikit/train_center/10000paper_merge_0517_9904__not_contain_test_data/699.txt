@@ -1,0 +1,11 @@
+Agent-Based Global Transportation Scheduling in Military Logistics -><title>
+Don Perugini; Dale Lambert -><author>
+Defence, Science and Technology -><affiliation>
+Organisation -><affiliation>
+Edinburgh, S.A., 5111, Australia -><address>
+{firstname.lastname}@dsto.defence.gov.au -><email>
+Leon Sterling; Adrian Pearce -><author>
+Department of Computer Science and Software -><affiliation>
+Engineering, The University Of Melbourne -><affiliation>
+Carlton, Victoria, 3010, Australia -><address>
+{leon, pearce}@cs.mu.oz.au -><email>

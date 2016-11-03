@@ -1,0 +1,6 @@
+Towards a Scalable Resource-driven Approach for -><affiliation>
+Detecting Repackaged Android Applications -><title>
+Yuru Shao†, Xiapu Luo†‡∗, Chenxiong Qian†, Pengfei Zhu†, and Lei Zhang† -><author>
+Department of Computing, The Hong Kong Polytechnic University† -><affiliation>
+The Hong Kong Polytechnic University Shenzhen Research Institute‡ -><affiliation>
+shaoyuru@gmail.com, {csxluo, cscqian, cspzhu,cslzhang}@comp.polyu.edu.hk -><email>

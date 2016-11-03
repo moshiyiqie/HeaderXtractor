@@ -1,0 +1,7 @@
+Novice Programmers’ Faults & Failures in GOAL Programs: -><title>
+Empirical Observations and Lessons -><title>
+Michael Winikoff -><author>
+Department of Information Science -><affiliation>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+michael.winikoff@otago.ac.nz -><email>

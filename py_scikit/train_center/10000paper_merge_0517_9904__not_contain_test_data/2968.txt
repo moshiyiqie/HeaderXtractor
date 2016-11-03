@@ -1,0 +1,13 @@
+Tangible Interfaces for Real-Time 3D Virtual Environments -><title>
+Michael Nitsche -><author>
+Experimental Games Lab -><affiliation>
+Georgia Institute of Technology -><affiliation>
+686 Cherry Street, Skiles 025 -><address>
+Atlanta, GA 30332-0165 -><address>
+michael.nitsche@lcc.gatech.edu -><email>
+Ali Mazalek -><author>
+Synaesthetic Media Lab -><affiliation>
+Georgia Institute of Technology -><affiliation>
+85 5th Street, TSRB 318B -><address>
+Atlanta, GA 30332-0165 -><address>
+mazalek@gatech.edu -><email>

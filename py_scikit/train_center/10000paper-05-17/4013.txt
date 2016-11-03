@@ -1,0 +1,7 @@
+& Usability Evaluation -><title>
+Guoqiang Hu and Kai H. Chang -><author>
+Department of Computer Science and Software Engineering -><affiliation>
+Auburn University, Auburn, AL 36849-5347, USA -><affiliation>
+Phone: 1-334-844-6322 -><phone>
+Fax: 1-334-844-6329 -><phone>
+{guoqiang, kchang}@eng.auburn.edu -><email>

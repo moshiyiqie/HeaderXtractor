@@ -1,0 +1,5 @@
+Active Sensing in Complex Multiagent Environments -><title>
+Adam Eck -><author>
+Department of Computer Science and Engineering -><affiliation>
+University of Nebraska-Lincoln -><affiliation>
+aeck@cse.unl.edu -><email>

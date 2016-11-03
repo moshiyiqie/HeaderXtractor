@@ -1,0 +1,12 @@
+California Speedway: -><title>
+a concurrent programming project for beginners -><title>
+John M. Hunt -><author>
+Covenant College -><affiliation>
+145 Mills Hall -><address>
+Lookout Mountain, GA -><address>
+john.hunt@covenant.edu -><email>
+Tim Willison -><author>
+Medium -><affiliation>
+50 East Main Street -><address>
+Chattanooga, TN 37408 -><address>
+tim.willison@thisismedium.com -><email>

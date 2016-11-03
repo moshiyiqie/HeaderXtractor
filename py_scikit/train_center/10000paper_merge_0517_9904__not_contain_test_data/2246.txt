@@ -1,0 +1,7 @@
+Reputation-aware Task Allocation for Human Trustees -><title>
+1Han Yu, 1Chunyan Miao, 1Bo An, 1Zhiqi Shen, and 1,2Cyril Leung -><author>
+1Joint NTU-UBC Research Centre of Excellence in Active Living for the Elderly (LILY), -><note>
+Nanyang Technological University, 50 Nanyang Avenue, Singapore 639798 -><affiliation>
+2Department of Electrical and Computer Engineering, -><affiliation>
+The University of British Columbia, 4102-2332 Main Mall, Vancouver, BC V6T1Z4, Canada -><affiliation>
+{han.yu, ascymiao, boan, zqshen, cleung}@ntu.edu.sg, cleung@ece.ubc.ca -><email>

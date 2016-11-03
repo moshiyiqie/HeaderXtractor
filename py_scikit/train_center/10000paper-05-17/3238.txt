@@ -1,0 +1,13 @@
+Creating 3D E-books with ARBookCreator -><title>
+Jong Weon Lee -><author>
+Trien V. Do -><author>
+Game Interface Research Center -><affiliation>
+Sejong University, -><affiliation>
+Seoul, Republic of Korea -><email>
++82-2-3408-3798 -><phone>
+triendv@vnn.vn -><email>
+Mixed Reality and Interaction Lab -><affiliation>
+Sejong University, -><affiliation>
+Seoul, Republic of Korea -><email>
++82-2-3408-3798 -><phone>
+jwlee@sejong.ac.kr -><email>

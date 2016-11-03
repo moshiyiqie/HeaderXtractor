@@ -1,0 +1,5 @@
+Metric Learning for Reinforcement Learning Agents -><title>
+Matthew E. Taylor, Brian Kulis, and Fei Sha -><author>
+Lafayette College, taylorm@lafayette.edu -><email>
+University of California, Berkeley, kulis@eecs.berkeley.edu -><affiliation>
+University of Southern California, feisha@usc.edu -><affiliation>

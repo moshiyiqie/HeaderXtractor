@@ -1,0 +1,22 @@
+A Distributed Services based conference planner -><title>
+application using Software Agents, Grid Services -><title>
+and Web Services -><title>
+M. Omair Shafiq, Arshad Ali -><author>
+Amina Tariq, Amna Basharat -><author>
+NUST Institute of Information Technology (NIIT) -><affiliation>
+College of Signals -><affiliation>
+National University of Sciences and Technologies -><affiliation>
+National University of Sciences and Technologies -><affiliation>
+Rawalpindi, Pakistan -><address>
+{omair.shafiq,arshad.ali}@niit.edu.pk -><email>
+(NUST), Rawalpindi, Pakistan -><affiliation>
+{aam_naa, aamna15}@hotmail.com -><email>
+H. Farooq Ahmad, Hiroki Suguri -><author>
+Fawad Nazir -><author>
+Multi Agent Systems Research -><affiliation>
+Stanford Linear Accelerator Center (SLAC), Stanford -><affiliation>
+Communication Technologies (Comtec) -><affiliation>
+University, San-Francisco, California USA -><affiliation>
+fawad@slac.stanford.edu -><email>
+Sendai, Japan -><address>
+{farooq,suguri}@comtec.co.jp -><email>

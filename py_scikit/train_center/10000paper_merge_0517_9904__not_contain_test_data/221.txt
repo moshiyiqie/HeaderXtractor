@@ -1,0 +1,14 @@
+A Multi-Agent Method for Forming and Dynamic -><title>
+Restructuring of Pareto Optimal Coalitions -><title>
+Philippe Caillou -><author>
+Suzanne Pinson -><author>
+Samir Aknine -><affiliation>
+8, rue du Capitaine Scott -><address>
+75015 PARIS, France -><address>
+Samir.Aknine@lip6.fr -><email>
+Tassigny -><affiliation>
+75775 Paris, France -><address>
+caillou@lamsade.dauphine.fr -><email>
+Tassigny -><affiliation>
+75775 Paris, France -><address>
+pinson@lamsade.dauphine.fr -><email>

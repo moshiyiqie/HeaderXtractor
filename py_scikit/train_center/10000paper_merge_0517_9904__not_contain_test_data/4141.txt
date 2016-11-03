@@ -1,0 +1,6 @@
+Using Greenfoot and a Moon Scenario to Teach Java -><title>
+Programming in CS1 -><title>
+Randy J. Gallant and Qusay H. Mahmoud -><author>
+Distributed Computing and Wireless & Telecommunications Technology -><affiliation>
+University of Guelph-Humber, Toronto, ON, Canada M9W 5L7 -><affiliation>
+randy.gallant@humber.ca qmahmoud@cis.uoguelph.ca -><email>

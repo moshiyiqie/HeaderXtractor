@@ -1,0 +1,6 @@
+Recommender Systems: A Market-Based Design ∗ -><title>
+Yan Zheng Wei † , Luc Moreau and Nicholas R. Jennings -><author>
+Department of Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton SO17 1BJ, UK -><address>
+{ yzw01r, L.Moreau, nrj }@ecs.soton.ac.uk -><email>

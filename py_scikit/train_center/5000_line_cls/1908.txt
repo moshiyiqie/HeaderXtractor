@@ -1,0 +1,18 @@
+Ties Matter: Complexity of Voting Manipulation Revisited -><title>
+Noam Hazon -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University, -><affiliation>
+USA -><address>
+noamh@cs.cmu.edu -><email>
+Svetlana Obraztsova -><author>
+School of Physical and -><affiliation>
+Mathematical Sciences -><unknow>
+Nanyang Technological -><author>
+University, Singapore -><affiliation>
+SVET0001@ntu.edu.sg -><email>
+Edith Elkind -><author>
+School of Physical and -><affiliation>
+Mathematical Sciences -><unknow>
+Nanyang Technological -><author>
+University, Singapore -><affiliation>
+eelkind@ntu.edu.sg -><email>

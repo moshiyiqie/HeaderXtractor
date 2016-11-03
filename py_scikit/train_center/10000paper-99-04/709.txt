@@ -1,0 +1,7 @@
+From Motion Control to Emotion Influence: Controlling Autonomous Synthetic -><title>
+Characters in a Computer Game -><title>
+Marco Vala, Ana Paiva, Rui Prada -><author>
+IST-Technical University of Lisbon and INESC-ID -><affiliation>
+Av. Prof. Cavaco Silva, IST, Taguspark -><affiliation>
+2780-990 Porto Salvo , Portugal -><address>
+{ana.paiva,marco.vala,rui.prada}@inesc-id.pt -><email>

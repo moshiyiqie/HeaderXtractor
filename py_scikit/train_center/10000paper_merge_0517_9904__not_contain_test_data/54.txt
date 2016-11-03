@@ -1,0 +1,17 @@
+The -><title>
+Processes, -><title>
+John -><author>
+Fausto -><author>
+Anna -><author>
+DIT -><affiliation>
+CS -><unknow>
+ITC-Irst -><title>
+M5S -><pubnum>
+via -><note>
+I-38050 -><note>
+Via -><unknow>
+I-38050 -><pubnum>
+Canada -><affiliation>
+jm@cs.toronto.edu -><email>
+fausto@dit.unitn.it -><email>
+perini@irst.itc.it -><email>

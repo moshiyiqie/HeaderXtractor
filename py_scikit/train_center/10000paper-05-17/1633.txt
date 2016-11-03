@@ -1,0 +1,6 @@
+Distributed Consensus for Interaction between Humans -><title>
+and Mobile Robot Swarms (Demonstration) -><title>
+Alessandro Giusti, Jawad Nagi, Luca M. Gambardella, Gianni A. Di Caro -><author>
+Dalle Molle Institute for Artificial Intelligence (IDSIA) -><affiliation>
+Lugano, Switzerland -><address>
+{alessandrog,jawad,luca,gianni}@idsia.ch -><email>

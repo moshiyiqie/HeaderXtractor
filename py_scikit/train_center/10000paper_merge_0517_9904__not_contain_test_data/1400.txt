@@ -1,0 +1,7 @@
+Comma: A Commitment-Based Business Modeling -><title>
+Methodology and its Empirical Evaluation -><title>
+Pankaj R. Telang and Munindar P. Singh -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-8206 -><address>
+{prtelang,singh}@ncsu.edu -><email>

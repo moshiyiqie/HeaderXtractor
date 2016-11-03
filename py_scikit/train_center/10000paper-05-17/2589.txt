@@ -1,0 +1,7 @@
+Parameterised Verification of Autonomous Mobile-Agents -><title>
+in Static but Unknown Environments -><title>
+∗ -><title>
+Sasha Rubin -><author>
+Università degli Studi di Napoli “Federico II" -><affiliation>
+Naples, Italy -><address>
+sasha.rubin@gmail.com -><email>

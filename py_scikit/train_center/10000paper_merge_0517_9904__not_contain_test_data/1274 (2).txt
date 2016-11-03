@@ -1,0 +1,9 @@
+SageTalk: -><title>
+Designing a Tool for Designing Successful -><title>
+Web-based Social Agents -><title>
+David Young -><author>
+Katherine Isbister -><author>
+Finali Corporation -><affiliation>
+Finali Corporation -><affiliation>
+dyoung@finali.com -><email>
+kisbister@finali.com -><email>

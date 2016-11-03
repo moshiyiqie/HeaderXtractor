@@ -1,0 +1,21 @@
+Tree Adaptive A∗ -><title>
+Pedro Meseguer -><author>
+Institut d’Investigacio´ en -><affiliation>
+Intel.lige´ncia Artificial -><email>
+Carlos Hernández -><author>
+Departamento de -><affiliation>
+Ingenier´ıa Informa´tica -><unknow>
+Universidad Cato´lica -><title>
+de la Ssma. Concepcio´n -><title>
+Xiaoxun Sun Sven Koenig -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+University of -><affiliation>
+Southern California -><affiliation>
+Los Angeles, CA 90089, USA{xiaoxuns,skoenig}@usc.edu -><email>
+IIIA-CSIC -><affiliation>
+Campus UAB -><address>
+08193 Bellaterra, Spain -><address>
+pedro@iiia.csic.es -><email>
+Caupolican 491, Concepcio´n, Chile -><address>
+chernan@ucsc.cl -><email>

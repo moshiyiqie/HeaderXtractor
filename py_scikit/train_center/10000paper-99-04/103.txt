@@ -1,0 +1,7 @@
+A Multi-Level Approach and Infrastructure for -><title>
+Agent-Oriented Software Development -><title>
+Martin Purvis Mariusz Nowostawski Stephen Cranefield -><author>
+Department of Information Science -><affiliation>
+University of Otago -><affiliation>
+PO Box 56, Dunedin, New Zealand -><address>
+{mpurvis,mnowostawski,scranefield}@infoscience.otago.ac.nz -><email>

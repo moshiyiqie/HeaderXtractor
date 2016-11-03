@@ -1,0 +1,11 @@
+Spaced Repetition Tool for Improving Long-term Memory -><title>
+Retention and Recall of Collected Personal Experiences -><title>
+Michael Cohen -><author>
+University of Aizu -><affiliation>
+mcohen@u-aizu.ac.jp -><email>
+Norbert Gyo˝rbíró -><author>
+University of Aizu -><affiliation>
+ngyorbiro@acm.org -><email>
+Henry Larkin -><author>
+University of Aizu -><affiliation>
+research@logic.nu -><email>

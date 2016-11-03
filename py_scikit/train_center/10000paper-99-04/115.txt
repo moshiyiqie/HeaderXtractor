@@ -1,0 +1,34 @@
+Proving Properties of Open Agent Systems -><title>
+Frank Guerin and Jeremy Pitt -><author>
+Intelligent and Interactive Systems, Department of Electrical & Electronic Engineering, -><affiliation>
+Imperial College of Science, Technology & Medicine, Exhibition Road, London, SW7 2BT. -><affiliation>
+{f.guerin,j.pitt}@ic.ac.uk -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Computing Methodologies]: Distributed -><note>
+Artiﬁcial Intelligence—Multiagent systems; D.2.4 [Software]: -><note>
+Software/Program Veriﬁcation[Model checking] -><unknow>
+General Terms -><author>
+Veriﬁcation, Economics. -><email>
+1. MOTIVATION -><abstract>
+In an open agent system the constituent agents are de- -><abstract>
+veloped and owned by diﬀerent individuals or organisations -><abstract>
+who may have conﬂicting interests. Hence the internals (i.e. -><abstract>
+program and state) of agents are not public and so notions -><abstract>
+of trust and deception are relevant. It is proposed that such -><abstract>
+systems will be used in scenarios where legally binding con- -><abstract>
+tracts are made and money is exchanged by the agents on -><abstract>
+behalf of their owners. Not surprisingly, agent owners can -><abstract>
+be expected to be reluctant to delegate tasks involving po- -><abstract>
+tentially detrimental outcomes to an agent unless they can -><abstract>
+be assured that the system has certain desirable properties. -><abstract>
+It may be a requirement, for example, that an agent cannot -><abstract>
+proﬁt from lying to its peers. Solutions from game theory -><abstract>
+and economics [1] allow us to design mechanisms for interac- -><abstract>
+tions (a set of public rules governing an interaction) which -><abstract>
+provide incentives for participants to behave as we desire, -><abstract>
+for example to tell the truth; mechanisms can be designed -><abstract>
+to have properties such as individual rationality, incentive -><abstract>
+compatibility and stability. Having chosen a suitable mech- -><abstract>
+anism, we can implement it for an agent system as a protocol -><abstract>
+and prove that these properties hold for the agent system. -><abstract>
+2. FORMAL FRAMEWORK -><intro>

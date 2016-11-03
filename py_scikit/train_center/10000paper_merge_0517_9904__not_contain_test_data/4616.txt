@@ -1,0 +1,17 @@
+Improving test collection pools with machine learning -><title>
+William Webber -><author>
+William Webber Consulting -><affiliation>
+Melbourne, Australia -><address>
+william@williamwebber.com -><email>
+Gaya K. Jayasinghe -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+gaya.jayasinghe@rmit.edu.au -><email>
+Mark Sanderson -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+mark.sanderson@rmit.edu.au -><email>
+J. Shane Culpepper -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+shane.culpepper@rmit.edu.au -><email>

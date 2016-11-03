@@ -1,0 +1,34 @@
+Jorge NOfiez-Su&rez -><title>
+Experiences in the use of FIPA agent technologies for the -><title>
+development of a Personal Travel Application -><title>
+Donie O'Sullivan -><author>
+Broadcom Eireann Research, -><affiliation>
+Kestrel House, Clanwilliam Place, -><address>
+Dublin 2. -><address>
++353(0)16046000 -><phone>
+donie.osullivan@xelector.com -><email>
+Henri Brouchoud -><author>
+France Telecom -><affiliation>
+2, avenue Pierre Marzin. -><address>
+22307 Lannion Cedex, France. -><address>
++33(0)296051030 -><phone>
+British Te -><note>
+Adastral Park, Martlesham Heath, -><note>
+Ipswich IP5 3RE. -><note>
++44(0)1473641887 -><date>
+jorge.nunez-suarez@bt.com -><email>
+henri.brouchoud@cnet.france -><email>
+telecom.fr -><note>
+Ciara Byrne -><note>
+Patrice Cros -><note>
+ONERA/CERT, -><note>
+Toulouse, Cedex 4, -><note>
+France. -><note>
++33(0)562252637 -><date>
+cros@cert.fr -><email>
+Clair Moore -><author>
+KPN Research -><affiliation>
+st. Paulusstraat 4, -><address>
+2264 XZ Leidschendam, Netherlands. -><address>
++31703326522 -><phone>
+c.r.moore@research.kpn.com -><email>

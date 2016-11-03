@@ -1,0 +1,14 @@
+Seeing is Not Believing: Visual Veriﬁcations Through -><title>
+Liveness Analysis using Mobile Devices -><title>
+Mahmudur Rahman -><author>
+Florida International University -><affiliation>
+Miami, FL -><address>
+mrahm004@cs.ﬁu.edu -><email>
+Bogdan Carbunar -><author>
+Florida International University -><affiliation>
+Miami, FL -><address>
+carbunar@cs.ﬁu.edu -><email>
+Umut Topkara -><author>
+IBM Research -><affiliation>
+Yorktown Heights, NY -><address>
+umut@us.ibm.com -><email>

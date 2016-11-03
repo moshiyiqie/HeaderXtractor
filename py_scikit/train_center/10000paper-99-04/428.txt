@@ -1,0 +1,8 @@
+Interaction is Meaning: A New Model for -><title>
+Communication in Open Systems -><title>
+Michael Rovatsos, Matthias Nickles, Gerhard Weiss -><author>
+{rovatsos, nickles, weissg}@cs.tum.edu -><email>
+Department of Informatics -><affiliation>
+Technical University of Munich -><affiliation>
+85748 Garching bei Mu¨nchen -><address>
+Germany -><address>

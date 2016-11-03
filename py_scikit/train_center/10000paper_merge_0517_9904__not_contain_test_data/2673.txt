@@ -1,0 +1,23 @@
+Supporting Reasoning with Different Types of Evidence in -><title>
+Intelligence Analysis -><title>
+Alice Toniolo -><author>
+Timothy J. Norman -><author>
+Dept. of Computing Science -><affiliation>
+University of Aberdeen, UK -><affiliation>
+Anthony Etuk -><address>
+Federico Cerutti -><author>
+Dept. of Computing Science -><affiliation>
+University of Aberdeen, UK -><affiliation>
+Robin Wentao Ouyang -><author>
+Mani Srivastava -><author>
+University of California -><affiliation>
+Los Angeles, CA, USA -><address>
+Nir Oren -><author>
+Dept. of Computing Science -><affiliation>
+University of Aberdeen, UK -><affiliation>
+Paul Sullivan -><author>
+INTELPOINT Incorporated -><affiliation>
+Pennsylvania, USA -><address>
+Timothy Dropps -><author>
+John A. Allen -><author>
+Honeywell, USA -><address>

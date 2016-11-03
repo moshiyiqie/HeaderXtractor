@@ -1,0 +1,17 @@
+Collective -><title>
+Heterogeneous -><title>
+Jiming -><title>
+Xun -><title>
+Yiming -><title>
+IBM -><title>
+Nanyang -><title>
+Dept. -><title>
+Hong -><author>
+Center -><affiliation>
+Yorktown -><address>
+Hong -><author>
+University -><affiliation>
+Singapore -><address>
+exyi@ntu.edu.sg -><email>
+yiming@watson.ibm.com -><email>
+jiming@comp.hkbu.edu.hk -><email>

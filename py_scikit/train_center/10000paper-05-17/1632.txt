@@ -1,0 +1,9 @@
+AgentPolis: Towards a Platform for Fully Agent-based -><title>
+Modeling of Multi-Modal Transportation (Demonstration) -><title>
+Michal Jakob, Zbyneˇk Moler, Antonín Komenda†, Zhengyu Yin, Albert Xin Jiang, -><author>
+Matthew P. Johnson∗, Michal Peˇchoucˇek† and Milind Tambe∗ -><author>
+† Agent Technology Center, Faculty of Electrical Engineering, Czech Technical University, Prague, -><affiliation>
+Czech Republic -><address>
+{jakob, moler, komenda, pechoucek}@agents.fel.cvut.cz -><email>
+∗ Computer Science Department, University of Southern California, Los Angeles, CA. USA. -><affiliation>
+{zhengyuy, jiangx, matthepj, tambe}@usc.edu -><email>

@@ -1,0 +1,7 @@
+GaTAC: A Scalable and Realistic Testbed for Multiagent -><affiliation>
+Decision Making (Demonstration) -><title>
+Ekhlas Sonu and Prashant Doshi -><author>
+Dept. of Computer Science -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA,30602, USA -><address>
+esonu@uga.edu, pdoshi@cs.uga.edu -><email>

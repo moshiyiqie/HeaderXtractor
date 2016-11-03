@@ -1,0 +1,23 @@
+The COSIMA Prototype -><title>
+for Multi-Objective Bargaining -><title>
+Stefan Holland -><author>
+Institute of Computer Science, -><affiliation>
+University of Augsburg -><affiliation>
+Universita¨tsstraße 14 -><affiliation>
+D-86159 Augsburg, Germany -><address>
+Stefan Fischer -><author>
+Institute of Computer Science, -><affiliation>
+University of Augsburg -><affiliation>
+Universita¨tsstraße 14 -><affiliation>
+D-86159 Augsburg, Germany -><address>
+Werner Kießling -><author>
+Institute of Computer Science, -><affiliation>
+University of Augsburg -><affiliation>
+Universita¨tsstraße 14 -><affiliation>
+D-86159 Augsburg, Germany -><address>
+fischer@informatik.uni- -><email>
+augsburg.de -><web>
+holland@informatik.uni- -><email>
+augsburg.de -><email>
+kiessling@informatik.uni- -><email>
+augsburg.de -><email>

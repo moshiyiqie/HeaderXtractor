@@ -1,0 +1,15 @@
+A Knowledge-Based Methodology for Designing Robust -><title>
+Multi-Agent Systems -><title>
+Juan Antonio Rodriguez-Aguilar -><author>
+iSoco S.A. -><affiliation>
+jar@isoco.com -><email>
+Chrysanthos Dellarocas -><author>
+Massachusetts Institute -><affiliation>
+of Technology -><affiliation>
+(617) 258-8115 -><phone>
+dell@mit.edu -><email>
+Mark Klein -><author>
+Massachusetts Institute -><affiliation>
+of Technology -><affiliation>
+(617) 253-6796 -><phone>
+m_klein@mit.edu -><email>

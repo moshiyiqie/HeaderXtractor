@@ -1,0 +1,10 @@
+Multidimensional Numerical Integration -><title>
+for Robust Design Optimization -><title>
+Michael W. Trosset -><author>
+Department of Statistics -><affiliation>
+Indiana University -><affiliation>
+Bloomington, Indiana 47405 -><address>
+Sean C. Kugele and Layne T. Watson -><author>
+Departments of Computer Science and Mathematics -><affiliation>
+Virginia Polytechnic Institute and State University -><affiliation>
+Blacksburg, Virginia 24061 -><address>

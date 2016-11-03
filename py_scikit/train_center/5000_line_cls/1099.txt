@@ -1,0 +1,6 @@
+Survivability of Multi-Agent Systems -><title>
+Nathan Gnanasambandam -><author>
+Pennsylvania State University -><affiliation>
+310 Leonhard Building -><address>
+University Park, PA 16802 -><affiliation>
+gsnathan@psu.edu -><email>

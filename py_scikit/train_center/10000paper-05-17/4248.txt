@@ -1,0 +1,21 @@
+The Automated Web Application Testing (AWAT) System -><title>
+Kai Qian -><author>
+SPSU, Department of Computer -><affiliation>
+Science -><affiliation>
+1100 Southern Marietta -><address>
+GA, 30060-2896 -><address>
+678-915-7778 -><phone>
+kqian@spsu.edu -><email>
+SPSU, Department of Software -><affiliation>
+Engineering -><affiliation>
+1100 South Marietta -><address>
+GA, 30060-2896 -><address>
+sztipam@gmail.com -><email>
+Xiang Fu -><email>
+Georgia SouthWestern State -><author>
+University, Department of Computer -><affiliation>
+Science -><affiliation>
+Crawford Wheatley Hall -><address>
+Room 203 -><address>
+229-931-2819 -><phone>
+xfu@cans.gsw.edu -><email>

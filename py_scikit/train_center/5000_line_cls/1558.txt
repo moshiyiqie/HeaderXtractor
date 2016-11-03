@@ -1,0 +1,10 @@
+Deception in Networks of Mobile Sensing Agents -><title>
+Viliam Lisý1, Roie Zivan2, Katia Sycara2 -><author>
+and Michal Peˇchoucˇek1 -><author>
+2Robotics Institute, Carnegie Mellon University -><affiliation>
+1Agent Technology Center, Dept. of Cybernetics -><affiliation>
+5000 Forbes Avenue, Pittsburgh, PA, i5213, USA -><address>
+{zivanr,katia}@cs.cmu.edu -><email>
+FEE, Czech Technical University -><affiliation>
+Technická 2, 16627 Prague 6, Czech Republic -><address>
+{lisy,pechoucek}@agents.felk.cvut.cz -><email>

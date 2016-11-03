@@ -1,0 +1,11 @@
+DBM-Tree: An Efficient Metric Acces Method ∗ -><title>
+Ernesto Cuadros-Vargas -><author>
+Peruvian Computer Society -><affiliation>
+Catholic University of San Pablo -><affiliation>
+Arequipa, Peru -><address>
+ecuadros@spc.org.pe -><email>
+Alexander Ocsa -><author>
+Department of Computer Science -><affiliation>
+National University of San Agustin -><affiliation>
+Arequipa, Peru -><address>
+aocsam@episunsa.edu.pe -><email>

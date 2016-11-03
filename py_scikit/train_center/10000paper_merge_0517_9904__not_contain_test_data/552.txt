@@ -1,0 +1,12 @@
+Coordination Artifacts: -><title>
+Environment-based Coordination for Intelligent Agents ∗ -><title>
+Cristiano Castelfranchi, Luca Tummolini -><author>
+ISTC-CNR -><affiliation>
+Viale Marx 15 -><address>
+00137, Roma, Italy -><address>
+{castel,tummoli}@ip.rm.cnr.it -><email>
+Andrea Omicini, Alessandro Ricci, Mirko Viroli -><author>
+DEIS, Universita` degli Studi di Bologna a Cesena -><affiliation>
+Via Venezia 52 -><address>
+47023, Cesena, Italy -><address>
+{aomicini,aricci,mviroli}@deis.unibo.it -><email>

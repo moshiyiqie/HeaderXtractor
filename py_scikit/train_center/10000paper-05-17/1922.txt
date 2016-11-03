@@ -1,0 +1,19 @@
+Emotional Range in Value-sensitive Deliberation -><title>
+Leonardo Lesmo -><author>
+Dipartimento di Informatica -><affiliation>
+Corso Svizzera 185, -><address>
+Università degli Studi di -><affiliation>
+Torino, Italy -><address>
+lesmo@di.unito.it -><email>
+Rossana Damiano -><author>
+Dipartimento di Informatica -><affiliation>
+Corso Svizzera 185, -><address>
+Università degli Studi di -><affiliation>
+Torino, Italy -><address>
+rossana@di.unito.it -><email>
+Cristina Battaglino -><author>
+Dipartimento di Informatica -><affiliation>
+Corso Svizzera 185, -><address>
+Università degli Studi di -><affiliation>
+Torino, Italy -><address>
+battagli@di.unito.it -><email>

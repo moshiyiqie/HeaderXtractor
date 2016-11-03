@@ -1,0 +1,7 @@
+A Logic for Collective Choice -><title>
+Guifei Jiang1,2, Dongmo Zhang1, Laurent Perrussel2, and Heng Zhang1 -><author>
+1 AIRG, University of Western Sydney, Australia -><affiliation>
+2 IRIT, University of Toulouse 1, France -><affiliation>
+17625409@student.uws.edu.au -><email>
+{d.zhang, heng.zhang}@uws.edu.au -><email>
+laurent.perrussel@univ-tlse1.fr -><email>

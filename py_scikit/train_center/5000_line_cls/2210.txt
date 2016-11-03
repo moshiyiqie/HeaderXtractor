@@ -1,0 +1,17 @@
+Metamodel-Based Metrics for Agent-Oriented -><title>
+Methodologies -><title>
+∗ -><title>
+† -><title>
+‡ -><title>
+Noélie Bonjean -><author>
+bonjean@irit.fr -><email>
+Antonio Chella -><author>
+antonio.chella@unipa.it -><email>
+Massimo Cossentino -><author>
+cossentino@pa.icar.cnr.it -><email>
+Marie-Pierre Gleizes∗ -><email>
+gleizes@irit.fr -><email>
+Frédéric Migeon ∗ -><affiliation>
+migeon@irit.fr -><email>
+Valeria Seidita† -><author>
+valeria.seidita@unipa.it -><email>

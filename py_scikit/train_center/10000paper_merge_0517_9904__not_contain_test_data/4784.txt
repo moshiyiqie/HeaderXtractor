@@ -1,0 +1,6 @@
+Domains: Safe Sharing Among Actors -><title>
+Joeri De Koster Tom Van Cutsem Theo D’Hondt -><author>
+Vrije Universiteit Brussel, -><affiliation>
+Pleinlaan 2, -><address>
+B-1050 Brussels, Belgium -><address>
+jdekoste@vub.ac.be tvcutsem@vub.ac.be tjdhondt@vub.ac.be -><email>

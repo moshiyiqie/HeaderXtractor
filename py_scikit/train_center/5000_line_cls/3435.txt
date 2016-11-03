@@ -1,0 +1,6 @@
+To Ask, Sense, or Share: Ad Hoc Information Gathering -><author>
+Adam Eck and Leen-Kiat Soh -><author>
+Department of Computer Science and Engineering -><affiliation>
+University of Nebraska-Lincoln -><affiliation>
+Lincoln, Nebraska, USA -><address>
+{aeck, lksoh}@cse.unl.edu -><email>

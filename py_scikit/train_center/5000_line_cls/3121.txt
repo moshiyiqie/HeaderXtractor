@@ -1,0 +1,6 @@
+Adaptive Home Heating under Weather -><title>
+and Price Uncertainty using GPs and MDPs -><title>
+Mike Shann and Sven Seuken -><author>
+Department of Informatics -><affiliation>
+University of Zurich -><affiliation>
+{shannm, seuken}@ifi.uzh.ch -><email>

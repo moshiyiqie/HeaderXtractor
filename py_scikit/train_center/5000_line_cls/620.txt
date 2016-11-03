@@ -1,0 +1,6 @@
+Argumentation Based Decision Making -><title>
+for Autonomous Agents -><title>
+Antonis Kakas and Pavlos Mora¨´tis -><author>
+Dept. of Computer Science, University of Cyprus -><affiliation>
+P.O.Box 20537, CY-1678 Nicosia, Cyprus -><address>
+antonis@ucy.ac.cy, moraitis@ucy.ac.cy -><email>

@@ -1,0 +1,23 @@
+Multiple Referenda and Multiwinner Elections Using -><title>
+Hamming Distances: Complexity and Manipulability -><affiliation>
+Georgios Amanatidis -><author>
+Athens University of -><affiliation>
+Economics and Business -><affiliation>
+gamana@aueb.gr -><email>
+Jérôme Lang -><author>
+LAMSADE -><affiliation>
+Université Paris Dauphine -><affiliation>
+lang@lamsade.dauphine.fr -><email>
+Nathanaël Barrot -><author>
+LAMSADE -><affiliation>
+Université Paris Dauphine -><affiliation>
+nathanael.barrot@ -><email>
+lamsade.dauphine.fr -><email>
+Evangelos Markakis -><author>
+Athens University of -><affiliation>
+Economics and Business -><affiliation>
+markakis@gmail.com -><email>
+Bernard Ries -><author>
+LAMSADE -><affiliation>
+Université Paris Dauphine -><affiliation>
+bernard.ries@dauphine.fr -><email>

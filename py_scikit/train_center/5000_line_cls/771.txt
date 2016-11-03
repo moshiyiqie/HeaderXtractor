@@ -1,0 +1,6 @@
+Improving User Satisfaction in Agent-Based Electronic Marketplaces by -><title>
+Reputation Modelling and Adjustable Product Quality -><title>
+Thomas Tran and Robin Cohen -><author>
+School of Computer Science, University of Waterloo -><affiliation>
+Waterloo, ON, N2L 3G1, Canada -><address>
+{tt5tran, rcohen}@uwaterloo.ca -><email>

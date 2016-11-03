@@ -1,0 +1,5 @@
+SPIDER: Stealthy Binary Program Instrumentation and -><title>
+Debugging Via Hardware Virtualization -><title>
+Zhui Deng, Xiangyu Zhang and Dongyan Xu -><author>
+Department of Computer Science and CERIAS, Purdue University, West Lafayette, IN 47907 -><affiliation>
+{deng14, xyzhang, dxu}@cs.purdue.edu -><email>

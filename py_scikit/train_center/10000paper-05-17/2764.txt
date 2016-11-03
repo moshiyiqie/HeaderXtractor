@@ -1,0 +1,21 @@
+Visualisations: Customers, [Clicks/Cliques] and Clusters -><title>
+Jonny Huck, Paul Coulton -><author>
+Imagination Lancaster -><affiliation>
+LICA Building, Lancaster University -><affiliation>
+Mike Hallam -><author>
+Lancaster Ethical Small Traders -><affiliation>
+Association (ESTA) -><affiliation>
+Lancaster, LA1 4YW -><address>
+Mark Lochrie, Jon Whittle, Bran -><author>
+Knowles -><author>
+School of Computing and -><affiliation>
+Communications -><email>
+Lancaster University -><affiliation>
+Lancaster, LA1 4WA -><address>
+{m.lochrie, j.h.whittle, -><email>
+b.h.knowles}@lancaster.ac.uk -><email>
+Lancaster -><affiliation>
+mike@ -><email>
+smallgreenconsultancy.co.uk -><email>
+{j.huck2, p.coulton}@ -><email>
+lancaster.ac.uk -><email>

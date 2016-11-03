@@ -1,0 +1,6 @@
+The Outer Limits of Programming -><title>
+William S. Curran -><author>
+Department of Computer Science -><affiliation>
+Southeastern Louisiana University -><affiliation>
+Hammond, Louisiana USA 70402 -><address>
+wcurran@selu.edu -><email>

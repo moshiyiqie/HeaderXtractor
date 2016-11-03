@@ -1,0 +1,7 @@
+Trade -><title>
+Shigeo -><title>
+NTT -><author>
+NTT -><author>
+2-4 -><pubnum>
+Kyoto -><author>
+matsubara@cslab.kecl.ntt.co.jp -><affiliation>

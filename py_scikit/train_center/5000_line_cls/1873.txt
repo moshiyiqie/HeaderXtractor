@@ -1,0 +1,12 @@
+Equilibrium Approximation in Simulation–Based -><title>
+Extensive–Form Games -><title>
+Marcello Restelli -><author>
+Politecnico di Milano -><affiliation>
+Piazza Leonardo da Vinci 32 -><affiliation>
+Milano, Italy -><address>
+restelli@elet.polimi.it -><email>
+Nicola Gatti -><email>
+Politecnico di Milano -><author>
+Piazza Leonardo da Vinci 32 -><affiliation>
+Milano, Italy -><address>
+ngatti@elet.polimi.it -><email>

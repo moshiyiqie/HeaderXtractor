@@ -1,0 +1,10 @@
+HYDA: A HYbrid Dependence Analysis for the adaptive -><title>
+optimisation of OpenCL kernels -><title>
+Michael F.P. O’Boyle -><author>
+School of Informatics -><affiliation>
+University of Edinburgh -><affiliation>
+mob@inf.ed.ac.uk -><email>
+Christos Margiolas -><author>
+School of Informatics -><affiliation>
+University of Edinburgh -><affiliation>
+c.margiolas@ed.ac.uk -><email>

@@ -1,0 +1,34 @@
+Numerical Simulation of UWB Impulse Radar Vital Signal -><title>
+Detection at an Earthquake Disaster Site -><title>
+Zijian Liu -><author>
+Biomedical Engineering Program -><affiliation>
+University of Connecticut -><affiliation>
+Storrs, CT 06269, USA -><address>
+Benjamin Barrowes -><author>
+Cold Regions Research and -><affiliation>
+Engineering Laboratory -><affiliation>
+USACE/ERDC -><address>
+Hanover, NH 03755, USA -><address>
+barrowes@erdc.usace.army.mil -><email>
+Lanbo Liu -><author>
+Civil & Environmental Engineering -><affiliation>
+University of Connecticut -><affiliation>
+Storrs, CT 06269, USA -><address>
+1-860-486-1388 -><phone>
+Lanbo.Liu@UConn.edu -><email>
+zijian.liu@uconn.edu -><email>
+Antonio M. Vincitore -><author>
+Hao Xie -><author>
+Civil & Environmental Engineering -><affiliation>
+University of Connecticut -><affiliation>
+Storrs, CT 06269, USA -><address>
+hao.xie@uconn.edu -><email>
+Amvrossios Bagtzoglou -><author>
+Civil & Environmental Engineering -><affiliation>
+University of Connecticut -><affiliation>
+Storrs, CT 06269, USA -><address>
+ACB@engr.uconn.edu -><email>
+United Technology Research Center -><affiliation>
+411 Silver Lane, East Hartford, CT -><address>
+06108, USA -><address>
+VincitAM@utrc.utc.com -><email>

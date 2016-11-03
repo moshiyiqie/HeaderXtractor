@@ -1,0 +1,7 @@
+Yaminabe YAMMY: An interactive cooking pot that uses feeling as spices -><title>
+Izumi Yagi Yu Ebihara Tamaki Inada Yoshiki Tanaka -><author>
+Maki Sugimoto Masahiko Inami Adrian D. Cheok Naohito Okude Masahiko Inakage -><author>
+Keio University, Media Design -><affiliation>
+4-1-1, Hiyoshi, Kohokuku, -><address>
+Yokohamashi, Kanagawa, Japan -><address>
+{ izumi, yu.ebihara, tinada, yo }@kmd.keio.ac.jp -><email>

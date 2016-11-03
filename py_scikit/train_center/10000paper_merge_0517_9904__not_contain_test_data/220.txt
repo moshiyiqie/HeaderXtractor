@@ -1,0 +1,12 @@
+Designing Agent Collectives For Systems With Markovian -><title>
+Dynamics -><title>
+David H. Wolpert -><author>
+NASA Ames Research Center -><affiliation>
+MS 269-2 -><address>
+Moffett Field, CA 94035 -><address>
+dhw@ptolemy.arc.nasa.gov -><email>
+John W. Lawson -><author>
+NASA Ames Research Center -><affiliation>
+MS 269-2 -><address>
+Moffett Field, CA 94035 -><address>
+lawson@ptolemy.arc.nasa.gov -><email>

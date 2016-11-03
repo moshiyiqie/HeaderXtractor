@@ -1,0 +1,20 @@
+A Framework for Testing Hardware-Software -><title>
+Security Architectures∗ -><title>
+Mahadevan -><title>
+† -><title>
+Yu-Yuan Chen -><author>
+Princeton University -><affiliation>
+Princeton, NJ, 08540 USA -><address>
+yctwo@princeton.edu -><email>
+Jeffrey S. Dwoskin -><author>
+Princeton University -><affiliation>
+Princeton, NJ, 08540 USA -><address>
+jdwoskin@princeton.edu -><email>
+Gomathisankaran -><unknow>
+University of North Texas -><affiliation>
+Denton, TX, 76203 USA -><address>
+mgomathi@unt.edu -><email>
+Ruby B. Lee -><author>
+Princeton University -><affiliation>
+Princeton, NJ, 08540 USA -><address>
+rblee@princeton.edu -><email>

@@ -1,0 +1,7 @@
+Agent-Based Control for -><title>
+Decentralised Demand Side Management in the Smart Grid -><title>
+Sarvapali D. Ramchurn, Perukrishnen Vytelingum, Alex Rogers, and Nick Jennings -><author>
+Intelligence, Agents, Multimedia Group -><affiliation>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton, UK -><affiliation>
+{sdr,pv,acr,nrj}@ecs.soton.ac.uk -><email>

@@ -1,0 +1,6 @@
+DIRECT: A Scalable Approach for Route Guidance in -><affiliation>
+Selfish Orienteering Problems -><title>
+Pradeep Varakantham, Hala Mostafa, Na Fu, Hoong Chuin Lau -><author>
+School of Information Systems -><affiliation>
+Singapore Management University -><affiliation>
+{pradeepv,halamostafa,nafu,hclau}@smu.edu.sg -><email>

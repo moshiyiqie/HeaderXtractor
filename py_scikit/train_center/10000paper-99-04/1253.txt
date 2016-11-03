@@ -1,0 +1,6 @@
+Timed Mobile Agent Planning for Distributed Information -><title>
+Retrieval -><title>
+Jin-Wook Baek, Gyu-Tae Kim, Heon-Young Yeom -><author>
+School of Computer Science and Engineering, Seoul National University -><affiliation>
+Seoul, Korea -><address>
+{jwbaek,gtkim,yeom}@arirang.snu.ac.kr -><email>

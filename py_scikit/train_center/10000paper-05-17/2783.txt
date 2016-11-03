@@ -1,0 +1,28 @@
+ecosystems -><title>
+Jari Jussila -><author>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 8 -><address>
+FI-33720 Tampere -><address>
+jari.j.jussila@tut.fi -><email>
+Samuli Kortelainen -><author>
+SimAnalytics -><affiliation>
+Energiakuja 3 -><address>
+FI-00180 Helsinki -><address>
+samuli.kortelainen@simanalytics.com -><email>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 8 -><address>
+FI-33720 Tampere -><address>
+hannu.karkkainen@tut.fi -><email>
+Timo Aho -><unknow>
+Solita -><title>
+Teemo Tebest -><title>
+Yle -><author>
+Radiokatu 5 -><affiliation>
+FI-00024 Yleisradio -><address>
+teemo.tebest@gmail.com -><email>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 10 -><address>
+FI-33720 Tampere -><address>
+jukka.huhtamaki@tut.fi -><email>
+FI-33100 Tampere -><pubnum>
+timo.aho@solita.fi -><email>

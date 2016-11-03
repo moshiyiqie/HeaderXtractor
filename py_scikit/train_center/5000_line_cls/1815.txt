@@ -1,0 +1,14 @@
+Optimal Social Laws -><title>
+∗ -><title>
+Michael Wooldridge -><author>
+Dept of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF -><address>
+UK -><address>
+mjw@liv.ac.uk -><email>
+Thomas Ågotnes -><author>
+Dept of Information Science and Media Studies -><affiliation>
+University of Bergen -><affiliation>
+PB. 7802, 5020 Bergen -><address>
+Norway -><address>
+thomas.agotnes@infomedia.uib.no -><email>

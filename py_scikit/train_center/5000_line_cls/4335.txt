@@ -1,0 +1,17 @@
+Citizen Engagement and Awareness of the Road Surface -><title>
+Conditions in Nairobi, Kenya -><title>
+Tierra Bills -><author>
+IBM Research Africa -><affiliation>
+tbills@ke.ibm.com -><email>
+Jidraph Njuguna -><author>
+Florida State University -><affiliation>
+jn08f@my.fsu.edu -><email>
+Darshan Santani -><author>
+Idiap Research Institute -><affiliation>
+dsantani@idiap.ch -><email>
+Aisha W. Bryant -><author>
+IBM Research Africa -><affiliation>
+awalcott@ke.ibm.com -><email>
+Reginald Bryant -><author>
+IBM Research Africa -><affiliation>
+bryantre@ke.ibm.com -><email>

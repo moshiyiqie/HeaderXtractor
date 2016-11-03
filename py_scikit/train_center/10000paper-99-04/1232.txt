@@ -1,0 +1,8 @@
+Architecture of an Agent Server Capable of Hosting -><title>
+Tens of Thousands of Agents -><title>
+Gaku Yamamoto -><author>
+IBM Research, Tokyo Research Laboratory -><affiliation>
+1623-14, Shimo-tsuruma, Yamato-shi, -><address>
+Kanagawa-ken 242, Japan -><address>
++81-462-73-4639 -><phone>
+yamamoto@jp.ibm.com -><email>

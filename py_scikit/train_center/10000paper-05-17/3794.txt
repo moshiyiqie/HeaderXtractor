@@ -1,0 +1,22 @@
+Metadata Management and Relational Databases -><title>
+Catharine M. Wyss -><author>
+Department of Computer -><affiliation>
+Science and School of -><affiliation>
+Informatics -><author>
+Indiana University -><affiliation>
+Bloomington, IN 47405, U.S.A. -><address>
+cmw@cs.indiana.edu -><email>
+James J. Lu -><author>
+Department of Mathematics -><affiliation>
+and Computer Science -><affiliation>
+Emory University -><affiliation>
+Atlanta, GA 30322-1950, -><address>
+U.S.A. -><address>
+jlu@mathcs.emory.edu -><email>
+Shun Yan Cheung -><author>
+Department of Mathematics -><affiliation>
+and Computer Science -><affiliation>
+Emory University -><affiliation>
+Atlanta, GA 30322-1950, -><address>
+U.S.A. -><address>
+cheung@mathcs.emory.edu -><email>

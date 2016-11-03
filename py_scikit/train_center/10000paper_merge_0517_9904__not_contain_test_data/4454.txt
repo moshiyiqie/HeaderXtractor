@@ -1,0 +1,5 @@
+Scippa: -><title>
+System-Centric IPC Provenance on Android -><title>
+Michael Backes, Sven Bugiel, Sebastian Gerling -><author>
+{backes,bugiel,sgerling}@cs.uni-saarland.de -><email>
+Saarland University/CISPA, Germany -><affiliation>

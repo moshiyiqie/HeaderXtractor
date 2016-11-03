@@ -1,0 +1,10 @@
+Exploration on the Commonality of Hierarchical Clustering -><title>
+Algorithms -><title>
+Yonghui Chen -><author>
+The University of Alabama at Birmingham -><affiliation>
+Alan Sprague -><author>
+The University of Alabama at Birmingham -><affiliation>
+Birmingham 35294 -><address>
+Birmingham 35294 -><address>
+chenyh@cis.uab.edu -><email>
+sprague@cis.uab.edu -><email>

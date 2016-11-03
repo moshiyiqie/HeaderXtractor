@@ -1,0 +1,6 @@
+Automatic Transformation of Abstract AUTOSAR -><title>
+Architectures to Timed Automata -><title>
+Stefan Neumann, Norman Kluge and Sebastian Wätzoldt -><author>
+Hasso-Plattner Institute at the University of Potsdam, Germany -><affiliation>
+stefan.neumann(|)sebastian.waetzoldt@hpi.uni-potsdam.de -><email>
+norman.kluge@student.hpi.uni-potsdam.de -><email>

@@ -1,0 +1,23 @@
+Multiagent Based Interpolation System for Trafﬁc -><title>
+Condition by Estimation/Learning -><title>
+Tetsuo Morita -><title>
+Information & Communication -><affiliation>
+Laboratories -><affiliation>
+Sumitomo Electric Industries -><author>
+1-1-3, Shimaya, Konohana-ku -><address>
+Osaka, 554-0024 Japan -><address>
+morita-tetsuo@sei.co.jp -><email>
+Kouji Kagawa -><unknow>
+Information & Communication -><title>
+Laboratories -><affiliation>
+Sumitomo Electric Industries -><unknow>
+1-1-3, Shimaya, Konohana-ku -><title>
+Osaka, 554-0024 Japan -><address>
+kagawa-kouji@sei.co.jp -><email>
+Junji Yano -><unknow>
+Information & Communication -><title>
+Laboratories -><affiliation>
+Sumitomo Electric Industries -><affiliation>
+1-1-3, Shimaya, Konohana-ku -><address>
+Osaka, 554-0024 Japan -><address>
+yano-junji@sei.co.jp -><email>

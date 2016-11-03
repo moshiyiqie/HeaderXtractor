@@ -1,0 +1,6 @@
+E-R Modeler: A Database Modeling Toolkit for Eclipse -><title>
+Song Zhou, Chuanxi Xu, Hui Wu, Jing Zhang, Yuehua Lin, Juanqin Wang, Jeff Gray, Barrett Bryant -><author>
+Department of Computer and Information Sciences -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+Birmingham, AL 35294 USA -><address>
+{zhous, xuc, wuh, zhangj, liny, wangjq, gray, bryant}@cis.uab.edu -><email>

@@ -1,0 +1,12 @@
+Task Selection Problem under Uncertainty as -><title>
+Decision-Making -><title>
+Hosam Hanna -><author>
+GREYC - University of Caen -><affiliation>
+Bd du Maréchal Juin -><affiliation>
+14032 Caen, France -><address>
+hanna@info.unicaen.fr -><email>
+Abdel-Illah Mouaddib -><author>
+GREYC - University of Caen -><affiliation>
+Bd du Maréchal Juin -><affiliation>
+14032 Caen, France -><address>
+mouaddib@info.unicaen.fr -><email>

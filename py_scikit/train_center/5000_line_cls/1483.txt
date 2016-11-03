@@ -1,0 +1,10 @@
+Learning from Induced Changes in Opponent (Re)Actions -><title>
+in Multi-Agent Games -><title>
+P.J. ’t Hoen -><author>
+hoen@cwi.nl -><email>
+S.M. Bohte -><email>
+sbohte@cwi.nl -><email>
+J.A. La Poutre´ -><author>
+hlp@cwi.nl -><email>
+CWI, The Netherlands Centre for Mathematics and Computer Science -><affiliation>
+Kruislaan 413, NL-1098 SJ Amsterdam, The Netherlands -><address>

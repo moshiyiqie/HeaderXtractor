@@ -1,0 +1,18 @@
+Online Monte Carlo Counterfactual Regret Minimization -><title>
+for Search in Imperfect Information Games -><title>
+∗ -><title>
+Marc Lanctot -><author>
+Dept. Knowledge Engineering -><affiliation>
+Maastricht University -><affiliation>
+The Netherlands -><address>
+marc.lanctot@gmail.com -><email>
+Michael Bowling -><author>
+Dept. Computing Science -><affiliation>
+University of Alberta, -><affiliation>
+Edmonton, Canada -><address>
+bowling@cs.ualberta.ca -><email>
+Viliam Lisý -><author>
+Dept. Computer Science, FEE -><affiliation>
+Czech Technical University -><affiliation>
+in Prague, Czech Republic -><affiliation>
+lisy@agents.fel.cvut.cz -><email>

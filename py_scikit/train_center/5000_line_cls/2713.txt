@@ -1,0 +1,9 @@
+Ishikawa Play -><title>
+Zinovi Rabinovich⋆ -><email>
+zr@zinovi.net -><email>
+Jeffrey S. Rosenschein∗ -><author>
+jeff@cs.huji.ac.il -><email>
+Yoad Lewenberg∗ -><author>
+yoadlew@cs.huji.ac.il -><email>
+∗ School of Computer Science and Engineering, The Hebrew University of Jerusalem, Israel -><affiliation>
+⋆ Mobileye Vision Technologies Ltd., PO Box 45157, Jerusalem, 97775, Israel -><address>

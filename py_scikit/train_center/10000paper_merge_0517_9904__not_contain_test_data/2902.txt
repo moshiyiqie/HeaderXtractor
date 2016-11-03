@@ -1,0 +1,15 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+Implementing Encrypted Streaming Video in a Distributed -><title>
+Server Environment -><title>
+Grenville Armitage -><author>
+Centre for Advanced Internet Architectures -><affiliation>
+Swinburne University of Technology -><affiliation>
+John Street Hawthorn -><address>
+Victoria, 3122, Australia -><address>
+garmitage@swin.edu.au -><email>
+Jason But -><author>
+Centre for Advanced Internet Architectures -><affiliation>
+Swinburne University of Technology -><affiliation>
+John Street Hawthorn -><address>
+Victoria, 3122, Australia -><address>
+jbut@swin.edu.au -><email>

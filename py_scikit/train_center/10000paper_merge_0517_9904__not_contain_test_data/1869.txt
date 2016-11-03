@@ -1,0 +1,15 @@
+Empirical Analysis of Plurality Election Equilibria -><title>
+David R. M. Thompson -><author>
+University of British Columbia -><affiliation>
+daveth@cs.ubc.ca -><email>
+Omer Lev -><author>
+The Hebrew University of -><affiliation>
+Jerusalem -><address>
+omer.lev@mail.huji.ac.il -><email>
+Kevin Leyton-Brown -><author>
+University of British Columbia -><affiliation>
+kevinlb@cs.ubc.ca -><email>
+Jeffrey Rosenschein -><author>
+The Hebrew University of -><affiliation>
+Jerusalem -><address>
+jeff@cs.huji.ac.il -><email>

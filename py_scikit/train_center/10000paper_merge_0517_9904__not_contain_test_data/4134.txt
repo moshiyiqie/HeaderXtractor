@@ -1,0 +1,5 @@
+A Case Study in Test Management -><title>
+Tauhida Parveen Scott Tilley -><author>
+Dept. of Computer Sciences Dept. of Computer Sciences Software Quality Management -><affiliation>
+Florida Institute of Technology Florida Institute of Technology Sabre Holdings Inc. -><affiliation>
+tparveen -><web>

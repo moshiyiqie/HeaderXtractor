@@ -1,0 +1,6 @@
+A Robust Cooperation Architecture -><title>
+for Teams of UCAVs -><title>
+François Legras -><title>
+Onera DCSD / SupAéro -><author>
+2, av. E. Belin 31055 Toulouse Cedex 4, France -><author>
+francois.legras@cert.fr -><email>

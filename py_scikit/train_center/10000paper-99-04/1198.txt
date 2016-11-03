@@ -1,0 +1,6 @@
+BoB: an Interactive Improvisational Music Companion -><title>
+Belinda Thom -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15207 -><address>
+bthom@cs.cmu.edu -><email>

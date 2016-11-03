@@ -1,0 +1,14 @@
+Using and Teaching Information Hiding -><title>
+in Single-semester Software Engineering Projects -><title>
+Gisela Menger -><author>
+Department of Computer -><affiliation>
+Structures -><affiliation>
+University of UIm -><affiliation>
+89069 UIm, Germany -><address>
+gisela@informatik.uni-ulm.de -><email>
+Mark Evered -><author>
+School of Mathematical and -><affiliation>
+Computer Sciences -><affiliation>
+University of New England -><affiliation>
+Arrnldale, 2351, Australia -><address>
+markev@turing.une.edu.au -><email>

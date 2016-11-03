@@ -1,0 +1,24 @@
+Student Success -><title>
+Rebecca Bruce -><author>
+Charles Fowler -><author>
+Mark Guzdial -><author>
+Computer Science -><affiliation>
+Mathematics and Computer Science -><affiliation>
+College of Computing -><affiliation>
+Gainesville College -><affiliation>
+Georgia Institute of Technology -><affiliation>
+University of North Carolina at -><affiliation>
+Asheville -><address>
+bruce@cs.unca.edu -><email>
+cfowler@gc.peachnet.edu -><email>
+guzdial@cc.gatech.edu -><email>
+Amy Woszczynski -><author>
+Merle S. King -><author>
+Computer Science and Information -><affiliation>
+Systems -><affiliation>
+Computer Science and Information -><affiliation>
+Systems -><affiliation>
+Kennesaw State University -><affiliation>
+Kennesaw State University -><affiliation>
+awoszczy@kennesaw.edu -><email>
+mking@kennesaw.edu -><email>

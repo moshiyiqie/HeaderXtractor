@@ -1,0 +1,8 @@
+A Study of the Performance of Steering Tasks under -><title>
+Spatial Transformation of Input -><title>
+Eileen Kraemer M. Eduard Tudoreanu -><author>
+Department of Computer Science -><affiliation>
+The University of Georgia, Athens, GA, USA -><affiliation>
+Department of Information Science -><affiliation>
+University of Arkansas at Little Rock, Little Rock, AR, USA -><affiliation>
+metudoreanu@ualr.edu eileen@cs.uga.edu -><email>

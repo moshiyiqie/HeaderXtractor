@@ -1,0 +1,11 @@
+Tractable Multiagent Planning for Epistemic Goals -><title>
+Wiebe van der Hoek -><author>
+Department of Computer Science -><affiliation>
+Utrecht University & University of Liverpool -><affiliation>
+The Netherlands & U.K. -><affiliation>
+wiebe@cs.uu.nl -><email>
+Michael Wooldridge -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, U.K. -><address>
+M.J.Wooldridge@csc.liv.ac.uk -><email>

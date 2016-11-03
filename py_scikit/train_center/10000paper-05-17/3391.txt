@@ -1,0 +1,23 @@
+Automatic synthesis from UML/MARTE models using -><title>
+channel semantics -><title>
+Eugenio Villar -><author>
+University of Cantabria -><affiliation>
+ETSIIT, Los Castros s.n. -><affiliation>
+39005 Santander, Spain -><address>
++34 942 201398 -><phone>
+villar@teisa.unican.es -><email>
+University of Cantabria -><affiliation>
+ETSIIT, Los Castros s.n. -><affiliation>
+39005 Santander, Spain -><address>
++34 942 200878 -><phone>
+nicolasa@teisa.unican.es -><email>
+University of Cantabria -><affiliation>
+ETSIIT, Los Castros s.n. -><affiliation>
+39005 Santander, Spain -><address>
++34 942 200878 -><phone>
+posadash@teisa.unican.es -><email>
+University of Cantabria -><affiliation>
+ETSIIT, Los Castros s.n. -><affiliation>
+39005 Santander, Spain -><address>
++34 942 200878 -><phone>
+pablop@teisa.unican.es -><email>

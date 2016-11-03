@@ -1,0 +1,14 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+Heat Sensation in Image Creation with Thermal Vision -><title>
+Daisuke Iwai -><author>
+Graduate School of Engineering Science, -><affiliation>
+Osaka University -><affiliation>
+1-3, Machikaneyama, Toyonaka -><address>
+Osaka, 560-8531, JAPAN -><address>
+iwai@sens.sys.es.osaka-u.ac.jp -><email>
+Kosuke Sato -><author>
+Graduate School of Engineering Science, -><affiliation>
+Osaka University -><affiliation>
+1-3, Machikaneyama, Toyonaka -><address>
+Osaka, 560-8531, JAPAN -><address>
+sato@sys.es.osaka-u.ac.jp -><email>

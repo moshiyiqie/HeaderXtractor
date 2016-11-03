@@ -1,0 +1,8 @@
+Shape and Texture based Facial Action and Emotion -><title>
+Recognition -><title>
+(Demonstration) -><title>
+Li Zhang, Kamlesh Mistry, Alamgir Hossain -><author>
+Department of Computer Science and Digital Technologies -><affiliation>
+Northumbria University -><affiliation>
+Newcastle, NE1 8ST, UK -><address>
+{li.zhang, kamlesh.mistry, alamgir.hossain}@northumbria.ac.uk -><email>

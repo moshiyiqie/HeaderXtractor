@@ -1,0 +1,34 @@
+Hypertext Navigation of ACL2 Proofs with XMLEye -><title>
+Inmaculada -><title>
+Medina-Bulo -><title>
+Escuela Superior de -><author>
+Ingeniería -><author>
+Universidad de Cádiz -><affiliation>
+C/Chile 1, CP 11003 -><address>
+Antonio -><web>
+García-Domínguez -><unknow>
+Escuela Superior de -><author>
+Ingeniería -><author>
+Universidad de Cádiz -><affiliation>
+C/Chile 1, CP 11003 -><address>
+Cádiz, Spain -><address>
+antonio.garciadominguez -><email>
+@uca.es -><email>
+Francisco -><web>
+Palomo-Lozano -><unknow>
+Escuela Superior de -><author>
+Ingeniería -><author>
+Universidad de Cádiz -><affiliation>
+C/Chile 1, CP 11003 -><address>
+Cádiz, Spain -><address>
+francisco.palomo -><email>
+@uca.es -><email>
+Permission to make digital or hard copies of all or part of -><note>
+this work for personal or classroom use is granted without fee -><note>
+provided that copies are not made or distributed for profit or -><note>
+commercial advantage and that copies bear this notice and -><note>
+the full citation on the first page. To copy otherwise, to re- -><note>
+publish, to post on servers or to redistribute to lists, requires -><note>
+prior specific permission and/or a fee. -><note>
+ACL2’09, May 11–12, 2009, Boston, MA, USA -><note>
+Copyright c©2009 ACM 978-1-60558-742-4/09/05. . . $10.00 -><note>

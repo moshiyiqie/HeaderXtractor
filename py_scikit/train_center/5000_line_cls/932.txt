@@ -1,0 +1,16 @@
+Sven Brueckner -><author>
+Altarum Institute -><affiliation>
+sven.brueckner@ -><email>
+altarum.org -><email>
+Paul Chiusano -><author>
+Univ. of Michigan -><affiliation>
+pchiusan@ -><email>
+umich.edu -><email>
+H. Van Parunak -><author>
+Altarum Institute -><affiliation>
+van.parunak@ -><email>
+altarum.org -><email>
+Peter Weinstein, -><author>
+Altarum Institute -><affiliation>
+peter.Weinstein@ -><email>
+altarum.org -><web>

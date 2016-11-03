@@ -1,0 +1,12 @@
+Privacy-Preserving Mining by Rotational Data -><title>
+Transformation -><title>
+Mohammed Ketel -><author>
+Department of Computer Science -><affiliation>
+North Carolina A&T State University -><affiliation>
+Greensboro, NC 27411 -><address>
+mketel@ncat.edu -><email>
+Abdollah Homaifar -><author>
+NASA Autonomous Control and Info. Tech. Center -><affiliation>
+North Carolina A&T State University -><affiliation>
+Greensboro, NC 27411 -><address>
+homaifar@ncat.edu -><email>

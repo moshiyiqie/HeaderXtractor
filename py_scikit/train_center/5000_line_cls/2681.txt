@@ -1,0 +1,15 @@
+Achieving Fully Proportional Representation is Easy in -><title>
+Practice -><title>
+Piotr Skowron -><author>
+University of Warsaw -><affiliation>
+Warsaw, Poland -><address>
+p.skowron@mimuw.edu.pl -><email>
+Arkadii Slinko -><author>
+University of Auckland -><affiliation>
+Auckland, New Zealand -><address>
+a.slinko@auckland.ac.nz -><email>
+Piotr Faliszewski -><author>
+AGH University of Science -><affiliation>
+and Technology -><affiliation>
+Krakow, Poland -><address>
+faliszew@agh.edu.pl -><email>

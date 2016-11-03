@@ -1,0 +1,14 @@
+Algorithm for Combinatorial Coalition Formation and -><title>
+Payoff Division in an Electronic Marketplace ∗ -><title>
+Cuihong Li -><author>
+Graduate School of Industrial Administration -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+cuihong@andrew.cmu.edu -><email>
+Katia Sycara -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+katia@cs.cmu.edu -><email>

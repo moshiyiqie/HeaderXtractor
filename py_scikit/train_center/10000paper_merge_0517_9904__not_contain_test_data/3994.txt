@@ -1,0 +1,19 @@
+Newton’s Method for Steady and Unsteady Reacting Flows∗ -><title>
+Fuqian Yang§ -><author>
+Department of Chemical and -><affiliation>
+Materials Engineering -><affiliation>
+University of Kentucky -><affiliation>
+Lexington, KY, 40506, USA -><address>
+fyang0@engr.uky.edu -><email>
+Jun Zhang‡ -><date>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Kentucky -><affiliation>
+Lexington, KY, 40506, USA -><address>
+jzhang@cs.uky.edu -><email>
+Wensheng Shen† -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Kentucky -><affiliation>
+Lexington, KY, 40506, USA -><address>
+wensheng@csr.uky.edu -><email>

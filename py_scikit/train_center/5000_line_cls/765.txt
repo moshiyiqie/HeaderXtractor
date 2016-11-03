@@ -1,0 +1,5 @@
+Reasoning about Rationality and Beliefs -><title>
+Ya’akov Gal and Avi Pfeffer -><author>
+Division of Engineering and Applied Sciences -><affiliation>
+Harvard University, Cambridge, MA 02138 -><affiliation>
+{gal,avi}@eecs.harvard.edu -><email>

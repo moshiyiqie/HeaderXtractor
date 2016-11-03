@@ -1,0 +1,11 @@
+Terrain Coverage with Ant Robots: A Simulation Study -><title>
+Yaxin Liu -><author>
+College of Computing -><affiliation>
+Georgia Institute of Technology -><affiliation>
+Atlanta, GA 30332-0280 -><address>
+yxliu@cc.gatech.edu -><email>
+Sven Koenig -><author>
+College of Computing -><affiliation>
+Georgia Institute of Technology -><affiliation>
+Atlanta, GA 30332-0280 -><address>
+skoenig@cc.gatech.edu -><email>

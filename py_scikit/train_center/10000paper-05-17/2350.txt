@@ -1,0 +1,17 @@
+Optimisation and Relaxation for Multiagent Planning -><title>
+in the Situation Calculus -><title>
+Peter J. Stuckey -><author>
+National ICT Australia and -><affiliation>
+The University of Melbourne -><affiliation>
+pstuckey@unimelb.edu.au -><email>
+Adrian R. Pearce -><author>
+National ICT Australia and -><affiliation>
+The University of Melbourne -><affiliation>
+adrianrp@unimelb.edu.au -><email>
+Toby O. Davies -><author>
+National ICT Australia and -><affiliation>
+The University of Melbourne -><affiliation>
+toby.davies@nicta.com.au -><email>
+Harald Søndergaard -><author>
+The University of Melbourne -><affiliation>
+harald@unimelb.edu.au -><email>

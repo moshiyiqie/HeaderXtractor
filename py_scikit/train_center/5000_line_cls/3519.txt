@@ -1,0 +1,6 @@
+Design and Evaluation of Micro-Crowdfunding: -><title>
+Encouraging Sustainable Behavior in Micro-Level Crowdfunding -><title>
+Mizuki Sakamoto, Tatsuo Nakajima, Yefeng Liu, Alexandrova Todorka -><author>
+Department of Computer Science and Engineering -><affiliation>
+Waseda University -><affiliation>
+{mizuki, tatsuo, yefeng, toty}@dcl.cs.waseda.ac.jp -><email>

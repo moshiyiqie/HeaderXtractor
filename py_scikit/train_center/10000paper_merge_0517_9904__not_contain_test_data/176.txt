@@ -1,0 +1,12 @@
+A Multiagent Reinforcement Learning Algorithm by -><title>
+Dynamically Merging Markov Decision Processes -><title>
+Mohammad Ghavamzadeh -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts Amherst -><affiliation>
+Amherst, MA 01003 -><address>
+mgh@cs.umass.edu -><email>
+Sridhar Mahadevan -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts Amherst -><affiliation>
+Amherst, MA 01003 -><address>
+mahadeva@cs.umass.edu -><email>

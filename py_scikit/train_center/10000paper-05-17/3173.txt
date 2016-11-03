@@ -1,0 +1,27 @@
+Wearable Haptic Device to Present Contact Sensation -><title>
+Based on Cutaneous Sensation Using Thin Wire -><title>
+Hironori MITAKE -><author>
+Tokyo institute of technology -><affiliation>
+Kanagawa, Japan -><address>
++81-45-924-5085 -><phone>
+mitake@hi.pi.titech.ac.jp -><email>
+Takafumi AOKI -><author>
+Tokyo institute of technology -><affiliation>
+Kanagawa, Japan -><address>
++81-45-924-5085 -><phone>
+aoki@hi.pi.titech.ac.jp -><email>
+Danial Keoki -><affiliation>
+The University of Electro- -><address>
+Communications, Tokyo Japan -><address>
++81-42-443-5467 -><phone>
+dan@hi.mce.uec.ac.jp -><email>
+Makoto SATO -><email>
+Tokyo institute of technology -><affiliation>
+Kanagawa, Japan -><address>
++81-45-924-5085 -><phone>
+msato@pi.titech.ac.jp -><email>
+Shoichi HASEGAWA -><author>
+The University of Electro- -><affiliation>
+Communications, Tokyo Japan -><address>
++81-42-443-5467 -><phone>
+hase@hi.mce.uec.ac.jp -><email>

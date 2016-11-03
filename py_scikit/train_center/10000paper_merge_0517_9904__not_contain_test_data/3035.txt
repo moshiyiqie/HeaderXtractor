@@ -1,0 +1,14 @@
+Media Synchronization Control with Prediction -><title>
+in a Remote Haptic Calligraphy System -><title>
+Yutaka Ishibashiy -><author>
+yDepartment of Computer Science and -><affiliation>
+Toshio Asanoyz -><author>
+zNTT Service Integration Laboratories -><affiliation>
+NTT Corporation -><address>
+2-27, Nakanoshima, 6-chome, Kita-ku -><address>
+Osaka 530-6691, Japan -><address>
+asano.toshio@lab.ntt.co.jp -><affiliation>
+Engineering -><affiliation>
+Nagoya Institute of Technology -><affiliation>
+Nagoya 466-8555, Japan -><address>
+ishibasi@nitech.ac.jp -><email>

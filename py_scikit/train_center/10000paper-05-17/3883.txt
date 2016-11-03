@@ -1,0 +1,6 @@
+Efficiently Unifying Parallel Simulation Techniques -><title>
+Jinsheng Xu Jinghua Zhang -><author>
+North Carolina A&T State University Wesleyan College -><affiliation>
+1601 E. Market Street 4760 Forsyth Road -><address>
+Greensboro, NC 27411 Macon, Georgia 31210 -><address>
+jxu@ncat.edu jzhang@wesleyancollege.edu -><email>

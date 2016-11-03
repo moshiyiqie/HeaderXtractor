@@ -1,0 +1,20 @@
+Cooperative Negotiation for Soft Real-Time Distributed -><title>
+Resource Allocation ∗ -><title>
+Bryan Horling -><author>
+University of Massachusetts -><affiliation>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Amherst, MA 01003 -><address>
+bhorling@cs.umass.edu -><email>
+Victor Lesser -><author>
+University of Massachusetts -><affiliation>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Amherst, MA 01003 -><address>
+lesser@cs.umass.edu -><email>
+Roger Mailler -><author>
+University of Massachusetts -><affiliation>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Amherst, MA 01003 -><address>
+mailler@cs.umass.edu -><email>

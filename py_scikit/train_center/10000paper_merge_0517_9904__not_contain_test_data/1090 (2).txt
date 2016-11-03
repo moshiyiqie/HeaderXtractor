@@ -1,0 +1,11 @@
+Improving Readability of Contextualized Text Explanations -><title>
+Wallace Chigona∗ -><author>
+Department of Simulation and Graphics, -><affiliation>
+University of Magdeburg, -><affiliation>
+Universita¨tsplatz 2, D-39106 Magdeburg, -><affiliation>
+Germany -><address>
+Thomas Strothotte† -><author>
+Department of Simulation and Graphics, -><affiliation>
+University of Magdeburg, -><affiliation>
+Universita¨tsplatz 2, D-39106 Magdeburg, -><affiliation>
+Germany -><address>

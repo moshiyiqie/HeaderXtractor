@@ -1,0 +1,30 @@
+Beehive: Large-Scale Log Analysis for Detecting -><title>
+Suspicious Activity in Enterprise Networks -><title>
+Kaan Onarlioglu -><author>
+Northeastern University -><affiliation>
+Boston, MA, USA -><address>
+onarliog@ccs.neu.edu -><email>
+Ting-Fang Yen -><author>
+RSA Laboratories -><affiliation>
+Cambridge, MA, USA -><address>
+tingfang.yen@rsa.com -><email>
+Alina Oprea -><author>
+RSA Laboratories -><affiliation>
+Cambridge, MA, USA -><address>
+aoprea@rsa.com -><email>
+William Robertson -><author>
+Northeastern University -><affiliation>
+Boston, MA, USA -><address>
+wkr@ccs.neu.edu -><email>
+Todd Leetham -><author>
+EMC Corp -><affiliation>
+Hopkinton, MA, USA -><address>
+todd.leetham@emc.com -><email>
+Engin Kirda -><author>
+Northeastern University -><affiliation>
+Boston, MA, USA -><address>
+ek@ccs.neu.edu -><email>
+Ari Juels -><author>
+RSA Laboratories -><affiliation>
+Cambridge, MA, USA -><address>
+ajuels@rsa.com -><email>

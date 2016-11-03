@@ -1,0 +1,7 @@
+Learning and Reasoning about Norms -><title>
+using Neural-Symbolic Systems -><title>
+Guido Boella1, Silvano Colombo Tosatto1,2, Artur D’Avila Garcez3, -><author>
+Valerio Genovese1,2, Alan Perotti1, and Leendert van der Torre2 -><author>
+1University of Turin, Italy. {guido, genovese, perotti}@di.unito.it -><affiliation>
+2CSC, University of Luxembourg. {silvano.colombotosatto, leon.vandertorre}@uni.lu -><affiliation>
+3City University London. aag@soi.city.ac.uk -><affiliation>

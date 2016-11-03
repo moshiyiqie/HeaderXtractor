@@ -1,0 +1,20 @@
+A Mixed Reality Telepresence System -><title>
+with limited DOF Motion Base and Immersive Display -><title>
+Maiya Hori -><author>
+Nara Institute of Science and -><affiliation>
+Technology -><affiliation>
+8916-5, Takayama -><address>
+Ikoma, Nara, Japan -><address>
+maiya-h@is.naist.jp -><email>
+Naokazu Yokoya -><author>
+Nara Institute of Science and -><affiliation>
+Technology -><affiliation>
+8916-5, Takayama -><address>
+Ikoma, Nara, Japan -><address>
+yokoya@is.naist.jp -><email>
+Masayuki Kanbara -><author>
+Nara Institute of Science and -><affiliation>
+Technology -><affiliation>
+8916-5, Takayama -><address>
+Ikoma, Nara, Japan -><address>
+kanbara@is.naist.jp -><email>

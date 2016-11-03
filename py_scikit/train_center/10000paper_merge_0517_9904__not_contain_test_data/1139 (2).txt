@@ -1,0 +1,6 @@
+A Template-Based and Pattern-Driven Approach to Situation -><title>
+Awareness and Assessment in Virtual Humans -><title>
+Weixiong Zhang -><author>
+USC/Information Sciences Institute -><affiliation>
+Marina del Rey, CA 90292, USA -><address>
+zhang @ isi.edu -><email>

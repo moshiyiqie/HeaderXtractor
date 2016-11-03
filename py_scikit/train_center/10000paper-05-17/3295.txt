@@ -1,0 +1,32 @@
+Internationalisation and Cross Cultural Issues in Computing -><title>
+Education -><title>
+Jitian Xiao -><author>
+School of Computer -><affiliation>
+and Security Science, -><affiliation>
+Edith Cowan -><author>
+University, -><affiliation>
+Australia -><address>
+Tony Clear -><author>
+School of Computing -><affiliation>
+& Mathematical -><affiliation>
+Sciences, -><email>
+AUT University, -><affiliation>
+Auckland, -><address>
+New Zealand -><address>
+Jie Lu -><author>
+Faculty of -><degree>
+Engineering & -><degree>
+Information -><degree>
+Technology, -><degree>
+University of -><affiliation>
+Technology Sydney, -><degree>
+Australia -><degree>
+Kathryn Egea -><degree>
+School of -><degree>
+Information -><degree>
+Technology and -><degree>
+Electrical -><degree>
+Engineering -><affiliation>
+The University of -><affiliation>
+Queensland, -><address>
+Australia -><address>

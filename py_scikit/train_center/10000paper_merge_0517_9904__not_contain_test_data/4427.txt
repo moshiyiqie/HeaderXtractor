@@ -1,0 +1,12 @@
+Interrupt-oriented Bugdoor Programming: -><title>
+A Minimalist Approach to Bugdooring Embedded Systems -><title>
+Firmware -><title>
+Travis Goodspeed -><author>
+Straw Hat -><affiliation>
+travis@radiantmachines.com -><email>
+Samuel Junjie Tan -><author>
+Google, Inc. -><affiliation>
+samueltan@gmail.com -><email>
+Sergey Bratus -><author>
+Dartmouth College -><affiliation>
+sergey@cs.dartmouth.edu -><email>

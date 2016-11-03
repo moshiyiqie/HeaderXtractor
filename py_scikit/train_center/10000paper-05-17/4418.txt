@@ -1,0 +1,20 @@
+k-subscription: Privacy-Preserving Microblogging -><title>
+Browsing Through Obfuscation -><title>
+Panagiotis Papadopoulos -><author>
+FORTH-ICS, Greece -><address>
+panpap@ics.forth.gr -><email>
+Antonis Papadogiannakis -><affiliation>
+FORTH-ICS, Greece -><address>
+papadog@ics.forth.gr -><email>
+Michalis Polychronakis -><author>
+Columbia University, USA -><affiliation>
+mikepo@cs.columbia.edu -><email>
+Evangelos P. Markatos -><author>
+FORTH-ICS, Greece -><address>
+markatos@ics.forth.gr -><email>
+Apostolis Zarras -><author>
+Ruhr-University Bochum -><affiliation>
+apostolis.zarras@rub.de -><email>
+Thorsten Holz -><author>
+Ruhr-University Bochum -><affiliation>
+thorsten.holz@rub.de -><email>

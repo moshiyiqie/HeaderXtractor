@@ -1,0 +1,7 @@
+On Optimizing Interdependent Skills: A Case Study in -><title>
+Simulated 3D Humanoid Robot Soccer -><title>
+Daniel Urieli, Patrick MacAlpine, Shivaram Kalyanakrishnan, -><author>
+Yinon Bentor, and Peter Stone -><author>
+Department of Computer Science, The University of Texas at Austin -><affiliation>
+1616 Guadalupe St Suite 2.408 Austin Texas 78701 USA -><address>
+{urieli, patmac, shivaram, yinon, pstone}@cs.utexas.edu -><email>

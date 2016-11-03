@@ -1,0 +1,14 @@
+Constructing Optimal Policies for Agents with Constrained -><title>
+Architectures ∗ -><title>
+Dmitri A. Dolgov and Edmund H. Durfee -><author>
+Department of Electrical Engineering and Computer Science -><affiliation>
+University of Michigan -><affiliation>
+Ann Arbor, MI 48109 -><address>
+{ddolgov, durfee}@umich.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.8 [Artificial Intelligence]: Problem Solving, Control Methods, -><note>
+and Search -><note>
+General Terms -><note>
+Algorithms, Performance, Design -><note>
+Keywords -><keyword>
+Action selection, Agent architectures, Constrained MDP -><keyword>

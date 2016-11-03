@@ -1,0 +1,9 @@
+BudgetFix: Budget Limited Crowdsourcing for -><title>
+Interdependent Task Allocation with Quality Guarantees -><title>
+Long Tran-Thanh1, Trung Dong Huynh1, Avi Rosenfeld2, -><author>
+Sarvapali Ramchurn1 and Nicholas R. Jennings1 -><author>
+1Electronics and Computer Science -><pubnum>
+University of Southampton, UK -><affiliation>
+{ltt08r,tdh,sdr,nrj}@ecs.soton.ac.uk -><email>
+2 Jerusalem College of Technology, Israel -><affiliation>
+rosenfa@jct.ac.il -><email>

@@ -1,0 +1,17 @@
+Keeping Pace with Criminals: Designing Patrol Allocation -><title>
+Against Adaptive Opportunistic Criminals -><title>
+Milind Tambe -><author>
+University of Southern -><affiliation>
+California -><address>
+Los Angeles, CA 90089, USA -><address>
+tambe@usc.edu -><email>
+Arunesh Sinha -><author>
+University of Southern -><affiliation>
+California -><address>
+Los Angeles, CA 90089, USA -><address>
+aruneshs@usc.edu -><email>
+Chao Zhang -><author>
+University of Southern -><affiliation>
+California -><address>
+Los Angeles, CA 90089, USA -><address>
+zhan661@usc.edu -><email>

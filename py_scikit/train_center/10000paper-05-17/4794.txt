@@ -1,0 +1,8 @@
+20 Years of Agent-Oriented Programming -><title>
+in Distributed AI: History and Outlook -><title>
+M. Birna van Riemsdijk -><author>
+Interactive Intelligence -><affiliation>
+Delft University of Technology -><affiliation>
+Mekelweg 4, 2628 CD, Delft -><address>
+The Netherlands -><address>
+m.b.vanriemsdijk@tudelft.nl -><email>

@@ -1,0 +1,22 @@
+Keeping Data Secret under Full Compromise -><title>
+using Porter Devices -><title>
+David Basin -><author>
+Information Security Group -><affiliation>
+Computer Science -><affiliation>
+ETH Zurich -><address>
+basin@inf.ethz.ch -><email>
+Christina Pöpper -><author>
+System Security Group -><affiliation>
+Computer Science -><affiliation>
+ETH Zurich -><address>
+poepperc@inf.ethz.ch -><email>
+Cas Cremers -><unknow>
+Information Security Group -><author>
+Computer Science -><affiliation>
+ETH Zurich -><affiliation>
+cremers@inf.ethz.ch -><email>
+Srdjan Cˇapkun -><author>
+System Security Group -><affiliation>
+Computer Science -><affiliation>
+ETH Zurich -><address>
+capkuns@inf.ethz.ch -><email>

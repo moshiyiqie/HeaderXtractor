@@ -1,0 +1,12 @@
+Generalized and Bounded Policy Iteration for -><title>
+Finitely-Nested Interactive POMDPs: Scaling Up -><title>
+Prashant Doshi -><author>
+THINC Lab, Dept. of Computer Science -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA. 30602 -><address>
+pdoshi@cs.uga.edu -><email>
+Ekhlas Sonu -><author>
+THINC Lab, Dept. of Computer Science -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA. 30602 -><address>
+esonu@uga.edu -><email>

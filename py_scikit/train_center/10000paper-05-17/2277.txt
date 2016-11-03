@@ -1,0 +1,12 @@
+Complexity of Stability-based Solution Concepts in -><title>
+Multi-issue and MC-net Cooperative Games -><author>
+Vincent Conitzer -><affiliation>
+Department of Computer Science -><affiliation>
+Duke University -><affiliation>
+Durham, NC 27708, USA -><address>
+conitzer@cs.duke.edu -><email>
+Yuqian Li -><author>
+Department of Computer Science -><affiliation>
+Duke University -><affiliation>
+Durham, NC 27708, USA -><address>
+yuqian@cs.duke.edu -><email>

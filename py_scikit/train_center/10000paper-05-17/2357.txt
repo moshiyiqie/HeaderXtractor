@@ -1,0 +1,15 @@
+Creating Socially Adaptive Electronic Partners -><title>
+Interaction, Reasoning and Ethical Challenges -><title>
+∗ -><title>
+M. Birna van Riemsdijk -><author>
+Delft University of Technology -><affiliation>
+Delft, The Netherlands -><address>
+m.b.vanriemsdijk@tudelft.nl -><email>
+Catholijn M. Jonker -><author>
+Delft University of Technology -><affiliation>
+Delft, The Netherlands -><address>
+c.m.jonker@tudelft.nl -><email>
+Victor Lesser -><author>
+UMASS -><affiliation>
+Amherst, USA -><address>
+lesser@cs.umass.edu -><email>

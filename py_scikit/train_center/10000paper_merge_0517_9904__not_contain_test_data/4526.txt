@@ -1,0 +1,20 @@
+Demand responsive public transportation using wireless -><title>
+technologies -><title>
+Shanmugha Sundaram GA -><author>
+Centre for Computer -><affiliation>
+Engineering and -><affiliation>
+Networking (CEN) -><affiliation>
+Amrita School of Engineering -><unknow>
+Amrita Vishwa Vidyapeetham -><unknow>
+Geetha SP -><title>
+Centre for Computer -><title>
+Engineering and -><note>
+Networking (CEN) -><note>
+Amrita School of Engineering -><unknow>
+Amrita Vishwa Vidyapeetham -><unknow>
+Prashanth S -><author>
+Department of CSE -><author>
+Amrita School of Engineering -><affiliation>
+Amrita Vishwa Vidyapeetham -><affiliation>
+ga_ssundaram@cb.amrita. -><email>
+edu -><affiliation>

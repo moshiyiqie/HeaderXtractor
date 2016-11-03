@@ -1,0 +1,8 @@
+A Multi-Attribute Utility Theoretic -><title>
+Negotiation Architecture for Electronic Commerce -><title>
+Mihai Barbuceanu and Wai-Kau Lo -><author>
+Enterprise Integration Laboratory -><affiliation>
+University of Toronto -><affiliation>
+4 Toddle Creek Road, Rosebrugh Building -><address>
+Toronto, Ontario, Canada, M5S 3G9 -><address>
+{mihai, wklo} @eil.utoronto.ca -><email>

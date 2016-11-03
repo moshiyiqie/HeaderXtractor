@@ -1,0 +1,3 @@
+Checking EMTLK Properties of Timed Interpreted Systems -><title>
+∗ -><title>
+via Bounded Model Checking -><title>

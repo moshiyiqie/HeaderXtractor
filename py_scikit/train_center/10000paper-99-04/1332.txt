@@ -1,0 +1,8 @@
+An Auction-Based Method for Decentralized Train -><title>
+Scheduling -><title>
+David C. Parkes and Lyle H. Ungar -><author>
+Computer and Information Science Department -><affiliation>
+University of Pennsylvania -><affiliation>
+200 South 33rd Street -><address>
+Philadelphia, PA 1910 -><address>
+dparkes@unagi.cis.upenn.edu, ungar@cis.upenn.edu -><email>

@@ -1,0 +1,6 @@
+Teaching and Working with Robots as a Collaboration -><title>
+Cynthia Breazeal, Guy Hoffman, Andrea Lockerd -><author>
+MIT Media Laboratory -><affiliation>
+77 Massachusetts Ave, NE18-5FL -><address>
+Cambridge, MA 02139 -><address>
+{cynthiab, guy, alockerd}@media.mit.edu -><email>

@@ -1,0 +1,8 @@
+Bee-inspired foraging in an embodied swarm -><title>
+(Demonstration) -><title>
+∗ -><title>
+Sjriek Alers -><author>
+, Daan Bloembergen, Daniel Hennes, Steven de Jong, Michael Kaisers, -><author>
+Nyree Lemmens, Karl Tuyls, and Gerhard Weiss -><author>
+Maastricht University, PO Box 616, 6200 MD, Maastricht, The Netherlands -><affiliation>
+http://maastrichtuniversity.nl/swarmlab -><affiliation>

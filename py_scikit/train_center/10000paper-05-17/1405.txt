@@ -1,0 +1,5 @@
+A Logic of Revelation and Concealment -><title>
+Wiebe van der Hoek Petar Iliev Michael Wooldridge -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool, UK -><affiliation>
+{wiebe, pvi, mjw}@liverpool.ac.uk -><email>

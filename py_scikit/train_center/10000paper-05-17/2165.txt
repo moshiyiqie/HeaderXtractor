@@ -1,0 +1,9 @@
+An Extensive Model Checking Framework for -><title>
+Multi-agent Systems -><title>
+(Demonstration) -><title>
+Jun Sun -><author>
+Singapore University of Technology and Design -><affiliation>
+sunjun@sutd.edu.sg -><email>
+Songzheng Song, Yang Liu, Jie Zhang -><author>
+Nanyang Technological University, Singapore -><affiliation>
+{songsz, yangliu, zhangj}@ntu.edu.sg -><email>

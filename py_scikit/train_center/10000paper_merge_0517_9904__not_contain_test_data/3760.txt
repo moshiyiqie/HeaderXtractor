@@ -1,0 +1,6 @@
+Using A Simulation Environment for Teaching and -><title>
+Researching Networking Topics -><title>
+Victor Clincy -><author>
+Kennesaw State University -><affiliation>
+Kennesaw, Georgia 30144 -><address>
+vclincy@kennesaw.edu -><email>

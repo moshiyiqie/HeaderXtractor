@@ -1,0 +1,8 @@
+Parametric Optimization of Artificial Neural Networks for -><title>
+Signal Approximation Applications -><title>
+J. Lane Thames Randal Abler Dirk Schaefer -><author>
+Georgia Institute of Technology Georgia Institute of Technology Georgia Institute of Technology -><affiliation>
+210 Technology Circle 210 Technology Circle 210 Technology Circle -><address>
+Savannah, GA 31407 Savannah, GA 31407 Savannah, GA 31407 -><address>
+001-912-966-7210 001-912-966-7210 001-912-966-7210 -><phone>
+lane.thames@gatech.edu randal.abler@gatech.edu dirk.schaefer@me.gatech.edu -><email>

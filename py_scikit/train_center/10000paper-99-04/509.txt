@@ -1,0 +1,7 @@
+Programming Agent Deliberation -><title>
+An Approach Illustrated Using the 3APL Language -><title>
+Mehdi Dastani Frank de Boer Frank Dignum John-Jules Meyer -><author>
+Institute of Information and Computing Sciences -><affiliation>
+Utrecht University -><affiliation>
+The Netherlands -><address>
+{ mehdi , frankb , dignum , jj }@cs.uu.nl -><email>

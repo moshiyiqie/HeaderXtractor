@@ -1,0 +1,11 @@
+Simple Certified e-Check with a Partial PKI solution -><title>
+Wen-Jung Hsin -><author>
+Information and Computer Science -><affiliation>
+Park University -><affiliation>
+Parkville, MO 64152 -><address>
+wen.hsin@park.edu -><email>
+Lein Harn -><author>
+School of Computing and Engineering -><affiliation>
+University of Missouri at Kansas City -><affiliation>
+Kansas City, MO 64110 -><address>
+harnl@umkc.edu -><email>

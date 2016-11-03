@@ -1,0 +1,12 @@
+Design of a Trust Model for a Secure Multi-Agent -><title>
+Marketplace -><title>
+S. Robles, J. Borrell -><author>
+J. Bigham, L. Tokarchuk, L. Cuthbert -><author>
+Dept of Electronic Engineering -><affiliation>
+Queen Mary, University of London -><affiliation>
+Mile End Road, London E1 4NS - UK -><address>
++44 20 7882 5350 -><phone>
+J.Bigham@elec.qmw.ac.uk -><email>
+08193 Bellaterra - Spain -><note>
++34 93 5812395 -><phone>
+Sergi.Robles@uab.es -><email>

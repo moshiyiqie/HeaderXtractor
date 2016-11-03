@@ -1,0 +1,5 @@
+Dynamic Game Difﬁculty Balancing for Backgammon -><title>
+Guillermo Gomez-Hicks and David Kauchak -><author>
+Computer Science Department -><affiliation>
+Pomona College -><affiliation>
+ggomezhicks@gmail.com, dkauchak@cs.pomona.edu -><email>

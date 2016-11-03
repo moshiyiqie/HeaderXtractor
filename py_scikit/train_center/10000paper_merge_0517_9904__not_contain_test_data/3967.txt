@@ -1,0 +1,14 @@
+Scanning Workstation Memory for Malicious Codes -><title>
+using Dedicated Coprocessors -><title>
+Sirish A. Kondi -><author>
+Box 9637, Computer Science and Engineering -><pubnum>
+Mississippi State University -><affiliation>
+Mississippi State, MS 39762, USA -><address>
++1(662)325-8274 -><phone>
+sak54@msstate.edu -><email>
+Yoginder S. Dandass -><author>
+Box 9637, Computer Science and Engineering -><pubnum>
+Mississippi State University -><affiliation>
+Mississippi State, MS 39762, USA -><address>
++1(662)325-7502 -><phone>
+yogi@cse.msstate.edu -><email>

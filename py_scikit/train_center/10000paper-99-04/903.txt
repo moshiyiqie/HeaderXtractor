@@ -1,0 +1,16 @@
+Querying Web Data: An Object-Oriented Approach -><title>
+Bhavini -><author>
+Depar -><author>
+Georgia State Univers -><affiliation>
+At -><unknow>
+{matbcpx -><unknow>
+Abst -><title>
+querying Web sources of data, structured in XML, is pre- -><abstract>
+sented in this paper. A querying system is developed based on -><abstract>
+this methodology using ObjectStore database system. XML -><abstract>
+data axe converted into objects that can be stored as part -><abstract>
+of the ObjectStore database system. Several querying inter- -><abstract>
+faces for querying, searching and browsing the database are -><abstract>
+developed. The methodology presented in this paper is easily -><abstract>
+adaptable to any source of Web data that is represented in -><abstract>
+XML. -><abstract>

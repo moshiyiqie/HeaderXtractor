@@ -1,0 +1,20 @@
+Foot-based mobile Interaction with Games -><title>
+Christian Reimann -><author>
+University of Paderborn, C-LAB -><affiliation>
+Fuerstenallee 11 -><address>
+33102 Paderborn, Germany -><address>
++ 49 5251 606118 -><phone>
+reimann@c-lab.de -><affiliation>
+Volker Paelke -><author>
+University of Hannover, IKG -><affiliation>
+Appelstr. 9a -><address>
+30167 Hannover, Germany -><address>
++49 511 7622472 -><phone>
+Dirk Stichling -><author>
+University of Paderborn, C-LAB -><affiliation>
+Fuerstenallee 11 -><address>
+33102 Paderborn, Germany -><address>
++49 5251 606114 -><phone>
+tichel@c-lab.de -><affiliation>
+volker.paelke@ikg.uni- -><email>
+hannover.de -><web>

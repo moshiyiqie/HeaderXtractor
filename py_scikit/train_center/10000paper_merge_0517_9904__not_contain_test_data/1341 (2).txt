@@ -1,0 +1,8 @@
+Denotational Semantics for Agent Communication Languages -><title>
+Frank Guerin and Jeremy Pitt -><author>
+Intelligent and Interactive Systems -><affiliation>
+Department of Electrical & Electronic Engineering, -><affiliation>
+Imperial College of Science, Technology & Medicine, -><affiliation>
+Exhibition Road, London, SW7 2BZ. -><address>
++44 20 7594 6331 -><phone>
+{f.guerin,j.pitt}@ic.ac.uk -><email>

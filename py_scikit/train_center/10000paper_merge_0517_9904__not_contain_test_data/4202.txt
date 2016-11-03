@@ -1,0 +1,8 @@
+Construction of a Smooth Multivariate Simulation -><title>
+Environment from a Finite One-to-One Mapping -><title>
+Shaun Gittens -><author>
+Auburn University -><affiliation>
+Dept. of Computer Science and Software Engineering -><affiliation>
+3101 Shelby Center -><address>
+Auburn, AL 36849-5347 -><address>
+gittens@auburn.edu -><email>

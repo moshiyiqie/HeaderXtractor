@@ -1,0 +1,18 @@
+Success, strategy and skill: an experimental study ∗ -><title>
+Yoav Shoham -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+Stanford University -><affiliation>
+Christopher Archibald -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+Stanford University -><affiliation>
+cja@stanford.edu -><email>
+Alon Altman -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+Stanford University -><affiliation>
+epsalon@stanford.edu -><email>
+Microsoft Israel R&D Center -><affiliation>
+Herzliya Pituach, Israel -><address>
+shoham@stanford.edu -><email>

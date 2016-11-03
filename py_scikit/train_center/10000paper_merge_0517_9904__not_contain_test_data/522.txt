@@ -1,0 +1,14 @@
+Forming Dynamic Coalitions of Rational Agents -><title>
+by use of the DCF-S Scheme -><title>
+Andreas Gerber -><author>
+German Research Center for Artificial Intelligence -><affiliation>
+GmbH, -><address>
+Matthias Klusch -><author>
+German Research Center for Artificial Intelligence -><affiliation>
+GmbH, -><address>
+agerber@dfki.de -><email>
+klusch@dfki.de -><email>
+Categories and Subject Descriptors -><note>
+I.2.3 [Arti_cial Intelligence]: Problem Solving, Control -><note>
+Methods, and Search; I.2.11 [Arti_cial Intelligence]: Distributed -><note>
+General Terms: Design, Economics. -><note>

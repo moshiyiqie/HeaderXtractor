@@ -1,0 +1,6 @@
+Using Automatic Speech Recognition for Attacking -><title>
+Acoustic CAPTCHAs: The Trade-off between Usability and -><title>
+Security -><title>
+Hendrik Meutzner, Viet-Hung Nguyen, Thorsten Holz, Dorothea Kolossa -><author>
+Horst Görtz Institute for IT-Security (HGI), Ruhr-University Bochum -><affiliation>
+{hendrik.meutzner, viet.nguyen-c7k, thorsten.holz, dorothea.kolossa}@rub.de -><email>

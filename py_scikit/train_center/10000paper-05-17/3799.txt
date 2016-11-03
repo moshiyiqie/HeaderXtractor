@@ -1,0 +1,7 @@
+A Java API for Global Querying and Updates for a System of -><title>
+Databases -><title>
+Rajshekhar Sunderraman, Erdogan Dogdu, Praveen Madiraju and Laxmikanth Malladi -><author>
+Department of Computer Science -><affiliation>
+Georgia State University -><affiliation>
+Atlanta, GA 30302 -><address>
+{raj,edogdu,cscpnmx}@cs.gsu.edu and csclnmx@tinman.cs.gsu.edu -><email>

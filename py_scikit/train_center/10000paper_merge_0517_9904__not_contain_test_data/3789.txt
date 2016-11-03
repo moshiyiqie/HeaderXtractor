@@ -1,0 +1,18 @@
+System Architecture to Integrate and Query XML Data -><title>
+Kenneth Messa -><author>
+Dept. of Math and Computer Science -><affiliation>
+Loyola Univ. 6363 St. Charles Ave. -><address>
+New Orleans, Louisiana 70118 -><address>
+Bogdan Czejdo -><author>
+Dept. of Math and Computer Science -><affiliation>
+Loyola Univ. 6363 St. Charles Ave. -><address>
+New Orleans, Louisiana 70118 -><address>
+Dalius Lukosiunas -><author>
+Dept. of Math and Computer Science -><affiliation>
+Loyola Univ. 6363 St. Charles Ave. -><address>
+New Orleans, Louisiana -><address>
+(504)865-3340 -><phone>
+(504)865-3340 -><pubnum>
+(504)865-3340 -><pubnum>
+czejdo@loyno.edu -><email>
+messa@loyno.edu -><email>

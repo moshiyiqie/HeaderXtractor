@@ -1,0 +1,17 @@
+Automating Test Case Denition Using a Domain Specic -><title>
+Language -><title>
+Kyungsoo Im -><author>
+School of Computing -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+kyungsi@cs.clemson.edu -><email>
+Tacksoo Im -><author>
+School of Computing -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+tim@cs.clemson.edu -><email>
+John D. McGregor -><author>
+School of Computing -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+johnmc@cs.clemson.edu -><email>

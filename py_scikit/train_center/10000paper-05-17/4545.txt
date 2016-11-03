@@ -1,0 +1,21 @@
+Intelligent Home Navigation System for the Elderly and -><title>
+Physically Challenged -><title>
+Sai Manoj Prakhya -><author>
+Student, Dept. of ECE -><affiliation>
+Amrita Vishwa Vidyapeetham -><author>
+Amrita School of Engineering -><affiliation>
+Amritapuri, Kollam, India -><address>
+saimanoj18@ieee.org -><email>
+Ramesh N Nair, Mithun Mohan -><author>
+Students, Dept. of ECE -><affiliation>
+Amrita Vishwa Vidyapeetham -><author>
+Amrita School of Engineering -><affiliation>
+Amritapuri, Kollam, India -><address>
+Rajesh Kannan Megalingam -><author>
+Asst. Professor, Dept. of ECE -><affiliation>
+Amrita Vishwa Vidyapeetham -><affiliation>
+Amrita School of Engineering -><affiliation>
+Amritapuri, Kollam, India -><address>
+rajeshkannan@ieee.org -><email>
+rameshnair@ieee.org, -><email>
+mithunmohan@ieee.org -><email>

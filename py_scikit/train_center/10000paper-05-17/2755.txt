@@ -1,0 +1,17 @@
+Easy vs. Tricky: The Shape Effect in Tracing, Selecting, -><title>
+and Steering With Mouse, Stylus, and Touch -><title>
+Suman Shrestha -><title>
+Informatics and Media -><author>
+Uppsala University -><affiliation>
+Uppsala, Sweden -><address>
+sush9175@student.uu.se -><email>
+Wolfgang Stuerzlinger -><author>
+Computer Science and Engineering -><affiliation>
+York University -><affiliation>
+Toronto, Canada -><address>
+Stanislaw Zabramski -><author>
+Informatics and Media -><affiliation>
+Uppsala University -><affiliation>
+Uppsala, Sweden -><address>
+stanislaw.zabramski@im.uu.se -><email>
+www.cse.yorku.ca/~wolfgang -><email>

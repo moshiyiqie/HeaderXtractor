@@ -1,0 +1,11 @@
+First Order Heterogeneous Agent Computations ∗ -><title>
+V.S. Subrahmanian -><author>
+Department of Computer Science -><affiliation>
+University of Maryland -><affiliation>
+College Park, MD 20742 -><address>
+vs@cs.umd.edu -><email>
+Bogdan Stroe -><author>
+Department of Computer Science -><affiliation>
+University of Maryland -><affiliation>
+College Park, MD 20742. -><address>
+bogdan@cs.umd.edu -><email>

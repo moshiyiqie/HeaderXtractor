@@ -1,0 +1,16 @@
+Group Synthesis for Parametric Temporal-Epistemic Logic -><title>
+Michał Knapik -><author>
+Andrew V. Jones -><author>
+Department of Computing -><affiliation>
+Imperial College London -><affiliation>
+andrew.jones@ic.ac.uk -><email>
+Alessio Lomuscio -><author>
+Department of Computing -><affiliation>
+Imperial College London -><affiliation>
+a.lomuscio@ic.ac.uk -><email>
+ICS PAS -><author>
+mknapik@ipipian.waw.pl -><email>
+Wojciech Penczek -><author>
+ICS PAS and -><affiliation>
+UPH Siedlce -><address>
+penczek@ipipan.waw.pl -><email>

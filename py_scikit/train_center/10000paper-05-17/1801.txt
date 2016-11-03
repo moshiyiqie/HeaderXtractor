@@ -1,0 +1,10 @@
+AgentSwitch: Towards Smart Energy Tariff Selection -><title>
+Sarvapali D. Ramchurn,1 Michael A. Osborne,2 Oliver Parson,1 Talal Rahwan,1 -><author>
+Sasan Maleki,1 Steve Reece,2 Trung D. Huynh,1 Mudasser Alam,1 Joel E. Fischer,3 -><author>
+Tom Rodden,3 Luc Moreau,1 Stephen Roberts2 -><address>
+1Electronics and Computer Science, University of Southampton, United Kingdom -><affiliation>
+{sdr,op106,tr,sm9g09,tdh,ma606,lavm}@ecs.soton.ac.uk -><email>
+2Pattern Recognition Lab, University of Oxford, United Kingdom -><affiliation>
+{mosb,sjrob}@oxford.ac.uk -><email>
+3Mixed Reality Lab, University of Nottingham, United Kingdom -><affiliation>
+{Joel.Fischer,Tom.Rodden}@nottingham.ac.uk -><email>

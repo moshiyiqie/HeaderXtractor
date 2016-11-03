@@ -1,0 +1,15 @@
+A Combinatorial Auction Protocol among Versatile Experts and Amateurs -><title>
+Makoto Yokoo -><author>
+Dept. of Intelligent Systems -><affiliation>
+Kyushu University -><affiliation>
+Fukuoka, 812-8581 JAPAN -><address>
+yokoo@is.kyushu-u.ac.jp -><email>
+Takayuki Ito -><author>
+Graduate School of Engineering -><affiliation>
+Nagoya Institute of Technology -><affiliation>
+Nagoya, 466-8555 JAPAN -><address>
+itota@ics.nitech.ac.jp -><email>
+Shigeo Matsubara -><author>
+NTT Communication Science Laboratories -><affiliation>
+Kyoto 619-0237, JAPAN -><address>
+matsubara@cslab.kecl.ntt.co.jp -><affiliation>

@@ -1,0 +1,11 @@
+A Multi-Agent System for Personal Messaging -><title>
+John F. Meech, Katherine Baker, Edith Law, Ramiro Liscano -><author>
+Network Computing Group, -><affiliation>
+Institute for Information Technology, -><affiliation>
+National Research Council of Canada. -><affiliation>
+M50, Montreal Road, Ottawa, Ontario, Canada K1A OR6 -><address>
+{John.Meech, Katherine.Baker, Edith.Law, Ramiro.Liscano} @ iit.nrc.ca -><email>
+Keywords -><email>
+Intelligent Interface Agent, Intelligent Interface, Adaptive -><keyword>
+Interface, Seamless Messaging, Unified Messaging, Software -><keyword>
+Agent. Telecommunications. -><keyword>

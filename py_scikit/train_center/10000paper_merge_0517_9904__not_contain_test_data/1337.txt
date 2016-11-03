@@ -1,0 +1,12 @@
+What am I doing? Automatic Construction of an Agent’s -><title>
+State-Transition Diagram through Introspection -><title>
+Constantin Berzan -><author>
+Department of Computer Science -><affiliation>
+Tufts University -><affiliation>
+Medford, MA 02155, USA -><address>
+constantin.berzan@tufts.edu -><email>
+Matthias Scheutz -><author>
+Department of Computer Science -><affiliation>
+Tufts University -><affiliation>
+Medford, MA 02155, USA -><address>
+mscheutz@cs.tufts.edu -><email>

@@ -1,0 +1,27 @@
+Discrete Relative States to Learn and Recognize -><title>
+Goals-based Behaviors of Groups -><title>
+∗ -><title>
+† -><title>
+‡ -><title>
+Abdel-Illah Mouaddib -><author>
+GREYC (UMPR 6072) -><affiliation>
+University of Caen -><affiliation>
+Basse-Normandie, France -><address>
+abdel-illah.mouaddib -><email>
+@unicaen.fr -><email>
+Jérémy Patrix -><affiliation>
+GREYC (UMPR 6072) -><address>
+University of Caen, France -><affiliation>
+jeremy.patrix@unicaen.fr -><email>
+& -><affiliation>
+IPCC department, -><affiliation>
+CASSIDIAN, France -><address>
+jeremy.patrix@cassidian.com -><email>
+Simon Le Gloannec -><unknow>
+& Dafni Stampouli -><title>
+& Marc Contat -><author>
+IPCC department, -><affiliation>
+CASSIDIAN -><affiliation>
+Val-de-Reuil, France -><address>
+{simon.legloannec,marc.contat -><email>
+dafni.stampouli}@cassidian.com -><email>

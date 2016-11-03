@@ -1,0 +1,12 @@
+The Insufficiency of Formal Design Methods -><title>
+for the understanding and control of complex MAS -><title>
+Joanna J. Bryson -><author>
+Department of Computer Science -><affiliation>
+University of Bath -><affiliation>
+Bath, BA2 7AY, UK -><address>
+http://www.cs.bath.ac.uk/~jjb -><web>
+Bruce Edmonds -><author>
+Centre for Policy Modelling -><affiliation>
+Manchester Metropolitan University -><affiliation>
+Aytoun Building, Manchester, M1 3GH, UK -><address>
+http://cfpm.org/~bruce -><web>

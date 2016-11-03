@@ -1,0 +1,10 @@
+Robot Exploration with Fast Frontier Detection: -><title>
+Theory and Experiments -><title>
+Matan Keidar -><author>
+MAVERICK Group, Department of Computer -><affiliation>
+Science, Bar-Ilan University -><affiliation>
+matankdr@gmail.com -><email>
+Gal A. Kaminka -><author>
+MAVERICK Group, Department of Computer -><affiliation>
+Science, Bar-Ilan University -><affiliation>
+galk@cs.biu.ac.il -><email>

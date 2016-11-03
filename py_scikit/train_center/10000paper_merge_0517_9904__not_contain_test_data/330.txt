@@ -1,0 +1,14 @@
+SenToy: a Tangible Interface to Control the Emotions of a -><title>
+Synthetic Character -><title>
+Ana Paiva, Ricardo Chaves, Moise´s -><author>
+Piedade -><author>
+IST-Technical University of Lisbon and INESC-ID -><affiliation>
+Rua Alves Redol, 9 -><address>
+1000-029 Lisboa, Portugal -><address>
+ana.paiva@inesc-id.pt -><email>
+Adrian Bullock, Gerd Andersson, -><author>
+Kristina Höök -><author>
+SICS (Swedish Institute of Computer Science) -><affiliation>
+Box 1263 SE-164 29 Kista, Sweden -><address>
+1000-029 Lisboa, Portugal -><address>
+adrian, gerd, kia@sics.se -><email>

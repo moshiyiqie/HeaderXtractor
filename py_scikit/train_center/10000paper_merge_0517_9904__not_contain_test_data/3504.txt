@@ -1,0 +1,12 @@
+Performance Measurement for a Wavelet Transform-based -><title>
+Video Compression -><title>
+Michael Weeks -><author>
+Department of Computer Science -><affiliation>
+Georgia State University -><affiliation>
+Atlanta, Georgia 30302 -><address>
+mweeks@ieee.org -><email>
+Abinashi Dhungel -><author>
+Department of Computer Science -><affiliation>
+Georgia State University -><affiliation>
+Atlanta, Georgia 30302 -><address>
+adhungel1@student.gsu.edu -><email>

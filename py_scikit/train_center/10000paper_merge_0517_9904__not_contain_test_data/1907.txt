@@ -1,0 +1,5 @@
+Mechanisms for Hostile Agents with Capacity Constraints -><title>
+Prashanth L A†, H L Prasad], Nirmit Desai$, and Shalabh Bhatnagar] -><title>
+†SequeL Team, INRIA Lille - Nord Europe, FRANCE, prashanth.la@inria.fr -><author>
+]Indian Institute of Science, INDIA, {hlprasu,shalabh}@csa.iisc.ernet.in -><affiliation>
+$IBM Research, INDIA, nirmit.desai@in.ibm.com -><email>

@@ -1,0 +1,8 @@
+Dynamic Information Retrieval Optimization Using Mobile -><title>
+Agents -><title>
+Subrata Das, Kurt Shuster, Curt Wu -><author>
+Charles River Analytics, Inc. -><affiliation>
+625 Mount Auburn St. -><address>
+Cambridge, MA 02138 -><address>
++1 617 491 3474 -><phone>
+{sdas, kshuster, cwu}@cra.com -><email>

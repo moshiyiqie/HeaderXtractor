@@ -1,0 +1,7 @@
+Multiple Application OpenGL (Mesa) Support -><title>
+on GLINT Boards -><title>
+Andreas Arens -><author>
+Advisors: Robert Geist and James Westall -><author>
+Department of -><affiliation>
+Clemson, South Carolina 29634-1906 -><address>
+{arens, rmg, westall}@cs.clemson.edu -><email>

@@ -1,0 +1,20 @@
+Democracy in Open Agent Systems -><title>
+Peter McBurney -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF UK -><address>
+p.j.mcburney@csc.liv.ac.uk -><email>
+Simon Parsons -><author>
+Department of Computer & Information Science -><affiliation>
+Brooklyn College, City University of New York -><affiliation>
+Brooklyn NY 11210 USA -><address>
+parsons@sci.brooklyn.cuny.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Distributed Artificial Intelligence]: Coherence and co- -><note>
+ordination, Languages and Structures, Multiagent systems. -><note>
+General Terms -><note>
+Languages, Theory -><note>
+Keywords -><keyword>
+Agent Communications Languages, Deliberative Democracy, Open -><keyword>
+Agent Systems, Political Philosophy, Philosophical Foundations, -><keyword>
+Rational Choice, Rationality, Social Semantics -><keyword>

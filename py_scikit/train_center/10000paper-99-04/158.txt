@@ -1,0 +1,19 @@
+Embodied Contextual Agent in Information Delivering -><title>
+Application -><title>
+Isabella Poggi -><author>
+Dipartimento di Educazione -><affiliation>
+University of Rome Three -><affiliation>
+poggi@uniroma3.it -><email>
+Valeria Carofiglio, -><author>
+Berardina De Carolis and -><author>
+Fiorella de Rosis -><author>
+Dipartimento di Informatica -><affiliation>
+University of Bari -><affiliation>
+Catherine Pelachaud -><unknow>
+Dipartimento di Informatica e -><title>
+Sistemistica -><author>
+University of Rome “La -><affiliation>
+Sapienza” -><address>
+cath@dis.uniroma1.it -><email>
+{caroﬁglio, decarolis, -><email>
+derosis}@di.uniba.it -><email>

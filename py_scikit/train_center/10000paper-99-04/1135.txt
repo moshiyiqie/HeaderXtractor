@@ -1,0 +1,7 @@
+The Agent Building and Learning Environment -><title>
+Joseph P. Bigus -><author>
+IBM T.J. Watson Research Center -><affiliation>
+30 Sawmill River Road, Route 9A -><affiliation>
+Hawthorne, New York -><address>
+(507) 253-4468 -><phone>
+bigus@ us.ibm.corn -><email>

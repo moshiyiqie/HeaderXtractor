@@ -1,0 +1,8 @@
+Decentralized Active Robotic Exploration and Mapping for -><title>
+Probabilistic Field Classification in Environmental Sensing -><title>
+Kian Hsiang Low†, Jie Chen†, John M. Dolan§, Steve Chien‡, and David R. Thompson‡ -><author>
+Department of Computer Science, National University of Singapore, Republic of Singapore† -><affiliation>
+Robotics Institute, Carnegie Mellon University, Pittsburgh PA 15213 USA§ -><affiliation>
+Jet Propulsion Laboratory, California Institute of Technology, Pasadena CA 91109 USA‡ -><address>
+{lowkh, chenjie}@comp.nus.edu.sg†, jmd@cs.cmu.edu§ -><email>
+{steve.chien, david.r.thompson}@jpl.nasa.gov‡ -><email>

@@ -1,0 +1,5 @@
+Bounded Decentralised Coordination over Multiple -><title>
+Objectives -><title>
+Francesco M. Delle Fave, Ruben Stranders, Alex Rogers & Nicholas R. Jennings -><author>
+University Of Southampton -><affiliation>
+{fmdf08r,rs2,acr,nrj}@ecs.soton.ac.uk -><email>

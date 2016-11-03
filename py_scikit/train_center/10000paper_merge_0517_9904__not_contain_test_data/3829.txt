@@ -1,0 +1,16 @@
+Visual OS: Design and Implementation of a Visual -><title>
+Framework for Learning Operating System Concepts -><title>
+James H. Hill -><author>
+Aniruddha S. Gokhale -><author>
+Institute for Software Integrated Computing -><affiliation>
+Institute for Software Integrated Computing -><affiliation>
+Vanderbilt University -><affiliation>
+Vanderbilt University -><affiliation>
+Box 1829 Station B -><address>
+Box 1829 Station B -><address>
+Nashville, TN 37235 -><address>
+Nashville, TN 37235 -><address>
+(615) 322-8489 -><phone>
+(615) 322-8754 -><phone>
+j.hill@vanderbilt.edu -><email>
+a.gokhale@vanderbilt.edu -><email>

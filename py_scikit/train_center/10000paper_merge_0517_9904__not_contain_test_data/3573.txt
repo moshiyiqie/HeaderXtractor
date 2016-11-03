@@ -1,0 +1,19 @@
+MMDiff - A Modeling Tool for Metamodel Comparison -><title>
+Marjan Mernik -><author>
+Faculty of Electrical Engineering and -><affiliation>
+Computer Science -><affiliation>
+University of Maribor -><affiliation>
+Maribor, Slovenia -><address>
+marjan.mernik@uni-mb.si -><email>
+Qichao Liu -><author>
+Department of Computer and -><affiliation>
+Information Sciences -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+Birmingham, Alabama, USA -><affiliation>
+qichao@cis.uab.edu -><email>
+Barrett R. Bryant -><author>
+Department of Computer -><affiliation>
+Science and Engineering -><affiliation>
+University of North Texas -><affiliation>
+Denton, Texas, USA -><address>
+barrett.bryant@unt.edu -><email>

@@ -1,0 +1,17 @@
+Model-based Development of Embedded Systems’ User -><title>
+Interfaces -><title>
+Stephan Arlt -><author>
+Albert-Ludwigs-Universität -><affiliation>
+Freiburg, Germany -><address>
+arlt@informatik.uni- -><email>
+freiburg.de -><email>
+Jelena Barth -><author>
+Albert-Ludwigs-Universität -><affiliation>
+Freiburg, Germany -><address>
+barth@informatik.uni- -><email>
+freiburg.de -><email>
+Bernd Westphal -><author>
+Albert-Ludwigs-Universität -><affiliation>
+Freiburg, Germany -><address>
+westphal@informatik.uni- -><email>
+freiburg.de -><email>

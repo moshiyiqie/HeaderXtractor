@@ -1,0 +1,27 @@
+Multiagent Argumentation for Cooperative Planning in -><title>
+DeLP-POP -><title>
+Pere Pardo -><author>
+IIIA - CSIC -><affiliation>
+Campus UAB, s/n -><address>
+08193 Bellaterra, Spain -><address>
+pardo@iiia.csic.es -><email>
+Sergio Pajares -><author>
+Univ. Politècnica de València -><affiliation>
+Camino de Vera, s/n -><affiliation>
+46022 Valencia, Spain -><address>
+spajares@upv.dsic.es -><email>
+Eva Onaindia -><author>
+Univ. Politècnica de València -><affiliation>
+Camino de Vera, s/n -><affiliation>
+46022 Valencia, Spain -><address>
+onaindia@upv.dsic.es -><email>
+Lluís Godo -><author>
+IIIA - CSIC -><affiliation>
+Campus UAB, s/n -><address>
+08193 Bellaterra, Spain -><address>
+godo@iiia.csic.es -><email>
+Pilar Dellunde -><author>
+IIIA - CSIC and Univ. -><affiliation>
+Autònoma de Barcelona -><affiliation>
+08193 Bellaterra, Spain -><address>
+pilar@iiia.csic.es -><email>

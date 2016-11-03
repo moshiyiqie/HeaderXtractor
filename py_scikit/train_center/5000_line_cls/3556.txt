@@ -1,0 +1,13 @@
+in Complex Buildings -><title>
+Markku Turunen1, Hannu Kuoppala2, Sanna Kangas1, Juho Hella1, Toni Miettinen1, -><keyword>
+Tomi Heimonen1, Tuuli Keskinen1, Jaakko Hakulinen1, Roope Raisamo1 -><keyword>
+2 -><pubnum>
+1 -><pubnum>
+Kone Oyj -><author>
+University of Tampere -><affiliation>
+Eliel Saarisen tie 2 -><date>
+Kanslerinrinne 1 -><date>
+FI-00400 Helsinki -><pubnum>
+FI-33014 University of Tampere -><affiliation>
+firstname.surname@kone.com -><email>
+firstname.surname@sis.uta.fi -><email>

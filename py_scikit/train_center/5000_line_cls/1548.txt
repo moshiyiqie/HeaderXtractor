@@ -1,0 +1,22 @@
+Spectrum Management of Cognitive Radio Using -><title>
+Multi-agent Reinforcement Learning -><title>
+Cheng Wu -><author>
+Northeastern University -><affiliation>
+360 Huntington Avenue -><address>
+Boston, MA, U.S.A. -><address>
+cwu@ece.neu.edu -><email>
+Kaushik Chowdhury -><author>
+Northeastern University -><affiliation>
+360 Huntington Avenue -><address>
+Boston, MA, U.S.A. -><address>
+krc@ece.neu.edu -><email>
+Marco Di Felice -><author>
+University of Bologna -><affiliation>
+Via M. Anteo Zamboni, 7 -><address>
+Bologna, Italy -><address>
+difelice@cs.unibo.it -><email>
+Waleed Meleis -><author>
+Northeastern University -><affiliation>
+360 Huntington Avenue -><address>
+Boston, MA, U.S.A. -><address>
+meleis@ece.neu.edu -><email>

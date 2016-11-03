@@ -1,0 +1,18 @@
+An Agent Enabling Personalized Learning -><title>
+in e-Learning Environments -><title>
+Spyridon Revithis -><author>
+Su-Shing Chen -><author>
+University of Missouri-Columbia -><affiliation>
+CECS Department, 201 EBW -><affiliation>
+Columbia, MO 65211, USA -><address>
+Hongchi Shi -><author>
+University of Missouri-Columbia -><affiliation>
+CECS Department, 201 EBW -><affiliation>
+Columbia, MO 65211, USA -><address>
++1 (573) 882-3088 -><phone>
+shi@cecs.missouri.edu -><email>
+University of Florida -><affiliation>
+CISE Department -><affiliation>
+Gainesville, FL 36211, USA -><address>
+suchen@cise.ufl.edu -><email>
+sr347@mizzou.edu -><email>

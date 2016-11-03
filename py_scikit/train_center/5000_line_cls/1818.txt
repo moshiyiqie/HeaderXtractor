@@ -1,0 +1,7 @@
+CTL.STIT: enhancing ATL to express important multi-agent -><title>
+system veriﬁcation properties -><title>
+Jan Broersen -><author>
+Department of Information and Computing Sciences -><affiliation>
+Utrecht University -><affiliation>
+The Netherlands -><address>
+broersen@cs.uu.nl -><email>

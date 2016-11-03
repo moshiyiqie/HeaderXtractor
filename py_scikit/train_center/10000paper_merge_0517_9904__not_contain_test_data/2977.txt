@@ -1,0 +1,20 @@
+rhythmism: -><title>
+A VJ Performance System with Maracas based Devices -><title>
+Yukinari Iwata -><author>
+imgl / KMD Keio Media Design -><affiliation>
+S110, delta, 5322, Endo, Fujisawa, -><address>
+Kanagawa, Japan -><address>
++81-466-49-3545 -><phone>
+yukinary@sfc.keio.ac.jp -><email>
+Masa Inakage -><author>
+imgl / KMD Keio Media Design -><affiliation>
+S110, delta, 5322, Endo, Fujisawa, -><address>
+Kanagawa, Japan -><address>
++81-466-49-3545 -><phone>
+inakage@sfc.keio.ac.jp -><email>
+Satoru Tokuhisa -><degree>
+imgl / KMD Keio Media Design -><affiliation>
+S110, delta, 5322, Endo, Fujisawa, -><address>
+Kanagawa, Japan -><address>
++81-466-49-3545 -><phone>
+dangkang@sfc.keio.ac.jp -><email>

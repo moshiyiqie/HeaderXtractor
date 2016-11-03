@@ -1,0 +1,14 @@
+Lightweight Integration of the Ergo Theorem Prover inside -><title>
+a Proof Assistant ∗ -><title>
+Johannes Kanig Stéphane Lescuyer -><author>
+INRIA Futurs, ProVal -><affiliation>
+Orsay, F-91893 -><address>
+LRI, Univ Paris-Sud, CNRS -><address>
+Orsay F-91405 -><address>
+{kanig,lescuyer}@lri.fr -><email>
+Sylvain Conchon Evelyne Contejean -><author>
+LRI, Univ Paris-Sud, CNRS -><affiliation>
+Orsay F-91405 -><address>
+INRIA Futurs, ProVal -><address>
+Orsay, F-91893 -><address>
+{conchon,contejea}@lri.fr -><email>

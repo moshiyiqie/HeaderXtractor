@@ -1,0 +1,20 @@
+Applying Role Based Access Control and Genetic -><title>
+Algorithms to Insider Threat Detection -><title>
+Jun Liu -><author>
+Dept. of Computer Science -><affiliation>
+The University of Alabama -><affiliation>
+Tuscaloosa, Alabama -><affiliation>
+35487-0290 -><phone>
+jliu@cs.ua.edu -><email>
+Phillip G. Bradford -><author>
+Dept. of Computer Science -><affiliation>
+The University of Alabama -><affiliation>
+Tuscaloosa, Alabama -><affiliation>
+35487-0290 -><phone>
+pgb@cs.ua.edu -><email>
+Ning Hu -><author>
+Dept. of Computer Science -><affiliation>
+The University of Alabama -><affiliation>
+Tuscaloosa, Alabama -><affiliation>
+35487-0290 -><phone>
+nhu@cs.ua.edu -><email>

@@ -1,0 +1,15 @@
+Modeling Dialogues in Multi-Agent Systems -><title>
+Nikos Karacapilidis -><author>
+Industrial Management Lab, MEAD -><affiliation>
+University of Patras -><affiliation>
+26504 Rio Patras, Greece -><address>
+nikos@mech.upatras.gr -><email>
+Dept. of Computer Science -><affiliation>
+University of Cyprus -><affiliation>
+75 Kallipoleos str., Nicosia, Cyprus -><address>
+moraitis@ucy.ac.cy -><email>
+Categories & Subject Descriptors: H.1.2 [Models and -><keyword>
+Principles] User/Machine Systems --- software agents; H.3.5 -><keyword>
+[Information Storage and Retrieval] Online Information Services --- -><keyword>
+Web-based services. -><keyword>
+General Terms: Algorithms, Design, Standardization, Theory. -><keyword>

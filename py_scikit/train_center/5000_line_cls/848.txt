@@ -1,0 +1,11 @@
+Learning Cooperation through Bidding -><title>
+Dehu Qi -><author>
+Department of Computer Science -><affiliation>
+Lamar University -><affiliation>
+Beaumont, TX 77710, USA -><address>
+dqi@cs.lamar.edu -><email>
+Ron Sun -><author>
+Cognitive Science Department -><affiliation>
+Rensselaer Polytechnic Institute -><affiliation>
+Troy, NY 12180, USA -><address>
+rsun@rpi.edu -><email>

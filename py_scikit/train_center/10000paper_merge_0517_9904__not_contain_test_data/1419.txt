@@ -1,0 +1,9 @@
+Rational Market Making with Probabilistic Knowledge -><title>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+sandholm@cs.cmu.edu -><email>
+Abraham Othman -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+aothman@cs.cmu.edu -><email>

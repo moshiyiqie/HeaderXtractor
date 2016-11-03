@@ -1,0 +1,6 @@
+A Multi-Agent System Architecture for Active Networks -><title>
+M. Mostagir and K. Decker -><author>
+Computer and information sciences -><affiliation>
+University of Delaware -><affiliation>
+Newark, DE 19716 -><address>
+{mostagir,decker}@cis.udel.edu -><email>

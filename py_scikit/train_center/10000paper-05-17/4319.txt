@@ -1,0 +1,4 @@
+A Server- and Browser-Transparent CSRF Defense -><title>
+for Web 2.0 Applications∗ -><title>
+Riccardo Pelizzi and R. Sekar -><author>
+Stony Brook University -><affiliation>

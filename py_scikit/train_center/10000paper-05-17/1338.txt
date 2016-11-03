@@ -1,0 +1,11 @@
+Learning from Demonstration with Swarm Hierarchies -><title>
+Sean Luke -><author>
+Department of Computer Science -><affiliation>
+George Mason University -><affiliation>
+Fairfax, VA 22030 -><address>
+sean@cs.gmu.edu -><email>
+Keith Sullivan -><author>
+Department of Computer Science -><affiliation>
+George Mason University -><affiliation>
+Fairfax, VA 22030 -><address>
+ksulliv2@cs.gmu.edu -><email>

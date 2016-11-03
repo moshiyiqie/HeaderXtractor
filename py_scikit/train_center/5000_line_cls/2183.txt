@@ -1,0 +1,16 @@
+A Cultural Sensitive Agent for Human-Computer -><title>
+Negotiation -><title>
+∗ -><title>
+Galit Haim -><author>
+Bar Ilan University, Israel -><affiliation>
+haimga@cs.biu.ac.il -><email>
+Sarit Kraus -><author>
+Bar Ilan University, Israel -><affiliation>
+sarit@cs.biu.ac.il -><email>
+Ya’akov (Kobi) Gal -><author>
+Ben-Gurion University of the -><affiliation>
+Negev, Israel -><address>
+kobig@bgu.ac.il -><email>
+Michele Gelfand -><author>
+University of Maryland, USA -><affiliation>
+mgelfand@umd.edu -><email>

@@ -1,0 +1,13 @@
+Miscomputing Ratio: Social Cost of Selfish Computing -><title>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave -><address>
+Pittsburgh, PA 15213, USA -><address>
+sandholm@cs.cmu.edu -><email>
+Kate Larson -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave -><address>
+Pittsburgh, PA 15213, USA -><address>
+klarson@cs.cmu.edu -><email>

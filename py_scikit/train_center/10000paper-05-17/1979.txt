@@ -1,0 +1,7 @@
+Challenges for Multi-Agent Coordination Theory -><title>
+Based on Empirical Observations -><title>
+Victor Lesser and Daniel Corkill -><author>
+School of Computer Science -><affiliation>
+University of Massachusetts Amherst -><affiliation>
+Amherst, Massachusetts 01003 -><address>
+{lesser,corkill}@cs.umass.edu -><email>

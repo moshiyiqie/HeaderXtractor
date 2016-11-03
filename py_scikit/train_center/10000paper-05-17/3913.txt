@@ -1,0 +1,22 @@
+WARD: An Exploratory Study of an Affective -><title>
+Sociotechnical Framework for Addressing Medical Errors -><title>
+Woodrow W. Winchester, III -><author>
+Grado Department of Industrial and -><affiliation>
+Systems Engineering, Virginia Tech -><affiliation>
+Durham Hall 250 -><address>
+Blacksburg, VA 24060, USA -><address>
+(540)231-5936 -><phone>
+wwwinche@vt.edu -><email>
+William Lee -><author>
+Grado Department of Industrial and -><affiliation>
+Systems Engineering, Virginia Tech -><affiliation>
+Durham Hall 250 -><address>
+Blacksburg, VA 24060, USA -><address>
+Tonya L. Smith-Jackson -><author>
+Grado Department of Industrial and -><affiliation>
+Systems Engineering, Virginia Tech -><affiliation>
+Durham Hall 250 -><address>
+Blacksburg, VA 24060, USA -><address>
+(540)231-4119 -><phone>
+smithjack@vt.edu -><email>
+wilee@vt.edu -><email>

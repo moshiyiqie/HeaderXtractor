@@ -1,0 +1,13 @@
+Supporting Software Agents on Small Devices -><title>
+Sasu Tarkoma -><author>
+Mikko Laukkanen -><author>
+University of Helsinki -><affiliation>
+Sonera Corporation -><affiliation>
+P.O.Box 970 (Teollisuuskatu 13) -><address>
+FIN-00051 SONERA -><address>
++358-40-5073358 -><phone>
+mikko.t.laukkanen@sonera.com -><email>
+P.O.Box 26 (Teollisuuskatu 23) -><intro>
+FIN-00014 University of Helsinki -><affiliation>
++358-9-70844263 -><pubnum>
+sasu.tarkoma@cs.helsinki.fi -><email>

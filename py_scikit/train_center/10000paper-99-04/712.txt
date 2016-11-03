@@ -1,0 +1,7 @@
+Identifying Human Interactions in Indoor Environments -><title>
+Anand Panangadan Maja Mataric´ Gaurav Sukhatme -><author>
+Computer Science Department -><affiliation>
+University of Southern California -><affiliation>
+942 West 37th Place -><address>
+Los Angeles, CA 90089 -><address>
+{anandvp,maja,gaurav}@robotics.usc.edu -><email>

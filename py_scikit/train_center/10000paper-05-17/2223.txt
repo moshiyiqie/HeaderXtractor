@@ -1,0 +1,15 @@
+Algorithms for the Shapley and Myerson Values -><title>
+in Graph-restricted Games -><title>
+Oskar Skibski -><author>
+University of Warsaw -><affiliation>
+oskar.skibski@mimuw.edu.pl -><email>
+Tomasz P. Michalak -><author>
+University of Oxford -><affiliation>
+University of Warsaw -><affiliation>
+tomasz.michalak@cs.ox.co.uk -><email>
+Talal Rahwan -><author>
+Masdar Institute -><affiliation>
+trahwan@gmail.com -><email>
+Michael Wooldridge -><author>
+University of Oxford -><affiliation>
+michael.wooldridge@cs.ox.co.uk -><email>

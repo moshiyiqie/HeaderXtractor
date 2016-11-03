@@ -1,0 +1,23 @@
+Protocols and Intentional Specifications of Multi-Party -><title>
+Agent Conversations for Brokerage and Auctions -><title>
+Jeremy Pitt -><author>
+Dept. of Electrical & Electronic -><affiliation>
+Engineering -><affiliation>
+Imperial College of Science, -><affiliation>
+Technology & Medicine -><affiliation>
+London, SW7 2BT, UK -><address>
+j.pitt@ic.ac.uk -><email>
+Frank Guerin -><author>
+Dept. of Electrical & Electronic -><affiliation>
+Engineering -><affiliation>
+Imperial College of Science, -><affiliation>
+Technology & Medicine -><affiliation>
+London, SW7 2BT, UK -><address>
+f.guerin @ ic.ac.uk -><email>
+Chris Stergiou -><author>
+Dept. of Electrical & Electronic -><affiliation>
+Engineering -><affiliation>
+Imperial College of Science, -><affiliation>
+Technology & Medicine -><affiliation>
+London, SW7 2BT, UK -><address>
+c.stergiou @ ic.ac.uk -><email>

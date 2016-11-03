@@ -1,0 +1,9 @@
+May -><title>
+Cyclone Uppercut, A Boxing Game For An Immersive -><title>
+Environment -><title>
+Ronald Sidharta, Carolina Cruz-Neira -><author>
+Virtual Reality Application Center -><affiliation>
+Iowa State University -><affiliation>
+Ames, IA 50011 -><address>
++1 515.294.3092 -><phone>
+{ronalds, carolina}@iastate.edu -><email>

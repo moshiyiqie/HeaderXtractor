@@ -1,0 +1,5 @@
+Two-Timescale Algorithms for Learning Nash Equilibria in -><title>
+General-Sum Stochastic Games -><author>
+H.L. Prasad†, Prashanth L.A.] and Shalabh Bhatnagar] -><affiliation>
+†Streamoid Technologies, Inc, INDIA, prasad@streamoid.com -><email>
+]Indian Institute of Science, INDIA, {prashanth,shalabh}@csa.iisc.ernet.in -><affiliation>

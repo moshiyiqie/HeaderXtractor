@@ -1,0 +1,19 @@
+John P. Sullivan -><title>
+Game-theoretic Patrol Strategies for Transit Systems: -><title>
+The TRUSTS System and its Mobile App -><title>
+(Demonstration) -><title>
+Zhengyu Yin, -><author>
+Francesco Delle Fave, -><author>
+Albert Xin Jiang, Milind Tambe -><author>
+University Of Southern California -><affiliation>
+Los Angeles, CA, USA -><address>
+{zhengyuy,dellefav,jiangx,tambe}@usc.edu -><email>
+Samantha Luber -><author>
+Microsoft, WA, USA -><affiliation>
+samil@microsoft.com -><email>
+Los Angeles, CA, USA -><affiliation>
+jpsulliv@lasd.org -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence -><note>
+Keywords: Agent-based software systems, Game theory for -><keyword>
+security, Real-world deployment -><keyword>

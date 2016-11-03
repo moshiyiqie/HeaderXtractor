@@ -1,0 +1,5 @@
+Learning User Preferences for Wireless Services Provisioning -><title>
+G. Lee, S. Bauer, P. Faratin, J. Wroclawski -><author>
+M.I.T -><email>
+Computer Science and Artificial Intelligence Laboratory -><affiliation>
+gjl@mit.edu, bauer@mit.edu, peyman@mit.edu, jtw@mit.edu -><email>

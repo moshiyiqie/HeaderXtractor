@@ -1,0 +1,11 @@
+Robustness of Reputation-based Trust: Boolean Case -><title>
+Sandip Sen -><author>
+Math & CS Department -><affiliation>
+University of Tulsa -><affiliation>
+Tulsa, OK, USA -><address>
+sandip@kolkata.mcs.utulsa.edu -><email>
+Neelima Sajja -><author>
+Math & CS Department -><affiliation>
+University of Tulsa -><affiliation>
+Tulsa, OK, USA -><address>
+sajjane@ens.utulsa.edu -><email>

@@ -1,0 +1,8 @@
+Convergence of Iterative Voting -><title>
+Omer Lev -><author>
+omerl@cs.huji.ac.il -><email>
+Jeffrey S. Rosenschein -><author>
+jeff@cs.huji.ac.il -><email>
+School of Computer Science and Engineering -><affiliation>
+The Hebrew University of Jerusalem -><affiliation>
+Jerusalem 91904, Israel -><address>

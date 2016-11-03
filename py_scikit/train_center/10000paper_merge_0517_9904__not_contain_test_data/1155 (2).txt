@@ -1,0 +1,8 @@
+Designing a Humanoid Head for RoboCup Challenge -><title>
+Hiroaki Kitano, Hiroshi G. Okuno, Kazuhiro Nakadai, -><author>
+Iris Fermin, Theo Sabisch, Yukiko Nakagawa, Tatsuya Matsui -><author>
+Kitano Symbiotic Systems Project -><affiliation>
+ERATO, Japan Science and Technology Corporation -><affiliation>
+Suite 6A, M31 6-31-15, Jinguumae, Shibuya -><address>
+Tokyo 150-0001 Japan -><address>
+kitano@symbio.jst.go.jp, http://www.symbio.jst.go.jp -><email>

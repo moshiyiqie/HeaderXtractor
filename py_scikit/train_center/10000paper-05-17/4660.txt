@@ -1,0 +1,8 @@
+Agent-Based Analysis of Asset Pricing under Ambiguous Information -><title>
+Ben-Alexander Cassell and Michael P. Wellman -><author>
+Computer Science & Engineering -><affiliation>
+University of Michigan -><affiliation>
+Ann Arbor, MI 48109-2121 USA -><address>
+{bcassell,wellman}@umich.edu -><email>
+Keywords: agent-based finance, empirical game theory, eq- -><keyword>
+uity premium -><keyword>

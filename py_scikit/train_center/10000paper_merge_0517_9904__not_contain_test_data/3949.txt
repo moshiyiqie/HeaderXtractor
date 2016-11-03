@@ -1,0 +1,12 @@
+Application Performance Prediction in Autonomic -><title>
+Systems -><title>
+Shobhana Kirtane -><author>
+Clemson University -><affiliation>
+Jim Martin -><author>
+Clemson University -><affiliation>
+100 McAdams Hall -><address>
+100 McAdams Hall -><address>
+Clemson, S.C. 29634-0974 -><address>
+Clemson, S.C. 29634-0974 -><address>
+skirtan@cs.clemson.edu -><email>
+jim.martin@cs.clemson.edu -><email>

@@ -1,0 +1,4 @@
+Embodied 3D Story Space -><note>
+Junichi Hoshino1,2 Hiroshi Mori1 Atsushi Nakano1 Jun Takazawa1 -><note>
+1University of Tsukuba 2 PRESTO, JST -><affiliation>
+Figure 1: Example of the interactive 3D movie system -><note>

@@ -1,0 +1,11 @@
+Toward an Understanding of the Impact of Software -><title>
+Personal Assistants on Human Organizations -><title>
+Steven Okamoto -><author>
+Carnegie Mellon University -><affiliation>
+sokamoto@cs.cmu.edu -><email>
+Paul Scerri -><author>
+Carnegie Mellon University -><affiliation>
+pscerri@cs.cmu.edu -><email>
+Katia Sycara -><author>
+Carnegie Mellon University -><affiliation>
+katia@cs.cmu.edu -><email>

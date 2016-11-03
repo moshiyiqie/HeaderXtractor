@@ -1,0 +1,33 @@
+IRIGNET - Intelligent Communication Network -><title>
+For Power-scarce Rural India -><author>
+ShijuSathyadevan, HariKallingalthodi, Hari N N -><affiliation>
+Amrita Cybersecurity Centre, Amrita Vishwa Vidyapeetham,Amritapuri Campus -><address>
+Clappana P.O, Kollam, Kerala 690525 -><address>
+shiju.s@am.amrita.edu -><email>
+hari.kt@am.amrita.edu -><email>
+hari@arl.amrita.edu -><email>
+length and breadth of the country and foremost to account for the -><abstract>
+turmoil through which the farming community in India is going -><abstract>
+through under the current circumstances, it does deserve to be treated -><abstract>
+with higher reverence and priority. Although agriculture has made -><abstract>
+accounting for nearly 20% of the GDP and the livelihood for 58% of -><abstract>
+the population, the farmers who are the mainstay of this industry face -><abstract>
+a lot of problems in raising crops and sustaining production. This -><abstract>
+paper proposes a system that will automate the irrigation system, -><abstract>
+especially in rural India, to compensate for the flimsy, inconsistent -><abstract>
+and unreliable power supply system. Suggested design uses a Central -><abstract>
+regional scheduler server hosting an intelligent software working -><abstract>
+alongside with remote microcontroller based sensors to get up to date -><abstract>
+environmental parameters so as to assist it to work out the best array -><abstract>
+of water pumps to be turned on at a given instance. Sensor devices -><abstract>
+are kept at the vicinity of where the water pumps are so that -><abstract>
+influential decision making parameters can be sensed and fed to the -><abstract>
+intelligent software stationed at the central server. It uses mobile -><abstract>
+technology to handshake between the central server and the sensor -><abstract>
+controllers. Various derivatives of the same are discussed which need -><abstract>
+to be weighed in terms of their practicality, ease of deployment and -><abstract>
+of course the cost factor. It also helps the nation to preserve both -><abstract>
+water and electricity by enforcing controlled but adequate usage of -><abstract>
+the same. -><abstract>
+Automated Irrigation System; Automated Irrigation Water -><unknow>
+pumps; Remote Sensors for Irrigation control -><title>

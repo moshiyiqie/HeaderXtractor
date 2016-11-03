@@ -1,0 +1,12 @@
+A Graphical Environment for Ontology Development -><title>
+Elisa Kendall -><author>
+Sandpiper Software, Inc. -><affiliation>
+2053 Grant Road, #162 -><address>
+Los Altos, CA 94024, USA -><address>
++1 650 960 2456 -><phone>
+ekendall@sandsoft.com -><email>
+Luigi Ceccaroni -><author>
+Fujitsu Laboratories of America -><affiliation>
+595 Lawrence Expressway -><address>
+Sunnyvale, CA 94085, USA -><address>
+luigi.ceccaroni@lycos.com -><email>

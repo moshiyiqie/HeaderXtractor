@@ -1,0 +1,34 @@
+Allocating Roles in Extreme Teams -><title>
+Paul Scerri∗, Alessandro Farinelli+, Stephen Okamoto# and Milind Tambe# -><author>
+∗ Carnegie Mellon University -><affiliation>
++ University of Rome -><affiliation>
+# University of Southern California -><affiliation>
+pscerri@cs.cmu.edu, Alessandro.Farinelli@dis.uniroma1.it, sokamoto@usc.edu, tambe@usc.edu -><email>
+New domains are emerging that impose new require- -><abstract>
+ments for teamwork, where current teamwork infras- -><abstract>
+tructure is inadequate. One such large class of applica- -><abstract>
+tion require extreme teams, which are large teams that -><abstract>
+need (soft) real-time response given dynamic tasks, -><abstract>
+and where many resource limited agents have similar -><abstract>
+functionality, but possibly varied capability. For in- -><abstract>
+stance, when responding to a disaster, ﬁre ﬁghters and -><abstract>
+paramedics comprise an extreme team as they must re- -><abstract>
+spond rapidly to dynamic tasks; and ﬁre ﬁghters can -><abstract>
+all extinguish ﬁres although their capability to extin- -><abstract>
+guish a particular ﬁre quickly will depend on their ini- -><abstract>
+tial distance from that ﬁre. -><abstract>
+This paper focuses on the critical challenge of role al- -><abstract>
+location in extreme teams. In general, role allocation is -><abstract>
+problem of assigning roles to agents so as to maximize -><abstract>
+overall team utility[5]. Extreme teams emphasize key -><abstract>
+additional requirements in role allocation: (i) rapid role -><abstract>
+allocation as domain dynamics may cause tasks to dis- -><abstract>
+appear; (ii) agents may perform one or more roles, but -><abstract>
+within resource limits; (iii) many agents can fulﬁll the -><abstract>
+same role; (iv) inter-role constraints may be present. -><abstract>
+This role allocation challenge in extreme teams will be -><abstract>
+referred to as E-GAP, as it subsumes the generalized -><abstract>
+assignment problem (GAP), which is NP-complete[4]. -><abstract>
+This paper focuses on Distributed Constraint Opti- -><abstract>
+mization (DCOP)[2] for role allocation, as DCOP oﬀers -><abstract>
+the key advantages of distributedness and a rich repre- -><abstract>

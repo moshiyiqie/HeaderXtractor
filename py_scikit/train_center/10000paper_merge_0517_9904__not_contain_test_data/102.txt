@@ -1,0 +1,20 @@
+Agent Behavior Architectures -><title>
+A MAS Framework Comparison -><title>
+Steven P. Fonseca -><author>
+UC Santa Cruz / HP Labs -><affiliation>
+Baskin Engineering Building -><address>
+Santa Cruz, CA 95064 -><address>
+1-650-236-2949 -><phone>
+fonseca@cse.ucsc.edu -><email>
+Reed Letsinger -><author>
+Hewlett-Packard Labs -><affiliation>
+1501 Page Mill Road, 1U-16 -><address>
+Palo Alto, CA 94304 -><address>
+1-650-857-5974 -><phone>
+reed_letsinger@hp.com -><email>
+Martin L. Griss -><author>
+Hewlett-Packard Labs -><affiliation>
+1501 Page Mill Road, 1U-14 -><address>
+Palo Alto, CA 94304 -><address>
+1-650-857-8715 -><phone>
+martin_griss@hp.com -><email>

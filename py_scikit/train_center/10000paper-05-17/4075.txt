@@ -1,0 +1,12 @@
+Modeling Malcode with Hephaestus: Beyond Simple -><title>
+Spread -><title>
+Richard Ford -><author>
+Florida Institution of Technology -><affiliation>
+Center for Security Sciences -><affiliation>
+150 W. University Blvd., Melbourne, FL-32901 -><affiliation>
+rford@fit.edu -><email>
+Attila Ondi -><author>
+Florida Institute of Technology -><affiliation>
+Center for Security Sciences -><affiliation>
+150 W. University Blvd., Melbourne, FL-32901 -><affiliation>
+aondi@fit.edu -><email>

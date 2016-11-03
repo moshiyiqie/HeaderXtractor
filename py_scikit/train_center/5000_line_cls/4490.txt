@@ -1,0 +1,15 @@
+Interactive Content Delivery System for a Museum -><title>
+Kyle D. Johnson -><author>
+J.C. -><author>
+Tandy School of Computer Science -><affiliation>
+University of Tulsa -><affiliation>
+800 S. Tucker Drive -><address>
+Tulsa, OK -><address>
+(918) 631-2228 -><phone>
+diaz@utulsa.edu -><email>
+Tandy School of Computer Science -><affiliation>
+University of Tulsa -><affiliation>
+800 S. Tucker Drive -><address>
+Tulsa, OK -><address>
+(918) 631-2228 -><phone>
+kyle-johnson@utulsa.edu -><email>

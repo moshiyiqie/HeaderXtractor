@@ -1,0 +1,6 @@
+Automated Categorisation of Patent Claims that Reference -><title>
+Human Genome Sequences -><title>
+Donglu Wang1, Gabriela Ferraro1, Hanna Suominen1,2, and Osmat A Jefferson3 -><author>
+1The Australian National University, NICTA, firstname.lastname@nicta.com.au -><affiliation>
+2University of Canberra, University of Turku -><affiliation>
+3Queensland University of Technology, Cambia, osmat@cambia.org -><affiliation>

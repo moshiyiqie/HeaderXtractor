@@ -1,0 +1,7 @@
+Programmable Self-Assembly Using Biologically-Inspired -><title>
+Multiagent Control -><title>
+Radhika Nagpal -><author>
+Artificial Intelligence Laboratory -><affiliation>
+Massachusetts Institute of Technology -><affiliation>
+Boston, MA 02139, USA -><address>
+radhi@ai.mit.edu -><email>

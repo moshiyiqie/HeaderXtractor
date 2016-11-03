@@ -1,0 +1,4 @@
+C++/CLI: Evolving C++ within the .NET Platform -><title>
+Stanley Lippman, Architect -><author>
+Visual C++, Microsoft -><affiliation>
+slippman@microsoft.com -><email>

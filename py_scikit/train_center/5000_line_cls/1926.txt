@@ -1,0 +1,10 @@
+Computing stable outcomes in hedonic games with -><title>
+voting-based deviations -><title>
+Martin Gairing -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+m.gairing@liverpool.ac.uk -><email>
+Rahul Savani -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+rahul.savani@liverpool.ac.uk -><email>

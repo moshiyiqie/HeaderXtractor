@@ -1,0 +1,7 @@
+Reward Maximization in a Non-Stationary -><title>
+Mobile Robot Environment -><title>
+Dani Goldberg and Maja J Matari6 -><author>
+Robotics Research Laboratories -><author>
+University of Southern California -><affiliation>
+Los Angeles, California 90089-0781 -><address>
+{dani, mataric}@usc.edu -><email>

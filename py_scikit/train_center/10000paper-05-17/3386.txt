@@ -1,0 +1,6 @@
+Automatic SysML-based Safety Analysis -><title>
+Philipp Helle -><author>
+EADS Innovation Works -><affiliation>
+Nesspriel 1 -><address>
+21129 Hamburg, Germany -><address>
+philipp.helle@eads.net -><email>

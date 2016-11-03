@@ -1,0 +1,5 @@
+Power Walk: Revisiting the Random Surfer -><title>
+Laurence A. F. Park and Simeon Simoff -><author>
+School of Computing, Engineering and Mathematics -><affiliation>
+University of Western Sydney, Australia -><affiliation>
+{l.park,s.simoff}@uws.edu.au -><email>

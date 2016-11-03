@@ -1,0 +1,12 @@
+Interpretation of Emotional Body Language Displayed -><title>
+by Robots -><author>
+1Adaptive Systems Research Group -><note>
+2Aldebaran Robotics -><note>
+168bis-170 rue Raymond Losserand -><date>
+Paris 75014 -><date>
++33(0)177371764 -><date>
+amazel@aldebaran-robotics.com -><email>
+School of Computer Science & STRI -><affiliation>
+University of Hertfordshire, UK -><affiliation>
++44 (0)1707 286327 -><address>
+{a.beck2,a.hiolle,l.canamero}@herts.ac.uk -><email>

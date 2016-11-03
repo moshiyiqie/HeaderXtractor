@@ -1,0 +1,15 @@
+Why a cognitive trustier performs better: Simulating trust- -><title>
+based Contract Nets1 -><title>
+Rino Falcone -><author>
+Giovanni Pezzulo -><author>
+Cristiano Castelfranchi -><author>
+Gianguglielmo Calvi -><author>
+ISTC-CNR Rome, Italy -><affiliation>
+ISTC-CNR Rome, Italy -><address>
+ISTC-CNR Rome, Italy -><address>
+ISTC-CNR Rome, Italy -><address>
+r.falcone@istc.cnr.it -><email>
+pezzulo@ip.rm.cnr.it -><email>
+castel@ip.rm.cnr.it -><email>
+calvi@noze.it -><email>
+1 This paper has been partially funded by the TICCA Project: joint research venture between the Italian National Research Council CNR- -><note>

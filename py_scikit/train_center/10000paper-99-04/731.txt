@@ -1,0 +1,14 @@
+Pigeon : a Specification Language for Mobile Agent Applications -><title>
+Akihiko Ohsuga -><author>
+R&D Center, Toshiba Corporation -><affiliation>
+1, Komukai Toshiba-cho, Saiwai-ku, -><address>
+Kawasaki, 212-8582, Japan -><address>
+akihiko.ohsuga@toshiba.co.jp -><email>
+Yasuyuki Tahara -><author>
+National Institute of Informatics -><affiliation>
+2-1-2 Hitotsubashi, Chiyoda-ku, -><address>
+Tokyo, 101-8430, Japan -><address>
+tahara@nii.ac.jp -><email>
+Shinichi Honiden -><author>
+National Institute of Informatics / The University of Tokyo -><affiliation>
+honiden@nii.ac.jp -><email>

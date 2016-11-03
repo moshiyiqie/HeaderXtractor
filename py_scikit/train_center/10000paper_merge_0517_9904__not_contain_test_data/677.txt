@@ -1,0 +1,6 @@
+Verifying and Explaining Agent Behavior in an Implemented Agent System -><title>
+Dung N. Lam and K. Suzanne Barber -><author>
+The Laboratory for Intelligent Processes and Systems -><affiliation>
+Electrical and Computer Engineering, The University of Texas at Austin -><affiliation>
+Austin, TX 78712 -><address>
+{dnlam,barber}@lips.utexas.edu -><email>

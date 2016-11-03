@@ -1,0 +1,7 @@
+LARS › A Locally Aware Reputation System for Mobile Ad -><title>
+Hoc Networks -><title>
+Jiangyi Hu and Mike Burmester∗ -><author>
+Computer Science Department -><affiliation>
+Florida State University -><affiliation>
+Tallahassee, Florida 32306-4530 -><address>
+{jiangyhu, burmester}@cs.fsu.edu -><email>

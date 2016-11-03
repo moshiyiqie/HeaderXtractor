@@ -1,0 +1,15 @@
+Using -><title>
+Multi-Agent -><title>
+Paul -><author>
+Christian -><author>
+Alexis -><author>
+IRD -><affiliation>
+LIP6 -><address>
+Mexico -><address>
+Marie -><author>
+32, -><note>
+christian.lemaitre@gmail.com -><email>
+F-93143 -><pubnum>
+F-75252 -><pubnum>
+alexis.drogoul@bondy.ird.fr -><email>
+paul.guyot@lip6.fr -><email>

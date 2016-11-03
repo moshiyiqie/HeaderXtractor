@@ -1,0 +1,5 @@
+Leveraging Semantic Signatures for -><title>
+Bug Search in Binary Programs -><title>
+Jannik Pewny†, Felix Schuster†, Christian Rossow‡, Lukas Bernhard†, Thorsten Holz† -><author>
+†Horst Görtz Institute for IT-Security (HGI) ‡Cluster of Excellence, MMCI -><affiliation>
+Ruhr-University Bochum, Germany Saarland University, Germany -><affiliation>

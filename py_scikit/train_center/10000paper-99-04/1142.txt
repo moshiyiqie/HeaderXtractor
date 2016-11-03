@@ -1,0 +1,17 @@
+Unsupervised Clustering of Robot Activities: -><title>
+A Bayesian Approach -><title>
+Paola Sebastiani -><author>
+Department of Mathematics -><affiliation>
+Imperial College -><affiliation>
+London, UK -><address>
+p.sebastiani@ ic.ac.uk -><email>
+Marco Ramoni -><author>
+Knowledge Media Institute -><affiliation>
+The Open University -><affiliation>
+Milton Keynes, UK -><address>
+m.ramoni@open.ac.uk -><email>
+Paul Cohen -><author>
+Department of Computer -><affiliation>
+Science, University of -><affiliation>
+Massachusetts, Amherst, MA -><address>
+cohen @ cs. umass.edu -><email>

@@ -1,0 +1,7 @@
+Losing Their Marbles: Syntax-Free Programming for Assessing -><title>
+Problem-Solving Skills -><title>
+Colin Fidge and Donna Teague -><author>
+Faculty of Information Technology, -><affiliation>
+Queensland University of Technology, -><affiliation>
+Brisbane, Australia -><address>
+{c.fidge, d.teague}@qut.edu.au -><email>

@@ -1,0 +1,9 @@
+Construction of a Learning Agent Handling Its Rewards -><title>
+According to Environmental Situations -><title>
+Koichi Moriyama -><author>
+Masayuki Numao -><author>
+koichi@nm.cs.titech.ac.jp -><email>
+numao@cs.titech.ac.jp -><email>
+Department of Computer Science, Graduate School of Information Science and Engineering -><affiliation>
+Tokyo Institute of Technology -><affiliation>
+2-12-1, Ookayama, Meguro, Tokyo, 152-8552, Japan -><address>

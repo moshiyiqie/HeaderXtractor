@@ -1,0 +1,11 @@
+A Learning Agent for Heat-Pump Thermostat Control -><title>
+Peter Stone -><author>
+Dept. of Computer Science -><affiliation>
+The University of Texas at Austin -><affiliation>
+Austin, TX 78712 USA -><address>
+pstone@cs.utexas.edu -><email>
+Daniel Urieli -><author>
+Dept. of Computer Science -><affiliation>
+The University of Texas at Austin -><affiliation>
+Austin, TX 78712 USA -><address>
+urieli@cs.utexas.edu -><email>

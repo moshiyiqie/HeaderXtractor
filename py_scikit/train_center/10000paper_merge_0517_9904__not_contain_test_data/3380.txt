@@ -1,0 +1,7 @@
+Teaching Mobile Apps for Windows Devices Using TouchDevelop -><title>
+Simon -><author>
+David Cornforth -><author>
+University of Newcastle -><affiliation>
+University of Newcastle -><affiliation>
+simon@newcastle.edu.au -><email>
+david.cornforth@newcastle.edu.au -><email>

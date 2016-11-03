@@ -1,0 +1,6 @@
+Segmentation of Color Images for Image Data Analysis -><title>
+Sanmati S Kamath -><title>
+Georgia Institute of Technology -><author>
+85, 5th Street NW, Technology Square Research Building, -><address>
+Atlanta, GA 30308. -><address>
+sanmati@ece.gatech.edu -><email>

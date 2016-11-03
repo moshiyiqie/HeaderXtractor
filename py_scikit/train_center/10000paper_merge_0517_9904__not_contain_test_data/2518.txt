@@ -1,0 +1,13 @@
+Probabilistic Copeland Tournaments -><title>
+Sam Saarinen -><author>
+University of Kentucky -><affiliation>
+Lexington, KY -><address>
+samuel.saarinen@uky.edu -><email>
+Judy Goldsmith -><author>
+University of Kentucky -><affiliation>
+Lexington, KY -><address>
+goldsmit@cs.uky.edu -><email>
+Craig Tovey -><author>
+Georgia Tech -><address>
+Atlanta, GA -><address>
+ctovey@isye.gatech.edu -><email>

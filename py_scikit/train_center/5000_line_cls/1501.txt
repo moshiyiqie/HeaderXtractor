@@ -1,0 +1,7 @@
+Improving Reinforcement Learning with Context Detection -><title>
+Bruno C. da Silva, Eduardo W. Basso, Filipo S. Perotto, Ana L.C. Bazzan, Paulo M. -><author>
+Engel -><author>
+Instituto de Informa´tica, UFRGS -><affiliation>
+Caixal Postal 15064 CEP 91.501-970 -><address>
+Porto Alegre, Brazil -><address>
+{bcs,ewbasso,fsperotto,bazzan,engel}@inf.ufrgs.br -><email>

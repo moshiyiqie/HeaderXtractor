@@ -1,0 +1,10 @@
+Analysis of Efficiency and Accuracy of Learning in Minority Games -><title>
+Koichi Kurumatani -><author>
+CARC, AIST & CREST, JST -><author>
+k.kurumatani@aist.go.jp -><email>
+Kiyoshi Izumi -><author>
+CARC, AIST & CREST, JST -><affiliation>
+kiyoshi@ni.aist.go.jp -><email>
+Tomohisa Yamashita -><author>
+CARC, AIST & CREST, JST -><affiliation>
+tomohisa@carc.aist.go.jp -><email>

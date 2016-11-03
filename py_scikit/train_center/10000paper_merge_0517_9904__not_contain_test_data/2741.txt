@@ -1,0 +1,12 @@
+Yue Dai -><author>
+School of Computing -><affiliation>
+University of Eastern Finland -><affiliation>
+yvedai@uef.fi -><email>
+Calkin Suero Montero -><author>
+School of Computing -><affiliation>
+University of Eastern Finland -><affiliation>
+calkins@uef.fi -><email>
+Jarkko Suhonen -><author>
+School of Computing -><affiliation>
+University of Eastern Finland -><affiliation>
+jarkko.suhonen@uef.fi -><email>

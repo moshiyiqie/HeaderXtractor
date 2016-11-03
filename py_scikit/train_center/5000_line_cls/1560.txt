@@ -1,0 +1,12 @@
+Coordination for Uncertain Outcomes using Distributed -><title>
+Neighbor Exchange -><title>
+James Atlas -><author>
+Computer and Information Sciences -><affiliation>
+University of Delaware -><affiliation>
+Newark, DE 19716 -><address>
+atlas@cis.udel.edu -><email>
+Keith Decker -><author>
+Computer and Information Sciences -><affiliation>
+University of Delaware -><affiliation>
+Newark, DE 19716 -><address>
+decker@cis.udel.edu -><email>

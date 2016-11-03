@@ -1,0 +1,6 @@
+Pinocchio: Conducting a Virtual Symphony Orchestra -><title>
+Bernd Bruegge, Christoph Teschner, Peter Lachenmaier, Eva Fenzl, -><author>
+Dominik Schmidt, Simon Bierbaum -><author>
+Chair for Applied Software Engineering -><affiliation>
+85748 Garching, Germany -><address>
+{bruegge, teschner, lachenma, fenzl, schmidtd, bierbaum}@in.tum.de -><email>

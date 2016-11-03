@@ -1,0 +1,5 @@
+Napping for Functional Representation of Policy -><title>
+Qing Da, Yang Yu, Zhi-Hua Zhou -><author>
+National Key Laboratory for Novel Software Technology -><affiliation>
+Nanjing University, Nanjing 210023, China -><affiliation>
+{daq,yuy,zhouzh}@lamda.nju.edu.cn -><email>

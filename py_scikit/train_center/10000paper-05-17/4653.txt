@@ -1,0 +1,8 @@
+Revenue Optimization with Relevance Constraint in -><title>
+Sponsored Search -><title>
+Yunzhang Zhu12 Gang Wang1 Junli Yang13 Dakan Wang14 Jun Yan1 Zheng Chen1 -><author>
+1Microsoft Resarch Asia, Beijing, China -><affiliation>
+2Department of Fundamental Science, Tsinghua University, Beijing, China -><affiliation>
+3Software Engineering Department, Nankai University, Tianjing, China -><affiliation>
+4Computer Science Department, Shanghai Jiaotong University, Shanghai, China -><affiliation>
+{v-yuazhu,gawa,v-junyan,v-dakwan, junyan, jianh, zhengc}@microsoft.com -><email>

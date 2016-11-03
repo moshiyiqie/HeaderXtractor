@@ -1,0 +1,14 @@
+CaMus2 – Collaborative Music Performance with Mobile -><affiliation>
+Camera Phones -><title>
+Georg Essl -><author>
+Deutsche Telekom Laboratories -><affiliation>
+TU Berlin -><affiliation>
+Ernst-Reuter-Platz 7 -><address>
+10587 Berlin, Germany -><address>
+georg.essl@telekom.de -><email>
+Michael Rohs -><author>
+Deutsche Telekom Laboratories -><affiliation>
+TU Berlin -><address>
+Ernst-Reuter-Platz 7 -><address>
+10587 Berlin, Germany -><address>
+michael.rohs@telekom.de -><email>

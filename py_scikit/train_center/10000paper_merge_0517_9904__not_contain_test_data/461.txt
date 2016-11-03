@@ -1,0 +1,13 @@
+Towards Interest-Based Negotiation -><title>
+Iyad Rahwan, Liz Sonenberg -><author>
+Dept. of Information Systems -><affiliation>
+University of Melbourne -><affiliation>
+Parkville 3010, Australia -><address>
+i.rahwan@pgrad.unimelb.edu.au -><email>
+Frank Dignum -><author>
+Intelligent Systems Group -><affiliation>
+Institute of Information and Computing Sciences -><affiliation>
+Utrecht University -><affiliation>
+3508 TB Utrecht, The Netherlands -><address>
+dignum@cs.uu.nl -><email>
+l.sonenberg@dis.unimelb.edu.au -><email>

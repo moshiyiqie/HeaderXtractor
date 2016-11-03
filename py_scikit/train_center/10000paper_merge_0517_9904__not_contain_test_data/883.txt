@@ -1,0 +1,34 @@
+Class Development and Testing in the Small -><title>
+John McGregor -><author>
+Clemson University -><affiliation>
+Department of Computer Science -><affiliation>
+Clemson, SC 29634 -><address>
+Allen Parrish -><author>
+David Cordes -><author>
+Brandon Dixon -><author>
+The University of Alabama -><affiliation>
+Department of Computer Science -><affiliation>
+Tuscaloosa, AL 35487 -><address>
+Abst -><abstract>
+creasingly important as the standard software development -><abstract>
+approach in computer science ducation. With regard to test- -><abstract>
+ing, most contemporary industrial focus involves integrating -><abstract>
+the testing process with the remainder of the development -><abstract>
+life cycle (e.g., the integration of use case-based requirements -><abstract>
+definition with testing). While this is a positive step, it is -><abstract>
+something of a heavyweight approach, in that it requires a -><abstract>
+substantial understanding of the entire development cycle in -><abstract>
+order to discuss testing. In this paper, we present a -><abstract>
+conceptual model of the testing process that is lightweight in -><abstract>
+nature. This process can be applied very early in the com- -><abstract>
+puter science curriculum as part of initial courses in the me- -><abstract>
+chanics of programming, prior to a discussion of the overall -><abstract>
+development life cycle. -><abstract>
+1 In -><abstract>
+The object-oriented paradigm is becoming increasingly -><abstract>
+important as the standard software development ap- -><abstract>
+proach in computer science education. With regard to -><abstract>
+testing, most contemporary industrial focus involves in- -><abstract>
+tegrating the testing process with the remainder of the -><abstract>
+development life cycle. For example, approaches that in- -><abstract>
+tegrate requirements capture with testing are becoming -><abstract>

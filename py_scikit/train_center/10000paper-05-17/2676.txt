@@ -1,0 +1,13 @@
+Signaled Queueing -><title>
+Robert Shorten -><author>
+IBM Ireland Research Lab -><affiliation>
+Dublin, Ireland -><address>
+robshort@ie.ibm.com -><email>
+Laura Brink -><author>
+Yale University -><affiliation>
+New Haven, USA -><address>
+laura.brink@yale.edu -><email>
+Jia Yuan Yu -><author>
+IBM Ireland Research Lab -><affiliation>
+Dublin, Ireland -><address>
+jiayuanyu@ie.ibm.com -><email>

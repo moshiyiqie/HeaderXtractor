@@ -1,0 +1,8 @@
+False-name-proof Combinatorial Auction Protocol: Groves -><title>
+Mechanism with Submodular Approximation -><title>
+Makoto Yokoo, Toshihiro Matsutani, and Atsushi Iwasaki -><author>
+Kyushu University -><affiliation>
+6-10-1 Hakozaki, Higashi-ku, -><address>
+Fukuoka, 812-8581 Japan -><address>
+{yokoo, iwasaki}@is.kyushu-u.ac.jp, matutani@lang.is.kyushu-u.ac.jp -><email>
+lang.is.kyushu-u.ac.jp/˜{yokoo, iwasaki} -><email>

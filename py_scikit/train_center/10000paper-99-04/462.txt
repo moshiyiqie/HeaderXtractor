@@ -1,0 +1,14 @@
+Resource-Aware Exploration of the -><title>
+Emergent Dynamics of Simulated Systems -><title>
+Sven A. Brueckner -><author>
+Altarum -><affiliation>
+3520 Green Court -><address>
+Ann Arbor, MI 48105-1570, USA -><address>
++1 (734) 302 4683 -><phone>
+sven.brueckner@altarum.org -><email>
+H. Van Dyke Parunak -><author>
+Altarum -><affiliation>
+3520 Green Court -><address>
+Ann Arbor, MI 48105-1570, USA -><address>
++1 (734) 302 4684 -><phone>
+van.parunak@altarum.org -><email>

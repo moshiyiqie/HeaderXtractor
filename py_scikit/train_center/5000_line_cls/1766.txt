@@ -1,0 +1,11 @@
+Changing Neighbours: Improving Tag-Based Cooperation -><title>
+Michael Luck -><author>
+Department of Computer Science -><affiliation>
+King’s College London -><affiliation>
+London, WC2R 2LS, UK -><address>
+michael.luck@kcl.ac.uk -><email>
+Nathan Griffiths -><author>
+Department of Computer Science -><affiliation>
+University of Warwick -><affiliation>
+Coventry, CV4 7AL, UK -><address>
+nathan@dcs.warwick.ac.uk -><email>

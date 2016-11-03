@@ -1,0 +1,21 @@
+May -><title>
+Synchronization Methods for Supporting Distributed 3D -><title>
+Virtual Environments in JavaTM -><title>
+Daneyand Singley -><author>
+Dept. of Electrical and Comp. Eng. -><affiliation>
+University of Vermont -><affiliation>
+Burlington, VT 05405, USA -><address>
+1-802-769-1690 -><phone>
+dsingley@zoo.uvm.edu -><email>
+Kevin Gorman -><author>
+Dept. of Electrical and Comp. Eng. -><affiliation>
+University of Vermont -><affiliation>
+Burlington, VT 05405, USA -><address>
+1-802-769-0429 -><phone>
+kgorman@emba.uvm.edu -><email>
+Yuichi Motai -><author>
+Dept. of Electrical and Comp. Eng. -><affiliation>
+University of Vermont -><affiliation>
+Burlington, VT 05405, USA -><address>
+1-802-656-9660 -><phone>
+ymotai@emba.uvm.edu -><email>

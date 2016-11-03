@@ -1,0 +1,14 @@
+Agent Preference Relations: Strict, Indifferent -><title>
+and Incomparable -><title>
+Peyman Faratin -><author>
+Bartel Van de Walle -><author>
+New Jersey Institute of Technology -><affiliation>
+Information Systems Department -><affiliation>
+Massachusetts Institute of Technology -><affiliation>
+Sloan School of Management -><affiliation>
+Newark, NJ 07109, NJ, USA -><address>
++1 (973) 596 5778 -><phone>
+Bartel@njit.edu -><email>
+Cambridge,02143,MA,USA -><address>
++1 (617) 253 7674 -><phone>
+Peyman@mit.edu -><email>

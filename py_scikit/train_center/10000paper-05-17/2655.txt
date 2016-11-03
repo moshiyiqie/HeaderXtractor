@@ -1,0 +1,14 @@
+Strategic Free Information Disclosure for Search-Based -><title>
+Information Platforms -><title>
+Shani Alkoby -><author>
+Bar-Ilan University -><affiliation>
+Ramat Gan, 5290002 Israel -><address>
+shani.alkoby@gmail.com -><email>
+Sanmay Das -><author>
+Washington Univ. in St. Louis -><affiliation>
+St. Louis MO 63130 -><address>
+sanmay@seas.wustl.edu -><email>
+David Sarne -><author>
+Bar-Ilan University -><affiliation>
+Ramat Gan, 5290002 Israel -><address>
+sarned@cs.biu.ac.il -><email>

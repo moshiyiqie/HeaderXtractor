@@ -1,0 +1,14 @@
+Performance Evaluation of An Agent Server -><title>
+Capable of Hosting Large Numbers of Agents -><title>
+Hideki Tai -><author>
+IBM Research, Tokyo Research Laboratory -><affiliation>
+1623-14, Shimotsuruma, Yamato-shi -><address>
+Kanagawa, Japan -><address>
++81-46-215-5260 -><phone>
+hidekit@jp.ibm.com -><email>
+Gaku Yamamoto -><author>
+IBM Research, Tokyo Research Laboratory -><affiliation>
+1623-14, Shimotsuruma, Yamato-shi -><address>
+Kanagawa, Japan -><address>
++81-46-215-4639 -><phone>
+yamamoto@jp.ibm.com -><email>

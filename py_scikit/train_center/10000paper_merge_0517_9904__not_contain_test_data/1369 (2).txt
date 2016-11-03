@@ -1,0 +1,12 @@
+Vicious Strategies for Vickrey Auctions -><title>
+∗ -><title>
+Felix Brandt -><author>
+Institut fu¨r Informatik -><affiliation>
+Technische Universita¨t Mu¨nchen -><affiliation>
+D-80290 Mu¨nchen, Germany -><address>
+brandtf@in.tum.de -><email>
+Gerhard Weiß -><author>
+Institut fu¨r Informatik -><affiliation>
+Technische Universita¨t Mu¨nchen -><affiliation>
+D-80290 Mu¨nchen, Germany -><address>
+weissg@in.tum.de -><email>

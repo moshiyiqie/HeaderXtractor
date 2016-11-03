@@ -1,0 +1,12 @@
+I Mean It! Detecting User Intentions to create Believable -><title>
+Behaviour for Virtual Agents in Games -><title>
+Eurico Doirado -><author>
+INESC-ID and Instituto Superior Técnico -><affiliation>
+Av. Prof. Cavaco Silva, TagusPark -><address>
+2780-990 Porto Salvo, Portugal -><address>
+eurico.doirado@ist.utl.pt -><email>
+Carlos Martinho -><author>
+INESC-ID and Instituto Superior Técnico -><affiliation>
+Av. Prof. Cavaco Silva, TagusPark -><affiliation>
+2780-990 Porto Salvo, Portugal -><address>
+carlos.martinho@ist.utl.pt -><email>

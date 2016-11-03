@@ -1,0 +1,10 @@
+PRep: A Probabilistic Reputation Model for Biased -><title>
+Societies -><title>
+Marie desJardins -><author>
+University of Maryland Baltimore County -><affiliation>
+1000 Hilltop Circle, Baltimore, MD 21250 -><address>
+mariedj@umbc.edu -><email>
+Yasaman Haghpanah -><author>
+University of Maryland Baltimore County -><affiliation>
+1000 Hilltop Circle, Baltimore, MD 21250 -><address>
+yasamanhj@umbc.edu -><email>

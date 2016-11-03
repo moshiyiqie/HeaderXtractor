@@ -1,0 +1,6 @@
+Bumping Strategies for the Multiagent Agreement Problem -><title>
+Pragnesh Jay Modi and Manuela Veloso -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+{pmodi,veloso}@cs.cmu.edu -><email>

@@ -1,0 +1,19 @@
+Decentralized Bisimulation for Multiagent Systems -><title>
+Lei Song -><author>
+Quantum Computation & -><affiliation>
+Intelligent Systems -><affiliation>
+University of Technology, -><affiliation>
+Sydney -><address>
+lei.song@uts.edu.au -><email>
+Yuan Feng -><author>
+Quantum Computation & -><affiliation>
+Intelligent Systems -><affiliation>
+University of Technology, -><affiliation>
+Sydney -><address>
+yuan.feng@uts.edu.au -><email>
+Lijun Zhang -><author>
+State Key Laboratory of -><affiliation>
+Computer Science -><affiliation>
+Institute of Software, Chinese -><affiliation>
+Academy of Sciences -><affiliation>
+zhanglj@ios.ac.cn -><email>

@@ -1,0 +1,13 @@
+The user interface as an agent environment -><title>
+Robert St. Amant -><author>
+Department of Computer Science -><author>
+North Carolina State University -><affiliation>
+EGRC-CSC Box 7534 -><address>
+Raleigh, NC 27695-7534 -><address>
+stamant@csc.ncsu.edu -><email>
+Luke S. Zettlemoyer -><author>
+Department of Computer Science -><author>
+North Carolina State University -><affiliation>
+EGRC-CSC Box 7534 -><address>
+Raleigh, NC 27695-7534 -><address>
+Iszettle@eos.ncsu.edu -><email>

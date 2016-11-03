@@ -1,0 +1,17 @@
+Time-Bounded Adaptive A -><title>
+Carlos Hernández -><author>
+Depto. de Ingenier´ıa Informa´tica -><affiliation>
+Universidad Cato´lica -><affiliation>
+de la Ssma. Concepcio´n -><affiliation>
+Tansel Uras Sven Koenig -><author>
+Computer Science Department -><affiliation>
+University of -><affiliation>
+Southern California -><address>
+Los Angeles, CA 90089, USA{turas,skoenig}@usc.edu -><email>
+Jorge Baier -><author>
+Computer Science Department -><affiliation>
+Pontificia Universidad -><affiliation>
+Cato´lica de Chile -><affiliation>
+Santiago, Chilejabaier@ing.puc.cl -><email>
+Caupolican 491, Concepcio´n, Chile -><address>
+chernan@ucsc.cl -><email>

@@ -1,0 +1,21 @@
+Coordinating the Safe Execution of Tasks -><title>
+in a Constrained Multi-Agent System -><title>
+Anna Ciampolini, Paola Mello, -><author>
+Paolo Torroni -><author>
+DEIS, Universita` di Bologna -><affiliation>
+V.le Risorgimento 2, 40136 Bologna, Italy -><address>
+Evelina Lamma -><author>
+Dipartimento di Ingegneria -><affiliation>
+Universita` di Ferrara -><affiliation>
+Via Saragat 1, 44100 Ferrara, Italy -><address>
+elamma@ing.unife.it -><email>
+{aciampolini, pmello, -><email>
+ptorroni}@deis.unibo.it -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artiﬁcial In- -><intro>
+telligence—Multiagent systems -><intro>
+General Terms -><degree>
+Design, Languages -><degree>
+Keywords -><keyword>
+Multi-Agent Systems, Formalisms and logics, Logic program- -><keyword>
+ming, Service composition, Task Execution -><keyword>

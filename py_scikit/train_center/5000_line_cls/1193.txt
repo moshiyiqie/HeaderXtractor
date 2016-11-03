@@ -1,0 +1,7 @@
+Matchmaking Multi-Party Interactions Using Historical -><title>
+Performance Data -><title>
+David Lambert and David Robertson -><author>
+School of Informatics -><affiliation>
+University of Edinburgh -><affiliation>
+Edinburgh, Scotland -><address>
+d.j.lambert@sms.ed.ac.uk, dr@inf.ed.ac.uk -><email>

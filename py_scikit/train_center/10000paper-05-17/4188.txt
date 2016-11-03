@@ -1,0 +1,15 @@
+Effective Supervision of a Robot Team through User -><title>
+Interface Design -><title>
+E. Vincent Cross II -><author>
+Auburn University -><affiliation>
+Shelby Center for Engineering -><affiliation>
+Technology -><affiliation>
+Juan Gilbert -><author>
+Auburn University -><affiliation>
+Shelby Center for Engineering -><affiliation>
+Technology -><affiliation>
+334-844-6316 -><address>
+gilbert@auburn.edu -><email>
+Suite 3101 -><date>
+334-844-7001 -><phone>
+crossev@auburn.edu -><email>

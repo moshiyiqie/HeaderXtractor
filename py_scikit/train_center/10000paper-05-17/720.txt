@@ -1,0 +1,7 @@
+A Model of Emotions for Situated Agents -><title>
+H. Van Dyke Parunak, Robert Bisson, Sven Brueckner, Robert Matthews, John Sauter -><author>
+Altarum Institute -><affiliation>
+3520 Green Court, Suite 300 -><address>
+Ann Arbor, MI 48105-1579 USA -><address>
+1-734-302-4600 -><phone>
+{van.parunak ,robert.bisson, sven.brueckner, robert.matthews, john.sauter }@altarum.org -><email>

@@ -1,0 +1,7 @@
+On the Efficacy of Prerecorded Lectures -><title>
+for Teaching Introductory Programming -><title>
+Glenn Smith Colin Fidge -><author>
+Faculty of Information Technology, -><affiliation>
+Queensland University of Technology, -><affiliation>
+GPO Box 2434, Brisbane, Qld 4001, Australia -><address>
+Email: {gp.smith, c.fidge}@qut.edu.au -><email>

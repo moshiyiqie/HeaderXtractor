@@ -1,0 +1,10 @@
+Reasoning about Uncertain Information and Conflict -><title>
+Resolution through Trust Revision ∗ -><title>
+Murat S¸ensoy1,4, Achille Fokoue2, Jeff Z. Pan1, Timothy J. Norman1, -><author>
+Yuqing Tang3, Nir Oren1, and Katia Sycara3 -><author>
+1Computing Science, University of Aberdeen, UK -><affiliation>
+2IBM T. J. Watson Research Center, NY, US -><affiliation>
+3 Carnegie Melon University, Pittsburgh, US -><affiliation>
+4Computer Science, Ozyegin University, Istanbul, Turkey -><affiliation>
+{m.sensoy,jeff.z.pan,t.j.norman,n.oren}@abdn.ac.uk, -><email>
+achille@us.ibm.com, {yuqing.tang,katia}@cs.cmu.edu -><email>

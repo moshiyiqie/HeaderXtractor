@@ -1,0 +1,34 @@
+On Merging User-supplied Topic Ontologies on -><title>
+the Semantic Web -><title>
+Stanislav Ustymenko -><author>
+Department of Computer Science, Florida State University, -><affiliation>
+253 Love Building -><address>
+Tallahassee, FL 32306-4530 -><address>
+ustymenk@cs.fsu.edu -><email>
+1. PROBLEMS AND MOTIVATION -><abstract>
+The Semantic Web [2] is a vision of a new generation of the -><abstract>
+WWW that will enable computational agents to process data that -><abstract>
+have well-defined formal semantics. Agents can use reasoning to -><abstract>
+infer new information from statements located on different Web -><abstract>
+sites. Just like the current WWW, the Semantic Web makes no -><abstract>
+attempt to centralize publishing, effectively allowing anyone to -><abstract>
+publish any statement. Thus judging reliability of information -><abstract>
+becomes a practical requirement. -><abstract>
+As a model example, consider an archive of publicly available -><abstract>
+resources updated by a community of knowledge workers (e. g., a -><abstract>
+preprint archive of scientific papers). Indexing information in a -><abstract>
+digital archive requires extensive metadata schema, enabling -><abstract>
+accurate categorization for navigation and search. Such metadata -><abstract>
+system would include concepts organized in taxonomic hierarchy, -><abstract>
+thesaurus or more complex knowledge structure utilizing ontology -><abstract>
+semantics. -><abstract>
+One obstacle for utilizing ontology schemas for large and/or -><abstract>
+evolving archives, such as digital repositories of research papers, -><abstract>
+is defining such an ontology of concepts as to satisfy the needs of -><abstract>
+the majority of users who might have conflicting perspectives to -><abstract>
+overlapping areas of inquiry. Ideally, metadata created should -><abstract>
+reflect perspectives of different groups while spanning all the -><abstract>
+content, recognizing links between alternative conceptualizations. -><abstract>
+At the same time the system should maximize the quality of the -><abstract>
+ontology. -><abstract>
+It is our position that this task is best left to the evolving -><abstract>

@@ -1,0 +1,11 @@
+Locating Moving Entities in Indoor Environments with -><title>
+Teams of Mobile Robots -><title>
+Geoffrey Gordon -><author>
+Matthew Rosencrantz -><author>
+mrosen@cs.cmu.edu -><email>
+Sebastian Thrun -><author>
+thrun@cs.cmu.edu -><email>
+ggordon@cs.cmu.edu -><email>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave -><address>
+Pittsburgh, PA 15213 -><address>

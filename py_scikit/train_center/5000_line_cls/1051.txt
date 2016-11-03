@@ -1,0 +1,11 @@
+Agent-based Matchmaking of Mathematical Web Services -><title>
+William Naylor and Julian Padget -><author>
+Department of Computer Science -><affiliation>
+University of Bath -><affiliation>
+Bath, UK -><address>
+{wn,jap}@bath.ac.uk -><email>
+Simone A. Ludwig and Omer F. Rana -><author>
+School of Computer Science -><affiliation>
+Cardiff University -><affiliation>
+Cardiff, UK -><address>
+{scmsal,scmofr}@cs.cardiff.ac.uk -><email>

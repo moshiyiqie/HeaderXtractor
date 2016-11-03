@@ -1,0 +1,6 @@
+Distributed Algorithms for Solving the Multiagent -><title>
+Temporal Decoupling Problem -><title>
+James C. Boerkoel Jr. and Edmund H. Durfee -><author>
+Computer Science and Engineering -><affiliation>
+University of Michigan, Ann Arbor, MI 48109, USA -><affiliation>
+{boerkoel, durfee}@umich.edu -><email>

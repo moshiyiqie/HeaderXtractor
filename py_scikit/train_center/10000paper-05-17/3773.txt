@@ -1,0 +1,9 @@
+A Metaprogramming Approach to Generating Optimized -><title>
+Code for Algorithms in Linear Algebra -><title>
+Najaf A. Shah Anthony Skjellum -><author>
+Department of Computer and -><affiliation>
+Information Sciences -><author>
+1300 University Blvd. -><affiliation>
+Birmingham, AL 35294 -><address>
++1 (205) 492-1484 -><phone>
+{shahn, tony} @ cis.uab.edu -><email>

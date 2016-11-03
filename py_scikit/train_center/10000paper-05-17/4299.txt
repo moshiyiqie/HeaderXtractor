@@ -1,0 +1,11 @@
+Security Analysis of a Fingerprint-protected USB Drive -><title>
+Benjamin Rodes -><author>
+Department of Computer Science -><affiliation>
+James Madison University -><affiliation>
+Harrisonburg, VA 22807 -><address>
+benjaminrodes@gmail.com -><email>
+Xunhua Wang∗ -><author>
+Department of Computer Science -><affiliation>
+James Madison University -><affiliation>
+Harrisonburg, VA 22807 -><address>
+wangxx@jmu.edu -><email>

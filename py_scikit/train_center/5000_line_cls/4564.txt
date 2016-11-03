@@ -1,0 +1,7 @@
+Giftwrapping a curve with the convex hull -><title>
+J.K. Johnstone∗ -><author>
+Geometric Modeling Lab -><affiliation>
+Computer and Information Sciences -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+University Station, Birmingham, AL, USA 35294 -><affiliation>
+jj@cis.uab.edu -><email>

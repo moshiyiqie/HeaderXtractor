@@ -1,0 +1,4 @@
+Learning Against Multiple Opponents -><title>
+Thuc Vu, Rob Powers, Yoav Shoham -><author>
+Stanford University -><affiliation>
+{thucvu, powers, shoham}@cs.stanford.edu -><email>

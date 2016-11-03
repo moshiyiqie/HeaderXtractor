@@ -1,0 +1,7 @@
+Building Secure Knowledge Bases: Combining Java -><title>
+Agents and DBagents -><title>
+Edgar Weippl -><author>
+Software Competence Center Hagenberg -><affiliation>
+Hagenberg, A-4232 Austria -><address>
++43 7236 3343 837 -><phone>
+edgar.weippl@scch.at -><email>

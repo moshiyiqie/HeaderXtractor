@@ -1,10 +1,17 @@
-An Empirical Assessment of Using Stereotypes to Improve Reading Techniques -><abstract>
-in Software Inspections -><abstract>
-Miroslaw Staron, Ludwik Kuzniarz, Christian Thurn -><abstract>
-Department of Systems and Software Engineering -><abstract>
-School of Engineering -><abstract>
-Blekinge Institute of Technology -><affiliation>
-Box 520, Soft Center -><abstract>
-SE-372 25 Ronneby, Sweden -><abstract>
-(Miroslaw.Staron, Ludwik.Kuzniarz)@bth.se, Christian.Thurn@ipbolaget.com -><email>
-63 -><abstract>
+A Negotiation Model for Autonomous Agents: -><title>
+Key Features and Comparison with Existing Models -><title>
+Fernando Lopes∗, A.Q. Novais -><degree>
+INETI, DMS -><affiliation>
+Est. do Pac¸o do Lumiar -><affiliation>
+1649-038 Lisboa, Portugal -><address>
+∗fernando.lopes@ineti.pt -><email>
+Nuno Mamede -><note>
+INESC-ID/IST, L2F -><note>
+R. Alves Redol 9 -><note>
+1000-029 Lisboa, Portugal -><address>
+Nuno.Mamede@inesc-id.pt -><email>
+Helder Coelho -><author>
+UL, FC, DI -><affiliation>
+Edifı´cio C6, Campo Grande -><address>
+1749-016 Lisboa, portugal -><address>
+hcoelho@di.fc.ul.pt -><email>

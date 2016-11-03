@@ -1,0 +1,12 @@
+Limitations of using Real-World, Public Servers to -><title>
+Estimate Jitter Tolerance Of First Person Shooter Games -><title>
+Grenville Armitage -><author>
+Centre for Advanced Internet Architectures -><affiliation>
+Swinburne University of Technology -><affiliation>
+Melbourne, Australia -><address>
+garmitage@swin.edu.au -><email>
+Lawrence Stewart -><author>
+Centre for Advanced Internet Architectures -><affiliation>
+Swinburne University of Technology -><affiliation>
+Melbourne, Australia -><address>
+lastewart@swin.edu.au -><email>

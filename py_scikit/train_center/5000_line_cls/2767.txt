@@ -1,0 +1,11 @@
+Evolving Protocols and Agents in Multiagent Systems -><title>
+Munindar P. Singh -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-8206, USA -><address>
+singh@ncsu.edu -><email>
+Scott N. Gerard -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-8206, USA -><address>
+sgerard@us.ibm.com -><email>

@@ -1,0 +1,23 @@
+Modeling Multiple Fields of Collective Emotions -><title>
+with Brownian Agent-Based Model -><title>
+Wonsung Lee -><author>
+Department of Industrial and -><affiliation>
+Systems Engineering, -><affiliation>
+KAIST, -><address>
+291 Daehack-ro, Yuseong-gu, -><address>
+Daejeon, South Korea -><address>
+aporia@kaist.ac.kr -><email>
+Il-Chul Moon -><author>
+Department of Industrial and -><affiliation>
+Systems Engineering, -><affiliation>
+KAIST, -><address>
+291 Daehack-ro, Yuseong-gu, -><address>
+Daejeon, South Korea -><address>
+icmoon@kaist.ac.kr -><email>
+Sungrae Park -><author>
+Department of Industrial and -><affiliation>
+Systems Engineering, -><affiliation>
+KAIST, -><affiliation>
+291 Daehack-ro, Yuseong-gu, -><address>
+Daejeon, South Korea -><address>
+sungraepark@kaist.ac.kr -><email>

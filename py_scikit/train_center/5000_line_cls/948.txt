@@ -1,0 +1,16 @@
+A theoretical analysis of multi-agent patrolling strategies -><title>
+Geber Ramalho -><author>
+Univ. Federal de Pernambuco -><affiliation>
+Centro de Informatica -><affiliation>
+50732-970 Recife PE Brasil -><address>
+glr@cin.ufpe.br -><email>
+Francois Sempé -><author>
+Univ. of Paris 6 -><affiliation>
+4 place Jussieu -><address>
+75252 PARIS CEDEX 05 -><address>
+francois.sempe@lip6.f -><email>
+Yann Chevaleyre -><note>
+Lamsade - Univ. of paris 9, -><note>
+pl. du Mal de Lattre de Tassigny -><note>
+75775 PARIS CEDEX 16 -><note>
+chevaley@lamsade.dauphine.fr -><email>

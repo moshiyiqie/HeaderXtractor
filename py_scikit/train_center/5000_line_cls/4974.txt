@@ -1,0 +1,12 @@
+Controlling the Entire Path of a Virtual Camera -><title>
+∗ -><title>
+John K. Johnstone -><author>
+Computer and Information Sciences -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+Birmingham, Alabama 35294-1170 -><affiliation>
+jj@cis.uab.edu -><email>
+Ross Ptacek -><author>
+Computer and Information Sciences -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+Birmingham, Alabama 35294-1170 -><affiliation>
+rptacek@uab.edu -><email>

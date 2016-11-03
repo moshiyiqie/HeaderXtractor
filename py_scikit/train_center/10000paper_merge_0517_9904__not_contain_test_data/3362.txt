@@ -1,0 +1,9 @@
+A conceptual model for reflecting on expected learning vs. -><title>
+demonstrated student performance -><title>
+Richard Gluga 1 Judy Kay 1 Raymond Lister 2 Simon3 -><author>
+Michael Charleston1 James Harland4 Donna Teague5 -><author>
+1 School of IT, University of Sydney, Sydney NSW Australia -><affiliation>
+2 School of Software, University of Technology Sydney, Sydney NSW Australia -><affiliation>
+3 School of Design Communication and IT, University of Newcastle, Newcastle NSW Australia -><affiliation>
+4 School of Computer Science and Information Technology, RMIT University, Melbourne VIC Australia -><affiliation>
+5 Faculty of Science and Technology, Queensland University of Technology, Brisbane QLD Australia -><affiliation>

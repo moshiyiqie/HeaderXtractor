@@ -1,0 +1,7 @@
+Education and Design: Using Human-Computer -><title>
+Interaction Case Studies to Learn -><title>
+Gregory Smith, Laurian C. Vega, D. Scott McCrickard -><author>
+Department of Computer Science and Center for HCI, Virginia Tech -><affiliation>
+Blacksburg, VA. 24061-0106 -><address>
+1-(540)-231-6698 -><phone>
+{sgr07a, lhobby, mccricks}@cs.vt.edu -><email>

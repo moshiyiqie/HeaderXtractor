@@ -1,0 +1,6 @@
+Communication environment for sharing fond memories -><title>
+Masumi Shimizu Mie Nakatani Hirokazu Kato Shogo Nishida -><author>
+Graduate School of Engineering Science, Osaka University -><affiliation>
+Toyonaka, Osaka 560-8531 Japan -><address>
+shimizu@nishilab.sys.es.osaka-u.ac.jp -><affiliation>
+{ mie, kato, nishida }@sys.es.osaka-u.ac.jp -><email>

@@ -1,0 +1,8 @@
+Anomaly Intrusion Detection Based Upon an Artificial -><title>
+Immunity Model -><title>
+Yingbing Yu -><author>
+Austin Peay State University -><affiliation>
+Department of Computer Science & -><affiliation>
+Information Technology -><affiliation>
+Clarksville, Tennessee 37044 -><address>
+yuy@apsu.edu -><email>

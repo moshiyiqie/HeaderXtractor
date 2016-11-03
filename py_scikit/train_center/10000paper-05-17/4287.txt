@@ -1,0 +1,9 @@
+SCOBA: Source Code Based Attestation on Custom -><title>
+Software ∗ -><title>
+† -><title>
+Liang Gu‡, Yao Guo‡ -><author>
+, Anbang Ruan§, Qingni Shen§,Hong Mei‡ -><author>
+‡Key Laboratory of High Confidence Software Technologies (Ministry of Education), -><affiliation>
+‡Institute of Software, School of Electronics Engineering and Computer Science, Peking University, Beijing, China -><affiliation>
+§School of Software and Microelectronics, Peking University, Beijing, China -><affiliation>
+‡{guliang05,yaoguo,meih}@sei.pku.edu.cn,§{ruanab, shenqn}@infosec.pku.edu.cn -><email>

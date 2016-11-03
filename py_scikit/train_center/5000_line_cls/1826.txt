@@ -1,0 +1,14 @@
+Basis Function Construction For Hierarchical -><title>
+Reinforcement Learning -><title>
+Sarah Osentoski -><author>
+Department of Computer Science -><affiliation>
+Brown University -><affiliation>
+115 Waterman St., 4th Flr -><address>
+Providence, RI 02912 -><address>
+sosentos@cs.brown.edu -><email>
+Sridhar Mahadevan -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts, Amherst -><affiliation>
+140 Governor’s Drive -><address>
+Amherst, MA 01003 -><address>
+mahadeva@cs.umass.edu -><email>

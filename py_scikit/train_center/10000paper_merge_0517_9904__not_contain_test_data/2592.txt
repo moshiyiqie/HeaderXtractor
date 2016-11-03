@@ -1,0 +1,6 @@
+Machine Learning Methods for Multi Robot Navigation -><title>
+(Doctoral Consortium) -><title>
+Julio Godoy -><author>
+Department of Computer Science and Engineering -><affiliation>
+University of Minnesota -><affiliation>
+godoy@cs.umn.edu -><email>

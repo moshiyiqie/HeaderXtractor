@@ -1,0 +1,17 @@
+Analyses and User Interface Development -><title>
+Dirk Werth -><author>
+German Research Center for -><note>
+Artificial Intelligence (DFKI) -><note>
+Stuhlsatzenhausweg 3 Campus D3 2 Stuhlsatzenhausweg 3 Campus D3 2 Stuhlsatzenhausweg 3 Campus D3 2 -><note>
+Rocco Raso -><note>
+German Research Center for -><unknow>
+Artificial Intelligence (DFKI) -><unknow>
+Peter Loos -><author>
+German Research Center for -><affiliation>
+Artificial Intelligence (DFKI) -><affiliation>
++49 681 85775 5256 -><pubnum>
++49 0681 85775 5236 -><pubnum>
++49 681 85775 3106 -><pubnum>
+Rocco.Raso@dfki.de -><email>
+Dirk.Werth@dfki.de -><email>
+Peter.Loos@dfki.de -><email>

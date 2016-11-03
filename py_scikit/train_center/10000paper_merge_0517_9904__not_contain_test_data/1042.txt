@@ -1,0 +1,21 @@
+Optimising Student Cognitive Load in Computer Education -><title>
+Juhani E. Tuovinen, -><author>
+Centre for Leaming and Teaching Support, Monash University, Churchill, Vic. 3842. -><affiliation>
+Senior Research Fellow in Interactive Multimedia, Monash Univemlty -><affiliation>
+Juhani.Tuovinen@CeLTS.monash.edu.au -><email>
+NDstract -><abstract>
+Cognitive Load Theory provides a coherent way to -><abstract>
+opt/m/~e student cognitive processing load during lear,ln S, -><abstract>
+A range of principles identified in this theory can be -><abstract>
+appfied to invrove student processing during learning -><abstract>
+computing content. These principles range ffi~m the goal -><abstract>
+free problem solving to worked e~amples, plit-attention, -><abstract>
+redundancy and variability effects. However, these -><abstract>
+principles need to be applied strategically. In this paper the -><abstract>
+most ;,.,:,ozlant considerations for slz'ategjc plannin.~ of -><abstract>
+computer education, ranging from the content element -><abstract>
+interactivity, mental effort measurement to -><abstract>
+knowledge, are organised into a set of instructional choices. -><abstract>
+These choices are summarised in -><abstract>
+be used in the ecb~cafional planning, as a tool to help ensure -><abstract>
+the identified issues are considered inan optimal sequence. -><abstract>

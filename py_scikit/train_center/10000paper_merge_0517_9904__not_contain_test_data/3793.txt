@@ -1,0 +1,7 @@
+Optimizing distributed spatial joins using R-Trees -><title>
+Orlando Karam -><author>
+Southern Polytechnic State University -><affiliation>
+okaram@spsu.edu -><email>
+Fred Petry -><author>
+Tulane University -><affiliation>
+petry@eecs.tulane.edu -><email>

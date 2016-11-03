@@ -1,0 +1,4 @@
+H. Van Dyke Parunak, Sven A. Brueckner -><author>
+Altarum Institute -><affiliation>
+3520 Green Court, Ann Arbor, MI 48105, USA -><address>
+{sven.brueckner, van.parunak}@altarum.org -><email>

@@ -1,0 +1,6 @@
+OWL-P: OWL for Protocol and Processes -><title>
+Ashok U. Mallya Nirmit Desai Amit K. Chopra Munindar P. Singh -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh NC 27695 USA -><address>
+{aumallya,nvdesai,akchopra,singh}@ncsu.edu -><email>

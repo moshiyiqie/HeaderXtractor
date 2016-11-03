@@ -1,0 +1,17 @@
+Computing a Self–Confirming Equilibrium in Two–Player -><title>
+Extensive–Form Games -><title>
+Sofia Ceppi -><author>
+Politecnico di Milano -><affiliation>
+Piazza Leonardo da Vinci 32 -><affiliation>
+Milano, Italy -><address>
+ceppi@elet.polimi.it -><email>
+Fabio Panozzo -><email>
+Politecnico di Milano -><author>
+Piazza Leonardo da Vinci 32 -><affiliation>
+Milano, Italy -><address>
+panozzo@elet.polimi.it -><email>
+Nicola Gatti -><author>
+Politecnico di Milano -><affiliation>
+Piazza Leonardo da Vinci 32 -><affiliation>
+Milano, Italy -><address>
+ngatti@elet.polimi.it -><email>

@@ -1,0 +1,7 @@
+Generic Memoryless Polygonal Simplification -><title>
+Richard Southern Patrick Marais Edwin Blake -><author>
+Collaborative Visual Computing Laboratory -><affiliation>
+University of Cape Town -><affiliation>
+Ee d 9 e l~pm -><address>
+Equadric Ehybrid -><author>
+Figure l: The screwdriver model is compressed from 54301 faces to 10000 faces with four different techniques. -><note>

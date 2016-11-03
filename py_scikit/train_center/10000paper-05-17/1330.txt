@@ -1,0 +1,8 @@
+PROTECT: A Deployed Game Theoretic System to Protect -><title>
+the Ports of the United States -><title>
+Eric Shieh+, Bo An+, Rong Yang+, Milind Tambe+, Craig Baldwin, Joseph DiRenzo, Ben -><author>
+Maule, Garrett Meyer -><author>
++University of Southern California -><affiliation>
++{eshieh, boa, yangrong, tambe}@usc.edu -><email>
+United States Coast Guard -><affiliation>
+{Craig.W.Baldwin, Joseph.DiRenzo, Ben.J.Maule, Garrett.R.Meyer}@uscg.mil -><email>

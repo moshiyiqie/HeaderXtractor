@@ -1,0 +1,23 @@
+Active Malware Analysis using Stochastic Games -><title>
+Debin Gao -><author>
+School of Information Systems -><affiliation>
+Singapore Management -><affiliation>
+University -><affiliation>
+Singapore -><address>
+dbgao@smu.edu.sg -><email>
+Pradeep Varakantham -><author>
+School of Information Systems -><affiliation>
+Singapore Management -><affiliation>
+University -><affiliation>
+Singapore -><address>
+pradeepv@smu.edu.sg -><email>
+Simon A. Williamson -><author>
+School of Information Systems -><affiliation>
+Singapore Management -><affiliation>
+University -><affiliation>
+Singapore -><address>
+swilliamson@smu.edu.sg -><email>
+Ong Chen Hui -><author>
+DSO National Laboratories -><affiliation>
+Singapore -><address>
+ochenhui@dso.org.sg -><email>

@@ -1,0 +1,14 @@
+Potential-Based Difference Rewards for Multiagent -><title>
+Reinforcement Learning -><title>
+Sam Devlin -><author>
+University of York, UK -><affiliation>
+sam.devlin@york.ac.uk -><email>
+Logan Yliniemi -><author>
+Oregon State University, USA -><affiliation>
+logan.yliniemi@engr.orst.edu -><email>
+Daniel Kudenko -><author>
+University of York, UK -><affiliation>
+daniel.kudenko@york.ac.uk -><email>
+Kagan Tumer -><author>
+Oregon State University, USA -><affiliation>
+kagan.tumer@oregonstate.edu -><email>

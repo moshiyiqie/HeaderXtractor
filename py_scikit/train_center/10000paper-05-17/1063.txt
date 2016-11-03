@@ -1,0 +1,5 @@
+Maximum Causal Entropy Correlated Equilibria -><title>
+for Markov Games -><title>
+Brian D. Ziebart, J. Andrew Bagnell, Anind K. Dey -><author>
+Carnegie Mellon University -><affiliation>
+bziebart@cs.cmu.edu, dbagnell@ri.cmu.edu, anind@cs.cmu.edu -><email>

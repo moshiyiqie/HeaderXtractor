@@ -1,0 +1,5 @@
+Combining Bundle Search with Buyer Coalition Formation in Electronic -><title>
+Markets: A Distributed Approach through Negotiation -><title>
+Linli He and Thomas R. Ioerger -><author>
+Department of Computer Science, Texas A&M University, College Station -><affiliation>
+{linli, ioerger}@cs.tamu.edu -><email>

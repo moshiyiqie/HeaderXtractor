@@ -1,0 +1,15 @@
+Generalizing Preference Elicitation in Combinatorial -><title>
+Auctions -><title>
+∗ -><title>
+Tuomas Sandholm -><author>
+Carnegie Mellon University -><affiliation>
+Computer Science Department -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213, USA -><address>
+sandholm@cs.cmu.edu -><email>
+Benoıˆt Hudson -><author>
+Carnegie Mellon University -><affiliation>
+Computer Science Department -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213, USA -><address>
+bhudson@cs.cmu.edu -><email>

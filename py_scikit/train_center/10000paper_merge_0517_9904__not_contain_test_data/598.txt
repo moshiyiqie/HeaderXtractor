@@ -1,0 +1,6 @@
+On Safe Kernel Stable Coalition Forming among Agents -><title>
+Bastian Blankenburg, Matthias Klusch -><author>
+German Research Center for Artifical Intelligence, -><affiliation>
+Deduction and Multiagent Systems, -><affiliation>
+Stuhlsatzenhausweg 3, D-66123 Saarbru¨cken, Germany -><address>
+e-mail: {blankenb, klusch}@dfki.de -><email>

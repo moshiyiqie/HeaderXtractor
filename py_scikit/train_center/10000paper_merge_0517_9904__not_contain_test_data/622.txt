@@ -1,0 +1,10 @@
+The Influence of Social Dependencies on Decision-Making: Initial Investigations -><title>
+with a New Game∗ -><title>
+Sarit Kraus, Shavit Talman, -><author>
+Boaz Stossel and Moti Havlin -><affiliation>
+Dept. of Computer Science, Bar-Ilan University -><affiliation>
+Ramat-Gan 52900 Israel -><address>
+Barbara J. Grosz -><author>
+Division of Engineering and Applied Sciences -><affiliation>
+Harvard University, -><affiliation>
+Cambridge MA 02138 USA -><address>

@@ -1,0 +1,13 @@
+Virtual Environment System Layered Object Model -><title>
+Manuel Oliveira -><author>
+University College London -><affiliation>
+Department Computer Science -><affiliation>
+Gower Street. WC1E 6BT London, UK -><address>
++442076793876 -><phone>
+m.oliveira@cs.ucl.ac.uk -><email>
+3rd Author -><email>
+3rd author's affiliation -><note>
+1st line of address -><note>
+2nd line of address -><note>
+Telephone number, incl. country code -><note>
+3rd E-mail -><note>

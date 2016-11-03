@@ -1,0 +1,11 @@
+Sample Complexity for Winner Prediction in Elections -><title>
+Arnab Bhattacharyya -><author>
+Department of Computer Science and -><affiliation>
+Automation -><author>
+Indian Institute of Science, Bangalore, India. -><affiliation>
+arnabb@csa.iisc.ernet.in -><email>
+Palash Dey -><author>
+Department of Computer Science and -><affiliation>
+Automation -><author>
+Indian Institute of Science, Bangalore, India. -><affiliation>
+palash@csa.iisc.ernet.in -><email>

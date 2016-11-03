@@ -1,0 +1,6 @@
+Local -><title>
+Olivier -><author>
+ENSAE-Supaero -><author>
+2, -><pubnum>
+31055 -><pubnum>
+olivier.bonnet@onera.fr -><email>

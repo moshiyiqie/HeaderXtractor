@@ -1,0 +1,14 @@
+Development of a Graduate -><title>
+Software Project Management Degree -><title>
+Chlotia P. Garrison -><author>
+Winthrop University -><affiliation>
+316 Thurmond Building -><address>
+Rock Hill, SC 29733 -><address>
+803-323-2470 -><phone>
+garrisonc@winthrop.edu -><email>
+R. Stephen Dannelly -><author>
+Winthrop University -><affiliation>
+315 Thurmond Building -><address>
+Rock Hill, SC 29733 -><address>
+803-323-4811 -><phone>
+dannellys@winthrop.edu -><email>

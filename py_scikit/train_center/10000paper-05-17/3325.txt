@@ -1,0 +1,26 @@
+Cloud Display -><title>
+Yutaka Tokuda -><title>
+Yasuhiro Suzuki -><title>
+Kunihiro Nishimura -><author>
+The University of Tokyo -><affiliation>
+The University of Tokyo -><affiliation>
+The University of Tokyo -><affiliation>
+7-3-1, Hongo, Bunkyo-ku, -><address>
+4-6-1, Komaba, Meguro -><address>
+4-6-1, Komaba, Meguro -><address>
+Tokyo, Japan, 153-8904 -><address>
+Tokyo,Japan,153-8904 -><address>
+Tokyo,Japan,113-8656 -><address>
+ytokuda@cyber.t.u-tokyo.ac.jp -><email>
+yasusay@sa3.so-net.ne.jp -><email>
+kuni@cyber.t.u-tokyo.ac.jp -><email>
+Tomohiro Tanikawa -><degree>
+Michitaka Hirose -><degree>
+The University of Tokyo -><affiliation>
+The University of Tokyo -><affiliation>
+7-3-1, Hongo, Bunkyo-ku, -><address>
+7-3-1, Hongo, Bunkyo-ku, -><address>
+Tokyo, Japan, 113-8656 -><address>
+Tokyo,Japan,113-8656 -><address>
+tani@cyber.t.u-tokyo.ac.jp -><email>
+hirose@cyber.t.u-tokyo.ac.jp -><email>

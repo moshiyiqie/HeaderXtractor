@@ -1,0 +1,5 @@
+AMELI: An Agent-based Middleware for Electronic Institutions∗ -><title>
+Marc Esteva, Bruno Rosell, Juan A. Rodrı´guez-Aguilar, Josep Ll. Arcos -><author>
+IIIA-CSIC, Campus UAB -><affiliation>
+08193 Bellaterra, Barcelona, Spain -><address>
+{marc,rosell,jar,arcos}@iiia.csic.es -><email>

@@ -1,0 +1,7 @@
+Design and Implementation of a -><title>
+Language-Complete C++ Semantic Graph -><title>
+Edward B. Duffy and Brian A. Malloy -><author>
+School of Computing -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634, USA -><address>
+{eduffy,malloy}@cs.clemson.edu -><email>

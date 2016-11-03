@@ -1,0 +1,12 @@
+Short Sight in Extensive Games -><title>
+Davide Grossi -><author>
+University of Liverpool -><affiliation>
+Department of Computer Science -><affiliation>
+Ashton Street, Liverpool, L69 3BX, UK -><address>
+d.grossi@liverpool.ac.uk -><email>
+Paolo Turrini -><author>
+University of Luxembourg -><affiliation>
+Computer Science and Communication -><affiliation>
+6, rue Richard Coudenhove - Kalergi, -><address>
+Luxembourg L-1359, Luxembourg -><address>
+paolo.turrini@uni.lu -><email>

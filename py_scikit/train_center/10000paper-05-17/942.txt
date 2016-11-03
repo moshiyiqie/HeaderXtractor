@@ -1,0 +1,14 @@
+Capturing and Generating Social Behavior with -><title>
+The Restaurant Game -><title>
+Jeff Orkin -><author>
+MIT Media Laboratory -><affiliation>
+75 Amherst Street, E14-574M -><address>
+Cambridge, MA 02139 -><address>
++1 (617)253-1908 -><phone>
+jorkin@media.mit.edu -><email>
+Deb K. Roy -><author>
+MIT Media Laboratory -><affiliation>
+75 Amherst Street, E14-574G -><address>
+Cambridge, MA 02139 -><address>
++1 (617)253-0596 -><phone>
+dkroy@media.mit.edu -><email>

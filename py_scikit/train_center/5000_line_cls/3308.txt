@@ -1,0 +1,13 @@
+Policy Transfer using Reward Shaping -><title>
+Tim Brys -><author>
+Vrije Universiteit Brussel -><affiliation>
+timbrys@vub.ac.be -><email>
+Anna Harutyunyan -><author>
+Vrije Universiteit Brussel -><affiliation>
+aharutyu@vub.ac.be -><email>
+Matthew E. Taylor -><author>
+Washington State University -><affiliation>
+taylorm@eecs.wsu.edu -><email>
+Ann Nowé -><author>
+Vrije Universiteit Brussel -><affiliation>
+anowe@vub.ac.be -><email>

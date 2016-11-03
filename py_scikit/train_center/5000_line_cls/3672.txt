@@ -1,0 +1,23 @@
+The Intelligent Street: responsive sound environments for -><title>
+social interaction -><title>
+Henrik Lo¨rstad -><author>
+Sonic Studio -><affiliation>
+Interactive Institute -><affiliation>
+Sonic Acusticum 4 -><address>
+941 28 Pitea˚ -><address>
+Sweden -><address>
+henrik.lorstad@tii.se -><email>
+John Eacott -><author>
+University of Westminster -><affiliation>
+Department of Music -><affiliation>
+Harrow Campus -><address>
+London HA1 -><address>
+United Kingdom -><address>
+eacottj@wmin.ac.uk -><email>
+Mark d’Inverno -><author>
+University of Westminster -><affiliation>
+School of Computer Science -><affiliation>
+115 New Cavendish Street -><address>
+London W1M 8UW -><address>
+United Kingdom -><address>
+dinverm@wmin.ac.uk -><email>

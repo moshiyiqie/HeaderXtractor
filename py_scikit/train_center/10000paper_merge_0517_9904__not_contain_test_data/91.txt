@@ -1,0 +1,11 @@
+Group Delegation and Responsibility -><title>
+Timothy J. Norman -><author>
+Department of Computing Science, -><affiliation>
+University of Aberdeen, -><affiliation>
+Aberdeen, AB24 3UE, Scotland, U.K. -><address>
+tnorman@csd.abdn.ac.uk -><email>
+Chris Reed -><author>
+Department of Applied Computing, -><affiliation>
+University of Dundee, -><affiliation>
+Dundee, DD1 4HN, Scotland, U.K. -><address>
+chris@computing.dundee.ac.uk -><email>

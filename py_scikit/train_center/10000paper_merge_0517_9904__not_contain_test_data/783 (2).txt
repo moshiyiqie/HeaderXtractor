@@ -1,0 +1,6 @@
+Naming Services in Multi-Agent Systems: A Design for Agent-based White Pages -><title>
+Todd Wright -><author>
+BBN Technologies -><affiliation>
+10 Moulton Street -><address>
+Cambridge, MA 02138, USA -><address>
+twright@bbn.com -><email>

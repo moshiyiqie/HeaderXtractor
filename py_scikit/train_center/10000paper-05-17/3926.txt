@@ -1,0 +1,7 @@
+Search Solutions for an Intranet -><title>
+Niveditha Thagarapu, Tilak Mulukalapally, Sachin Lad, Randy K. Smith -><author>
+The University of Alabama -><affiliation>
+Department of Computer Science -><affiliation>
+Box 870290 -><address>
+Tuscaloosa, Al 35487 -><address>
+{nthagarapu, mtilak, rsmith, slad}@cs.ua.edu -><email>

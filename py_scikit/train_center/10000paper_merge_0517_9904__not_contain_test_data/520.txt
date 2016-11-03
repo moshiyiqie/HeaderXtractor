@@ -1,0 +1,8 @@
+Using Dynamic Proxy Agent Replicate Groups to Improve -><title>
+Fault-Tolerance in Multi-Agent Systems -><title>
+Alan Fedoruk, Ralph Deters -><author>
+Computer Science Department -><affiliation>
+University of Saskatchewan -><affiliation>
+Saskatoon, SK, S7N 5A9 Canada -><address>
+Phone: 1-306-966-2073 -><phone>
+{amf673, deters}@cs.usask.ca -><email>

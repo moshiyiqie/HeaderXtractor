@@ -1,0 +1,5 @@
+Exploring Scalability of Character-based Storytelling -><title>
+Fred Charles and Marc Cavazza -><author>
+School of Computing, University of Teesside -><affiliation>
+Middlesbrough TS1 3BA, United Kingdom -><address>
+{f.charles, m.o.cavazza}@tees.ac.uk -><email>

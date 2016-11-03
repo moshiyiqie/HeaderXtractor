@@ -1,0 +1,13 @@
+Object-Oriented Behavioral Testing Through Trace -><title>
+Generation -><title>
+∗ -><title>
+B. Belkhouche -><author>
+EECS Department -><affiliation>
+Tulane University -><affiliation>
+New Orleans, LA 70118 -><address>
+bb@eecs.tulane.edu -><email>
+Anastasia Tircuit -><author>
+EECS Department -><affiliation>
+Tulane University -><affiliation>
+New Orleans, LA 70118 -><address>
+tircuit@eecs.tulane.edu -><email>

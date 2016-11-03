@@ -1,0 +1,7 @@
+Optimal Decentralised Dispatch of Embedded Generation -><title>
+in the Smart Grid -><title>
+Sam Miller, Sarvapali D. Ramchurn, Alex Rogers -><author>
+Agents, Interaction and Complexity Group -><affiliation>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton, UK -><affiliation>
+{sjom106,sdr,acr}@ecs.soton.ac.uk -><email>

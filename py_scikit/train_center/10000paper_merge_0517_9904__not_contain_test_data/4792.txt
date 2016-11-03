@@ -1,0 +1,8 @@
+A Relational Trace Logic for -><title>
+Simple Hierarchical Actor-Based Component Systems -><title>
+Ilham W. Kurnia -><author>
+Arnd Poetzsch-Heffter -><author>
+University of Kaiserslautern -><affiliation>
+University of Kaiserslautern -><affiliation>
+ilham@cs.uni-kl.de -><email>
+poetzsch@cs.uni-kl.de -><email>

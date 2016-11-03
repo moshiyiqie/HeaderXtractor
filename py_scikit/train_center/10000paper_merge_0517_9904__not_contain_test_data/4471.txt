@@ -1,0 +1,13 @@
+A Taste of Tweets: Reverse Engineering Twitter Spammers -><title>
+Jialong Zhang -><author>
+SUCCESS Lab -><affiliation>
+Texas A&M University -><affiliation>
+jialong@cse.tamu.edu -><email>
+Guofei Gu -><author>
+SUCCESS Lab -><affiliation>
+Texas A&M University -><affiliation>
+guofei@cse.tamu.edu -><email>
+Chao Yang -><author>
+SUCCESS Lab -><affiliation>
+Texas A&M University -><affiliation>
+yangchao@cse.tamu.edu -><email>

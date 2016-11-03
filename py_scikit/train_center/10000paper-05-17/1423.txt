@@ -1,0 +1,11 @@
+Efficient Crowdsourcing Contests -><title>
+Ruggiero Cavallo -><author>
+Yahoo! Research -><affiliation>
+111 West 40th Street -><address>
+New York, NY 10018 -><address>
+cavallo@yahoo-inc.com -><email>
+Shaili Jain -><author>
+Computer Science Department -><affiliation>
+Yale University -><affiliation>
+New Haven, CT 06520 -><address>
+shaili.jain@yale.edu -><email>

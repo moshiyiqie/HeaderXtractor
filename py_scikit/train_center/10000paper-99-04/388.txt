@@ -1,0 +1,10 @@
+Self-organising -><title>
+Vehicles -><title>
+Howard -><author>
+Peter -><author>
+1 -><pubnum>
+2 -><pubnum>
+Ageless -><unknow>
+Locked -><author>
+{howard.lovatt, -><email>
+peter.wang}@csiro.au -><email>

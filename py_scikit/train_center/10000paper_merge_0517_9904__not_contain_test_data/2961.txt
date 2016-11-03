@@ -1,0 +1,13 @@
+How Appearance of Robotic Agents Affects How People -><title>
+Seiji Yamada -><author>
+National Institute of Informatics -><affiliation>
+2-1-2 Hitotsubashi -><address>
+Tokyo 101-8430, Japan -><address>
++81-3-4212-2562 -><phone>
+seiji@nii.ac.jp -><email>
+Takanori Komatsu -><author>
+Future University-Hakodate -><affiliation>
+116-2 Kamedanakano -><address>
+Hakodate 041-8655, Japan -><address>
++81-138-34-6220 -><phone>
+komatsu@fun.ac.jp -><email>

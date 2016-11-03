@@ -1,0 +1,21 @@
+Instruction Embedding for Improved Obfuscation -><title>
+Michael Sharkey -><author>
+Center for Advanced -><affiliation>
+Computer Studies, University -><affiliation>
+of Louisiana at Lafayette -><affiliation>
+mxs6064@louisiana.edu -><email>
+Charles LeDoux -><author>
+Center for Advanced -><affiliation>
+Computer Studies, University -><affiliation>
+of Louisiana at Lafayette -><affiliation>
+cal@louisiana.edu -><email>
+Brandon Primeaux -><author>
+Center for Advanced -><affiliation>
+Computer Studies, University -><affiliation>
+of Louisiana at Lafayette -><affiliation>
+bmp7996@louisiana.edu -><email>
+Craig Miles -><author>
+Center for Advanced -><affiliation>
+Computer Studies, University -><affiliation>
+of Louisiana at Lafayette -><affiliation>
+csm9684@cacs.louisiana.edu -><email>

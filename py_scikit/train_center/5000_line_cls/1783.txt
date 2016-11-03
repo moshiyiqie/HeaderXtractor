@@ -1,0 +1,12 @@
+Inﬁnite order Lorenz dominance for -><title>
+fair multiagent optimization -><title>
+Boris Golden -><author>
+LIX -><affiliation>
+Ecole polytechnique -><affiliation>
+91128 Palaiseau Cedex, France -><address>
+boris.golden@polytechnique.edu -><email>
+Patrice Perny -><affiliation>
+LIP6-UPMC -><address>
+104 av du president Kennedy -><address>
+75016 Paris, France -><address>
+patrice.perny@lip6.fr -><email>

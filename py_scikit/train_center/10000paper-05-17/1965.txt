@@ -1,0 +1,7 @@
+Equilibrium Strategies for Multi-unit Sealed-bid Auctions -><title>
+with Multi-unit Demand Bidders -><title>
+Ioannis A. Vetsikas -><author>
+Institute of Informatics and Telecommunications, -><affiliation>
+National Center for Scientific Research (NCSR) “Demokritos” -><affiliation>
+P. Grigoriou and Neapoleos, Ag. Paraskevi, 15310 Attiki, Greece -><address>
+ivetsikas@iit.demokritos.gr -><email>

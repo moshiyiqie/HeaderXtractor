@@ -1,0 +1,8 @@
+An Argumentation-based Dialogue System for -><title>
+Human-Robot Collaboration -><affiliation>
+(Demonstration) -><unknow>
+Mohammad Q. Azhar1,2, Simon Parsons2,3, and Elizabeth Sklar2,3 -><author>
+1Borough of Manhattan Community College, -><affiliation>
+2The Graduate Center and 3Brooklyn College -><address>
+The City University of New York, New York, USA -><affiliation>
+mazhar@bmcc.cuny.edu,parsons@sci.brooklyn.cuny.edu,sklar@sci.brooklyn.cuny.edu -><email>

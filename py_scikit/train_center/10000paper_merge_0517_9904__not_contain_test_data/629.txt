@@ -1,0 +1,11 @@
+Domain independent learning of ontology mappings -><title>
+Floris Wiesman -><author>
+Department of Medical Informatics -><affiliation>
+Universiteit van Amsterdam -><affiliation>
+P.O.Box 22700, 1100 DE Amsterdam -><address>
+f.j.wiesman@amc.uva.nl -><email>
+Nico Roos -><author>
+IKAT -><affiliation>
+Universiteit Maastricht -><affiliation>
+P.O.Box 616, 6200 MD Maastricht -><address>
+roos@cs.unimaas.nl -><email>

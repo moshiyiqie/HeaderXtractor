@@ -1,0 +1,13 @@
+Decentralized Resource Control for Multi-Agent Systems -><title>
+Gul A. Agha -><author>
+Department of Computer Science -><affiliation>
+University of Illinois -><affiliation>
+201 N. Goodwin Avenue -><address>
+Urbana, IL 61801, USA -><address>
+agha@cs.uiuc.edu -><email>
+Nadeem Jamali, Indratmo, Xinghui Zhao -><author>
+Department of Computer Science -><affiliation>
+University of Saskatchewan -><affiliation>
+57 Campus Drive -><address>
+Saskatoon, SK, S7N 5A9, Canada -><address>
+{n.jamali, j.indratmo, x.zhao} @usask.ca -><email>

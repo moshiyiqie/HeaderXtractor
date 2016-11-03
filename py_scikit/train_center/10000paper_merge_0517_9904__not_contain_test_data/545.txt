@@ -1,0 +1,9 @@
+Towards automated procurement via agent-aware negotiation support∗ -><title>
+A. Giovannucci, J. A. Rodrı´guez-Aguilar -><author>
+IIIA-CSIC, Campus UAB -><affiliation>
+08193 Bellaterra, Barcelona, Spain -><address>
+{andrea,jar}@iiia.csic.es -><email>
+A. Reyes, F. X. Noria, J. Cerquides -><author>
+Intelligent Software Components, S. A. -><affiliation>
+08190 Sant Cugat del Valle`s, Barcelona, Spain -><address>
+{toni,fxn,cerquide}@isoco.com -><email>

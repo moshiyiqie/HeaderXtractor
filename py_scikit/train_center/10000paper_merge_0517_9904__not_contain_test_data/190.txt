@@ -1,0 +1,11 @@
+Agent Negotiation as Proof Search in Linear Logic -><title>
+James Harland -><author>
+jah@cs.rmit.edu.au -><email>
+Michael Winikoff -><author>
+winikoff@cs.rmit.edu.au -><email>
+RMIT University -><affiliation>
+Melbourne, AUSTRALIA -><address>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence— -><note>
+Intelligent agents, Multiagent systems; F.4.1 [Mathematical Logic -><note>
+and Formal Languages]: Mathematical Logic -><note>

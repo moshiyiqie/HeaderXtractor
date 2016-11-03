@@ -1,0 +1,5 @@
+Dispersion and Exploration for Robot Teams -><title>
+Elizabeth A. Jensen -><author>
+Department of Computer Science and Engineering, University of Minnesota -><affiliation>
+4-192 Keller Hall, 200 Union St SE, Minneapolis, MN 55455 -><address>
+ejensen@cs.umn.edu -><email>

@@ -1,0 +1,12 @@
+Pitfalls in designing and selling UX: Cases in MEI -><title>
+Hanna-Riikka Sundberg -><author>
+Tampere University of Technology -><affiliation>
+P.O. Box 541 -><address>
+Tampere University of Technology -><affiliation>
+P.O. Box 541 -><address>
+FI-33101 Tampere -><address>
++358 40 588 4080 -><phone>
+marko.seppanen@tut.fi -><email>
+FI-33101 Tampere -><pubnum>
++358 40 1981 550 -><pubnum>
+hanna-riikka.sundberg@tut.fi -><email>

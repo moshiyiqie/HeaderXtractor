@@ -1,0 +1,7 @@
+JSand: Complete Client-Side Sandboxing of Third-Party -><title>
+JavaScript without Browser Modiﬁcations -><title>
+Pieter Agten†, Steven Van Acker†, Yoran Brondsema†, Phu H. Phung‡, -><author>
+Lieven Desmet†, Frank Piessens† -><author>
+{pieter.agten,steven.vanacker}@cs.kuleuven.be -><email>
+†IBBT-DistriNet, KU Leuven, 3001 Leuven, Belgium -><address>
+‡ProSec Security Group, Chalmers University of Technology, Gothenburg, Sweden -><affiliation>

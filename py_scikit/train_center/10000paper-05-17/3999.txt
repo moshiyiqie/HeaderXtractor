@@ -1,0 +1,11 @@
+Distance- and Curvature-Constrained Shortest Paths and -><title>
+an Application in Mission Planning∗ -><title>
+Greg Angelides -><author>
+MIT Lincoln Laboratory -><affiliation>
+Lexington, MA, 02420, USA -><address>
+Nader Razouk -><author>
+Emory University -><affiliation>
+Atlanta, GA, 30322, USA -><address>
+Andre´ Berger -><author>
+Emory University -><affiliation>
+Atlanta, GA, 30322, USA -><address>

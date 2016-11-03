@@ -1,0 +1,6 @@
+Development of Tools to Manage Embedded SQL -><title>
+Zachary Smith -><author>
+University of Alabama -><affiliation>
+Box 870290 -><address>
+Tuscaloosa, AL 35487 -><address>
+Smith082@crimson.ua.edu -><email>

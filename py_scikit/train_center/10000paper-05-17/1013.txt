@@ -1,0 +1,7 @@
+Evolving Policy Geometry for Scalable Multiagent Learning -><title>
+David B. D’Ambrosio, Joel Lehman, Sebastian Risi, and Kenneth O. Stanley -><author>
+School of Electrical Engineering and Computer Science -><affiliation>
+University of Central Florida -><affiliation>
+4000 Central Florida Blvd. -><address>
+Orlando, FL 32816-2362 USA -><address>
+<ddambro,jlehman,risi,kstanley>@eecs.ucf.edu -><email>

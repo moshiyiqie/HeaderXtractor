@@ -1,0 +1,16 @@
+Negotiation-based Price Discrimination for Information Goods -><title>
+Avigdor Gal -><author>
+Technion, Israel Institute of -><affiliation>
+Technology -><affiliation>
+Haifa 32000, ISRAEL -><address>
+avigal@ie.technion.ac.il -><email>
+Onn Shehory -><author>
+IBM Haifa Research Lab, -><affiliation>
+Haifa University -><affiliation>
+Haifa 31905, ISRAEL -><address>
+onn@il.ibm.com -><email>
+Gabi Koifman -><author>
+Technion, Israel Institute of -><affiliation>
+Technology -><affiliation>
+Haifa 32000, ISRAEL -><address>
+kgabi@tx.technion.ac.il -><email>

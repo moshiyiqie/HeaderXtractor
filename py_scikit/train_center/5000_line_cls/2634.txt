@@ -1,0 +1,9 @@
+Towards “Live” Synthetic Populations for Large-scale -><title>
+Realistic Multiagent Simulations -><title>
+(Doctoral Consortium) -><title>
+Nidhi Parikh -><author>
+Network Dynamics and Simulation Science Lab, -><affiliation>
+Virginia Bioinformatics Institute, -><affiliation>
+Virginia Tech, -><address>
+Blacksburg, VA, USA -><address>
+nidhip@vbi.vt.edu -><email>

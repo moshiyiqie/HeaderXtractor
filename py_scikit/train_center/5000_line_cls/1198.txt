@@ -1,0 +1,13 @@
+Mechanism Design and Deliberative Agents -><title>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+USA -><address>
+sandholm@cs.cmu.edu -><email>
+Kate Larson -><author>
+School of Computer Science -><affiliation>
+University of Waterloo -><affiliation>
+Waterloo, ON N2L 3G1 -><address>
+Canada -><address>
+klarson@cs.uwaterloo.ca -><email>

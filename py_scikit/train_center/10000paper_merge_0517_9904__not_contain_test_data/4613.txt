@@ -1,0 +1,10 @@
+Blended Dictionaries for Reduced-Memory -><title>
+Lempel-Ziv Corpus Compression -><title>
+Justin Zobel‡ -><author>
+jzobel@unimelb.edu.au -><email>
+Jiancong Tong†‡ -><author>
+jctong@nbjl.nankai.edu.cn -><email>
+Anthony Wirth‡ -><author>
+awirth@unimelb.edu.au -><email>
+†College of Computer and Control Engineering, Nankai University, China -><affiliation>
+‡Department of Computing and Information Systems, The University of Melbourne, Australia -><affiliation>

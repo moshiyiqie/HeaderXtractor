@@ -1,0 +1,22 @@
+CALU: Collision Avoidance with Localization Uncertainty -><title>
+(Demonstration) -><title>
+Karl Tuyls -><author>
+Maastricht University -><affiliation>
+P.O. Box 616, 6200MD -><address>
+Maastricht, The Netherlands -><address>
+k.tuyls@maastrichtuniversity.nl -><affiliation>
+Daniel Hennes -><author>
+Maastricht University -><affiliation>
+P.O. Box 616, 6200MD -><address>
+Maastricht, The Netherlands -><address>
+daniel.hennes@gmail.com -><email>
+Daniel Claes -><author>
+Maastricht University -><affiliation>
+P.O. Box 616, 6200MD -><address>
+Maastricht, The Netherlands -><address>
+danielclaes@me.com -><email>
+Wim Meeussen -><author>
+Willow Garage -><affiliation>
+68 Willow Rd., Menlo Park -><address>
+CA 94025, USA -><address>
+meeussen@willowgarage.com -><email>

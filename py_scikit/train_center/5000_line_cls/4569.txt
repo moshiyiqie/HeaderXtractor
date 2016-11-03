@@ -1,0 +1,16 @@
+The Development of a Voice System That -><title>
+Interacts With a Student Information Database -><title>
+Yifang Gu -><author>
+Juan E. Gilbert -><author>
+Auburn University -><affiliation>
+Auburn University -><affiliation>
+Computer Science and Software Engineering -><affiliation>
+Computer Science and Software Engineering -><affiliation>
+107 Dunstan Hall -><address>
+107 Dunstan Hall -><address>
+Auburn, AL 36849-5347 USA -><address>
+Auburn, AL 36849-5347 USA -><address>
+(334) 844-7001 -><phone>
+(334) 844-3616 -><phone>
+guyifan@auburn.edu -><email>
+gilbert@eng.auburn.edu -><email>

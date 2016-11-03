@@ -1,0 +1,7 @@
+On the advantage of time-varying diversity of workload on -><title>
+functionally asymmetric multi-core -><title>
+Alexandre Aminot† Yves Lhuillier† Alain Chateigner† -><author>
+†CEA, LIST, F-91191 Gif-sur-Yvette, France. -><address>
+‡CEA, LIST, Minatec campus, F-38054 Grenoble, France. -><address>
+firstname.lastname@cea.fr -><email>
+Henri-Pierre Charles‡ -><unknow>

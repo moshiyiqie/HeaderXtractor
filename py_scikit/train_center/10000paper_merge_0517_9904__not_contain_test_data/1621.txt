@@ -1,0 +1,7 @@
+A Development Environment for Engineering Intelligent -><title>
+Avatars for Semantically-enhanced Simulated Realities -><title>
+(Demonstration) -><title>
+Stefan Warwas, Matthias Klusch, Klaus Fischer, Philipp Slusallek -><author>
+German Research Center for Artificial Intelligence -><affiliation>
+Campus D3_2, 66123 Saarbrücken, Germany -><address>
+{firstname.surename}@dfki.de -><email>

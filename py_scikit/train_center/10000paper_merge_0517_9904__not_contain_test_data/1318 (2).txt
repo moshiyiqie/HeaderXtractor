@@ -1,0 +1,17 @@
+Cooperative Multi-Agent Intelligent Field Terminals -><title>
+Juichi Kosakaya -><author>
+Hitachi Engineering Co., Ltd. -><email>
+Senior Engineer, Professional Engineer -><affiliation>
+5-1-26 Omika-cho, Hitachi-shi, -><address>
+Ibaraki-ken, 319-1221 Japan -><address>
+Tel: +81-294-52-8571 -><phone>
+Fax: +81-294-53-7785 -><phone>
+E-mail: kosakaya@esg.hitachi-hec.co.jp -><email>
+Katsunori Yamaoka -><author>
+National Institute of Multimedia Education -><affiliation>
+Associate Professor -><address>
+2-12 Wakaba-cho, Mihama-ku, Chiba-shi, -><address>
+Chiba-ken, 261-0014 Japan -><address>
+Tel: +81-43-298-3213 -><phone>
+Fax: +81-43-298-3778 -><phone>
+E-mail: yamaoka@nime.ac.jp -><email>

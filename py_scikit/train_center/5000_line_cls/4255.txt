@@ -1,0 +1,11 @@
+Teaching Model-Driven Software Development: Revealing the -><title>
+Andreas Schmidt1,2 Daniel Kimmig2 Klaus Bittner2 Markus Dickerhof2 -><author>
+1 -><pubnum>
+Department of Informatics and Business Information Systems -><affiliation>
+Karlsruhe University of Applied Sciences -><affiliation>
+PO Box 2440, 76012 Karlsruhe, Germany -><address>
+andreas.schmidt@hs-karlsruhe.de -><email>
+2 -><phone>
+Institute of Applied Computer Sciences -><affiliation>
+Karlsruhe Institute of Technology -><affiliation>
+PO Box 3640, 76021 Karlsruhe, Germany -><address>

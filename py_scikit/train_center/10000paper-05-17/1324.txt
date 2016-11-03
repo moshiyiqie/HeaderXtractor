@@ -1,0 +1,6 @@
+Computing Time-Dependent Policies for Patrolling Games -><title>
+with Mobile Targets -><title>
+Branislav Bošanský, Viliam Lisý, Michal Jakob, Michal Peˇchoucˇek -><author>
+Agent Technology Center, Dept. of Cybernetics, FEE, Czech Technical University -><affiliation>
+Technická 2, 16627 Prague 6, Czech Republic -><address>
+{bosansky, lisy, jakob, pechoucek}@agents.felk.cvut.cz -><email>

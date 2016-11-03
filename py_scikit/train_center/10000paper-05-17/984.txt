@@ -1,0 +1,6 @@
+Minimal Retentive Sets in Tournaments -><title>
+Felix Brandt Markus Brill Felix Fischer Paul Harrenstein -><author>
+Institut für Informatik -><affiliation>
+Ludwig-Maximilians-Universität München -><affiliation>
+80538 München, Germany -><address>
+{brandtf,brill,ﬁscherf,harrenst}@tcs.iﬁ.lmu.de -><email>

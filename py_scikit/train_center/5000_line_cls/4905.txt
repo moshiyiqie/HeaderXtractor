@@ -1,0 +1,16 @@
+Pipelining of Double Precision Floating Point Division and -><title>
+Square Root Operations -><title>
+Anuja Jayraj Thakkar -><author>
+University of Central Florida -><affiliation>
+Dept. of Electrical and Computer Engineering -><affiliation>
+4000 Central Florida Blvd. -><address>
+Orlando, Florida 32816 -><address>
+(001) 407-823-0857 -><phone>
+an395905@pegasus.cc.ucf.edu -><email>
+Abdel Ejnioui -><author>
+University of South Florida -><affiliation>
+Dept. of Information Technology -><affiliation>
+3433 Winter Lake Road -><address>
+Lakeland, Florida 33803 -><address>
+(001) 863-667-7708 -><phone>
+aejnioui@lakeland.usf.edu -><email>

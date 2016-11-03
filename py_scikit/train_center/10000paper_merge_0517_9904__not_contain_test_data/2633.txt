@@ -1,0 +1,18 @@
+Practical Run-Time Norm Enforcement with Bounded -><title>
+Lookahead -><title>
+Mehdi Dastani -><author>
+Universiteit Utrecht -><affiliation>
+Utrecht, The Netherlands -><address>
+M.M.Dastani@uu.nl -><email>
+Nils Bulling -><author>
+Delft University of Technology -><affiliation>
+Delft, The Netherlands -><address>
+n.bulling@tudelft.nl -><email>
+Natasha Alechina -><author>
+University of Nottingham -><affiliation>
+Nottingham, UK -><address>
+nza@cs.nott.ac.uk -><email>
+Brian Logan -><author>
+University of Nottingham -><affiliation>
+Nottingham, UK -><address>
+bsl@cs.nott.ac.uk -><email>

@@ -1,0 +1,8 @@
+Effectiveness of Query Types and Policies for Preference Elicitation in -><title>
+Combinatorial Auctions ∗ -><title>
+Benoıˆt Hudson Tuomas Sandholm -><author>
+Carnegie Mellon University -><affiliation>
+Computer Science Department -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+{bhudson,sandholm}@cs.cmu.edu -><email>

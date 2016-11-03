@@ -1,0 +1,9 @@
+Agents and the Algebra of Emotion -><title>
+S.S. Nemani ∗ -><author>
+Dept of Computer Science, Utah State Univ. -><affiliation>
+Logan, UT 84322-4205 -><address>
+ssnemani@cc.usu.edu -><email>
+V.H. Allan -><author>
+Dept of Computer Science, Utah State Univ. -><affiliation>
+Logan, UT 84322-4205 -><address>
+allanv@cs.usu.edu -><email>

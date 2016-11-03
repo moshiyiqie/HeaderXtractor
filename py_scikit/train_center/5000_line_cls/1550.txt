@@ -1,0 +1,12 @@
+Supporting Prenatal Care in the Public Healthcare System -><title>
+in a Newly Industrialized Country -><title>
+Ingrid Nunes1, Ricardo Choren1,2, Camila Nunes1, Bruno Fábri1,3, -><author>
+Fernando Silva1,3, Gustavo Carvalho1,3, Carlos J.P. de Lucena1 -><author>
+1Pontiﬁcal Catholic University of Rio de Janeiro (PUC-Rio), Software Engineering Laboratory (LES) -><affiliation>
+Rio de Janeiro, Brazil -><address>
+{ionunes,cnunes,lucena}@inf.puc-rio.br, {bfabri,fernd,guga}@les.inf.puc-rio.br -><email>
+2Military Engineering Institute (IME) -><affiliation>
+Rio de Janeiro, Brazil -><address>
+choren@ime.eb.br -><email>
+3Prime UP – Quality in Software Engineering -><note>
+Rio de Janeiro, Brazil -><note>

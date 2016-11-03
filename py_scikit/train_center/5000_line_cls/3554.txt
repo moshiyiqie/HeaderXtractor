@@ -1,0 +1,34 @@
+Future of crowdsourcing and value creation in different -><title>
+media environments -><title>
+Jari Jussila -><author>
+Tampere University of Technology -><affiliation>
+P.O. Box 541 -><address>
+FIN-33101 Tampere -><address>
+jari.j.jussila@tut.fi -><email>
+Pia Erkinheimo -><author>
+DIGILE Oy -><affiliation>
+Vaisalantie 6 -><address>
+FIN-02130 Espoo -><address>
+pia.erkinheimo@digile.fi -><email>
+Tampere University of Technology -><affiliation>
+P.O. Box 541 -><address>
+FIN-33101 Tampere -><address>
+hannu.karkkainen@tut.fi -><email>
+Markus Myhrberg -><author>
+Lexia Asianajotoimisto Oy -><degree>
+Kalevankatu 20 -><degree>
+Tom Laine -><degree>
+Innopinion Ltd Oy -><affiliation>
+Nahkatehtaankatu 2 -><address>
+FIN-90100 Oulu -><address>
+tom.laine@innopinion.com -><email>
+Janne Ruohisto -><email>
+Intunex Oy -><note>
+Korkeavuorenkatu 2 b B 11 -><intro>
+FIN-00101 Helsinki -><pubnum>
+janne.ruohisto@intunex.fi -><email>
+Mika Rautiainen -><author>
+University of Oulu -><affiliation>
+P.O. Box 4500 -><address>
+FIN-90014 Oulu -><address>
+mika.rautiainen@ee.oulu.fi -><email>

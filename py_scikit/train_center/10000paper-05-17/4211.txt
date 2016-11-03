@@ -1,0 +1,19 @@
+Server Computing -><title>
+Joel Hollinsworth -><author>
+Elon University -><affiliation>
+Campus Box 2320 -><address>
+Elon, NC 27244 -><address>
+336-278-6241 -><phone>
+jhollingsworth@elon.edu -><email>
+David J. Powell -><author>
+Elon University -><affiliation>
+Campus Box 2320 -><address>
+Elon, NC 27244 -><address>
+336-278-6233 -><phone>
+dpowell2@elon.edu -><email>
+Shannon Duvall -><author>
+Elon University -><affiliation>
+Campus Box 2320 -><address>
+Elon, NC 27244 -><address>
+336-278-6232 -><phone>
+sduvall@elon.edu -><email>

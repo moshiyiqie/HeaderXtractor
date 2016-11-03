@@ -1,0 +1,9 @@
+Efficient Intent-Based Narrative Generation -><title>
+Using Multiple Planning Agents -><title>
+Jonathan Teutenberg -><author>
+Independent Researcher -><affiliation>
+jono.teutenberg@gmail.com -><email>
+Julie Porteous -><author>
+Teesside University -><affiliation>
+Middlesbrough, UK -><address>
+j.porteous@tees.ac.uk -><email>

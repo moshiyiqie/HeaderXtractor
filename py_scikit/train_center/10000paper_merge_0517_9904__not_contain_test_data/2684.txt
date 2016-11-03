@@ -1,0 +1,24 @@
+Effective Approximations for Multi-Robot Coordination in -><title>
+Spatially Distributed Tasks -><title>
+Daniel Claes -><author>
+University of Liverpool -><affiliation>
+dclaes@liverpool.ac.uk -><email>
+Frans A. Oliehoek -><author>
+University of Amsterdam -><affiliation>
+University of Liverpool -><affiliation>
+fao@liverpool.ac.uk -><email>
+Philipp Robbel -><author>
+Massachusetts Institute of -><affiliation>
+Technology -><affiliation>
+robbel@mit.edu -><email>
+Karl Tuyls -><author>
+University of Liverpool -><affiliation>
+k.tuyls@liverpool.ac.uk -><email>
+Daniel Hennes -><author>
+European Space Agency, -><affiliation>
+ESTEC -><affiliation>
+daniel.hennes@gmail.com -><email>
+Wiebe van der Hoek -><author>
+University of Liverpool -><affiliation>
+wiebe.van-der- -><email>
+hoek@liverpool.ac.uk -><email>

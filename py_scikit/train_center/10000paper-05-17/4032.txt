@@ -1,0 +1,8 @@
+A Comparison of Online and Offline Strategies -><title>
+for Program Adaptation -><title>
+Matthew Curtis-Maury1, Christos D. Antonopoulos2 and Dimitrios S. Nikolopoulos1 -><author>
+1Center for High-end Computing Systems 2 Department of Computer Science -><affiliation>
+Department of Computer Science The College of William and Mary -><author>
+Virginia Tech and Greek Armed Forces -><author>
+{mfcurt,dsn}@cs.vt.edu Division of Research and Informatics -><email>
+cda@cs.wm.edu -><email>

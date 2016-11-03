@@ -1,0 +1,34 @@
+Kenji Sugawara -><title>
+Dept. of Information and Network -><affiliation>
+Science, Chiba Institute of Technology -><affiliation>
+Design of An Agent-based Middleware for Job -><unknow>
+Matchmaking in Teleworking Community -><title>
+Yang Yu -><author>
+Undergraduate of Dept. of Information -><affiliation>
+and Network Science, Chiba Institute -><affiliation>
+of Technology -><affiliation>
+2-17-1, Tsudanuma -><address>
+Narashino,275-0016,Japan -><address>
++81-47-478-0289 -><phone>
+yu@suga.net.it-chiba.ac.jp -><email>
+Brian Ragsdale -><author>
+Allied Telesis Yamanashi R&D Center -><affiliation>
+Yamakou Bldg. 5F,1-1-8 Marunouchi, -><address>
+Koufu, 400-0031, Japan -><address>
++81-055-236-1610 -><phone>
+ragsdale@ati-rd.co.jp -><email>
+2-17-1, Tsudanuma -><address>
+Narashino,275-0016,Japan -><address>
++81-47-478-0289 -><phone>
+suga@net.it-chiba.ac.jp -><email>
+Tetsuo Kinoshita -><email>
+Information Synergy Center, Tohoku University -><affiliation>
+Hideki Hara -><author>
+Dept. of Information and Network Science, Chiba -><affiliation>
+Institute of Technology -><affiliation>
+2-1-1, Katahira, Aoba Ku, -><address>
+Senndai, 980-8577,Japan -><address>
+2-17-1, Tsudanuma -><address>
+Narashino,275-0016,Japan -><address>
++81-47-478-0289 -><phone>
+hara@net.it-chiba.ac.jp -><email>

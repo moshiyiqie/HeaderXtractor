@@ -1,0 +1,11 @@
+Automatic Ontology Mapping for Agent Communication -><title>
+P. Vogt -><author>
+F. Wiesman -><author>
+wiesman@cs.unimaas.nl -><email>
+IKAT, Universiteit Maastricht -><affiliation>
+N. Roos -><author>
+roos@cs.unimaas.nl -><email>
+P.O.Box 616 -><note>
+p.vogt@cs.unimaas.nl -><email>
+6200 MD Maastricht The -><affiliation>
+Netherlands -><address>

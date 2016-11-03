@@ -1,0 +1,22 @@
+An Excel Based Semantic Email System -><title>
+Rajesekhar Dandolu -><author>
+Andrew Ernest -><author>
+Guangming Xing -><author>
+Department of Computer Science -><affiliation>
+Western Kentucky University -><affiliation>
+1 Big Red Way -><address>
+Department of Computer Science -><affiliation>
+Western Kentucky University -><affiliation>
+1 Big Red Way -><address>
+Center for Water Resource Studies -><affiliation>
+Western Kentucky University -><affiliation>
+1 Big Red Way -><address>
+Bowling Green, KY 42101 -><address>
+Bowling Green, KY 42101 -><address>
+Bowling Green, KY 42101 -><address>
+270-745-8848 -><phone>
+270-535-7690 -><pubnum>
+270-745-8895 -><pubnum>
+guangming.xing@wku.edu -><email>
+rajesekhar.dandolu@wku.edu -><email>
+andrew.ernest@wku.edu -><email>

@@ -1,0 +1,18 @@
+C. M. Chewar -><author>
+Department of EECS -><affiliation>
+United States Military Academy -><affiliation>
+West Point, NY 10996 -><address>
++1 845 938 6911 -><phone>
+christa.chewar@usma.edu -><email>
+Charles J. Fowler -><author>
+Department of Computer Science -><affiliation>
+Gainesville College -><affiliation>
+Gainesville, GA 30503 -><address>
++1 770 718 3803 -><phone>
+cfowler@gc.peachnet.edu -><email>
+D. Scott McCrickard -><author>
+Department of Computer Science -><affiliation>
+Virginia Tech -><address>
+Blacksburg, VA 24061 -><address>
++1 540 231 6698 -><phone>
+mccricks@cs.vt.edu -><email>

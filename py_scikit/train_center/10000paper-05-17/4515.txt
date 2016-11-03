@@ -1,0 +1,19 @@
+Distributed Framework for Tele Health Monitoring System -><title>
+Nabendu Chaki -><author>
+Computer Science & Engineering -><affiliation>
+University of Calcutta -><affiliation>
+Kolkata, India -><address>
+Sugata Sanyal -><author>
+Tata Institute of Fundamental -><affiliation>
+Research -><affiliation>
+Mumbai, India -><address>
++912222782591, India -><address>
+sanyal@tifr.res.in -><email>
+Bidyut Biman Sarkar -><author>
+Master In Computer Application -><degree>
+Techno India Saltlake -><affiliation>
+Kokata, India -><address>
++919230099359, India -><address>
+bidyutbiman@gmail.com -><email>
++919433068073, India -><date>
+nabendu@ieee.org -><email>

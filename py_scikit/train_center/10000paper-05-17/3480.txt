@@ -1,0 +1,14 @@
+PlaceMap: Discovering Human Places of Interest Using -><title>
+Low-Energy Location Interfaces on Mobile Phones -><title>
+Kuldeep Yadav -><author>
+Xerox Research Centre, India -><affiliation>
+kuldeep.r@xerox.com -><email>
+Vinayak Naik -><affiliation>
+IIIT-Delhi, India -><address>
+naik@iiitd.ac.in -><email>
+Abhishek Kumar -><affiliation>
+IIIT-Delhi, India -><address>
+abhishek1202@iiitd.ac.in -><email>
+Prateek Jassal -><affiliation>
+IIIT-Delhi, India -><address>
+prateek1270@iiitd.ac.in -><email>

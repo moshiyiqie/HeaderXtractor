@@ -1,0 +1,14 @@
+The Teaching of Novice Computer Programmers: -><title>
+Bringing the Scholarly-Research Approach to Australia -><author>
+Faculty of Information Technology -><affiliation>
+University of Technology, Sydney -><address>
+Australia -><address>
+{jenny,raymond}@it.uts.edu.au -><email>
+Auckland University of Technology -><affiliation>
+New Zealand -><address>
+{tony.clear,jacqueline.whalley}@aut.ac.nz -><email>
+New Zealand -><author>
+University of California, San Diego -><affiliation>
+La Jolla, CA USA 92093 -><address>
+bsimon@cs.ucsd.edu -><email>
+kiwiet@computer.org -><email>

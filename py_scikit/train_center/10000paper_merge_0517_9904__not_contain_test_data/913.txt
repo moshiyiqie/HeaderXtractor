@@ -1,0 +1,8 @@
+Multi-Agent Coordination and Control System for Multi- -><title>
+Vehicle Agricultural Operations -><title>
+Osman Ali a,b, Bart Saint Germain a, Jan Van Belle a, Paul Valckenaers a, -><author>
+Hendrik Van Brussel a, Johan Van Noten b -><author>
+a Department of Mechanical Engineering, Katholieke Universiteit Leuven, Belgium -><affiliation>
+b Flanders Mechatronics Technology Centre, Leuven, Belgium -><affiliation>
+{osman.ali, bart.saintgermain}@mech.kuleuven.be -><email>
+ -><phone>

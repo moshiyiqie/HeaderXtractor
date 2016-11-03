@@ -1,0 +1,7 @@
+A biologically inspired robotic model for learning by -><title>
+imitation. -><title>
+Aude Billard and Maja J. Matari6 -><author>
+Computer Science Department -><affiliation>
+University of Southern California -><affiliation>
+Los Angeles, California 90089-0781 -><address>
+[billard,mataric] @ usc.edu -><email>

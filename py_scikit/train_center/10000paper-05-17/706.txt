@@ -1,0 +1,19 @@
+Automated Semantic Web Service Discovery with -><title>
+OWLS-MX ∗ -><title>
+Benedikt Fries -><title>
+Katia Sycara -><title>
+Matthias Klusch, -><author>
+Carnegie Mellon University -><affiliation>
+Robotics Institute -><affiliation>
+Pittsburgh PA, USA -><address>
+katia+@cs.cmu.edu -><email>
+German Research Center for -><affiliation>
+Artificial Intelligence -><affiliation>
+Multiagent Systems Group -><affiliation>
+Saarbruecken, Germany -><address>
+klusch@dfki.de -><email>
+University of the Saarland -><affiliation>
+Computer Science -><affiliation>
+Department -><affiliation>
+Saarbruecken, Germany -><address>
+Develin@gmx.de -><email>

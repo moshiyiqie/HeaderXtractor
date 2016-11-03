@@ -1,0 +1,34 @@
+Multi-agent Reinforcement Learning for Planning and -><title>
+Conflict Resolution in a Dynamic Domain -><title>
+Sachiyo Arai Katia Sycara -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue Pittsburgh, PA 15213 USA -><address>
++1 (412) 268 7019 -><phone>
+{sachiyo, katia} @ cs.cmu.edu -><email>
+1. Problem Domain and Approach -><abstract>
+We present an approach known as Profit-sharing that allows -><abstract>
+agents to learn effective behaviors within dynamic and multi- -><abstract>
+agent environments, where the agents are competitive and may -><abstract>
+have to face resource conflicts, perceptual aliasing and uncertainty -><abstract>
+of other agents' intentions. A dynamic domain based on a NEO -><abstract>
+(non-combatant evacuation operation) is described. -><abstract>
+1.1 Problem Domain -><abstract>
+Non-combatant evacuation operations, or NEOs, have been used -><abstract>
+to test a variety of coordination strategies. Though real-world -><abstract>
+NEOs have many constraint and resource conflicts, the domain -><abstract>
+used in this study models multiple transportation vehicles which -><abstract>
+transfer groups of evacuees to safe shelters. Each transport is -><abstract>
+operated asynchronously by an autonomous agent, which makes -><abstract>
+its own decision based on locally available information. -><affiliation>
+The Neo domain consists of a grid world with multiple transporter -><abstract>
+agents, each of which carries a group of evacuees. The goal of a -><abstract>
+transporter agent is to ferry its group to one of the shelters as -><abstract>
+quickly as possible. However, there may be conflicts, as -><abstract>
+transporters cannot co-exist in the same location at the same time -><abstract>
+(Figure la). In addition, the location of the shelters changes over -><abstract>
+the time. In dynamic domains such as this, agents should exhibit -><abstract>
+reactive behaviors rather than deliberative ones. We claim that -><abstract>
+the only effective approach is to learn reactive behaviors through -><abstract>
+trial and error experiences, ince it is very difficult to know in -><abstract>
+advance what effective action should be taken at each possible -><abstract>

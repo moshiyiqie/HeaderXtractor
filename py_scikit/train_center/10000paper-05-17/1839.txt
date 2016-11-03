@@ -1,0 +1,21 @@
+Taxation Search in Boolean Games∗ -><title>
+Tal Grinshpoun -><author>
+Dept. of Computer Science -><affiliation>
+Ben-Gurion University -><affiliation>
+Beer-Sheva, Israel -><address>
+grinshpo@cs.bgu.ac.il -><email>
+Amnon Meisels -><author>
+Dept. of Computer Science -><affiliation>
+Ben-Gurion University -><affiliation>
+Beer-Sheva, Israel -><address>
+am@cs.bgu.ac.il -><email>
+Vadim Levit -><author>
+Dept. of Computer Science -><affiliation>
+Ben-Gurion University -><affiliation>
+Beer-Sheva, Israel -><address>
+levitv@cs.bgu.ac.il -><email>
+Ana L. C. Bazzan -><author>
+PPGC / UFRGS -><affiliation>
+Caixa Postal 15064 -><address>
+91501-970, P. Alegre, Brazil -><address>
+bazzan@inf.ufrgs.br -><email>

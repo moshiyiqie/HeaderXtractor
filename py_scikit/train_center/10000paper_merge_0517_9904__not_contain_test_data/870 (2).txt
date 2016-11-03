@@ -1,0 +1,19 @@
+Robot’s Play: Interactive Games With Sociable Machines -><title>
+Andrew G. Brooks -><author>
+Robotic Life Group -><affiliation>
+MIT Media Laboratory -><affiliation>
+77 Massachusetts Avenue -><address>
+Cambridge, MA, USA -><address>
+zoz@media.mit.edu -><email>
+Guy Hoffman -><email>
+Robotic Life Group -><author>
+MIT Media Laboratory -><affiliation>
+77 Massachusetts Avenue -><address>
+Cambridge, MA, USA -><address>
+guy@media.mit.edu -><email>
+Jesse Gray -><email>
+Robotic Life Group -><author>
+MIT Media Laboratory -><affiliation>
+77 Massachusetts Avenue -><address>
+Cambridge, MA, USA -><address>
+jg@media.mit.edu -><email>

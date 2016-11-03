@@ -1,0 +1,6 @@
+Geometry and Reflectance Estimation for Virtualization -><title>
+Chakrit Watcharopas Robert Danforth -><author>
+(watcharo@cs.clemson.edu) (bobd@cs.clemson.edu) -><email>
+Department of Computer Science -><affiliation>
+Clemson University -><affiliation>
+Clemson, South Carolina 29634-1906 -><address>

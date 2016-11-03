@@ -1,0 +1,5 @@
+Solving Stackelberg Games with Uncertain Observability -><title>
+Dmytro Korzhyk, Vincent Conitzer, Ronald Parr -><author>
+Department of Computer Science, Duke University -><affiliation>
+Durham, NC 27708 USA -><address>
+{dima,conitzer,parr}@cs.duke.edu -><email>

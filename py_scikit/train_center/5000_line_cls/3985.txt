@@ -1,0 +1,16 @@
+Talktic: A Development Environment for Pervasive -><title>
+Computing Applications -><title>
+Yoshimasa Niwa -><author>
+Keio University Advanced -><affiliation>
+Research Center -><affiliation>
+niw@niw.at -><email>
+Satoru Tokuhisa -><author>
+Keio University Advanced -><affiliation>
+Research Center -><affiliation>
+dangkang@sfc.keio.ac.jp -><email>
+Masa Inakage -><author>
+Keio University Graduate -><affiliation>
+School of Media Design -><affiliation>
+inakage@sfc.keio.ac.jp -><email>
+Keywords -><keyword>
+Simplicity, Internet Networking Media, Design Works -><keyword>

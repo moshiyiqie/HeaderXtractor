@@ -1,0 +1,15 @@
+Using Nonlinear Dimensionality Reduction in 3D Figure -><title>
+Animation -><title>
+Bobby Bodenheimer -><author>
+Dept. of Electrical Engineering and Computer -><affiliation>
+Science -><affiliation>
+Vanderbilt University -><affiliation>
+Nashville, TN 37235 -><address>
+bobbyb@vuse.vanderbilt.edu -><email>
+A. Elizabeth Seward -><author>
+Dept. of Electrical Engineering and Computer -><affiliation>
+Science -><affiliation>
+Vanderbilt University -><affiliation>
+Nashville, TN 37235 -><address>
+anne.e.seward@vanderbilt.edu -><email>
+Example poses from a re-sequenced hip-hop dance motion. -><note>

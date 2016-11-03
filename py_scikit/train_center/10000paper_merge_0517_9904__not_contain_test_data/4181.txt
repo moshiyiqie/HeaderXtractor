@@ -1,0 +1,7 @@
+A Review of Using Design Patterns in CS1 -><title>
+Jacqueline Hundley -><author>
+Department of Computer Science and Software Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, Alabama 36849-5347 -><affiliation>
+334.844.6337 -><address>
+Email: hundljh@auburn.edu -><email>

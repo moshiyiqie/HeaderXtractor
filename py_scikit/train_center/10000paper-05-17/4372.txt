@@ -1,0 +1,18 @@
+Lines of Malicious Code: -><title>
+Insights Into the Malicious Software Industry -><title>
+Alessandro Di Federico -><author>
+NECSTLab, PoliMi, Italy -><affiliation>
+alessandro.difederico@mail.polimi.it -><email>
+Federico Maggi -><author>
+NECSTLab, PoliMi, Italy -><affiliation>
+fmaggi@elet.polimi.it -><email>
+Martina Lindorfer -><author>
+Secure Systems Lab, Vienna -><affiliation>
+University of Technology -><affiliation>
+mlindorfer@seclab.tuwien.ac.at -><affiliation>
+Paolo Milani Comparetti -><author>
+Lastline, Inc. -><affiliation>
+pmilani@lastline.com -><email>
+Stefano Zanero -><author>
+NECSTLab, PoliMi, Italy -><affiliation>
+zanero@elet.polimi.it -><email>

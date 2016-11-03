@@ -1,0 +1,7 @@
+Agent-Oriented Software Engineering -><title>
+for Successful TAC Participation -><title>
+Clemens Fritschi, Klaus Dorer -><author>
+living systems AG, Humboldtstr. 11 -><affiliation>
+D-78166 Donaueschingen, Germany -><address>
++4977189870 -><phone>
+{clemens.fritschi, klaus.dorer}@living-systems.de -><email>

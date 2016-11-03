@@ -1,0 +1,12 @@
+Improving Scalability and Dependability -><affiliation>
+of Stochastic MAS Analyses -><title>
+Sandip Sen -><author>
+Tandy School of Computer Science -><affiliation>
+University of Tulsa -><affiliation>
+Tulsa, OK, USA -><address>
+sandip-sen@utulsa.edu -><email>
+Logan Brooks∗ -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA, USA -><address>
+lcbrooks@cs.cmu.edu -><email>

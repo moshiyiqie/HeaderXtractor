@@ -1,0 +1,14 @@
+Introduction to Extended Common Coupling with an -><note>
+Application Study on Linux -><title>
+Liguo Yu -><author>
+Computer Science and Informatics -><affiliation>
+Srini Ramaswamy -><author>
+Computer Science Department -><affiliation>
+Indiana University South Bend -><affiliation>
+University of Arkansas at Little Rock -><affiliation>
+1700 Mishawaka Ave. P.O. Box 7111 -><address>
+2801 S. University Avenue -><affiliation>
+South Bend, IN 46634, USA -><address>
+Little Rock, AR 72204, USA -><address>
+ligyu@iusb.edu -><email>
+sxramaswamy@ualr.edu -><email>

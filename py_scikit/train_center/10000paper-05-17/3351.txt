@@ -1,0 +1,20 @@
+Dale Parsons -><title>
+School of ICT -><author>
+Otago Polytechnic -><author>
+Dunedin, New Zealand -><affiliation>
+Dale.Parsons@op.ac.nz -><email>
+Patricia Haden -><author>
+School of ICT -><affiliation>
+Otago Polytechnic -><address>
+Dunedin, New Zealand -><address>
+Patricia.Haden@op.ac.nz -><email>
+Joy Gasson -><author>
+School of ICT -><affiliation>
+Otago Polytechnic -><address>
+Dunedin, New Zealand -><address>
+Joy.Gasson@op.ac.nz -><email>
+Krissi Wood -><author>
+School of ICT -><affiliation>
+Otago Polytechnic -><address>
+Dunedin, New Zealand -><address>
+Krissi.Wood@op.ac.nz -><email>

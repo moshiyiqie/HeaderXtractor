@@ -1,0 +1,5 @@
+Towards Practical Anonymous Password Authentication -><title>
+Yanjiang Yang, Jianying Zhou, Jun Wen Wong, Feng Bao -><author>
+Institute for Infocomm Research -><affiliation>
+Singapore 138632 -><address>
+{yyang,jyzhou,jwwong,baofeng}@i2r.a-star.edu.sg -><email>

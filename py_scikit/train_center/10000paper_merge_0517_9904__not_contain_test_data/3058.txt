@@ -1,0 +1,12 @@
+Transforming Learning of Programming: A Mentoring Project -><title>
+Daryl D’Souza1 Margaret Hamilton1 James Harland1 Peter Muir2 -><author>
+Charles Thevathayan1 Cecily Walker1 -><author>
+1 School of Computer Science & Information Technology -><affiliation>
+RMIT University, -><address>
+PO Box 2476V, Melbourne, Victoria 3001, -><address>
+Email: {daryl.dsouza, margaret.hamilton, james.harland, charles.thevathayan, -><address>
+cecily.walker}@rmit.edu.au -><email>
+2 SET Portfolio Office -><pubnum>
+RMIT University, -><affiliation>
+PO Box 2467V, Melbourne, Victoria 3001, -><address>
+Email: peter.muir@rmit.edu.au -><email>

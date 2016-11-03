@@ -1,0 +1,6 @@
+Role-Assignment in Open Agent Societies -><title>
+Mehdi Dastani Virginia Dignum Frank Dignum -><author>
+Institute of Information and Computing Sciences -><affiliation>
+Utrecht University -><affiliation>
+The Netherlands -><address>
+{ mehdi , virginia , dignum }@cs.uu.nl -><email>

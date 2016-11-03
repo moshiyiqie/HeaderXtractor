@@ -1,0 +1,14 @@
+Design Principles for Heavy Intelligent Agents -><title>
+Randolph M. Jones -><author>
+Soar Technology, Inc., and Colby College -><affiliation>
+5847 Mayflower Hill Drive -><address>
+Waterville, ME 04901-8858 -><address>
+1-207-872-3831 -><phone>
+rjones@soartech.com -><email>
+Robert E. Wray, III -><author>
+Soar Technology, Inc. -><affiliation>
+3600 Green Court, Suite 600 -><address>
+Ann Arbor, MI 48105 -><address>
+1-734-327-8000 -><phone>
+wray@soartech.com -><email>
+Categories and Subject Descriptors -><note>

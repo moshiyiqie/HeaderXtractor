@@ -1,0 +1,5 @@
+Asynchronous Algorithms for Approximate Distributed -><title>
+Constraint Optimization with Quality Bounds -><title>
+Christopher Kiekintveld, Zhengyu Yin, Atul Kumar, and Milind Tambe -><author>
+University of Southern California -><affiliation>
+{kiekintv, zhengyuy, atulk, tambe}@usc.edu -><email>

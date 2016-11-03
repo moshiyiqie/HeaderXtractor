@@ -1,0 +1,24 @@
+Can Software Agents Influence Human Relations? -><title>
+- Balance Theory in Agent-mediated Communities - -><title>
+Hideyuki Nakanishi1,2, Satoshi Nakazawa1, Toru Ishida1,2, -><author>
+Katsuya Takanashi3 and Katherine Isbister4 -><author>
+1Department of Social Informatics, -><affiliation>
+3Communications Research -><address>
+41904 23rd Street -><address>
+Kyoto University -><affiliation>
+2JST CREST Digital City Project -><address>
+San Francisco, -><address>
+CA 94107, USA -><address>
++1-415-722-1945 -><phone>
+ki@katherineinterface.com -><email>
+Laboratory -><affiliation>
+2-2-2 Hikaridai -><address>
+Seika-cho Soraku-gun -><address>
+Kyoto 619-0289, JAPAN -><address>
++81-774-95-2433 -><phone>
+takanasi@crl.go.jp -><email>
+Kyoto 606-0801, JAPAN -><address>
++81-75-753-4859 -><phone>
+{nakanishi, ishida}@i.kyoto- -><email>
+u.ac.jp -><email>
+nakazawa@kuis.kyoto-u.ac.jp -><email>

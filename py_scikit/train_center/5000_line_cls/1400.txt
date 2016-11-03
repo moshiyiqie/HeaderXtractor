@@ -1,0 +1,4 @@
+Security in Multiagent Systems by Policy Randomization -><title>
+Praveen Paruchuri, Milind Tambe, Fernando Ordo´n˜ez, Sarit Kraus∗ -><author>
+University of Southern California, Los Angeles, CA 90089, {paruchur, tambe, fordon}@usc.edu -><email>
+∗ Bar-Ilan University, Ramat-Gan 52900, Israel, sarit@cs.biu.ac.il -><affiliation>

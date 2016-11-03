@@ -1,0 +1,7 @@
+Tic-Tac-LEGO: -><title>
+An Investigation into Coordinated Robotic Control -><title>
+Ruben Vuittonet and Jeff Gray -><author>
+Department of Computer and Information Sciences -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+Birmingham, AL 35294 USA -><address>
+{rvito, gray}@cis.uab.edu -><email>

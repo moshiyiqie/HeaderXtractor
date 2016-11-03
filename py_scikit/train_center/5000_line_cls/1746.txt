@@ -1,0 +1,6 @@
+On Multi-Robot Area Coverage -><title>
+Pooyan Fazli -><author>
+Department of Computer Science -><affiliation>
+University of British Columbia -><affiliation>
+Vancouver, B.C., Canada, V6T 1Z4 -><address>
+pooyanf@cs.ubc.ca -><email>

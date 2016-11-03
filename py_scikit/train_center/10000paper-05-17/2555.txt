@@ -1,0 +1,9 @@
+An Empathic Robotic Tutor in a Map Application -><title>
+(Demonstration) -><title>
+Amol Deshmukh1, Aidan Jones2, Srinivasan Janarthanam1, Helen Hastie1, -><author>
+Tiago Ribeiro4, Ruth Aylett1, Ana Paiva4, Ginevra Castellano2,3 -><author>
+1 School of Mathematical and Computer Sciences, Heriot-Watt University, Edinburgh, UK -><affiliation>
+2 School of Electronic, Electrical and Computer Engineering, University of Birmingham, UK -><affiliation>
+3 Department of Information Technology of Uppsala University, Sweden -><affiliation>
+4 GAIPS, INESC-ID and Instituto Superior Tecnico, Lisboa, Portugal -><address>
+a.deshmukh@hw.ac.uk -><email>

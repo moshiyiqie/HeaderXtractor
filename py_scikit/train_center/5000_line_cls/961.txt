@@ -1,0 +1,7 @@
+Preprocessing Techniques for -><title>
+Accelerating the DCOP Algorithm ADOPT∗ -><title>
+Syed Ali Sven Koenig Milind Tambe -><author>
+Computer Science Department -><affiliation>
+University of Southern California -><affiliation>
+Los Angeles, CA 90089-0781 -><address>
+{syedmuha,skoenig,tambe}@usc.edu -><email>

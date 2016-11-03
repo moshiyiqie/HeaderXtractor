@@ -1,0 +1,22 @@
+Study Habits of CS 1 Students: What do they do outside the -><note>
+classroom? -><title>
+Donald Chinn -><author>
+Institute of Technology -><affiliation>
+University of Washington, Tacoma -><affiliation>
+Tacoma, WA, USA 98402 -><address>
+dchinn@u.washington.edu -><email>
+Judy Sheard -><author>
+Faculty of Information Technology -><affiliation>
+Monash University -><affiliation>
+Victoria, Australia -><address>
+Judy.Sheard@infotech.monash.edu.au -><email>
+Angela Carbone -><author>
+Faculty of Information Technology -><affiliation>
+Monash University -><affiliation>
+Victoria, Australia -><address>
+Angela.Carbone@infotech.monash.edu.au -><email>
+Mikko-Jussi Laakso -><author>
+Department of Information Technology and -><affiliation>
+Turku Centre for Computer Science (TUCS) -><affiliation>
+University of Turku, Finland -><affiliation>
+milaak@utu.fi -><email>

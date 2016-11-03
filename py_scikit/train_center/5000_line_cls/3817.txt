@@ -1,0 +1,14 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+How to Make Games for Visually Impaired Children -><title>
+Damien Olivier -><author>
+Université du Havre -><affiliation>
+Laboratoire d’Informatique du Havre -><affiliation>
+25, rue Philippe Lebon -><address>
+76063 Le Have - France -><address>
+Damien.Olivier@univ-lehavre.fr -><email>
+Dominique Archambault -><author>
+Université Pierre et Marie Curie -><affiliation>
+Inserm U483/Inova -><address>
+9, quai Saint Bernard -><address>
+75252 Paris cedex 5 - France -><address>
+dominique.archambault@upmc.fr -><email>

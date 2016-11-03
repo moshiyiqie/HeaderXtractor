@@ -1,0 +1,5 @@
+Multi-Agent Based Peer-to-Peer Information Retrieval -><title>
+Systems With Concurrent Search Sessions -><title>
+Haizheng Zhang, and Victor Lesser -><author>
+Dept. of Computer Science, University of Massachusetts Amherst, MA 01003 -><affiliation>
+hzhang@cs.umass.edu, lesser@cs.umass.edu -><email>

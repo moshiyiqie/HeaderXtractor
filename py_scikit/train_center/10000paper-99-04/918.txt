@@ -1,0 +1,6 @@
+An Empirical Study of Active Networks -><title>
+X. Luo, K. Balakrishnan and M.W. -><author>
+Department of Computer Science Georgia Tech Research Institute -><affiliation>
+Georgia State University Georgia Tech -><affiliation>
+Atlanta, GA 30303 Atlanta, GA 30332 -><affiliation>
+Contact -><address>

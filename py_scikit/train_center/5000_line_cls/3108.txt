@@ -1,0 +1,21 @@
+Autonomous E-Coaching in the Wild: -><title>
+Empirical Validation of a Model-Based Reasoning System -><title>
+Arlette van Wissen -><author>
+VU University Amsterdam -><affiliation>
+Dept. of Computer Science -><affiliation>
+De Boelelaan 1085, 1081 HV -><address>
+Amsterdam, the Netherlands -><address>
+a.van.wissen@vu.nl -><email>
+Michel C. A. Klein -><author>
+VU University Amsterdam -><affiliation>
+Dept. of Computer Science -><affiliation>
+De Boelelaan 1085, 1081 HV -><address>
+Amsterdam, the Netherlands -><address>
+michel.klein@cs.vu.nl -><email>
+Bart A. Kamphorst -><author>
+Utrecht University -><affiliation>
+Dept. of Philosophy and -><degree>
+Religious Studies -><degree>
+Janskerkhof 13A, 3512 BL -><degree>
+Utrecht, the Netherlands -><affiliation>
+b.a.kamphorst@uu.nl -><email>

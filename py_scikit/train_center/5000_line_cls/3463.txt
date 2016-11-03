@@ -1,0 +1,10 @@
+Approximately Strategy-proof Mechanisms for -><title>
+(Constrained) Facility Location -><title>
+Xin Sui -><author>
+Department of Computer Science -><affiliation>
+University of Toronto, Toronto, Canada -><affiliation>
+xsui@cs.toronto.edu -><email>
+Craig Boutilier -><author>
+Department of Computer Science -><affiliation>
+University of Toronto, Toronto, Canada -><affiliation>
+cebly@cs.toronto.edu -><email>

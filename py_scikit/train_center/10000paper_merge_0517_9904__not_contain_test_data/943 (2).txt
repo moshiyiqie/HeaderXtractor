@@ -1,0 +1,6 @@
+Security for Fixed Sensor Networks -><title>
+Ning Hu, Randy K. Smith, Phillip G. Bradford -><author>
+Dept. of Computer Science -><affiliation>
+The University of Alabama -><affiliation>
+Tuscaloosa, Alabama 35487-0290 -><affiliation>
+{nhu, rsmith, pgb}@cs.ua.edu -><email>

@@ -1,0 +1,32 @@
+A New Framework for Recovery of Shape of the Right -><title>
+Ventricle from GBP SPECT Images -><title>
+Chunguang “Ken” Cao -><author>
+Computer Science Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+301 Sparkman Drive -><address>
+Huntsville, Alabama 35899 -><affiliation>
+Tel. (+1)256-824-5123 -><phone>
+ccao@cs.uah.edu -><email>
+advisor: Timothy S. Newman -><author>
+Computer Science Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+301 Sparkman Drive -><address>
+Huntsville, Alabama 35899 -><affiliation>
+Tel. (+1)256-824-6619 -><phone>
+tnewman@cs.uah.edu -><email>
+Keywords -><keyword>
+right ventricle, geometric model -><abstract>
+1. PROBLEM AND MOTIVATION -><abstract>
+Assessment of right ventricle (RV) performance plays an im- -><abstract>
+portant role in diagnosing cardiopulmonary diseases. Shape- -><abstract>
+based statistics describing the RV (e.g., RV volume (RVV)) -><abstract>
+are very important for developing a good comprehension of -><abstract>
+the performance of the RV. Automatic determination of the -><abstract>
+RV’s location, position, and volume from medical images (e.g., -><abstract>
+CT, MRI, Echocardiography) can improve speed and consis- -><abstract>
+tency of diagnosis since most current procedures for obtain- -><abstract>
+ing such statistics rely on substantial human involvement. An -><abstract>
+RV geometric model can be very useful in guiding automated -><abstract>
+procedures, although only a few methods of describing and -><abstract>
+exploiting the RV’s shape have been presented, in part due -><abstract>
+to the RV’s complex shape. Most existing models imprecisely -><abstract>

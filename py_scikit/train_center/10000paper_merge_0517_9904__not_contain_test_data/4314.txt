@@ -1,0 +1,4 @@
+Detecting Malware’s Failover C&C Strategies with -><title>
+SQUEEZE -><title>
+Matthias Neugschwandtner1, Paolo Milani Comparetti1, and Christian Platzer1 -><author>
+1Vienna University of Technology, {mneug,pmilani,cplatzer}@seclab.tuwien.ac.at -><affiliation>

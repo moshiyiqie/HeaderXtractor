@@ -1,0 +1,10 @@
+MobiThin Management Framework: -><title>
+Design and Evaluation -><title>
+Lien Deboosere, Bert Vankeirsbilck, Pieter Simoens, -><author>
+Filip De Turck, Bart Dhoedt, Piet Demeester -><author>
+IBBT - INTEC, Ghent University, Gaston Crommenlaan 8, bus 201, 9050 Gent, Belgium -><affiliation>
+Lien.Deboosere@intec.ugent.be -><email>
+Mario Kind, Fritz-Joachim Westphal -><author>
+Deutsche Telekom AG, Laboratories, Goslarer Ufer 35, 10589 Berlin, Germany -><affiliation>
+Abdeslam Taguengayte, Thomas Plantier -><address>
+Prologue, ZA de Courtaboeuf, 12 Avenue des Tropiques, BP 73 - 91 943 Les Ulis Cedex, France -><address>

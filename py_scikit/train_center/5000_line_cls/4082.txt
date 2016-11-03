@@ -1,0 +1,24 @@
+Towards Ambulatory Brain-Computer Interfaces: -><title>
+A Pilot Study with P300 Signals -><title>
+∗ -><title>
+Fabien Lotte -><author>
+INRIA Rennes, France -><affiliation>
+fabien.lotte@gmail.com -><email>
+Junya Fujisawa -><author>
+The University of Tokyo, Japan -><affiliation>
+fujijun0711@gmail.com -><email>
+Hideaki Touyama -><author>
+Toyama Prefectural University, -><affiliation>
+Japan -><address>
+touyamahide@gmail.com -><email>
+Anatole Lécuyer -><author>
+INRIA Rennes, France -><affiliation>
+anatole.lecuyer@irisa.fr -><email>
+Rika Ito -><author>
+The University of Tokyo, Japan -><affiliation>
+roofa@cyber.t.u- -><email>
+tokyo.ac.jp -><email>
+Michitaka Hirose -><author>
+The University of Tokyo, Japan -><affiliation>
+hirose@cyber.t.u- -><email>
+tokyo.ac.jp -><web>

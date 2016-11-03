@@ -1,0 +1,21 @@
+Campaigns for Lazy Voters: Truncated Ballots -><title>
+Jörg Rothe -><author>
+Institut für Informatik -><affiliation>
+Universität Düsseldorf -><affiliation>
+Düsseldorf, Germany -><address>
+rothe@cs.uni-duesseldorf.de -><email>
+Jérôme Lang -><author>
+LAMSADE -><affiliation>
+Université Paris-Dauphine -><affiliation>
+Paris, France -><address>
+lang@lamsade.dauphine.fr -><email>
+Piotr Faliszewski -><author>
+AGH University of -><affiliation>
+Science and Technology -><affiliation>
+Krakow, Poland -><address>
+faliszew@agh.edu.pl -><email>
+Dorothea Baumeister -><author>
+Institut für Informatik -><affiliation>
+Universität Düsseldorf -><affiliation>
+Düsseldorf, Germany -><address>
+baumeister@cs.uni-duesseldorf.de -><email>

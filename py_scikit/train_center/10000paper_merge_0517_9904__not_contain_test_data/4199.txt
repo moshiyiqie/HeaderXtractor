@@ -1,0 +1,9 @@
+High Dynamic Range Imaging with PERIODIC -><title>
+Donghui Chen -><author>
+Department of Mathematics -><affiliation>
+Wake Forest University -><affiliation>
+chend6@wfu.edu -><email>
+Brian Gray -><author>
+Department of Computer Science -><affiliation>
+Wake Forest University -><affiliation>
+graybj2@wfu.edu -><email>

@@ -1,0 +1,5 @@
+On Developing a Simple In-house Digital Library Archive -><title>
+Eric L. Brown, Luis G. Velazco, G. Kirksey, S. Ramaswamy, M. Rogers -><author>
+Software Automation and Intelligence Laboratory, Computer Science Department -><affiliation>
+Tennessee Tech University, Cookeville, TN 38505 -><affiliation>
+elbrown@acm.org, lgvelazco@csc.tntech.edu, gkirksey@tntech.edu, srini@acm.org. mrogers@csc.tntech.edu -><email>

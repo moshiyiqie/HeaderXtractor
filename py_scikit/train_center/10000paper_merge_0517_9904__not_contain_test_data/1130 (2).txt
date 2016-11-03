@@ -1,0 +1,6 @@
+Hormone-Based Control for Self-Reconfigurable Robots -><title>
+Wei-Min Shen, Yimin Lu, Peter Will -><author>
+Information Sciences Institute -><affiliation>
+4676 Admiralty Way, Marina del Rey, CA 90292, USA -><address>
+310-822-1511 -><phone>
+{shen,lym,will}@isi.edu -><email>

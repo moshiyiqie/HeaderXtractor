@@ -1,0 +1,7 @@
+Abnormality Detection in Multiagent Systems Inspired by -><title>
+the Adaptive Immune System -><title>
+Danesh Taraporea,b, Anders Lyhne Christensenc, Pedro U. Limaa, Jorge Carneirob -><author>
+aInstitute for Systems and Robotics (ISR), Instituto Superior Técnico (IST), Lisbon, Portugal -><affiliation>
+bInstituto Gulbenkian de Ciência, Oeiras, Portugal -><affiliation>
+cInstituto de Telecomunicacões, Instituto Universitário de Lisboa (ISCTE-IUL), Lisbon, Portugal -><affiliation>
+daneshtarapore@gmail.com, alcen@iscte.pt, pal@isr.ist.utl.pt, jcarneir@igc.gulbenkian.pt -><email>

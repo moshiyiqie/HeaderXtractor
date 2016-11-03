@@ -1,0 +1,13 @@
+Development of a Real Time Image Based Object -><title>
+Recognition Method for Mobile AR-Devices -><title>
+Prof. Dr. Beat Bruederlin, -><degree>
+Dipl. Inform. David Beier -><author>
+Technical University of Ilmenau -><affiliation>
+98693 Ilmenau, Germany -><address>
+{beat.bruederlin, david.beier}@tu-ilmenau.de -><email>
+Prof. Dr.-Ing. Juergen Gausemeier, -><email>
+Dipl. Inform. Juergen Fruend, -><email>
+Dipl. Inform. Carsten Matysczok -><author>
+Heinz Nixdorf Institute -><affiliation>
+33102 Paderborn, Germany -><address>
+{gausemeier, fruend, onestone}@hni.uni-paderborn.de -><email>

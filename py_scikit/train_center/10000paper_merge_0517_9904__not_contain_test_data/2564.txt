@@ -1,0 +1,7 @@
+A Knowledge-Based Approach to Robotic Perception -><title>
+using Unstructured Information Management -><title>
+(Demonstration) -><title>
+Ferenc Bálint-Benczédi, Thiemo Wiedemeyer, Moritz Tenorth, Daniel Beßler and -><author>
+Michael Beetz -><author>
+Institute for Artificial Intelligence, Universität Bremen, Germany -><affiliation>
+{balintbe, wiedemeyer, tenorth, danielb, beetz}@cs.uni-bremen.de -><email>

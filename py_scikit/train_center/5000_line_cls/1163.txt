@@ -1,0 +1,4 @@
+Programming Stigmergic Coordination -><title>
+with the TOTA Middleware -><title>
+Marco Mamei, Franco Zambonelli -><author>
+mamei.marco@unimore.it, franco.zambonelli@unimore.it -><email>

@@ -1,0 +1,8 @@
+Alumni Campus Tour: Capturing the Fourth Dimension in -><title>
+Location Based Notification Systems -><title>
+Sandeep Nair, Anupam Kumar, Miten Sampat, Jason Chong Lee, D. Scott McCrickard -><author>
+Center for Human-Computer Interaction and Department of Computer Science -><affiliation>
+Virginia Polytechnic Institute and State University -><affiliation>
+Blacksburg, VA 24061-0106 USA -><address>
+1-540-231-7409 -><phone>
+{ sanair, anupamk, msampat, chonglee, mccricks }@vt.edu -><email>

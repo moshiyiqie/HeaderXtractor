@@ -1,0 +1,23 @@
+Reconstructing Networks using Co-temporal Functions∗ -><title>
+Jacquelyn S. Fetrow -><author>
+Departments of Computer -><affiliation>
+Science and Physics -><affiliation>
+Wake Forest University -><affiliation>
+Winston-Salem, North -><address>
+Carolina 27109 -><address>
+fetrowjs@wfu.edu -><email>
+Edward E. Allen -><author>
+Anthony Pecorella -><author>
+Department of Mathematics -><affiliation>
+Wake Forest University -><affiliation>
+Winston-Salem, North -><address>
+Carolina 27109 -><address>
+{allene, pecoac4}@wfu.edu -><email>
+David J. John -><author>
+William Turkett -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Wake Forest University -><affiliation>
+Winston-Salem, North -><address>
+Carolina 27109 -><address>
+{djj, turketwh}@wfu.edu -><email>

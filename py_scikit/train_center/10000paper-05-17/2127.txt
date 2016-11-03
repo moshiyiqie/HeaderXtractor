@@ -1,0 +1,10 @@
+Verification of Data-Aware Commitment-Based -><title>
+Multiagent System -><title>
+Giuseppe De Giacomo -><author>
+Dip. di Ing. Informatica, Automatica e Gestionale -><affiliation>
+Sapienza Università di Roma, Italy -><affiliation>
+degiacomo@dis.uniroma1.it -><email>
+Marco Montali Diego Calvanese -><author>
+KRDB Research Centre for Knowledge and Data -><affiliation>
+Free University of Bozen-Bolzano, Italy -><affiliation>
+surname@inf.unibz.it -><email>

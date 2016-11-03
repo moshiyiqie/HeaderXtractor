@@ -1,0 +1,16 @@
+Risk-Averse Auction Agents -><title>
+Yaxin Liu -><author>
+College of Computing -><affiliation>
+Georgia Tech -><address>
+Atlanta, GA 30332-0280 -><address>
+yxliu@cc.gatech.edu -><email>
+Sven Koenig -><author>
+College of Computing -><affiliation>
+Georgia Tech -><address>
+Atlanta, GA 30332-0280 -><address>
+skoenig@cc.gatech.edu -><email>
+Richard Goodwin -><author>
+IBM T.J. Watson -><affiliation>
+P.O. Box 218, Route 134 -><address>
+Yorktown Heights, NY 10598 -><address>
+rgoodwin@us.ibm.com -><email>

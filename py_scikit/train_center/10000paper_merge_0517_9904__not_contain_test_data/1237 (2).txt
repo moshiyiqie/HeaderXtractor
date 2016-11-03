@@ -1,0 +1,6 @@
+A Multi-Plane State Machine Agent Model -><title>
+Ladislau BSISni and Dan C. Marinescu -><author>
+Computer Sciences Department -><affiliation>
+Purdue University -><affiliation>
+West Lafayette, IN 47907 -><address>
+boloni,dcm @ cs.purdue.edu -><email>

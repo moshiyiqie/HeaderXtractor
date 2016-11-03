@@ -1,0 +1,5 @@
+CAF - The C++ Actor Framework for -><title>
+Scalable and Resource-efficient Applications -><affiliation>
+Dominik Charousset Raphael Hiesgen Thomas C. Schmidt -><author>
+Dept. Computer Science, Hamburg University of Applied Sciences, Germany -><affiliation>
+{dominik.charousset,raphael.hiesgen,t.schmidt}@haw-hamburg.de -><email>

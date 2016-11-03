@@ -1,0 +1,10 @@
+An Integrated Framework for Warehouse Management -><title>
+Using Wireless Sensor Networks and Decision Support -><title>
+Systems -><title>
+Punit Ahluwalia -><author>
+Anand Ramachandran -><author>
+Intel Corporation -><affiliation>
+Austin, Texas, USA -><address>
+Email:anand.ramachandran@intel.com -><email>
+Edinburg, Texas, USA -><affiliation>
+Email: punit@utpa.edu -><email>

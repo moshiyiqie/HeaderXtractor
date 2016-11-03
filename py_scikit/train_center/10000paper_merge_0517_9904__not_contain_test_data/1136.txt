@@ -1,0 +1,20 @@
+Scientia Potentia Est∗ -><title>
+Wiebe van der Hoek -><author>
+Dept of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF -><address>
+United Kingdom -><address>
+wiebe@csc.liv.ac.uk -><email>
+Michael Wooldridge -><author>
+Dept of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF -><address>
+United Kingdom -><address>
+mjw@liv.ac.uk -><email>
+Thomas Ågotnes -><author>
+Dept of Information Science -><affiliation>
+and Media Studies -><affiliation>
+University of Bergen -><affiliation>
+PB. 7802, 5020 Bergen -><address>
+Norway -><address>
+thomas.agotnes@uib.no -><email>

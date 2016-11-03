@@ -1,0 +1,11 @@
+Empathetic Social Choice on Social Networks -><title>
+Craig Boutilier -><author>
+Department of Computer Science -><affiliation>
+University of Toronto -><affiliation>
+Ontario, Canada -><address>
+cebly@cs.toronto.edu -><email>
+Amirali Salehi-Abari -><author>
+Department of Computer Science -><affiliation>
+University of Toronto -><affiliation>
+Ontario, Canada -><address>
+abari@cs.toronto.edu -><email>

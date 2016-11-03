@@ -1,0 +1,11 @@
+Finding Strategyproof Social Choice Functions -><title>
+via SAT Solving -><title>
+∗ -><title>
+Felix Brandt -><author>
+Technische Universität München -><affiliation>
+Munich, Germany -><address>
+brandtf@in.tum.de -><email>
+Christian Geist -><author>
+Technische Universität München -><affiliation>
+Munich, Germany -><address>
+geist@in.tum.de -><email>

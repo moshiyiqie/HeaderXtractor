@@ -1,0 +1,21 @@
+Semi-Automated Construction of Adversarial Agents for -><title>
+Trainable Automated Forces. -><title>
+(Demonstration) -><title>
+∗ -><title>
+Robert G. Abbott -><author>
+Sandia National Labs -><affiliation>
+Albuquerque, NM -><address>
+rgabbot@sandia.gov -><email>
+Kiran Lakkaraju -><author>
+Sandia National Labs -><affiliation>
+Albuquerque, NM -><address>
+klakkar@sandia.gov -><email>
+Christina Warrender -><email>
+Sandia National Labs -><affiliation>
+Albuquerque, NM -><address>
+cewarr@sandia.gov -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Distributed Artificial Intelligence]: Intelligent -><note>
+Agents -><note>
+Keywords -><keyword>
+Live,Virtual,Constructive -><keyword>

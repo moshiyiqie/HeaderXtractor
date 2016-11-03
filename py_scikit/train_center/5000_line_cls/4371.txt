@@ -1,0 +1,4 @@
+A Metadata Encoding for Memory-Constrained Devices -><title>
+Farha Ali, Yvon Feaster, Sally K. Wahba, Jason O. Hallstrom -><author>
+School of Computing, Clemson University, Clemson, SC 29634-0974 -><affiliation>
+{fali, yfeaste, sallyw, jasonoh}@cs.clemson.edu -><email>

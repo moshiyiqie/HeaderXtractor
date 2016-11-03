@@ -1,0 +1,14 @@
+Categorization of Common Coupling in Kernel Based -><title>
+Software -><title>
+Srini Ramaswamy -><author>
+Associate Professor -><author>
+Tennessee Tech University, Box 5101 -><affiliation>
+Cookeville, TN 38505 -><address>
+(001) 931-372-3691 -><phone>
+srini@csc.tntech.edu -><email>
+Liguo Yu -><author>
+Assistant Professor -><affiliation>
+Tennessee Tech University, Box 5101 -><affiliation>
+Cookeville, TN 38505 -><address>
+(001) 931-372-6484 -><phone>
+yul@csc.tntech.edu -><email>

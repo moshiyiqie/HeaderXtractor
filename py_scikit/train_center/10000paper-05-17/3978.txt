@@ -1,0 +1,10 @@
+RepoMan: A Component Repository Manager for -><title>
+Enterprise Distributed Real-time and Embedded Systems -><title>
+Stoyan Paunov -><author>
+Vanderbilt University -><affiliation>
+Nashville, TN -><address>
+spaunov@isis.vanderbilt.edu -><email>
+Douglas C. Schmidt -><author>
+Vanderbilt University -><affiliation>
+Nashville, TN -><address>
+d.schmidt@vanderbilt.edu -><email>

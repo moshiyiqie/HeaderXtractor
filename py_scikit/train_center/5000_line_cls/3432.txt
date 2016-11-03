@@ -1,0 +1,26 @@
+Selling Tomorrow’s Bargains Today -><title>
+Melika Abolhassani -><author>
+University of Maryland -><affiliation>
+College Park, MD, USA -><address>
+melika@cs.umd.edu -><email>
+Hossein Esfandiari -><author>
+University of Maryland -><affiliation>
+College Park, MD, USA -><address>
+hossein@cs.umd.edu -><email>
+MohammadTaghi -><author>
+Hajiaghayi -><author>
+University of Maryland -><affiliation>
+College Park, MD, USA -><address>
+hajiagha@cs.umd.edu -><email>
+Hamid Mahini -><author>
+University of Maryland -><affiliation>
+College Park, MD, USA -><address>
+hmahini@cs.umd.edu -><email>
+David Malec -><author>
+University of Maryland -><affiliation>
+College Park, MD, USA -><address>
+dmalec@umiacs.umd.edu -><email>
+Aravind Srinivasan -><author>
+University of Maryland -><affiliation>
+College Park, MD, USA -><address>
+srin@cs.umd.edu -><email>

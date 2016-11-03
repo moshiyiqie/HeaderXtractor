@@ -1,0 +1,16 @@
+Towards a Pareto-optimal Solution in General-Sum Games -><title>
+Stephane Airiau -><author>
+Department of Mathematics & -><affiliation>
+Computer Science -><affiliation>
+The University of Tulsa -><affiliation>
+stephane@utulsa.edu -><email>
+Rajatish Mukherjee -><author>
+Department of Mathematics & -><affiliation>
+Computer Science -><affiliation>
+The University of Tulsa -><affiliation>
+rajatish@ens.utulsa.edu -><email>
+Sandip Sen -><author>
+Department of Mathematics & -><affiliation>
+Computer Science -><affiliation>
+The University of Tulsa -><affiliation>
+sandip-sen@utulsa.edu -><email>

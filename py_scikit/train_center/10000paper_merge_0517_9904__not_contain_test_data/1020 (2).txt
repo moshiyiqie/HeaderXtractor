@@ -1,0 +1,9 @@
+Concurrency, Objects and Visualisation -><title>
+Chris Exton -><author>
+School of Network Computing -><affiliation>
+Monash University -><affiliation>
+exton~monash.edu.au -><email>
+Michael KOIling -><author>
+School of Network Computing -><affiliation>
+Monash Univemity -><affiliation>
+mik~.monash.edu.au -><web>

@@ -1,10 +1,22 @@
-An Empirical Assessment of Using Stereotypes to Improve Reading Techniques -><abstract>
-in Software Inspections -><abstract>
-Miroslaw Staron, Ludwik Kuzniarz, Christian Thurn -><abstract>
-Department of Systems and Software Engineering -><abstract>
-School of Engineering -><abstract>
-Blekinge Institute of Technology -><affiliation>
-Box 520, Soft Center -><abstract>
-SE-372 25 Ronneby, Sweden -><abstract>
-(Miroslaw.Staron, Ludwik.Kuzniarz)@bth.se, Christian.Thurn@ipbolaget.com -><email>
-63 -><abstract>
+Reducing Coalition Structures via Agreement Specification -><title>
+Leendert van der Torre -><author>
+CWI Amsterdam -><affiliation>
+and Delft Univ. of Technology -><affiliation>
+The Netherlands -><address>
+torre@cwi.nl -><email>
+Guido Boella -><email>
+Dip. di Informatica -><author>
+Universita` di Torino -><affiliation>
+Italy -><address>
+guido@di.unito.it -><email>
+Luigi Sauro -><author>
+Dip. di Informatica -><affiliation>
+Universita` di Torino -><affiliation>
+Italy -><address>
+sauro@di.unito.it -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Distributed Artificial Intelligence]: Multiagent systems -><note>
+General Terms -><note>
+MAS theory -><note>
+Keywords -><keyword>
+Coalition formation, power theory -><keyword>

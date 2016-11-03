@@ -1,0 +1,14 @@
+The RDIS Project: unifying robot description through -><title>
+model-based software engineering -><title>
+Paul Kilgo -><author>
+The University of Alabama -><affiliation>
+Tuscaloosa, AL 35487 USA -><address>
+pmkilgo@crimson.ua.edu -><email>
+Categories and Subject Descriptors -><note>
+D.3 [Software]: Programming Languages; D.3.2 [Programming -><note>
+Languages]: Language Classifications—Specialized applica- -><unknow>
+tion languages -><title>
+General Terms -><author>
+Languages, Standardization -><keyword>
+Keywords -><keyword>
+Domain-specific language, robotics, hardware description -><keyword>

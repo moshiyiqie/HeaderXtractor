@@ -1,0 +1,13 @@
+Generalization for Component Reuse -><title>
+Pengzhou Yin -><author>
+Computer Science Department -><affiliation>
+University of Regina -><affiliation>
+3737 Waskana Parkway, Regina SK, Canada -><address>
+S4S 0A2 -><date>
+yinpe111@cs.uregina.ca -><email>
+Samira Sadaoui -><author>
+Computer Science Department -><affiliation>
+University of Regina -><affiliation>
+3737 Waskana Parkway, Regina SK, Canada -><address>
+S4S 0A2 -><date>
+sadaouis@cs.uregina.ca -><email>

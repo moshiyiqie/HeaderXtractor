@@ -1,0 +1,12 @@
+A Multi-agent Queuing Model for Resource Allocations -><title>
+in a Non-Cooperative Game -><title>
+Pinata Winoto -><author>
+Tiffany Ya Tang -><author>
+Department of Computer Science -><affiliation>
+Department of Computer Science -><affiliation>
+The University of Saskatchewan -><affiliation>
+The University of Saskatchewan -><affiliation>
+57 Campus Drive, Saskatoon SK 1L7 5A9 Canada -><address>
+57 Campus Drive, Saskatoon SK 1L7 5A9 Canada -><address>
+piw410@mail.usask.ca -><email>
+yat751@mail.usask.ca -><email>

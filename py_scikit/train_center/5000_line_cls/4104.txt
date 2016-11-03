@@ -1,0 +1,7 @@
+Artificial Game Presenter Avatars -><title>
+Anthony Savidis1,2, Effie Karouzaki1 -><author>
+Institute of Computer Science, FORTH -><affiliation>
+1 -><pubnum>
+2 -><pubnum>
+Department of Computer Science, University of Crete -><affiliation>
+{as,karuzaki}@ics.forth.gr -><email>

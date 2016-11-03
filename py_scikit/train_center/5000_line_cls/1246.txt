@@ -1,0 +1,14 @@
+Trusted Kernel-Based Coalition Formation -><title>
+Bastian Blankenburg1, Rajdeep K. Dash2, Sarvapali D. Ramchurn2, -><author>
+Matthias Klusch1, Nicholas R. Jennings2 -><author>
+1German Research Centre for Artificial Intelligence, Stuhlsatzenhausweg 3, 66123 Saarbru¨cken, Germany -><affiliation>
+2School of Electronics and Computer Science, University of Southampton, Southampton, SO17 1BJ, UK -><affiliation>
+1{blankenb,klusch}@dfki.de, 2{rkd02r,sdr,nrj}@ecs.soton.ac.uk -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence— -><note>
+Multiagent systems, Coherence and coordination. -><note>
+General Terms -><note>
+Algorithms, Design, Economics. -><note>
+Keywords -><keyword>
+Coalition formation, rational agents, task allocation, trust, payment -><keyword>
+protocol. -><keyword>

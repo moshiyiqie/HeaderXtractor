@@ -1,0 +1,11 @@
+Agent Memory and Adaptation in Multi-Agent Systems -><title>
+Kristina Lerman -><author>
+USC Information Sciences Institute -><affiliation>
+4676 Admiralty Way -><address>
+Marina del Rey, CA 90292 -><address>
+lerman@isi.edu -><email>
+Aram Galstyan -><author>
+USC Information Sciences Institute -><affiliation>
+4676 Admiralty Way -><address>
+Marina del Rey, CA 90292 -><address>
+galstyan@isi.edu -><email>

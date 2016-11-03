@@ -1,0 +1,13 @@
+Intelligent Agents for QoS Management -><title>
+Darko Huljenic -><title>
+Ericsson Nikola Tesla -><author>
+Krapinska 45 -><affiliation>
+HR-10000 Zagreb, Croatia -><address>
++385 1 365 4548 -><phone>
+darko.huljenic@etk.ericsson.se -><email>
+Krunoslav Trzec -><unknow>
+Ericsson Nikola Tesla -><author>
+Krapinska 45 -><affiliation>
+HR-10000 Zagreb, Croatia -><address>
++385 1 365 3325 -><phone>
+krunoslav.trzec@etk.ericsson.se -><email>

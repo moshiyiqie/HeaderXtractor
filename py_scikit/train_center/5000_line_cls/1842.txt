@@ -1,0 +1,9 @@
+When Do Markets with Simple Agents Fail? -><title>
+Abraham Othman -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+aothman@cs.cmu.edu -><email>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+sandholm@cs.cmu.edu -><email>

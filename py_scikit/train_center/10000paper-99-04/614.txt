@@ -1,0 +1,5 @@
+The SPARK Agent Framework -><title>
+David Morley, Karen Myers -><author>
+Artificial Intelligence Center, SRI International -><affiliation>
+333 Ravenswood Ave., Menlo Park, CA 94025 -><address>
+{morley,myers}@ai.sri.com -><email>

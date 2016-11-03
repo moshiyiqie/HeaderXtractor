@@ -1,0 +1,7 @@
+Quality-bounded Solutions for Finite Bayesian Stackelberg -><title>
+Games: Scaling up -><title>
+Manish Jain+, Christopher Kiekintveld∗, Milind Tambe+ -><author>
++ Computer Science Department, University of Southern California, Los Angeles, CA. 90089 -><affiliation>
+{manish.jain,tambe}@usc.edu -><email>
+∗ Department of Computer Science, University of Texas at El Paso, El Paso, Texas. 79968 -><affiliation>
+cdkiekintveld@utep.edu -><email>

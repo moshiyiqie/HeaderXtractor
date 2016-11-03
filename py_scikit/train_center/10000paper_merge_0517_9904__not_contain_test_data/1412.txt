@@ -1,0 +1,25 @@
+Possible and Necessary Winners of Partial Tournaments -><title>
+Haris Aziz -><author>
+Institut für Informatik -><affiliation>
+TU München, Germany -><address>
+aziz@in.tum.de -><email>
+Markus Brill -><author>
+Institut für Informatik -><affiliation>
+TU München, Germany -><address>
+brill@in.tum.de -><email>
+Felix Fischer -><author>
+Statistical Laboratory -><affiliation>
+University of Cambridge, UK -><affiliation>
+fischerf@statslab.cam.ac.uk -><author>
+Paul Harrenstein -><author>
+Institut für Informatik -><affiliation>
+TU München, Germany -><address>
+harrenst@in.tum.de -><email>
+Jérôme Lang -><author>
+LAMSADE, Université -><affiliation>
+Paris-Dauphine, France -><address>
+lang@lamsade.dauphine.fr -><email>
+Hans Georg Seedig -><author>
+Institut für Informatik -><affiliation>
+TU München, Germany -><address>
+seedigh@in.tum.de -><email>

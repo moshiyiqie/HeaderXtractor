@@ -1,0 +1,5 @@
+R-D Optimized Compression of 3-D Mesh Sequences -><title>
+Based on Principal Component Analysis -><title>
+∗ -><title>
+Junhee Heu -><author>
+, Jeong-Hyu Yang† , Chang-Su Kim‡ , and Sang-Uk Lee§ -><affiliation>

@@ -1,0 +1,14 @@
+Majority-rule-based preference aggregation on -><title>
+multi-attribute domains with CP-nets -><title>
+Minyi Li -><author>
+Swinburne University of -><affiliation>
+Technology -><affiliation>
+myli@swin.edu.au -><email>
+Ryszard Kowalczyk -><author>
+Swinburne University of -><affiliation>
+Technology -><affiliation>
+RKowalczyk@swin.edu.au -><email>
+Quoc Bao Vo -><author>
+Swinburne University of -><affiliation>
+Technology -><affiliation>
+BVO@swin.edu.au -><email>

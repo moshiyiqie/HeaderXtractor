@@ -1,0 +1,8 @@
+Reasoning Driven Blackboard System for Image -><title>
+Understanding -><title>
+Alicia Paul -><author>
+Clark Atlanta University -><affiliation>
+Computer and Information Science -><affiliation>
+223 James P. Brawley Dr. S. W. -><address>
+Atlanta, GA 30314 -><address>
+apaul@cau.edu -><email>

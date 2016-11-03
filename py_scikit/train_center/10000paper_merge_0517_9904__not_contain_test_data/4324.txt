@@ -1,0 +1,5 @@
+WebJail: Least-privilege Integration of Third-party -><title>
+Components in Web Mashups -><title>
+Steven Van Acker, Philippe De Ryck, Lieven Desmet, Frank Piessens, Wouter Joosen -><author>
+IBBT-Distrinet, Katholieke Universiteit Leuven, 3001 Leuven, Belgium -><affiliation>
+Steven.VanAcker@cs.kuleuven.be -><email>

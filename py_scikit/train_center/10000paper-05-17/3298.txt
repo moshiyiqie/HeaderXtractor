@@ -1,0 +1,7 @@
+An experience report on using collaboration technologies for distance -><affiliation>
+and on-campus learning -><title>
+David Carrington, Soon-Kyeong Kim and Paul Strooper -><author>
+School of Information Technology and Electrical Engineering -><affiliation>
+The University of Queensland -><affiliation>
+Brisbane, 4072, Queensland -><address>
+{davec,soon,pstroop}@itee.uq.edu.au -><email>

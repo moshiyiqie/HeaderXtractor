@@ -1,0 +1,18 @@
+Digital Production Arts: Coming Soon -><title>
+to a College Near You! -><title>
+T. Davis R. Geist J. Westall -><author>
+Dept. of Computer Science -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634-0974 -><address>
+S. Wang -><author>
+Department of Art -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634-0509 -><address>
+stwang@clemson.edu -><email>
+J. Kundert-Gibbs -><author>
+Digital Production Arts -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634-0974 -><address>
+jkundert@vr.clemson.edu -><email>
+{tadavis(|)rmg(|)westall} -><affiliation>
+@cs.clemson.edu -><email>

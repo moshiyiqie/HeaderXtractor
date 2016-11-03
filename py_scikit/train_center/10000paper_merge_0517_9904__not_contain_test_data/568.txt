@@ -1,0 +1,6 @@
+Using Policies for Information Valuation to Justify Beliefs -><title>
+Karen K. Fullam and K. Suzanne Barber -><author>
+Laboratory for Intelligent Processes and Systems -><affiliation>
+Electrical and Computer Engineering, The University of Texas at Austin -><affiliation>
+Austin, TX 78712 -><address>
+{kfullam,barber}@lips.utexas.edu -><email>

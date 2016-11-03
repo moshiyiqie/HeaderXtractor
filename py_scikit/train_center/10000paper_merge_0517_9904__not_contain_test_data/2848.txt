@@ -1,0 +1,10 @@
+Applicability of the Willow Architecture for Cloud -><title>
+Management -><title>
+Zach Hill -><author>
+University of Virginia -><affiliation>
+Marty Humphrey -><author>
+University of Virginia -><affiliation>
+Charlottesville, VA 22903 USA -><address>
+Charlottesville, VA 22903 USA -><address>
+zjh5f@cs.virginia.edu -><email>
+humphrey@cs.virginia.edu -><email>

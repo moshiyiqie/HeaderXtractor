@@ -1,0 +1,16 @@
+Combining Individual and Cooperative Learning for Multi- -><title>
+agent Negotiations -><title>
+Leen-kiat Soh -><author>
+Department of Computer Science and Engineering -><affiliation>
+University of Nebraska-Lincoln, 115 Ferguson Hall -><affiliation>
+Lincoln, NE 68588-0115 USA -><address>
+001-402-472-6738 -><phone>
+lksoh@cse.unl.edu -><email>
+Juan Luo -><author>
+Department of Computer Science and Engineering -><affiliation>
+University of Nebraska-Lincoln, 115 Ferguson Hall -><affiliation>
+Lincoln, NE 68588-0115 USA -><address>
+001-402-472-6738 -><phone>
+luo@cse.unl.edu -><email>
+Copyright is held by the author/owner(s). -><note>
+ACM 1-58113-683-8/03/0007. -><note>

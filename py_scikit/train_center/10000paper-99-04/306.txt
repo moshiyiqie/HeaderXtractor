@@ -1,0 +1,10 @@
+Simple but Efficient Collaboration in a Complex -><affiliation>
+Competitive Situation -><title>
+Satoshi Kurihara, Kensuke Fukuda, Toshio Hirotsu, Osamu Akashi, -><author>
+Shinya Sato, and Toshiharu Sugawara -><author>
+NTT Network Innovation Labs. -><affiliation>
+3-9-11, Midori-cho, Musashino-shi, Tokyo 180-8585 Japan -><address>
+kurihara@t.onlab.ntt.co.jp -><affiliation>
+Fig.1: Strategy table -><keyword>
+Fig. 2: Standard deviation of the -><keyword>
+no. of agents that selected -><keyword>

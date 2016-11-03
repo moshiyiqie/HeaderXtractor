@@ -1,0 +1,18 @@
+Quantifying Disagreement in Argument-based Reasoning -><title>
+Richard Booth -><author>
+University of Luxembourg -><affiliation>
+Computer Science & -><affiliation>
+Communication -><address>
+richard.booth@uni.lu -><email>
+Iyad Rahwan -><author>
+Masdar Institute of Science & -><affiliation>
+Technology, UAE -><address>
+Massachusetts Institute of -><affiliation>
+Technology, USA -><address>
+irahwan@acm.org -><email>
+Martin Caminada, -><degree>
+Mikołaj Podlaszewski -><degree>
+University of Luxembourg -><affiliation>
+Security, Reliability & Trust -><affiliation>
+martin.caminada@uni.lu -><email>
+mikolaj.podlaszewski@uni.lu -><email>

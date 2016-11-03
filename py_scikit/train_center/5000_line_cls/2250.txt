@@ -1,0 +1,12 @@
+New Results on the Verification of Nash Refinements for -><title>
+Extensive–Form Games -><title>
+Fabio Panozzo -><author>
+Politecnico di Milano -><affiliation>
+Piazza Leonardo da Vinci 32 -><affiliation>
+Milano, Italy -><address>
+panozzo@elet.polimi.it -><email>
+Nicola Gatti -><email>
+Politecnico di Milano -><author>
+Piazza Leonardo da Vinci 32 -><affiliation>
+Milano, Italy -><address>
+ngatti@elet.polimi.it -><email>

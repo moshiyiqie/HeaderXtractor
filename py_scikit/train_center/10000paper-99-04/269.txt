@@ -1,0 +1,6 @@
+Object Persistence for Synthetic Creatures -><title>
+Damian A. Isla Bruce M. Blumberg -><author>
+MIT Media Lab, -><affiliation>
+77 Massachusetts Ave. NE18-5th fl. -><address>
+Cambridge, MA 02139-4307 -><address>
+{naimad, bruce}@media.mit.edu -><email>

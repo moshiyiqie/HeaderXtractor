@@ -1,0 +1,11 @@
+GACS, an Evolutionary Approach to the Spatial -><title>
+Coordination of Agents -><author>
+Olivier Sigaud AnimatLab-LIP6 -><affiliation>
+8, rue du capitaine Scott -><address>
+75015 PARIS -><address>
+olivier.sigaud@lip6.fr -><email>
+Fabien Flacher -><author>
+Dassault Aviation, DGT/DPR/ESA -><affiliation>
+78, Quai Marcel Dassault -><address>
+92552 St-Cloud Cedex, FRANCE -><address>
+fabien.flacher@lip6.fr -><email>

@@ -1,0 +1,10 @@
+Complexity of coalition structure generation -><title>
+Bart de Keijzer -><author>
+CWI Amsterdam -><affiliation>
+1098 XG Amsterdam, The Netherlands -><address>
+B.de.Keijzer@cwi.nl -><email>
+Haris Aziz -><author>
+Department of Informatics -><affiliation>
+Technische Universität München -><affiliation>
+85748 Garching bei München, Germany -><address>
+aziz@in.tum.de -><email>

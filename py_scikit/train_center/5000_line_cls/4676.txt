@@ -1,0 +1,34 @@
+Multi-criteria Approach in Configuration of Energy Efficient Sensor -><title>
+Networks -><title>
+Alexander B. Bordetsky -><author>
+Naval Postgraduate School -><affiliation>
+abordets@nps.edu -><email>
+Boris Peltsverger -><author>
+Georgia Southwestern State -><author>
+University -><affiliation>
+plz@canes.gsw.edu -><email>
+Svetlana Peltsverger -><author>
+University of North Carolina at -><affiliation>
+Asheville -><email>
+speltsverger@unca.edu -><email>
+Roman B. Statnikov -><author>
+Naval Postgraduate School -><affiliation>
+rstatnik@nps.edu -><email>
+Problem and Motivation: A designing of energy efficient -><abstract>
+wireless sensor networks is one of the most trendy research -><abstract>
+topics. In this paper the authors developed a new multi- -><abstract>
+criteria approach which allows filtering out non-efficient -><abstract>
+topologies during a phase of designing of a sensor network -><abstract>
+and also running a self-adjustment process during its -><abstract>
+functioning. It is shown that the problem of designing of an -><abstract>
+energy efficient wireless sensor network belongs to the class -><abstract>
+D of optimization combinatorial problems for which the -><abstract>
+equivalent recognition problems are NP-complete or open. -><abstract>
+The D-class (Peltsverger B., Khavronin O. (1999)) is such -><abstract>
+that according to a decomposition approach there exist -><abstract>
+particular criteria compatible with the main one, and the -><abstract>
+recognition task corresponding to a particular criterion -><abstract>
+always belongs to the P-class problem. -><abstract>
+Decomposition approach allows constructing polynomial -><abstract>
+approximate algorithms for the D-class problems. Indeed, to -><abstract>
+determine a non-dominated point from a feasible set we -><abstract>

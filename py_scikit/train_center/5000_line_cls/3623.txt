@@ -1,0 +1,17 @@
+175 -><pubnum>
+A Model for Estimating Efforts required to make -><title>
+Changes in a Software Development Project -><title>
+Kawal Jeet -><author>
+Department of Computer Science -><affiliation>
+DAV Jalandhar -><address>
+Punjab, India -><address>
+Renu Dhir -><author>
+Department of Computer Science & Engineering -><affiliation>
+National Institute of Technology, -><affiliation>
+Jalandhar, Punjab, India -><address>
++91-9417199050 -><phone>
+dhirr@nitj.ac.in -><email>
++91-8146373900 -><phone>
+kawaljeet80@gmail.com -><email>
+Page -><author>
+175 -><pubnum>

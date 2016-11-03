@@ -1,0 +1,9 @@
+Simulation of Adaptive Agents: Learning Heuristics -><title>
+for Route Choice in a Commuter Scenario -><title>
+Dep. of Artificial Intelligence -><title>
+Ana L. C. Bazzan -><author>
+Institute of Informatics, UFRGS -><affiliation>
+Caixa Postal 15064 -><address>
+91501-970 Porto Alegre, RS, Brazil -><address>
+bazzan@inf.ufrgs.br -><email>
+kluegl@informatik.uni-wuerzburg.de -><email>

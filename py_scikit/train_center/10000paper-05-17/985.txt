@@ -1,0 +1,12 @@
+Alternating-time Dynamic Logic -><title>
+Nicolas Troquard -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 3BX, UK -><address>
+nico@liverpool.ac.uk -><email>
+Dirk Walther -><author>
+Department of Artiﬁcial Intelligence -><affiliation>
+Faculty of Informatics -><affiliation>
+Technical University of Madrid (UPM) -><affiliation>
+E-28660 Boadilla del Monte, Madrid, Spain -><address>
+dirk.walther@upm.es -><email>

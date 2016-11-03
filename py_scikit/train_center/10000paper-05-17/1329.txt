@@ -1,0 +1,7 @@
+UT Austin Villa 2011: A Champion Agent in the RoboCup -><title>
+3D Soccer Simulation Competition -><title>
+Patrick MacAlpine, Daniel Urieli, Samuel Barrett, Shivaram Kalyanakrishnan∗, -><author>
+Francisco Barrera, Adrian Lopez-Mobilia, Nicolae S¸tiurca˘†, Victor Vu, and Peter Stone -><author>
+Department of Computer Science, The University of Texas at Austin, Austin, TX 78701, USA -><affiliation>
+{patmac, urieli, sbarrett, shivaram, -><email>
+tank225, alomo01, nstiurca, diragjie, pstone}@cs.utexas.edu -><email>

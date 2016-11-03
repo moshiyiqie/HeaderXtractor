@@ -1,0 +1,7 @@
+Mining repositories to reveal the community structures of -><title>
+Open Source Software projects -><title>
+Amiangshu Bosu -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Tuscaloosa, AL, USA -><address>
+asbosu@ua.edu -><email>

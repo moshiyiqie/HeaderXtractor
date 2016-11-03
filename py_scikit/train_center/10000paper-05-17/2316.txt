@@ -1,0 +1,16 @@
+Nash Equilibria in Shared Effort Games -><title>
+Gleb Polevoy -><author>
+Delft University of Technology -><affiliation>
+Mekelweg 4, 2628 CD -><address>
+Delft, The Netherlands -><address>
+G.Polevoy@tudeﬂt.nl -><email>
+Stojan Trajanovski -><author>
+Delft University of Technology -><affiliation>
+Mekelweg 4, 2628 CD -><address>
+Delft, The Netherlands -><address>
+S.Trajanovski@tudelft.nl -><email>
+Mathijs de Weerdt -><author>
+Delft University of Technology -><affiliation>
+Mekelweg 4, 2628 CD -><address>
+Delft, The Netherlands -><address>
+M.M.deWeerdt@tudelft.nl -><email>

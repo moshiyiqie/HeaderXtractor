@@ -1,0 +1,7 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+Rokkatan: Scaling an RTS Game Design -><title>
+to the Massively Multiplayer Realm -><title>
+Jens Mu¨ller, Jan Hendrik Metzen, Alexander Ploss, -><author>
+Maraike Schellmann, and Sergei Gorlatch -><author>
+University of Mu¨nster, Germany -><affiliation>
+{jmueller(|)gorlatch}@math.uni-muenster.de -><email>

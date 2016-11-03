@@ -1,0 +1,7 @@
+Using Complex Network Effects for Communication -><title>
+Decisions in Large Multi-robot Teams -><title>
+Yang Xu, Xuemei Hu, Yan Li, Dong Li, and Mengjun Yang -><author>
+School of Computer Science and Engineering -><affiliation>
+University of Electronic Science and Technology of China -><affiliation>
+Chengdu, Sichuan, P.R.China -><address>
+xuyang@uestc.edu.cn -><email>

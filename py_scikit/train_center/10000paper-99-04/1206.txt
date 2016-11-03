@@ -1,0 +1,23 @@
+Motivation Driven Learning for Interactive Synthetic Characters -><title>
+Song-Yee Yoon Bruce M. Blumberg Gerald E. Schneider -><author>
+Synthetic Characters Group -><author>
+Department of Brain and -><affiliation>
+Synthetic Characters Group -><unknow>
+Cognitive Sciences -><author>
+Media Laboratory -><affiliation>
+Media Laboratory -><affiliation>
+& -><affiliation>
+Department of Brain and -><affiliation>
+Cognitive Sciences -><author>
+MIT E15-306 -><pubnum>
+MIT E25-634 -><pubnum>
+MIT E15-306 -><pubnum>
+20 Ames St. Cambridge, MA 02139 -><address>
+45 Carleston St. Cambridge, MA 02139 -><address>
+20 Ames St. Cambridge, MA 02139 -><address>
++1.617.253.5917 -><note>
++1.617.253.5795 -><note>
++1.617.253.9832 -><note>
+sy@ media.mit.edu -><email>
+jerry@ mit.edu -><email>
+bruce@media.mit.edu -><email>

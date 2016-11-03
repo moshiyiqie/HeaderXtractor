@@ -1,0 +1,7 @@
+Selected Methods of Model Checking using SAT and -><title>
+SMT-solvers ∗ -><title>
+(Doctoral Consortium) -><title>
+Agnieszka M. Zbrzezny -><author>
+Supervisor: Boz˙ena Woz´na-Szczes´niak -><affiliation>
+IMCS, Jan Długosz University. Al. Armii Krajowej 13/15, 42-200 Cze¸stochowa, Poland. -><address>
+agnieszka.zbrzezny@ajd.czest.pl -><email>

@@ -1,0 +1,19 @@
+Tempus Fugit and the Need for an e-Social Contract -><title>
+Joann Ruvolo -><author>
+IBM Almaden Research Center -><affiliation>
+James Kaufman -><author>
+IBM Almaden Research Center -><affiliation>
+Daniel Ford -><author>
+IBM Almaden Research Center -><affiliation>
+650 Harry Road -><address>
+San Jose, CA 95120 -><address>
+1-(408) 927-2477 -><phone>
+kaufman@almaden.ibm.com -><email>
+650 Harry Road -><address>
+San Jose, CA 95120 -><address>
+1-(408) 927-1450 -><phone>
+ruvolo@almaden.ibm.com -><email>
+650 Harry Road -><address>
+San Jose, CA 95120 -><address>
+1-(408) 927-2203 -><phone>
+daford@almaden.ibm.com -><email>

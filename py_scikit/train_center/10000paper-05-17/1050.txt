@@ -1,0 +1,7 @@
+Simulation-based Temporal Projection of Everyday Robot -><title>
+Object Manipulation -><title>
+Lars Kunze, Mihai Emanuel Dolha, Emitza Guzman, Michael Beetz -><author>
+Intelligent Autonomous Systems Group -><affiliation>
+Technische Universität München -><affiliation>
+80333 Munich, Germany -><address>
+{kunzel,dolha,ortega,beetz}@cs.tum.edu -><email>

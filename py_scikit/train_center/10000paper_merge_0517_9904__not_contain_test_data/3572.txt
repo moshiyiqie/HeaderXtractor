@@ -1,0 +1,15 @@
+A Case Study of Software Quality and Reuse -><title>
+Matthew D. Beard -><author>
+Computer Science Dept. -><affiliation>
+Univ. of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899, USA -><address>
+mdb0013@cs.uah.edu -><email>
+Steven E. Baker -><author>
+Computer Science Dept -><affiliation>
+Univ. of Alabama in Huntsville -><affiliation>
+stevenbaker99@comcast.net -><email>
+Letha H. Etzkorn -><author>
+Computer Science Dept. -><affiliation>
+Univ. of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899, USA -><address>
+etzkorl@uah.edu -><email>

@@ -1,0 +1,23 @@
+The case for in-the-lab botnet experimentation: -><affiliation>
+creating and taking down a 3000-node botnet -><title>
+Joan Calvet -><author>
+École Polytechnique de -><affiliation>
+Montréal, Canada -><address>
+Carlton R. Davis -><author>
+École Polytechnique de -><affiliation>
+Montréal, Canada -><address>
+José M. Fernandez -><author>
+École Polytechnique de -><affiliation>
+Montréal, Canada -><affiliation>
+Jean-Yves Marion -><address>
+LORIA, Nancy, France -><address>
+Pier-Luc St-Onge -><note>
+Ecole Polytech. de Montréal -><note>
+Wadie Guizani -><note>
+LORIA, Nancy, France -><note>
+Pierre-Marc Bureau -><unknow>
+ESET -><affiliation>
+Montréal, Canada -><address>
+Anil Somayaji -><author>
+Carleton University -><affiliation>
+Ottawa, Canada -><address>

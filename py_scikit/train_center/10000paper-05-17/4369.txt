@@ -1,0 +1,14 @@
+Distributed Application Tamper Detection Via Continuous -><title>
+Software Updates -><title>
+Sam Martin -><author>
+University of Arizona -><affiliation>
+smartin336@cs.arizona.edu -><email>
+Christian Collberg -><author>
+University of Arizona -><affiliation>
+collberg@cs.arizona.edu -><email>
+Jonathan Myers -><author>
+University of Arizona -><affiliation>
+jamyers@cs.arizona.edu -><email>
+Jasvir Nagra -><author>
+Google Inc. -><affiliation>
+jasvir@nagras.com -><email>

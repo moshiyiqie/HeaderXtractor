@@ -1,0 +1,12 @@
+A Multiagent Reinforcement Learning Algorithm -><title>
+using Extended Optimal Response -><title>
+Nobuo Suematsu -><title>
+Faculty of Information Sciences -><author>
+Hiroshima City University -><affiliation>
+Hiroshima, 731-3194, Japan -><address>
+suematsu@im.hiroshima-cu.ac.jp -><email>
+Akira Hayashi -><author>
+Faculty of Information Sciences -><affiliation>
+Hiroshima City University -><affiliation>
+Hiroshima, 731-3194, Japan -><address>
+akira@im.hiroshima-cu.ac.jp -><email>

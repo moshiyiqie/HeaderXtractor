@@ -1,0 +1,13 @@
+Approximate Game Theoretic Analysis for Large -><title>
+Simulation-Based Games -><title>
+Bryce Wiedenbeck -><author>
+University of Michigan -><affiliation>
+btwied@umich.edu -><email>
+1. SIMULATION-BASED GAME THEORY -><pubnum>
+Multi-agent systems research raises many interesting ques- -><abstract>
+tions about the actions of autonomous, interacting decision- -><abstract>
+makers. Game theory helps to answer some of those ques- -><abstract>
+tions by providing a mathematical language for represent- -><abstract>
+ing and reasoning about the incentives of self-interested au- -><abstract>
+tonomous agents. As is often the case with mathemati- -><abstract>
+cal modeling, creating tractable game-theoretic models fre- -><abstract>

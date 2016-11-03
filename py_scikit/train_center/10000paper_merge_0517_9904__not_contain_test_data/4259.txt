@@ -1,0 +1,13 @@
+Detecting Spammers on Social Networks -><title>
+Christopher Kruegel -><author>
+University of California, Santa -><affiliation>
+Barbara -><author>
+chris@cs.ucsb.edu -><email>
+Giovanni Vigna -><author>
+University of California, Santa -><affiliation>
+Barbara -><address>
+vigna@cs.ucsb.edu -><email>
+Gianluca Stringhini -><email>
+University of California, Santa -><affiliation>
+Barbara -><address>
+gianluca@cs.ucsb.edu -><email>

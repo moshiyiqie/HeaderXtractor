@@ -1,0 +1,14 @@
+SA_MetaMatch: Relevant Document Discovery Through -><title>
+Document Metadata and Indexing -><title>
+J. Scott Hawker -><author>
+CS Department, University of Alabama -><affiliation>
+Box 870290 -><address>
+Tuscaloosa, AL 35487-0290 -><address>
+1-205-348-1667 -><phone>
+hawker@cs.ua.edu -><email>
+Hiu S. Yau -><author>
+CS Department, University of Alabama -><affiliation>
+Box 870290 -><address>
+Tuscaloosa, AL 35487-0290 -><address>
+1-205-348-0997 -><phone>
+hyau@cs.ua.edu -><email>

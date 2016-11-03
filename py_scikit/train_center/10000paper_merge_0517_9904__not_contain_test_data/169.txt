@@ -1,0 +1,6 @@
+The AGILO Autonomous Robot Soccer Team: -><title>
+Computational Principles, Experiences, and Perspectives -><title>
+Michael Beetz, Sebastian Buck, Robert Hanek, Thorsten Schmitt, and Bernd Radig -><author>
+Munich University of Technology -><affiliation>
+Department of Computer Science IX -><affiliation>
+Orleansstr. 34, D-81667 Munich, Germany -><address>

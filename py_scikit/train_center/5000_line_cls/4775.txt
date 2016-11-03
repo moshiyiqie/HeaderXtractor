@@ -1,0 +1,34 @@
+Courseware to Aid Database Design -><title>
+Alyson Boyd Tanya Lawson Advisor: Dr. Mario Guimaraes -><author>
+Alyson@AHBoyd.com kf4enw@americainter.net mguimara@kennesaw.edu -><email>
+Kennesaw State University -><affiliation>
+Department of Computer Science and Information Systems -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA 30144 -><address>
+1-770-420-4424 -><phone>
+1. PROBLEM AND MOTIVATION -><pubnum>
+Designing normalized tables is a subject of great difficulty and -><note>
+importance. Unnecessary redundancy may results not only in too -><abstract>
+much space being used to store the data and poor query -><abstract>
+performance, but it may also result in inconsistencies as -><abstract>
+denormalized (unnecessary redundancy) data is much more -><abstract>
+difficult to keep current. Converting tables from E-R Diagrams -><abstract>
+(or extended E-R Diagrams or Class Diagrams) is a difficult task -><abstract>
+for most students. Some students manage this task in their first -><abstract>
+undergraduate class by simply memorizing the rules and never -><abstract>
+knowing the reasons behind why the rule was created. Therefore -><abstract>
+when they get to more advanced classes they had forgotten how to -><abstract>
+accomplish the conversion because they never understood the -><abstract>
+reasons behind the rules. -><abstract>
+Developing an E-R Diagram from a Scenario is an even more -><abstract>
+difficult task to master. The Kennesaw Database Courseware site -><abstract>
+has many other topics such as SQL, Transactional SQL, -><abstract>
+Concurrency, Recovery and Triggers. Our study involved -><abstract>
+enhancing the Kennesaw Database Courseware site -><abstract>
+(http://coffee.kennesaw.edu) with respect to the database design -><abstract>
+portion of the site because it currently is the weakest sub-module. -><abstract>
+The structure is too sequential, and the screens are cluttered and -><abstract>
+show too much information at one time. The first two prototypes -><abstract>
+will be: Physician Assigns Drug to Patient (ternary relationship), -><abstract>
+and Vendor Supplies Product and Customer Places Order (two -><abstract>
+binary relationship). The other redesigned exercises will be: -><abstract>

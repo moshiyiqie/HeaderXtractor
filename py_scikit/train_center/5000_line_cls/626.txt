@@ -1,0 +1,12 @@
+Team Formation and Communication Restrictions in -><title>
+Collectives -><title>
+Kagan Tumer -><author>
+NASA Ames Research Center -><affiliation>
+Mailstop 269-3 -><address>
+Moffett Field, CA 94035 -><address>
+kagan@ptolemy.arc.nasa.gov -><email>
+Adrian K. Agogino -><author>
+The University of Texas -><affiliation>
+ECE Department -><affiliation>
+Austin, TX 78712 -><address>
+agogino@ece.utexas.edu -><email>

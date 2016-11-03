@@ -1,0 +1,5 @@
+Testing the jGRASP Structure Identifier -><title>
+with Data Structure Examples from Textbooks -><title>
+Lacey Montgomery, James H. Cross II, T. Dean Hendrix, and Larry A. Barowski -><author>
+Computer Science and Software Engineering -><affiliation>
+Auburn University, AL 36849 -><affiliation>

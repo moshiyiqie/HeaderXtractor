@@ -1,0 +1,19 @@
+150 -><pubnum>
+Refjav: Tool for Automated Verification by Generating CCS -><title>
+of Multithreaded Java System in Distributed Environment -><title>
+Ashwini Kumar -><author>
+Computer Science Department -><affiliation>
+Institute of engineering & Rural Technology -><affiliation>
+26 Chatham lines, Prayag -><affiliation>
+Allahabad (UP) INDIA -><affiliation>
++91-9935255411 -><phone>
+simplyashwini@gmail.com -><email>
+Arpit -><author>
+Computer Science Department -><affiliation>
+Institute of engineering & Rural Technology -><affiliation>
+26 Chatham lines, Prayag -><affiliation>
+Allahabad (UP) INDIA -><affiliation>
++91-9621217774 -><phone>
+arpittabelabux@gmail.com -><affiliation>
+Page -><author>
+150 -><date>

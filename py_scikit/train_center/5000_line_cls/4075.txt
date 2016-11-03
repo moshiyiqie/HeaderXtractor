@@ -1,0 +1,22 @@
+Camera-based Interactions for Augmented Reality -><title>
+Otto Korkalo -><author>
+VTT Technical Research Centre of -><affiliation>
+Finland -><address>
+P.O. Box 1000 -><address>
+FI-02044 VTT -><pubnum>
++358 40 5319674 -><phone>
+otto.korkalo@vtt.fi -><email>
+Tatu Harviainen -><author>
+VTT Technical Research Centre of -><affiliation>
+Finland -><address>
+P.O. Box 1000 -><address>
+FI-02044 VTT -><pubnum>
++358 400 254078 -><phone>
+tatu.harviainen@vtt.fi -><email>
+Charles Woodward -><author>
+VTT Technical Research Centre of -><affiliation>
+Finland -><address>
+P.O. Box 1000 -><address>
+FI-02044 VTT -><pubnum>
++358 40 5001514 -><phone>
+charles.woodward@vtt.fi -><email>

@@ -1,0 +1,34 @@
+Automatic Support for Testing -><title>
+Web-Based Enterprise Applications -><title>
+Brandon Vega -><author>
+Alexander Gonzalez -><author>
+University of North -><affiliation>
+University of North -><affiliation>
+Florida -><author>
+Florida -><author>
+Arturo Sanchez -><author>
+University of North -><affiliation>
+Florida -><author>
+Gregory Jackson -><degree>
+Kemper Auto and Home -><degree>
+vvvvvvv vvvvvvvv vvvvv vvvv -><degree>
+v -><degree>
+CIS Department -><affiliation>
+CIS Department -><affiliation>
+CIS Department -><affiliation>
+5210 Belfort Rd, Suite 120 -><address>
+4567 St Johns Bluff Rd S -><address>
+4567 St Johns Bluff Rd S -><address>
+4567 St Johns Bluff Rd S -><address>
+Jacksonville, FL 32095 -><address>
+Jacksonville, FL 32224 -><address>
+Jacksonville, FL 32224 -><address>
+Jacksonville, FL 32224 -><address>
++1-904-596-4067 -><phone>
++1-904-620-1314 -><pubnum>
++1-904-620-1314 -><pubnum>
++1-904-620-1314 -><pubnum>
+GJackson@kagh.com -><email>
+asanchez@unf.edu -><email>
+vegb0001@unf.edu -><email>
+gona0001@unf.edu -><email>

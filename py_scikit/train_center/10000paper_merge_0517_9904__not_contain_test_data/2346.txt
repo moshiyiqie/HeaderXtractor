@@ -1,0 +1,21 @@
+A Truthful Budget Feasible Multi-Armed Bandit Mechanism -><title>
+for Crowdsourcing Time Critical Tasks -><title>
+∗ -><title>
+† -><title>
+Arpita Biswas -><author>
+Xerox Research Centre India -><affiliation>
+Bangalore, India -><address>
+arpita.biswas@xerox.com -><email>
+Shweta Jain -><author>
+Indian Institute of Science -><affiliation>
+Bangalore, India, 560012 -><address>
+jainshweta@csa.iisc.ernet.in -><email>
+‡ -><unknow>
+Debmalya Mandal -><author>
+School of Engineering and Applied Sciences -><affiliation>
+Harvard University, Cambridge, MA - 02138 -><affiliation>
+dmandal@g.harvard.edu -><email>
+Y. Narahari -><author>
+Indian Institute of Science -><affiliation>
+Bangalore, India, 560012 -><address>
+hari@csa.iisc.ernet.in -><email>

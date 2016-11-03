@@ -1,0 +1,6 @@
+A Development Toolkit to Realize -><title>
+Autonomous and Inter-operable Agents -><title>
+Federico Bergenti and Agostino Poggi -><title>
+Parco Area delle Scienze 181A, 43100 Parma, Italy -><author>
+Tel. +39 0521 905708, Fax +39 0521 905723 -><phone>
+{Bergenti,Poggi}@CE.UniPR.IT -><email>

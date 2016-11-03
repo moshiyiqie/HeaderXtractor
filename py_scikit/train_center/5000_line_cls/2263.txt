@@ -1,0 +1,12 @@
+Behavioral Game Theoretic Models: -><title>
+A Bayesian Framework For Parameter Analysis -><title>
+Kevin Leyton-Brown -><author>
+Department of Computer Science -><affiliation>
+University of British Columbia -><affiliation>
+Vancouver, B.C., Canada, V6T 1Z4 -><address>
+kevinlb@cs.ubc.ca -><email>
+James R. Wright -><author>
+Department of Computer Science -><affiliation>
+University of British Columbia -><affiliation>
+Vancouver, B.C., Canada, V6T 1Z4 -><address>
+jrwright@cs.ubc.ca -><email>

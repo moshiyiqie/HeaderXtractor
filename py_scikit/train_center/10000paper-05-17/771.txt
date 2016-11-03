@@ -1,0 +1,6 @@
+Evaluating Models of Speaker Head Nods for Virtual -><title>
+Agents -><title>
+Jina Lee, Zhiyang Wang and Stacy Marsella -><author>
+Institute for Creative Technologies -><affiliation>
+University of Southern California, USA -><affiliation>
+{jlee, zwang, marsella}@ict.usc.edu -><email>

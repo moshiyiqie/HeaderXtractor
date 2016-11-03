@@ -1,0 +1,7 @@
+Recent Advances in Mobility Modeling for Mobile Ad Hoc -><title>
+Network Research -><title>
+Qunwei Zheng, Xiaoyan Hong, and Sibabrata Ray -><author>
+Department of Computer Science -><affiliation>
+University of Alabama, Box 870290 -><affiliation>
+Tuscaloosa, AL 35487-0290 -><address>
+{qzheng, hxy, sibu}@cs.ua.edu -><email>

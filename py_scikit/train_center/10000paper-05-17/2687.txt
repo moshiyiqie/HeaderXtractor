@@ -1,0 +1,5 @@
+Fairness and False-Name Manipulations -><title>
+in Randomized Cake Cutting -><title>
+Shunsuke Tsuruta, Masaaki Oka, Taiki Todo, Yuko Sakurai, and Makoto Yokoo -><author>
+Kyushu University, Fukuoka 819-0395, Japan -><affiliation>
+{ tsuruta@agent., oka@agent., todo@, ysakurai@, yokoo@ } inf.kyushu-u.ac.jp -><email>

@@ -1,0 +1,13 @@
+Evaluating Coverage Based Intention Selection -><title>
+Lin Padgham -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+lin.padgham@rmit.edu.au -><email>
+Max Waters -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+max.waters@rmit.edu.au -><email>
+Sebastian Sardina -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+sebastian.sardina@rmit.edu.au -><email>

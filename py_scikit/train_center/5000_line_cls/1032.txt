@@ -1,0 +1,7 @@
+Access Control with Safe Role Assignment for Mobile -><title>
+Agents -><title>
+G. Navarro, J. Borrell, J. A. Ortega-Ruiz and S. Robles -><author>
+Dept. of Information and Communications Engineering -><affiliation>
+Universitat Auto`noma de Barcelona -><affiliation>
+08193 Bellaterra, Spain -><address>
+{gnavarro, jborrell, jao, srobles}@ccd.uab.es -><email>

@@ -1,0 +1,20 @@
+Local Consensus Ontologies for B2B-Oriented -><title>
+Service Composition -><title>
+Anand Padmanabhan -><author>
+University of Iowa -><affiliation>
+14 MacLean Hall -><address>
+Iowa City, IA 52242 -><address>
+(319) 335-3650 -><phone>
+apadmana@cs.uiowa.edu -><email>
+Andrew Williams -><author>
+University of Iowa -><affiliation>
+5015 Seamans Center -><address>
+Iowa City, IA 52242 -><address>
+(319) 384-0833 -><phone>
+abwill@engineering.uiowa.edu -><email>
+M. Brian Blake -><author>
+Georgetown University -><affiliation>
+234 Reiss Science Building -><address>
+Washington, DC 20057 -><address>
+(202) 687-3084 -><phone>
+blakeb@cs.georgetown.edu -><email>

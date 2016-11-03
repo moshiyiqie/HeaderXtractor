@@ -1,0 +1,12 @@
+Analyzing the Efficiency of Strategies for -><title>
+MAS-based Sensor Interpretation and Diagnosis∗ -><title>
+Norman Carver -><author>
+Computer Science Department -><affiliation>
+Southern Illinois University Carbondale -><affiliation>
+Carbondale, IL, USA -><address>
+carver@cs.siu.edu -><email>
+Ruj Akavipat -><author>
+Computer Science Department -><affiliation>
+Indiana University -><affiliation>
+Bloomington, IN, USA -><address>
+ruj a@yahoo.com -><email>

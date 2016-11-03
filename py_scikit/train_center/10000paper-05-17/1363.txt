@@ -1,0 +1,16 @@
+Reinforcement Learning Transfer via Sparse Coding -><title>
+Haitham B. Ammar -><author>
+Maastricht University, The Netherlands -><affiliation>
+haitham.bouammar@maastrichtuniversity.nl -><author>
+Karl Tuyls -><author>
+Maastricht University, The Netherlands -><affiliation>
+k.tuyls@maastrichtuniversity.nl -><author>
+Kurt Driessens -><author>
+Maastricht University, The Netherlands -><affiliation>
+kurt.driessens@maastrichtuniversity.nl -><author>
+Matthew E. Taylor -><author>
+Lafayette College, USA -><affiliation>
+taylorm@lafayette.edu -><email>
+Gerhard Weiss -><author>
+Maastricht University, The Netherlands -><affiliation>
+gerhard.weiss@maastrichtuniversity.nl -><affiliation>

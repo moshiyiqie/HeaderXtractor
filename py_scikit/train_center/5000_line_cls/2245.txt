@@ -1,0 +1,14 @@
+Stability Scores: Measuring Coalitional Stability -><title>
+Reshef Meir -><author>
+Microsoft Research and Hebrew -><affiliation>
+University of Jerusalem -><affiliation>
+reshef.meir@mail.huji.ac.il -><email>
+Michal Feldman -><author>
+Harvard University and Hebrew -><affiliation>
+University of Jerusalem∗ -><affiliation>
+mfeldman@seas.harvard.edu -><email>
+Moshe Tennenholtz -><author>
+Microsoft Research and -><affiliation>
+Technion-Israel Institute of -><affiliation>
+Technology -><affiliation>
+moshet@microsoft.com -><email>

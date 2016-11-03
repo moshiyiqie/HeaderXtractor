@@ -1,0 +1,10 @@
+A Verifying Core for a Cryptographic Language Compiler∗ -><title>
+† -><title>
+Lee Pike -><author>
+leepike@galois.com -><email>
+Mark Shields -><author>
+mbs@cartesianclosed.com -><email>
+John Matthews -><author>
+matthews@galois.com -><email>
+Galois Connections -><affiliation>
+Beaverton, Oregon, USA -><address>

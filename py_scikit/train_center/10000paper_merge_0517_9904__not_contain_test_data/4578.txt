@@ -1,0 +1,11 @@
+Reordering an index to speed query processing without -><title>
+loss of effectiveness. -><title>
+Timothy Jones -><author>
+Funnelback Pty Ltd. -><affiliation>
+Melbourne VIC 3066, Australia -><address>
+tjones@funnelback.com -><email>
+David Hawking -><author>
+Funnelback Pty Ltd. -><affiliation>
+Canberra ACT 2602, Australia, and -><address>
+RsCS, Australian National University -><affiliation>
+david.hawking@acm.org -><email>

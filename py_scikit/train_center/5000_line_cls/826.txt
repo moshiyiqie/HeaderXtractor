@@ -1,0 +1,16 @@
+A Dialogue Game to Offer an Agreement to Disagree -><title>
+Henk-Jan Lebbink -><author>
+Computer Science -><affiliation>
+Utrecht/Radboud University -><affiliation>
+the Netherlands -><address>
+henkjan@cs.uu.nl -><email>
+John-Jules Meyer -><author>
+Computer Science -><affiliation>
+Utrecht University -><affiliation>
+the Netherlands -><address>
+jj@cs.uu.nl -><email>
+Cilia Witteman -><unknow>
+Social Sciences -><title>
+Radboud University -><affiliation>
+the Netherlands -><address>
+c.witteman@socsci.kun.nl -><email>

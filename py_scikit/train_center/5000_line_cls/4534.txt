@@ -1,0 +1,7 @@
+Efficient and Effective Classification of Creditworthiness -><title>
+using Ant Colony Optimization -><title>
+Rojin Aliehyaei -><author>
+School of Computer Science -><affiliation>
+Columbus State University -><affiliation>
+4225 University Avenue, Columbus, GA 31907, USA -><affiliation>
+aliehyaei_rojin@columbusstate.edu -><email>

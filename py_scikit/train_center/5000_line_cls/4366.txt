@@ -1,0 +1,12 @@
+Using Randomized Projection Techniques to Aid in -><title>
+Detecting High-Dimensional Malicious Applications -><title>
+Travis Atkison -><author>
+Department of Computer Science -><affiliation>
+Louisiana Tech University -><affiliation>
+Ruston, LA 71270 -><address>
+atkison@latech.edu -><email>
+Jan Durand -><author>
+Department of Computer Science -><affiliation>
+Louisiana Tech University -><affiliation>
+Ruston, LA 71270 -><address>
+jrd037@latech.edu -><email>

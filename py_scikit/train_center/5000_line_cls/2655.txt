@@ -1,0 +1,8 @@
+Security Games with Surveillance Cost and Optimal -><title>
+Timing of Attack Execution -><title>
+Bo An1, Matthew Brown2, Yevgeniy Vorobeychik3, Milind Tambe2 -><author>
+1The Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy -><affiliation>
+of Sciences, Beijing, 100190, China -><address>
+2University of Southern California, Los Angeles, CA, 90089, USA -><affiliation>
+3Sandia National Laboratories∗, Livermore, CA 94550, USA -><affiliation>
+1boan@ict.ac.cn, 2{mattheab,tambe}@usc.edu, 3yvorobe@sandia.gov -><email>

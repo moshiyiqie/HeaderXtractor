@@ -1,0 +1,5 @@
+QueryTracker: An Agent for Tracking Persistent Information Needs -><title>
+Gabriel Somlo Adele E. Howe -><author>
+Computer Science Dept., Colorado State University -><affiliation>
+Fort Collins, CO 80523 USA -><address>
+{somlo,howe}@cs.colostate.edu -><email>

@@ -1,0 +1,11 @@
+Synchronized -><title>
+Jong-Chul -><title>
+In-Kwon -><title>
+Dept. -><author>
+Dept. -><note>
+Yonsei -><note>
+Seoul, -><note>
+media19@cs.yonsei.ac.kr -><email>
+Yonsei -><affiliation>
+Seoul, -><address>
+iklee@yonsei.ac.kr -><email>

@@ -1,0 +1,7 @@
+Communication-constrained DCOPs: Message -><title>
+approximation in GDL with function filtering -><title>
+Marc Pujol-Gonzalez, Jesus Cerquides, Pedro Meseguer, J. A. Rodriguez-Aguilar -><author>
+Artificial Intelligence Research Institute (IIIA) -><affiliation>
+Spanish Scientific Research Council (CSIC) -><affiliation>
+Campus de la UAB, Bellaterra, Spain -><address>
+{mpujol, cerquide, pedro, jar}@iiia.csic.es -><email>

@@ -1,0 +1,17 @@
+Making Norms Concrete∗ -><title>
+Huib Aldewereld -><author>
+Universiteit Utrecht -><affiliation>
+The Netherlands -><address>
+huib@cs.uu.nl -><email>
+Sergio Álvarez-Napagao -><author>
+Universitat Politècnica de -><affiliation>
+Catalunya, Barcelona, Spain -><address>
+salvarez@lsi.upc.edu -><email>
+Frank Dignum -><author>
+Universiteit Utrecht -><affiliation>
+The Netherlands -><address>
+dignum@cs.uu.nl -><email>
+Javier Vázquez-Salceda -><author>
+Universitat Politècnica de -><affiliation>
+Catalunya, Barcelona, Spain -><address>
+jvazquez@lsi.upc.edu -><email>

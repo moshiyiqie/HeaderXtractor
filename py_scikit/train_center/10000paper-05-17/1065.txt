@@ -1,0 +1,19 @@
+Learning Action Models for Multi-Agent Planning -><title>
+Hankz Hankui Zhuo -><author>
+Dept of Computer Science, -><affiliation>
+Sun Yat-sen University, -><affiliation>
+Guangzhou, China. -><address>
+zhuohank@mail.sysu.edu.cn -><email>
+Hector Muñoz-Avila -><author>
+Dept of Computer Science & -><affiliation>
+Engineering, -><email>
+Lehigh University, -><affiliation>
+Bethlehem, PA, USA -><address>
+munoz@cse.lehigh.edu -><email>
+Qiang Yang -><author>
+Dept of Computer Science & -><affiliation>
+Engineering, -><email>
+Hong Kong University of -><affiliation>
+Science and Technology, -><affiliation>
+Kowloon, Hong Kong. -><address>
+qyang@cse.ust.hk -><email>

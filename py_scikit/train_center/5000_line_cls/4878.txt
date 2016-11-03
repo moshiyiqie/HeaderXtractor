@@ -1,0 +1,23 @@
+Efficient Route Establishment and Maintenance in -><title>
+Wireless Sensor Networks with Mobile Base Stations -><title>
+Esther A. Hughes -><author>
+Electrical Engineering -><affiliation>
+Department -><affiliation>
+Virginia Commonwealth -><author>
+University -><affiliation>
+Richmond, VA -><address>
+eahughes@vcu.edu -><email>
+Hongsik Choi -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+Virginia Commonwealth -><author>
+University -><affiliation>
+Richmond, VA -><address>
+hchoi@vcu.edu -><email>
+Ju Wang -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+Virginia Commonwealth -><author>
+University -><affiliation>
+Richmond, VA -><address>
+jwang3@vcu.edu -><email>

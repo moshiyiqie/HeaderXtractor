@@ -1,0 +1,14 @@
+A Logical Model of Social Commitment -><title>
+for Agent Communication -><title>
+Marco Colombetti -><author>
+Politecnico di Milano -><affiliation>
+Piazza Leonardo da Vinci 32, 20133 Milano, Italy -><affiliation>
+University of Lugano -><affiliation>
+Via Buffi 13, 6904 Lugano, Switzerland -><address>
+Marco.Colombetti@PoliMi.It -><email>
+Mario Verdicchio -><email>
+Politecnico di Milano -><author>
+Dipartimento di Elettronica e Informazione -><affiliation>
+Piazza Leonardo da Vinci 32, 20133 Milano, Italy -><address>
+Phone: +39-02-2399-3686 -><phone>
+Mario.Verdicchio@Elet.PoliMi.It -><email>

@@ -1,0 +1,12 @@
+Towards Network Containment -><title>
+in Malware Analysis Systems -><title>
+Mariano Graziano -><author>
+Institut Eurecom -><affiliation>
+graziano@eurecom.fr -><email>
+Davide Balzarotti -><author>
+Institut Eurecom -><affiliation>
+balzarotti@eurecom.fr -><email>
+Corrado Leita -><author>
+Symantec Research Labs -><affiliation>
+corrado_leita -><web>
+@symantec.com -><email>

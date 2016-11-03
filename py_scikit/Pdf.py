@@ -28,7 +28,17 @@ class Pdf:
 		self.ypos=[]
 		self.xpos=[]
 		self.charSizes=[]
-	#è·å¾—PDFæ–‡ä»¶çš„å¤´éƒ¨ã€å­—ä½“ã€å¤§å°
+	
+	#»ñµÃPDFÎÄ¼şÄÚÈİ
+	def getPdfTextContent(self,pdfpath):
+		pdfboxOutputPath = './py_scikit/tmp/pdfboxResult_text.txt'
+		oscmd='java -Dfile.encoding=utf-8 -jar ./py_scikit/PDFManager.jar ' + pdfpath + ' > ' + pdfboxOutputPath
+		os.system(oscmd)
+		pdfContent = open(pdfboxOutputPath).readlines()
+		#print ''.join(pdfContent)
+		return pdfContent
+	
+	#»ñµÃPDFÎÄ¼şµÄÍ·²¿¡¢×ÖÌå¡¢´óĞ¡
 	def loadPdfByPDFbox(self,pdfpath):
 		pdfboxOutputPath = './py_scikit/tmp/pdfboxResult.txt'
 		oscmd='java -Dfile.encoding=utf-8 -jar ./py_scikit/PDFManagerSizeFont-openjdk.jar ' + pdfpath + ' ' + pdfboxOutputPath
@@ -40,13 +50,13 @@ class Pdf:
 		open('./py_scikit/tmp/pdfContentDEBUG.txt','w').writelines(pdfContent)
 		lineNo=1
 		
-		#====================pdfContent æ ¼å¼====================
+		#====================pdfContent ¸ñÊ½====================
 		#fonts sizes ypos xpos content xpos charSizes	charXpos
 		#0	   1 	 2 	  3    4       5    6			7
 		for line in pdfContent:
 			#print 'line:', line
 			line = line.strip()
-			line = line.replace('*','')#å»æ‰*å·ï¼Œä¸è®¤ä¸º*å·æ˜¯è§’æ ‡
+			line = line.replace('*','')#È¥µô*ºÅ£¬²»ÈÏÎª*ºÅÊÇ½Ç±ê
 			if len(line)==0: continue
 			if (lineNo>=2 and ('abstract' in line.lower() or 'introduction' in line.lower())) or lineNo>=35: break
 			first = True
@@ -81,9 +91,9 @@ class Pdf:
 		self.xpos[i], self.xpos[j] = self.xpos[j], self.xpos[i]
 		self.charSizes[i], self.charSizes[j] = self.charSizes[j], self.charSizes[i]
 	
-	#æ ¹æ®æ¯ä¸€è¡Œçš„yåæ ‡è¿›è¡Œæ’åº
+	#¸ù¾İÃ¿Ò»ĞĞµÄy×ø±ê½øĞĞÅÅĞò
 	def sortByYpos(self):
-		LINE_BETWEEN = 5.0 #è¡Œé—´è·
+		LINE_BETWEEN = 5.0 #ĞĞ¼ä¾à
 		
 		length = len(self.ypos)
 		for i in range(length):
@@ -115,7 +125,7 @@ class Pdf:
 				else: 
 					verVec[j].append(lineVec[i][j])
 		#print 'verVec::', verVec
-		#å°†æ•°ç»„å˜ä¸ºæ’å‡ºçš„é¡ºåº
+		#½«Êı×é±äÎªÅÅ³öµÄË³Ğò
 		finalSeq = []
 		for col in verVec:
 			for No in col:
@@ -147,7 +157,7 @@ class Pdf:
 		self.charSizes=charSizes
 		
 		
-	#å¾—åˆ°lineNoè¡Œçš„å¹³å‡å­—ä½“å¤§å°
+	#µÃµ½lineNoĞĞµÄÆ½¾ù×ÖÌå´óĞ¡
 	def getAverageCharSizeForLine(self,lineNo):
 		i = lineNo
 		averageCharSize = 0.0
@@ -161,7 +171,7 @@ class Pdf:
 		averageCharSize /= charNum
 		return averageCharSize
 		
-	#æ˜¯å¦å«æœ‰è§’æ ‡
+	#ÊÇ·ñº¬ÓĞ½Ç±ê
 	def hasIndex(self, lineNo):
 		#print self.header[lineNo]
 		lineCharSizes = self.charSizes[lineNo]
@@ -176,8 +186,8 @@ class Pdf:
 			#print 'lineCharSizes[i]', lineCharSizes[i]
 
 			#assert(len(list(wordList[i])) == len(lineCharSizes[i]))
-			while len(lineCharSizes[i]) < len(list(wordList[i])):#å¯¹assertçš„ä¿®è¡¥
-				lineCharSizes[i].append(lineCharSizes[-1])#å¯¹assertçš„ä¿®è¡¥
+			while len(lineCharSizes[i]) < len(list(wordList[i])):#¶ÔassertµÄĞŞ²¹
+				lineCharSizes[i].append(lineCharSizes[-1])#¶ÔassertµÄĞŞ²¹
 
 
 			for j in range(len(wordList[i])):
@@ -185,7 +195,7 @@ class Pdf:
 					return True
 		return False
 		
-	#å¯¹lineNoè¡Œï¼Œå¦‚æœæœ‰è§’æ ‡ï¼Œå°†è§’æ ‡æŠ½å‡ºå¹¶æ ¹æ®è§’æ ‡åšsplitåˆ’åˆ†
+	#¶ÔlineNoĞĞ£¬Èç¹ûÓĞ½Ç±ê£¬½«½Ç±ê³é³ö²¢¸ù¾İ½Ç±ê×ösplit»®·Ö
 	def handleIndex(self, lineNo):
 		lineCharSizes = self.charSizes[lineNo]
 		attributesList=[]
@@ -222,7 +232,7 @@ class Pdf:
 				attributesIndex[i][j] = utf8(attributesIndex[i][j])
 		return attributesList, attributesIndex
 	
-	#ç¬¬lineNoè¡Œæ˜¯å¦æœ‰æ˜æ˜¾çš„å¤§ç©ºæ ¼
+	#µÚlineNoĞĞÊÇ·ñÓĞÃ÷ÏÔµÄ´ó¿Õ¸ñ
 	def hasObviousBigSpace(self,lineNo):
 		words = self.header[lineNo].strip().split()
 		if len(words) == 1:
@@ -238,7 +248,7 @@ class Pdf:
 				return True
 		return False
 	
-	#ç¬¬lineNoè¡Œç”¨æ˜æ˜¾çš„å¤§ç©ºæ ¼åˆ†åˆ—
+	#µÚlineNoĞĞÓÃÃ÷ÏÔµÄ´ó¿Õ¸ñ·ÖÁĞ
 	def splitByObviousBigSpace(self,lineNo):
 		words = self.header[lineNo].strip().split()
 		if len(words) == 1:
@@ -258,3 +268,6 @@ class Pdf:
 		if one != '':
 			list.append(one)
 		return list
+if __name__ == '__main__':
+	#Pdf().getPdfTextContent(r'D:\acm_paper\10000paper-05-17\701.pdf')
+	a=1

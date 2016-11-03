@@ -1,0 +1,5 @@
+Measuring the Learning Benefits of Electronic -><title>
+Teaching Aids in Low-Resource Classrooms -><title>
+Linda Nixon1, Jona Roy1, Hema Latha1, Sachin Rao1, Bhagya Rangachar1, and William Thies2 -><author>
+1CLT India 2Microsoft Research India -><affiliation>
+{linda,jona,hemalatha,sachin,bhagya}@cltindia.org thies@microsoft.com -><email>

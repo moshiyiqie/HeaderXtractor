@@ -1,0 +1,34 @@
+Iteration Aware Prefetching for Scientic Data -><title>
+R. Daniel Bergeron -><author>
+Department of Computer Science -><affiliation>
+University of New Hampshire -><affiliation>
+Durham, NH 03824 -><address>
+rdb@cs.unh.edu -><email>
+Philip J. Rhodes -><author>
+Department of Computer and -><affiliation>
+Information Technology University -><affiliation>
+of Mississippi -><affiliation>
+rhodes@cs.olemiss.edu -><email>
+Dan R. Lipsa -><author>
+Department of Information -><affiliation>
+Technology Armstrong Atlantic -><affiliation>
+State University Savannah, GA -><affiliation>
+31419 -><pubnum>
+dlipsa@drake.armstrong.edu -><email>
+1 Problem and Motivation -><date>
+We dene scientic data as multidimensional data obtained either -><abstract>
+from the real world or from a simulation. Two characteristics which -><abstract>
+are important for our research are that this data is large in size and -><abstract>
+the retrieval is often volumetric, meaning that data retrieval is -><abstract>
+done by querying a sub-volume of data. [4]. -><abstract>
+Today’s scientic data are measured in terabytes. The sensors used -><abstract>
+to acquire this data are becoming more and more sophisticated; -><abstract>
+therefore, the size of the data that we need to process is likely to -><abstract>
+keep increasing. -><abstract>
+In the past fteen years there was a thousand-fold increase in pro- -><abstract>
+cessor speed, and even a greater increase in memory and hard-disk -><abstract>
+size [1, 2]. However, the average seek time of hard disk drives have -><abstract>
+improved only marginally in the same time period. If this trend con- -><abstract>
+tinues in the future, hard disk seek time will lag even further behind. -><abstract>
+This fact negatively affects the speed of scientic data retrieval. -><abstract>
+A le system uses a general method (le system cache) to reduce -><abstract>

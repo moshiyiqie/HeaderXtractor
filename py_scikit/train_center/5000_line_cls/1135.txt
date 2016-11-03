@@ -1,0 +1,5 @@
+Agent-Organized Networks for Dynamic Team Formation -><title>
+Matthew E. Gaston Marie desJardins -><author>
+Department of Computer Science and Electrical Engineering -><affiliation>
+University of Maryland Baltimore County -><affiliation>
+{mgasto1, mariedj}@cs.umbc.edu -><email>

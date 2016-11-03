@@ -1,0 +1,12 @@
+Merging algorithms for enterprise search -><title>
+PengFei (Vincent) Li -><author>
+Australian National University -><affiliation>
+u4959060@anu.edu.au -><email>
+David Hawking -><author>
+Funnelback Pty Ltd and -><affiliation>
+Australian National University -><affiliation>
+david.hawking@acm.org -><email>
+Paul Thomas -><author>
+CSIRO and -><affiliation>
+Australian National University -><affiliation>
+paul.thomas@csiro.au -><email>

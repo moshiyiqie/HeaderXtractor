@@ -1,0 +1,16 @@
+3D Face Authentication by Mutual Coupled 3D and 2D -><note>
+Feature Extraction -><title>
+W. C. Chen2, W. Y. Ho3 -><author>
+Industrial Technology Research Institute -><affiliation>
+Bldg. 51, 195, Sec. 4, Chung Hsing Rd., -><affiliation>
+Chutung, Hsinchu, Taiwan 310 -><address>
+Phone: (886)-3-591-5743 -><phone>
+T. H. Lin1, W. P. Shih4 -><author>
+National Taiwan University -><affiliation>
+No.1, Sec. 4, Roosevelt Rd., -><address>
+Taipei, Taiwan 106 -><address>
+Phone: (886)-2-3366-2773 -><phone>
+E-mail: d88522005@ntu.edu.tw1 -><email>
+wpshih@ntu.edu.tw4 -><email>
+E-mail: chaody@itri.org.tw2 -><email>
+hawaii@itri.org.tw3 -><email>

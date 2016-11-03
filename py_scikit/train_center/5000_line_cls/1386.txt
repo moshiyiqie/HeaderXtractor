@@ -1,0 +1,26 @@
+Verifying space and time requirements for -><title>
+resource-bounded agents -><title>
+Piergiorgio Bertoli -><author>
+ITC-IRST -><affiliation>
+Trento, Italy -><address>
+bertoli@itc.it -><email>
+Chiara Ghidini -><author>
+ITC-IRST -><affiliation>
+Trento, Italy -><address>
+ghidini@itc.it -><email>
+Natasha Alechina -><author>
+University of Nottingham -><affiliation>
+Nottingham, UK -><address>
+nza@cs.nott.ac.uk -><email>
+Brian Logan -><author>
+University of Nottingham -><affiliation>
+Nottingham, UK -><address>
+bsl@cs.nott.ac.uk -><email>
+Luciano Serafini -><author>
+ITC-IRST -><affiliation>
+Trento, Italy -><address>
+luciano.serafini@itc.it -><email>
+Mark Jago -><author>
+University of Nottingham -><affiliation>
+Nottingham, UK -><address>
+mtw@cs.nott.ac.uk -><email>

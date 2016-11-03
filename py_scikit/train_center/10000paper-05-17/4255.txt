@@ -1,0 +1,11 @@
+AOJS: Aspect-Oriented JavaScript Programming -><title>
+Framework for Web Development -><title>
+Hironori Washizaki,Atsuto Kubo,Tomohiko Mizumachi,Kazuki Eguchi,Yoshiaki Fukazawa -><author>
+Waseda University, 3-4-1, Okubo, Shinjuku-ku, Tokyo, Japan -><affiliation>
+washizaki@waseda.jp, {a.kubo, t.mizu, wirbelwind, fukazawa}@fuka.info.waseda.ac.jp -><email>
+Nobukazu Yoshioka, Hideyuki Kanuka, Toshihiro Kodaka -><author>
+National Institute of Infomatics, Hitachi, Ltd., Fujitsu Laboratories ltd. -><affiliation>
+nobukazu@nii.ac.jp, hideyuki.kanuka.dv@hitachi.com, tkodaka@jp.fujitsu.com -><email>
+Nobuhide Sugimoto, Yoichi Nagai, Rieko Yamamoto -><author>
+Toshiba Solutions Corporation, NEC Corporation, Fujitsu Laboratories ltd. -><affiliation>
+sugimoto.nobuhide@toshiba-sol.co.jp, y-nagai@bc.jp.nec.com, r.yamamoto@jp.fujitsu.com -><email>

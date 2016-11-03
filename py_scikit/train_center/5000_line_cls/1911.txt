@@ -1,0 +1,8 @@
+Exploration strategies based on Multi-Criteria Decision -><title>
+Making for search and rescue autonomous robots -><title>
+Nicola Basilico -><author>
+Politecnico di Milano, Italy -><affiliation>
+basilico@elet.polimi.it -><email>
+Francesco Amigoni -><author>
+Politecnico di Milano, Italy -><affiliation>
+amigoni@elet.polimi.it -><email>

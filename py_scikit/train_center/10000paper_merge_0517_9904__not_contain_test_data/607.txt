@@ -1,0 +1,5 @@
+A Cooperative Negotiation Protocol for Physiological Model Combination -><title>
+Nicola Gatti and Francesco Amigoni -><author>
+Dipartimento di Elettronica e Informazione -><affiliation>
+Politecnico di Milano, Milano, Italy -><address>
+{ngatti,amigoni}@elet.polimi.it -><email>

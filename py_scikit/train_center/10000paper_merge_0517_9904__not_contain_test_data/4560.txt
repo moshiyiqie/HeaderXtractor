@@ -1,0 +1,8 @@
+Efficient Decision Making Algorithms for Adaptive -><title>
+Applications -><title>
+Tim Smits -><author>
+Yves Vanrompay Yolande Berbers -><author>
+Tim.Smits@lid.kviv.be,{Yves.Vanrompay,Yolande.Berbers}@cs.kuleuven.be -><email>
+Department of Computer Science, Katholieke Universiteit Leuven -><affiliation>
+Celestijnenlaan 200A, 3001 Heverlee -><address>
+Belgium -><address>

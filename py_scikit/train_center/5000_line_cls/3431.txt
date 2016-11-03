@@ -1,0 +1,4 @@
+Mechanism Design for Daily Deals -><title>
+Binyi Chen1, Tao Qin2, Tie-Yan Liu2 -><author>
+1University of California, Santa Barbara 2Microsoft Research -><affiliation>
+1binyichen@cs.ucsb.edu 2{taoqin, tyliu}@microsoft.com -><email>

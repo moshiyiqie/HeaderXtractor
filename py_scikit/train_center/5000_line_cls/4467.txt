@@ -1,0 +1,13 @@
+A System for Evolving Neural Architectures -><title>
+Steve Donaldson -><author>
+Dept of Math and Computer Science -><affiliation>
+Samford University -><affiliation>
+Birmingham, AL -><address>
+1-205-726-2447 -><phone>
+sfdonald@samford.edu -><email>
+Chris Walling -><author>
+Dept of Math and Computer Science -><affiliation>
+Samford University -><affiliation>
+Birmingham, AL -><address>
+1-256-347-9006 -><phone>
+cwalling@samford.edu -><email>

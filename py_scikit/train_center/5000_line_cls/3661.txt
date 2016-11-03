@@ -1,0 +1,12 @@
+Tashi: Location-aware Cluster Management -><title>
+Michael A. Kozuch, Michael P. Ryan, Richard Gass, Steven W. Schlosser, David O’Hallaron -><author>
+{michael.a.kozuch,michael.p.ryan,richard.gass,steven.w.schlosser,david.ohallaron}@intel.com -><email>
+Intel Research Pittsburgh -><affiliation>
+4720 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+James Cipar, Elie Krevat, Julio López, Michael Stroucken, Gregory R. Ganger -><author>
+{jcipar,ekrevat}@cs.cmu.edu {jclopez,stroucki,ganger}@ece.cmu.edu -><email>
+Parallel Data Laboratory -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>

@@ -1,0 +1,20 @@
+An Experimental Setting to Measure Contextual Perception -><title>
+of Embodied Conversational Agents -><title>
+Manfred Tscheligi -><author>
+University of Salzburg -><affiliation>
+Sigmund Haffner Gasse 18 -><address>
+5020 Salzburg -><address>
+++43 662 8044 4811 -><phone>
+manfred.tscheligi@sbg.ac.at -><email>
+Regina Bernhaupt -><author>
+University of Salzburg -><affiliation>
+Sigmund Haffner Gasse 18 -><address>
+5020 Salzburg -><address>
+++43 662 8044 4814 -><phone>
+regina.bernhaupt@sbg.ac.at -><email>
+Michael Lankes -><author>
+University of Salzburg -><affiliation>
+Sigmund Haffner Gasse 18 -><address>
+5020 Salzburg -><address>
+++43 662 8044 4817 -><phone>
+michael.lankes@sbg.ac.at -><email>

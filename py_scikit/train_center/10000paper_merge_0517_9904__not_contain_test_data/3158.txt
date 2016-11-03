@@ -1,0 +1,29 @@
+Space+a: Participating Audience on Performance Stage -><title>
+Kosuke Kazato -><author>
+Suzuki Shugo -><author>
+Keio University Okude -><affiliation>
+Keio University Okude -><affiliation>
+Laboratory -><affiliation>
+Laboratory -><affiliation>
+5322 Endo Fujisawa -><address>
+5322 Endo Fujisawa -><address>
+Kanagawa Japan -><address>
+Kanagawa Japan -><address>
+Ryohei Takagi -><author>
+Keio University Okude -><affiliation>
+Laboratory -><affiliation>
+5322 Endo Fujisawa -><address>
+Kanagawa Japan -><address>
+Naohito Okude -><author>
+Keio University Okude -><affiliation>
+Laboratory -><affiliation>
+5322 Endo Fujisawa -><address>
+Kanagawa Japan -><address>
++81 -><pubnum>
++81 -><pubnum>
++81 -><pubnum>
++81 -><pubnum>
+okude@sfc.keio.ac.jp -><email>
+t05574rt@sfc.keio.ac.jp -><email>
+t05261kk@sfc.keio.ac.jp -><email>
+t05542ss@sfc.keio.ac.jp -><email>

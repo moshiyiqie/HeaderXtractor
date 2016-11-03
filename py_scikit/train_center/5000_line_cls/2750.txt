@@ -1,0 +1,4 @@
+Push and Rotate: Cooperative Multi-Agent Path Planning -><title>
+Boris de Wilde, Adriaan W. ter Mors, and Cees Witteveen -><author>
+Algorithmics Group, Delft University of Technology, Mekelweg 4, Delft, The Netherlands -><affiliation>
+boreus@gmail.com, {a.w.termors,c.witteveen}@tudelft.nl -><email>

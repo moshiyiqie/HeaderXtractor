@@ -1,0 +1,13 @@
+Conflict Management for Agent Guidance -><title>
+David N. Morley -><author>
+Artificial Intelligence Center -><affiliation>
+SRI International -><affiliation>
+333 Ravenswood Ave. -><address>
+Menlo Park, CA 94025 -><address>
+morley@ai.sri.com -><email>
+Karen L. Myers -><author>
+Artificial Intelligence Center -><affiliation>
+SRI International -><affiliation>
+333 Ravenswood Ave. -><address>
+Menlo Park, CA 94025 -><address>
+myers@ai.sri.com -><email>

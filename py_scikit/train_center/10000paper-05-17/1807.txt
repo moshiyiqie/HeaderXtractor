@@ -1,0 +1,12 @@
+Robin, an Empathic Virtual Buddy for Social Support -><title>
+(Demonstration) -><title>
+Virginia Dignum -><author>
+Delft University of Technology -><affiliation>
+Jaffalaan 5 -><address>
+2628 BX Delft, The Netherlands -><address>
+m.v.dignum@tudelft.nl -><email>
+Janneke M. van der Zwaan -><author>
+Delft University of Technology -><affiliation>
+Jaffalaan 5 -><address>
+2628 BX Delft, The Netherlands -><address>
+j.m.vanderzwaan@tudelft.nl -><email>

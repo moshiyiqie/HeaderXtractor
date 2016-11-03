@@ -1,0 +1,8 @@
+History-Dependent Graphical Multiagent Models -><title>
+Quang Duong∗ Michael P. Wellman∗ Satinder Singh∗ Yevgeniy Vorobeychik† -><author>
+†Computer & Information Science -><affiliation>
+∗Computer Science & Engineering -><affiliation>
+University of Michigan -><address>
+Ann Arbor, MI 48109-2121 USA -><address>
+University of Pennsylvania -><affiliation>
+Philadelphia, PA 19104 USA -><address>

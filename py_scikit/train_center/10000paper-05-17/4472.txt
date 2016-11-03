@@ -1,0 +1,8 @@
+New Models of Cache Architectures Characterizing -><title>
+Information Leakage from Cache Side Channels -><title>
+Tianwei Zhang -><author>
+Princeton University -><affiliation>
+tianweiz@princeton.edu -><email>
+Ruby B. Lee -><author>
+Princeton University -><affiliation>
+rblee@princeton.edu -><email>

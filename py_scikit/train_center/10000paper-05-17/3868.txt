@@ -1,0 +1,7 @@
+Intelligent Tutoring System for CS-I and II Laboratory -><title>
+Jungsoon Yoo, Chrisila Pettey, Sung Yoo, Judy Hankins, Cen Li, Suk Seo -><author>
+Computer Science Department -><affiliation>
+Middle Tennessee State University -><affiliation>
+Murfreesboro, TN 37132, USA -><address>
++1 615 898-2397 -><phone>
+csyoojp@mtsu.edu -><email>

@@ -1,0 +1,29 @@
+Race Condition in Ajax-based Web Application -><title>
+Xiang Fu -><author>
+Department of Computer Science -><affiliation>
+Georgia Southwestern State University -><affiliation>
+xfu@canes.gsw.edu -><email>
+Therese J Albert -><author>
+Department of Computer Science -><affiliation>
+Southern Polytechnic State University -><affiliation>
+talbert@spsu.edu -><email>
+Kai Qian -><author>
+Department of Computer Science -><affiliation>
+Southern Polytechnic State University -><affiliation>
+kqian@spsu.edu -><email>
+asynchronous based data communication. In the -><abstract>
+modern web application today, asynchronous -><abstract>
+introduces hazardous effect causing unexpected results. -><abstract>
+This paper discusses the race condition occurred -><abstract>
+between the user request and server response due to the -><abstract>
+asynchronous nature of the web application using Ajax. -><abstract>
+A race condition occurs when multiple threads in a -><abstract>
+process try to modify the critical section data at the -><abstract>
+same time. The data will depend on which thread -><abstract>
+arrived last. Concurrent requests will be running -><abstract>
+asynchronously and it is impossible to predict which will -><abstract>
+return first. The locking mechanism is not a very -><abstract>
+effective way but may avoid race condition. Our future -><abstract>
+project develops a more effective way to detect the race -><abstract>
+conditions while parsing. -><abstract>
+Dynamic Web application, Lock. -><note>

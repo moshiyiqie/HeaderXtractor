@@ -1,0 +1,10 @@
+Automatic Verification of Parameterised Interleaved -><title>
+Multi-Agent Systems -><title>
+Panagiotis Kouvaros -><author>
+Department of Computing -><affiliation>
+Imperial College London -><affiliation>
+panagiotis.kouvaros10@imperial.ac.uk -><email>
+Alessio Lomuscio -><author>
+Department of Computing -><affiliation>
+Imperial College London -><affiliation>
+a.lomuscio@imperial.ac.uk -><email>

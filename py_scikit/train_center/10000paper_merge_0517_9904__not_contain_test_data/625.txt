@@ -1,0 +1,11 @@
+(Im)Possibility of Unconditionally Privacy-Preserving Auctions -><title>
+Felix Brandt -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh PA 15213 -><address>
+brandtf@cs.cmu.edu -><email>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh PA 15213 -><address>
+sandholm@cs.cmu.edu -><email>

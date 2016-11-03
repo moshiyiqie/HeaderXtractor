@@ -1,0 +1,12 @@
+Decentralized Monitoring of Distributed Anytime -><title>
+Algorithms -><title>
+Alan Carlin -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003 -><address>
+acarlin@cs.umass.edu -><email>
+Shlomo Zilberstein -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003 -><address>
+shlomo@cs.umass.edu -><email>

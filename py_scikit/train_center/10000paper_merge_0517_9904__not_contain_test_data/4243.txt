@@ -1,0 +1,17 @@
+Parallel Integration of Planetary Systems on GPUs -><title>
+Jörg Peters -><author>
+Department of CISE -><affiliation>
+University of Florida -><affiliation>
+Gainesville, Florida -><address>
+32611-6120jorg@cise.ufl.edu -><email>
+Jianwei Gao -><author>
+Department of CISE -><affiliation>
+University of Florida -><affiliation>
+Gainesville, Florida -><address>
+32611-6120jgao@cise.ufl.edu -><email>
+Eric Ford -><author>
+Department of Astronomy -><affiliation>
+University of Florida -><affiliation>
+Gainesville, Florida -><address>
+32611-2055 -><phone>
+eford@astro.ufl.edu -><email>

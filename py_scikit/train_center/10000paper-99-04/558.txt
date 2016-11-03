@@ -1,0 +1,6 @@
+Exploration of Unknown Environments with Motivational Agents -><title>
+1Department of Informatics and Systems Engineering, Engineering Institute, Coimbra -><author>
+Polytechnic Institute, 3030 Coimbra, Portugal -><affiliation>
+2Artificial Intelligence Lab, Centre of Informatics and Systems, University of Coimbra, 3000 -><affiliation>
+Coimbra, Portugal -><address>
+lmacedo@isec.pt;{macedo,amilcar}@dei.uc.pt -><email>

@@ -1,0 +1,14 @@
+Tunably Decentralized Algorithms -><title>
+for Cooperative Target Observation -><title>
+Sean Luke -><author>
+sean@cs.gmu.edu -><email>
+Keith Sullivan -><author>
+ksulliv@cs.gmu.edu -><email>
+Liviu Panait -><author>
+lpanait@cs.gmu.edu -><email>
+Gabriel Balan -><author>
+gbalan@cs.gmu.edu -><email>
+Department of Computer Science -><affiliation>
+George Mason University -><affiliation>
+4400 University Dr, MSN 4A5 -><affiliation>
+Fairfax, VA 22030 USA -><address>

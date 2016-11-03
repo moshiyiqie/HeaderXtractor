@@ -1,0 +1,12 @@
+EVMAT:AnOVALandNVDBasedEnterpriseVulnerabilityModeling -><title>
+andAssessmentTool -><title>
+Bin WU -><author>
+Southern Polytechnic -><affiliation>
+State University -><affiliation>
+Andy Ju An WANG -><author>
+Southern Polytechnic -><affiliation>
+State University -><affiliation>
+Marietta, GA, USA -><address>
+Marietta, GA, USA -><address>
+bwu@spsu.edu -><email>
+jwang@spsu.edu -><email>

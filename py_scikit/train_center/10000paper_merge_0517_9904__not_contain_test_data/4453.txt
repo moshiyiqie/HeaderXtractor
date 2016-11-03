@@ -1,0 +1,14 @@
+DNS Authentication as a Service: -><title>
+Preventing Ampliﬁcation Attacks -><title>
+∗ -><title>
+† -><title>
+Haya Shulman -><title>
+Fachbereich Informatik -><author>
+Technische Universität Darmstadt -><affiliation>
+Darmstadt, Germany -><address>
+haya.shulman@gmail.com -><email>
+Amir Herzberg -><author>
+Department of Computer Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan, Israel -><address>
+amir.herzberg@gmail.com -><email>

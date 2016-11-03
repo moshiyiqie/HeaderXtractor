@@ -1,0 +1,13 @@
+Modeling Student Online Learning Using Clustering -><title>
+Cen Li -><author>
+Jungsoon Yoo -><author>
+Computer Science Department -><affiliation>
+Computer Science Department -><affiliation>
+Middle Tennessee State University -><affiliation>
+Middle Tennessee State University -><affiliation>
+Murfreesboro, TN 37132 -><address>
+Murfreesboro, TN 37132 -><address>
+(615) 904-8168 -><phone>
+(615) 898-5737 -><phone>
+cli@mtsu.edu -><email>
+csyoojp@mtsu.edu -><email>

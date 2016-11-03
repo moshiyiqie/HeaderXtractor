@@ -1,0 +1,7 @@
+Developing High-level Cognitive Functions -><title>
+for Service Robots -><title>
+Xiaoping Chen, Jianmin Ji, Jiehui Jiang, Guoqiang Jin, Feng Wang, and Jiongkun Xie -><author>
+Multi-Agent Systems Lab, School of Computer Science and Technology -><affiliation>
+University of Science and Technology of China -><affiliation>
+230026, Hefei, P.R. China -><address>
+xpchen@ustc.edu.cn, {jizheng,jhjiang,abxeeled,fenggew,devilxjk}@mail.ustc.edu.cn -><email>

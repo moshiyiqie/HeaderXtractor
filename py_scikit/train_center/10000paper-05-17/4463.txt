@@ -1,0 +1,13 @@
+NodeSentry: Least-privilege Library Integration for -><title>
+Server-Side JavaScript -><title>
+Fabio Massacci -><author>
+University of Trento -><affiliation>
+Fabio.Massacci@unitn.it -><email>
+Willem De Groef -><author>
+iMinds–DistriNet -><affiliation>
+KU Leuven, Belgium -><address>
+Willem.DeGroef@cs.kuleuven.be -><email>
+Frank Piessens -><author>
+iMinds–DistriNet -><affiliation>
+KU Leuven, Belgium -><address>
+Frank.Piessens@cs.kuleuven.be -><email>

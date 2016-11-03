@@ -1,0 +1,10 @@
+Automated Negotiation with Decommitment for Dynamic -><title>
+Resource Allocation in Cloud Computing -><title>
+Michael Zink -><author>
+Dept. of Electrical and Computer Engineering -><affiliation>
+University of Massachusetts, Amherst, USA -><affiliation>
+zink@ecs.umass.edu -><email>
+Bo An, Victor Lesser, David Irwin -><author>
+Dept. of Computer Science -><affiliation>
+University of Massachusetts, Amherst, USA -><affiliation>
+{ban,lesser,irwin}@cs.umass.edu -><email>

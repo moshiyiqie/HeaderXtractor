@@ -1,0 +1,17 @@
+∗ -><title>
+SEER: Practical Memory Virus Scanning as a Service -><title>
+Jason Gionta -><author>
+NC State University -><affiliation>
+jjgionta@ncsu.edu -><email>
+Ahmed Azab -><author>
+Samsung Electronics Co., Ltd. -><email>
+ahmedmoneeb@gmail.com -><email>
+William Enck -><author>
+NC State University -><affiliation>
+whenck@ncsu.edu -><email>
+Peng Ning -><author>
+NC State University -><affiliation>
+pningncsu.edu -><email>
+Xiaolan Zhang -><author>
+Google Inc. -><affiliation>
+czhang.us@gmail.com -><email>

@@ -1,0 +1,16 @@
+Cooperative Weakest Link Games -><title>
+Omer Lev -><author>
+Hebrew University of Jerusalem, Israel -><affiliation>
+omerl@cs.huji.ac.il -><email>
+Yoram Bachrach -><author>
+Microsoft Research, Cambridge, UK -><affiliation>
+yobach@microsoft.com -><email>
+Jeffrey S. Rosenschein -><author>
+Hebrew University of Jerusalem, Israel -><affiliation>
+jeff@cs.huji.ac.il -><email>
+Shachar Lovett -><author>
+University of California, San Diego -><affiliation>
+shachar.lovett@gmail.com -><email>
+Morteza Zadimoghaddam -><affiliation>
+MIT, Cambridge, Massachusetts -><address>
+zadimoghaddam@gmail.com -><email>

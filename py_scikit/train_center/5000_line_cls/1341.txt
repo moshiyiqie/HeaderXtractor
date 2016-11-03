@@ -1,0 +1,10 @@
+No-Commitment Branch and Bound Search for Distributed -><title>
+Constraint Optimization -><title>
+Katia Sycara -><author>
+Robotics Institute, Carnegie Mellon University -><affiliation>
+5000 Forbes Ave, Pittsburgh PA 15213, USA -><address>
+katia+@cs.cmu.edu -><email>
+Anton Chechetka -><author>
+Robotics Institute, Carnegie Mellon University -><affiliation>
+5000 Forbes Ave, Pittsburgh PA 15213, USA -><address>
+antonc@cs.cmu.edu -><email>

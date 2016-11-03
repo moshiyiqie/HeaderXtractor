@@ -1,0 +1,9 @@
+Matchmaking Among Minimal Agents Without a Facilitator -><title>
+Stamatis Vassiliadis -><author>
+Computer Engineering Laboratory, ITS -><affiliation>
+Delft University of Technology -><affiliation>
+stamatis@ce.et.tudelft.nl -><email>
+Elth Ogston -><author>
+Computer Engineering Laboratory, ITS -><affiliation>
+Delft University of Technology -><affiliation>
+elth@ce.et.tudelft.nl -><email>

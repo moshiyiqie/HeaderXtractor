@@ -1,0 +1,12 @@
+A Logic-Based Representation -><title>
+for Coalitional Games with Externalities -><title>
+Tomasz Michalak1, Dorota Marciniak2,3, Marcin Szamotulski2,4, Talal Rahwan1, -><author>
+Michael Wooldridge6, Peter McBurney6, and Nicholas R. Jennings1 -><author>
+1School of Electronics and Computer Science, University of Southampton, UK -><affiliation>
+{tpm,tr,nrj}@ecs.soton.ac.uk -><email>
+2National Institute of Telecommunications, Poland -><affiliation>
+4Universitat Politècnica de Catalunya, Spain -><affiliation>
+5Instituto Superior Técnico, Universidade Técnica de Lisboa, Portugal -><address>
+{dorofia,mszamot}@gmail.com -><email>
+6Department of Computer Science, University of Liverpool, UK -><affiliation>
+{mjw,mcburney}@liverpool.ac.uk -><email>

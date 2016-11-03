@@ -1,0 +1,13 @@
+Sentential Access Control -><title>
+Feng Zhu -><author>
+University of Alabama in Huntsville -><affiliation>
+300 Technology Hall -><address>
+Huntsville, AL 35899 -><address>
+(256) 824-6255 -><phone>
+Curt Lawson -><author>
+University of Alabama in Huntsville -><affiliation>
+300 Technology Hall -><address>
+Huntsville, AL 35899 -><address>
+(256) 824-6088 -><phone>
+fzhu {at} cs.uah.edu -><abstract>
+curt.lawson {at} computer.org -><abstract>

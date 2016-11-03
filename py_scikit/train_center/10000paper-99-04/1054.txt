@@ -1,0 +1,11 @@
+Teaching Object-Oriented Development with Emphasis on Pattern -><title>
+Application -><title>
+David Clark -><author>
+Division of Management and Technology -><affiliation>
+University of Canberra, ACT, 2601 -><affiliation>
+davidcL~ise.canberra.edu.au -><email>
+Lew Della -><author>
+School of Information Technology -><affiliation>
+Grlffith University -><affiliation>
+PMB 50 GCMC QLD 9726 -><address>
+I.dellad~au.edu.au -><email>

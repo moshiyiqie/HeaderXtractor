@@ -1,0 +1,8 @@
+Intelligent Library Navigation using Location-aware -><title>
+Brian Sciacchitano, Chris Cerwinski, Ivan Brown, Miten Sampat, Jason Chong Lee, D. Scott -><author>
+McCrickard -><author>
+Center for Human-Computer Interaction and Department of Computer Science -><affiliation>
+Virginia Polytechnic Institute and State University, -><affiliation>
+Blacksburg, VA, 24061-0106 USA -><address>
+1-540-231-7409 -><phone>
+{bsciacch, ccerwins, ivbrown, msampat, chonglee, mccricks}@vt.edu -><email>

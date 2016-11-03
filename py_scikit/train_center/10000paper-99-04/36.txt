@@ -1,0 +1,15 @@
+From AOSE Methodology to Agent Implementation -><title>
+Yves Deville -><author>
+Philippe Massonet -><author>
+CEDITI -><affiliation>
+CEDITI -><affiliation>
+Place Ste Barbe 2 -><address>
+1348 LOUVAIN-LA-NEUVE Belgium -><address>
++32 10 47 31 50 -><phone>
+yde@info.ucl.ac.be -><email>
+B-6040 GOSSELIES Belgium -><address>
++32 71 25 94 25 -><phone>
+phm@cediti.be -><email>
+B-6040 GOSSELIES Belgium -><address>
++32 71 25 94 25 -><phone>
+cn@cediti.be -><email>

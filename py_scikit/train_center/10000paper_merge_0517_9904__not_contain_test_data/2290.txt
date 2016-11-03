@@ -1,0 +1,9 @@
+Evolution of Cooperation in Arbitrary Complex Networks -><title>
+Bijan Ranjbar-Sahraei1, Haitham Bou Ammar2, Daan Bloembergen1, Karl Tuyls3 and -><author>
+Gerhard Weiss1 -><author>
+1Maastricht University, The Netherlands -><affiliation>
+{b.ranjbarsahraei, daan.bloembergen, gerhard.weiss}@maastrichtuniversity.nl -><affiliation>
+2University of Pennsylvania, PA, United States -><affiliation>
+haithamb@seas.upenn.edu -><email>
+3University of Liverpool, United Kingdom -><affiliation>
+k.tuyls@liverpool.ac.uk -><email>

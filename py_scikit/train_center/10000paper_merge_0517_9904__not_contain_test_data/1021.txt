@@ -1,0 +1,13 @@
+Optimal Temporal Decoupling in Multiagent Systems -><title>
+Léon R. Planken -><author>
+Delft University of Technology -><affiliation>
+Delft, The Netherlands -><address>
+L.R.Planken@tudelft.nl -><email>
+Mathijs M. de Weerdt -><author>
+Delft University of Technology -><affiliation>
+Delft, The Netherlands -><address>
+M.M.deWeerdt@tudelft.nl -><email>
+Cees Witteveen -><author>
+Delft University of Technology -><affiliation>
+Delft, The Netherlands -><address>
+C.Witteveen@tudelft.nl -><email>

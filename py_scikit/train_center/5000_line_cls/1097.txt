@@ -1,0 +1,12 @@
+Engineering Distributed Protocols for Multi-Agent -><title>
+Interactions using Game Theory -><title>
+Rajdeep K. Dash -><author>
+School of Electronics and Computer Science, University of Southampton, Southampton, SO17 1BJ, UK -><affiliation>
+rkd02r@ecs.soton.ac.uk -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial In- -><note>
+telligence—Multiagent systems, Coherence and coordination -><note>
+General Terms -><unknow>
+Algorithms, Design, Economics -><author>
+Keywords -><keyword>
+Mechanism design, task allocation, trust, sensor networks -><keyword>

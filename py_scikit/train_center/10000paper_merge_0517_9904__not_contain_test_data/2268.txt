@@ -1,0 +1,9 @@
+Cost Optimal Planning with LP-Based Multi-valued -><title>
+Landmark Heuristic -><title>
+∗ -><title>
+, Jun-Yuan Xie -><author>
+Lei Zhang, Chong-Jun Wang -><author>
+State Key Laboratory for Novel Software Technology -><affiliation>
+Department of Computer Science and Technology -><affiliation>
+Nanjing University, Nanjing 210046, China -><affiliation>
+zhanglei.com@gmail.com,{chjwang,jyxie}@nju.edu.cn -><email>

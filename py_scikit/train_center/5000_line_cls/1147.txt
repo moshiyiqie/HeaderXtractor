@@ -1,0 +1,10 @@
+Conflicts in teamwork: Hybrids to the rescue -><title>
+M. Tambe, E. Bowring, H. Jung∗, G. Kaminka+, R. Maheswaran, J. Marecki, P.J.Modi++ -><author>
+R. Nair∗∗, S. Okamoto++, J.P. Pearce, P. Paruchuri, D. Pynadath, P. Scerri++, N. Schurr, -><author>
+P. Varakantham -><author>
+University of Southern California, Los Angeles, CA 90089, USA -><affiliation>
+∗ Institute for Human-Machine Cognition, Pensacola, FL 32502, USA -><affiliation>
++ Bar Ilan University, Ramat Gan, Israel -><affiliation>
+∗∗ Honeywell Laboratories, Minneapolis, MN 55418, USA -><affiliation>
+++ School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, USA -><affiliation>
+http://teamcore.usc.edu -><web>

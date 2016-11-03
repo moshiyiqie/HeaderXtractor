@@ -1,0 +1,6 @@
+A Model for the Software Engineering Capstone Sequence -><title>
+Robert F. Roggio -><author>
+Department of Computer and Information Sciences -><affiliation>
+University of North Florida -><affiliation>
+Jacksonville, FL 32224 -><address>
+broggio@unf.edu -><email>

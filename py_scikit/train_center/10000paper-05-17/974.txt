@@ -1,0 +1,13 @@
+Enumeration and exact design of weighted voting games -><title>
+Bart de Keijzer∗ -><author>
+CWI -><affiliation>
+Amsterdam, The Netherlands -><address>
+B.de.Keijzer@cwi.nl -><email>
+Tomas Klos -><author>
+Delft University of Technology -><affiliation>
+Delft, The Netherlands -><address>
+T.B.Klos@tudelft.nl -><email>
+Yingqian Zhang -><author>
+Delft University of Technology -><affiliation>
+Delft, The Netherlands -><address>
+Yingqian.Zhang@tudelft.nl -><email>

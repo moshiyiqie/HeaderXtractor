@@ -1,0 +1,12 @@
+Genetic Search Feature Selection for Affective Modeling: -><title>
+a Case Study on Reported Preferences -><title>
+Georgios N. Yannakakis -><author>
+IT University of Copenhagen -><affiliation>
+Rued Langgaards vej 7, 2300 -><address>
+Copenhagen, Denmark -><address>
+yannakakis@itu.dk -><email>
+Héctor P. Martínez -><author>
+IT University of Copenhagen -><affiliation>
+Rued Langgaards vej 7, 2300 -><address>
+Copenhagen, Denmark -><address>
+hpma@itu.dk -><email>

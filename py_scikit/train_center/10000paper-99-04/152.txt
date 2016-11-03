@@ -1,0 +1,11 @@
+Specifying Agent Observable Behaviour∗ -><title>
+Andrea Omicini -><author>
+DEIS, Universita` degli Studi di Bologna -><affiliation>
+via Rasi e Spinelli 176 -><address>
+47023 Cesena (FC), Italy -><address>
+aomicini@deis.unibo.it -><email>
+Mirko Viroli -><author>
+DEIS, Universita` degli Studi di Bologna -><affiliation>
+via Rasi e Spinelli 176 -><address>
+47023 Cesena (FC), Italy -><address>
+mviroli@deis.unibo.it -><email>

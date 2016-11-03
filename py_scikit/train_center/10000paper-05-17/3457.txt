@@ -1,0 +1,23 @@
+Formal Verification of LabVIEW Programs Using the ACL2 -><affiliation>
+Theorem Prover -><title>
+Jacob Kornerup -><author>
+National Instruments, Inc., -><affiliation>
+jacob.kornerup@ni.com -><email>
+Matt Kaufmann -><author>
+Dept. of Computer Sciences, -><affiliation>
+University of Texas at Austin -><affiliation>
+kaufmann@cs.utexas.edu -><email>
+Mark Reitblatt -><author>
+Dept. of Computer Sciences, -><affiliation>
+University of Texas at Austin -><affiliation>
+National Instruments, Inc. -><affiliation>
+mark@reitblatt.com -><email>
+Permission to make digital or hard copies of all or part of -><abstract>
+this work for personal or classroom use is granted without fee -><abstract>
+provided that copies are not made or distributed for profit or -><abstract>
+commercial advantage and that copies bear this notice and -><abstract>
+the full citation on the first page. To copy otherwise, to re- -><abstract>
+publish, to post on servers or to redistribute to lists, requires -><abstract>
+prior specific permission and/or a fee. -><note>
+ACL2’09, May 11–12, 2009, Boston, MA, USA -><note>
+Copyright c©2009 ACM 978-1-60558-742-4/09/05. . . $10.00 -><note>

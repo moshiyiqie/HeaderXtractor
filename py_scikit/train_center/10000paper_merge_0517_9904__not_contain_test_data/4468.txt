@@ -1,0 +1,7 @@
+Hot-Hardening: Getting More Out of Your Security Settings -><title>
+Sebastian Biedermann Stefan Katzenbeisser -><author>
+Security Engineering Group, Technische Universität Darmstadt -><affiliation>
+{biedermann, katzenbeisser}@seceng.informatik.tu-darmstadt.de -><email>
+Jakub Szefer -><author>
+Computer Architecture and Security Laboratory, Yale University -><affiliation>
+jakub.szefer@yale.edu -><email>

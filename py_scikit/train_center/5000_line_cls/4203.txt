@@ -1,0 +1,11 @@
+Spatializer: A Web-based Positional Audio Toolkit -><title>
+Chung-Dau Wang -><author>
+Audiary Pte Ltd. -><affiliation>
+I-Cube Building, 21 Heng Mui Keng Terrace -><address>
+Singapore 119613 -><address>
+chungdaw@audiary.com -><email>
+Beomjoo Seo, Min Min Htoon, Roger -><author>
+Zimmermann -><author>
+School of Computing -><affiliation>
+Natl. University of Singapore, Singapore 117417 -><affiliation>
+[seobj, htoon, rogerz]@comp.nus.edu.sg -><email>

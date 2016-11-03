@@ -1,0 +1,16 @@
+RedAgent-2003: An autonomous, market-based supply-chain management agent -><title>
+Doina Precup -><author>
+School of Computer Science -><affiliation>
+McGill University -><affiliation>
+Montreal, QC, Canada -><address>
+dprecup@cs.mcgill.ca -><email>
+Felix-Olivier Duguay -><author>
+School of Computer Science -><affiliation>
+McGill University -><affiliation>
+Montreal, QC, Canada -><address>
+fdugua@cs.mcgill.ca -><email>
+Philipp W. Keller -><author>
+School of Computer Science -><affiliation>
+McGill University -><affiliation>
+Montreal, QC, Canada -><address>
+pkelle@cs.mcgill.ca -><email>

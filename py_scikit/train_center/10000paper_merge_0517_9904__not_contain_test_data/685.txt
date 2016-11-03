@@ -1,0 +1,13 @@
+Representing -><title>
+James -><title>
+Marc-Philippe -><title>
+Leibniz-IMAG/MAGMA -><title>
+James -><author>
+3646 -><pubnum>
+Ann -><author>
+46, -><date>
+F-38031 -><pubnum>
+USA -><affiliation>
+email@jamesodell.com -><email>
+France -><address>
+Marc-Philippe.Huget@imag.fr -><email>

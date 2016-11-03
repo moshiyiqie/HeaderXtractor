@@ -1,0 +1,6 @@
+Agent programming with priorities and deadlines -><title>
+Konstantin Vikhorev Natasha Alechina Brian Logan -><author>
+School of Computer Science -><affiliation>
+University of Nottingham -><affiliation>
+Nottingham NG8 1BB, UK -><address>
+{kxv,nza,bsl}@cs.nott.ac.uk -><email>

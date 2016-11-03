@@ -1,0 +1,13 @@
+C-PAL: Cultural-Based Programming for Adult Learners -><title>
+Wanda Eugene -><author>
+Auburn University -><affiliation>
+Shelby Center for Engineering Technology Suite 3101 -><address>
+Auburn, Alabama U.S.A. 36849-5347 -><affiliation>
+334-844-7001 -><phone>
+eugenwa@auburn.edu -><email>
+Juan E. Gilbert -><author>
+Auburn University -><affiliation>
+Shelby Center for Engineering Technology Suite 3101 -><address>
+Auburn, Alabama U.S.A. 36849-5347 -><affiliation>
+334-844-6316 -><phone>
+gilbert@auburn.edu -><email>

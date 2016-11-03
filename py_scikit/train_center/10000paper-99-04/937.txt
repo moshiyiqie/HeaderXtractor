@@ -1,0 +1,6 @@
+A P2P Intrusion Detection System -><title>
+based on Mobile Agents -><title>
+Geetha Ramachandran Delbert Hart -><author>
+Computer Science Computer Science -><affiliation>
+University of Alabama in Huntsville University of Alabama in Huntsville -><affiliation>
+gram@cs.uah.edu dhart@cs.uah.edu -><email>

@@ -1,0 +1,9 @@
+How Valuable are Shopbots? -><title>
+Jeffrey O. Kephart -><author>
+TJ Watson Research Center -><affiliation>
+IBM Research -><affiliation>
+kephart@us.ibm.com -><email>
+Panos M. Markopoulos -><author>
+Computer and Information Science Dept. -><affiliation>
+University of Pennsylvania -><affiliation>
+markopou@unagi.cis.upenn.edu -><email>

@@ -1,0 +1,10 @@
+Efficient Coordinated Power Distribution on Private -><title>
+Infrastructure -><title>
+Andrew Perrault -><author>
+Department of Computer Science -><affiliation>
+University of Toronto, Toronto, CANADA -><affiliation>
+perrault@cs.toronto.edu -><email>
+Craig Boutilier -><author>
+Department of Computer Science -><affiliation>
+University of Toronto, Toronto, CANADA -><affiliation>
+cebly@cs.toronto.edu -><email>

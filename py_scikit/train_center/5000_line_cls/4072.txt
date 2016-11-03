@@ -1,0 +1,14 @@
+Music alphabet for low-resolution touch displays -><title>
+Adam J. Sporka -><author>
+University of Trento -><affiliation>
+Via alla Cascata 56/C, -><address>
+38100 Trento, Italy -><address>
+Faculty of Electrical Engineering, -><affiliation>
+Czech Technical University in Prague -><affiliation>
+Faculty of Electrical Engineering, -><affiliation>
+Czech Technical University in Prague -><affiliation>
+12135 Praha 2, Czech Republic -><address>
+12135 Praha 2, Czech Republic -><address>
+polacond@fel.cvut.cz -><email>
+slavik@fel.cvut.cz -><email>
+adam@sporka.eu -><email>

@@ -1,0 +1,5 @@
+Complexity of Social Welfare Optimization in Multiagent -><title>
+Resource Allocation -><title>
+Magnus Roos and Jörg Rothe -><author>
+Institut für Informatik, Heinrich-Heine-Universität Düsseldorf, 40225 Düsseldorf, Germany -><affiliation>
+{roos,rothe}@cs.uni-duesseldorf.de -><email>

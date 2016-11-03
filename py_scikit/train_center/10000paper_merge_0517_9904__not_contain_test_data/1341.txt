@@ -1,0 +1,6 @@
+Coordination Guided Reinforcement Learning -><title>
+Qiangfeng Peter Lau♠, Mong Li Lee† and Wynne Hsu§ -><author>
+Department of Computer Science -><affiliation>
+National University of Singapore -><affiliation>
+13 Computing Drive, Singapore 117417, Republic of Singapore -><address>
+{plau♠,leeml†,whsu§}@comp.nus.edu.sg -><email>

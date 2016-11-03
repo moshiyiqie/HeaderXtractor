@@ -1,0 +1,24 @@
+Vlada Radivojevic -><title>
+Polyclinic Median -><title>
+11000 Belgrade -><title>
+Yugoslavia -><title>
+An Agent Based Framework for Virtual Medical Devices -><title>
+Dusan Starcevic -><author>
+Emil Jovanov -><author>
+The University of Belgrade -><affiliation>
+The University of Alabama -><affiliation>
+Jove Ilica 154 -><address>
+213 EB Huntsville -><address>
+11000 Belgrade, Yugoslavia -><address>
+AL 35899 -><address>
++381113950-894 -><phone>
+(256) 824 5094 -><phone>
+starcev@fon.bg.ac.yu -><email>
+jovanov@ece.uah.edu -><email>
+Zeljko Obrenovic -><affiliation>
+The University of Belgrade -><address>
+Jove Ilica 154 -><address>
+11000 Belgrade, Yugoslavia -><address>
++381113950-894 -><phone>
+obren@computer.org -><email>
+drvr@eunet.yu -><email>

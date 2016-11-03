@@ -1,0 +1,12 @@
+Hierarchical Variable Ordering for Distributed Constraint -><title>
+Optimization -><title>
+Pragnesh Jay Modi -><author>
+Department of Computer Science -><affiliation>
+Drexel University -><affiliation>
+Philadelphia, PA 19104 -><address>
+pmodi@cs.drexel.edu -><email>
+John Davin -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+jdavin@cs.cmu.edu -><email>

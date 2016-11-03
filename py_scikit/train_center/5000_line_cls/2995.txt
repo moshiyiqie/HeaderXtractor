@@ -1,0 +1,7 @@
+Applied Robotics: -><title>
+Precision Placement in RoboCup@Work -><email>
+(Demonstration) -><unknow>
+Sjriek Alers 1, Daniel Claes 2, Joscha Fossel 2, Daniel Hennes 3 and Karl Tuyls 2 -><author>
+1 Maastricht University, P.O.Box 616, 6200 MD Maastricht, The Netherlands -><affiliation>
+2 University of Liverpool, Ashton Building, Liverpool L69 3BX, United Kingdom -><affiliation>
+3 European Space Agency, ESTEC, Keplerlaan 1, 2201 AZ Noordwijk, The Netherlands -><affiliation>

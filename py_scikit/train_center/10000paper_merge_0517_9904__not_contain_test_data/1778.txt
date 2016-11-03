@@ -1,0 +1,18 @@
+An Approach to Team Programming with Markup for -><title>
+Operator Interaction -><title>
+(Demonstration) -><title>
+Nathan Brooks -><author>
+Carnegie Mellon University -><affiliation>
+nbb@cs.cmu.edu -><email>
+Ewart de Visser -><author>
+Perceptronics Solutions, Inc. -><affiliation>
+edevisser@percsolutions.com -><email>
+Timur Chabuk -><author>
+Perceptronics Solutions, Inc. -><affiliation>
+timc@percsolutions.com -><email>
+Elan Freedy -><author>
+Perceptronics Solutions, Inc. -><affiliation>
+elanf@percsolutions.com -><email>
+Paul Scerri -><author>
+Carnegie Mellon University -><affiliation>
+pscerri@cs.cmu.edu -><email>

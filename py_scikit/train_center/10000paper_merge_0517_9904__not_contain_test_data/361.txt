@@ -1,0 +1,9 @@
+Ignore at Your Peril - Towards a Logic for Ignorance∗ -><title>
+Wiebe van der Hoek -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool, UK -><affiliation>
+wiebe@csc.liv.ac.uk -><email>
+Alessio Lomuscio -><author>
+Department of Computer Science -><affiliation>
+King’s College London, UK -><affiliation>
+alessio@dcs.kcl.ac.uk -><email>

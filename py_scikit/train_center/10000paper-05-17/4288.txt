@@ -1,0 +1,20 @@
+Paranoid Android: Versatile Protection For Smartphones -><title>
+Kostas Anagnostakis -><author>
+Niometris R&D -><affiliation>
+Singapore -><address>
+kostas@niometrics.com -><email>
+Philip Homburg -><author>
+Dept. of Computer Science -><affiliation>
+Vrije Universiteit -><affiliation>
+Amsterdam, The Netherlands -><address>
+philip@cs.vu.nl -><email>
+Georgios Portokalidis∗ -><author>
+Network Security Lab -><affiliation>
+Dept. of Computer Science -><affiliation>
+Columbia University, NY, USA -><affiliation>
+porto@cs.columbia.edu -><email>
+Herbert Bos -><author>
+Dept. of Computer Science -><affiliation>
+Vrije Universiteit -><affiliation>
+Amsterdam, The Netherlands -><address>
+herbertb@cs.vu.nl -><email>

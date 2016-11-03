@@ -1,0 +1,5 @@
+Using Information Theory to Improve the -><title>
+Robustness of Trust Systems -><title>
+Dongxia Wang, Tim Muller, Athirai A. Irissappane, Jie Zhang, Yang Liu -><author>
+School of Computer Engineering, Nanyang Technological University, Singapore -><affiliation>
+{wang0915,athirai001}@e.ntu.edu.sg, {tmuller,zhangj,yangliu}@ntu.edu.sg -><email>

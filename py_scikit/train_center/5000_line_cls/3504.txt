@@ -1,0 +1,28 @@
+Reasoning with PCP-nets in a Multi-Agent Context -><title>
+∗ -><title>
+Cristina Cornelio -><author>
+University of Padova -><affiliation>
+Padova, Italy -><address>
+cornelio@math.unipd.it -><email>
+Judy Goldsmith -><author>
+University of Kentucky -><affiliation>
+Lexington, USA -><address>
+goldsmit@cs.uky.edu -><email>
+Umberto Grandi -><author>
+University of Padova -><affiliation>
+Padova, Italy -><address>
+umberto.grandi@ -><email>
+ut-capitole.fr -><email>
+K. Brent Venable -><author>
+Tulane University and IHMC -><affiliation>
+New Orleans, USA -><address>
+kvenable@tulane.edu -><email>
+Francesca Rossi -><author>
+University of Padova -><affiliation>
+Padova, Italy -><address>
+frossi@math.unipd.it -><email>
+Nicholas Mattei -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+nicholas.mattei@ -><email>
+nicta.com.au -><web>

@@ -1,0 +1,5 @@
+Security Through Amnesia: A Software-Based Solution to -><title>
+the Cold Boot Attack on Disk Encryption -><title>
+Patrick Simmons -><author>
+University of Illinois at Urbana-Champaign -><affiliation>
+simmon12@illinois.edu -><email>

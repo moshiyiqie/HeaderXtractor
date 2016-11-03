@@ -1,0 +1,7 @@
+Exploring Usability Effects of Increasing Security -><title>
+in Click-based Graphical Passwords -><title>
+Elizabeth Stobert, Alain Forget, Sonia Chiasson, -><author>
+P.C. van Oorschot, Robert Biddle -><author>
+Carleton University, Ottawa, Canada -><affiliation>
+estobert@connect.carleton.ca, aforget@scs.carleton.ca, chiasson@scs.carleton.ca, -><email>
+paulv@scs.carleton.ca, robert_biddle@carleton.ca -><email>

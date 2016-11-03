@@ -1,0 +1,8 @@
+Application of a Distributed Data Mining Approach -><title>
+to Network Intrusion Detection -><title>
+Jerzy Bala, Sung Baik, Ali Hadjarian, BK Gogia, Chris Manthorne -><author>
+Datamat Systems Research, Inc. -><affiliation>
+8260 Greensboro Drive, Suite 120 -><address>
+McLean, VA 22102, USA -><address>
+01-703-917-0880 ext 226 -><phone>
+jbala@dsri.com -><email>

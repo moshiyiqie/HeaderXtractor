@@ -1,0 +1,20 @@
+A Collaborative Problem-Solving -><affiliation>
+Framework for Mobile Devices -><title>
+Stan Kurkovsky -><author>
+Columbus State University -><affiliation>
+4225 University Ave. -><affiliation>
+Columbus, GA 31907 -><address>
+1-706-565-3520 -><phone>
+Kurkovsky_Stan@colstate.edu -><email>
+Arris Ray -><author>
+Columbus State University -><affiliation>
+4225 University Ave. -><affiliation>
+Columbus, GA 31907 -><address>
+1-706-568-2410 -><phone>
+Ray_Arris@colstate.edu -><email>
+Bhagyavati -><author>
+Columbus State University -><affiliation>
+4225 University Ave. -><affiliation>
+Columbus, GA 31907 -><address>
+1-706-565-3520 -><phone>
+Bhagyavati@colstate.edu -><email>

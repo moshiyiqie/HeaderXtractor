@@ -1,0 +1,7 @@
+Modeling and Design Monitor Agent Using Layered Control -><title>
+Architecture -><title>
+Tang Chao a Feng Shan a Simon X. Yang b -><author>
+a Department of Control Science & Engineering b Advanced Robotics and Intelligent Systems Lab -><affiliation>
+Huazhong University of Science & Technology School of Engineering, University of Guelph, Guelph -><address>
+Wuhan, Hubei, 430074, P. R. China ON, N1G 2W1 Canada -><address>
+Email: sfeng@mail.hust.edu.cn Email: syang@uoguelp.ca -><email>

@@ -1,0 +1,14 @@
+A Self-stabilizing Algorithm for Two Disjoint -><title>
+Minimal Dominating Sets in an Arbitrary Graph -><title>
+Pradip K. Srimani -><author>
+School of Computing -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+(864) 656-5886 -><phone>
+psriman@clemson.edu -><email>
+Gongbing Hong -><author>
+School of Computing -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+(864) 656-3444 -><phone>
+gongbih@clemson.edu -><email>

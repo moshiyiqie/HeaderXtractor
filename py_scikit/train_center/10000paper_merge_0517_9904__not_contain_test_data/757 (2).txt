@@ -1,0 +1,11 @@
+Solving Combinatorial Exchanges: -><title>
+Optimality via a Few Partial Bids∗ -><title>
+Subhash Suri † -><author>
+Compuer Science, UCSB -><author>
+suri@cs.ucsb.edu -><email>
+Tuomas Sandholm ‡ -><author>
+Computer Science, CMU -><affiliation>
+sandholm@cs.cmu.edu -><email>
+Anshul Kothari † -><affiliation>
+Compuer Science, UCSB -><affiliation>
+kothari@cs.ucsb.edu -><email>

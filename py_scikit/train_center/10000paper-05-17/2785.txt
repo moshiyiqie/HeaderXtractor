@@ -1,0 +1,31 @@
+with iScale and AttrakDiff -><title>
+Jari Varsaluoma -><author>
+Sari Kujala -><author>
+Aalto University -><affiliation>
+P.O. box 31000 -><address>
+FI-00076 Aalto, Finland -><address>
+sari.kujala@aalto.fi -><email>
+Tanja Walsh -><author>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 6, P.O. Box 589, -><address>
+33101 Tampere, Finland -><address>
+tanja.walsh@tut.fi -><email>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 6, P.O. Box 589, -><address>
+33101 Tampere, Finland -><address>
+jari.varsaluoma@tut.fi -><email>
+Chris Power -><author>
+University of York Heslington, -><affiliation>
+York, YO10 5DD, -><address>
+United Kingdom -><address>
+christopher.power@york.ac.uk -><email>
+Helen Petrie -><author>
+University of York Heslington, -><affiliation>
+York, YO10 5DD, United -><address>
+Kingdom -><address>
+helen.petrie@york.ac.uk -><email>
+Piia Nurkka -><author>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 6, P.O. Box 589, -><address>
+33101 Tampere, Finland -><address>
+piia.nurkka@tut.fi -><email>

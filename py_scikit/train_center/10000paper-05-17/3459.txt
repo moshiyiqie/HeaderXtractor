@@ -1,0 +1,8 @@
+FlashPatch: Spreading Software Updates over Flash -><title>
+Drives in Under-connected Regions -><title>
+Jay Chen -><author>
+NYU Abu Dhabi -><affiliation>
+jchen@cs.nyu.edu -><email>
+Henry Corrigan-Gibbs -><author>
+Stanford University -><affiliation>
+henrycg@stanford.edu -><email>

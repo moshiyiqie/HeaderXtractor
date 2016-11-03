@@ -1,0 +1,6 @@
+Extraction Of Eye Features For Fetal Alcohol Syndrome Screening -><title>
+T.S. Douglas 1'2, F. Martinez 1, E.M. Meintjes 1, C.L. Vaughan ~, D. Viljoen 3 -><author>
+1MRC/UCT Medical Imaging Research Unit, Department of Human Biology, Faculty of Health Sciences, -><affiliation>
+University of Cape Town, Observatory 7925, South Africa, +2721 4066235, 2tdouglas@cormack.uct.ac.za -><email>
+3Department of Human Genetics, South African Institute for Medical Research, POBox 1038, -><affiliation>
+Johannesburg, 2000, South Africa, +27 11 4899211 -><address>

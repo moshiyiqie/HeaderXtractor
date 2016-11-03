@@ -1,0 +1,25 @@
+Integrated Design Space Exploration Based on Power- -><title>
+Performance Trade-off using Genetic Algorithm -><title>
+Reza Sedaghat -><author>
+Department of Electrical and -><affiliation>
+Computer Engineering, -><affiliation>
+Ryerson University, -><affiliation>
+Toronto, Canada -><address>
+001-416 979 5000 ext 6083 -><phone>
+rsedagha@ee.ryerson.ca -><email>
+Pallabi Sarkar -><email>
+Department of Electrical and -><affiliation>
+Computer Engineering, -><email>
+Ryerson University, -><affiliation>
+Toronto, Canada -><address>
+001-416 979 5000 ext 4898 -><phone>
+psarkar@ee.ryerson.ca -><email>
+Anirban Sengupta -><author>
+Department of Electrical and -><affiliation>
+Computer Engineering, -><affiliation>
+Ryerson University, -><affiliation>
+Toronto, Canada -><address>
+001-416 979 5000 ext 4898 -><phone>
+asengupt@ee.ryerson.ca -><email>
+Page -><author>
+77 -><pubnum>

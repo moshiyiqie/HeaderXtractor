@@ -1,0 +1,17 @@
+General Tiebreaking Schemes for Computational Social -><title>
+Choice -><title>
+Markus Brill -><author>
+Dept. of Computer Science -><affiliation>
+Duke University -><affiliation>
+Durham, NC, USA -><address>
+brill@cs.duke.edu -><email>
+Rupert Freeman -><author>
+Dept. of Computer Science -><affiliation>
+Duke University -><affiliation>
+Durham, NC, USA -><address>
+rupert@cs.duke.edu -><email>
+Vincent Conitzer -><email>
+Dept. of Computer Science -><affiliation>
+Duke University -><affiliation>
+Durham, NC, USA -><address>
+conitzer@cs.duke.edu -><email>

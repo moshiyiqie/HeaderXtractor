@@ -1,0 +1,29 @@
+Errol Thompson -><title>
+2 Haven Grove, Naenae, -><title>
+Lower Hutt -><title>
+New Zealand -><author>
+E.L.Thompson@massey.ac.nz -><email>
+Andrew Luxton-Reilly -><author>
+Computer Science -><affiliation>
+University of Auckland -><affiliation>
+Private Bag 92019, Auckland, -><address>
+New Zealand -><address>
+andrew@cs.auckland.ac.nz -><email>
+Jacqueline L. Whalley -><author>
+Computer and Information Sciences -><affiliation>
+Auckland University of Technology -><affiliation>
+Private Bag 92006, Auckland 1020, -><address>
+New Zealand -><address>
+jacqueline.whalley@aut.ac.nz -><email>
+Phil Robbins -><author>
+Computer and Information Sciences -><affiliation>
+Auckland University of Technology -><affiliation>
+Private Bag 92006, Auckland 1020, -><address>
+New Zealand -><address>
+phil.robbins@aut.ac.nz -><email>
+Minjie Hu -><author>
+Tairawhiti Polytechnic -><affiliation>
+PO Box 640, -><address>
+Gisborne, -><address>
+New Zealand -><address>
+min@tairawhiti.ac.nz -><email>

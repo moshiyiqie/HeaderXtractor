@@ -1,0 +1,14 @@
+AN EVALUATION OF NEGATIVE SELECTION ALGORITHM -><title>
+WITH CONSTRAINT-BASED DETECTORS -><title>
+Gerry Dozier -><author>
+Applied Computational Intelligence Lab -><affiliation>
+Dept. Computer Science & Software Engineering -><affiliation>
+Auburn University -><affiliation>
+(01)-334-844-6327 -><phone>
+gvdozier@eng.auburn.edu -><email>
+Haiyu Hou -><author>
+Applied Computational Intelligence Lab -><affiliation>
+Dept. Computer Science & Software Engineering -><affiliation>
+Auburn University -><affiliation>
+(01)334-844-6324 -><address>
+houhaiy@eng.auburn.edu -><email>

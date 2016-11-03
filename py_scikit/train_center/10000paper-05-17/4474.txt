@@ -1,0 +1,8 @@
+A Method for Minimum Range Extension with Improved -><title>
+Accuracy in Triangulation Laser Range Finder -><title>
+Manesh V. Mohan, Anjana Devi S., Teena C.H., Anu Abraham -><author>
+Advanced Technology Labs -><affiliation>
+Wipro Technologies -><affiliation>
+Cochin, India -><address>
+manesh.mohan@wipro.com, anjana.devi@wipro.com, teena.ch@wipro.com, -><email>
+anu.abraham1@wipro.com -><email>

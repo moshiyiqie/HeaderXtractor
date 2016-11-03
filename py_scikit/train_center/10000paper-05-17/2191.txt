@@ -1,0 +1,18 @@
+MAS-Planes: A Multi-Agent Simulation Environment to -><title>
+Investigate Decentralized Coordination for Teams of UAVs -><title>
+(Demonstration) -><title>
+Jesus Cerquides -><author>
+IIIA-CSIC -><affiliation>
+Campus de la UAB -><affiliation>
+E-08193 Bellaterra -><address>
+cerquide@iiia.cisc.es -><email>
+Marc Pujol-Gonzalez -><author>
+IIIA-CSIC -><affiliation>
+Campus de la UAB -><address>
+E-08193 Bellaterra -><address>
+mpujol@iiia.cisc.es -><email>
+Pedro Meseguer -><author>
+IIIA-CSIC -><pubnum>
+Campus de la UAB -><affiliation>
+E-08193 Bellaterra -><address>
+pedro@iiia.cisc.es -><email>

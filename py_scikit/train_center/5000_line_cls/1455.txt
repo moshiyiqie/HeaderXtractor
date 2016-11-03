@@ -1,0 +1,12 @@
+Accident or Intention: That Is the Question -><title>
+(in the Noisy Iterated Prisoner’s Dilemma) -><title>
+Dana Nau -><author>
+Department of Computer Science -><affiliation>
+University of Maryland -><affiliation>
+College Park, MD 20742 -><address>
+nau@cs.umd.edu -><email>
+Tsz-Chiu Au -><author>
+Department of Computer Science -><affiliation>
+University of Maryland -><affiliation>
+College Park, MD 20742 -><address>
+chiu@cs.umd.edu -><email>

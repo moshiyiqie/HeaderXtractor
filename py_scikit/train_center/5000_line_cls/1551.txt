@@ -1,0 +1,13 @@
+Function Allocation for NextGen Airspace via Agents -><title>
+Nathan Schurr -><author>
+Aptima, Inc. -><affiliation>
+Woburn, MA 01801 -><address>
+nschurr@aptima.com -><email>
+Paul Picciano -><author>
+Aptima, Inc. -><affiliation>
+Woburn, MA 01801 -><address>
+ppicciano@aptima.com -><email>
+Janusz Marecki -><author>
+IBM T.J. Watson Research -><affiliation>
+Yorktown Heights, N.Y. 10598 -><affiliation>
+marecki@us.ibm.com -><email>

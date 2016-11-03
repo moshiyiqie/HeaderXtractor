@@ -1,0 +1,7 @@
+Performance-Aware Multicore Programming -><title>
+Chia-Tien Dan Lo -><author>
+Department of Computer Science and Software Engineering -><affiliation>
+Southern Polytechnic State University -><affiliation>
+1100 South Marietta Parkway -><address>
+Marietta, GA 30060-2896 -><address>
+clo@spsu.edu -><email>

@@ -1,0 +1,6 @@
+Eliciting High Quality Feedback from Crowdsourced Tree -><title>
+Networks using Continuous Scoring Rules -><title>
+Ratul Ray, Rohith D. Vallam, and Y. Narahari -><author>
+Department of Computer Science and Automation, -><affiliation>
+Indian Institute of Science, Bengaluru, Karnataka, India -><affiliation>
+ratul@csa.iisc.ernet.in,rohithdv@csa.iisc.ernet.in,hari@csa.iisc.ernet.in -><email>

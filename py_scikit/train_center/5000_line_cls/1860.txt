@@ -1,0 +1,12 @@
+Reasoning about Strategies of Multi-Agent Programs -><title>
+Mehdi Dastani -><author>
+Institute of Information and Computer Sciences -><affiliation>
+Utrecht University -><affiliation>
+Utrecht, the Netherlands -><affiliation>
+mehdi@cs.uu.nl -><email>
+Wojciech Jamroga -><author>
+Computer Science and Communication -><affiliation>
+University of Luxembourg, -><affiliation>
+and Department of Computer Science -><affiliation>
+Clausthal University of Technology -><affiliation>
+wojtek.jamroga@uni.lu -><email>

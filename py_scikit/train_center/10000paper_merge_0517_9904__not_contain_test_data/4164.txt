@@ -1,0 +1,7 @@
+A Space Efficient Algorithm for the Constrained Heaviest -><title>
+Common Subsequence Problem ∗ -><title>
+Rao Li -><author>
+Dept. of mathematical sciences -><affiliation>
+University of South Carolina Aiken -><affiliation>
+Aiken, SC 29801 -><address>
+raol@usca.edu -><email>

@@ -1,0 +1,14 @@
+Metadata for Smart Multimedia Learning Objects -><title>
+Abdulmotaleb El Saddik 1, Amir Ghavam 1, Stephan Fischer, Ralf Steinmetz 1~ -><author>
+21PSI, German National Research -><pubnum>
+Center for Information Technology -><affiliation>
+Dolivostrasse 15 -><address>
+64293 Darmstadt, Germany -><address>
++49-6151-8694838 -><phone>
+1KOM - Industrial Process and -><intro>
+System Communications -><affiliation>
+Darmstadt University of Technology -><affiliation>
+Merckatrasse 25 -><address>
+64283 Darmstadt, Germany -><address>
+{Abdulmotaleb.EI-Saddik, Amlr.Ghavam, Ralf.Steinmetz}~kom.tu-darmatadt.de -><email>
+sfischer@darmatadt.gmd.de -><email>

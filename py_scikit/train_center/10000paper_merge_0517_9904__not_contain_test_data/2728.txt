@@ -1,0 +1,15 @@
+Exploring Socio-Technical Dependencies in Open Source -><title>
+Software Projects -><title>
+Towards an Automated Data-driven Approach -><author>
+Imed Hammouda -><author>
+Tampere University of -><affiliation>
+Technology -><affiliation>
+imed.hammouda@tut.fi -><email>
+M.M. Mahbubul Syeed -><author>
+Tampere University of -><affiliation>
+Technology -><affiliation>
+mm.syeed@tut.fi -><email>
+Csaba Berko -><author>
+Tampere University of -><affiliation>
+Technology -><affiliation>
+csberko@yahoo.com -><email>

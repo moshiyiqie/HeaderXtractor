@@ -1,0 +1,26 @@
+Total Performance by Local Agent Selection Strategies in -><title>
+Multi-Agent Systems -><title>
+Toshiharu Sugawara1 Satoshi Kurihara2 Toshio Hirotsu3 Kensuke Fukuda5 -><author>
+Shinya Sato4 and Osamu Akashi4 -><author>
+2Inst. of Scientific and Industrial -><note>
+1NTT Communication Science -><note>
+3Dept. of Information and -><note>
+Computer Sciences -><affiliation>
+Toyohashi University of -><affiliation>
+Technology -><affiliation>
+hirotsu@entia.org -><email>
+Laboratories -><affiliation>
+2–4 Keihanna City,Soraku-gun -><address>
+Kyoto 619-0237, Japan -><address>
+sugawara@t.ecl.net -><email>
+Research -><affiliation>
+Osaka University -><affiliation>
+kurihara@ist.osaka-u.ac.jp -><email>
+5National Information Institute -><affiliation>
+4NTT Network Innovation Laboratories -><affiliation>
+2–1–2 Hitotsubashi, Chiyoda-ku -><address>
+Tokyo 101-8430, Japan -><address>
+kensuke@nii.ac.jp -><email>
+3–9–11 Midori-cho, Musashio -><address>
+Tokyo 180-8585 Japan -><address>
+{sato,akashi}@t.ecl.net -><email>

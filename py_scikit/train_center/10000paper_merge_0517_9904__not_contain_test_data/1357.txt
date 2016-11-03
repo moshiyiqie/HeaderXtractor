@@ -1,0 +1,6 @@
+Leading Ad Hoc Agents in Joint Action Settings with -><title>
+Multiple Teammates∗ -><title>
+Noa Agmon and Peter Stone -><author>
+Department of Computer Science -><affiliation>
+The University of Texas at Austin -><affiliation>
+{agmon,pstone}@cs.utexas.edu -><email>

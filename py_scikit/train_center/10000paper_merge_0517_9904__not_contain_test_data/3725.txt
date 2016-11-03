@@ -1,0 +1,8 @@
+Visualization of an Intelligent Integrated Health -><title>
+Management System for Rocket Propulsion -><title>
+Thomas Tickle -><author>
+Department of Computer Science, University of New Orleans -><affiliation>
+2000 Lakeshore Drive -><address>
+New Orleans, LA 70148 -><address>
+1-504-467-9178 -><phone>
+ttickle@cs.uno.edu -><email>

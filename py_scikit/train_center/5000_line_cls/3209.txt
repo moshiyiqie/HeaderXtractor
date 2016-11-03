@@ -1,0 +1,18 @@
+Semi-feature Level Fusion for Bimodal Affect Regression -><title>
+Based on Facial and Bodily Expressions -><title>
+Li Zhang -><author>
+Computational Intelligence Research Group -><affiliation>
+Yang Zhang -><author>
+Computational Intelligence Research Group -><affiliation>
+Department of Computer Science and Digital -><affiliation>
+Technologies -><affiliation>
+Department of Computer Science and Digital -><affiliation>
+Technologies -><affiliation>
+Faculty of Engineering and Environment -><affiliation>
+Faculty of Engineering and Environment -><affiliation>
+Northumbria University -><affiliation>
+Northumbria University -><affiliation>
+Newcastle NE1 8ST, UK -><address>
+Newcastle NE1 8ST, UK -><address>
+li.zhang@northumbria.ac.uk -><email>
+yang4.zhang@northumbria.ac.uk -><email>

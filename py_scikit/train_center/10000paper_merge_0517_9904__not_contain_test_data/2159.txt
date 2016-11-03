@@ -1,0 +1,16 @@
+Big Brother Logic: Reasoning about Agents Equipped with -><title>
+Surveillance Cameras in the Plane -><title>
+(Demonstration) -><title>
+Florent Ouchet -><author>
+ENS Rennes, France -><affiliation>
+ouchet@ens-rennes.fr -><email>
+Francois -><author>
+Schwarzentruber -><author>
+ENS Rennes -><affiliation>
+IRISA, France -><address>
+schwarze@ens-rennes.fr -><email>
+Tristan Charrier -><author>
+ENS Rennes -><affiliation>
+IRISA, France -><address>
+tristan.charrier@eleves.ens- -><email>
+rennes.fr -><web>

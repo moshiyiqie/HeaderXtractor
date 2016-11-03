@@ -1,0 +1,13 @@
+Computational Aspects of Multi-Winner Approval Voting -><title>
+Joachim Gudmundsson -><author>
+NICTA and University of Sydney -><affiliation>
+Sydney, Australia -><address>
+joachim.gudmundsson@sydney.edu.au -><email>
+Haris Aziz Serge Gaspers -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+{haris.aziz, serge.gaspers}@nicta.com.au -><email>
+Simon Mackenzie Nicholas Mattei Toby Walsh -><author>
+NICTA and UNSW -><affiliation>
+Sydney, Australia -><address>
+{simon.mackenzie, nicholas.mattei, toby.walsh}@nicta.com.au -><email>

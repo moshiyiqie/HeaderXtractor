@@ -1,0 +1,12 @@
+HYPERSCENARIOS: A FRAMEWORK FOR ACTIVE NARRATIVE -><title>
+Colin Potts -><author>
+College of Computing -><affiliation>
+Georgia Institute of Technology -><affiliation>
+Atlanta, GA 30332, USA -><address>
+E-mail: potts@cc.gatech.edu -><email>
+ReginaM L. Hobbs -><author>
+Army Research Laboratory -><affiliation>
+Software Technology Branch -><affiliation>
+115 O'Keefe Building - -><address>
+Atlanta, GA 30332, USA -><address>
+E-mail: hobbs@arl.mil -><email>

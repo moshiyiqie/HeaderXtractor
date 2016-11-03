@@ -1,0 +1,5 @@
+False-name-proof Mechanism Design without Money -><title>
+Taiki Todo, Atsushi Iwasaki, and Makoto Yokoo -><author>
+Department of Informatics, Kyushu University -><affiliation>
+Motooka 744, Fukuoka, Japan -><address>
+{todo@agent., iwasaki@, yokoo@}is.kyushu-u.ac.jp -><email>

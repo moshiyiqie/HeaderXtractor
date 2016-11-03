@@ -1,0 +1,14 @@
+Generative Approaches for Application Tailoring -><title>
+of Mobile Devices -><title>
+Victoria Davis and Jeff Gray -><author>
+Dept. of Computer and Info. Sciences -><affiliation>
+University of Alabama at Birmingham -><affiliation>
+Birmingham, AL USA 35294-1170 -><address>
+Phone: (205)-934-2213 -><phone>
+{davisvm,gray}@cis.uab.edu -><email>
+Joel Jones -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Tuscaloosa, AL USA 35487-0290 -><address>
+Phone: (205)-348-6363 -><phone>
+jones@cs.ua.edu -><email>

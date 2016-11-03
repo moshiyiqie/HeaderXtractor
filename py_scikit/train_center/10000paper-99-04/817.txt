@@ -1,0 +1,6 @@
+Media Synchronization between Voice and Movement of -><title>
+Avatars in Networked Virtual Environments -><title>
+Yutaka Ishibashi†, Katsunori Inazumi†, Shuji Tasaka†, and Toshio Asano‡ -><author>
+†Graduate School of Engineering, Nagoya Institute of Technology, Nagoya 466-8555, Japan -><affiliation>
+‡NTT Service Integration Laboratories, NTT Corporation, Tokyo 180-8585, Japan -><affiliation>
+ishibasi@nitech.ac.jp, inazumi@inl.elcom.nitech.ac.jp, tasaka@nitech.ac.jp, asano.toshio@lab.ntt.co.jp -><affiliation>

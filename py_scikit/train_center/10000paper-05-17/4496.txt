@@ -1,0 +1,24 @@
+Trapped Victim Detection by Pseudo-Noise Radar -><title>
+E. Zaikov -><author>
+J. Sachs; M. Helbig; -><author>
+P. Rauschenbach -><author>
+R. Herrmann; M. Kmec; -><author>
+MEODAT GmbH -><affiliation>
+Ilmenau -><address>
+Germany -><address>
++49 3677 69 1157 -><phone>
+K. Schilling -><author>
+Institute for Bioprocessing and -><affiliation>
+Analytical Measurement Techniques -><affiliation>
+Heiligenstadt -><address>
+Germany -><address>
++49 3606-671-335 -><phone>
+peter.rauschenbach@tu- -><email>
+ilmenau.de -><email>
+Ilmenau University of Technology -><affiliation>
+Ilmenau -><address>
+Germany -><address>
++49 3677 69 2623 -><phone>
+juergen.sachs@tu-ilmenau.de -><email>
+Yahor.Zaikou@iba- -><email>
+heiligenstadt.de -><web>

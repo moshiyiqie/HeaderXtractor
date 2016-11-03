@@ -1,0 +1,18 @@
+Updating Mental States from Informative Communication -><title>
+Luciano Serafini -><author>
+ITC - IRST -><affiliation>
+Pat~ di Povo -><affiliation>
+38050, Trento - Italy -><address>
+serafini @ itc.it -><email>
+Aldo Franco Dragoni -><email>
+Istituto di Informatica -><author>
+University of Ancona -><author>
+Via Breccie Bianche -><affiliation>
+60131, Ancona - Italy -><address>
+dragon @ inform, unian.it -><email>
+Paolo Giorgini -><author>
+DISA -><affiliation>
+University of Trento -><affiliation>
+Via Inama, 5 -><address>
+38100, Trento - Italy -><address>
+pgiorgini@cs.unitn.it -><email>

@@ -1,0 +1,13 @@
+A RELATIONAL DATABASE MODEL OF PROGRAM EXECUTION -><title>
+AND SOFTWARE COMPONENTS -><title>
+Ray Giguette -><author>
+Computer Science Department -><affiliation>
+Nicholls State University -><affiliation>
+Thibodaux, Louisiana -><address>
+giguette@msn.com -><email>
+Johnette Hasseli -><author>
+Electrical Engineering and Computer Science -><affiliation>
+Department -><affiliation>
+Tulane University -><affiliation>
+New Orleans, Louisiana -><address>
+hassell@eecs.tulane.edu -><email>

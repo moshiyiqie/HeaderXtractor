@@ -1,0 +1,17 @@
+Multi-Robot Adversarial Patrolling: -><title>
+Facing Coordinated Attacks ∗ -><title>
+Efrat Sless -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Bar Ilan University, Israel -><affiliation>
+efrat.slas@live.biu.ac.il -><email>
+Noa Agmon -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Bar Ilan University, Israel -><affiliation>
+agmon@cs.biu.ac.il -><email>
+Sarit Kraus -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Bar Ilan University,Israel -><affiliation>
+sarit@cs.biu.ac.il -><email>

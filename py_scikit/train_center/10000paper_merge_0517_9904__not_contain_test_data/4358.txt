@@ -1,0 +1,19 @@
+Abusing Cloud-Based Browsers for Fun and Proﬁt -><title>
+Vasant Tendulkar -><author>
+NC State University -><affiliation>
+tendulkar@ncsu.edu -><email>
+Ashwin Shashidharan -><author>
+NC State University -><affiliation>
+ashdharan@ncsu.edu -><email>
+Joe Pletcher -><author>
+University of Oregon -><affiliation>
+pletcher@cs.uoregon.edu -><email>
+William Enck -><author>
+NC State University -><affiliation>
+enck@cs.ncsu.edu -><email>
+Ryan Snyder -><author>
+University of Oregon -><affiliation>
+rss@cs.uoregon.edu -><email>
+Kevin Butler -><author>
+University of Oregon -><affiliation>
+butler@cs.uoregon.edu -><email>

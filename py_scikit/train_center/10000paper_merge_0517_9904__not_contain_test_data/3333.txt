@@ -1,0 +1,9 @@
+Exergame Design for Elderly Users: -><title>
+The Case Study of SilverBalance -><title>
+Kathrin Maria Gerling, Jonas Schild, Maic Masuch -><author>
+Entertainment Computing Group -><affiliation>
+University of Duisburg-Essen -><affiliation>
+Forsthausweg 2 -><address>
+47057 Duisburg, Germany -><address>
++49 203 379 1150 -><phone>
+{kathrin.gerling, jonas.schild, maic.masuch}@uni-due.de -><email>

@@ -1,0 +1,21 @@
+A Deployed Multi-Agent Framework for Distributed Energy -><title>
+Applications -><title>
+Geoff James1, Dave Cohen2, Robert Dodier2, Glenn Platt3, and Doug Palmer1 -><author>
+3CSIRO Energy Technology -><pubnum>
+2Infotility Inc -><affiliation>
+1CSIRO ICT Centre -><affiliation>
+PO Box 330 -><address>
+Newcastle NSW 2300 -><address>
+Australia -><address>
++61 2 4960 6120 -><phone>
+{first.last}@csiro.au -><email>
+1327 Spruce St. Suite 201 -><phone>
+Boulder CO 80301 -><address>
+USA -><address>
++1 720 210 1984 -><phone>
+{first}@infotility.com -><email>
+Locked Bag 17 -><note>
+North Ryde NSW 1670 -><note>
+Australia -><address>
++61 2 9325 3276 -><phone>
+{first.last}@csiro.au -><email>

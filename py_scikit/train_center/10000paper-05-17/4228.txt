@@ -1,0 +1,12 @@
+Training Approaches in Neural Enhancement for -><title>
+Multiobjective Optimization -><title>
+Gerry V. Dozier -><author>
+Dept. of Computer Science -><affiliation>
+North Carolina A&T University -><affiliation>
+Greensboro, NC 27411 -><address>
+gvdozier@ncat.edu -><email>
+Aaron Garrett -><author>
+Dept. of Computer Science -><affiliation>
+Jacksonville State University -><affiliation>
+Jacksonville, Alabama 36265 -><affiliation>
+agarrett@jsu.edu -><email>

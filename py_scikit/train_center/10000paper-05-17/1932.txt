@@ -1,0 +1,22 @@
+A Fuzzy Logic Based Reputation Model Against Unfair -><title>
+Ratings -><title>
+Chunyan Miao -><author>
+School of Computer -><affiliation>
+Engineering -><affiliation>
+NTU, Singapore -><address>
+ascymiao@ntu.edu.sg -><email>
+Han Yu -><author>
+School of Computer -><affiliation>
+Engineering -><affiliation>
+NTU, Singapore -><address>
+yuha0008@ntu.edu.sg -><email>
+Siyuan Liu -><author>
+School of Electrical and -><affiliation>
+Electronic Engineering -><affiliation>
+NTU, Singapore -><address>
+lius0036@ntu.edu.sg -><email>
+Alex C. Kot -><author>
+School of Electrical and -><affiliation>
+Electronic Engineering -><affiliation>
+NTU, Singapore -><address>
+eackot@ntu.edu.sg -><email>

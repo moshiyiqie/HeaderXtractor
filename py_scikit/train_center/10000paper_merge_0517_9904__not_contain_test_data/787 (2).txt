@@ -1,0 +1,5 @@
+Countering Security Vulnerabilities in Agent Execution using a Self Executing -><title>
+Security Examination -><title>
+John Page, Arkady Zaslavsky, Maria Indrawan -><author>
+School of Computer Science & Software Engineering, Monash University, Melbourne -><affiliation>
+{john.page,arkady.zaslavsky,maria.indrawan}@infotech.monash.edu.au -><email>

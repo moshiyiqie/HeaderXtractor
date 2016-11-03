@@ -1,0 +1,9 @@
+A Negotiation Model of Incomplete Information Under Time -><title>
+Constraints1 -><title>
+Cao Da-Jun Xu Liang-Xian -><author>
+Department of Computer Science -><affiliation>
+Shanghai JiaoTong University,Shanghai, China 200030 -><affiliation>
+86-21-62934901 -><phone>
+caodj@yahoo.com -><email>
+1 The project is supported by National Natural Science Foundation of China (69973032).The sourcecode of the algorithm in this paper can -><note>
+be downloaded from ftp://211.80.36.35/pub/src/algorithm/negotiation.zip(java) -><web>

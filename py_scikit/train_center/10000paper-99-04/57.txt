@@ -1,0 +1,20 @@
+and Virtual Agents -><title>
+Pilar Herrero -><author>
+Steve Benford -><author>
+School of Computer Science -><affiliation>
+University of Nottingham -><affiliation>
+Jubilee Campus.Nottingham -><address>
+Tel: (+44) 115 951 42 03 -><phone>
+sdb@cs.nott.ac.uk -><email>
+Chris Greenhalgh -><author>
+School of Computer Science -><affiliation>
+University of Nottingham -><affiliation>
+Jubilee Campus.Nottingham -><email>
+Tel: (+44) 115 951 42 21 -><phone>
+cmg@cs.nott.ac.uk -><email>
+Boadilla del Monte. Madrid. -><phone>
+Tel: (+34) 91 336 74 56 -><phone>
+pherrero@fi.upm.es -><email>
+Boadilla del Monte. Madrid. -><phone>
+Tel: (+34) 91 336 69 25 -><phone>
+angelica@fi.upm.es -><email>

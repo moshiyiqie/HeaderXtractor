@@ -1,0 +1,6 @@
+Affective Objectives in a Programming Languages Course -><title>
+David Langan, Leo F. Denton, Dawn McKinney -><author>
+School of Computer and Information Sciences, University of South Alabama -><affiliation>
+Mobile, AL 36688 -><address>
+(251) 460-6390 -><phone>
+{dlangan, ldenton, dmckinney}@usouthal.edu -><email>

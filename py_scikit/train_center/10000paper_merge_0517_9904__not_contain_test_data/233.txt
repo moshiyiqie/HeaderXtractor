@@ -1,0 +1,34 @@
+Towards Any-Team Coaching in Adversarial Domains -><title>
+Manuela Veloso -><author>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave. -><address>
+Pittsburgh, PA 15213-3891 -><address>
+mmv@cs.cmu.edu -><email>
+Gal Kaminka -><author>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave. -><address>
+Pittsburgh, PA 15213-3891 -><address>
+galk@cs.cmu.edu -><email>
+Patrick Riley -><author>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Ave. -><address>
+Pittsburgh, PA 15213-3891 -><address>
+pfr@cs.cmu.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2 [Computing Methodologies]: Artiﬁcial Intelligence; -><note>
+I.2.1 [Artiﬁcial Intelligence]: Applications and Expert -><note>
+Systems—Games; I.2.11 [Artiﬁcial Intelligence]: Distributed -><note>
+Artiﬁcial Intelligence—Multiagent systems -><unknow>
+General Terms -><title>
+Experimentation, Standardization -><degree>
+1. THE COACHING PROBLEM -><pubnum>
+As multi-agent systems continue to grow in importance, -><abstract>
+the types of relationships between agents continue to be -><abstract>
+studied. One important relationship that humans often ex- -><abstract>
+hibit is a coach. For example, the lead programmer in a soft- -><abstract>
+ware development team provides structure, direction, and a -><abstract>
+problem decomposition to the other programmers and a pro- -><abstract>
+fessor provides guidance and advice to her graduate students -><abstract>
+in search of their Ph.Ds. -><abstract>
+In order to explain the problem a coach faces, one must -><abstract>
+ﬁrst deﬁne what the role of a coach is. A coach is a member -><abstract>

@@ -1,0 +1,19 @@
+Computing Software Metrics from Design Documents -><title>
+Letha Etzkorn -><author>
+Computer Science Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899 USA -><address>
++1-256-824-6291 -><phone>
+letzkorn@cs.uah.edu -><email>
+Cara Stein -><author>
+Computer Science Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899 USA -><address>
++1-256-824-6515 -><phone>
+cstein@cs.uah.edu -><email>
+Dawn Utley -><author>
+ISEEM Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899 USA -><address>
++1-256-824-6075 -><phone>
+utley@ise.uah.edu -><email>

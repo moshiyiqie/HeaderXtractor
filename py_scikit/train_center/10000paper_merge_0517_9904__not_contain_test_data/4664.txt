@@ -1,0 +1,8 @@
+Dynamic Adaptive Disaster Simulation: Developing a Predictive Model of -><title>
+Emergency Behavior Using Cell Phone and GIS Data -><title>
+Francis Chen, Zhi Zhai, Greg Madey -><author>
+Department of Computer Science and Engineering, University of Notre Dame -><affiliation>
+384 Fitzpatrick Hall, Notre Dame, IN 46556 -><address>
+fxchen12@yahoo.com -><email>
+Keywords: DDDAS, GIS, agent-based, emergency re- -><keyword>
+sponse, cell phone -><affiliation>

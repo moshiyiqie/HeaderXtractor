@@ -1,0 +1,6 @@
+Knowledge and Social Laws -><title>
+Wiebe van der Hoek Mark Roberts Michael Wooldridge -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, UK -><address>
+{wiebe,mark,mjw}@csc.liv.ac.uk -><email>

@@ -1,0 +1,7 @@
+OrganicPad: A Tablet PC Based Chemistry Tool -><title>
+Sam Bryfczynski -><author>
+Clemson University -><affiliation>
+School of Computing -><affiliation>
+Clemson SC, 29631 -><address>
+(770) 973-2514 -><phone>
+sbryfcz@clemson.edu -><email>

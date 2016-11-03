@@ -1,0 +1,21 @@
+An Initial Evaluation of Multiple Animated Information -><title>
+Agents Using the Wizard of Oz Method -><title>
+Hideki Tsujimoto -><author>
+Hitachi Software Engineering -><affiliation>
+4-12-7 Higashi-Shinagawa, Shinagawa-ku, -><address>
+Tokyo 140-0002, Japan -><address>
+tsujimoto@sct.hitachi-sk.co.jp -><email>
+Yasuhiko Kitamura -><author>
+Department of Informatics -><affiliation>
+Kwansei Gakuin University -><affiliation>
+2-1 Gakuen, Sanda 669-1337, Japan -><address>
+ykitamura@ksc.kwansei.ac.jp -><email>
+Categories and Subject Descriptors -><note>
+H.5.3 [Information Interfaces and Presentation]: Group -><affiliation>
+and Organization Interfaces—collaborative computing, Web- -><affiliation>
+based interaction, animated agent -><note>
+General Terms -><unknow>
+Measurement -><title>
+Keywords -><keyword>
+animated character, interface agent, information agent, Wiz- -><note>
+ard of Oz method -><note>

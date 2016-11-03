@@ -1,0 +1,6 @@
+Roundabout Collision Avoidance for Multiple Robots -><title>
+based on Minimum Enclosing Rectangle -><title>
+(Demonstration) -><title>
+Fan Liu and Ajit Narayanan -><author>
+Auckland University of Technology, New Zealand -><affiliation>
+{rliu, ajnaraya}@aut.ac.nz -><email>

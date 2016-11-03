@@ -1,0 +1,34 @@
+Sync-TCP in High-Speed Environments -><title>
+Dhaval M. Shah -><author>
+dshah@clemson.edu -><email>
+Clemson University, Department of Computer Science, 101 McAdams Hall, Clemson, SC 29634. -><affiliation>
+Ayoob Khan -><address>
+akhan@clemson.edu -><email>
+Zhenyu Xu -><author>
+zxu@clemson.edu -><email>
+Research Advisor: Dr. Michele Weigle -><author>
+Category: Graduate -><degree>
+1. PROBLEM AND MOTIVATION -><degree>
+The congestion control mechanism in TCP was first introduced by -><abstract>
+Jacobson in [7], which was later developed into TCP Tahoe. Since -><abstract>
+then, various end-to-end congestion control protocols have been -><abstract>
+proposed, including Reno [2], NewReno [6], SACK [4], and -><abstract>
+Vegas [3]. Among these protocols, TCP Reno is the standard -><abstract>
+congestion control algorithm for TCP traffic, according to [2]. -><abstract>
+However, TCP Reno detects congestion only when a packet loss -><abstract>
+occurs, i.e., when the sender receives duplicate -><abstract>
+acknowledgements (ACKs) or experiences a timeout. Hence, -><abstract>
+there are no explicit congestion notifications to end systems. -><abstract>
+Sync-TCP [13] is a newly proposed end-to-end congestion control -><abstract>
+protocol. It is based on TCP Reno, but it can detect congestion -><abstract>
+before a packet loss occurs. This is done with the help of one-way -><abstract>
+transit times (OTTs). These OTTs provide richer congestion -><abstract>
+signals which in turn can be used to change the congestion -><abstract>
+window more effectively. -><abstract>
+In recent years, the Internet has seen great growth in data -><abstract>
+transmission speed. However in high-speed networks, TCP -><abstract>
+congestion control is limiting the throughput [10]. There are -><abstract>
+several protocols proposed to deal with this problem, such as -><abstract>
+FAST TCP [8], High-Speed TCP [5], Scalable TCP [9], and BIC- -><abstract>
+TCP [12]. FAST TCP uses RTTs to detect congestion; however, -><abstract>
+all of the other high-speed protocols implement loss-based -><abstract>

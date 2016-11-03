@@ -1,0 +1,25 @@
+Notions of Reputation in Multi-Agents Systems: A Review -><title>
+Ari Halberstadt -><author>
+Magiccookie -><affiliation>
+9 Whittemore Road -><address>
+Newton, MA 02458, USA -><address>
+001-617-332-0960 -><phone>
+ari@magiccookie.com -><email>
+Lik Mui -><author>
+MIT Laboratory for Computer Science -><affiliation>
+200 Technology Square -><address>
+Cambridge, MA 02139 -><address>
+001-617-253-5860 -><phone>
+lmui@lcs.mit.edu -><email>
+Mojdeh Mohtashemi -><author>
+MIT Laboratory for Computer Science -><affiliation>
+200 Technology Square -><address>
+Cambridge, MA 02139 -><address>
+001-617-253-5860 -><phone>
+mojdeh@lcs.mit.edu -><email>
+Permission to make digital or hard copies of all or part of this work for -><note>
+personal or classroom use is granted without fee provided that copies are not -><note>
+made or distributed for profit or commercial advantage and that copies bear -><note>
+this notice and the full citation on the first page. To copy otherwise, or -><note>
+republish, to post on servers or to redistribute to lists, requires prior specific -><note>
+permission and/or a fee. -><note>

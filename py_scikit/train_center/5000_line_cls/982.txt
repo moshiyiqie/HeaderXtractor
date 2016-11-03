@@ -1,0 +1,8 @@
+Hermes: A Methodology for Goal›Oriented Agent -><title>
+Interactions -><title>
+Christopher Cheong -><author>
+Michael Winikoff -><author>
+winikoff@cs.rmit.edu.au -><email>
+chris@cs.rmit.edu.au -><email>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>

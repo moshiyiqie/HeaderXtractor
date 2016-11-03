@@ -1,0 +1,12 @@
+UAV Swarm Coordination using Cooperative Control for -><title>
+establishing a Wireless Communications Backbone -><title>
+Colin Keng-Yan Tan -><author>
+School of Computing -><affiliation>
+National University of Singapore -><affiliation>
+13 Computing Drive, Singapore -><address>
+colintan@nus.edu.sg -><email>
+Achudhan Sivakumar -><author>
+School of Computing -><affiliation>
+National University of Singapore -><affiliation>
+13 Computing Drive, Singapore -><address>
+achudhan@nus.edu.sg -><email>

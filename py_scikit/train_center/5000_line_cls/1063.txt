@@ -1,0 +1,4 @@
+How Local Is That Optimum? k-Optimality for DCOP∗ -><title>
+Jonathan P. Pearce, Rajiv T. Maheswaran and Milind Tambe -><author>
+University of Southern California -><affiliation>
+Los Angeles, CA 90089{jppearce, maheswar, tambe}@usc.edu -><email>

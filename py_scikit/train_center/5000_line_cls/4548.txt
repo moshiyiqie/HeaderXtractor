@@ -1,0 +1,11 @@
+Automated Auditing of Design Principle Adherence -><title>
+Randy Smith -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Tuscaloosa, Alabama USA 35487-0290 -><affiliation>
+rsmith@cs.ua.edu -><email>
+Joel Jones -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Tuscaloosa, Alabama USA 35487-0290 -><affiliation>
+jones@cs.ua.edu -><email>

@@ -1,0 +1,8 @@
+An FSM Model for -><title>
+Situation-Aware Mobile Application Software Systems -><title>
+Yu Wang -><author>
+Department of Computer Science and Software Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, AL 36849-5347 -><address>
+1-334-844-5170 -><phone>
+yuwang@eng.auburn.edu -><email>

@@ -1,0 +1,6 @@
+Animation of Open Multi-Agent Systems -><title>
+Jeremy Pitt, Brendan Neville, Sam Macbeth, Hugo Carr -><author>
+Dept. of Electrical and Electronic Engineering -><affiliation>
+Imperial College London -><affiliation>
+London, SW7 2BT, UK -><address>
+j.pitt@imperial.ac.uk, brendan.neville@imperial.ac.uk, sm1106@imperial.ac.uk, hugo.carr@imperial.ac.uk -><email>

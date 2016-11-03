@@ -1,0 +1,7 @@
+Performance Comparison of Consistency Maintenance -><title>
+Techniques for Cloud Database -><title>
+Md. Ashfakul Islam -><author>
+Department of Computer Science -><affiliation>
+The University of Alabama -><affiliation>
+Tuscaloosa, AL 35487, USA -><address>
+Email: mislam@crimson.ua.edu -><email>

@@ -1,0 +1,16 @@
+Students Learn CS in Different Ways: -><title>
+Insights from an Empirical Study1 -><title>
+Mattias Wiggberg -><author>
+UpCERG, Uppsala Computing Education Research -><author>
+Group -><author>
+Department of Information Technology -><affiliation>
+Uppsala University -><affiliation>
+Uppsala, Sweden -><address>
+Mattias.Wiggberg@it.uu.se -><email>
+Anders Berglund -><author>
+UpCERG, Uppsala Computing Education Research -><author>
+Group -><author>
+Department of Information Technology -><affiliation>
+Uppsala University -><affiliation>
+Uppsala, Sweden -><address>
+Anders.Berglund@it.uu.se -><email>

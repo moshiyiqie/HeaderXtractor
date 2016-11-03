@@ -1,0 +1,4 @@
+Adding Parallelism Capabilities to ACL2 -><title>
+David L. Rager -><author>
+Department of Computer Sciences, The University of Texas at Austin -><affiliation>
+ragerdl@cs.utexas.edu -><email>

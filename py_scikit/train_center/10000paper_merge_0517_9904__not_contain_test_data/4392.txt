@@ -1,0 +1,9 @@
+Pitfalls in the Automated Strengthening of Passwords -><title>
+David Schmidt -><author>
+Department of Computer Science & Engineering -><affiliation>
+Pennsylvania State University -><affiliation>
+dave.schmidt.pa@gmail.com -><email>
+Trent Jaeger -><author>
+Department of Computer Science & Engineering -><affiliation>
+Pennsylvania State University -><affiliation>
+tjaeger@cse.psu.edu -><email>

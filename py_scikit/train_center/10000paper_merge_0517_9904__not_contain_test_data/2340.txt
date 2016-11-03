@@ -1,0 +1,9 @@
+Agent Oriented Modelling of Tactical Decision Making -><title>
+Thanh Chi Ly -><author>
+DSTO, Perth, Australia -><affiliation>
+thanh.ly@dsto.defence.gov.au -><email>
+Rick Evertsz, John Thangarajah and -><author>
+Nitin Yadav -><author>
+School of Computer Science and IT, RMIT -><affiliation>
+University, Melbourne, Australia -><affiliation>
+{firstname.lastname}@rmit.edu.au -><email>

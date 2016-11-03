@@ -1,0 +1,11 @@
+Rich Service Description for a Smarter Lifestyle -><title>
+Patricia Charlton -><title>
+Motorola Labs -><affiliation>
+Myriam Ribiere -><author>
+Motorola Labs -><affiliation>
+91193 Gif-sur-Yvette -><address>
++ 33 (0) 1 69 35 25 00 -><phone>
+Myriam.Ribiere@crm.mot.com -><email>
+91193 Gif-sur-Yvette -><phone>
++33 (0) 1 69 35 48 22 -><phone>
+Patricia.Charlton@crm.mot.com -><email>

@@ -1,0 +1,34 @@
+Systems Resilience: A Challenge Problem for Dynamic -><title>
+Constraint-Based Agent Systems -><title>
+Nicolas Schwind -><author>
+National Institute of -><affiliation>
+Informatics -><address>
+Tokyo, Japan -><address>
+schwind@nii.ac.jp -><email>
+Tenda Okimoto -><author>
+Transdisciplinary Research -><affiliation>
+Integration Center -><affiliation>
+Tokyo, Japan -><address>
+tenda@nii.ac.jp -><email>
+Katsumi Inoue -><unknow>
+National Institute of -><affiliation>
+Informatics -><address>
+Tokyo, Japan -><address>
+inoue@nii.ac.jp -><email>
+Hiroshi Maruyama -><author>
+Institute of -><affiliation>
+Hei Chan -><author>
+Transdisciplinary Research -><affiliation>
+Integration Center -><affiliation>
+Tokyo, Japan -><address>
+hei@nii.ac.jp -><email>
+Tony Ribeiro -><author>
+The Graduate University -><affiliation>
+for Advanced Studies -><affiliation>
+Tokyo, Japan -><address>
+tony_ribeiro@nii.ac.jp -><email>
+Kazuhiro Minami -><author>
+Transdisciplinary Research -><affiliation>
+Integration Center -><affiliation>
+Tokyo, Japan -><address>
+kminami@ism.ac.jp -><email>

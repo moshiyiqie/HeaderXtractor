@@ -1,0 +1,27 @@
+Building A Personalized Tourist Attraction Recommender -><title>
+System Using Crowdsourcing -><title>
+(Demonstration) -><title>
+Yoram Bachrach -><author>
+Microsoft Research -><affiliation>
+yobach@microsoft.com -><email>
+Sofia Ceppi -><author>
+Microsoft Research -><affiliation>
+soceppi@microsoft.com -><email>
+Ian A. Kash -><author>
+Microsoft Research -><affiliation>
+iankash@microsoft.com -><email>
+Peter Key -><author>
+Microsoft Research -><affiliation>
+peter.key@microsoft.com -><email>
+Filip Radlinski -><author>
+Microsoft Research -><affiliation>
+f lip.radlinski@microsoft.com -><email>
+Ely Porat -><author>
+Bar-Ilan University -><affiliation>
+porately@gmail.com -><email>
+Vijay Sharma -><author>
+Microsoft Research -><affiliation>
+a-vishar@microsoft.com -><email>
+Michael Armstrong -><author>
+Microsoft Research -><affiliation>
+a-mica@microsoft.com -><email>

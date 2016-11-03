@@ -1,0 +1,14 @@
+ICE: A Passive, High-Speed, State-Continuity Scheme -><title>
+Raoul Strackx -><author>
+iMinds-Distrinet, KU Leuven -><affiliation>
+Celestijnenlaan 200A -><address>
+3001 Heverlee -><address>
+Frank Piessens -><author>
+iMinds-Distrinet, KU Leuven -><affiliation>
+Celestijnenlaan 200A -><address>
+3001 Heverlee -><address>
+Bart Jacobs -><author>
+iMinds-Distrinet, KU Leuven -><affiliation>
+Celestijnenlaan 200A -><address>
+3001 Heverlee -><address>
+ﬁrst.last@cs.kuleuven.be -><email>

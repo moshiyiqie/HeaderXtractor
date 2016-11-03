@@ -1,0 +1,24 @@
+Daniel Shapiro1 -><title>
+Larry LeBron1 -><author>
+Michael Mateas1 -><author>
+Kerry Moffitt3 -><author>
+1Computational Media Dept. -><affiliation>
+Karen Tanenbaum1 -><address>
+Craig Reynolds1 -><address>
+Bill Ferguson3 -><address>
+Will Coon3 -><address>
+2Computer Science and Game Lab -><affiliation>
+Josh McCoy2 -><address>
+Andrew Stern1 -><address>
+David Diller3 -><address>
+Bruce Roberts3 -><address>
+3Raytheon-BBN Technologies -><address>
+UCSC, Santa Cruz, CA 95064 -><phone>
++1-831-459-3181 -><phone>
+dgs at ucsc.edu -><affiliation>
+American University,Washington D.C. -><phone>
++1-202-885-6438 -><phone>
+jam at american.edu -><affiliation>
+10 Moulton St., Cambridge MA 02138 -><address>
++1-617-873-2208 -><phone>
+wferguson at bbn.com -><affiliation>

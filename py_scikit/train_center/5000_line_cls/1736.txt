@@ -1,0 +1,13 @@
+The RoboCup Rescue Simulation Platform -><title>
+Cameron Skinner -><author>
+IAM Group -><affiliation>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton Southampton, -><affiliation>
+England -><address>
+cls@ecs.soton.ac.uk -><email>
+Sarvapali Ramchurn -><unknow>
+IAM Group -><author>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton Southampton, -><affiliation>
+England -><address>
+sdr@ecs.soton.ac.uk -><email>

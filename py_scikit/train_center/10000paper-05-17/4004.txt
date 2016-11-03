@@ -1,0 +1,11 @@
+A Nearest Neighbor Approach to Letter Recognition -><title>
+Roy George -><author>
+Aiyuan Ji -><author>
+Department of Computer information Science -><affiliation>
+Department of Computer information Science -><affiliation>
+Clark Atlanta University -><affiliation>
+Clark Atlanta University -><affiliation>
+Atlanta, GA 30314, USA -><address>
+Atlanta, GA 30314, USA -><address>
+aji@cau.edu -><email>
+rgeorge@cau.edu -><email>

@@ -1,0 +1,14 @@
+Constructing an even grammar -><title>
+from a 2-element sample -><title>
+David J. John -><author>
+Margaret Francel -><author>
+Department of Mathematics and Computer Science -><affiliation>
+Department of Computer Science -><affiliation>
+The Citadel -><author>
+Wake Forest University -><affiliation>
+Charleston, South Carolina 29409 -><address>
+Winston-Salem, North Carolina 27109 -><address>
+843-953-5048 -><phone>
+336-758-4982 -><phone>
+francelm@citadel.edu -><email>
+djj@cs.wfu.edu -><email>

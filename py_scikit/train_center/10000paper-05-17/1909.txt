@@ -1,0 +1,18 @@
+Mergers and Collusion in All-Pay Auctions and -><title>
+Crowdsourcing Contests -><title>
+Omer Lev -><author>
+The Hebrew University of -><affiliation>
+Jerusalem, Israel -><address>
+omerl@cs.huji.ac.il -><email>
+Yoram Bachrach -><author>
+Microsoft Research -><affiliation>
+Cambridge, United Kingdom -><address>
+yobach@microsoft.com -><email>
+Maria Polukarov -><author>
+University of Southampton -><affiliation>
+United Kingdom -><address>
+mp3@ecs.soton.ac.uk -><email>
+Jeffrey S. Rosenschein -><author>
+The Hebrew University of -><affiliation>
+Jerusalem, Israel -><address>
+jeff@cs.huji.ac.il -><email>

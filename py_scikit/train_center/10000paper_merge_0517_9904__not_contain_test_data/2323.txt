@@ -1,0 +1,28 @@
+A Mechanism to Optimally Balance Cost and Quality of -><title>
+Labeling Tasks Outsourced to Strategic Agents -><affiliation>
+† -><unknow>
+∗ -><title>
+Sujit Gujar -><author>
+EPFL -><affiliation>
+Lausanne, Switzerland -><address>
+sujit.gujar@epfl.ch -><email>
+Swaprava Nath -><author>
+Indian Statistical Institute -><affiliation>
+New Delhi, India -><address>
+swaprava@gmail.com -><email>
+Satyanath Bhat -><unknow>
+Indian Institute of Science -><affiliation>
+Bangalore, India -><address>
+satya.bhat@gmail.com -><email>
+Onno Zoeter -><author>
+Xerox Research Center -><affiliation>
+Meylan, France -><address>
+onno.zoeter@xrce.xerox.com -><email>
+Y. Narahari -><author>
+Indian Institute of Science -><affiliation>
+Bangalore, India -><address>
+hari@csa.iisc.ernet.in -><email>
+Chris Dance -><author>
+Xerox Research Center -><affiliation>
+Meylan, France -><address>
+chris.dance@xrce.xerox.com -><email>

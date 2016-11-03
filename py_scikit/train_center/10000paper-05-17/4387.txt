@@ -1,0 +1,7 @@
+Tapas: Design, Implementation, and Usability -><note>
+Evaluation of a Password Manager -><title>
+Daniel McCarney David Barrera Jeremy Clark -><author>
+Sonia Chiasson Paul C. van Oorschot -><author>
+Carleton University, Ottawa, ON, Canada -><affiliation>
+{dmccarney,dbarrera}@ccsl.carleton.ca -><email>
+{clark,chiasson,paulv}@scs.carleton.ca -><email>

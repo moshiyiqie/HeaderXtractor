@@ -1,0 +1,7 @@
+On the Dynamics of Delegation, Cooperation, and Control: -><title>
+A Logical Account -><title>
+Wiebe van der Hoek and Michael Wooldridge -><author>
+Department of Computer Science -><affiliation>
+The University of Liverpool -><affiliation>
+L69 3BX UK -><address>
+wiebe, mjw@csc.liv.ac.uk -><email>

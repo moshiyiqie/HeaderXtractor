@@ -1,0 +1,25 @@
+Augmenting Amusement Rides with Telemetry -><title>
+Tuvi Orbach 4, Michael Wright 2, Kher Hui Ng 2, Andrew French 2, Tom Rodden 2, Steve Benford 2 -><author>
+1 Aerial, -><note>
+2 Mixed Reality Laboratory, -><affiliation>
+3 Department of Computer -><note>
+4 Health-Smart Ltd, Royal -><note>
+42 Murchison -><note>
+Road, London, -><note>
+E10 6NB -><note>
+info@aerial.fm -><email>
+University of Nottingham, -><affiliation>
+Wollaton Road, -><address>
+Nottingham, NG8 1BB -><address>
+{hms,sre,maw,khn,apf,tar,sdb} -><email>
+@cs.nott.ac.uk -><email>
+Science, University of Bristol, -><affiliation>
+Merchant Venturers Building, -><affiliation>
+Woodland Road, Clifton, -><address>
+Bristol, BS8 1UB -><address>
+clark@cs.bris.ac.uk -><email>
+Free Medical School, -><affiliation>
+Rowland Hill St, London, -><address>
+NW3 2PF -><address>
+enquiries@health- -><email>
+smart.co.uk -><web>

@@ -1,0 +1,17 @@
+Xdiff+: A Visualization System for XML Documents and -><title>
+Schemata -><title>
+Zhonghang Xia -><author>
+Department of Computer Science -><affiliation>
+Western Kentucky University -><affiliation>
+Bowling Green, KY 42104 -><address>
+zhonghang.xia@wku.edu -><email>
+Huanjing Wang -><author>
+Department of Computer Science -><affiliation>
+Western Kentucky University -><affiliation>
+Bowling Green, KY 42104 -><address>
+huanjing.wang@wku.edu -><email>
+Guangming Xing -><author>
+Department of Computer Science -><affiliation>
+Western Kentucky University -><affiliation>
+Bowling Green, KY 42104 -><address>
+guangming.xing@wku.edu -><email>

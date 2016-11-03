@@ -1,0 +1,16 @@
+Assessing Conformance of Pattern-based Design in UML -><title>
+David C. Rine -><author>
+Department of Computer Science -><affiliation>
+George Mason University -><affiliation>
+Fairfax, VA 22030 -><address>
+DavidCRine@aol.com -><email>
+Jaeyong Park -><author>
+Department of Computer Science -><affiliation>
+George Mason University -><affiliation>
+Fairfax, VA 22030 -><address>
+jparkc@gmu.edu -><email>
+Elizabeth White -><author>
+Department of Computer Science -><affiliation>
+George Mason University -><affiliation>
+Fairfax, VA 22030 -><address>
+White@gmu.edu -><email>

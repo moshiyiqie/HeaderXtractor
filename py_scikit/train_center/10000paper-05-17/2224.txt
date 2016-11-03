@@ -1,0 +1,9 @@
+Sybil-proof Accounting Mechanisms with Transitive Trust -><title>
+David C. Parkes -><author>
+School of Engineering & Applied Sciences -><affiliation>
+Harvard University -><affiliation>
+parkes@eecs.harvard.edu -><email>
+Sven Seuken -><author>
+Department of Informatics -><affiliation>
+University of Zurich -><affiliation>
+seuken@ifi.uzh.ch -><email>

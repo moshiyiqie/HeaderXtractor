@@ -1,0 +1,12 @@
+Cyber Threat Analysis for University Networks via Virtual -><affiliation>
+Honeypots -><title>
+Will Davis III -><author>
+Florida Agricultural and Mechanical University -><affiliation>
+Hongmei Chi -><author>
+Florida Agricultural and Mechanical University -><affiliation>
+Department of Computer and Information Sciences, -><affiliation>
+Department of Computer and Information Sciences, -><affiliation>
+Tallahassee, FL 32307-5100 -><address>
+Tallahassee, FL 32307-5100 -><address>
+hchi@cis.famu.edu -><email>
+will3davis@yahoo.com -><email>

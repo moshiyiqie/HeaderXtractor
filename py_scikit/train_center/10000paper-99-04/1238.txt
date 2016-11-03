@@ -1,0 +1,14 @@
+Integrating Visual Modeling of Agent-Based and -><title>
+Object-Oriented Systems -><title>
+Jochen Malte K0ster -><author>
+Universit~.t Paderborn, FB 17 -><affiliation>
+33098 Paderborn, Germany -><address>
+jkuester@ upb.de -><email>
+Reiko Heckel -><author>
+Universit&t Paderborn, FB 17 -><affiliation>
+33098 Paderborn, Germany -><address>
+reiko @ upb.de -><email>
+Ralph Depke -><author>
+Universitft Paderborn, FB 17 -><affiliation>
+33098 Paderborn, Germany -><address>
+depke @ upb.de -><email>

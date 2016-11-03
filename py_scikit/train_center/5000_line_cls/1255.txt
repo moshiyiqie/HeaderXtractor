@@ -1,0 +1,11 @@
+On the relationship between MDPs and the BDI architecture -><title>
+Gerardo I. Simari -><author>
+Department of Computer Science -><affiliation>
+University of Maryland College Park -><affiliation>
+College Park, MD 20742 -><address>
+gisimari@cs.umd.edu -><email>
+Simon Parsons -><author>
+Dept of Computer & Information Science -><affiliation>
+Brooklyn College, City University of New York -><affiliation>
+Brooklyn, NY 11210 USA -><address>
+parsons@sci.brooklyn.cuny.edu -><email>

@@ -1,0 +1,7 @@
+Adaptive, distributed control of constrained multi-agent systems -><title>
+Stefan Bieniawski -><author>
+253 Durand, Dept. of Aero/Astro -><affiliation>
+Stanford, CA 94305, stefanb@stanford.edu -><email>
+David H. Wolpert -><author>
+NASA Ames Research Center, Moffett -><affiliation>
+Field, CA 94035, dhw@ptolemy.arc.nasa.gov -><email>

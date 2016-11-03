@@ -1,0 +1,13 @@
+Using Adaptive Multi-Agent Systems to Simulate Economic Models -><title>
+Rodolphe Durand -><title>
+EML -><title>
+Ecole de Management de Lyon -><author>
+durand@em-lyon.com -><email>
+Lilia Rejeb -><author>
+MODECO Team, LERI -><affiliation>
+Universite´ de Reims -><affiliation>
+rejeb@poleia.lip6.fr -><email>
+Zahia Guessoum -><affiliation>
+OASIS Team, LIP6 -><address>
+Universite´ Pierre et Marie Curie -><affiliation>
+Zahia.Guessoum@lip6.fr -><email>

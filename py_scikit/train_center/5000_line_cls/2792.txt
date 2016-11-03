@@ -1,0 +1,6 @@
+Multiagent Systems for Social Computation -><title>
+Michael Rovatsos -><author>
+The University of Edinburgh -><affiliation>
+Edinburgh EH8 9AB -><address>
+United Kingdom -><address>
+mrovatso@inf.ed.ac.uk -><email>

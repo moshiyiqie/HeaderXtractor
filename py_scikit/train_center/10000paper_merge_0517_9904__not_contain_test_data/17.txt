@@ -1,0 +1,6 @@
+Modeling Multi-Agent Communication Contexts -><title>
+Antonella Di Stefano, Corrado Santoro -><author>
+Universita` di Catania — Dipartimento di -><affiliation>
+Ingegneria Informatica e delle Telecomunicazioni -><affiliation>
+Viale A. Doria, 6 - 95125 - Catania, Italy -><address>
+{adistefa,csanto}@diit.unict.it -><email>

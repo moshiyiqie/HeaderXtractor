@@ -1,0 +1,6 @@
+Solving Election Manipulation Using Integer Partitioning -><title>
+Problems -><title>
+Andrew Lin -><author>
+Golisano College of Computing and Information Sciences -><affiliation>
+Rochester Institute of Technology -><affiliation>
+apl8378@cs.rit.edu -><email>

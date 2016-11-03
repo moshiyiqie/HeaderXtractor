@@ -1,0 +1,6 @@
+Computational Thinking and Practice -><title>
+Michael E. Caspersen and Palle Nowack -><author>
+Centre for Science Education, Faculty of Science and Technology -><affiliation>
+Aarhus University -><affiliation>
+DK-8000 Aarhus, Denmark -><address>
+{mec, nowack}@cse.au.dk -><email>

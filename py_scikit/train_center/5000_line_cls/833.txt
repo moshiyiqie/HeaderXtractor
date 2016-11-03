@@ -1,0 +1,10 @@
+Coordination through Mutual Notification in Cooperative Multiagent -><title>
+Reinforcement Learning -><title>
+Franc¸ois Charpillet -><author>
+INRIA-LORIA, B.P.239 -><affiliation>
+54506 Vandœuvre-le`s-Nancy, France -><address>
+charp@loria.fr -><email>
+Daniel Szer -><author>
+INRIA-LORIA, B.P.239 -><affiliation>
+54506 Vandœuvre-le`s-Nancy, France -><address>
+szer@loria.fr -><email>

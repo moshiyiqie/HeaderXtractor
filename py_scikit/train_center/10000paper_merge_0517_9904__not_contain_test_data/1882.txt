@@ -1,0 +1,25 @@
+Automated Synthesis of Normative Systems -><title>
+Juan A. Rodriguez-Aguilar -><author>
+2Artificial Intelligence -><affiliation>
+Javier Morales1,2 and -><address>
+Maite Lopez-Sanchez1 -><address>
+1MAiA Department -><affiliation>
+Michael Wooldridge -><author>
+Dept. of Computer Science -><affiliation>
+University of Oxford -><affiliation>
+Oxford, United Kingdom -><address>
+mjw@cs.ox.ac.uk -><email>
+Wamberto Vasconcelos -><author>
+Dept. of Computing Science -><affiliation>
+University of Aberdeen -><affiliation>
+Aberdeen, UK -><address>
+wvasconcelos@acm.org -><email>
+Research Institute (IIIA) -><affiliation>
+Spanish Council of -><affiliation>
+Scientific Research (CSIC) -><affiliation>
+Campus UAB. Bellaterra, Spain -><address>
+jar@iiia.csic.es -><email>
+Universitat de Barcelona -><affiliation>
+Barcelona, Spain -><address>
+jmorales@iiia.csic.es -><email>
+maite@maia.ub.es -><email>

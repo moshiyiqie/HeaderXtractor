@@ -1,0 +1,6 @@
+LEOPARD: A .Net Based Agent Architecture -><title>
+School of Computer Science and Software Engineering -><author>
+MONASH UNIVERSITY, PO Box 197 -><affiliation>
+Caulfield East VIC 3145, Australia -><address>
++61 3 9903 2078 -><phone>
+{arequile,cmingins}@csse.monash.edu.au -><email>

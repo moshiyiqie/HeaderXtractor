@@ -1,0 +1,6 @@
+Coping with Inaccurate Reputation Sources: Experimental -><title>
+Analysis of a Probabilistic Trust Model -><title>
+W. T. Luke Teacy, Jigar Patel, Nicholas R. Jennings, Michael Luck -><author>
+Electronics & Computer Science, University of Southampton -><affiliation>
+Southampton SO17 1BJ, UK. -><address>
+{wtlt03r, jp03r, nrj, mml}@ecs.soton.ac.uk -><email>

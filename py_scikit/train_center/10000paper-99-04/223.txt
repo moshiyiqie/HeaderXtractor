@@ -1,0 +1,14 @@
+Efficiency and Robustness of Threshold-Based -><title>
+Distributed Allocation Algorithms in Multi-Agent Systems -><title>
+William Agassounon -><title>
+Alcherio Martinoli -><title>
+Collective Robotics Group -><author>
+Collective Robotics Group -><author>
+California Institute of Technology -><affiliation>
+California Institute of Technology -><affiliation>
+Pasadena, CA 91125, USA -><address>
+Pasadena, CA 91125, USA -><address>
++1 (626) 395 2243 -><phone>
++1 (626) 395 2208 -><phone>
+agassw@micro.caltech.edu -><email>
+alcherio@micro.caltech.edu -><email>

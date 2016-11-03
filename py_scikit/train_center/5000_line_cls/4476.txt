@@ -1,0 +1,7 @@
+Improving Data Locality for Irregular Partitioned Global -><title>
+Address Space Parallel Programs -><title>
+D. Brian Larkins -><author>
+Department of Computer Science -><affiliation>
+Coastal Carolina University -><affiliation>
+Conway, SC 29528-6054 -><address>
+blarkins@coastal.edu -><email>

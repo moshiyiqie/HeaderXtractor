@@ -1,0 +1,10 @@
+Explorative Max-sum for Teams of Mobile Sensing Agents -><title>
+Allesandro Farinelli -><author>
+Dept. of Computer Science,University of Verona -><affiliation>
+Verona, Italy -><address>
+alessandro.farinelli@univr.it -><email>
+Harel Yedidsion, Roie Zivan -><author>
+Dept. of Industrial Engineering and -><affiliation>
+Management, Ben Gurion University -><affiliation>
+Beer-Sheva, Israel -><address>
+yedidsio@bgu.ac.il, zivanr@bgu.ac.il -><email>

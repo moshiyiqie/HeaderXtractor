@@ -1,0 +1,6 @@
+The Role of Reactivity in Multiagent Learning -><title>
+Bikramjit Banerjee and Jing Peng -><author>
+Department of Electrical Engineering & Computer Science -><affiliation>
+Tulane University -><affiliation>
+New Orleans, LA 70118, USA -><address>
+{banerjee, jp}@eecs.tulane.edu -><email>

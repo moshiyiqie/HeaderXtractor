@@ -1,0 +1,9 @@
+Intelligent Interface Agents for a System to Diagnose Eye -><title>
+Disorders -><title>
+Yanguo Jing1, Keith Brown, Nick Taylor -><author>
+Intelligent Systems Laboratory -><affiliation>
+Department of Computing & Electrical Engineering -><affiliation>
+Heriot-Watt University, Edinburgh, UK, EH14 4AS -><affiliation>
+(44) 131-4495111 ext. 4164 -><phone>
+{ceeyj, keb, nick}@cee.hw.ac.uk -><email>
+1 Yanguo Jing is a PhD student at Heriot-Watt University, Edinburgh -><note>

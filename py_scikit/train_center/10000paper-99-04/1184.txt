@@ -1,0 +1,34 @@
+Multi-Agent Cooperation, Dynamic Workflow and XML for -><title>
+E-Commerce Automation -><title>
+Qiming Chen, Meichun Hsu, Umeshwar Dayal, Martin Griss -><author>
+HP Labs -><affiliation>
+1501 Page Mill Road, MS 1U4 -><address>
+Palo Alto, California, CA 94303, USA -><address>
++ 1-650-857-3060 -><phone>
+{qchen,mhsu,dayal,griss}@hpl.hp.com -><email>
+This work focuses on providing a multi-agent cooperation -><abstract>
+infrastructure to support E-Commerce automation. Before -><abstract>
+discussing our solutions, we first present atypical E-Commerce -><abstract>
+scenario and the requirements for E-Commerce automation. -><abstract>
+E-Commerce applications operate in a dynamic and -><abstract>
+distributed environment, dealing with a large number of -><abstract>
+heterogeneous information sources with evolving contents and -><affiliation>
+dynamic availability. They typically rely on distributed and -><affiliation>
+autonomous tasks for information search, fusion, extraction and -><abstract>
+processing, without centralized control. -><abstract>
+E-Commerce typically involves the following activities: -><abstract>
+identifying requirements; brokering products; brokering -><abstract>
+vendors; negotiating deals; or making purchase and payment -><abstract>
+transactions. Today, these activities are initiated and executed -><abstract>
+by humans. In the future, we see them being conducted by -><abstract>
+software agents. -><abstract>
+Software agents are personalized, continuously running and -><abstract>
+semi-autonomous, driven by a set of beliefs, desires and -><abstract>
+intentions (BDI). They can be used to mediate users and servers -><abstract>
+to automate a number of the most time-consuming tasks in E- -><abstract>
+Commerce, with enhanced parallelism. Agents can also be used -><abstract>
+for business intelligence, such as discovering pattems (e.g. -><abstract>
+shopping behavior patterns or service providing patterns) and -><abstract>
+react to pattern changes. For example, suppose the sales of -><abstract>
+VCRs had been strongly associated with the sales of TVs, but -><abstract>
+this association has recently weakened as TV buyers turn to -><abstract>

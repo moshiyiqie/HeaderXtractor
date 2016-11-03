@@ -1,0 +1,15 @@
+NETDEMO: openNet Networked Agents Demonstration -><title>
+Steven Willmott -><author>
+Dominic Greenwood, Monique Calisti -><author>
+(Whitestein Technologies) -><affiliation>
+Christine Reese, Kolja Lehmann -><author>
+(University of Hamburg) -><affiliation>
+Ian Mathieson, Lin Padgham (RMIT -><affiliation>
+University) -><affiliation>
+Thorsten Scholz -><author>
+(University of Bremen) -><affiliation>
+Martin Beer, Richard Hill (Sheffield Hallam -><address>
+University) -><affiliation>
+ Contact Email: steve@lsi.upc.edu -><email>
+M. Omair Shafiq (National University of -><affiliation>
+Sciences and Technology Pakistan) -><affiliation>

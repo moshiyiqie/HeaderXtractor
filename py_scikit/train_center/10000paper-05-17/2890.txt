@@ -1,0 +1,7 @@
+May -><title>
+Designing a Narrative-Based Audio Only 3D Game Engine -><title>
+Timothy Roden , Ian Parberry -><author>
+Department of Computer Science & Engineering -><affiliation>
+University of North Texas, P.O. Box 311366, Denton, Texas 76203 -><address>
+http://www.cs.unt.edu -><web>
+roden@cs.unt.edu, ian@cs.unt.edu -><email>

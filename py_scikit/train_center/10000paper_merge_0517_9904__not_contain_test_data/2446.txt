@@ -1,0 +1,17 @@
+Counterfactual Exploration for Improving Multiagent -><title>
+Learning -><title>
+Chris HolmesParker -><author>
+Parfulx LLC -><affiliation>
+chris@parflux.com -><email>
+Mitchell Colby -><author>
+Oregon State University -><affiliation>
+Corvallis, OR, USA -><address>
+colbym@engr.orst.edu -><email>
+Sepideh Kharaghani -><author>
+Oregon State University -><affiliation>
+Corvallis, OR, USA -><address>
+kharaghs@onid.orst.edu -><email>
+Kagan Tumer -><author>
+Oregon State University -><affiliation>
+Corvallis, OR, USA -><address>
+kagan.tumer@oregonstate.edu -><email>

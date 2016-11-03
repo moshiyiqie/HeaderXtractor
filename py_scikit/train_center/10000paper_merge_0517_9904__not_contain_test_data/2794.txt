@@ -1,0 +1,16 @@
+Curve Methods in Multi-Component Product Study -><title>
+Jari Varsaluoma -><author>
+Sari Kujala -><author>
+Aalto University -><affiliation>
+P.O. box 31000 -><address>
+FI-00076 Aalto, Finland -><address>
+sari.kujala@aalto.fi -><email>
+Farrukh Sahar -><author>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 6, P.O. Box 589, -><address>
+33101 Tampere, Finland -><address>
+farrukh.sahar@tut.fi -><email>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 6, P.O. Box 589, -><address>
+33101 Tampere, Finland -><address>
+jari.varsaluoma@tut.fi -><email>

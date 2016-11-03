@@ -1,0 +1,12 @@
+Design and Implementation of an Android Host-based -><title>
+Intrusion Prevention System -><title>
+∗ † -><title>
+† -><title>
+† -><title>
+§ -><title>
+Mingshen Sun -><author>
+, Xuxian Jiang -><author>
+, Min Zheng -><affiliation>
+, John C.S. Lui -><affiliation>
+† The Chinese University of Hong Kong, § Qihoo 360 & NC State University -><address>
+{mssun, mzheng, cslui}@cse.cuhk.edu.hk, jiang@cs.ncsu.edu -><email>

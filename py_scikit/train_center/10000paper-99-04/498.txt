@@ -1,0 +1,6 @@
+Brett Browning and Erick Tryzelaar -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue, Pittsburgh, PA, 15213, USA -><address>
++1 412 268 6021 -><phone>
+brettb@cs.cmu.edu, erickt@andrew.cmu.edu -><email>

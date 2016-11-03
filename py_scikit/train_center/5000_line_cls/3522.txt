@@ -1,0 +1,23 @@
+Mike Hallam -><title>
+Lancaster Ethical Small -><title>
+Traders Association, -><title>
+Designing a Mobile Service as a Facilitator -><title>
+for Capturing Local Trade Data -><title>
+Mark Lochrie, Jon Whittle, -><author>
+Bran Knowles -><author>
+School of Computing and -><affiliation>
+Communications, -><email>
+Lancaster University -><affiliation>
+Lancaster, LA1 4WA. -><address>
+{m.lochrie, j.n.whittle} -><email>
+Lancaster, UK. -><address>
+Adrian Gradinar, -><degree>
+Paul Coulton, -><degree>
+Imagination Lancaster -><degree>
+LICA Building, Lancaster -><degree>
+University, Lancaster, -><affiliation>
+LA1 4YW. -><affiliation>
+{p.coulton, a.gradinar} -><degree>
+@lancaster.ac.uk -><email>
+@lancaster.ac.uk, -><email>
+bran@highwire-dtc.com -><email>

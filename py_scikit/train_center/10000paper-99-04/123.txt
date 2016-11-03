@@ -1,0 +1,7 @@
+An Open Agent Architecture for Assisting -><title>
+Elder Independence -><title>
+Karen Zita Haigh, John Phelps, Christopher W. Geib -><author>
+Honeywell Technology Center -><affiliation>
+3660 Technology Drive -><address>
+Minneapolis, MN 55418 -><address>
+{khaigh,jphelps,geib}@htc.honeywell.com -><email>

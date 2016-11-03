@@ -1,0 +1,29 @@
+Experience Generalization for Concurrent Reinforcement -><title>
+Learners: the Minimax-QS Algorithm -><title>
+Anna H. Reali Costa -><author>
+Laborato´rio de Te´cnicas -><affiliation>
+Inteligentes -><unknow>
+Escola Polite´cnica da -><title>
+Universidade de Sa˜o Paulo -><title>
+Av. Prof. Luciano Gualberto, -><author>
+Trav. 3 no. 158 -><pubnum>
+05508-900 Sa˜o Paulo, Brazil -><address>
+anna.reali@poli.usp.br -><email>
+Reneˆ Pegoraro -><unknow>
+Departamento de -><affiliation>
+Computac¸a˜o -><unknow>
+Universidade Estadual -><title>
+Paulista -><title>
+Av. Luiz Edmundo Carrijo -><author>
+Coube -><affiliation>
+17033-360 Bauru, Brazil -><address>
+pegoraro@fc.unesp.br -><email>
+Carlos H. C. Ribeiro -><email>
+Divisa˜o de Cieˆncia da -><author>
+Computac¸a˜o -><author>
+Instituto Tecnolo´gico de -><affiliation>
+Aerona´utica -><affiliation>
+Pr. Mal. Eduardo Gomes, 50 -><address>
+12228-900 Sa˜o Jose´ dos -><phone>
+Campos, Brazil -><address>
+carlos@comp.ita.br -><email>

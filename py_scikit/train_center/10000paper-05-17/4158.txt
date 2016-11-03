@@ -1,0 +1,12 @@
+Student Development of Web Services for the STEM -><title>
+Disciplines -><title>
+Barry L. Kurtz -><author>
+Appalachian State University -><affiliation>
+PO Box 32133 -><address>
+Boone, NC 28608 -><address>
+blk@cs.appstate.edu -><email>
+James B. Fenwick Jr. -><author>
+Appalachian State University -><affiliation>
+PO Box 32133 -><address>
+Boone, NC 28608 -><address>
+jbf@cs.appstate.edu -><email>

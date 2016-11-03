@@ -1,0 +1,15 @@
+Strategic Games and Truly Playable Effectivity Functions -><title>
+Paolo Turrini -><author>
+Information and Computing -><affiliation>
+Sciences, Utrecht University -><affiliation>
+paolo@cs.uu.nl -><email>
+Valentin Goranko -><author>
+Informatics and Mathematical -><affiliation>
+Modelling, Technical -><address>
+University of Denmark -><affiliation>
+vfgo@imm.dtu.dk -><email>
+Wojciech Jamroga -><author>
+Computer Science and -><affiliation>
+Communication, University of -><affiliation>
+Luxembourg -><address>
+wojtek.jamroga@uni.lu -><email>

@@ -1,0 +1,7 @@
+A Game-Theoretic Analysis of Market Selection Strategies -><title>
+for Competing Double Auction Marketplaces -><title>
+Bing Shi, Enrico H. Gerding, Perukrishnen Vytelingum and Nicholas R. Jennings -><author>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton, SO17 1BJ, UK -><address>
+{bs07r,eg,pv,nrj}@ecs.soton.ac.uk -><email>

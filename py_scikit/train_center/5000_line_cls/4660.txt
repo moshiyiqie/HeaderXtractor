@@ -1,0 +1,6 @@
+A Genetic Programming Formulation to Evade -><title>
+Proportional Navigation -><title>
+Daniel Howard -><author>
+Biocomputing and Developmental Systems Group, -><affiliation>
+Computer Science and Information Systems -><affiliation>
+University of Limerick, Ireland -><affiliation>

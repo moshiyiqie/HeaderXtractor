@@ -1,0 +1,15 @@
+Normative Agent Reasoning in Dynamic Societies -><title>
+Michael Luck -><author>
+Electronics and Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton, UK -><address>
+mml@ecs.soton.ac.uk -><email>
+Fabiola Lo´pez y Lo´pez -><unknow>
+Facultad de Ciencias de la Computacio´n -><author>
+Beneme´rita Universidad Auto´noma de Puebla -><affiliation>
+Puebla, Pue. Me´xico -><address>
+fabiola.lopez@siu.buap.mx -><email>
+Mark d’Inverno -><author>
+University of Westminster -><affiliation>
+London, UK -><address>
+dinverm@westminster.ac.uk -><email>

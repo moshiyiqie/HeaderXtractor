@@ -1,0 +1,6 @@
+The Mediation Algorithm for Real Time Negotiation -><title>
+Timothy Rauenbusch -><author>
+Division of Engineering and Applied Sciences -><affiliation>
+Harvard University -><affiliation>
+Cambridge, MA 02138 USA -><address>
+tim@eecs.harvard.edu -><email>

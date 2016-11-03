@@ -1,0 +1,28 @@
+RoboTable: A Tabletop Framework for Tangible Interaction -><title>
+with Robots in a Mixed Reality -><title>
+Haipeng Mi -><author>
+Weiqin Chen -><author>
+University of Tokyo -><affiliation>
+University of Bergen -><affiliation>
+7-3-1 Hongo, Bunkyo-Ku -><address>
+Fosswinckelsgate 6 -><affiliation>
+113-8656 Tokyo Japan -><address>
+5007 Bergen Norway -><address>
++81-3-5841-6394 -><phone>
++47 55584143 -><date>
+mi@itl.t.u-tokyo.ac.jp -><email>
+Aleksander Krzywinski -><email>
+University of Bergen -><affiliation>
+Fosswinckelsgate 6 -><affiliation>
+5020 Bergen Norway -><address>
++47 982 68 173 -><phone>
+Masanori Sugimoto -><degree>
+University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-Ku -><address>
+113-8656 Tokyo Japan -><address>
++81- 3-5841-6796 -><phone>
+sugi@itl.t.u-tokyo.ac.jp -><email>
+aleksander.krzywinski -><web>
+@infomedia.uib.no -><email>
+Weiqin.chen -><email>
+@infomedia.uib.no -><email>

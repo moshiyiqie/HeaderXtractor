@@ -1,0 +1,20 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+A Real-time Collision Detection Algorithm for Mobile -><title>
+Billiards Game -><title>
+Zhigeng Pan -><author>
+State Key Lab of CAD&CG, -><affiliation>
+Zhejiang University -><affiliation>
+Hangzhou, 310027, P.R. China -><address>
+zgpan@cad.zju.edu.cn -><email>
+Xi Cheng -><author>
+State Key Lab of CAD&CG, -><affiliation>
+Zhejiang University -><affiliation>
+Hangzhou, 310027, P.R. China -><address>
+Chengxi@cad.zju.edu.cn -><email>
+Bailin Yang -><email>
+Zhejiang Gongshang -><author>
+University -><affiliation>
+State Key Lab of CAD&CG, -><affiliation>
+Zhejiang University -><affiliation>
+Hangzhou, 310035, P.R. China -><address>
+ybl@cad.zju.edu.cn -><email>

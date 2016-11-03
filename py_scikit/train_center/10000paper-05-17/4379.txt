@@ -1,0 +1,5 @@
+Practicality of Accelerometer Side Channels -><title>
+on Smartphones -><title>
+Adam J. Aviv, Benjamin Sapp, Matt Blaze and Jonathan M. Smith -><author>
+University of Pennsylvania -><affiliation>
+{aviv,bensapp,blaze,jms}@cis.uepnn.edu -><email>

@@ -1,0 +1,4 @@
+Plantio: An Interactive Pot to Augment Plants' Expressions -><author>
+Keio University -><affiliation>
+5322, Endo, Fujisawa, Kanagawa, 252-8520, Japan -><address>
+{culi, t04377ys, t04872mm, htanaka}@sfc.keio.ac.jp -><email>

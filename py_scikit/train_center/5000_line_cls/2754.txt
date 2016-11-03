@@ -1,0 +1,6 @@
+Efficient Budget Allocation with Accuracy Guarantees for -><title>
+Crowdsourcing Classification Tasks -><title>
+Long Tran-Thanh, Matteo Venanzi, Alex Rogers & Nicholas R. Jennings -><author>
+University of Southampton -><affiliation>
+Southampton, UK -><address>
+{ltt08r,mv1g10,acr,nrj}@ecs.soton.ac.uk -><email>

@@ -1,0 +1,26 @@
+Intrusion Detection System Using Honeypots and Swarm -><title>
+Intelligence -><title>
+Meenu Khurana -><author>
+Department of Computer Science & Engineering -><affiliation>
+Chitkara University -><affiliation>
+Punjab, India -><address>
++91-9501105619 -><phone>
+meenu.khurana@chitkara.edu.in -><email>
+Gurdip Kaur -><author>
+Department of Computer -><affiliation>
+Science & Engineering -><affiliation>
+Chitkara University -><affiliation>
+Punjab, India -><address>
++91-9988514940 -><phone>
+gurdip.kaur@chitkara.edu. -><email>
+in -><unknow>
+Monika Sethi -><author>
+Department of Computer Science -><affiliation>
+& Engineering -><affiliation>
+Chitkara University -><affiliation>
+Punjab, India -><address>
++91-9464565841 -><phone>
+monika.sethi@chitkara.edu. -><email>
+in -><unknow>
+Page -><author>
+34 -><pubnum>

@@ -1,0 +1,5 @@
+Evolving Coordination Strategies in Simulated -><title>
+Robot Soccer -><author>
+DCA, FEEC, State University of Campinas (Unicamp) -><affiliation>
+Campinas, SP, Brazil -><address>
+{coelho, danielw, gomide}@dca.fee.unicamp.br -><email>

@@ -1,0 +1,19 @@
+Using Conflict Resolution to Inform Decentralized Learning -><title>
+Shanjun Cheng -><title>
+Altisource -><author>
+Greensboro, North Carolina -><author>
+chengshanjun@gmail.com -><email>
+Victor Lesser -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst -><affiliation>
+Amherst, MA 01003 -><address>
+lesser@cs.umass.edu -><email>
+Anita Raja -><author>
+Department of Software and -><affiliation>
+Information Systems -><affiliation>
+The University of North -><affiliation>
+Carolina at Charlotte -><affiliation>
+Charlotte, NC -><address>
+anraja@uncc.edu -><email>

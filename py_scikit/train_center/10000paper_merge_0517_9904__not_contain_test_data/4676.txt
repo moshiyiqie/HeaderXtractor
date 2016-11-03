@@ -1,0 +1,34 @@
+Enjoyment Recognition From Physiological Data in a Car -><title>
+Racing Game -><title>
+Simone Tognetti -><author>
+Politecnico di Milano - IIT Unit -><affiliation>
+Dipartimento di Elettronica ed -><affiliation>
+Informazione -><affiliation>
+Piazza Leonardo Da Vinci -><affiliation>
+32,20133 Milano, Italy -><address>
+tognetti@elet.polimi.it -><email>
+Maurizio Garbarino -><email>
+Politecnico di Milano - IIT Unit -><author>
+Dipartimento di Elettronica ed -><affiliation>
+Informazione -><affiliation>
+Piazza Leonardo Da Vinci -><affiliation>
+32,20133 Milano, Italy -><address>
+garbarino@elet.polimi.it -><email>
+Andrea T. Bonanno -><author>
+Simon Fraser University -><affiliation>
+School of Interactive Arts and -><affiliation>
+Technology -><affiliation>
+250 -13450 102 Avenue -><address>
+Surrey, BC V3T 0A3 Canada -><address>
+abonanno@sfu.ca -><email>
+Andrea Bonarini -><author>
+Politecnico di Milano - IIT Unit -><affiliation>
+Dipartimento di Elettronica ed -><affiliation>
+Informazione -><unknow>
+Matteo Matteucci -><author>
+Politecnico di Milano - IIT Unit -><affiliation>
+Dipartimento di Elettronica ed -><affiliation>
+Informazione -><affiliation>
+Piazza Leonardo Da Vinci -><affiliation>
+32,20133 Milano, Italy -><address>
+matteucci@elet.polimi.it -><email>

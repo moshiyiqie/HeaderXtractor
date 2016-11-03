@@ -1,0 +1,10 @@
+PRIME: -><title>
+Private RSA Infrastructure for Memory-less Encryption -><title>
+Behrad Garmany -><author>
+Horst Goertz Institute for IT-Security -><affiliation>
+Ruhr-University Bochum, Germany -><affiliation>
+behrad.garmany@rub.de -><email>
+Tilo Müller -><author>
+Friedrich-Alexander University -><affiliation>
+Erlangen-Nuremberg, Germany -><address>
+tilo.mueller@cs.fau.de -><email>

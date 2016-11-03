@@ -1,0 +1,7 @@
+Comparing Two Approaches to Dynamic, Distributed -><title>
+Constraint Satisfaction∗ -><title>
+Roger Mailler -><author>
+Cornell University -><affiliation>
+5160 Upson Hall -><address>
+Ithaca, NY 14853 -><address>
+rmailler@cs.cornell.edu -><email>

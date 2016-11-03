@@ -1,0 +1,15 @@
+A Distributed Control Framework for Performance -><title>
+Management of Virtualized Computing Environments: -><title>
+Some Preliminary Results -><title>
+Rui Wang -><author>
+Department of Electrical and Computer -><affiliation>
+Engineering -><affiliation>
+Drexel University -><affiliation>
+Philadelphia, PA 19104 -><address>
+rui.wang@drexel.edu -><email>
+Nagarajan Kandasamy -><author>
+Department of Electrical and Computer -><affiliation>
+Engineering -><affiliation>
+Drexel University -><affiliation>
+Philadelphia, PA 19104 -><address>
+kandasamy@drexel.edu -><email>

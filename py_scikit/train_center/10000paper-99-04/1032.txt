@@ -1,0 +1,7 @@
+Using Algorithm Animations to assist teaching State Space -><title>
+Search: An Empirical Evaluation -><title>
+Peter Gordon McDonald -><author>
+Department of Computer Science, -><affiliation>
+Royal Melboume Institute of Technology -><affiliation>
+GPO Box 2476V, Melbourne Victoria 3001, Australia -><address>
+pmcd@cs.rmit.edu.au -><email>

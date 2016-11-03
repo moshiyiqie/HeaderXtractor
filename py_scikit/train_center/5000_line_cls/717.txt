@@ -1,0 +1,14 @@
+Modelling, Control and Validation of Multi-Agent Plans in Dynamic Context -><title>
+I. Degirmenciyan - Cartault -><author>
+Dassault Aviation -><affiliation>
+78, quai Marcel dassault -><address>
+92512 Saint Cloud Cedex FRANCE -><address>
+irene.degirmenciyan@dassault-aviation.fr -><email>
+A. El Fallah-Seghrouchni -><author>
+LIP6 - University of Paris 6 -><affiliation>
+8, Rue du Capitaine Scott -><address>
+75015 Paris FRANCE -><address>
+amal.elfallah@lip6.fr -><email>
+F. Marc -><author>
+Dassault Aviation - LIP6 -><pubnum>
+frederic.marc@dassault-aviation.fr -><email>

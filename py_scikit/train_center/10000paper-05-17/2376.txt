@@ -1,0 +1,17 @@
+Adaptive Budgeted Bandit Algorithms for Trust -><title>
+Development in a Supply-Chain -><title>
+Michael Ripley -><author>
+Tandy School of Computer Science -><affiliation>
+The University of Tulsa -><affiliation>
+michael-ripley@utulsa.edu -><email>
+Sandip Sen -><author>
+Tandy School of Computer -><affiliation>
+Science -><affiliation>
+The University of Tulsa -><affiliation>
+sandip@utulsa.edu -><email>
+Anton Ridgway -><author>
+Tandy School of Computer -><affiliation>
+Science -><affiliation>
+The University of Tulsa -><affiliation>
+anton- -><web>
+ridgway@utulsa.edu -><email>

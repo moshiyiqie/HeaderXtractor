@@ -1,0 +1,11 @@
+An Economical Approach to PaaS -><title>
+Mohammed Ketel -><author>
+School of Information Technology -><affiliation>
+University of Baltimore -><affiliation>
+Baltimore, MD 21201 -><address>
+mketel@ubalt.edu -><email>
+Yuen Kit Garcia -><author>
+School of Information Technology -><affiliation>
+University of Baltimore -><affiliation>
+Baltimore, MD 21201 -><address>
+yuen.garcia@ubalt.edu -><email>

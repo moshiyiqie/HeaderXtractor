@@ -1,0 +1,11 @@
+Parameterized Complexity Results for -><title>
+Agenda Safety in Judgment Aggregation -><title>
+Stefan Szeider -><author>
+Technische Universität Wien -><affiliation>
+stefan@szeider.net -><email>
+Ronald de Haan -><author>
+Technische Universität Wien -><affiliation>
+dehaan@kr.tuwien.ac.at -><email>
+Ulle Endriss -><author>
+ILLC, University of Amsterdam -><affiliation>
+ulle.endriss@uva.nl -><email>

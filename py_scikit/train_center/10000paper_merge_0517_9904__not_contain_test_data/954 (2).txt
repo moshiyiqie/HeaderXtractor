@@ -1,0 +1,11 @@
+Adding Polymorphic Tuples and Lists to the Syntax of Java -><title>
+Ryan Stansifer -><author>
+Department of Computer Sciences -><affiliation>
+Florida Institute of Technology -><affiliation>
+Melbourne, Florida USA 32901 -><address>
+ryan@cs.fit.edu -><email>
+Nattawut Sridranop -><author>
+Department of Computer Sciences -><affiliation>
+Florida Institute of Technology -><affiliation>
+Melbourne, Florida USA 32901 -><address>
+nsridran@cs.fit.edu -><email>

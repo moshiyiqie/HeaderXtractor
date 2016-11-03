@@ -1,0 +1,17 @@
+Iterative Online Planning in Multiagent Settings with -><title>
+Limited Model Spaces and PAC Guarantees -><title>
+Prashant Doshi -><author>
+Dept. of Computer Science -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA, USA -><address>
+pdoshi@cs.uga.edu -><email>
+Yingke Chen -><author>
+Dept. of Computer Science -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA, USA -><address>
+ykchen@uga.edu -><email>
+Yifeng Zeng -><author>
+School of Computing -><affiliation>
+Teesside University -><affiliation>
+Middlesborough, UK -><address>
+y.zeng@tees.ac.uk -><email>

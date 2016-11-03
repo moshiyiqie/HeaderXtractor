@@ -1,0 +1,11 @@
+Assessing the Complexity of Software Architecture -><title>
+Walter P. Bond -><author>
+pbond@cs.fit.edu -><email>
+Turky Al-Otaiby -><author>
+Mohsen AlSharif -><author>
+malshari@fit.edu -><author>
+talotaib@fit.edu -><email>
+Department of Computer Sciences -><affiliation>
+Florida Institute of Technology -><affiliation>
+150 University Blvd -><affiliation>
+Melbourne Florida, 32901, USA -><address>

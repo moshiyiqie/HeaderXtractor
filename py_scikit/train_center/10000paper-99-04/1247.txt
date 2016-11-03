@@ -1,0 +1,34 @@
+Trust-Based Facilitator for e-Partnerships -><title>
+Chihiro Ono -><author>
+KDD R&D Laboratories -><affiliation>
+2-1-15 Ohara Kamifukuoka -><address>
+Saitama, 356-8502, Japan -><address>
++81-492-78-7803 -><phone>
+ono@kddlabs.co.jp -><affiliation>
+Dai Kanetomo -><author>
+NTT Comware -><affiliation>
+NTT Makuhari Bldg -><affiliation>
+Chiba, 261-0023, Japan -><address>
++81-43-211-2409 -><phone>
+kanetomo.dai@nttcom.co.jp -><email>
+Keesoo Kim -><author>
+Stanford University -><affiliation>
+Terman 298 -><address>
+Stanford, CA 94305 -><address>
++1-650-723-3923 -><phone>
+kskim@stanford.edu -><email>
+Charles J. Petrie, Jr. -><author>
+Stanford University -><affiliation>
+Packard 232 Stanford, CA 94305 -><address>
++1-650-725-0162 -><phone>
+petrie@stanford.edu -><email>
+Boyd C. Paulson, Jr. -><author>
+Stanford University -><affiliation>
+Terman 296 Stanford, CA 94305 -><address>
++1-650-723-2235 -><phone>
+paulson@stanford.edu -><email>
+Mark Cutkosky -><author>
+Stanford University -><affiliation>
+Terman 523 Stanford, CA 94305 -><address>
++1-650-725-1588 -><phone>
+cutkosky@cdr.stanford.edu -><email>

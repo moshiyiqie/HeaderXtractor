@@ -1,0 +1,16 @@
+on purchase behaviour of mobile -><title>
+consumers -><title>
+Robert Kutera -><author>
+Piotr Machura -><author>
+Wroclaw University of Economics, -><affiliation>
+ul. Komandorska 118/120, -><address>
+Wroclaw University of Economics, -><affiliation>
+ul. Komandorska 118/120, -><address>
+Wroclaw University of Economics, -><affiliation>
+ul. Komandorska 118/120, -><address>
+Phone: +48 36 80 388 -><phone>
+Phone: +48 36 80 390 -><phone>
++48 36 80 390 -><phone>
+robert.kutera@ue.wroc.pl -><email>
+piotr.machura@ue.wroc.pl -><email>
+lukasz.lysik@ue.wroc.pl -><email>

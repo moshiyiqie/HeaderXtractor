@@ -1,0 +1,7 @@
+Agent-based Micro-Storage Management -><title>
+for the Smart Grid -><title>
+Perukrishnen Vytelingum, Thomas D. Voice, -><author>
+Sarvapali D. Ramchurn, Alex Rogers, and Nicholas R. Jennings -><author>
+Intelligence, Agents, Multimedia Group, School of Electronics and Computer Science, -><affiliation>
+University of Southampton, UK -><affiliation>
+{pv,tdv,sdr,acr,nrj}@ecs.soton.ac.uk -><email>

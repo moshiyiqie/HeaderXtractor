@@ -1,0 +1,6 @@
+How to Use OpenEASE: An Online Knowledge -><title>
+Processing System for Robots and Robotics Researchers -><title>
+(Demonstration) -><title>
+Georg Bartels∗, Michael Beetz∗, Daniel Beßler∗, Moritz Tenorth∗, Jan Winkler∗ -><author>
+Institute for Artificial Intelligence, Universität Bremen, Germany -><affiliation>
+{bartelsg, danielb, beetz, tenorth, winkler}@cs.uni-bremen.de -><email>

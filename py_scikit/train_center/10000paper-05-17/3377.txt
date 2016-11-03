@@ -1,0 +1,7 @@
+Program visualization and explanation for novice C programmers -><title>
+Matthew Heinsen Egan1 Chris McDonald2 -><author>
+School of Computer Science and Software Engineering -><affiliation>
+University of Western Australia -><affiliation>
+Crawley, Western Australia 6009 -><address>
+Email: 1m.heinsen.egan@graduate.uwa.edu.au -><address>
+2chris.mcdonald@uwa.edu.au -><email>

@@ -1,0 +1,20 @@
+Transforming Commodity Security Policies to -><title>
+Enforce Clark-Wilson Integrity -><title>
+Sandra Rueda -><author>
+Universidad de los Andes -><affiliation>
+sarueda@uniandes.edu.co -><email>
+Divya Muthukumaran -><author>
+Pennsylvania State University -><affiliation>
+muthukum@cse.psu.edu -><email>
+Nirupama Talele -><author>
+Pennsylvania State University -><affiliation>
+nrt123@psu.edu -><email>
+Hayawardh Vijayakumar -><author>
+Pennsylvania State University -><affiliation>
+hvijay@cse.psu.edu -><email>
+Jason Teutsch -><author>
+Pennsylvania State University -><affiliation>
+teutsch@cse.psu.edu -><email>
+Trent Jaeger -><author>
+Pennsylvania State University -><affiliation>
+tjaeger@cse.psu.edu -><email>

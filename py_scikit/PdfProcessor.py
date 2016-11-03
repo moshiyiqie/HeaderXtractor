@@ -37,8 +37,10 @@ def getHeader(pdfpath):
 	
 #获取分类器对每行所属类别的判断-用CRF++
 def getPredictLabelWithCRF(header):
-	GenerateCRF.generateTestFileFromHeaderText(header)
-	oscmd=Config.WORKSPACE+'/CRF++/crf_test -m ./CRF++/train/model ./CRF++/train/crf_test.txt'
+	#GenerateCRF.generateTestFileFromHeaderText(header)
+	GenerateCRF.generateTestFileFromHeaderText(header,True)
+	#oscmd=Config.WORKSPACE+'/CRF++/crf_test -m ./CRF++/train/model ./CRF++/train/crf_test.txt'
+	oscmd=Config.WORKSPACE+'/CRF++/crf_test -m ./CRF++/result-on-pub-v1/nmodel-pub ./CRF++/train/crf_test.txt'
 	#os.popen(oscmd);
 	result = os.popen(oscmd).readlines()
 	label = [line.strip().split()[-1] for line in result if len(line.strip())>0]
@@ -193,8 +195,8 @@ def run(pdfpath = 'C:/ZONE/test5.pdf'):
 		#authorInfo = handleResultWithoutIndex(authors, affliations, emails, authorsLine, affliationsLine, address,addressLine)#针对无角标的pdf输出
 		authorInfo = BlockManager.matchInBlocks(label)
 	
-	for author in authorInfo:
-		print author.toString()
+	#for author in authorInfo:
+	#	print author.toString()
 
 	return title, authorInfo, header, label
 	

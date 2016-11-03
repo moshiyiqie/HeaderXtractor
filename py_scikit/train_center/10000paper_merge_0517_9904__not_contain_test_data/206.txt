@@ -1,0 +1,21 @@
+IntelliShopper: -><title>
+A Proactive, Personal, Private Shopping Assistant -><title>
+Filippo Menczer -><author>
+filippo-menczer@uiowa.edu -><email>
+W. Nick Street -><author>
+nick-street@uiowa.edu -><email>
+Narayan Vishwakarma -><author>
+nvishwakarma@yahoo.com -><email>
+Department of Management Sciences -><affiliation>
+The University of Iowa -><affiliation>
+Iowa City, IA 52242 -><address>
+Alvaro E. Monge -><author>
+Department of CECS -><affiliation>
+Cal. State Univ. Long Beach -><affiliation>
+Long Beach, CA 90840 -><address>
+monge@cecs.csulb.edu -><email>
+Markus Jakobsson -><author>
+RSA Laboratories -><affiliation>
+20 Crosby Drive -><address>
+Bedford, MA 01730 -><address>
+mjakobsson@rsasecurity.com -><email>

@@ -1,0 +1,6 @@
+An Efficient Hybrid Clustering Algorithm for Molecular -><title>
+Sequences Classification -><title>
+Wei-Bang Chen -><author>
+Computer and Information Sciences Department, -><affiliation>
+University of Alabama at Birmingham, Birmingham, Alabama 35294-1170 -><affiliation>
+wbc0522@uab.edu -><email>

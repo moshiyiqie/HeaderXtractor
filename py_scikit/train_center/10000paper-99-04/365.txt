@@ -1,0 +1,10 @@
+Synchronous versus Asynchronous Collaboration -><affiliation>
+in Situated Multi-agent Systems -><title>
+Tom Holvoet -><author>
+AgentWise, Dept. of Computer Science -><affiliation>
+K.U.Leuven, Belgium -><address>
+tom.holvoet@cs.kuleuven.ac.be -><email>
+Danny Weyns -><author>
+AgentWise, Dept. of Computer Science -><affiliation>
+K.U.Leuven, Belgium -><address>
+danny.weyns@cs.kuleuven.ac.be -><email>

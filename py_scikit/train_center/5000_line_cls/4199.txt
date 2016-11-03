@@ -1,0 +1,18 @@
+A Method for Outdoor Skateboarding Video Games -><title>
+Jan Anlauff -><title>
+Ambient Intelligence, CITEC -><title>
+Erik Weitnauer -><author>
+Neuroinformatics Group, -><degree>
+CoR-Lab -><affiliation>
+Alexander Lehnhardt -><author>
+Neuroinformatics Group, -><note>
+CITEC -><unknow>
+Sebastian Zehe -><author>
+Ambient Intelligence, CITEC -><affiliation>
+Keywan Tonekaboni -><unknow>
+Ambient Intelligence, CITEC -><title>
+Stefanie Schirmer -><author>
+Practical Computer Science, -><affiliation>
+CeBiTec -><author>
+Bielefeld University, Germany -><affiliation>
+{janlauff,eweitnau,alenhard,szehe,sschirme,keywan}@techfak.uni-bielefeld.de -><email>

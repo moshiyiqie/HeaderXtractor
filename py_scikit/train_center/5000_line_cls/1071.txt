@@ -1,0 +1,11 @@
+Layered Message Semantics using Social Commitments -><title>
+Roberto A. Flores -><author>
+Christopher Newport University -><affiliation>
+Physics, Computer Science and Engineering -><affiliation>
+Newport News, VA 23606 USA -><address>
+flores@pcs.cnu.edu -><email>
+Philippe Pasquier & Brahim Chaib-draa -><author>
+Laval University -><affiliation>
+Computer Science and Software Engineering -><affiliation>
+Sainte-Foy, Que´bec, Canada G1K 7P4 -><address>
+{pasquier, chaib}@damas.ift.ulaval.ca -><email>

@@ -1,0 +1,7 @@
+Relationship between the nature of the Search Task Types and Query -><title>
+Reformulation Behaviour -><title>
+Khamsum Kinley, Dian Tjondronegoro, Helen Partridge and Sylvia Edwards -><author>
+Information Systems School, Science and Engineering Faculty -><affiliation>
+Queensland University of Technology -><affiliation>
+2 George St Brisbane QLD 4000 Australia -><address>
+kkinley@acm.org, {dian, h.partridge, s.edwards}@qut.edu.au -><email>

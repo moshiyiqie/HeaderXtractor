@@ -1,0 +1,34 @@
+ARForce: A Marker-based Augmented Reality System -><title>
+for Force Distribution Input -><title>
+Yasuaki Kakehi -><author>
+Keio University -><affiliation>
+5322 Endo, Fujisawa-shi -><address>
+Kanagawa, Japan -><address>
+ykakehi@sfc.keio.ac.jp -><email>
+Kensei Jo -><author>
+The University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku -><address>
+Tokyo, Japan -><address>
+Kensei_Jo@ipc.i.u- -><email>
+tokyo.ac.jp -><email>
+Kouta Minamizawa -><email>
+The University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku -><address>
+Tokyo, Japan -><address>
+Kouta_Minamizawa@ipc.i.u- -><email>
+tokyo.ac.jp -><email>
+Susumu Tachi -><author>
+The University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku -><address>
+Naoki Kawakami -><author>
+The University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku -><address>
+Tokyo, Japan -><address>
+kawakami@star.t.u- -><email>
+tokyo.ac.jp -><email>
+Hideaki Nii -><author>
+The University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku -><address>
+Tokyo, Japan -><address>
+hideaki_nii@ipc.i.u- -><email>
+tokyo.ac.jp -><web>

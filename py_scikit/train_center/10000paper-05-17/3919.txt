@@ -1,0 +1,19 @@
+VisIOn: An Interactive Visualization Ontology -><title>
+Eileen Kraemer -><author>
+Computer Science Department -><affiliation>
+The University of Georgia -><affiliation>
+Athens, GA USA 30602 -><address>
+(706) 542-5799 -><phone>
+eileen@cs.uga.edu -><email>
+Bina Reed -><author>
+Computer Science Department -><affiliation>
+The University of Georgia -><affiliation>
+Athens, GA USA 30602 -><address>
+(706) 542-5799 -><phone>
+bina@cs.uga.edu -><email>
+Philippa Rhodes -><author>
+Computer Science Department -><affiliation>
+The University of Georgia -><affiliation>
+Athens, GA USA 30602 -><address>
+(706) 542-5799 -><phone>
+rhodes@cs.uga.edu -><email>

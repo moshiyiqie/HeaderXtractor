@@ -1,0 +1,11 @@
+A Decentralized Approach for Programming -><title>
+Interactive Applications with JavaScript and Blockly -><title>
+Assaf Marron -><title>
+Gera Weiss -><title>
+Guy Wiener -><author>
+Weizmann Institute of Science -><affiliation>
+Ben-Gurion University -><affiliation>
+HP Labs -><affiliation>
+assaf.marron@weizmann.ac.il -><email>
+geraw@cs.bgu.ac.il -><email>
+guy.wiener@hp.com -><email>

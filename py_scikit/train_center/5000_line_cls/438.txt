@@ -1,0 +1,19 @@
+Robust Software via Agent-Based Redundancy -><title>
+Rosa Laura Zavala Gutierrez -><author>
+University of South Carolina -><affiliation>
+Dept. of Computer Science & Engr. -><affiliation>
+Columbia, SC 29208 USA -><address>
++1-803-777-7449 -><phone>
+zavalagu@engr.sc.edu -><email>
+Vance T. Holderfield -><author>
+University of South Carolina -><affiliation>
+Dept. of Computer Science & Engr. -><affiliation>
+Columbia, SC 29208 USA -><address>
++1-803-777-7449 -><phone>
+vance@sc.edu -><email>
+Michael N. Huhns -><author>
+University of South Carolina -><affiliation>
+Dept. of Computer Science & Engr. -><affiliation>
+Columbia, SC 29208 USA -><address>
++1-803-777-5921 -><phone>
+huhns@sc.edu -><email>

@@ -1,0 +1,13 @@
+CFQI: Fitted Q-Iteration with Complex Returns -><title>
+∗ -><title>
+† -><title>
+Robert Wright -><author>
+, Xingye Qiao, Lei Yu -><author>
+Binghamton University -><affiliation>
+Binghamton, NY 13902, USA -><address>
+{rwright3,xqiao,lyu}@binghamton.edu -><email>
+Steven Loscalzo -><author>
+AFRL Information Directorate -><affiliation>
+26 Electronic Pkwy -><address>
+Rome, NY 13441, USA -><address>
+Steven.Loscalzo@us.af.mil -><email>

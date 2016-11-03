@@ -1,0 +1,10 @@
+On the Formal Verification of Diffusion Phenomena -><title>
+in Open Dynamic Agent Networks -><title>
+Francesco Belardinelli -><author>
+Université d’Evry -><affiliation>
+France -><address>
+belardinelli@ibisc.fr -><email>
+Davide Grossi -><author>
+University of Liverpool -><affiliation>
+United Kingdom -><address>
+d.grossi@liverpool.ac.uk -><email>

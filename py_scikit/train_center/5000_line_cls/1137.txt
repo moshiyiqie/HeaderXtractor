@@ -1,0 +1,6 @@
+Diagnosing a Team of Agents: Scaling-Up -><title>
+Meir Kalech and Gal A. Kaminka -><author>
+The MAVERICK Group -><author>
+Computer Science Department -><affiliation>
+Bar Ilan University, Israel -><affiliation>
+{kalechm, galk}@cs.biu.ac.il -><email>

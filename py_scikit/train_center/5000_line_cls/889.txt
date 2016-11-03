@@ -1,0 +1,4 @@
+Jared Go, Brett Browning, Manuela Veloso -><author>
+School of Computer Science, Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue, Pittsburgh, PA, 15213, USA -><address>
+jgo@cmu.edu, {brettb, mmv}@cs.cmu.edu -><email>

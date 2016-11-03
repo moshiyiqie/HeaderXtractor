@@ -1,0 +1,12 @@
+U-DIRECTOR: A Decision-Theoretic Narrative Planning -><title>
+Architecture for Storytelling Environments -><title>
+James C. Lester -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695 USA -><address>
+lester@csc.ncsu.edu -><email>
+Bradford W. Mott -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695 USA -><address>
+bwmott@csc.ncsu.edu -><email>

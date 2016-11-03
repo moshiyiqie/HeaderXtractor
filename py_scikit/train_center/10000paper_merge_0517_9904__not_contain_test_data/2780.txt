@@ -1,0 +1,20 @@
+Phillip Powell -><title>
+Jennifer Roberts -><author>
+InstEAD, -><email>
+University of Sheffield -><affiliation>
+Andrew Hudson-Smith -><author>
+Martin De-Jode -><author>
+Panagiotis Mavros -><author>
+CASA, UCL -><note>
+Jonny Huck -><unknow>
+Paul Coulton -><author>
+Adrian Gradinar -><author>
+Imagination Lancaster, -><degree>
+Lancaster University -><affiliation>
+{ j.r.roberts; p.a.powell } -><web>
+@sheffield.ac.uk -><email>
+{ a.hudson-smith; -><abstract>
+m.dejode; p.mavros } -><abstract>
+@ucl.ac.uk -><email>
+{ j.huck2; p.coulton; a.gradinar } -><abstract>
+@lancaster.ac.uk -><email>

@@ -1,0 +1,12 @@
+Mining Probabilistic Frequent Closed Itemsets in Uncertain -><title>
+Databases∗ -><title>
+Peiyi Tang -><author>
+Department of Computer Science -><affiliation>
+University of Arkansas at Little Rock -><affiliation>
+2801 S. University Ave., Little Rock, AR 72204 -><affiliation>
+pxtang@ualr.edu -><email>
+Erich A. Peterson -><author>
+Department of Computer Science -><affiliation>
+University of Arkansas at Little Rock -><affiliation>
+2801 S. University Ave., Little Rock, AR 72204 -><affiliation>
+contact@erichpeterson.com -><email>

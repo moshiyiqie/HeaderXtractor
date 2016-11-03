@@ -1,0 +1,9 @@
+A Configurable Mobile Agent Data Protection Protocol -><title>
+Paolo Maggi -><author>
+Riccardo Sisto -><author>
+riccardo.sisto@polito.it -><email>
+paolo.maggi@polito.it -><email>
+Dipartimento di Automatica ed Informatica -><affiliation>
+Politecnico di Torino -><affiliation>
+Corso Duca degli Abruzzi, 24 -><address>
+I-10129 Torino, ITALY -><address>

@@ -1,0 +1,7 @@
+Enabling Trusted Scheduling in Embedded Systems -><title>
+Ramya Jayaram Masti†, Claudio Marforio†, Aanjhan Ranganathan†, -><author>
+Aurélien Francillon‡, Srdjan Capkun† -><author>
+†Institute of Information Security, ETH Zurich, Switzerland -><affiliation>
+‡Eurecom, Sophia-Antipolis, France -><address>
+†{rmasti, maclaudi, raanjhan, capkuns}@inf.ethz.ch -><email>
+‡aurelien.francillon@eurecom.fr -><email>

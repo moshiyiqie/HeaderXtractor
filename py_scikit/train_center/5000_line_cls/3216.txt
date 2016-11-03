@@ -1,0 +1,18 @@
+Leading the Way: An Efficient Multi-robot Guidance -><title>
+System -><title>
+∗ -><title>
+Samuel Barrett -><author>
+Kiva Systems -><affiliation>
+North Reading, -><address>
+MA 01864, USA -><address>
+basamuel@kivasystems.com -><email>
+Piyush Khandelwal -><author>
+Dept. of Computer Science -><affiliation>
+University of Texas at Austin -><affiliation>
+Austin, TX 78712, USA -><address>
+piyushk@cs.utexas.edu -><email>
+Peter Stone -><author>
+Dept. of Computer Science -><affiliation>
+University of Texas at Austin -><affiliation>
+Austin, TX 78712, USA -><address>
+pstone@cs.utexas.edu -><email>

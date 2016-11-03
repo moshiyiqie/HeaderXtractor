@@ -1,0 +1,7 @@
+A Framework for Integrated Flight Simulation and Design -><title>
+Jeff Parrish -><author>
+Micah Cooper -><author>
+University of Georgia -><affiliation>
+University of Georgia -><affiliation>
+parrishj@uga.edu -><email>
+mrcooper@uga.edu -><email>

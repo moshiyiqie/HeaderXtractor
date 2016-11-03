@@ -1,0 +1,6 @@
+Code Shredding: Byte-Granular Randomization of -><title>
+Program Layout for Detecting Code-Reuse Attacks -><title>
+Eitaro Shioji, Yuhei Kawakoya, Makoto Iwamura, Takeo Hariu -><author>
+NTT Secure Platform Laboratories, NTT Corporation -><affiliation>
+9-11, Midori-Cho 3-Chome, Musashino-Shi, Tokyo 180-8585, Japan -><address>
+{shioji.eitaro, yuhei.kawakoya, makoto.iwamura, takeo.hariu}@lab.ntt.co.jp -><affiliation>

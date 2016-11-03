@@ -1,0 +1,13 @@
+Human-Agent Teamwork in -><title>
+Collaborative Virtual Environments -><affiliation>
+(Doctoral Consortium) -><unknow>
+Nader Hanna -><author>
+Computing Department, Macquarie University -><affiliation>
+NSW 2109, Australia -><address>
++61(0)2 9850 9092 -><phone>
+nader.hanna@mq.edu.au -><email>
+Supervisor: Deborah Richards -><author>
+Computing Department, Macquarie University -><affiliation>
+NSW 2109, Australia -><address>
++61(0)2 9850 9567 -><phone>
+deborah.richards@mq.edu.au -><email>

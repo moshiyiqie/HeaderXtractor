@@ -1,0 +1,13 @@
+Choices in Batch Information Retrieval Evaluation -><title>
+Paul Thomas -><author>
+CSIRO & ANU, -><affiliation>
+Australia -><address>
+paul.thomas@csiro.au -><email>
+Alistair Moffat -><author>
+The University of Melbourne, -><affiliation>
+Australia -><address>
+ammoffat@unimelb.edu.au -><email>
+Falk Scholer -><author>
+RMIT University, -><affiliation>
+Australia -><address>
+falk.scholer@rmit.edu.au -><email>

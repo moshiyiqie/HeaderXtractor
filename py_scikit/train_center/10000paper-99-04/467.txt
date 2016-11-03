@@ -1,0 +1,6 @@
+Using Web Helper Agent Profiles in Query Generation -><title>
+Gabriel L. Somlo and Adele E. Howe -><author>
+Computer Science Department -><affiliation>
+Colorado State University -><affiliation>
+Fort Collins, CO 80523, U.S.A. -><address>
+{somlo, howe}@cs.colostate.edu -><email>

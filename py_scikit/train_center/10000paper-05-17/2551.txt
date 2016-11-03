@@ -1,0 +1,15 @@
+Pnyx: a Powerful and User-friendly Tool for -><title>
+Preference Aggregation -><title>
+(Demonstration) -><title>
+Felix Brandt -><author>
+TU München -><affiliation>
+Munich, Germany -><address>
+brandtf@in.tum.de -><email>
+Guillaume Chabin -><author>
+TU München -><affiliation>
+Munich, Germany -><address>
+guillaume.chabin@tum.de -><email>
+Christian Geist -><author>
+TU München -><affiliation>
+Munich, Germany -><address>
+geist@in.tum.de -><email>

@@ -1,0 +1,9 @@
+Center for Digital Engineering -><affiliation>
+Otto-von-Guericke-University Magdeburg -><affiliation>
+Magdeburg, Germany -><address>
+email:{veit.koeppen, maik.mory}@ovgu.de -><email>
+Department of Distributed Systems (IVS) -><affiliation>
+Otto-von-Guericke-University -><affiliation>
+Magdeburg, Germany -><address>
+email: {dietrich, zug}@ivs.cs.uni- -><email>
+magdeburg.de -><web>

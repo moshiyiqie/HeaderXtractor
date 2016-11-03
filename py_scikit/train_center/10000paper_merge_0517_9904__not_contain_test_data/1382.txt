@@ -1,0 +1,15 @@
+Crowd IQ - Aggregating Opinions to Boost Performance -><title>
+Yoram Bachrach -><author>
+Microsoft Research -><affiliation>
+yobach@microsoft.com -><email>
+Thore Graepel -><author>
+Microsoft Research -><affiliation>
+thoreg@microsoft.com -><email>
+Gjergji Kasneci -><author>
+Microsoft Research -><affiliation>
+gkasneci@gmail.com -><email>
+Jurgen Van Gael -><author>
+Microsoft Researchjurgen.vangael@gmail.com -><email>
+Michal Kosinski -><author>
+University of Cambridge -><affiliation>
+mk583@cam.ac.uk -><email>

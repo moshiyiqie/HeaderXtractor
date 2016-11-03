@@ -1,0 +1,23 @@
+community - the perspective of a community-hosting -><title>
+company that produces B2B products -><title>
+Heli-Aramo-Immonen -><author>
+Tampere University of Technology -><affiliation>
+Pohjoisranta 11 -><address>
+FI-28101 Pori -><address>
++358 40 8262931 -><phone>
+heli-aramo.immonen@tut.fi -><email>
+Jari Jussila -><author>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 8 -><address>
+FI-33720 Tampere -><address>
++358 40 717 8345 -><phone>
+jari.j.jussila@tut.fi -><email>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 8 -><address>
+FI-33720 Tampere -><address>
++358 40 8490228 -><phone>
+hannu.karkkainen@tut.fi -><email>
+Deloitte Oy -><note>
+Albertinkatu 10 B 39 -><note>
+FI-00150 Helsinki -><address>
+jani.lyytikka@deloitte.fi -><email>

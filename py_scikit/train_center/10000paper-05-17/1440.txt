@@ -1,0 +1,17 @@
+Playing Repeated Stackelberg Games with Unknown -><title>
+Opponents -><title>
+Richard Segal -><author>
+IBM T.J.Watson Research -><affiliation>
+P.O. Box 218 -><address>
+Yorktown Heights, NY 10598 -><address>
+rsegal@us.ibm.com -><email>
+Gerry Tesauro -><author>
+IBM T.J.Watson Research -><affiliation>
+P.O. Box 218 -><address>
+Yorktown Heights, NY 10598 -><address>
+gtesauro@us.ibm.com -><email>
+Janusz Marecki -><author>
+IBM T.J.Watson Research -><affiliation>
+P.O. Box 218 -><address>
+Yorktown Heights, NY 10598 -><address>
+marecki@us.ibm.com -><email>

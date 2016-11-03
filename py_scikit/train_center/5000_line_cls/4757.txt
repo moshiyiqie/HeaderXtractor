@@ -1,0 +1,34 @@
+A Framework for Cluster Availability Specification -><affiliation>
+and Evaluation -><title>
+Hertong Song, Chokchai Leangsuksun -><author>
+College of Engineering & Science -><affiliation>
+Louisiana Tech University -><affiliation>
+Ruston, LA 71270, USA -><address>
+{hso001, box}@latech.edu -><email>
+1. MOTIVATION -><abstract>
+Cluster Computing is becoming cost effective and popular for its -><affiliation>
+enormous computational power. High availability features need to -><affiliation>
+be included to ensure that cluster computing environments can -><abstract>
+provide continuous services. A typical availability modeling -><affiliation>
+method is based on the analytical formalisms such as fault tree, -><abstract>
+Markov chains, Stochastic Petri Net (SPN), etc. However, people -><abstract>
+in system design and development may not be familiar with the -><abstract>
+analytical modeling techniques. This inevitably creates a gap -><abstract>
+between system designers and reliability engineers. Moreover, the -><abstract>
+analytical models are still primitive. As a consequence, Markov -><abstract>
+chain and Petri Net models are often large when the modeled -><abstract>
+systems are complicated. These large models may be out of the -><abstract>
+intuitive of modelers, lose the view of the system, and be error -><abstract>
+prone. We propose a framework that models cluster computing -><abstract>
+evaluates system availability by transforming the UML -><affiliation>
+availability model into corresponding analytical models. The -><affiliation>
+UML-based availability modeling framework is to bridge the gap -><affiliation>
+between the two communities. With our approach, the availability -><affiliation>
+analysis of cluster computing systems can be done at the design -><abstract>
+stage with ease. -><abstract>
+2. BACKGROUND AND RELATED WORK -><abstract>
+The need for early system evaluation demands standardized and -><abstract>
+well-defined design methods and languages. Varieties of software -><abstract>
+packages exist to facilitate the availability modeling and specify -><affiliation>
+the models in compact forms [10]. On the other hand, the Unified -><abstract>
+Modeling Language (UML) is a widely-adopted modeling -><abstract>

@@ -1,0 +1,10 @@
+Achieving Efficient Polynomial Multiplication in Fermat -><title>
+Fields Using the Fast Fourier Transform -><title>
+Berk Sunar -><author>
+Worcester Polytechnic Institute -><affiliation>
+Worcester, MA 01609, USA -><address>
+sunar@wpi.edu -><email>
+Selc¸uk Baktır -><author>
+Worcester Polytechnic Institute -><affiliation>
+Worcester, MA 01609, USA -><address>
+selcuk@wpi.edu -><email>

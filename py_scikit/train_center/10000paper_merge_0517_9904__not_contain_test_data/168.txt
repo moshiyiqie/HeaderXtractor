@@ -1,0 +1,19 @@
+RCal: A Case Study on Semantic Web Agents -><title>
+Terry R. Payne -><author>
+Carnegie Mellon University -><affiliation>
+The Robotics Institute -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh PA 15213, USA -><address>
+terryp@cs.cmu.edu -><email>
+Katia Sycara -><author>
+Carnegie Mellon University -><affiliation>
+The Robotics Institute -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh PA 15213, USA -><address>
+katia@cs.cmu.edu -><email>
+Rahul Singh -><email>
+Carnegie Mellon University -><affiliation>
+The Robotics Institute -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh PA 15213, USA -><address>
+kingtiny@cs.cmu.edu -><email>

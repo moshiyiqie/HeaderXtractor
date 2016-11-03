@@ -1,0 +1,6 @@
+Trading Agents for the Smart Electricity Grid -><title>
+Perukrishnen Vytelingum, Sarvapali D. Ramchurn, -><author>
+Thomas D. Voice, Alex Rogers, and Nicholas R. Jennings -><author>
+Intelligence, Agents, Multimedia Group, School of Electronics and Computer Science, -><affiliation>
+University of Southampton, UK -><affiliation>
+{pv,sdr,tdv,acr,nrj}@ecs.soton.ac.uk -><email>

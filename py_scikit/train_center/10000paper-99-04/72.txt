@@ -1,0 +1,20 @@
+How Social Spiders Inspired -><title>
+An Approach To Region Detection -><author>
+Vincent Thomas -><affiliation>
+LORIA,UMR 7503 -><address>
+BP 239, -><address>
+54506 Vandoeuvre Cedex -><address>
++33-3 83 59 20 85 -><phone>
+Vthomas@loria.fr -><email>
+Vincent Chevrier -><affiliation>
+LORIA,UMR 7503 -><address>
+BP 239, -><address>
+54506 Vandoeuvre Cedex -><address>
++33-3 83 59 20 75 -><phone>
+Chevrier@loria.fr -><email>
+Christine Bourjot -><affiliation>
+LORIA,UMR 7503 -><address>
+BP 239, -><address>
+54506 Vandoeuvre Cedex -><address>
++33-3 83 59 20 75 -><phone>
+bourjot@loria.fr -><email>

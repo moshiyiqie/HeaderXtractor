@@ -1,0 +1,9 @@
+Sliding Autonomy for UAV Path-Planning: Adding New -><title>
+Dimensions to Autonomy Management -><title>
+Lanny Lin -><author>
+Vivint, Inc. -><email>
+lanny@lannyland.com -><author>
+Michael A. Goodrich -><author>
+Department of Computer Science -><affiliation>
+Brigham Young University -><affiliation>
+mike@cs.byu.edu -><email>

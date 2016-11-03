@@ -1,0 +1,5 @@
+Designing a Successful Trading Agent -><title>
+for Supply Chain Management -><title>
+Minghua He, Alex Rogers, Xudong Luo and Nicholas R. Jennings -><author>
+School of Electronics and Computer Science, University of Southampton, U.K. -><affiliation>
+{mh,acr,xl,nrj}@ecs.soton.ac.uk -><email>

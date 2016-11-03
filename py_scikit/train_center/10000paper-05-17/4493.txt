@@ -1,0 +1,17 @@
+A Simultaneous Routing and Localization Algorithm for -><title>
+Wireless Sensor Networks in Emergency Scenario -><title>
+Federica Pascucci -><title>
+Dipartimento di Informatica e -><title>
+Automazione -><title>
+Lorenzo Sciavicco -><author>
+Stefano Panzieri -><author>
+Dipartimento di Informatica e -><affiliation>
+Automazione -><affiliation>
+Dipartimento di Informatica e -><affiliation>
+Automazione -><address>
+Via della Vasca Navale 79, 00146 -><address>
+Via della Vasca Navale 79, 00146 -><address>
+Via della Vasca Navale 79, 00146 -><address>
+panzierir@dia.uniroma3.it -><email>
+pascuccir@dia.uniroma3.it -><email>
+bertinor@dia.uniroma3.it -><email>

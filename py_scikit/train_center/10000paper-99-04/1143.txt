@@ -1,0 +1,7 @@
+Experiments in Imitation Using Perceptuo-Motor Primitives -><title>
+Stefan Weber, Maja J Matari6, Odest Chadwicke Jenkins -><author>
+Computer Science Department -><affiliation>
+University of Southern California -><affiliation>
+941 West 37th Place, SAL 228, MC 0781 -><address>
+Los Angeles, CA 90089-0781 -><address>
+stefanwe,mataric,cjenkins @ usc.edu -><email>

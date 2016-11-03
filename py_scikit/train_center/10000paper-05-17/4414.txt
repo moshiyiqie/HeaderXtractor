@@ -1,0 +1,13 @@
+SilverLine: Preventing Data Leaks from -><title>
+Compromised Web Applications -><title>
+Anirudh Ramachandran -><author>
+Nouvou -><author>
+avr@nouvou.com -><email>
+Yogesh Mundada -><author>
+School of Computer Science -><affiliation>
+Georgia Tech -><address>
+yhm@cc.gatech.edu -><email>
+Nick Feamster -><author>
+School of Computer Science -><affiliation>
+Georgia Tech -><address>
+feamster@cc.gatech.edu -><email>

@@ -1,0 +1,21 @@
+May -><title>
+Towards an Intelligent Storyboarding Tool for 3D -><title>
+Games -><title>
+W -><author>
+Arnav Jhala -><author>
+Computer Science Department -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695 USA -><address>
++01 919 513 4199 -><phone>
+ahjhala@unity.ncsu.edu -><email>
+R. Michael Young -><author>
+Computer Science Department -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695 USA -><address>
++01 919 513 3038 -><phone>
+young@csc.ncsu.edu -><email>
+Computer Science Department -><affiliation>
+Millsaps College -><affiliation>
+Jackson MS 39210 -><address>
++01 601 974 1360 -><phone>
+bareswh@millsaps.edu -><email>

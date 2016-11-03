@@ -1,0 +1,12 @@
+Cross-Layers Cascade in Multiplex Networks -><title>
+Zhaofeng Li -><author>
+School of Computer Science and Engineering -><affiliation>
+Southeast University -><affiliation>
+Nanjing, China -><address>
+lizhaofeng@live.cn -><email>
+Yichuan Jiang -><author>
+Corresponding author -><affiliation>
+School of Computer Science and Engineering -><affiliation>
+Southeast University -><affiliation>
+Nanjing, China -><address>
+yjiang@seu.edu.cn -><email>

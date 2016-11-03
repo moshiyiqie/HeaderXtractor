@@ -1,0 +1,12 @@
+Effects of Spam Removal on Search Engine Efficiency and -><title>
+Effectiveness -><title>
+Andrew Trotman -><author>
+Department of Computer Science -><affiliation>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+andrew@cs.otago.ac.nz -><email>
+Matt Crane -><author>
+Department of Computer Science -><affiliation>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+mcrane@cs.otago.ac.nz -><email>

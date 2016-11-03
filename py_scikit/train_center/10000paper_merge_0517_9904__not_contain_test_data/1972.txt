@@ -1,0 +1,12 @@
+Gauss Meets Canadian Traveler: Shortest-Path Problems -><title>
+with Correlated Natural Dynamics -><title>
+Debadeepta Dey†, Andrey Kolobov‡, Rich Caruana‡ -><author>
+Ece Kamar‡, Eric Horvitz‡, Ashish Kapoor‡ -><author>
+†Carnegie Mellon University, Pittsburgh, PA 15213 USA -><affiliation>
+‡Microsoft Research, Redmond, WA 98052 USA -><address>
+Categories and Subject Descriptors -><keyword>
+I.2 [Problem Solving, Control Methods, and Search]: -><keyword>
+Plan execution, formation, generation -><keyword>
+Keywords -><keyword>
+Planning; Canadian Traveler Problem; Gaussian Process; -><keyword>
+Aircraft Routing -><keyword>

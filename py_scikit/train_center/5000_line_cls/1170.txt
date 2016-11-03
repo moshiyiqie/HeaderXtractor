@@ -1,0 +1,25 @@
+An Earth Watching Satellite Constellation: -><title>
+How to Manage a Team of Watching Agents -><title>
+with Limited Communications -><title>
+Marie-Claire Charmeau -><title>
+CNES -><title>
+Centre Spatial de Toulouse -><title>
+18 av. E´douard Belin -><note>
+31401, Toulouse Cedex 4 -><date>
+France -><unknow>
+Sylvain Damiani -><title>
+ONERA -><author>
+Centre de Toulouse -><author>
+2 av. E´douard Belin, BP 4025 -><pubnum>
+31055, Toulouse Cedex 4 -><date>
+France -><address>
+Sylvain.Damiani@onera.fr -><email>
+Ge´rard Verfaillie -><email>
+ONERA -><degree>
+Centre de Toulouse -><degree>
+2 av. E´douard Belin, BP 4025 -><degree>
+31055, Toulouse Cedex 4 -><date>
+France -><address>
+Gerard.Verfaillie@onera.fr -><email>
+Marie- -><email>
+Claire.Charmeau@cnes.fr -><email>

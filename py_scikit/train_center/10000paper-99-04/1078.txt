@@ -1,0 +1,16 @@
+Keynote Talk -><title>
+ACM SIGGRAPH :and Future Directions -><title>
+for Computer Graphics and Interactive Techniques -><title>
+Judith R. Brown -><author>
+President, ACM SIGGRAPH -><note>
+This presentation will describe the activities and directions of ACM SIGGRAPH, the leading international pro- -><note>
+fessional society for computer graphics and interactiw', techniques. It will present the events and materials that -><note>
+are available to the computer graphics community through ACM SIGGRAPH and invite attendees tobecome -><note>
+involved with the organization and its many activities that take place throughout the year and around the -><abstract>
+world. In addition to the large annual conference, ACM SIGGRAPH has a very active Education Committee, -><abstract>
+more than a dozen focused symposia nd workshops, liaisons with other professional societies, over thirty pro- -><abstract>
+fessional and student chapters, and many other new and ongoing projects. This presentation will include indus- -><abstract>
+trial announcements and video pieces from the SIGGRAPH 2001 conference in -><abstract>
+Judith R. Brown is a visualization specialist, co-author of four books, and a frequently invited speaker on visu- -><abstract>
+alization, education, and collaboration.. -><affiliation>
+6 -><note>

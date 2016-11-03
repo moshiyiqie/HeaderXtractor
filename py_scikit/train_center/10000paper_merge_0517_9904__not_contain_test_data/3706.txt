@@ -1,0 +1,34 @@
+Reducing Application Code Complexity With -><title>
+Vocabulary-Specific XML Language Bindings -><title>
+Douglas C. -><author>
+Schmidt -><author>
+Department of -><affiliation>
+Boris Kolpackov -><author>
+Department of -><affiliation>
+Electrical -><affiliation>
+Engineering and -><affiliation>
+Computer Science, -><email>
+Vanderbilt University -><affiliation>
+Nashville, TN 37212 -><address>
+boris@dre.vande -><email>
+rbilt.edu -><email>
+Jules White -><author>
+Department of -><affiliation>
+Electrical -><degree>
+Engineering and -><degree>
+Computer Science, -><degree>
+Vanderbilt University -><affiliation>
+Nashville, TN 37212 -><address>
+1-(251)-533-9432 -><phone>
+jules@dre.vander -><email>
+bilt.edu -><web>
+Balachandran -><unknow>
+Natarajan -><author>
+Department of -><affiliation>
+Electrical -><address>
+Engineering and -><note>
+Computer Science, -><note>
+Vanderbilt University -><affiliation>
+Nashville, TN 37212 -><address>
+bala@dre.vander -><email>
+bilt.edu -><web>

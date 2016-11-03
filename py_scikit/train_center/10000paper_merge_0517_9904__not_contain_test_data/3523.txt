@@ -1,0 +1,13 @@
+Extensions Of Closeness Centrality? -><title>
+Leyla Zhuhadar -><author>
+Department of Computer Engineering -><affiliation>
+and Computer Science -><affiliation>
+University of Louisville -><affiliation>
+Louisville, KY 40292 -><address>
+l0zhuh01@louisville.edu -><email>
+Rong Yang -><author>
+Department of Mathematics -><affiliation>
+and Computer Science -><affiliation>
+Western Kentucky University -><affiliation>
+Bowling Green, KY 42101 -><address>
+Rong.Yang@wku.edu -><email>

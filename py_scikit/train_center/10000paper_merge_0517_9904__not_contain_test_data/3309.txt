@@ -1,0 +1,4 @@
+Appreciation of Game Plays with a Social Robot -><title>
+Suleman Shahid, Emiel Krahmer, Marc Swerts -><author>
+Tilburg Center for Cognition and Communication (TiCC), Tilburg University, the Netherlands -><affiliation>
+{s.shahid,e.j.krahmer,m.g.j.swerts}@uvt.nl -><email>

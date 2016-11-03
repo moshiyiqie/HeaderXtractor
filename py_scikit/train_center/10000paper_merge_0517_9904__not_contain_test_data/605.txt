@@ -1,0 +1,11 @@
+Verification of multiagent systems via unbounded model checking ∗ -><title>
+Wojciech Penczek -><author>
+ICS PAS and Podlasie Academy -><author>
+penczek@ipipan.waw.pl -><email>
+Alessio Lomuscio -><author>
+King’s College London -><affiliation>
+alessio@dcs.kcl.ac.uk -><email>
+Magdalena Kacprzak -><author>
+Białystok University -><affiliation>
+of Technology -><affiliation>
+mdkacprzak@wp.pl -><email>

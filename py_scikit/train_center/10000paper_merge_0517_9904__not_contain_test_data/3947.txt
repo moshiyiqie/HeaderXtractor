@@ -1,0 +1,20 @@
+HELLAS: A Specialized Architecture for Interactive -><title>
+Deformable Object Modeling -><title>
+Thomas Kelliher -><author>
+Department of Mathematics -><affiliation>
+and Computer Science -><affiliation>
+Goucher College -><affiliation>
+Baltimore, MD -><address>
+kelliher@bluebird.goucher.edu -><email>
+Benjamin Bishop -><author>
+Department of Computing -><affiliation>
+Sciences -><author>
+University of Scranton -><affiliation>
+Scranton, PA -><address>
+bishop@cs.uofs.edu -><email>
+Shrirang Yardi -><author>
+Department of Electrical and -><affiliation>
+Computer Engineering -><affiliation>
+Virginia Tech -><address>
+Blacksburg, VA -><address>
+yardi@vt.edu -><email>

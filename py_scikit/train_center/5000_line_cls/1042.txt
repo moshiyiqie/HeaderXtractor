@@ -1,0 +1,8 @@
+Law-Governed Linda as a Semantics -><title>
+for Agent Dialogue Protocols -><title>
+Sylvie Doutre, Peter McBurney, Michael Wooldridge -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 3BX -><address>
+United Kingdom -><address>
+{sd,p.j.mcburney,mjw}@csc.liv.ac.uk -><email>

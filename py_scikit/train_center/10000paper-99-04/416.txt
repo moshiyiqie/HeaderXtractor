@@ -1,0 +1,11 @@
+MONAD: A Flexible Architecture for Multi-Agent Control -><title>
+{tdv, jgo}@andrew.cmu.edu, galk@cs.biu.ac.il, {mmv, brettb}@cs.cmu.edu -><author>
+School of Computer Science -><affiliation>
+Computer Science Department -><affiliation>
+Bar Ilan University -><address>
+Ramat Gan 52900, Israel -><address>
+Tel: +972-3-531-7233 -><phone>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA, 15213, USA -><address>
+Tel: +1 412 268 1474 -><phone>

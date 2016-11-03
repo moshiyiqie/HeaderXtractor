@@ -1,0 +1,12 @@
+Constraining Information Sharing to Improve Cooperative -><title>
+Information Gathering -><title>
+David Sarne -><author>
+Department of Computer Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan, Israel -><address>
+sarned@cs.biu.ac.il -><email>
+Igor Rochlin -><author>
+Department of Computer Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan, Israel -><address>
+igor.rochlin@gmail.co.il -><email>

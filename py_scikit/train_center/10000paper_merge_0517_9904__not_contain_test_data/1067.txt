@@ -1,0 +1,6 @@
+Evolving Subjective Utilities: -><title>
+Prisoner’s Dilemma Game Examples -><title>
+Koichi Moriyama Satoshi Kurihara Masayuki Numao -><author>
+The Institute of Scientific and Industrial Research, Osaka University -><affiliation>
+8-1, Mihogaoka, Ibaraki, Osaka, 567-0047, Japan -><address>
+{koichi, kurihara, numao}@ai.sanken.osaka-u.ac.jp -><email>

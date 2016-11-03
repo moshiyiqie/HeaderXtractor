@@ -1,0 +1,15 @@
+Automatic Quality Assessment of Affymetrix GeneChip -><title>
+Data -><title>
+Beate Sick -><title>
+DNA Array Facility, Center for -><author>
+Integrative Genomics -><author>
+University of Lausanne -><affiliation>
+Lausanne, Switzerland -><address>
+Beate.Sick@unil.ch -><email>
+Steffen Heber -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+1519 Partners II -><affiliation>
+NC State University, Raleigh, -><affiliation>
+NC 27695-7566 -><address>
+sheber@ncsu.edu -><email>

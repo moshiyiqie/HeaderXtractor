@@ -1,0 +1,16 @@
+A Logic for Strategic Reasoning -><title>
+Michael Wooldridge -><author>
+Dept. of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, UK -><address>
+mjw@csc.liv.ac.uk -><email>
+Wiebe van der Hoek -><author>
+Dept. of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, UK -><address>
+wiebe@csc.liv.ac.uk -><email>
+Wojciech Jamroga -><author>
+Institute of Computer Science -><affiliation>
+Clausthal Univ. of Technology -><affiliation>
+38 678 Clausthal, Germany -><address>
+wjamroga@in.tu-clausthal.de -><email>

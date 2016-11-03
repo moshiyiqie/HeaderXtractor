@@ -1,0 +1,6 @@
+Reinforcement Learning from Simultaneous Human and -><title>
+MDP Reward -><title>
+W. Bradley Knox and Peter Stone -><author>
+Deptartment of Computer Science -><affiliation>
+The University of Texas at Austin -><affiliation>
+{bradknox,pstone}@cs.utexas.edu -><email>

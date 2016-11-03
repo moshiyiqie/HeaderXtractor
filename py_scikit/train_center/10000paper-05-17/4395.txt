@@ -1,0 +1,17 @@
+Do I Know You? – Efﬁcient and Privacy-Preserving -><title>
+Common Friend-Finder Protocols and Applications -><title>
+Marcin Nagy -><author>
+Aalto University, Finland -><affiliation>
+marcin.nagy@aalto.ﬁ -><email>
+Emiliano De Cristofaro -><author>
+PARC (a Xerox Company), U.S.A. -><affiliation>
+me@emilianodc.com -><email>
+Alexandra Dmitrienko -><author>
+Fraunhofer SIT/CASED, Germany -><affiliation>
+alexandra.dmitrienko@sit.fraunhofer.de -><email>
+N. Asokan -><author>
+University of Helsinki & Aalto University, Finland -><affiliation>
+asokan@acm.org -><email>
+Ahmad-Reza Sadeghi -><author>
+TU Darmstadt/CASED, Germany -><affiliation>
+ahmad.sadeghi@trust.cased.de -><email>

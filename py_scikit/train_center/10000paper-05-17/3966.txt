@@ -1,0 +1,23 @@
+Some New Approaches For Preventing Software Tampering -><title>
+∗ -><title>
+Golden Richard III -><author>
+Computer Science Dept. -><affiliation>
+University of New Orleans -><affiliation>
+New Orleans, LA 70148 -><address>
+golden@cs.uno.edu -><email>
+Yixin Chen -><author>
+Computer Science Dept. -><affiliation>
+University of New Orleans -><affiliation>
+New Orleans, LA 70148, and -><address>
+Research Institute for Children -><affiliation>
+200 Henry Clay Avenue -><address>
+New Orleans, LA 70118 -><address>
+yixin@cs.uno.edu -><email>
+Bin Fu -><author>
+Computer Science Dept. -><affiliation>
+University of New Orleans -><affiliation>
+New Orleans, LA 70148, and -><address>
+Research Institute for Children -><affiliation>
+200 Henry Clay Avenue -><address>
+New Orleans, LA 70118 -><address>
+fu@cs.uno.edu -><email>

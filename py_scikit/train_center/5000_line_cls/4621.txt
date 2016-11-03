@@ -1,0 +1,14 @@
+Incorporating Wireless into the -><title>
+Computer Science Curriculum -><title>
+Bhagyavati -><author>
+Columbus State University -><affiliation>
+4225 University Avenue -><affiliation>
+Columbus, GA 31907 -><address>
+1-706-565-3519 -><phone>
+bhagyavati@colstate.edu -><email>
+Tena F. McQueen -><author>
+Columbus State University -><affiliation>
+4225 University Avenue -><affiliation>
+Columbus, GA 31907 -><address>
+1-706-565-3615 -><phone>
+mcqueen_tena@colstate.edu -><email>

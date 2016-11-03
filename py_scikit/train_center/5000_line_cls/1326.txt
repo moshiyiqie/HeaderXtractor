@@ -1,0 +1,5 @@
+A Utility-Based Sensing and Communication Model for a -><title>
+Glacial Sensor Network -><title>
+Paritosh Padhy, Rajdeep K. Dash, Kirk Martinez and Nicholas R. Jennings -><author>
+School of Electronics and Computer Science,University of Southampton, Southampton, SO17 1BJ ,UK. -><affiliation>
+{pp04r,rkd02r,km,nrj}@ecs.soton.ac.uk -><email>

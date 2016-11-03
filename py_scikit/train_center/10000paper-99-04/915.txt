@@ -1,0 +1,7 @@
+Checkpointing for Workflow Recovery -><title>
+ZongWei Luo -><author>
+415 GSRC, The Department ofComputer Science -><affiliation>
+Large Scale Distributed Information System Lab -><affiliation>
+The University of Georgia -><affiliation>
+Athens, GA 30602 -><address>
+luo@cs.uga.edu -><email>

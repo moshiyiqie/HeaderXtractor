@@ -1,0 +1,7 @@
+Extracting Opinion Topics for Chinese Opinions using -><title>
+Dependence Grammar -><title>
+Guang Qiu, Kangmiao Liu, Jiajun Bu, Chun Chen, Zhiming Kang -><author>
+College of Compute Science, Zhejiang University -><affiliation>
+Hangzhou 310027, China -><address>
+Corresponding Author, +86 571 87952148 -><address>
+{qiuguang, lkm, bjj, chenc, kzm}@zju.edu.cn -><email>

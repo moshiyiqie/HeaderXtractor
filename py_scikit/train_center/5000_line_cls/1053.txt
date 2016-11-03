@@ -1,0 +1,13 @@
+Distributed Network Scheduling -><title>
+Bradley J. Clement, Steven R. Schaffer -><author>
+Jet Propulsion Laboratory, California Institute of Technology -><affiliation>
+4800 Oak Grove Drive, M/S 126-347 -><address>
+Pasadena, CA 91109 USA -><address>
++1-818-393-4729, +1-818-354-8637 -><phone>
+Bradley.J.Clement@jpl.nasa.gov, Steven.R.Schaffer@jpl.nasa.gov -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial -><note>
+General Terms -><keyword>
+Performance, Design, Experimentation -><keyword>
+Keywords -><keyword>
+scheduling, network, space, Mars, rover -><keyword>

@@ -1,0 +1,6 @@
+Solving Infrastructure Monitoring Problems with Multiple -><title>
+Heterogeneous Unmanned Aerial Vehicles -><title>
+Jakub Ondrácˇek, Ondrˇej Vaneˇk and Michal Peˇchoucˇek -><author>
+Agent Technology Center, Faculty of Electrical Engineering, Czech Technical University in Prague -><affiliation>
+Technická 2, Praha 6, Czech Republic -><address>
+{ondracek, vanek, pechoucek}@agents.fel.cvut.cz -><email>

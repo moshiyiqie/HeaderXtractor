@@ -1,0 +1,14 @@
+Accelerating Computationally Intensive Queries -><title>
+on Massive Earth Science Data -><title>
+(System Demonstration) -><title>
+Peter Baumann -><author>
+rasdaman GmbH -><affiliation>
+Hans-Hermann-Sieling-Str. 17 -><address>
+28759 Bremen, Germany -><address>
++49-421-6595777 -><phone>
+baumann@rasdaman.com -><email>
+Jacobs University -><affiliation>
+Campus Ring 1 -><address>
+28759 Bremen, Germany -><address>
++49-421-200-3178 -><phone>
+p.baumann@jacobs-university.de -><affiliation>

@@ -1,0 +1,20 @@
+A study of fuzzy clustering within the IGSCR framework -><title>
+Randolph H. Wynne -><author>
+Department of Forestry -><affiliation>
+Virginia Polytechnic Institute -><affiliation>
+and State University -><affiliation>
+Blacksburg, VA 24061 -><address>
+wynne@vt.edu -><email>
+Rhonda D. Phillips -><author>
+Department of Computer Science -><affiliation>
+Virginia Polytechnic Institute -><affiliation>
+and State University -><affiliation>
+Blacksburg, VA 24061 -><address>
+rdphllps@vt.edu -><email>
+Layne T. Watson -><author>
+Departments of Computer Science -><affiliation>
+and Mathematics -><affiliation>
+Virginia Polytechnic Institute -><affiliation>
+and State University -><affiliation>
+Blacksburg, VA 24061 -><address>
+ltw@cs.vt.edu -><email>

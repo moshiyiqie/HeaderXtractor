@@ -1,0 +1,13 @@
+Resource-Aware Junction Trees for Efficient Multi-Agent -><title>
+Coordination -><title>
+A. Rogers, N.R. Jennings -><author>
+University of Southampton -><affiliation>
+Southampton, SO17 1BJ, UK{acr,nrj}@ecs.soton.ac.uk -><email>
+N. Stefanovitch -><author>
+LIP6 - UPMC -><affiliation>
+75016 Paris, France -><address>
+stefanovitch@poleia.lip6.fr -><email>
+A. Farinelli -><author>
+University of Verona -><affiliation>
+Verona, I-37134, Italy -><address>
+alessandro.farinelli@univr.it -><email>

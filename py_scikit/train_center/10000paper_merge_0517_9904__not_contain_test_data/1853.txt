@@ -1,0 +1,6 @@
+Stable Marriage and Roommate Problems -><title>
+with Individual-based Stability -><title>
+Haris Aziz -><author>
+NICTA and University of New South Wales -><affiliation>
+2033 Sydney, Australia -><address>
+haris.aziz@nicta.com.au -><email>

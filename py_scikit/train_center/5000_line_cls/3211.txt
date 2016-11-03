@@ -1,0 +1,6 @@
+Adaptive Learning for Multi-Agent Navigation -><title>
+Julio Godoy, Ioannis Karamouzas, Stephen J. Guy and Maria Gini -><author>
+Department of Computer Science and Engineering -><affiliation>
+University of Minnesota -><affiliation>
+Keller Hall 4-192, 200 Union St SE, Minneapolis, Minnesota 55455 -><address>
+{godoy, ioannis, sjguy, gini}@cs.umn.edu -><email>

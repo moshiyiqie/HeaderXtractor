@@ -1,0 +1,5 @@
+A Noisy-Channel Approach to Contextual Advertising -><title>
+Vanessa Murdock, Massimiliano Ciaramita and Vassilis Plachouras -><author>
+Yahoo! Research - Barcelona -><affiliation>
+Ocata 1, 08003 Barcelona Spain -><address>
+vmurdock@yahoo-inc.com -><email>

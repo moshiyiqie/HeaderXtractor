@@ -1,0 +1,22 @@
+Less Is More: Restructuring Decisions to Improve Agent -><title>
+Search -><title>
+Moti Geva -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Bar Ilan University -><affiliation>
+Ramat Gan 52900, Israel -><address>
+Avshalom Elmalech -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Bar Ilan University -><affiliation>
+Ramat Gan 52900, Israel -><address>
+David Sarne -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Bar Ilan University -><affiliation>
+Ramat Gan 52900, Israel -><address>
+Barbara J. Grosz -><author>
+School of Engineering and -><affiliation>
+Applied Sciences -><author>
+Harvard University, -><affiliation>
+Cambridge MA 02138 USA -><address>

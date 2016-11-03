@@ -1,0 +1,8 @@
+Toward Interactive Humanoid Robots -><title>
+- A constructive approach to developing intelligent robots - -><title>
+Hiroshi Ishiguro -><author>
+Department of Computer & Communication Sciences, Wakayama University -><affiliation>
+Sakaedani 930, Wakayama 640-8510, Japan -><address>
+ATR Media Information Science Laboratories -><affiliation>
+Hikaridai 2-2-2, Seika-cho, Soraku-gun, Kyoto 619-0288, Japan -><address>
+E-mail: ishiguro@sys.wakayama-u.ac.jp -><email>

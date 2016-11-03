@@ -1,0 +1,8 @@
+Distributed Training System with -><title>
+High-Resolution Deformable Virtual Models -><title>
+Felix G. Hamza-Lup1,2 -><author>
+(1) School of Computer Science -><affiliation>
+(2) College of Optics and Photonics: CREOL/FPCE -><affiliation>
+(3) Institute for Simulation and Training -><affiliation>
+University of Central Florida -><affiliation>
+{fhamza, anand, cali, jannick}@odalab.ucf.edu -><affiliation>

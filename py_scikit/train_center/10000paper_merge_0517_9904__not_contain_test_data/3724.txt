@@ -1,0 +1,14 @@
+A Web-based Programming Environment for LEGO -><title>
+Mindstorms Robots -><title>
+Aaron Garrett -><author>
+Ph.D. Student -><email>
+David Thornton -><author>
+Ph.D. Student -><affiliation>
+Auburn University -><affiliation>
+Auburn University -><affiliation>
+Auburn, AL 36849 -><address>
+Auburn, AL 36849 -><address>
+256-782-5364 -><phone>
+256-782-5359 -><phone>
+garreal@auburn.edu -><email>
+thorndc@auburn.edu -><email>

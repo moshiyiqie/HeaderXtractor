@@ -1,0 +1,16 @@
+CookKing: A King of Healthy, Fun and Social Cooking -><title>
+Martin Meijering -><author>
+Dept. of Comm. and Information -><affiliation>
+Sciences, Tilburg University, the -><affiliation>
+Netherlands -><address>
+m.meijering@uvt.nl -><email>
+Eelco van de Wiel -><author>
+Dept. of Comm. and Information -><affiliation>
+Sciences, Tilburg University, the -><affiliation>
+Netherlands -><address>
+e.wiel@uvt.nl -><email>
+Suleman Shahid -><author>
+Tilburg center for Cognition and -><affiliation>
+Communication, Tilburg University, -><affiliation>
+the Netherlands -><address>
+s.shahid@uvt.nl -><email>

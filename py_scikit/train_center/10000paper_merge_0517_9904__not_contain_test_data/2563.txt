@@ -1,0 +1,20 @@
+SE-Star: A Large-Scale Human Behavior Simulation for -><title>
+Planning, Decision-Making and Training -><title>
+Fabien Flacher -><author>
+Thales Services -><affiliation>
+1 avenue Augustin Fresnel -><address>
+91767 Palaiseau, France -><address>
+fabien.flacher@ -><email>
+thalesgroup.com -><email>
+Laurent Navarro -><author>
+Thales Services -><affiliation>
+1 avenue Augustin Fresnel -><address>
+91767 Palaiseau, France -><address>
+laurent.navarro@ -><email>
+thalesgroup.com -><email>
+Christophe Meyer -><author>
+Thales Services -><affiliation>
+1 avenue Augustin Fresnel -><address>
+91767 Palaiseau, France -><address>
+christophe.meyer@ -><email>
+thalesgroup.com -><web>

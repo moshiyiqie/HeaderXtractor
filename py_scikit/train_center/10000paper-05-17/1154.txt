@@ -1,0 +1,6 @@
+A Particle Filter for Bid Estimation in Ad Auctions with -><title>
+Periodic Ranking Observations -><title>
+David Pardoe and Peter Stone -><author>
+Department of Computer Science -><affiliation>
+The University of Texas at Austin -><affiliation>
+{dpardoe, pstone}@cs.utexas.edu -><email>

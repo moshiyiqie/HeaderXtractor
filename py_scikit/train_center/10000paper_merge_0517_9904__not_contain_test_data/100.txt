@@ -1,0 +1,17 @@
+Winner Determination in Combinatorial Auction -><title>
+Generalizations∗ -><title>
+Subhash Suri -><author>
+Computer Science Department -><affiliation>
+University of California -><affiliation>
+Santa Barbara, CA 93106 -><address>
+suri@cs.ucsb.edu -><email>
+Andrew Gilpin, David Levine -><author>
+CombineNet, Inc. -><affiliation>
+311 S. Craig St. -><address>
+Pittsburgh, PA 15213 -><address>
+{agilpin,dlevine}@CombineNet.com -><email>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+sandholm@cs.cmu.edu -><email>

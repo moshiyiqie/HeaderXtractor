@@ -1,0 +1,5 @@
+Harnessing the Search for Rational Bid Schedules -><title>
+with Stochastic Search and Domain-specific Heuristics -><title>
+Alexander Babanov, John Collins, and Maria Gini -><author>
+Dept. of Computer Science and Engineering, University of Minnesota -><affiliation>
+{babanov,jcollins,gini}@cs.umn.edu -><email>

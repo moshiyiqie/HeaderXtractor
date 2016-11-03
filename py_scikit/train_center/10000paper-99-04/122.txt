@@ -1,0 +1,18 @@
+The Techsat-21 Autonomous Space Science Agent -><title>
+Paul Zetocha, -><author>
+Ross Wainwright, -><author>
+Pete Klupar -><author>
+Air Force Research Laboratory -><affiliation>
+Jim Van Gaasbeck , -><address>
+Pat Cappelaere, -><address>
+Dean Oswald -><author>
+Interface and Control Systems -><affiliation>
+Steve Chien, Rob Sherwood, -><address>
+Gregg Rabideau, -><address>
+Rebecca Castano, Ashley Davies, -><author>
+Michael Burl, Russell Knight, -><author>
+Tim Stough, Joe Roden -><author>
+Jet Propulsion Laboratory -><affiliation>
+California Institute of Technology -><affiliation>
+ase.jpl.nasa.gov -><email>
+Firstname.lastname@jpl.nasa.gov -><email>

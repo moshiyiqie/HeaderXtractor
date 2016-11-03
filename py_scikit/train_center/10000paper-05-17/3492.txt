@@ -1,0 +1,8 @@
+A Novel Approach for Automated Music Composition -><title>
+Using Memetic Algorithms -><title>
+Derek Wells and Hala ElAarag -><author>
+Department of Mathematics and Computer Science -><affiliation>
+Stetson University -><affiliation>
+421 N. Woodland Blvd. -><address>
+DeLand, FL 32828 -><address>
+{helaarag, dewells} @stetson.edu -><email>

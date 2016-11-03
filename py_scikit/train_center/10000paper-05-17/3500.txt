@@ -1,0 +1,34 @@
+Genetic Based LBP Feature Extraction and Selection for -><title>
+Facial Recognition -><title>
+Gerry Dozier -><author>
+North Carolina Agricultural and -><affiliation>
+Technical State University -><affiliation>
+1601 East Market St. Greensboro, -><address>
+NC, 27411 -><address>
+gvdozier@ncat.edu -><email>
+Joseph Shelton -><email>
+North Carolina Agricultural and -><author>
+Technical State University -><affiliation>
+1601 East Market St. Greensboro, -><address>
+NC, 27411 -><address>
+jashelt1@ncat.edu -><email>
+Khary Popplewell -><unknow>
+North Carolina Agricultural and -><author>
+Technical State University -><affiliation>
+1601 East Market St. Greensboro, -><address>
+NC, 27411 -><address>
+ktpopple@ncat.edu -><email>
+Joshua Adams -><email>
+North Carolina Agricultural and -><author>
+Technical State University -><affiliation>
+1601 East Market St. Greensboro, -><address>
+NC, 27411 -><address>
+jcadams2@ncat.edu -><email>
+Damon L. Woodard -><author>
+Clemson University -><affiliation>
+Kamilah Purrington -><author>
+North Carolina Agricultural and -><affiliation>
+Technical State University -><affiliation>
+1601 East Market St. Greensboro, -><address>
+NC, 27411 -><address>
+kmpurrin@ncat.edu -><email>

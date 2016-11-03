@@ -1,0 +1,34 @@
+Raymond Lister -><author>
+Faculty of Information Technology -><affiliation>
+University of Technology, Sydney -><affiliation>
+Sydney, -><address>
+NSW, Australia -><address>
+raymond@it.uts.edu.au -><email>
+Anders Berglund -><author>
+UpCERG, Uppsala Computing Education Research Group -><affiliation>
+Department of Information Technology -><affiliation>
+Uppsala University -><affiliation>
+Uppsala, Sweden -><address>
+Anders.Berglund@it.uu.se -><email>
+structure and analyse research on the teaching and -><abstract>
+learning of programming. Students, teachers and course -><abstract>
+content are the three entities that form the corners of the -><abstract>
+didactic triangle. The edges of the triangle represent the -><abstract>
+relationships between these three entities. We argue that -><abstract>
+many computing educators and computing education -><abstract>
+researchers operate from within narrow views of the -><abstract>
+didactic triangle. For example, computing educators -><abstract>
+often teach programming based on how they relate to the -><abstract>
+computer, and not how the students relate to the -><abstract>
+computer. We conclude that, while research that focuses -><abstract>
+on the corners of the didactic triangle is sometimes -><abstract>
+appropriate, there needs to be more research that focuses -><abstract>
+on the edges of the triangle, and more research that -><abstract>
+studies the entire didactic triangle. -><abstract>
+Keywords: didactic triangle, phenomenography, object- -><keyword>
+oriented programming. -><abstract>
+1 The teaching of introductory programming -><abstract>
+is still a problem -><abstract>
+Programming is hard to learn, and hard to teach. These -><abstract>
+problems are frequently acknowledged within the -><abstract>
+computing education community and are confirmed in -><abstract>

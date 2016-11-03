@@ -1,0 +1,14 @@
+Easy Humanoid Motion Generation from User -><title>
+Demonstration using Wearable Interface -><title>
+Ilwoong Jeong -><author>
+Korea Advanced Institute of Science and -><affiliation>
+Technology -><affiliation>
+335 Gwahangno, Yuseong-gu -><address>
+Daejeon, Republic of Korea -><address>
+woong@paradise.kaist.ac.kr -><email>
+Hyun S. Yang -><author>
+Korea Advanced Institute of Science and -><affiliation>
+Technology -><affiliation>
+335 Gwahangno, Yuseong-gu -><address>
+Daejeon, Republic of Korea -><address>
+hsyang@paradise.kaist.ac.kr -><email>

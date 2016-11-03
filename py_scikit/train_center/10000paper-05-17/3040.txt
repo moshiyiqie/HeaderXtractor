@@ -1,0 +1,9 @@
+VisiCon: A Robot Control Interface for Visualizing -><title>
+Manipulation Using a Handheld Projector -><title>
+Cooperative Robot Navigation Game via Projection -><title>
+Kazuhiro Hosoi, Vinh Ninh Dao, Akihiro Mori, Masanori Sugimoto -><author>
+Interaction Technology Laboratory -><affiliation>
+Department of Frontier Informatics, The University of Tokyo -><affiliation>
+5-1-5 Kashiwanoha, Kashiwa, Chiba -><address>
+277-8561 JAPAN -><address>
+{hosoi, dao, mori, sugi}@itl.t.u-tokyo.ac.jp -><email>

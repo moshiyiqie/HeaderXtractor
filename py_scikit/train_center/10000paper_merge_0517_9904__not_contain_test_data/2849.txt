@@ -1,0 +1,13 @@
+Making Cluster Applications Energy-Aware -><title>
+Nedeljko Vasic´ -><author>
+EPFL Lausanne, Switzerland -><affiliation>
+nedeljko.vasic@epfl.ch -><email>
+Vincent Salzgeber -><affiliation>
+EPFL Lausanne, Switzerland -><address>
+vincent.salzgeber@epfl.ch -><email>
+Martin Barisits -><author>
+EPFL Lausanne, Switzerland -><affiliation>
+martin.barisits@epfl.ch -><email>
+Dejan Kostic´ -><author>
+EPFL Lausanne, Switzerland -><affiliation>
+dejan.kostic@epfl.ch -><email>

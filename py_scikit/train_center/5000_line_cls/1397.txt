@@ -1,0 +1,19 @@
+Integrating Parallel Interactions into Cooperative Search -><title>
+Efrat Manisterski 1 -><author>
+1 Department of Computer -><affiliation>
+David Sarne 2 -><author>
+2 Division of Engineering and -><affiliation>
+Sarit Kraus 1, 3 -><address>
+3 Institute for Advanced -><affiliation>
+Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan 52900, Israel -><address>
+maniste@cs.biu.ac.il -><email>
+Applied Sciences -><author>
+Harvard University -><affiliation>
+Cambridge, MA -><address>
+sarned@eecs.harvard.edu -><email>
+Computer Studies -><affiliation>
+University of Maryland -><affiliation>
+College Park, MD -><affiliation>
+sarit@cs.biu.ac.il -><email>

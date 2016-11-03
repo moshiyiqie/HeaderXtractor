@@ -1,0 +1,9 @@
+Preference Elicitation without Numbers -><title>
+P.H.M.P. Roelofsma -><author>
+Department of Social Siences -><affiliation>
+Vrije Universiteit Amsterdam -><affiliation>
+phmp.roelofsma@fsw.vu.nl -><email>
+M.C. Schut -><author>
+Department of Computer Science -><affiliation>
+Vrije Universiteit Amsterdam -><affiliation>
+mc.schut@few.vu.nl -><email>

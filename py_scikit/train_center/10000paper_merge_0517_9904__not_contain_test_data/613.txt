@@ -1,0 +1,8 @@
+Programming BOID-Plan Agents -><title>
+deliberating about conflicts among defeasible mental attitudes and plans -><title>
+Leendert van der Torre -><author>
+CWI -><affiliation>
+torre@cwi.nl -><email>
+Mehdi Dastani -><author>
+Utrecht University -><affiliation>
+mehdi@cs.uu.nl -><email>

@@ -1,0 +1,9 @@
+Dynamic Potential-Based Reward Shaping -><title>
+Daniel Kudenko -><author>
+Department of Computer Science, -><affiliation>
+University of York, UK -><affiliation>
+kudenko@cs.york.ac.uk -><email>
+Sam Devlin -><author>
+Department of Computer Science, -><affiliation>
+University of York, UK -><affiliation>
+devlin@cs.york.ac.uk -><email>

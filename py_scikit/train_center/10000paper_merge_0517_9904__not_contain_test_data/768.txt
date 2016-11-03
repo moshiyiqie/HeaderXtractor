@@ -1,0 +1,12 @@
+An Integrated Possibilistic Framework for Goal Generation -><title>
+in Cognitive Agents -><title>
+Célia da Costa Pereira -><author>
+Dipartimento di Tecnologie dell’Informazione -><affiliation>
+Università degli Studi di Milano -><affiliation>
+Via Bramante 65, I-26013 Crema (CR), Italy -><address>
+celia.pereira@unimi.it -><email>
+Andrea G. B. Tettamanzi -><author>
+Dipartimento di Tecnologie dell’Informazione -><affiliation>
+Università degli Studi di Milano -><affiliation>
+Via Bramante 65, I-26013 Crema (CR), Italy -><address>
+andrea.tettamanzi@unimi.it -><email>

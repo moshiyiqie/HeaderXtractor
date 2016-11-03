@@ -1,0 +1,11 @@
+Data-Driven Agent-Based Modeling, with Application to -><title>
+Rooftop Solar Adoption -><title>
+Haifeng Zhang and Yevgeniy Vorobeychik -><author>
+Electrical Engineering and Computer Science -><affiliation>
+Vanderbilt University -><affiliation>
+Nashville, TN -><address>
+{haifeng.zhang,yevgeniy.vorobeychik}@vanderbilt.edu -><email>
+Joshua Letchford and Kiran Lakkaraju -><author>
+Sandia National Laboratories -><affiliation>
+Albuquerque, NM -><address>
+{jletchf,klakkar}@sandia.gov -><email>

@@ -1,0 +1,21 @@
+Application Monitoring and Checkpointing in HPC: -><title>
+Looking Towards Exascale Systems -><title>
+∗ -><title>
+Nathan DeBardeleben -><author>
+High Performance Computing -><affiliation>
+Los Alamos National -><affiliation>
+Laboratory† -><affiliation>
+Los Alamos, MN, USA -><address>
+ndebard@lanl.gov -><email>
+John T. Daly -><author>
+Center for Exceptional -><affiliation>
+Computing -><email>
+Department of Defense, ACS† -><affiliation>
+Fort Meade, MD, USA -><address>
+john.t.daly@ugov.gov -><email>
+William M. Jones -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Coastal Carolina University† -><affiliation>
+Conway, SC, USA -><address>
+wjones@coastal.edu -><email>

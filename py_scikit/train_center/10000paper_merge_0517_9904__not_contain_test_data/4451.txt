@@ -1,0 +1,23 @@
+OSPF Vulnerability to Persistent Poisoning Attacks: -><title>
+A Systematic Analysis -><title>
+∗ -><title>
+Gabi Nakibly -><author>
+CS Department -><affiliation>
+Technion - IIT -><affiliation>
+gnakibly@cs.technion.ac.il -><email>
+Adi Sosnovich -><author>
+CS Department -><affiliation>
+Technion - IIT -><affiliation>
+sadisos@cs.technion.ac.il -><email>
+Eitan Menahem -><author>
+Cyber Security Labs -><affiliation>
+Ben-Gurion University -><affiliation>
+eitanme@il.ibm.com -><email>
+Yuval Elovici -><author>
+Cyber Security Labs -><affiliation>
+Ben-Gurion University -><affiliation>
+elovici@bgu.ac.il -><email>
+Ariel Waizel -><author>
+Cyber Security Labs -><affiliation>
+Ben-Gurion University -><affiliation>
+arielw@post.bgu.ac.il -><email>

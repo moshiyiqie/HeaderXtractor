@@ -1,0 +1,12 @@
+Open Source and Human Computer Interaction -><title>
+Co-Existent? -><title>
+Mikko Rajanen -><author>
+Dept. of Information Processing Science -><affiliation>
+University of Oulu -><affiliation>
+PO Box 3000, Oulu, Finland -><address>
+mikko.rajanen@oulu.fi -><email>
+Netta Iivari -><author>
+Dept. of Information Processing Science -><affiliation>
+University of Oulu -><affiliation>
+PO Box 3000, Oulu, Finland -><address>
+netta.iivari@oulu.fi -><email>

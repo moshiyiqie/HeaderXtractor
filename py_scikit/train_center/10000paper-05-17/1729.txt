@@ -1,0 +1,2 @@
+Applying Distributed Optimization for QoS-Security -><title>
+Tradeoff in a Distributed Information System∗ -><title>

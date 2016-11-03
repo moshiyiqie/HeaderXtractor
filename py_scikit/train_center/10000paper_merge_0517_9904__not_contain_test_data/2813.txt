@@ -1,0 +1,24 @@
+179 -><pubnum>
+Fuzzy Logic Based Decision Support System for Loan -><title>
+Risk Assessment -><title>
+Sangeet Kumar -><author>
+Department of Computer Science -><affiliation>
+DAV College Jalandhar -><affiliation>
+Punjab, India -><address>
++91-9855440973 -><phone>
+sangeetkumararora@yahoo.com -><email>
+Namarta Kapoor -><author>
+Department of Computer Science -><affiliation>
+DAV College Jalandhar -><affiliation>
+Punjab, India -><address>
++91-9872353361 -><phone>
+namartakapoor7@gmail.com -><email>
+Nitin Bhatia -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+DAV College Jalandhar -><affiliation>
+Punjab, India -><address>
++91-9872799797 -><phone>
+n_bhatia78@yahoo.com -><email>
+Page -><author>
+179 -><date>

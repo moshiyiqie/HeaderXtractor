@@ -1,0 +1,13 @@
+Adaptivity in Agent-Based Routing for Data Networks -><title>
+Chris J. Merz -><author>
+Sergey K -><author>
+David H. Wolpert -><author>
+NASA Ames Research Center -><affiliation>
+University of California, I -><affiliation>
+NASA Ames Research Center -><affiliation>
+Cae -><address>
+skirshne@ics, uci. edu -><email>
+dhw@pt o -><email>
+cmerz@pt o -><email>
+Kagan Tumer -><author>
+NASA Ames Research Center -><pubnum>

@@ -1,0 +1,11 @@
+Incentive Schemes for Participatory Sensing -><title>
+Boi Faltings -><title>
+Ecole Polytechnique Federale de Lausanne -><author>
+Artificial Intelligence Laboratory -><affiliation>
+CH-1015 Lausanne, Switzerland -><address>
+boi.faltings@epfl.ch -><email>
+Goran Radanovic -><author>
+Ecole Polytechnique Federale de Lausanne -><affiliation>
+Artificial Intelligence Laboratory -><affiliation>
+CH-1015 Lausanne, Switzerland -><address>
+goran.radanovic@epfl.ch -><email>

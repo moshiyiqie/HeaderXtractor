@@ -1,0 +1,12 @@
+Users Talk to their Model Trains: Interaction with a -><title>
+Speech-based Multi-Agent System∗ -><title>
+Bernd Ludwig -><author>
+University of Erlangen-Nuremberg (IMMD 5) -><affiliation>
+Haberstr. 2 -><address>
+D-91058 Erlangen, Germany -><address>
+bernd.ludwig@cs.fau.de -><email>
+Alexander Huber -><author>
+University of Erlangen-Nuremberg (IMMD 8) -><affiliation>
+Haberstr. 2 -><address>
+D-91058 Erlangen, Germany -><address>
+alexander.huber@cs.fau.de -><email>

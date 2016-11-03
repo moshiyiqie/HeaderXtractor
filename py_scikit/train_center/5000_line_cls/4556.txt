@@ -1,0 +1,7 @@
+Developing Smart Card Applications Using -><title>
+the OpenCard Framework -><title>
+Mark Burge∗ -><author>
+School of Computing -><affiliation>
+Armstrong Atlantic State University -><affiliation>
+Savannah, Georgia -><address>
+mburge@acm.org -><email>

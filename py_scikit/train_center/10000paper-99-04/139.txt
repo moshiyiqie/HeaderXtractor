@@ -1,0 +1,21 @@
+Autonomous Mobile Objects in CORBA-Based -><title>
+Distributed Systems -><title>
+Faculty of Electrical -><author>
+Engineering and Computing, -><affiliation>
+University of Zagreb, Unska -><affiliation>
+3, 10000, Zagreb, Croatia -><address>
+Faculty of Electrical -><affiliation>
+Engineering and Computing, -><affiliation>
+University of Zagreb, Unska -><affiliation>
+3, 10000, Zagreb, Croatia -><address>
+Faculty of Electrical -><affiliation>
+Engineering and Computing, -><affiliation>
+University of Zagreb, Unska -><affiliation>
+3, 10000, Zagreb, Croatia -><address>
+Lucent Technologies -><affiliation>
+Cherrywood Science & -><affiliation>
+Technology Park, -><address>
+Cabinteely, Co. Dublin, -><address>
+Ireland -><address>
++35312116681 +38516129861 +38516129610 +38516129617 -><phone>
+astranjak@lucent.com igor.cavrak@fer.hr damir.kovacic@fer.hr mario.zagar@fer.hr -><email>

@@ -1,0 +1,11 @@
+Bounded Model Checking for Knowledge and Real Time -><title>
+† -><title>
+∗ -><title>
+Wojciech Penczek -><author>
+Institute of Computer Science, PAS -><affiliation>
+Ordona 21, 01-237 Warsaw, Poland -><address>
+email: penczek@ipipan.waw.pl -><email>
+Boz˙ena Woz´na and Alessio Lomuscio -><author>
+Department of Computer Science, UCL -><affiliation>
+Gower Street, London WC1E 6BT,UK -><address>
+email: {B.Wozna,A.Lomuscio}@cs.ucl.ac.uk -><email>

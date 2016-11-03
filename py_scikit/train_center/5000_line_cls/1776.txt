@@ -1,0 +1,10 @@
+Learning Context Conditions for BDI Plan Selection -><title>
+Stéphane Airiau -><author>
+University of Amsterdam -><affiliation>
+Amsterdam, The Netherlands -><address>
+s.airiau@uva.nl -><email>
+Dhirendra Singh, Sebastian Sardina, -><author>
+and Lin Padgham -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+{dhirendra.singh,sebastian.sardina,lin.padgham}@rmit.edu.au -><email>

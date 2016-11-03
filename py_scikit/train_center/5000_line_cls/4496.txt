@@ -1,0 +1,25 @@
+Analyzing and Visualizing Student Work with BeSocratic -><title>
+Roy P. Pargas -><author>
+Melanie Cooper -><author>
+Clemson University -><affiliation>
+Clemson University -><affiliation>
+School of Computing -><affiliation>
+Department of Chemistry -><affiliation>
+100 McAdams, Clemson, SC, USA -><address>
+201 Hunter Hall, Clemson, SC, USA -><address>
+864.656.5855 -><address>
+864.656.2573 -><address>
+cmelani@clemson.edu -><email>
+pargas@clemson.edu -><author>
+Michael Klymkowsky -><author>
+University of Colorado Boulder -><affiliation>
+Molecular, Cellular & Developmental Biology -><affiliation>
+UC Boulder, Boulder, CO, USA -><address>
+303.492.8508 -><phone>
+michael.klymkowky@colorado.edu -><email>
+Sam Bryfczynski -><author>
+Clemson University -><affiliation>
+School of Computing -><affiliation>
+100 McAdams, Clemson, SC, USA -><address>
+864.656.5855 -><address>
+sbryfcz@clemson.edu -><email>

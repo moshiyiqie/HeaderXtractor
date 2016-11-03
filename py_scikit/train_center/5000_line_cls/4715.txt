@@ -1,0 +1,20 @@
+ABSTRACT -><abstract>
+Many networking researches depend on an accurate simulation of -><abstract>
+network traffic. For example, Intrusion Detection Systems -><abstract>
+generally require tuning to be effective in each new environment. -><abstract>
+It follows that researchers need to produce traffic backgrounds for -><abstract>
+laboratory testing that accurately reflect the characteristics of -><affiliation>
+organizations of interest. Because self-similarity is a common -><abstract>
+the same degree of self-similarity as the original traffic are desired. -><abstract>
+The authors discovered that modeling some important protocol -><abstract>
+characteristics has required the use of hybrid modeling and -><abstract>
+heavy-tailed distributions. These include protocols like HTTP that -><abstract>
+account for a large percentage of traffic today although they were -><abstract>
+not present for studies done a few years ago. In this paper hybrid -><abstract>
+and heavy-tailed modeling techniques are used to build detailed -><abstract>
+models of major Internet protocols. NS-2 is used to simulate the -><abstract>
+Internet traffic captured at University of Central Florida and the -><abstract>
+result is compared against original traffic. -><abstract>
+. -><abstract>
+Keywords -><keyword>
+Internet Traffic, Traffic Simulation, Self-similarity -><keyword>

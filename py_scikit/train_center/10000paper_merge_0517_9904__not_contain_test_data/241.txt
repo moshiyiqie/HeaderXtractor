@@ -1,0 +1,17 @@
+A Scalable, Distributed Algorithm -><affiliation>
+for Efficient Task Allocation -><title>
+Denis Peleshchuk -><author>
+Harvard University -><affiliation>
+33 Oxford Street -><address>
+Cambridge, MA, USA -><address>
+dpeleshc@fas.harvard.edu -><email>
+Pedro V. Sander -><author>
+Harvard University -><affiliation>
+33 Oxford Street -><address>
+Cambridge, MA, USA -><address>
+pvs@eecs.harvard.edu -><email>
+Barbara J. Grosz -><author>
+Harvard University -><affiliation>
+33 Oxford Street -><address>
+Cambridge, MA, USA -><address>
+grosz@eecs.harvard.edu -><email>

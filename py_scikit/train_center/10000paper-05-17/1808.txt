@@ -1,0 +1,7 @@
+Ad Hoc Coordination in Multiagent Systems -><title>
+with Applications to Human-Machine Interaction -><title>
+(Doctoral Consortium) -><title>
+Stefano V. Albrecht -><author>
+School of Informatics -><affiliation>
+University of Edinburgh -><affiliation>
+s.v.albrecht@sms.ed.ac.uk -><email>

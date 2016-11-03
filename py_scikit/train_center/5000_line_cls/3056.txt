@@ -1,0 +1,12 @@
+∗ -><title>
+A Logical Theory of Robot Localization -><title>
+Vaishak Belle -><author>
+Hector J. Levesque -><author>
+Dept. of Computer Science -><affiliation>
+University of Toronto -><affiliation>
+Toronto, Ontario M5S 3H5, Canada -><address>
+vaishak@cs.toronto.edu -><email>
+Dept. of Computer Science -><affiliation>
+University of Toronto -><affiliation>
+Toronto, Ontario M5S 3H5, Canada -><address>
+hector@cs.toronto.edu -><email>

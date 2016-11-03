@@ -1,0 +1,13 @@
+Evaluating the Interaction with Synthetic Agents -><title>
+Using Attention and Affect Tracking -><title>
+Helmut Prendinger -><author>
+National Institute of Informatics -><affiliation>
+2-1-2 Hitotsubashi, Chiyoda-ku -><address>
+Tokyo 101-8430, Japan -><address>
+helmut@nii.ac.jp -><email>
+Chunling Ma, Jin Yingzi, -><author>
+Kushida Kazutaka, Mitsuru Ishizuka -><author>
+Dept. of Information and Communication Eng. -><affiliation>
+University of Tokyo -><affiliation>
+7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan -><address>
+ishizuka@miv.t.u-tokyo.ac.jp -><email>

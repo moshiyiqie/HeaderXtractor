@@ -1,0 +1,6 @@
+Subverting System Authentication With Context-Aware, -><title>
+Reactive Virtual Machine Introspection -><title>
+Yangchun Fu, Zhiqiang Lin, Kevin W. Hamlen -><author>
+Department of Computer Science, The University of Texas at Dallas -><affiliation>
+800 W. Campbell Rd, Richardson, TX, 75080 -><address>
+{yangchun.fu, zhiqiang.lin, hamlen}@utdallas.edu -><email>

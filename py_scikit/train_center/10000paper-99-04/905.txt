@@ -1,0 +1,34 @@
+Web Document Classification Using Modified Decision Trees -><title>
+Wen-Chen Hu and Kai-Hsiung Chang -><author>
+Department of Computer Science and -><affiliation>
+Software Engineering -><affiliation>
+Auburn University, Auburn, AL 36849 -><affiliation>
+{wenchen, kchang} @eng.auburn.edu -><email>
+Gerhard X. Ritter -><author>
+Department ofComputer and Information -><affiliation>
+Science and Engineering -><affiliation>
+University of Florida, Gainesville, FL 32611 -><affiliation>
+ritter@cise.ufl.edu -><email>
+Abst -><abstract>
+common tasks performed on the Web while Web page -><abstract>
+classification is the first step for Web search service con- -><abstract>
+struction. This paper proposes a -><abstract>
+Web documents by using a height-three modified deci- -><abstract>
+sion tree which splits the root, depth-one nodes, and -><abstract>
+depth-two nodes based on keywords, descriptions, and -><abstract>
+hyperlinks, respectively. A classification starts with a -><abstract>
+Web page at the root of the decision tree and traces -><abstract>
+paths downward to leaves, which give the categories of -><abstract>
+the page. -><abstract>
+1 Introduct -><abstract>
+The Web is a hyper-multimedia body of approximately -><abstract>
+900 million pages that continues to grow at roughly a -><abstract>
+million pages per day [4]. Also, the Web pages lack a -><abstract>
+unifying structure and show far more authoring styles -><abstract>
+and content variation than that seen in traditional -><abstract>
+text-document collections. The Web's growing size -><abstract>
+and lack of structure put the Web search services in a -><abstract>
+difficult position. Current search services can be divided -><abstract>
+into search engines and directories, which classify -><abstract>
+Web pages according to the submission of Web page -><note>
+descriptions from Webmasters or Web reviewers. This -><note>

@@ -1,0 +1,6 @@
+Developing a Language to Describe World Conflicts -><title>
+Kirk Thomas -><author>
+Xavier University of Louisiana, Department of Computer Sciences & Computer Engineering -><affiliation>
+1 Drexel Drive, New Orleans, LA 70122 -><address>
+(504) 520-7456 -><phone>
+kathoma1@xula.edu -><email>

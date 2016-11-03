@@ -1,0 +1,11 @@
+May 21, 2005 16:35 ACE05 Proceedings: Trim Size: 295mm x 245mm ace05 -><note>
+Combining Body Sensors and Visual Sensors -><title>
+for Motion Training -><title>
+Markus Gross -><author>
+Computer Graphics Laboratory -><affiliation>
+ETH Zurich, Switzerland -><address>
+grossm@inf.ethz.ch -><email>
+Doo Young Kwon -><author>
+Computer Graphics Laboratory -><affiliation>
+ETH Zurich, Switzerland -><address>
+dkwon@inf.ethz.ch -><email>

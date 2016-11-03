@@ -1,0 +1,13 @@
+Using a Performative Subsumption Lattice to Support -><title>
+Commitment-based Conversations -><title>
+Rob Kremer -><author>
+University of Calgary -><affiliation>
+Department of Computer Science -><affiliation>
+Calgary, CANADA -><address>
+kremer@cpsc.ucalgary.ca -><email>
+Roberto Flores -><author>
+Christopher Newport University -><affiliation>
+Department of Physics, Computer Science and -><affiliation>
+Engineering -><affiliation>
+Newport News, VA -><address>
+flores@pcs.cnu.edu -><email>

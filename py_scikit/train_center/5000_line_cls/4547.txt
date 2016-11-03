@@ -1,0 +1,16 @@
+JavaCHIME: Java Class Hierarchy Inspector -><title>
+and Method Executer -><title>
+Pallavi Tadepalli -><author>
+Department of Computer and Information Science -><affiliation>
+University of Mississippi -><affiliation>
+201 Weir Hall -><address>
+University, MS 38677 -><affiliation>
+1-662-915-7396 -><phone>
+pallavi@cs.olemiss.edu -><email>
+H.Conrad Cunningham -><author>
+Department of Computer and Information Science -><affiliation>
+University of Mississippi -><affiliation>
+201 Weir Hall -><address>
+University, MS 38677 -><affiliation>
+1-662-915-5358 -><phone>
+cunningham@cs.olemiss.edu -><email>

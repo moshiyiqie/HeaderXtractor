@@ -1,0 +1,17 @@
+Searching for an Alternative Plan -><title>
+Ariel Felner -><author>
+Dept. of Computer Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan, 52900, Israel -><address>
+felner@cs.biu.ac.il -><email>
+Alex Pomeransky -><author>
+Dept. of Computer Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan, 52900, Israel -><address>
+pomeransky@cs.biu.ac.il -><email>
+Jeffrey S. Rosenschein -><author>
+School of Computer Science -><affiliation>
+and Engineering -><affiliation>
+Hebrew University -><affiliation>
+Jerusalem, 91904, Israel -><address>
+jeff@cs.huji.ac.il -><email>

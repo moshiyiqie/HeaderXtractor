@@ -1,0 +1,9 @@
+Advanced Wi-Fi Attacks Using Commodity Hardware -><title>
+Mathy Vanhoef -><title>
+iMinds-DistriNet -><author>
+KU Leuven -><author>
+Mathy.Vanhoef@cs.kuleuven.be -><email>
+Frank Piessens -><author>
+iMinds-DistriNet -><affiliation>
+KU Leuven -><address>
+Frank.Piessens@cs.kuleuven.be -><email>

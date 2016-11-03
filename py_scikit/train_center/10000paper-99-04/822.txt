@@ -1,0 +1,10 @@
+Implementing a Flexible, Multimodal, Three-Dimensional -><title>
+Spatial Tangible Interface -><title>
+Ryoichi WATANABE1, Yuichi ITOH1, Masatsugu ASAI2, -><author>
+Yoshifumi KITAMURA1, Fumio KISHINO1 and Hideo KIKUCHI3 -><keyword>
+1 Graduate School of Information Science and Technology, Osaka University -><affiliation>
+2-1 Yamada-oka, Suita, Osaka, 565-0871, JAPAN -><address>
+{ryoichi, itoh, kitamura, kishino}@ist.osaka-u.ac.jp -><email>
+2 Graduate School of Engineering, Osaka University -><affiliation>
+Currently with NHK (Japan Broadcasting Corporation) -><affiliation>
+3 System Watt Co., Ltd. 4-1-38-4F, Isobedori, Chuo-ku, Kobe, 651-0084, JAPAN -><affiliation>

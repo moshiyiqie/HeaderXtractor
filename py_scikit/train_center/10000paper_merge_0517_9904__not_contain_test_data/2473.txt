@@ -1,0 +1,2 @@
+A Gillespie-based Computational Model for Integrating -><title>
+Event-driven and Multi-Agent Based Simulation -><author>

@@ -1,0 +1,34 @@
+Diversity, Intent, and Aggregated Search -><title>
+Maarten de Rijke -><author>
+University of Amsterdam, Amsterdam, The Netherlands -><affiliation>
+derijke@uva.nl -><email>
+1. BACKGROUND -><abstract>
+Diversity, intent and aggregated search are three core retrieval -><abstract>
+concepts that receive significant attention. In search result diversi- -><abstract>
+fication one typically considers the relevance of a document in light -><abstract>
+of other retrieved documents. The goal is to identify the probable -><abstract>
+“aspects” of an ambiguous query, retrieve documents for each of -><abstract>
+these aspects and make the search results more diverse. By doing -><abstract>
+so, in the absence of any knowledge of users’ context or prefer- -><abstract>
+ences, the chance that the user will find at least one of these results -><abstract>
+to be relevant to their underlying information need is increased. -><abstract>
+Those probable “aspects” of a query may refer to lexical ambigu- -><abstract>
+ity (e.g., flash – Adobe Flash, flash light, flash gordon, flash air- -><abstract>
+lines, flash mob, . . . ) or to intentional ambiguity (e.g., pizza – how -><abstract>
+to make one, where to buy one, images, nutritional value, back- -><abstract>
+ground, restaurant, . . . ). The automatic discovery of query intent -><abstract>
+has become an active research area, with a range of observational -><abstract>
+and algorithmic studies as outcomes. Understanding the likely in- -><abstract>
+tents behind a query can help search engines to automatically route -><abstract>
+the query to the corresponding vertical search engines so as to ob- -><abstract>
+tain particularly relevant results, thus greatly improving user sat- -><abstract>
+isfaction. In aggregated search the task is to search and assemble -><abstract>
+information from a variety of sources and to organize the result- -><abstract>
+ing material within a single interface. The result page of a mod- -><abstract>
+ern search engine often goes beyond a simple ranked list. Many -><abstract>
+specific intents are addressed by aggregated search solutions: spe- -><abstract>
+cially presented documents, often retrieved from specific sources, -><abstract>
+that stand out from the regular organic search results. -><abstract>
+2. RECENT ADVANCES -><abstract>
+Diversity, intent, and aggregated search give rise to significant -><abstract>
+research challenges, both algorithmically and in terms of evalua- -><abstract>

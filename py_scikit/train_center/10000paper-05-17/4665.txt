@@ -1,0 +1,9 @@
+A Robust in Silico Analogue of MDCK Cystogenesis Mimics Growth -><title>
+in Multiple Culture Conditions -><title>
+Jesse A. Engelberg1, Anirban Datta2, Keith E. Mostov3, and C. Anthony Hunt1,3 -><author>
+1 Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, California 94143 -><affiliation>
+2 Department of Anatomy, University of California, San Francisco, California, 94143 -><affiliation>
+3 Joint Graduate Group in Bioengineering, University of California, San Francisco and Berkeley, California 94143 -><address>
+jesse.engelberg@gmail.com a.hunt@ucsf.edu -><email>
+Keywords: cell biology, composite agent, cross-model vali- -><keyword>
+dation, morphogenesis, synthetic modeling, systems biology -><keyword>

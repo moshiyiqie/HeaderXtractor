@@ -1,0 +1,14 @@
+An approach to conforming a MAS into a FIPA-compliant -><title>
+system -><title>
+Christos Georgousopoulos -><author>
+Department of Computer Science -><affiliation>
+Cardiff University, P.O.Box 916 -><affiliation>
+Cardiff CF24 3XF, UK -><address>
+Tel: +44 (0) 7799417703 -><phone>
+geolos@cs.cf.ac.uk -><email>
+Omer F. Rana -><author>
+Department of Computer Science -><affiliation>
+Cardiff University, P.O.Box 916 -><affiliation>
+Cardiff CF24 3XF, UK -><address>
+Tel: +44 (0) 29 2087 5542 -><phone>
+o.f.rana@cs.cf.ac.uk -><email>

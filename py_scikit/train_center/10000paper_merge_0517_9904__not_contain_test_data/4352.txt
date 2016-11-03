@@ -1,0 +1,13 @@
+BetterAuth: Web Authentication Revisited∗ -><title>
+Martin Johns -><author>
+SAP Research -><affiliation>
+martin.johns@sap.com -><email>
+Sebastian Lekies -><author>
+SAP Research -><affiliation>
+sebastian.lekies@sap.com -><email>
+Bastian Braun -><author>
+University of Passau -><affiliation>
+bb@sec.uni-passau.de -><email>
+Benjamin Flesch -><author>
+SAP Research -><affiliation>
+benjamin.ﬂesch@sap.com -><email>

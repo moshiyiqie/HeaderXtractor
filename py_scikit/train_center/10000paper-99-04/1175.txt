@@ -1,0 +1,34 @@
+Abstract Task Specifications for Conversation Policies -><title>
+Ren6e Elio -><author>
+Department of Computing Science -><affiliation>
+Afsaneh Haddadi -><unknow>
+DaimlerChrylser Research -><author>
+University of Alberta -><affiliation>
+AIt-Moabit 96A, -><address>
+Alberta, CANADA T6G 2H1 -><address>
+10559 Berlin, Germany -><address>
+(1-780) 492-9643 -><phone>
+(+49-30) 399 82 201 -><phone>
+ree@cs.ualberta.ca -><email>
+afsaneh.haddadi@ -><email>
+daimlerchrysler.com -><email>
+1. MOTIVATION -><abstract>
+Cooperation between agents denotes a -><abstract>
+when each of the agents has some, but not all, the information and -><abstract>
+abilities required to accomplish a -><abstract>
+the semantics and pragmatics of a "conversation"--a sequence of -><abstract>
+messages--that enable two agents to bring a task to completion. -><abstract>
+Most definitions of -><abstract>
+to the notion of "task accomplishment" or -><abstract>
+although what constitutes a -><abstract>
+broadly. Recently, there has been considerable interest in -><abstract>
+specifying conversation policies, which speak to a range of -><abstract>
+matters in managing lengthy conversations, from turn-taking and -><abstract>
+message time-out conventions to responding to dynamic -><abstract>
+constraints imposed by the environment. We are concerned with -><abstract>
+what some researchers claim is a crucial function of a broadly- -><abstract>
+defined conversation policy, namely, to constrain "the messages -><abstract>
+that appear on the wire." It is argued that this need arises from the -><abstract>
+many-to-many mapping between an intention an agent might have -><abstract>
+and the specific agent communication language (ACL) primitive -><abstract>
+used to convey that intention. Indeed, a difficult matter long -><abstract>

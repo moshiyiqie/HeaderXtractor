@@ -1,0 +1,20 @@
+Discovery of Emergent Malicious Campaigns in -><title>
+Cellular Networks -><title>
+Nathaniel Boggs -><author>
+Columbia University -><affiliation>
+boggs@cs.columbia.edu -><email>
+Suhas Mathur -><author>
+AT&T Security Research -><affiliation>
+Center -><affiliation>
+suhas@att.com -><email>
+Wei Wang -><author>
+AT&T Security Research -><affiliation>
+Center -><affiliation>
+wei.wang.2@att.com -><email>
+Carol Pincock -><email>
+AT&T -><affiliation>
+carol.pincock@att.com -><email>
+Baris Coskun -><author>
+AT&T Security Research -><affiliation>
+Center -><affiliation>
+baris@att.com -><email>

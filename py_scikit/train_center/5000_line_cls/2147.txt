@@ -1,0 +1,10 @@
+Active Visual Sensing and Collaboration on Mobile Robots -><affiliation>
+using Hierarchical POMDPs -><title>
+Mohan Sridharan -><author>
+Department of Computer Science -><affiliation>
+Texas Tech University -><affiliation>
+mohan.sridharan@ttu.edu -><email>
+Shiqi Zhang -><author>
+Department of Computer Science -><affiliation>
+Texas Tech University -><affiliation>
+s.zhang@ttu.edu -><email>

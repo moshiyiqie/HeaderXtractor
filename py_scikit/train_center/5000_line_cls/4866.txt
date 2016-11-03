@@ -1,0 +1,19 @@
+Hybrid Intelligent Systems for Network Security -><title>
+Dr. Randal Abler -><author>
+Georgia Institute of Technology -><affiliation>
+210 Technology Circle -><address>
+Savannah, GA 31407 -><address>
+912-966-7933 -><phone>
+rabler@gtsav.gatech.edu -><email>
+Dr. Ashraf Saad -><author>
+Georgia Institute of Technology -><affiliation>
+210 Technology Circle -><address>
+Savannah, GA 31407 -><address>
+912-966-7916 -><phone>
+asaad@gtsav.gatech.edu -><email>
+J. Lane Thames -><author>
+Georgia Institute of Technology -><affiliation>
+210 Technology Circle -><address>
+Savannah, GA 31407 -><address>
+912-966-6874 -><phone>
+lane.thames@gtsav.gatech.edu -><email>

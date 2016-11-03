@@ -1,0 +1,15 @@
+Online Mechanism Design for Electric Vehicle Charging -><title>
+Sebastian Stein∗ -><author>
+ss2@ecs.soton.ac.uk -><email>
+Valentin Robu∗ -><author>
+vr2@ecs.soton.ac.uk -><email>
+Enrico H. Gerding∗ -><author>
+eg@ecs.soton.ac.uk -><email>
+David C. Parkes† -><author>
+parkes@eecs.harvard.edu -><email>
+Nicholas R. Jennings∗ -><author>
+nrj@ecs.soton.ac.uk -><email>
+Alex Rogers∗ -><author>
+acr@ecs.soton.ac.uk -><email>
+∗University of Southampton, SO17 1BJ, Southampton, UK -><affiliation>
+†Harvard University, Cambridge, MA 02138, USA -><affiliation>

@@ -1,0 +1,5 @@
+Parallel Gesture Recognition with Soft Real-Time Guarantees -><title>
+Thierry Renaux Lode Hoste Stefan Marr Wolfgang De Meuter -><author>
+Software Languages Lab -><affiliation>
+Vrije Universiteit Brussel, Belgium -><affiliation>
+{trenaux,lhoste,smarr,wdmeuter}@vub.ac.be -><email>

@@ -1,0 +1,20 @@
+Beyond Traits: Social Context Based Personality Model -><title>
+Daniel Thalmann -><author>
+Institute for Media Innovation -><affiliation>
+Nanyang Technological -><author>
+University -><affiliation>
+Singapore 637553 -><address>
+danielthalmann@ntu.edu.sg -><email>
+Ah-Hwee Tan -><author>
+School of Computer Science -><affiliation>
+Nanyang Technological -><author>
+University -><affiliation>
+Singapore, 639798 -><address>
+asahtan@ntu.edu.sg -><email>
+Jaroslaw Kochanowicz -><author>
+Institute for Media Innovation, -><affiliation>
+School of Computer Science -><affiliation>
+Nanyang Technological -><author>
+University -><affiliation>
+Singapore 637553 -><address>
+jarek108@gmail.com -><email>

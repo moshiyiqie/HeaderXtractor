@@ -1,0 +1,14 @@
+Maintainability and Reusability Issues in -><title>
+CORBA-based Systems -><title>
+Chia-Chu Chiang -><author>
+Department of Computer Science -><affiliation>
+University of Arkansas at Little Rock -><affiliation>
+2801 South University Avenue -><affiliation>
+Little Rock, Arkansas 72204, USA -><address>
+E-mail: cxchiang@ualr.edu -><email>
+Charles Wesley Ford -><author>
+Clayton College & State University -><affiliation>
+College of Information & Mathematical Sciences -><affiliation>
+5900 North Lee Street -><address>
+Morrow, GA 30260 -><address>
+E-mail: charlesford@mail.clayton.edu -><email>

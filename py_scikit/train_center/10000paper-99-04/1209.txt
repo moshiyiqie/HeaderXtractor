@@ -1,0 +1,19 @@
+Evolving Intelligent Text-based Agents -><title>
+Ping C. Koo -><author>
+MNIS-TextWise -><affiliation>
+401 S. Salina St. -><address>
+Syracuse, NY 13202 -><address>
+(315) 426-931 lx233 -><phone>
+pckoo@textwise.com -><email>
+Elizabeth D. Liddy -><author>
+Syracuse University -><affiliation>
+2-212 CST -><address>
+Syracuse, NY 13244 -><address>
+(315) 443-4456 -><phone>
+liddy@mailbox.syr.edu -><email>
+Edmund S. Yu -><author>
+Syracuse U & MNIS-TextWise -><note>
+401 S. Salina St. -><note>
+Syracuse, NY 13202 -><address>
+(315) 426-931 lx227 -><phone>
+esyu@mailbox.syr.edu -><email>

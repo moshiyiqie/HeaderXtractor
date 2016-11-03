@@ -1,0 +1,8 @@
+Worst-case efficiency ratio in false-name-proof -><title>
+combinatorial auction mechanisms -><author>
+Atsushi Iwasaki1, Vincent Conitzer2, Yoshifusa Omori1, Yuko Sakurai1, -><affiliation>
+Taiki Todo1, Mingyu Guo2, and Makoto Yokoo1 -><address>
+1Kyushu University, Fukuoka, 819-0395, Japan -><affiliation>
+{iwasaki@, omori@agent., sakurai@agent.,todo@agent., yokoo@}is.kyushu-u.ac.jp -><email>
+2Duke University, Durham, NC 27708, USA -><affiliation>
+{conitzer, mingyu}@cs.duke.edu -><email>

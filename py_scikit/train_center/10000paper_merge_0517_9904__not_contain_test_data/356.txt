@@ -1,0 +1,20 @@
+Privacy Conscious Brokering in Personalised -><title>
+Location-Aware Applications -><title>
+Stefan Poslad -><author>
+Queen Mary University of London -><affiliation>
+Mile End Road, London -><address>
+United Kingdom, E1 4NS -><address>
++44 207 882 3754 -><phone>
+stefan.poslad@elec.qmul.ac.uk -><email>
+Leonid Titkov -><author>
+Queen Mary University of London -><affiliation>
+Mile End Road, London -><address>
+United Kingdom, E1 4NS -><address>
++44 207 882 5542 -><phone>
+leonid.titkov@elec.qmul.ac.uk -><email>
+Juan Jim Tan -><author>
+Queen Mary University of London -><affiliation>
+Mile End Road, London -><address>
+United Kingdom, E1 4NS -><address>
++44 207 882 5542 -><phone>
+juanjim.tan@elec.qmul.ac.uk -><email>

@@ -1,0 +1,13 @@
+On Proactivity and Maintenance Goals -><title>
+John Thangarajah -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+johthan@cs.rmit.edu.au -><email>
+Simon Duff -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+sduff@cs.rmit.edu.au -><email>
+James Harland -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+jah@cs.rmit.edu.au -><email>

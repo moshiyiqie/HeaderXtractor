@@ -1,0 +1,12 @@
+Application Development for Desktop and PDA-Style -><title>
+Devices: Issues and Lessons Learned -><title>
+Hisham M. Haddad -><author>
+Kennesaw State University -><affiliation>
+1000 Chastain Rd. -><address>
+Kennesaw, GA 30144 -><address>
+hhaddad@kennesaw.edu -><email>
+Theodore (Ted) Roberts -><author>
+Kennesaw State University -><affiliation>
+1000 Chastain Rd. -><address>
+Kennesaw, GA 30144 -><address>
+twr999@hotmail.com -><email>

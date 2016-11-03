@@ -1,0 +1,7 @@
+Distributing the Control of a Temporal Network among -><title>
+Multiple Agents -><title>
+Luke Hunsberger -><author>
+124 Raymond Ave. -><affiliation>
+Box 444, Vassar College -><address>
+Poughkeepsie, NY 12604-0444, USA -><address>
+hunsberg@cs.vassar.edu -><email>

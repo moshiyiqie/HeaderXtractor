@@ -1,0 +1,6 @@
+S-Assess: A Library for Behavioral Self-Assessment -><title>
+Scott A. Wallace -><author>
+Washington State University Vancouver -><affiliation>
+14204 NE Salmon Creek Ave. -><address>
+Vancouver, WA 98686 -><address>
+swallace@vancouver.wsu.edu -><email>

@@ -1,0 +1,22 @@
+Distributed Model Shaping for Scaling to Decentralized -><title>
+POMDPs with Hundreds of Agents -><title>
+Prasanna Velagapudi -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15217, USA -><address>
+pkv@cs.cmu.edu -><email>
+Pradeep Varakantham -><author>
+Singapore Management Univ. -><affiliation>
+80 Stamford Road -><address>
+Singapore 178902 -><address>
+pradeepv@smu.edu.sg -><email>
+Katia Sycara -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15217, USA -><address>
+katia@cs.cmu.edu -><email>
+Paul Scerri -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15217, USA -><address>
+pscerri@cs.cmu.edu -><email>

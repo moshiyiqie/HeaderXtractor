@@ -1,0 +1,16 @@
+A Synthetic Traffic Model for Quake3 -><title>
+Philip Branch -><title>
+Centre for Advanced Internet Architectures -><title>
+Grenville Armitage -><author>
+Centre for Advanced Internet Architectures -><affiliation>
+Tanja Lang -><author>
+Centre for Advanced Internet Architectures -><affiliation>
+Swinburne University of Technology -><affiliation>
+Swinburne University of Technology -><affiliation>
+Swinburne University of Technology -><affiliation>
+Melbourne, Australia -><address>
+Melbourne, Australia -><address>
+garmitage@swin.edu.au -><email>
+Melbourne, Australia -><address>
+tlang@swin.edu.au -><email>
+pbranch@swin.edu.au -><email>

@@ -1,0 +1,6 @@
+Reinforcement learning of coordination in heterogeneous -><title>
+cooperative multi-agent systems -><title>
+Spiros Kapetanakis and Daniel Kudenko -><author>
+{spiros, kudenko}@cs.york.ac.uk -><email>
+Department of Computer Science -><affiliation>
+University of York, UK -><affiliation>

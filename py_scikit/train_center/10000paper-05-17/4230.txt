@@ -1,0 +1,15 @@
+Issues related to Wireless Application Testing -><title>
+Kai H. Chang -><author>
+Professor -><affiliation>
+Department of Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+Auburn University, AL -><affiliation>
+1-334-844-6310 -><phone>
+kchang@eng.auburn.edu -><email>
+Zhiyang Ding -><author>
+Master Student -><degree>
+Department of Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+Auburn University, AL -><affiliation>
+1-334-844-6340 -><phone>
+dingzhi@auburn.edu -><email>

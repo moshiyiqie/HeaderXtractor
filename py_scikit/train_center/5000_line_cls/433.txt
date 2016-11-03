@@ -1,0 +1,17 @@
+Applying a Combinatorial Auction Protocol to a Coalition -><title>
+Formation among Agents in Complex Problems -><title>
+Hiromitsu Hattori -><author>
+Nagoya Institute of Technology -><affiliation>
+Gokiso-cho,Showa-ku, -><address>
+Nagoya, Aichi,466-8555,Japan -><address>
+hatto@ics.nitech.ac.jp -><email>
+Tadachika Ozono -><author>
+Nagoya Institute of Technology -><affiliation>
+Gokiso-cho,Showa-ku, -><address>
+Nagoya, Aichi,466-8555,Japan -><address>
+ozono@ics.nitech.ac.jp -><email>
+Toramatsu Shintani -><degree>
+Nagoya Institute of Technology -><affiliation>
+Gokiso-cho,Showa-ku, -><address>
+Nagoya, Aichi,466-8555,Japan -><address>
+tora@ics.nitech.ac.jp -><email>

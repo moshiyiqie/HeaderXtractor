@@ -1,0 +1,11 @@
+Distribution of Goals Addressed to a Group of Agents -><title>
+Laurence Cholvy -><author>
+ONERA Centre de Toulouse -><note>
+2 av. ´Edouard Belin -><note>
+31055 Toulouse, France -><address>
+cholvy@cert.fr -><email>
+Christophe Garion -><author>
+SUPAERO -><affiliation>
+10 av. ´Edouard Belin -><address>
+31055 Toulouse, France -><address>
+garion@supaero.fr -><email>

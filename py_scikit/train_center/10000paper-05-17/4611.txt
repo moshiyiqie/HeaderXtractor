@@ -1,0 +1,25 @@
+Identifying Re-finding Difficulty from User Query Logs -><title>
+Sargol Sadeghi -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+seyedeh.sadeghi@rmit.edu.au -><email>
+Roi Blanco -><author>
+Yahoo! Research Center -><affiliation>
+Barcelona, Spain -><address>
+roi@yahoo-inc.com -><email>
+Peter Mika -><author>
+Yahoo! Research Center -><affiliation>
+Barcelona, Spain -><address>
+pmika@yahoo-inc.com -><email>
+Mark Sanderson -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+mark.sanderson@rmit.edu.au -><email>
+Falk Scholer -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+falk.scholer@rmit.edu.au -><email>
+David Vallet -><author>
+Universidad AutÃs¸noma -><affiliation>
+Madrid, Spain -><address>
+david.vallet@uam.es -><email>

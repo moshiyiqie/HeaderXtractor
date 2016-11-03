@@ -1,0 +1,4 @@
+Interacting with Spatially Augmented Reality -><title>
+Rarnesh Raskar Kok-Lim Low -><author>
+MERL, Mitsubishi Electric Research Labs University of -><affiliation>
+raskar@merl.com lowk@cs.unc.edu -><email>

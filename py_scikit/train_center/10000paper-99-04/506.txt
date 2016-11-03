@@ -1,0 +1,16 @@
+Go! For Multi-Threaded Deliberative Agents -><title>
+Keith L. Clark∗ -><author>
+Dept. of Computing, Imperial College -><affiliation>
+London, UK -><address>
+klc@doc.ic.ac.uk -><email>
+Francis G. McCabe -><author>
+Fujitsu Labs of America -><affiliation>
+Sunnyvale, CA 94085 -><address>
+fgm@fla.fujitsu.com -><email>
+Categories and Subject Descriptors: D.1.6 Program- -><note>
+ming Techniques —Logic Programming, I.2.5 Artificial Int- -><note>
+elligence—Programming Languages and software, I.2.11— -><note>
+Distributed Artificial Intelligence -><unknow>
+General Terms: Languages, Design -><keyword>
+Keywords: Logic Programming, Multi-agent systems, multi- -><keyword>
+threaded agents, reactive programming. -><keyword>

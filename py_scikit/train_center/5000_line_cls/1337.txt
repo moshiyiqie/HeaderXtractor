@@ -1,0 +1,9 @@
+Examining DCSP Coordination Tradeoffs -><title>
+Norman Sadeh -><author>
+School of Computer Science, -><affiliation>
+Carnegie Mellon University -><affiliation>
+sadeh@cs.cmu.edu -><email>
+Michael Benisch -><author>
+School of Computer Science, -><affiliation>
+Carnegie Mellon University -><affiliation>
+mbenisch@cs.cmu.edu -><email>

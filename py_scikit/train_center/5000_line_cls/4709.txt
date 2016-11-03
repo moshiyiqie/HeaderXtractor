@@ -1,0 +1,7 @@
+Visual Aids to Create a Knowledge Base with Reusable -><title>
+Objects across Disciplines -><title>
+Lakshmi Prayaga -><author>
+Computer Science Department, University of West Florida -><affiliation>
+11000 Univ. Pkwy, Pensacola, FL 32514 -><address>
+Tel# 850 474 2545 -><phone>
+lprayaga@uwf.edu -><email>

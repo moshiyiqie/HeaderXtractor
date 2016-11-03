@@ -1,0 +1,30 @@
+WEB on TV: Cross-National User Study for -><title>
+Designing Better User Experience -><title>
+Daniela Hauswirth -><author>
+Emilija Stojmenova -><author>
+University of Maribor -><affiliation>
+University of Ljubljana, -><affiliation>
+Faculty of Electrical Engineering -><affiliation>
+Trendforschung -><address>
+Hugo-Wolf-Gasse 6a/4 -><address>
+8010 Graz, Austria -><address>
+daniela.hauswirth@iitf.at -><email>
+2000 Maribor, Slovenia -><address>
++386 (0)51 662 730 -><phone>
+emilija.stojmenova@um.si -><email>
+Roland Winkler -><affiliation>
+1000 Ljubljana, Slovenia -><address>
+joze.guna@fe.uni-lj.si -><email>
+Manfred Ninaus -><author>
+University of Ljubljana -><affiliation>
+Faculty of Electrical Engineering -><affiliation>
+Trendforschung -><address>
+Hugo-Wolf-Gasse 6a/4 -><address>
+8010 Graz, Austria -><address>
+roland.winkler@innovation.at -><email>
+Trendforschung -><affiliation>
+Hugo-Wolf-Gasse 6a/4 -><address>
+8010 Graz, Austria -><address>
+manfred.ninaus@innovation.at -><email>
+1000 Ljubljana, Slovenia -><address>
+matevz.pogacnik@fe.uni-lj.si -><email>

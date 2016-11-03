@@ -1,0 +1,17 @@
+ABSTRACT -><abstract>
+The multi-core revolution has brought forth the pressing issue of -><abstract>
+deciding where in the curriculum to introduce parallel program- -><abstract>
+ming. At least 3 different strategies can be found, including the cur- -><abstract>
+rent one used, where concurrent programming is taught in -><abstract>
+Operating Systems. It is the position of this paper that we can -><abstract>
+embrace the 3 strategies and present parallelism as a fundamental -><abstract>
+notion in computing throughout the curriculum. We analyse curric- -><abstract>
+ulum directions, present parameters to consider to introduce paral- -><abstract>
+lelism, as well as a spiral approach to the subject starting in CS2. -><abstract>
+Categories and Subject Descriptors -><note>
+K.3.2 [Computer and Information Science Education]: Curricu- -><note>
+lum design for parallelism. -><note>
+General Terms -><keyword>
+Parallelism, Concurrency, Task Parallelism. -><keyword>
+Keywords -><keyword>
+Parallel, concurrent, task , data , function parallelism. -><keyword>

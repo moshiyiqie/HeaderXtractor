@@ -1,0 +1,14 @@
+Optimal Classifier Based Spectrum Sensing in Cognitive -><title>
+Radio Wireless Systems -><title>
+Aditya K. Jagannatham -><author>
+Department of Electrical Engineering -><affiliation>
+Indian Institute of Technology Kanpur -><affiliation>
+Kanpur - 208016, India -><address>
++91-512-2597494 -><phone>
+adityaj@iitk.ac.in -><email>
+Siddharth Sharma -><author>
+Department of Electrical Engineering -><affiliation>
+Indian Institute of Technology Kanpur -><affiliation>
+Kanpur - 208016, India -><address>
++91-9997773460 -><phone>
+sharmas@iitk.ac.in -><email>

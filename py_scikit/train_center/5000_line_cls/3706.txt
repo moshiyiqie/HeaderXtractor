@@ -1,0 +1,16 @@
+Motion Editing with Data Glove -><title>
+Feng Zou -><author>
+City University of Hong Kong -><affiliation>
+83 Tat Chee Ave -><address>
+Kowloon, Hong Kong -><address>
+email:fzou00@cityu.edu.hk -><email>
+Wai-Chun Lam -><author>
+City University of Hong Kong -><affiliation>
+83 Tat Chee Ave -><address>
+Kowloon, Hong Kong -><address>
+email:jerrylam@cityu.edu.hk -><email>
+Taku Komura -><author>
+City University of Hong Kong -><affiliation>
+83 Tat Chee Ave -><address>
+Kowloon, Hong Kong -><address>
+email:taku@ieee.org -><email>

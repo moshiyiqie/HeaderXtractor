@@ -1,0 +1,6 @@
+Visual Indication of Interactive 3D Elements in 3D -><title>
+Virtual Environments -><title>
+Minna Pakanen, Leena Arhippainen, Seamus Hickey, Antti Karhu -><author>
+Intel and Nokia Joint Innovation Center/ Center for Internet Excellence -><affiliation>
+P.O.Box 1001, FI-90014 University of Oulu, Finland -><affiliation>
+Firstname.lastname@cie.fi -><email>

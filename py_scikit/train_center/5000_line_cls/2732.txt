@@ -1,0 +1,23 @@
+Conflict Inside Out: A Theoretical Approach to Conflict -><title>
+from an Agent Point of View -><title>
+Joana Campos -><author>
+INESC-ID and Instituto -><affiliation>
+Superior Técnico - UTL -><unknow>
+Av. Professor Cavaco Silva -><author>
+2744-016 Porto Salvo, -><address>
+Portugal -><address>
+joana.campos@ist.utl.pt -><email>
+Ana Paiva -><author>
+INESC-ID and Instituto -><affiliation>
+Superior Técnico - UTL -><unknow>
+Av. Professor Cavaco Silva -><author>
+2744-016 Porto Salvo, -><affiliation>
+Portugal -><address>
+ana.paiva@inesc-id.pt -><email>
+Carlos Martinho -><author>
+INESC-ID and Instituto -><affiliation>
+Superior Técnico - UTL -><unknow>
+Av. Professor Cavaco Silva -><author>
+2744-016 Porto Salvo, -><address>
+Portugal -><address>
+carlos.martinho@ist.utl.pt -><email>

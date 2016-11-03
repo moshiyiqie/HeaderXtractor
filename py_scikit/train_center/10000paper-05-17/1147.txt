@@ -1,0 +1,11 @@
+Possible Winners When New Alternatives Join: -><title>
+New Results Coming Up! -><title>
+Jérôme Lang Jérôme Monnot -><author>
+LAMSADE -><affiliation>
+Université Paris-Dauphine -><affiliation>
+75775 Paris Cedex, France{lang,jerome.monnot}@lamsade.dauphine.fr -><email>
+Lirong Xia -><author>
+Dept. of Computer Science -><affiliation>
+Duke University -><affiliation>
+Durham, NC 27708, USA -><address>
+lxia@cs.duke.edu -><email>

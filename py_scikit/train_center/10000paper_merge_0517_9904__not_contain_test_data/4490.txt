@@ -1,0 +1,21 @@
+Automated Cardiac Event Change Detection for -><title>
+Continuous Remote Patient Monitoring Devices -><title>
+Britty Baby -><author>
+Department of Electronics and -><affiliation>
+Communication Engineering, -><address>
+Amrita Vishwa Vidyapeetham, -><address>
+Tamilnadu, India-641112. -><address>
+K. P. Soman -><author>
+Center for Excellence in -><affiliation>
+Computational Engineering -><affiliation>
+and Networking Amrita Vishwa -><affiliation>
+Vidyapeetham, Tamilnadu, -><address>
+India-641112. -><address>
+M. Sabarimalai -><author>
+Manikandan -><author>
+Center for Excellence in -><note>
+Computational Engineering -><note>
+and Networking Amrita Vishwa -><note>
+Vidyapeetham, Tamilnadu, -><note>
+India-641112. -><address>
+msm.sabari@gmail.com -><email>

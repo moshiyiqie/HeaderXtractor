@@ -1,0 +1,6 @@
+Context-Aware MAS to Support Elderly People -><title>
+(Demonstration) -><title>
+Boštjan Kaluža, Mitja Luštrek, Erik Dovgan and Matjaž Gams -><author>
+Department of Intelligent Systems, Jožef Stefan Institute -><affiliation>
+Jamova cesta 39, 1000 Ljubljana, Slovenia -><address>
+{bostjan.kaluza, mitja.lustrek, erik.dovgan, matjaz.gams}@ijs.si -><email>

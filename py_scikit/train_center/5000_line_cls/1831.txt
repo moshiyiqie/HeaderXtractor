@@ -1,0 +1,20 @@
+Cooperative Problem Solving against Adversary: -><title>
+Quantiﬁed Distributed Constraint Satisfaction Problem -><title>
+Marius Ca˘lin Silaghi -><author>
+Florida Institute of Technology -><affiliation>
+Melbourne, FL 32901, United States -><address>
+msilaghi@ﬁt.edu -><email>
+Satomi Baba, Atsushi Iwasaki, -><author>
+Makoto Yokoo -><author>
+Kyushu University -><affiliation>
+Fukuoka 819-0395, Japan -><address>
+{s-baba@agent., iwasaki@, -><email>
+yokoo@}is.kyushu-u.ac.jp -><email>
+Katsutoshi Hirayama -><degree>
+Kobe University -><affiliation>
+Kobe 658-0022, Japan -><address>
+hirayama@maritime.kobe-u.ac.jp -><email>
+Toshihiro Matsui -><author>
+Nagoya Insutitute of Technology -><affiliation>
+Nagoya 466-8555, Japan -><address>
+matsui.t@nitech.ac.jp -><email>

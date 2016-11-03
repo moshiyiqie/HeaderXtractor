@@ -1,0 +1,5 @@
+A Study of Marginal Performance Properties in Robotic Groups∗ -><title>
+Avi Rosenfeld, Gal A Kaminka, and Sarit Kraus -><author>
+Department of Computer Science -><affiliation>
+Bar Ilan University, Israel -><affiliation>
+{rosenfa, galk, sarit}@cs.biu.ac.il -><email>

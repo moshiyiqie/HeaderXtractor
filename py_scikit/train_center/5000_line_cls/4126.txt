@@ -1,0 +1,10 @@
+Headbang Hero -><title>
+Tiago Martins1,2, Ricardo Nascimento1, Andreas Zingerle1, Christa Sommerer2, -><author>
+Laurent Mignonneau2, Nuno Correia1 -><author>
+Quinta da Torre -><affiliation>
+2829-516 Caparica, Portugal -><address>
++351 21 2948536 -><phone>
+4040 Linz, Austria -><address>
++43 732 7898 324 -><phone>
+{tiago, ricardo, andreas}@headbanghero.com, {Christa.Sommerer, -><email>
+Laurent.Mignonneau}@ufg.ac.at, nmc@di.fct.unl.pt -><email>

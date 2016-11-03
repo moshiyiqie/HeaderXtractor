@@ -1,0 +1,28 @@
+Stefan Riegler -><author>
+University of Salzburg -><affiliation>
+ICT&S Center -><affiliation>
+Sigmund-Haffner-G. 18 -><address>
+5020 Salzburg, Austria -><address>
+David Enthaler -><author>
+University of Salzburg -><affiliation>
+Department of -><affiliation>
+Computer Science; Jakob- -><affiliation>
+Haringer Str. 2 -><address>
+5020 Salzburg, Austria -><address>
+denthal@cosy.sbg.ac.at -><email>
+Daniel Schwaiger -><author>
+University of Salzburg -><affiliation>
+ICT&S Center -><affiliation>
+Sigmund-Haffner-G. 18 -><address>
+5020 Salzburg, Austria -><address>
+Daniel.Schwaiger@ -><email>
+sbg.ac.at -><email>
+Regina Bernhaupt -><author>
+University of Salzburg, -><affiliation>
+ICT&S Center -><affiliation>
+Sigmund-Haffner-Gasse 18 -><address>
+5020 Salzburg, Austria -><address>
+Regina.Bernhaupt@ -><email>
+sbg.ac.at -><email>
+Stefan.Riegler@ -><email>
+sbg.ac.at -><web>

@@ -1,0 +1,4 @@
+Automated Remote Repair for Mobile Malware -><title>
+Yacin Nadji, Jonathon Gifﬁn, and Patrick Traynor -><author>
+School of Computer Science, Georgia Institute of Technology -><affiliation>
+{yacin.nadji, gifﬁn, traynor}@cc.gatech.edu -><email>

@@ -1,0 +1,12 @@
+Propositional Reasoning by Dimensional Reduction: A -><title>
+Preliminary Report ∗ -><title>
+James J. Lu -><author>
+Mathematics and Computer Science -><affiliation>
+Emory University -><affiliation>
+Atlanta, GA 30322-1950, U.S.A. -><address>
+jlu@mathcs.emory.edu -><email>
+Robin Lohfer -><author>
+Mathematics and Computer Science -><affiliation>
+Emory University -><affiliation>
+Atlanta, GA 30322-1950, U.S.A. -><address>
+rlohfer@mathcs.emory.edu -><email>

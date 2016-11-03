@@ -1,0 +1,2 @@
+Abstraction for Model Checking Modular Interpreted -><title>
+Systems over ATL -><title>

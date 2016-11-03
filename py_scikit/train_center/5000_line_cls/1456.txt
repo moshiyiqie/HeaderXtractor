@@ -1,0 +1,6 @@
+On using Multi-agent Systems in Playing Board Games -><title>
+Stefan J. Johansson -><author>
+Department of Software Systems -><affiliation>
+School of Engineering -><affiliation>
+Blekinge Institute of Technology -><affiliation>
+sja@bth.se -><email>

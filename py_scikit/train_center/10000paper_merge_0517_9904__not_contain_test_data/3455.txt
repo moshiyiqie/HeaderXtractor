@@ -1,0 +1,21 @@
+Proof of Transitive Closure Property of Directed Acyclic -><title>
+Graphs -><title>
+Steve Roach -><author>
+Fares Fraij -><author>
+Department of Information Technology -><affiliation>
+Al-Hussein Bin Talal University -><affiliation>
+Department of Computer Science -><affiliation>
+The University of Texas at El Paso -><affiliation>
+El Paso, TX 79968 -><address>
+U.S.A. -><address>
+sroach@utep.edu -><email>
+P.O. Box 20 -><address>
+fares@ahu.edu.jo -><email>
+Permission -><affiliation>
+this -><abstract>
+provided -><abstract>
+commercial -><abstract>
+the -><abstract>
+publish, -><abstract>
+prior -><abstract>
+Copyright -><note>

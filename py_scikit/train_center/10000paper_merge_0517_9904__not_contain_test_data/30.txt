@@ -1,0 +1,7 @@
+A Hierarchical Architecture for Behavior-Based Robots -><title>
+Monica N. Nicolescu and Maja J. Mataric´ -><author>
+monicajmataric@cs.usc.edu -><email>
+Computer Science Department -><affiliation>
+University of Southern California -><affiliation>
+941 West 37th Place, Mailcode 0781 -><address>
+Los Angeles, CA 90089-0781 -><address>

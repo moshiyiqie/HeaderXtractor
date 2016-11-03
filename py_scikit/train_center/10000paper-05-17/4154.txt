@@ -1,0 +1,19 @@
+CU Safe: A Software Tool for Campus Safety -><title>
+Tim Hammond -><author>
+Clemson University -><affiliation>
+Comp. Science, McAdams 100 -><address>
+Clemson, SC 29634-0974 -><address>
+(864) 656-3444 -><phone>
+thammon@cs.clemson.edu -><email>
+Tucker Watson -><author>
+Clemson University -><affiliation>
+Comp. Science, McAdams 100 -><address>
+Clemson, SC 29634-0974 -><address>
+(864) 656-3444 -><phone>
+tuckerw@clemson.edu -><email>
+Will Pressly -><author>
+Clemson University -><affiliation>
+Comp. Science, McAdams 100 -><address>
+Clemson, SC 29634-0974 -><address>
+(864) 656-3444 -><phone>
+wpressl@cs.clemson.edu -><email>

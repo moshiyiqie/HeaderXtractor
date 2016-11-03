@@ -1,0 +1,34 @@
+Population Dynamics Visualization System for -><title>
+Management of Airborne Biochemical Agents Attacks -><title>
+Ufuoma Akoroda -><author>
+Informatics and Computational Science Laboratory -><affiliation>
+Fisk University, Nashville, TN 37208-3051 -><affiliation>
+1(615) 329-8524 -><phone>
+uakoro54@yahoo.com -><email>
+Faculty Advisor: Stephen U. Egarievwe, Ph.D. -><author>
+3. APPROACH AND UNIQUENESS -><pubnum>
+The top-level schematic of the visualization system is shown in -><abstract>
+Figure 1. This project covers the visualization of the population -><abstract>
+density dynamics component. The system uses population data -><abstract>
+to generate the visualization in a format that makes it easy to -><abstract>
+1. PROBLEM AND MOTIVATION -><abstract>
+One major problem that faces the evacuation of cities attacked -><abstract>
+with airborne biological and chemical agents is an effective -><abstract>
+coordination and analysis of information from multiple sources. -><abstract>
+Examples of relevant data resources include point of airborne agent -><abstract>
+attack, wind speed and direction, population density and its -><abstract>
+dynamics as time progresses, traffic pattern of roadways [1], and -><abstract>
+topology of the affected city. This research is concerned with -><abstract>
+developing an effective visualization system for the evacuation of -><abstract>
+cities attacked with airborne biological and chemical agents. The -><abstract>
+specific problem that this section of the project is aimed at solving -><abstract>
+is informative data visualization on population distribution in -><abstract>
+conjunction with other factors that will facilitate a successful -><abstract>
+evacuation. -><abstract>
+2. BACKGROUND AND RELATED WORK -><abstract>
+Population distribution in a city is a necessary data that has many -><abstract>
+applications [1]. One of such application is planning an -><abstract>
+evacuation process in case of terrorist attacks and natural -><abstract>
+disasters. The population density at various times of the day is -><abstract>
+important. Thus, a population visualization system is essential to -><abstract>
+planning evacuation in airborne biochemical attacks. -><abstract>

@@ -1,0 +1,10 @@
+The Economics of Attention: Maximizing User Value in -><title>
+Information-Rich Environments -><title>
+Bernardo A. Huberman -><author>
+HP Labs -><affiliation>
+Palo Alto, CA 94306 -><address>
+bernardo.huberman@hp.com -><email>
+Fang Wu -><author>
+HP Labs -><affiliation>
+Palo Alto, CA 94306 -><address>
+fang.wu@hp.com -><email>

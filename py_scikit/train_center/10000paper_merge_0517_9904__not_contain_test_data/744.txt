@@ -1,0 +1,10 @@
+A Distributed Algorithm for -><title>
+Anytime Coalition Structure Generation -><title>
+Tomasz Michalak1, Jacek Sroka2, Talal Rahwan1, -><author>
+Michael Wooldridge3, Peter McBurney3, and Nicholas R. Jennings1 -><author>
+1School of Electronics and Computer Science, University of Southampton, UK -><affiliation>
+{tpm,tr,nrj}@ecs.soton.ac.uk -><email>
+2Institute of Informatics, University of Warsaw, Poland -><affiliation>
+sroka@mimuw.edu.pl -><email>
+3Department of Computer Science, University of Liverpool, UK -><affiliation>
+{mjw,mcburney}@liverpool.ac.uk -><email>

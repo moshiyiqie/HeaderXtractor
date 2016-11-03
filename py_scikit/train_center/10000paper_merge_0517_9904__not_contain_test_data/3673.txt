@@ -1,0 +1,34 @@
+AQM Performance in Multiple Congested Link Networks -><title>
+Deepak Vembar -><author>
+dvembar@clemson.edu -><email>
+Zhidian Du -><author>
+zdu@cs.clemson.edu -><email>
+Department of Computer Science, 100 McAdams Hall, Clemson University, Clemson SC 29634 -><affiliation>
+Research Advisor: Dr. Michele Weigle -><author>
+Category: Graduate -><degree>
+1. PROBLEM & MOTIVATION -><pubnum>
+TCP Reno, the most widely used implementation on the Internet, -><abstract>
+uses retransmission timeouts and the receipt of three duplicate -><abstract>
+ACKs to detect packet loss in the network. In case of multiple -><abstract>
+congested links, it is important to detect packet losses as early as -><abstract>
+possible in order to prevent unnecessary timeouts and retransmits. -><abstract>
+Active Queue Management (AQM) schemes seek to improve the -><abstract>
+overall user response time by using queue build-ups at the routers -><abstract>
+to detect congestion. Previous research has focused on -><abstract>
+determining the effects of AQM schemes on HTTP/1.0 traffic in -><abstract>
+single congested link networks [2]. In this experiment, we -><abstract>
+evaluated the performance of TCP Reno with drop-tail routers and -><abstract>
+ECN-enabled TCP with Selective Acknowledgements (SACK) [5] -><abstract>
+over Adaptive Random Early Detection (ARED) [4] routers in a -><abstract>
+multiple congested link network. -><abstract>
+2. BACKGROUND & RELATED WORK -><abstract>
+There are two main approaches to congestion detection in a -><abstract>
+computer network: end-to-end methods and router-assisted -><abstract>
+methods. In end-to-end methods, network congestion is detected -><abstract>
+by the end systems, usually through packet drops or the receipt of -><abstract>
+three duplicate acknowledgements (ACKs). The intermediate -><abstract>
+routers in the network play no explicit role in detecting -><abstract>
+congestion. TCP Reno uses this form of congestion detection. -><abstract>
+Router-assisted schemes, on the other hand, use the effects of -><abstract>
+congestion, such as increased queues at the routers, to detect -><abstract>
+congestion in the network. AQM schemes, e.g. ARED, usually try -><abstract>

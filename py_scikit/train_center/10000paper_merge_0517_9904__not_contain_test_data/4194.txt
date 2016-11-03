@@ -1,0 +1,25 @@
+Detection of Networks Blocks Used by the Storm Worm Botnet -><title>
+Gary Warner -><author>
+Dept. of Computer and Information -><affiliation>
+Sciences, Univ. of Alabama at -><affiliation>
+Birmingham -><affiliation>
+1300 University Blvd. -><affiliation>
+Birmingham, AL, USA -><address>
+1-205-934-8620 -><phone>
+gar@cis.uab.edu -><email>
+Alan Sprague -><author>
+Dept. of Computer and Information -><affiliation>
+Sciences, Univ. of Alabama at -><affiliation>
+Birmingham -><affiliation>
+1300 University Blvd. -><affiliation>
+Birmingham, AL, USA -><address>
+1-205-934-8513 -><phone>
+sprague@cis.uab.edu -><email>
+Chun Wei -><author>
+Dept. of Computer and Information -><affiliation>
+Sciences, Univ. of Alabama at -><affiliation>
+Birmingham -><affiliation>
+1300 University Blvd. -><affiliation>
+Birmingham, AL, USA -><address>
+1-205-934-8669 -><phone>
+weic@cis.uab.edu -><email>

@@ -1,0 +1,19 @@
+Weighted Real-Time Heuristic Search -><title>
+Jorge A. Baier -><author>
+Depto. de Ciencia de la -><affiliation>
+Computación, -><address>
+Pontificia Universidad -><unknow>
+Católica de Chile -><author>
+jabaier@ing.puc.cl -><email>
+Nicolás Rivera -><email>
+Depto. de Ciencia de la -><note>
+Computación, -><note>
+Pontificia Universidad -><unknow>
+Católica de Chile -><author>
+nnrivera@uc.cl -><email>
+Carlos Hernández -><author>
+Depto. de Ingeniería -><affiliation>
+Informática, -><email>
+Universidad Católica -><affiliation>
+de la Ssma. Concepción -><affiliation>
+chernan@ucsc.cl -><email>

@@ -1,0 +1,5 @@
+Retrieving Passages and Finding Answers -><title>
+Mostafa Keikha, Jae Hyun Park, W. Bruce Croft, Mark Sanderson1 -><author>
+CIIR, University of Massachusetts Amherst, Amherst, MA -><affiliation>
+1RMIT University, Melbourne, Australia -><affiliation>
+{keikham, jhpark, croft } @cs.umass.edu, mark.sanderson@rmit.edu.au -><email>

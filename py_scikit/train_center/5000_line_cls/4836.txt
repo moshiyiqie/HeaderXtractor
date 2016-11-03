@@ -1,0 +1,6 @@
+Robert P. Cook -><author>
+Georgia Southern University -><affiliation>
+Department of Computer Sciences -><affiliation>
+Statesboro, GA 30460 -><address>
+912-681-0892 -><phone>
+bobcook@GeorgiaSouthern.edu -><email>

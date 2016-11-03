@@ -1,0 +1,9 @@
+Human Behavior Models for Virtual Agents in Repeated -><title>
+Decision Making under Uncertainty -><title>
+∗ -><title>
+Yu-An Sun -><author>
+PARC -><affiliation>
+YuAn.Sun@xerox.com -><email>
+Ming Yin -><author>
+Harvard University -><affiliation>
+mingyin@fas.harvard.edu -><email>

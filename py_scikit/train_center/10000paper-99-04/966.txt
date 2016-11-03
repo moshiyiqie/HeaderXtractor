@@ -1,0 +1,6 @@
+Data Decoys for Confidentiality in a Distributed -><title>
+Computation: Matrix Multiplication -><title>
+Tobin Jackson -><author>
+Computer Science Computer Science -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+tojackso@cs.uah.edu -><email>

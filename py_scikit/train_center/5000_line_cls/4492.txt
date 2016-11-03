@@ -1,0 +1,17 @@
+Software Protection with Increased Complexity and -><title>
+Obfuscation -><title>
+Sheryl Duggins -><author>
+Southern Polytechnic State -><affiliation>
+University -><affiliation>
+Marietta, GA -><address>
+sduggins@spsu.edu -><email>
+Frank Tsui -><author>
+Southern Polytechnic State -><affiliation>
+University -><affiliation>
+Marietta, GA -><address>
+ftsui@spsu.edu -><email>
+Orlando Karam -><author>
+Southern Polytechnic State -><affiliation>
+University -><affiliation>
+Marietta, GA -><address>
+okaram@spsu.edu -><email>

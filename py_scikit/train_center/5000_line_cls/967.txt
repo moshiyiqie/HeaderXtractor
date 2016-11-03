@@ -1,0 +1,9 @@
+Predicting Agent Strategy Mix of Evolving Populations -><title>
+Sandip Sen -><author>
+Department of Math & Computer Science -><affiliation>
+The University of Tulsa -><affiliation>
+sandip-sen@utulsa.edu -><email>
+Sabyasachi Saha -><author>
+Department of Math & Computer Science -><affiliation>
+The University of Tulsa -><affiliation>
+sabyasachi-saha@utulsa.edu -><email>

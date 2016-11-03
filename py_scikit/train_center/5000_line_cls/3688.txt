@@ -1,0 +1,12 @@
+Performance Evaluation of Client-Side Video Stream -><title>
+Quality Selection using Autonomous Avatars -><title>
+Peter Quax -><author>
+Patrick Monsieurs -><author>
+Wim Lamotte -><author>
+peter.quax@luc.ac.be -><email>
+patrick.monsieurs@luc.ac.be -><email>
+wim.lamotte@luc.ac.be -><email>
+Expertise Center for Digital Media -><affiliation>
+Limburgs Universitair Centrum -><affiliation>
+Universitaire Campus -><affiliation>
+B-3590 Diepenbeek, Belgium -><address>

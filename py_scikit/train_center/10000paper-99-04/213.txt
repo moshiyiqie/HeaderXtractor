@@ -1,0 +1,6 @@
+CoMMA -><title>
+A Multi-Agent System for Corporate Memory Management -><title>
+Federico Bergenti, Agostino Poggi, Giovanni Rimassa and Paola Turci -><author>
+Parco Area delle Scienze 181A, 43100 Parma, Italy -><phone>
+Tel. +39 0521 905708, Fax +39 0521 905723 -><phone>
+{Bergenti,Poggi,Rimassa,Turci}@CE.UniPR.IT -><email>

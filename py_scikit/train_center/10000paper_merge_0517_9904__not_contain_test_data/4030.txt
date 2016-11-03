@@ -1,0 +1,6 @@
+YESS: A Y86 Pipelined Processor Simulator -><title>
+Cindy Norris and James Wilkes -><author>
+Department of Computer Science -><affiliation>
+Appalachian State University -><affiliation>
+Boone, NC, USA -><address>
+{can,jtw}@cs.appstate.edu -><email>

@@ -1,0 +1,8 @@
+Automated Assistants to Aid Humans -><title>
+in Understanding Team Behaviors -><title>
+Taylor Raines, Milind Tambe, Stacy Marsella -><author>
+Information Sciences Institute and Computer Science Department -><affiliation>
+University of Southern California -><affiliation>
+4676 Admiralty Way, Suite 1001 -><address>
+Marina del Rey, CA 90292, USA -><address>
+{Raines, Tambe, Marsella}@isi.edu -><email>

@@ -1,0 +1,8 @@
+Some Thoughts on Agent Trust and Delegation -><title>
+Yuh-Jong Hu -><author>
+Emerging Network Technology Lab -><affiliation>
+Department of Computer Science -><affiliation>
+National Chengchi University -><affiliation>
+Wen-Shan District, Taipei, Taiwan -><address>
+jong@cherry.cs.nccu.edu.tw -><email>
+http://www.cs.nccu.edu.tw/˜jong -><web>

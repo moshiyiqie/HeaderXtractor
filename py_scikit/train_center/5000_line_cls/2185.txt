@@ -1,0 +1,15 @@
+Combining Human and Machine Intelligence in -><title>
+Large-scale Crowdsourcing -><title>
+∗ -><title>
+Ece Kamar -><author>
+Microsoft Research -><affiliation>
+Redmond, WA 98052 -><address>
+eckamar@microsoft.com -><email>
+Eric Horvitz -><author>
+Microsoft Research -><affiliation>
+Redmond, WA 98052 -><address>
+horvitz@microsoft.com -><email>
+Severin Hacker -><author>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15289 -><address>
+shacker@cs.cmu.edu -><email>

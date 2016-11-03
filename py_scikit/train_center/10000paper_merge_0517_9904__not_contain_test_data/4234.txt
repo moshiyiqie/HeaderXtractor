@@ -1,0 +1,14 @@
+Utilizing Smart Cards for Authentication and Compliance -><title>
+Tracking in a Diabetes Case Management System -><title>
+Brandon M. Malone -><author>
+Department of Computer Science -><affiliation>
+Tennessee Technological University -><affiliation>
+P.O. Box 5101 -><address>
+Cookeville, TN 38505, USA -><address>
+bmmalone21@tntech.edu -><email>
+Michael K. Baldwin -><author>
+Department of Computer Science -><affiliation>
+Tennessee Technological University -><affiliation>
+P.O. Box 5101 -><address>
+Cookeville, TN 38505, USA -><address>
+mkbaldwin21@tntech.edu -><email>

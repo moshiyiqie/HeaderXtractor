@@ -1,0 +1,9 @@
+A LightWave 3D Plug-in for Modeling Long Hair on Virtual Humans -><title>
+Shaun Bangay -><author>
+Department of Computer Science -><affiliation>
+Rhodes University, Grahamstown, 6140 -><affiliation>
+S.Bangay@ru.ac.za -><email>
+Deborah Patrick -><author>
+Department of Computer Science -><affiliation>
+Rhodes University, Grahamstown, 6140 -><affiliation>
+g9750082@campus.ru.ac.za -><email>

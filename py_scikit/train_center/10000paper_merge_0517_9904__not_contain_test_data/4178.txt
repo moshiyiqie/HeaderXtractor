@@ -1,0 +1,7 @@
+Developing a Tokenizer and Morphological Parser for -><title>
+English Text in C# -><title>
+Cody Boisclair -><author>
+Computer Science Department -><affiliation>
+The University of Georgia -><affiliation>
+Athens, GA, USA -><address>
+codemanb@uga.edu -><email>

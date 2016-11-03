@@ -1,0 +1,31 @@
+Incentive Design for Adaptive Agents -><title>
+Yiling Chen -><author>
+School of Engineering and -><affiliation>
+Applied Sciences -><author>
+Harvard University -><affiliation>
+Cambridge, MA 02138 USA -><address>
+yiling@eecs.harvard.edu -><email>
+Jerry Kung -><author>
+School of Engineering and -><affiliation>
+Applied Sciences -><author>
+Harvard University -><affiliation>
+Cambridge, MA 02138 USA -><address>
+jkung@fas.harvard.edu -><email>
+David C. Parkes -><author>
+School of Engineering and -><affiliation>
+Applied Sciences -><author>
+Harvard University -><affiliation>
+Cambridge, MA 02138 USA -><address>
+parkes@eecs.harvard.edu -><email>
+Ariel D. Procaccia -><author>
+School of Engineering and -><affiliation>
+Applied Sciences -><author>
+Harvard University -><affiliation>
+Cambridge, MA 02138 USA -><address>
+arielpro@seas.harvard.edu -><email>
+Haoqi Zhang -><author>
+School of Engineering and -><affiliation>
+Applied Sciences -><author>
+Harvard University -><affiliation>
+Cambridge, MA 02138 USA -><address>
+hq@eecs.harvard.edu -><email>

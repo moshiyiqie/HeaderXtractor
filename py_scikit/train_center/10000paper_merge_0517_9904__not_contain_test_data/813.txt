@@ -1,0 +1,7 @@
+Extending Game Participation with Embodied Reporting -><title>
+Agents -><title>
+Dan Fielding, Mike Fraser, Brian Logan and Steve Benford -><author>
+School of Computer Science and IT -><affiliation>
+University of Nottingham -><affiliation>
+Nottingham NG8 1BB, UK -><address>
+{dgf, mcf, bsl, sdb}@cs.nott.ac.uk -><email>

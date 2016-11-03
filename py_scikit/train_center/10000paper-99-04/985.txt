@@ -1,0 +1,13 @@
+Simulating Robot Collective Behavior using StarLogo -><title>
+Ronaldo Menezes -><author>
+Florida Institute of Technology -><affiliation>
+Department of Computer Sciences -><affiliation>
+150 W. University Blvd. -><affiliation>
+Melbourne, FL 32901, USA -><address>
+rmenezes@cs.fit.edu -><email>
+Andy Tinkham -><author>
+Florida Institute of Technology -><affiliation>
+Department of Computer Sciences -><affiliation>
+150 W. University Blvd. -><affiliation>
+Melbourne, FL 32901, USA -><address>
+atinkham@fit.edu -><email>

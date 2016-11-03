@@ -1,0 +1,19 @@
+DJ-MC: A Reinforcement-Learning Agent for Music Playlist -><title>
+Recommendation -><title>
+Maytal Saar-Tsechansky -><author>
+McCombs School of Business -><affiliation>
+The University of Texas at -><affiliation>
+Austin -><web>
+maytal@mail.utexas.edu -><email>
+Elad Liebman -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+The University of Texas at -><affiliation>
+Austin -><web>
+eladlieb@cs.utexas.edu -><email>
+Peter Stone -><author>
+Computer Science -><affiliation>
+Department -><affiliation>
+The University of Texas at -><affiliation>
+Austin -><web>
+pstone@cs.utexas.edu -><email>

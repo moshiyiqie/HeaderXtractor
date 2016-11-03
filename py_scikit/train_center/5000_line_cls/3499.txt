@@ -1,0 +1,14 @@
+Bitcoin Mining Pools: -><title>
+A Cooperative Game Theoretic Analysis -><title>
+Yoram Bachrach2 -><author>
+yobach@microsoft.com -><email>
+Yonatan Sompolinsky1 -><address>
+yoni_sompo@cs.huji.ac.il -><email>
+Yoad Lewenberg1 -><date>
+yoadlew@cs.huji.ac.il -><email>
+Aviv Zohar1 -><date>
+avivz@cs.huji.ac.il -><email>
+Jeffrey S. Rosenschein1 -><author>
+jeff@cs.huji.ac.il -><email>
+1School of Computer Science and Engineering, The Hebrew University of Jerusalem, Israel -><affiliation>
+2Microsoft Research, Cambridge, United Kingdom -><address>

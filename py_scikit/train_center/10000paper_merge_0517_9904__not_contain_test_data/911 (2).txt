@@ -1,0 +1,7 @@
+Java/CORBA Technology on a Beowulf Cluster -><title>
+Liang Guo, Barrett R. Bryant, Robert M. Hyatt -><author>
+Department ofComputer and Information Sciences -><affiliation>
+University of Alabama t Birmingham -><affiliation>
+1300 University Blvd. -><affiliation>
+Birmingham, Alabama 35294-1170, U.S.A. -><affiliation>
+{guo, bryant, hyatt} @cis.uab.edu -><email>

@@ -1,0 +1,5 @@
+Modeling of Pedestrian Behavior and Its Applications to Spatial Evaluation -><title>
+Toshihiro Osaragi -><author>
+Graduate School of Information Science and Engineering -><affiliation>
+Tokyo Institute of Technology -><affiliation>
+osaragi@mei.titech.ac.jp -><email>

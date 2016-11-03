@@ -1,0 +1,11 @@
+Managing Dynamic Multi-Agent Simple Temporal Network -><title>
+Charles Lesire -><author>
+Charles.Lesire@onera.fr -><email>
+Cédric Pralet -><author>
+Cedric.Pralet@onera.fr -><email>
+Guillaume Casanova -><author>
+Guillaume.Casanova@ -><email>
+onera.fr -><email>
+Onera — The French Aerospace Lab -><affiliation>
+2 Avenue Édouard Belin -><address>
+31000 Toulouse, France -><address>

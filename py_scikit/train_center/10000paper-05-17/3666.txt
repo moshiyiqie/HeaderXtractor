@@ -1,0 +1,34 @@
+Decreasing Broadcast in Route Discovery Using Vectors in -><title>
+Mobile Ad Hoc Networks -><title>
+Mohammad Al-Shurman, Seong Moo Yoo, Yoshito Kanamori -><author>
+School of Electrical and Computer Engineering -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, Al 35899 -><address>
+e-mail: {al-shum, yoos, yoshitok}@eng.uah.edu -><email>
+PROBLEM AND MOTIVATION -><affiliation>
+Wireless ad hoc networks routing protocols rely on tradi- -><abstract>
+tional broadcast (flooding) in route establishment. Many -><abstract>
+nodes will rebroadcast the packet. Valuable network re- -><abstract>
+sources (e.g., battery power) can be consumed in flooding. -><abstract>
+In this paper, we will propose Vectorized Broadcast Routing -><abstract>
+(VBR) as an enhancement for LAR scheme 1 to reduce -><abstract>
+the broadcast. In case of discovery phase failure, VBR will -><abstract>
+enlarge the broadcast region again around the destination, -><abstract>
+unlike LAR where the network will be flooded with this re- -><abstract>
+quest again. Simulation results show that VBR can decrease -><abstract>
+the number of routing packets by about one-third compared -><abstract>
+to LAR. -><abstract>
+BACKGROUND AND RELATED LITRATURE -><abstract>
+Routing protocols in mobile ad hoc networks -><abstract>
+(MANET)[1, 2] take into consideration the dynamic -><abstract>
+topology and nodes movement. Unlike in wired network, -><abstract>
+in MANET every node must act as a router and forward -><abstract>
+the packets on behalf of the other nodes. The route -><abstract>
+between the nodes will change and may break. Broadcast -><abstract>
+plays a great role in MANET routing protocols. Due to -><abstract>
+limitation in node resources and network shared medium, -><abstract>
+broadcast consumes valuable resources. Thus, traditional -><abstract>
+broadcast technique is considered a waste for the resources. -><abstract>
+Therefore, minimizing the number of the broadcast events -><abstract>
+in MANET is an active research area in the field of -><abstract>
+resource management. Location information can offer great -><abstract>

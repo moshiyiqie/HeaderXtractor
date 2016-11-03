@@ -1,0 +1,10 @@
+Universality in Multi-Agent Systems -><title>
+Robert Savit -><author>
+Dept. of Physics, University of Michigan -><affiliation>
+Ann Arbor, MI 48104 -><address>
+savit@umich.edu -><email>
+H. Van Dyke Parunak, Sven Brueckner -><author>
+Altarum Institute -><affiliation>
+3520 Green Court, Suite 300 -><address>
+Ann Arbor, MI 48105-1579 USA -><address>
+{van.parunak, sven.brueckner}@altarum.org -><email>

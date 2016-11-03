@@ -1,0 +1,31 @@
+Switching between levels of Decision Making in MAS -><title>
+Organisation: application to flexible assembly cells -><title>
+(Demonstration) -><title>
+Emmanuel Adam -><author>
+Univ. Lille Nord de France -><affiliation>
+UVHC,LAMIH Lab.,UMR 8201 -><affiliation>
+InterA Team -><address>
+F-59313 Valenciennes, France -><address>
+emmanuel.adam@univ- -><email>
+valenciennes.fr -><email>
+Cyrille Pach -><author>
+Univ. Lille Nord de France -><affiliation>
+UVHC, TEMPO Lab., EA 4542 -><affiliation>
+PSI Team -><address>
+F-59313 Valenciennes, France -><address>
+cyrille.pach@univ- -><email>
+valenciennes.fr -><email>
+Thierry Berger, -><degree>
+Univ. Lille Nord de France -><affiliation>
+UVHC, TEMPO Lab., EA 4542 -><affiliation>
+PSI Team -><address>
+F-59313 Valenciennes, France -><address>
+thierry.berger@univ- -><email>
+valenciennes.fr -><email>
+Damien Trentesaux -><author>
+Univ. Lille Nord de France -><affiliation>
+UVHC, TEMPO Lab., EA 4542 -><affiliation>
+PSI Team -><address>
+F-59313 Valenciennes, France -><address>
+damien.trentesaux@univ- -><email>
+valenciennes.fr -><web>

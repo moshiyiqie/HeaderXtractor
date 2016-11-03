@@ -1,0 +1,20 @@
+Modeling Students Self-Studies Behaviors -><title>
+Luísa Coheur -><title>
+INESC-ID -><author>
+Instituto Superior Técnico -><author>
+Universidade de Lisboa -><affiliation>
+Lisboa, Portugal -><address>
+luisa.coheur@inesc-id.pt -><email>
+Francisco S. Melo -><author>
+INESC-ID -><affiliation>
+Instituto Superior Técnico -><affiliation>
+Universidade de Lisboa -><affiliation>
+Lisboa, Portugal -><address>
+fmelo@inesc-id.pt -><email>
+Pedro Mota -><author>
+INESC-ID -><affiliation>
+Instituto Superior Técnico -><affiliation>
+Lisboa, Portugal -><address>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA, USA -><address>
+pedro.mota@l2f.inesc-id.pt -><email>

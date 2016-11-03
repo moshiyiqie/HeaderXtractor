@@ -1,0 +1,21 @@
+STACEE: Enhancing Storage Clouds using Edge Devices -><title>
+Ruby Krishnaswamy -><author>
+Omer F. Rana -><author>
+School of Computer -><affiliation>
+Science & Informatics -><affiliation>
+Cardiff University, UK -><affiliation>
+o.f.rana@cs.cardiff.ac.uk -><email>
+Dirk Neumann -><author>
+Chair of Information -><affiliation>
+Systems Research -><affiliation>
+University of Freiburg, DE -><affiliation>
+dirk.neumann@is.uni- -><email>
+freiburg.de -><email>
+Christian Bodenstein -><author>
+Chair of Information -><affiliation>
+Systems Research -><affiliation>
+University of Freiburg, DE -><affiliation>
+christian.bodenstein@is.u -><email>
+ni-freiburg.de -><email>
+ruby.krishnaswamy@oran -><email>
+ge-ftgroup.com -><email>

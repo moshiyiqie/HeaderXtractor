@@ -1,0 +1,11 @@
+A Denotational Semantics for Deliberation Dialogues -><title>
+Simon Parsons -><author>
+Department of Computer & Information Science -><affiliation>
+Brooklyn College, City University of New York -><affiliation>
+Brooklyn NY 11210 USA -><address>
+parsons@sci.brooklyn.cuny.edu -><email>
+Peter McBurney -><author>
+Department of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 3BX UK -><address>
+p.j.mcburney@csc.liv.ac.uk -><email>

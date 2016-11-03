@@ -1,0 +1,15 @@
+Satisficing Coalition Formation among Agents -><title>
+Leen-Kiat Soh -><author>
+Computer Science and Engineering Department -><affiliation>
+University of Nebraska -><affiliation>
+115 Ferguson Hall, Lincoln, NE 68588-0115 -><address>
+Tel: 402-472-6738 -><phone>
+lksoh@cse.unl.edu -><email>
+Costas Tsatsoulis -><author>
+Department of Electrical Engineering -><affiliation>
+and Computer Science -><affiliation>
+Information & Telecommunication Technology Center -><affiliation>
+University of Kansas -><affiliation>
+2335 Irving Hill Road, Lawrence, KS 66045 -><address>
+Tel: 785-864-7749 -><phone>
+tsatsoul@ittc.ku.edu -><email>

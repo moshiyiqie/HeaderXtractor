@@ -1,0 +1,11 @@
+GPU-based Spatial Interaction Force Simulation -><title>
+Benjamin Bishop -><author>
+Department of Computing Sciences -><affiliation>
+University of Scranton -><affiliation>
+Scranton, PA, USA 18510 -><address>
+bishop@cs.scranton.edu -><email>
+Chris Truszkowski -><author>
+Department of Computing Sciences -><affiliation>
+University of Scranton -><affiliation>
+Scranton, PA, USA 18510 -><address>
+truszkowskc2@cs.scranton.edu -><email>

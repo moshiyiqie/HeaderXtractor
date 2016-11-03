@@ -1,0 +1,6 @@
+Authoring Scenes for Adaptive, Interactive Performances -><title>
+Patrick Gebhard Michael Kipp Martin Klesen Thomas Rist -><author>
+DFKI GmbH -><affiliation>
+Stuhlsatzenhausweg 3 -><address>
++49 681 302 5152 -><phone>
+{gebhard, kipp, klesen, rist}@dfki.de -><email>

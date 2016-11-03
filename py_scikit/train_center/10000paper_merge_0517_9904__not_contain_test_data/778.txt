@@ -1,0 +1,16 @@
+Point-Based Policy Generation for Decentralized POMDPs -><title>
+Feng Wu -><author>
+School of Computer Science -><affiliation>
+Univ. of Sci. & Tech. of China -><affiliation>
+Hefei, Anhui 230027 China -><address>
+wufeng@mail.ustc.edu.cn -><email>
+Shlomo Zilberstein -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003 USA -><address>
+shlomo@cs.umass.edu -><email>
+Xiaoping Chen -><author>
+School of Computer Science -><affiliation>
+Univ. of Sci. & Tech. of China -><affiliation>
+Hefei, Anhui 230027 China -><address>
+xpchen@ustc.edu.cn -><email>

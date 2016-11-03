@@ -1,0 +1,14 @@
+Methodological Principles in Construction -><title>
+and Observation of Open Computational Systems -><title>
+Rune Gustavsson -><author>
+Martin Fredriksson -><author>
+Department of Software Engineering and Computer -><affiliation>
+Science, Blekinge Institute of Technology, S-372 25 -><affiliation>
+Ronneby, Sweden. -><address>
++46.457.385816 -><phone>
+rune.gustavsson@bth.se -><email>
+Department of Software Engineering and Computer -><affiliation>
+Science, Blekinge Institute of Technology, S-372 25 -><affiliation>
+Ronneby, Sweden. -><email>
++46.457.385825 -><phone>
+martin.fredriksson@bth.se -><email>

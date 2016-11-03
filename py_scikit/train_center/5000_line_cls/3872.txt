@@ -1,0 +1,12 @@
+Application Of Dimensionality Reduction Techniques to -><title>
+HRTFs for Interactive Virtual Environments -><title>
+Bill Kapralos -><author>
+Business and Information Technology, -><affiliation>
+University of Ontario Institute of Technology. -><affiliation>
+Oshawa, Ontario, Canada. L1H 7K4. -><address>
+bill.kapralos@uoit.ca -><email>
+Nathan Mekuz -><author>
+Computer Science and Engineering, -><affiliation>
+Centre for Vision Research, York University. -><affiliation>
+Toronto, Ontario, Canada. M3J 1P3. -><address>
+mekuz@cse.yorku.ca -><email>

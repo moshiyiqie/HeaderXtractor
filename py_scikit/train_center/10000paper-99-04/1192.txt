@@ -1,0 +1,14 @@
+A Biologically Inspired Autonomous Robot that Learns -><title>
+Approach-Avoidance Behaviors -><title>
+Luis E Lago-Fern~.ndez -><author>
+Computer Engineering Dept. -><affiliation>
+Universidad Aut6noma de -><address>
+Madrid, Spain -><address>
+M. A. Sanchez-Montafi@s -><email>
+Computer Engineering Dept. -><affiliation>
+Universidad AutSnoma de -><affiliation>
+Madrid, Spain -><affiliation>
+Sergio L6pez-Buedo -><address>
+Computer Engineering Dept. -><affiliation>
+Universidad Aut6noma de -><address>
+Madrid, Spain -><address>

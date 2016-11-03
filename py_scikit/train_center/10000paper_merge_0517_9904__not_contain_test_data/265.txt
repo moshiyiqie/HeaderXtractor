@@ -1,0 +1,7 @@
+Satisficing Strategies for Resource-Limited Policy Search -><title>
+in Dynamic Environments -><title>
+Dmitri Dolgov and Edmund H. Durfee -><author>
+Computer Science and Engineering -><affiliation>
+University of Michigan, EECS Department -><affiliation>
+Ann Arbor, MI 48109 -><address>
+ddolgov@umich.edu, durfee@umich.edu -><email>

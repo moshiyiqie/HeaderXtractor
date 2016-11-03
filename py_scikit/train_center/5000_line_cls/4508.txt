@@ -1,0 +1,17 @@
+Broadening Participation in Computing: -><title>
+The Multi-tiered Approach -><title>
+Dalorion Johnson1, J. Michael Wyss1, Jeff Gray2, Shaundra Daily3, Alan Shih4, Gypsy Abbot5 -><author>
+2Department of Computer Science -><affiliation>
+3School of Computing -><affiliation>
+1Center for Community Outreach Development -><affiliation>
+4Department of Mechanical Engineering -><affiliation>
+5School of Education -><affiliation>
+Clemson University -><address>
+Clemson, SC -><address>
+sdaily@clemson.edu -><email>
+University of Alabama -><affiliation>
+Tuscaloosa AL -><address>
+gray@cs.ua.edu -><email>
+University of Alabama at Birmingham -><affiliation>
+Birmingham, AL -><address>
+{ldalorion, jmwyss, ashih, gabbott}@uab.edu -><email>

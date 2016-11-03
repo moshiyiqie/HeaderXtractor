@@ -1,0 +1,20 @@
+A Lightweight Rule-Based AI Engine for Mobile Games -><title>
+Adrian Gordon, Russell James -><author>
+Mimosa Wireless Ltd. -><affiliation>
+63 Galen House, Low Friar Street -><address>
+Newcastle Upon Tyne NE15UG, UK -><address>
++44(0)191 2303029 -><phone>
+adriangordon@mimosa- -><email>
+wireless.co.uk -><email>
+Lynne Newall -><author>
+University of Northumbria, -><affiliation>
+School of Informatics -><affiliation>
+Newcastle Upon Tyne, NE1 8ST, UK -><address>
++44(0)191 227 3114 -><phone>
+lynne.newall@unn.ac.uk -><email>
+Lynne Hall -><author>
+University of Sunderland -><affiliation>
+School of Computing and Technology -><affiliation>
+Sunderland, SR6 0DD, UK -><address>
++44(0)191 515 3249 -><phone>
+lynne.hall@sunderland.ac.uk -><email>

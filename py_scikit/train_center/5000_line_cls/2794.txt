@@ -1,0 +1,17 @@
+Norm Approximation for Imperfect Monitors -><title>
+Natasha Alechina -><author>
+School of Computer Science -><affiliation>
+University of Nottingham -><affiliation>
+Nottingham NG8 1BB, UK -><address>
+nza@cs.nott.ac.uk -><email>
+Brian Logan -><author>
+School of Computer Science -><affiliation>
+University of Nottingham -><affiliation>
+Nottingham NG8 1BB, UK -><address>
+bsl@cs.nott.ac.uk -><email>
+Mehdi Dastani -><author>
+Department of Information and -><affiliation>
+Computing Sciences -><affiliation>
+Universiteit Utrecht -><affiliation>
+The Netherlands -><address>
+M.M.Dastani@uu.nl -><email>

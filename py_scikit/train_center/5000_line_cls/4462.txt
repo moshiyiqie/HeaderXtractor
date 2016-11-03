@@ -1,0 +1,17 @@
+Type Systems Directed Programming Language Evolution: -><title>
+Overview And Research Trends -><author>
+Computer Science department -><affiliation>
+University of New Orleans -><affiliation>
+New Orleans, LA 70148 -><address>
+The popularity of untyped languages witnessed in the last decade -><abstract>
+compelled us to evaluate them against modern typed languages and -><abstract>
+programming methods. We analyze their differences seeking to -><abstract>
+bridge the gap. We conclude with an analysis of trends in language -><abstract>
+design that seeks a language having the strengths from both camps. -><abstract>
+Categories and Subject Descriptors -><keyword>
+D.3.3 [Programming Languages]: Type methods in current pro- -><keyword>
+gramming languages. -><keyword>
+General Terms -><keyword>
+Types, static types, dynamic types, languages, design. -><keyword>
+Keywords -><keyword>
+Type systems, static types, dynamic types, untyped languages -><keyword>

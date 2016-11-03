@@ -1,0 +1,6 @@
+Run the GAMUT: -><title>
+A Comprehensive Approach to Evaluating Game-Theoretic Algorithms -><title>
+Eugene Nudelman Jennifer Wortman Yoav Shoham -><author>
+{eugnud;jwortman;shoham}@cs.stanford.edu Stanford University, Stanford, CA 94305 -><affiliation>
+Kevin Leyton-Brown -><author>
+kevinlb@cs.ubc.ca University of British Columbia, Vancouver, BC V6T 1Z4 -><affiliation>

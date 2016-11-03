@@ -1,0 +1,22 @@
+MyCloud – Supporting User-Conﬁgured Privacy Protection -><title>
+in Cloud Computing -><title>
+Kun Bai -><author>
+IBM T.J. Watson Research -><affiliation>
+Center -><affiliation>
+kunbai@us.ibm.com -><email>
+Wanyu Zang -><email>
+Virginia Commonwealth -><author>
+University -><affiliation>
+wzang@vcu.edu -><email>
+Min Li -><email>
+Virginia Commonwealth -><author>
+University -><affiliation>
+lim4@vcu.edu -><email>
+Peng Liu -><author>
+Pennsylvania State University, -><affiliation>
+University Park -><affiliation>
+pliu@ist.psu.edu -><email>
+Meng Yu -><email>
+Virginia Commonwealth -><author>
+University -><affiliation>
+myu@vcu.edu -><email>

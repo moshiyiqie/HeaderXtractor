@@ -1,0 +1,6 @@
+A Java Based Framework for Off-Line Collaboration -><title>
+Azzari Caillier -><author>
+acaillie@xula.edu -><email>
+Dr. R. Raymond Lang, Mentor -><author>
+Xavier University of Louisiana -><affiliation>
+New Orleans, LA 70125 -><address>

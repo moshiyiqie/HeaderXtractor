@@ -1,0 +1,18 @@
+Big Brother Logic: Logical modeling and reasoning about -><title>
+agents equipped with surveillance cameras in the plane† -><title>
+Olivier Gasquet -><author>
+University Toulouse III - Paul -><affiliation>
+Sabatier -><address>
+IRIT, France -><address>
+olivier.gasquet@irit.fr -><email>
+Francois -><author>
+Schwarzentruber -><author>
+ENS Rennes -><affiliation>
+IRISA, France -><address>
+schwarze@ens-rennes.fr -><email>
+Valentin Goranko -><author>
+Technical University of -><affiliation>
+Denmark, -><address>
+University of Johannesburg, -><affiliation>
+South Africa -><address>
+vfgo@dtu.dk -><email>

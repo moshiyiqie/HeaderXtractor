@@ -1,0 +1,19 @@
+in an Organisational Energy Intervention -><title>
+Conor Linehan -><author>
+School of Computer Science -><affiliation>
+University of Lincoln -><affiliation>
+Lincoln, LN6 7TS, UK -><address>
++44 1522 837084 -><phone>
+clinehan@lincoln.ac.uk -><email>
+Derek Foster -><author>
+School of Computer Science -><affiliation>
+University of Lincoln -><affiliation>
+Lincoln, LN6 7TS, UK -><address>
++44 1522 837130 -><phone>
+defoster@lincoln.ac.uk -><email>
+Shaun Lawson -><author>
+School of Computer Science -><affiliation>
+University of Lincoln -><affiliation>
+Lincoln, LN6 7TS, UK -><address>
++44 1522 886318 -><phone>
+slawson@lincoln.ac.uk -><email>

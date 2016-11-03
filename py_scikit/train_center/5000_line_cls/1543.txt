@@ -1,0 +1,14 @@
+Collective Decision-Making in Multi-Agent Systems by -><title>
+Implicit Leadership -><title>
+Radhika Nagpal -><author>
+SEAS & Wyss Institute -><affiliation>
+Harvard University -><affiliation>
+rad@eecs.harvard.edu -><email>
+Chih-Han Yu -><author>
+SEAS & Wyss Institute -><affiliation>
+Harvard University -><affiliation>
+chihanyu@gmail.com -><email>
+Justin Werfel -><author>
+Wyss Institute -><affiliation>
+Harvard University -><affiliation>
+justin.werfel@wyss.harvard.edu -><email>

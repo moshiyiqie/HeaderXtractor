@@ -1,0 +1,26 @@
+Speeding-up Reinforcement Learning through Abstraction -><title>
+and Transfer Learning -><title>
+Marcelo Li Koga -><author>
+Universidade de São Paulo -><affiliation>
+LTI – PCS – EPUSP -><affiliation>
+Caixa Postal 05508–900 -><address>
+São Paulo, SP. Brazil -><address>
+mlk@usp.br -><email>
+Valdinei Freire da Silva -><author>
+Universidade de São Paulo -><affiliation>
+EACH – USP Leste -><affiliation>
+Caixa Postal 03828–000 -><address>
+São Paulo, SP. Brazil -><address>
+valdinei.freire@usp.br -><email>
+Anna Helena Reali Costa -><author>
+Universidade de São Paulo -><affiliation>
+LTI – PCS – EPUSP -><affiliation>
+Caixa Postal 05508–900 -><address>
+São Paulo, SP. Brazil -><address>
+anna.reali@usp.br -><email>
+Fabio Gagliardi Cozman -><author>
+Universidade de São Paulo -><affiliation>
+PMR – EPUSP -><affiliation>
+Caixa Postal 05508–900 -><address>
+São Paulo, SP. Brazil -><address>
+fgcozman@usp.br -><email>

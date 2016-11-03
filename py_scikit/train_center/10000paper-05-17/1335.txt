@@ -1,0 +1,17 @@
+Model-Driven Behavior Specification for Robotic Teams -><title>
+∗ -><title>
+Michail G. Lagoudakis -><author>
+Department of ECE -><affiliation>
+Technical University of Crete -><affiliation>
+Chania, 73100, Greece -><address>
+lagoudakis@ece.tuc.gr -><email>
+Nikolaos I. Spanoudakis -><author>
+Department of Sciences -><affiliation>
+Technical University of Crete -><affiliation>
+Chania, 73100, Greece -><address>
+nikos@science.tuc.gr -><email>
+Alexandros Paraschos -><author>
+IAS Lab -><affiliation>
+TU-Darmstadt -><address>
+Darmstadt, 64287, Germany -><address>
+paraschos@ias.tu-darmstadt.de -><email>

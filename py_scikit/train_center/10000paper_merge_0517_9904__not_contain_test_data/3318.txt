@@ -1,0 +1,12 @@
+Facilitating High School Campus Learning with e-Book -><title>
+Readers -><title>
+Wen-Hung Liao -><author>
+Dept. of Computer Science -><affiliation>
+No. 64, Sec. 2, Chih-Nan Rd. -><address>
+Taipei, Taiwan -><address>
+whliao@cs.nccu.edu.tw -><email>
+Chien-Pao Chueh -><author>
+Dept. of Computer Science -><affiliation>
+No. 64, Sec. 2, Chih-Nan Rd. -><address>
+Taipei, Taiwan -><address>
+Designer.pao@gmail.com -><email>

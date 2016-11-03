@@ -1,0 +1,7 @@
+Autonomic Benchmarking for Cloud Infrastructures -><title>
+An economic optimization model -><title>
+Steffen Haak, Michael Menzel -><author>
+Research Center for Information Technology (FZI) -><affiliation>
+Haid-und-Neu-Str. 10-14 -><address>
+D-76131 Karlsruhe, Germany -><address>
+{haak, menzel}@fzi.de -><email>

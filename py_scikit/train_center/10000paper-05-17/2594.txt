@@ -1,0 +1,8 @@
+Adaptation from Sparse Observations through -><title>
+Detection and Correction of Model Anomalies -><title>
+(Doctoral Consortium) -><title>
+Juan Pablo Mendoza -><author>
+Supervisors: Manuela Veloso and Reid Simmons -><author>
+The Robotics Institute, Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue. Pittsburgh, PA, 15213 -><address>
+jpmendoza@ri.cmu.edu -><email>

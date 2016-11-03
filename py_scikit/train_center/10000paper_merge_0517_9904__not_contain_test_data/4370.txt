@@ -1,0 +1,12 @@
+VAMO: Towards a Fully Automated -><title>
+Malware Clustering Validity Analysis -><title>
+ManChon U -><author>
+Dept. of Computer Science -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA 30602 -><address>
+manchonu@cs.uga.edu -><email>
+Roberto Perdisci -><author>
+Dept. of Computer Science -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA 30602 -><address>
+perdisci@cs.uga.edu -><email>

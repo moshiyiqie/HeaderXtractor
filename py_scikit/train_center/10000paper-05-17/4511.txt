@@ -1,0 +1,17 @@
+A Developing World Perspective on the Design of Wireless -><title>
+Enabled Humanitarian Relief Services -><title>
+1,2 -><pubnum>
+1 -><pubnum>
+2 -><pubnum>
+Alain Wegmann -><author>
+Systemic Modeling Laboratory -><affiliation>
+I&C, EPF Lausanne -><affiliation>
+CH 1015 Switzerland -><address>
++41 21 693 4381 -><phone>
+alain.wegmann@epfl.ch -><email>
+Anshuman Saxena -><author>
+Systemic Modeling Laboratory -><affiliation>
+I&C, EPFL CH 1015 Switzerland -><address>
+TCS Innovation Labs, Bangalore India -><affiliation>
++41 21 693 6626 -><phone>
+anshuman.saxena@epfl.ch -><email>

@@ -1,0 +1,30 @@
+1 -><pubnum>
+2 -><pubnum>
+1 -><title>
+Deborah Richards -><author>
+, Meredith Taylor -><author>
+, -><author>
+2 -><note>
+1 -><note>
+1 -><note>
+Evaluating the Models and Behaviour of 3D Intelligent -><note>
+Virtual Animals in a Predator-Prey Relationship -><note>
+2 -><note>
+1 -><note>
+, Michael J Jacobson -><note>
+,John Porte -><note>
+, Charlotte Taylor -><note>
+Anne Newstead -><note>
+, Iwan Kelaiah -><note>
+, Nader Hanna -><note>
+Centre for Computer Supported Learning and -><note>
+Cognition, Faculty of Education and Social Work, -><note>
+The University of Sydney, NSW, 2106, Australia -><affiliation>
++61 2 9036 7671 -><phone>
+michael.jacobson@sydney.edu.au -><email>
+1 -><pubnum>
+Department of Computing -><affiliation>
+Macquarie University -><affiliation>
+North Ryde, NSW, 2109, Australia -><address>
++61 2 9850 9567 -><phone>
+deborah.richards@mq.edu.au -><email>

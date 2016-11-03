@@ -1,0 +1,11 @@
+Edge Detection Using Wavelets -><title>
+Michael Weeks -><author>
+Georgia State University -><affiliation>
+Department of Computer Science -><affiliation>
+Atlanta, Georgia, USA 30303 -><address>
+mweeks@cs.gsu.edu -><email>
+Evelyn Brannock -><author>
+Georgia State University -><affiliation>
+Department of Computer Science -><affiliation>
+Atlanta, Georgia, USA 30303 -><address>
+evelyn@cs.gsu.edu -><email>

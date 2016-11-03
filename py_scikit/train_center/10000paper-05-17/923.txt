@@ -1,0 +1,8 @@
+Bushﬁre BLOCKS: A Modular Agent-based Simulation -><title>
+David Scerri Sarah Hickmott Fabio Zambetta -><author>
+Ferdinand Gouw Isaac Yehuda -><author>
+Lin Padgham -><author>
+School of CS and IT -><affiliation>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+ﬁrstname.lastname@rmit.edu.au -><email>

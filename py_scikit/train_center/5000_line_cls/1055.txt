@@ -1,0 +1,5 @@
+An Operational Approach to Norms in Artificial Institutions ∗ -><title>
+Francesco Vigano`1, Nicoletta Fornara1 and Marco Colombetti1,2 -><author>
+1Universita` della Svizzera italiana, via Buffi 13, 6900 Lugano, Switzerland -><affiliation>
+2Politecnico di Milano, Piazza L. da Vinci 32, I-20133 Milano, Italy -><affiliation>
+{francesco.vigano, nicoletta.fornara, marco.colombetti}@lu.unisi.ch -><email>

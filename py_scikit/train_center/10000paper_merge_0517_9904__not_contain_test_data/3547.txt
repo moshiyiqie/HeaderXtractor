@@ -1,0 +1,6 @@
+IDENTIFYING TRAINING SETS FOR PERSONALIZED -><title>
+ARTICLE RETRIEVAL SYSTEM -><title>
+Cen Li, Sachintha Pitigala, and Suk J. Seo -><author>
+Department of Computer Science, Middle Tennessee State University -><affiliation>
+Murfreesboro, TN, 37132, Tel: (615) 904-8168 -><affiliation>
+Email: -><address>

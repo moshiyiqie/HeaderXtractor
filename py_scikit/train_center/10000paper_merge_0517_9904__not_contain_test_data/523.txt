@@ -1,0 +1,9 @@
+Task Allocation Using a -><title>
+Distributed Market-Based Planning Mechanism ∗ -><title>
+Dani Goldberg, Vincent Cicirello, M. Bernardine Dias -><author>
+Reid Simmons, Stephen Smith, Anthony Stentz -><author>
+Carnegie Mellon University -><affiliation>
+Robotics Institute -><affiliation>
+5000 Forbes Ave -><address>
+Pittsburgh, PA 15213 -><address>
+{danig,cicirello,mbdias,reids,sfs,axs}@cs.cmu.edu -><email>

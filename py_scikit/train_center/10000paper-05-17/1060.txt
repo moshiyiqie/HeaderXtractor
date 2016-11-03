@@ -1,0 +1,6 @@
+Stable partitions in additively separable hedonic games -><title>
+Haris Aziz Felix Brandt Hans Georg Seedig -><author>
+Department of Informatics -><affiliation>
+Technische Universität München -><affiliation>
+85748 Garching bei München, Germany -><address>
+{aziz,brandtf,seedigh}@in.tum.de -><email>

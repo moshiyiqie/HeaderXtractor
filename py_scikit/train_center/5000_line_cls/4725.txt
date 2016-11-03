@@ -1,0 +1,8 @@
+Next Generation Wireless Systems using Markov Decision Process -><title>
+Model -><title>
+Shilpa Y. Tisgaonkar, Chih-Cheng Hung Benny Bing -><author>
+School of Computing & Software Engineering School of Electrical & Computer Engineering -><affiliation>
+Southern Polytechnic State University, Marietta, Georgia Institute of Technology, Atlanta, -><affiliation>
+GA 30060 GA30332 -><address>
+Tel: (678) 915-3574 Tel :( 404) 385-0271 -><phone>
+Email: shilpatisgaonkar@yahoo.com,chung@spsu.edu Email: bennybing@ieee.org -><email>

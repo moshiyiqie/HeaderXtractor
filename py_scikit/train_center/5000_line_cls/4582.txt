@@ -1,0 +1,7 @@
+Validation of Distributed Real-Time and Embedded System -><title>
+Composition in UniFrame -><title>
+Shih-hsi Liu -><author>
+Department of Computer and Information Sciences -><affiliation>
+The University of Alabama at Birmingham -><affiliation>
+Birmingham, Alabama, U.S.A. 35294-1170 -><affiliation>
+liush@cis.uab.edu -><email>

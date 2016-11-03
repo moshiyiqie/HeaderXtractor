@@ -1,0 +1,4 @@
+Classifying Input for Active Games -><title>
+Tadeusz Stach, T.C. Nicholas Graham, Matthew Brehmer, Andreas Hollatz -><author>
+School of Computing -><affiliation>
+{tstach, graham, 4mb14, andreas}@cs.queensu.ca -><email>

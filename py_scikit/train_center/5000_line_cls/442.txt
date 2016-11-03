@@ -1,0 +1,18 @@
+An Incentive Compatible Reputation Mechanism -><title>
+Radu Jurca -><author>
+Artificial Intelligence Laboratory (LIA) -><affiliation>
+Swiss Federal Institute of Technology (EPFL) -><affiliation>
+CH-1015 Ecublens, Switzerland -><address>
+radu.jurca@epfl.ch -><email>
+Boi Faltings -><author>
+Artificial Intelligence Laboratory (LIA) -><affiliation>
+Swiss Federal Institute of Technology (EPFL) -><affiliation>
+CH-1015 Ecublens, Switzerland -><address>
+boi.faltings@epfl.ch -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Distributed Artificial Intelligence]: Multiagent -><unknow>
+Systems -><unknow>
+General Terms -><title>
+Security, Experimentation, Theory -><author>
+Keywords -><keyword>
+Trust, Reputation, Incentive-Compatibility -><keyword>

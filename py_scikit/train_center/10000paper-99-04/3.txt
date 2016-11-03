@@ -1,0 +1,20 @@
+Multiagent Systems Specification by UML Statecharts -><title>
+Aiming at Intelligent Manufacturing -><title>
+∗ -><title>
+Frieder Stolzenburg† -><title>
+Institut fu¨r Informatik -><author>
+Fachbereich Informatik -><author>
+Universita¨t Koblenz-Landau -><affiliation>
+Universita¨tsstr. 1 -><affiliation>
+56070 Koblenz -><address>
+GERMANY -><address>
+stolzen@uni-koblenz.de -><email>
+Toshiaki Arai -><author>
+Knowledge Industry Dept. -><affiliation>
+Advanced Systems Center -><affiliation>
+Mitsubishi Materials Corporation -><affiliation>
+Koishikawadaikoku Bldg. 1-3-25 -><address>
+Koishikawa, Bunkyo-Ku -><address>
+Tokyo 112-0002 -><phone>
+JAPAN -><affiliation>
+ara@mmc.co.jp -><email>

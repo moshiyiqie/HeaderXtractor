@@ -1,0 +1,14 @@
+Application Framework for Management and Monitoring of -><title>
+Heterogeneous 6LoWPAN Deployment -><title>
+C.Rajgopal -><author>
+Centre for Excellence in Computational -><affiliation>
+Engineering and Networking -><affiliation>
+Amrita Vishwa Vidyapeetham -><affiliation>
+Coimbatore, Tamilnadu -><address>
+rajgopal.c@gmail.com -><email>
+Rakesh Peter -><author>
+Centre for Excellence in Computational -><affiliation>
+Engineering and Networking -><affiliation>
+Amrita Vishwa Vidyapeetham -><affiliation>
+Coimbatore, Tamilnadu -><address>
+rakesh.peter@gmail.com -><email>

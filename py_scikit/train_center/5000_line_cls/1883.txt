@@ -1,0 +1,7 @@
+Taming the Complexity of Linear Time BDI Logics -><title>
+Nils Bulling -><author>
+Clausthal University of Technology -><affiliation>
+bulling@in.tu-clausthal.de -><email>
+Koen V. Hindriks -><author>
+Delft University of Technology -><affiliation>
+k.v.hindriks@tudelft.nl -><email>

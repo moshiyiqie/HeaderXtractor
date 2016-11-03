@@ -1,0 +1,13 @@
+Service Learning Meets Mobile Computing -><title>
+Rebecca Bruce -><author>
+Computer Science -><affiliation>
+CP0 2320 -><address>
+Asheville NC 28804 -><address>
+828-232-2275 -><phone>
+bruce@cs.unca.edu -><email>
+Susan Reiser -><author>
+Computer Science -><affiliation>
+CP0 2320 -><address>
+Asheville NC 28804 -><address>
+828-232-5166 -><phone>
+reiser@cs.unca.edu -><email>

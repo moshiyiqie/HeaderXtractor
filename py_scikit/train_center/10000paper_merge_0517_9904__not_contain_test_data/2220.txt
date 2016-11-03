@@ -1,0 +1,7 @@
+Coordination in Large Scale Multi-Agent Systems for -><title>
+Complex Environments -><title>
+(Doctoral Consortium) -><title>
+James Parker -><author>
+Dept. of Computer Science, University of Minnesota -><affiliation>
+Minneapolis, Minnesota, USA -><address>
+jparker@cs.umn.edu -><email>

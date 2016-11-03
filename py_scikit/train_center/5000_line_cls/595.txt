@@ -1,0 +1,12 @@
+Multi-agent Learning in Extensive Games with Complete -><title>
+Information ∗ -><title>
+Katia Sycara -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+katia@cs.cmu.edu -><email>
+Pu Huang -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+phuang@cs.cmu.edu -><email>

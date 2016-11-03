@@ -1,0 +1,19 @@
+Multi-robot Position Tracking -><title>
+Dr. Brian Bourgeois -><author>
+Naval Research Laboratory -><affiliation>
+Stennis Space Center, MS -><affiliation>
+39529-5004, USA -><address>
+228.688.5321 -><address>
+bsb@nrlssc.navy.mil -><email>
+Patrick McDowell -><author>
+Naval Research Laboratory -><affiliation>
+Stennis Space Center, MS -><affiliation>
+39529-5004, USA -><address>
+228.688.4823 -><address>
+pmcdowell@nrlssc.navy.mil -><email>
+Marvin Roe -><author>
+Naval Research Laboratory -><affiliation>
+Stennis Space Center, MS -><affiliation>
+39529-5004, USA -><address>
+228.688.4937 -><phone>
+mroe@nrlssc.navy.mil -><email>

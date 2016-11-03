@@ -1,0 +1,7 @@
+Designing Social Choice Mechanisms -><title>
+Using Machine Learning -><title>
+Lirong Xia -><author>
+School of Engineering and Applied Sciences -><affiliation>
+Harvard University -><affiliation>
+Cambridge, MA 02138, USA -><address>
+lxia@seas.harvard.edu -><email>

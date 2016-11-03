@@ -1,0 +1,27 @@
+NormLab: A Framework to Support Research -><affiliation>
+on Norm Synthesis∗ -><title>
+(Demonstration) -><title>
+Javier Morales1,2, -><author>
+Iosu Mendizabal1 -><author>
+1(IIIA) Artificial Intelligence -><affiliation>
+David Sánchez-Pinsach2, -><address>
+Maite Lopez-Sanchez2 -><address>
+2University of Barcelona -><affiliation>
+Michael Wooldridge -><author>
+Dept. of Computer Science -><affiliation>
+University of Oxford -><affiliation>
+Oxford, United Kingdom -><address>
+mjw@cs.ox.ac.uk -><email>
+Wamberto Vasconcelos -><author>
+Dept. of Computing Science -><affiliation>
+University of Aberdeen -><affiliation>
+Aberdeen, UK -><address>
+wvasconcelos@acm.org -><email>
+Barcelona, Spain -><email>
+sdividis@gmail.com -><email>
+maite@maia.ub.es -><email>
+Research Institute -><affiliation>
+(CSIC) Spanish Council for -><affiliation>
+Scientific Research -><address>
+jmorales@iiia.csic.es -><email>
+iosu.mendizabal@gmail.com -><email>

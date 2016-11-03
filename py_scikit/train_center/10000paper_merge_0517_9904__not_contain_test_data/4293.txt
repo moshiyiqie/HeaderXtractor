@@ -1,0 +1,6 @@
+Two methodologies for physical penetration testing using -><title>
+social engineering -><degree>
+Trajce Dimkov, Wolter Pieters, Pieter Hartel -><author>
+Distributed and Embedded Security Group -><affiliation>
+University of Twente, The Netherlands -><affiliation>
+{trajce.dimkov, wolter.pieters, pieter.hartel}@utwente.nl -><email>

@@ -1,0 +1,14 @@
+Construction of Numerical Potential Fields -><title>
+with Reactive Agents -><title>
+Olivier Simonin -><author>
+Universite´ de Technologie de Belfort-Montbe´liard -><affiliation>
+90010 Belfort cedex, France -><address>
+olivier.simonin@utbm.fr -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Distributed Artificial Intelligence]: Multiagent -><note>
+systems; I.2.9 [Robotics]: [Autonomous vehicles] -><note>
+General Terms -><keyword>
+Algorithms, Theory -><keyword>
+Keywords -><keyword>
+Multiagent systems, artificial potential fields, path finding, -><keyword>
+environment-based problem solving, foraging -><keyword>

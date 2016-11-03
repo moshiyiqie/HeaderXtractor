@@ -1,0 +1,8 @@
+Decision-theoretic Clustering of Strategies -><title>
+Nolan Bard, †Deon Nicholas, Csaba Szepesvári, and Michael Bowling -><author>
+†University of Waterloo -><affiliation>
+University of Alberta -><address>
+Edmonton, Alberta -><address>
+{nolan,szepesva,bowling}@cs.ualberta.ca -><email>
+Waterloo, Ontario -><affiliation>
+dnichola@uwaterloo.ca -><email>

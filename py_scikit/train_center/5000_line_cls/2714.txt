@@ -1,0 +1,12 @@
+Bayesian -><title>
+Strategic -><title>
+Subramanian -><author>
+School -><affiliation>
+University -><affiliation>
+Edinburgh, -><address>
+s.ramamoorthy@ed.ac.uk -><email>
+Aris -><author>
+School -><affiliation>
+University -><affiliation>
+Edinburgh, -><address>
+a.valtazanos@sms.ed.ac.uk -><email>

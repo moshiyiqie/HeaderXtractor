@@ -1,0 +1,7 @@
+Cooperative Reasoning for Automatic Software Verification -><title>
+Andrew Ireland -><author>
+School of Mathematical and Computer Sciences -><affiliation>
+Heriot-Watt University -><affiliation>
+Edinburgh -><affiliation>
+a.ireland@hw.ac.uk -><email>
+Position Paper -><note>

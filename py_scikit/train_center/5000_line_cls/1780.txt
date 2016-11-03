@@ -1,0 +1,5 @@
+Complexity of Judgment Aggregation: -><title>
+Safety of the Agenda -><title>
+Ulle Endriss, Umberto Grandi and Daniele Porello -><author>
+Institute for Logic, Language and Computation -><affiliation>
+University of Amsterdam -><affiliation>

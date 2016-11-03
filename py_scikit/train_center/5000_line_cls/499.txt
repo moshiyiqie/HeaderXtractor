@@ -1,0 +1,7 @@
+Ontology Mediation in Heterogeneous Venue Services -><title>
+Juan Jim Tan, Stefan Poslad, Leonid Titkov -><author>
+Department of Electronic Engineering -><affiliation>
+Queen Mary, University of London -><affiliation>
+Mile End Road, London E1 4NS -><address>
++44 (0) 20 7882 5542 -><phone>
+Email: {juanjim.tan, stefan.poslad, leonid.titkov}@elec.qmul.ac.uk -><email>

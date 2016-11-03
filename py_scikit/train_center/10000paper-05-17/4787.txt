@@ -1,0 +1,6 @@
+Distributed Priority Synthesis using Knowledge -><title>
+Chih-Hong Cheng1 Rongjie Yan2 Harald Ruess1 Saddek Bensalem3 -><author>
+1 Fortiss - An-Institut der TU Mu¨nchen, Munich, Germany -><affiliation>
+2 State Key Laboratory of Computer Science, Beijing, China -><affiliation>
+3 Verimag Laboratory, Grenoble, France -><affiliation>
+cheng@fortiss.org yrj@ios.ac.cn ruess@fortiss.org saddek.bensalem@imag.fr -><email>

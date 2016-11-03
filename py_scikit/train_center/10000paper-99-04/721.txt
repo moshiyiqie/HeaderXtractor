@@ -1,0 +1,6 @@
+Improving Sequence Recognition for Learning the Behavior of Agents -><title>
+Yoav Horman and Gal A. Kaminka -><author>
+The MAVERICK Group -><author>
+Department of Computer Science -><affiliation>
+Bar-Ilan University, Israel -><affiliation>
+galk@cs.biu.ac.il -><email>

@@ -1,0 +1,6 @@
+SHOOTBALL: The Ball Sport using Dynamic Goals -><title>
+Yoshiro Sugano, Yuya Mochizuki, Toshiya Usui, Naohito Okude -><author>
+Keio University, Media Design -><affiliation>
+DNP HOUSE, 5322 Endo, Fujisawa-shi, Kanagawa, 252-8520, Japan -><address>
++81-466-49-3404 -><phone>
+{yoshiro, s03934ym, s03181tu, okude}@sfc.keio.ac.jp -><email>

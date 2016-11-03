@@ -1,0 +1,11 @@
+Deriving -><title>
+Laurence -><author>
+Christophe -><author>
+SUPAERO -><affiliation>
+ONERA -><affiliation>
+2 -><pubnum>
+31055 -><pubnum>
+10 -><pubnum>
+31055 -><pubnum>
+cholvy@cert.fr -><email>
+garion@supaero.fr -><email>

@@ -1,0 +1,8 @@
+Agent Communication Transfer Protocol -><title>
+Alexander Artikis, Jeremy Pitt and Christos Stergiou -><author>
+Intelligent & Interactive Systems Group -><affiliation>
+Department of Electrical & Electronic Engineering -><affiliation>
+Imperial College of Science, Technology and Medicine -><affiliation>
+Exhibition Road, London, SW7 2BT, UK -><address>
++44-(0)207-59.46316 -><phone>
+{a.artikis, j.pitt, c.stergiou} @ ic.ac.uk -><email>

@@ -1,0 +1,34 @@
+SimBuilder: Exploration and Usability Inspection -><title>
+Brandi P. Smith -><author>
+Auburn University -><affiliation>
+Computer Science and Software Engineering Department -><affiliation>
+107 Dunstan Hall, Auburn Alabama 36849 -><affiliation>
+smithbp@auburn.edu -><email>
+Advisor: Dr. Cheryl Seals -><author>
+Undergraduate Researcher -><author>
+PROBLEM AND MOVTIVATION -><affiliation>
+The objective to this research is to give middle school students a -><abstract>
+more incentive vision to use educational software by providing -><abstract>
+software that is easy to learn and manipulate. This objective is -><abstract>
+met by exploring visual programming techniques for novice -><abstract>
+programmers. Even though recent studies have tried to test the -><abstract>
+assumption that more computers in the classroom will allow -><abstract>
+students greater usage of educational software, this assumption -><abstract>
+has not been proven. This assumption forms the purpose of this -><abstract>
+particular research, which focuses on developing a new structure -><abstract>
+to encourage such usage of educational software in the -><abstract>
+general science education by introducing them to basic -><abstract>
+programming skills and visual programming techniques. -><abstract>
+The software that is being created is a type of educational -><abstract>
+simulation. An educational simulation is considered as a -><abstract>
+computer-based activity that allows teachers to encourage -><abstract>
+students in a learning activity such as exploratory learning. -><abstract>
+There is limited usability in several software packages for -><abstract>
+educational purposes, which have functionalities that are -><abstract>
+unchangeable, restricted in changes, or too complex to change. -><abstract>
+Yet others are usable, but are not affordable for most schools. -><abstract>
+Also such packages do not achieve the goal of providing useful -><abstract>
+classroom simulation technology that gives the teachers the -><abstract>
+option of building simulations from scratch or reusing existing -><abstract>
+simulations by adapting their functionality. These reasons give -><abstract>
+the motivation for the exploration and investigation of the -><abstract>

@@ -1,0 +1,17 @@
+A Protocol for Multi-Agent Diagnosis with -><title>
+Spatially Distributed Knowledge -><title>
+Cees Witteveen -><author>
+Delft University of Technology, -><affiliation>
+ITS, -><address>
+P.O.Box 5031, -><address>
+2600 GA Delft. -><address>
+Annette ten Teije -><author>
+Utrecht University, -><affiliation>
+ICS, -><note>
+P.O.Box 80.089, -><note>
+3508 TB Utrecht. -><note>
+Nico Roos -><note>
+Universiteit Maastricht, -><affiliation>
+IKAT, -><note>
+P.O.Box 616, -><note>
+6200 MD Maastricht. -><note>

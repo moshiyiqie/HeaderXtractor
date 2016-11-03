@@ -1,0 +1,14 @@
+On the Susceptibility of the -><title>
+Deferred Acceptance Algorithm -><title>
+Haris Aziz -><author>
+NICTA and UNSW -><affiliation>
+Australia -><address>
+haris.aziz@nicta.com.au -><email>
+Jana Karina von Wedel -><author>
+TU München -><affiliation>
+Germany -><address>
+wedel@ma.tum.de -><email>
+Hans Georg Seedig -><author>
+TU München -><affiliation>
+Germany -><address>
+seedig@in.tum.de -><email>

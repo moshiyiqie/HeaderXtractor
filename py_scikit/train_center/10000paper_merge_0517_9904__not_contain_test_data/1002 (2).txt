@@ -1,0 +1,20 @@
+Efficient Edge Detection and Object Segmentation Using -><title>
+Gabor Filters -><title>
+Kai H. Chang -><author>
+Depart of Computer Science and -><affiliation>
+Software Engineering -><affiliation>
+Auburn University -><affiliation>
+334-8446329 -><phone>
+kchang@eng.auburn.edu -><email>
+Yiming Ji -><author>
+Depart of Computer Science and -><affiliation>
+Software Engineering -><affiliation>
+Auburn University -><affiliation>
+334-8446333 -><address>
+jiyimin@auburn.edu -><email>
+Chi-Cheng Hung -><author>
+School of Computing and Software -><affiliation>
+Engineering -><affiliation>
+Southern Polytechnic State University -><affiliation>
+770-5283574 -><phone>
+chung@spsu.edu -><email>

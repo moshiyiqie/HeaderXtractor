@@ -1,0 +1,5 @@
+Parallel Processing Flow Models on Desktop Hardware -><title>
+Robert Geist, Zachary Jones, Jay Steele -><author>
+School of Computing -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634-0974{rmg(|)zjones(|)jesteel}@cs.clemson.edu -><email>

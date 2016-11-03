@@ -1,0 +1,23 @@
+Some Comments on Wireless Sensor Networks for Natural -><title>
+Hazards -><title>
+M. Grado-Caffaro -><author>
+Sapienza-Advanced Studies -><affiliation>
+Julio Palacios 11, 28029 -><address>
+Madrid, Spain -><address>
++34651886131 -><phone>
+M. A. Grado-Caffaro -><author>
+Sapienza-Advanced Studies -><affiliation>
+Julio Palacios 11, 28029 -><address>
+Madrid, Spain -><address>
++34651886131 -><phone>
+Mohammad Sadegh Ebrahimi -><unknow>
+EE Department, Sharif University of -><affiliation>
+Technology -><affiliation>
+Azadi street -><address>
+Tehran, Iran -><address>
++989378226203 -><phone>
+ebrahimi@ee.sharif.edu -><email>
+ma.grado- -><email>
+caffaro@sapienzastudies.com -><email>
+m.grado- -><email>
+caffaro@sapienzastudies.com -><email>

@@ -1,0 +1,9 @@
+Verifying Agents with Memory Is Harder than It Seemed -><title>
+Nils Bulling -><author>
+Institute of Computer Science -><affiliation>
+Clausthal University of Technology -><affiliation>
+bulling@in.tu-clausthal.de -><email>
+Wojciech Jamroga -><author>
+Computer Science and Communication -><affiliation>
+University of Luxembourg -><affiliation>
+wojtek.jamroga@uni.lu -><email>

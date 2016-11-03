@@ -1,0 +1,8 @@
+Nogood›based Asynchronous Distributed Optimization -><title>
+(ADOPT›ng) -><title>
+Makoto Yokoo -><author>
+Kyushu University -><affiliation>
+yokoo@is.kyushu›u.ac.jp -><email>
+Marius C. Silaghi -><author>
+Florida Institute of Technology -><affiliation>
+msilaghi@t.edu -><email>

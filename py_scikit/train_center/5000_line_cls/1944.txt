@@ -1,0 +1,16 @@
+Reasoning about local properties in modal logic -><title>
+Barteld Kooi -><title>
+Faculty of Philosophy -><author>
+University of Groningen -><affiliation>
+the Netherlands -><address>
+B.P.Kooi@rug.nl -><email>
+Wiebe van der Hoek -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Liverpool, UK -><affiliation>
+wiebe@csc.liv.ac.uk -><email>
+Hans van Ditmarsch -><author>
+Department of Logic -><affiliation>
+University of Seville -><affiliation>
+Spain -><address>
+hvd@us.es -><email>

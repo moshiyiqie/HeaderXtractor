@@ -1,0 +1,5 @@
+Embedded Agents for District Heating Management -><title>
+Paul Davidsson and Fredrik Wernstedt -><author>
+School of Engineering, Blekinge Institute of Technology -><affiliation>
+372 25 Ronneby, Sweden -><address>
+{paul.davidsson, fredrik.wernstedt}@bth.se -><email>

@@ -1,0 +1,14 @@
+Teambotica: A Robotic Framework for Integrated -><title>
+Teaming, Tasking, Networking, and Control -><title>
+Re´gis Vincent, Pauline Berry, Andrew Agno, Charlie Ortiz, David Wilkins -><author>
+SRI International -><affiliation>
+333 Ravenswood Ave -><address>
+Menlo Park, CA 94025 -><address>
+{vincent, berry, agno, ortiz, wilkins}@ai.sri.com -><email>
+Categories and Subject Descriptors -><note>
+H.4 [Information Systems Applications]: Miscellaneous -><note>
+General Terms -><unknow>
+Experimentation -><title>
+Keywords -><title>
+Lessons learned from deployed agents,Autonomous robots -><title>
+and robot teams -><title>

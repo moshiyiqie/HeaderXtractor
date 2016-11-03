@@ -1,0 +1,7 @@
+Security Issues in Privacy and Key Management Protocols -><title>
+of IEEE 802.16 -><pubnum>
+Sen Xu Manton Matthews Chin-Tser Huang -><author>
+Department of Computer Science and Engineering -><affiliation>
+University of South Carolina -><affiliation>
+Columbia, SC 29208, USA -><address>
+{xu4, matthews, huangct}@cse.sc.edu -><email>

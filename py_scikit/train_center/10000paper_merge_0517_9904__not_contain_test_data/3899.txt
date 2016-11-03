@@ -1,0 +1,10 @@
+VTQuest: A Voice-based Multimodal Web-based Software -><title>
+System for Maps and Directions -><title>
+Thomas W. Schneider -><author>
+Osman Balci -><author>
+Virginia Tech -><affiliation>
+Department of Computer Science -><affiliation>
+Blacksburg, VA 24061, USA -><address>
+1 (540) 231-4841 -><phone>
+TomSchneider@gmail.com -><email>
+balci@vt.edu -><email>

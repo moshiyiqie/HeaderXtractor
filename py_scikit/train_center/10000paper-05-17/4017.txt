@@ -1,0 +1,16 @@
+Metrics for Class Cohesion and -><title>
+Similarity between Methods -><title>
+Eyob Kidanmariam -><author>
+Southern Polytechnic State University -><affiliation>
+School of Computing & Software Engineering -><affiliation>
+1100 South Marietta Parkway -><address>
+Marietta, GA 30060 -><address>
+(770) 484-7075 -><phone>
+atseeyob@yahoo.com -><email>
+Challa Bonja -><author>
+Southern Polytechnic State University -><affiliation>
+School of Computing & Software Engineering -><affiliation>
+1100 South Marietta Parkway -><address>
+Marietta, GA 30060 -><address>
+(404) 508-6869 -><phone>
+chaldems@yahoo.com -><email>

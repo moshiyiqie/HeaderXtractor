@@ -1,0 +1,7 @@
+Dataflow Plan Execution for Software Agents -><title>
+Greg Barish, Daniel DiPasquo, Craig A. Knoblock, and Steven Minton -><author>
+Information Sciences Institute, Integrated Media Systems Center, -><affiliation>
+and Department of Computer Science -><affiliation>
+University of Southern California -><affiliation>
+4676 Admiralty Way, Marina del Rey, CA 90292 -><address>
+{barish, dipasquo, knoblock, minton}@isi.edu -><email>

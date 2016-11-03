@@ -1,0 +1,17 @@
+Secure Multi-agent Dynamic Programming based on -><title>
+Homomorphic Encryption and its Application to -><title>
+Combinatorial Auctions -><title>
+Koutarou Suzuki -><author>
+NTT Information Sharing Platform Laboratories -><affiliation>
+NTT Corporation -><affiliation>
+1-1 Hikarinooka, Yokosuka-shi, Kanagawa -><address>
+239-0847 Japan -><phone>
+url: info.isl.ntt.co.jp/∼koutarou/ -><phone>
+koutarou@isl.ntt.co.jp -><email>
+Makoto Yokoo -><author>
+NTT Communication Science Laboratories -><affiliation>
+NTT Corporation -><affiliation>
+2-4 Hikaridai, Seika-cho -><address>
+Soraku-gun, Kyoto 619-0237 Japan -><address>
+url: www.kecl.ntt.co.jp/csl/ccrg/members/yokoo/ -><email>
+yokoo@cslab.kecl.ntt.co.jp -><affiliation>

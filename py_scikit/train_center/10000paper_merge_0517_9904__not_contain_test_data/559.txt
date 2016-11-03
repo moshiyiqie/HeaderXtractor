@@ -1,0 +1,11 @@
+Integrating Autonomous Behavior and User Control for Believable Agents -><title>
+Marco Gillies∗ -><author>
+University College London Adastral Park Campus -><affiliation>
+Ross Building pp1, Adastral Park -><address>
+Ipswich IP5 3RE, UK -><address>
+m.gillies@ucl.ac.uk -><email>
+Daniel Ballin -><author>
+Broadband Applications Research Centre -><affiliation>
+BT plc, Ross Building pp4, Adastral Park -><address>
+Ipswich IP5 3RE, UK -><address>
+daniel.ballin@bt.com -><email>

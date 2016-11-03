@@ -1,0 +1,7 @@
+Fair Allocation Without Trade -><title>
+Avital Gutman ∗ -><author>
+The Hebrew University of Jerusalem -><affiliation>
+gutmant@cs.huji.ac.il -><email>
+Noam Nisan? -><author>
+The Hebrew University of Jerusalem -><affiliation>
+noam@cs.huji.ac.il -><email>

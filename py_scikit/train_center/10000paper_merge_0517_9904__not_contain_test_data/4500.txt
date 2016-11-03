@@ -1,0 +1,12 @@
+Design of a Low Cost RFID Platform with Added Value -><title>
+Sensing Capabilities for Humanitarian Relief Applications -><title>
+Atilio Gameiro -><author>
+Instituto de Telecomunicações -><affiliation>
+Campus Universitário -><affiliation>
+Aveiro, 3810-193, Portugal -><address>
+amg@ua.pt -><email>
+Ramiro Sámano-Robles -><author>
+Instituto de Telecomunicações -><affiliation>
+Campus Universitário -><affiliation>
+Aveiro, 3810-193, Portugal -><address>
+ramiro@av.it.pt -><email>

@@ -1,0 +1,13 @@
+An Approach for Developing Real-Time -><title>
+Distributed Systems using an Agent Architecture -><title>
+Description Language -><title>
+Letha Etzkorn -><author>
+Computer Science Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+N336 Technology Hall, Huntsville, AL 35899 -><address>
+letzkorn@cs.uah.edu -><email>
+Craig Eichelkraut -><author>
+Computer Science Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+N348 Technology Hall, Huntsville, AL 35899 -><address>
+ceichelk@cs.uah.edu -><email>

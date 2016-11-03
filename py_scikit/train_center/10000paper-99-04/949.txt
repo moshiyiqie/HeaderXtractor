@@ -1,0 +1,14 @@
+An algorithm for constructing an even grammar -><title>
+from a language sample -><title>
+David J. John -><author>
+Department of Computer Science -><affiliation>
+Wake Forest University -><affiliation>
+Winston-Salem, North Carolina 27109 -><address>
+336-758-5354 -><phone>
+djj@cs.wfu.edu -><email>
+Margaret Francel -><author>
+Department of Mathematics and Computer Science -><affiliation>
+The Citadel -><address>
+Charleston, South Carolina 29409 -><address>
+843-953-5048 -><phone>
+francelm@citadel.edu -><email>

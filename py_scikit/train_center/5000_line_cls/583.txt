@@ -1,0 +1,18 @@
+On the Outcomes of Formal Inter-agent Dialogues -><title>
+Leila Amgoud -><author>
+IRIT, 118 route de Narbonne, -><affiliation>
+31062 Toulouse Cedex, -><address>
+France. -><address>
+leila.amgoud@irit.fr -><email>
+Michael Wooldridge -><author>
+Department of Computer -><affiliation>
+Science, -><address>
+University of Liverpool, -><affiliation>
+Liverpool L69 7ZF, UK. -><address>
+m.j.wooldridge@csc.liv.ac.uk -><email>
+Simon Parsons -><author>
+Department of Computer and -><affiliation>
+Information Science -><affiliation>
+Brooklyn College, -><affiliation>
+Brooklyn, NY 11210, USA. -><address>
+parsons@sci.brooklyn.cuny.edu -><email>

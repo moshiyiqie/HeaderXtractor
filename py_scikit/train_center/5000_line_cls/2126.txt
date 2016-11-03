@@ -1,0 +1,16 @@
+Argumentation strategies for plan resourcing -><title>
+Timothy J. Norman -><author>
+Dept. of Computing Science -><affiliation>
+University of Aberdeen, -><affiliation>
+Aberdeen, AB24 3UE, UK -><address>
+t.j.norman@abdn.ac.uk -><email>
+Chukwuemeka D. Emele -><author>
+Dept. of Computing Science -><affiliation>
+University of Aberdeen, -><affiliation>
+Aberdeen, AB24 3UE, UK -><address>
+c.emele@abdn.ac.uk -><email>
+Simon Parsons -><author>
+Comp. & Infor. Science Dept. -><affiliation>
+Brooklyn College, CUNY, -><affiliation>
+Brooklyn, 11210 NY, USA -><address>
+parsons@sci.brooklyn.cuny.edu -><email>

@@ -1,0 +1,17 @@
+Properties of Multiwinner Voting Rules -><title>
+Piotr Faliszewski -><author>
+AGH University -><affiliation>
+Krakow, Poland -><address>
+faliszew@agh.edu.pl -><email>
+Piotr Skowron -><author>
+University of Warsaw -><affiliation>
+Warsaw, Poland -><address>
+p.skowron@mimuw.edu.pl -><email>
+Edith Elkind -><author>
+University of Oxford -><affiliation>
+Oxford, United Kingdom -><address>
+elkind@cs.ox.ac.uk -><email>
+Arkadii Slinko -><email>
+University of Auckland -><affiliation>
+Auckland, New Zealand -><address>
+a.slinko@auckland.ac.nz -><email>

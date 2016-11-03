@@ -1,0 +1,31 @@
+Ubiquitous Social Perception Abilities for Interaction -><title>
+Initiation in Human-Robot Interaction ∗ -><title>
+Amol Deshmukh -><author>
+School of Mathematical and -><affiliation>
+Computer Sciences -><affiliation>
+Heriot-Watt University, UK -><affiliation>
+a.deshmukh@hw.ac.uk -><email>
+Mei Yii Lim -><author>
+School of Mathematical and -><affiliation>
+Computer Sciences -><affiliation>
+Heriot-Watt University, UK -><affiliation>
+M.Lim@hw.ac.uk -><email>
+Ginevra Castellano -><author>
+School of Electronic -><affiliation>
+Engineering and Computer -><affiliation>
+Science -><affiliation>
+Queen Mary University of -><affiliation>
+London, UK -><address>
+ginevra@dcs.qmul.ac.uk -><email>
+Ruth Aylett -><author>
+School of Mathematical and -><affiliation>
+Computer Sciences -><affiliation>
+Heriot-Watt University, UK -><affiliation>
+ruth@macs.hw.ac.uk -><email>
+Peter W. McOwan -><author>
+School of Electronic -><affiliation>
+Engineering and Computer -><affiliation>
+Science -><affiliation>
+Queen Mary University of -><affiliation>
+London, UK -><address>
+pmco@dcs.qmul.ac.uk -><email>

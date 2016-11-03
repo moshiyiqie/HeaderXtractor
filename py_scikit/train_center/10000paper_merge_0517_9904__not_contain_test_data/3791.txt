@@ -1,0 +1,6 @@
+Index and Storage Design in Native XML Databases -><title>
+Guangming Xing, Jaya Esanakula, Suresh Jayanty -><author>
+Department of Computer Science -><affiliation>
+Western Kentucky University -><affiliation>
+Bowling Green, KY 42101 -><address>
+guangming.xing@wku.edu -><email>

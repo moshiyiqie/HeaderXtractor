@@ -1,0 +1,8 @@
+Integrating Perception, Language and Problem Solving in a -><title>
+Cognitive Agent for a Mobile Robot -><title>
+D. Paul Benjamin -><author>
+Computer Science Department, Pace University -><affiliation>
+Deryle Lonsdale -><author>
+Department of Linguistics, Brigham Young University -><affiliation>
+Damian Lyons -><author>
+Computer Science Department, Fordham University -><affiliation>

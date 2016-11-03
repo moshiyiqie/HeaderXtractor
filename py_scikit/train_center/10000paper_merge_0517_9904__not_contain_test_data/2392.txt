@@ -1,0 +1,11 @@
+Argumentation-based Ranking Logics -><title>
+Jonathan Ben-Naim -><author>
+IRIT - CNRS -><affiliation>
+118, route de Narbonne -><address>
+31062, Toulouse-France -><address>
+Jonathan.Ben-Naim@irit.fr -><email>
+Leila Amgoud -><author>
+IRIT - CNRS -><affiliation>
+118, route de Narbonne -><address>
+31062, Toulouse-France -><address>
+Leila.Amgoud@irit.fr -><email>

@@ -1,0 +1,6 @@
+A Multi-tier Client-Server Project Employing Mobile Clients -><title>
+Chris McDonald -><author>
+School of Computer Science and Software Engineering -><affiliation>
+The University of Western Australia -><affiliation>
+Crawley, Western Australia, 6009 -><address>
+chris.mcdonald@uwa.edu.au -><email>

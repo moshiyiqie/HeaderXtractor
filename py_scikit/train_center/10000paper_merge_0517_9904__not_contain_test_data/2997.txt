@@ -1,0 +1,22 @@
+Playing on a Line: Location-based games for linear trips -><title>
+Peter Kiefer -><author>
+Christoph Schlieder -><author>
+Laboratory for Semantic Information -><affiliation>
+Technologies -><affiliation>
+Otto-Friedrich-University Bamberg -><affiliation>
+96045 Bamberg, Germany -><address>
+Sebastian Matyas -><author>
+Laboratory for Semantic Information -><affiliation>
+Technologies -><affiliation>
+Otto-Friedrich-University Bamberg -><affiliation>
+96045 Bamberg, Germany -><address>
+Laboratory for Semantic Information -><affiliation>
+Technologies -><affiliation>
+Otto-Friedrich-University Bamberg -><affiliation>
+96045 Bamberg, Germany -><address>
+sebastian.matyas @wiai.uni- -><email>
+bamberg.de -><email>
+christoph.schlieder @wiai.uni- -><email>
+bamberg.de -><email>
+peter.kiefer @wiai.uni- -><email>
+bamberg.de -><email>

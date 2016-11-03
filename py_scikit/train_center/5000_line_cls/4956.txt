@@ -1,0 +1,7 @@
+Using Hybrid Automata to Model Four Stroke Engines with -><title>
+Variable Valve Timing in Simulink/Stateflow -><title>
+Brian Wesley Williams -><author>
+P.O. Box 1829, Station B -><address>
+Nashville, TN 37235 -><address>
+1-615-322-8746 -><phone>
+brianw@isis.vanderbilt.edu -><email>

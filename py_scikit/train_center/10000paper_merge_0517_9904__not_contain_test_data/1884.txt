@@ -1,0 +1,19 @@
+Agent Reasoning for Norm Compliance -><title>
+A Semantic Approach -><title>
+∗ -><title>
+M. Birna van Riemsdijk -><author>
+Delft University of Technology -><affiliation>
+Delft, The Netherlands -><address>
+m.b.vanriemsdijk@tudelft.nl -><email>
+Koen V. Hindriks -><author>
+Delft University of Technology -><affiliation>
+Delft, The Netherlands -><address>
+k.v.hindriks@tudelft.nl -><email>
+Louise A. Dennis -><author>
+University of Liverpool -><affiliation>
+Liverpool, UK -><address>
+l.a.dennis@liverpool.ac.uk -><email>
+Michael Fisher -><author>
+University of Liverpool -><affiliation>
+Liverpool, UK -><address>
+mfisher@liverpool.ac.uk -><email>

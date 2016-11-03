@@ -1,0 +1,17 @@
+Resource-bounded alternating-time temporal logic -><title>
+Natasha Alechina -><author>
+University of Nottingham -><affiliation>
+Nottingham, UK -><address>
+nza@cs.nott.ac.uk -><email>
+Brian Logan -><author>
+University of Nottingham -><affiliation>
+Nottingham, UK -><address>
+bsl@cs.nott.ac.uk -><email>
+Nguyen Hoang Nga -><author>
+University of Nottingham -><affiliation>
+Nottingham, UK -><address>
+hnn@cs.nott.ac.uk -><email>
+Abdur Rakib -><author>
+University of Nottingham -><affiliation>
+Nottingham, UK -><address>
+rza@cs.nott.ac.uk -><email>

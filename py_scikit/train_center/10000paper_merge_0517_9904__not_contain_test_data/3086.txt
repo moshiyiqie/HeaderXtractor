@@ -1,0 +1,6 @@
+Dialogue Management for Social Game Characters -><title>
+Using Statecharts -><title>
+Jenny Brusk -><author>
+Dept of Game Design, Narrative and Time-based Media -><affiliation>
+Gotland University, Sweden -><affiliation>
+jenny.brusk@hgo.se -><email>

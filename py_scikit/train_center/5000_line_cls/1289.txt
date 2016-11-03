@@ -1,0 +1,7 @@
+Approaches for Resolving the Dilemma between Model -><title>
+Structure Refinement and Parameter Calibration in -><title>
+Agent-Based Simulations -><title>
+Manuel Fehler , Franziska Klu¨gl and Frank Puppe -><author>
+Institute for Artificial Intelligence and Applied Computer Science -><affiliation>
+University of Wu¨rzburg, Germany -><affiliation>
+{fehler, kluegl, puppe}@informatik.uni-wuerzburg.de -><email>

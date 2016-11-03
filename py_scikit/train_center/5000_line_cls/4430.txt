@@ -1,0 +1,8 @@
+Computational Thinking: -><title>
+Modeling Applied to the Teaching and Learning of English -><title>
+Linda Howell (), Lisa Jamba (+), A. Samuel Kimball (), Arturo Sanchez-Ruiz (+) -><author>
+() Department of English, (+) School of Computing -><affiliation>
+University of North Florida -><affiliation>
+1 UNF Drive -><address>
+Jacksonville, FL 32224 -><address>
+{lhowell, ljamba, skimball, asanchez}@unf.edu -><email>

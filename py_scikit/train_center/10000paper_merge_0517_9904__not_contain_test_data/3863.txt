@@ -1,0 +1,12 @@
+Finding Optimal Weighted Bridges with Applications -><title>
+† -><title>
+James D. Palmer -><author>
+Department of Computer Science -><affiliation>
+The University of Texas at Dallas -><affiliation>
+Richardson, TX 75080, USA -><address>
+jdp011100@utdallas.edu -><email>
+Ovidiu Daescu∗ -><author>
+Department of Computer Science -><affiliation>
+The University of Texas at Dallas -><affiliation>
+Richardson, TX 75080, USA -><address>
+daescu@utdallas.edu -><email>

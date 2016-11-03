@@ -1,0 +1,22 @@
+Implementing the TEA algorithm on Sensors -><title>
+Phillip G. Bradford -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+The University of Alabama -><affiliation>
+Box 870290 -><address>
+Tuscaloosa, AL 35487-0290 -><address>
+pgb@cs.ua.edu -><email>
+Olga V. Gavrylyako -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+The University of Alabama -><affiliation>
+Box 870290 -><address>
+Tuscaloosa, AL 35487-0290 -><address>
+ogavrylyako@cs.ua.edu -><email>
+Shuang Liu -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+The University of Alabama -><affiliation>
+Box 870290 -><address>
+Tuscaloosa, AL 35487-0290 -><address>
+sliu@cs.ua.edu -><email>

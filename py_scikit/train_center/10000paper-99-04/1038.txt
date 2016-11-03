@@ -1,0 +1,11 @@
+Time Studies as a Tool for (Computer Science) Education -><title>
+Research -><title>
+Anna Sandstr6m -><author>
+Melody Interactive Solutions AB -><affiliation>
+Uppsala, Sweden -><address>
+anna~melody.se -><email>
+Mats Daniels -><author>
+Department of Information Technology -><affiliation>
+Uppsala University -><affiliation>
+Uppsala, Sweden -><address>
+matsd@,docs.uu.se -><email>

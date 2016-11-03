@@ -1,0 +1,34 @@
+Development of Techniques for Visualization of Scalar and -><title>
+Vector Fields -><author>
+In an Immersive Environment (CAVE) -><author>
+Hari B. Bidasaria -><author>
+Central Michigan University -><affiliation>
+MT. Pleasant MI 48858 USA -><address>
+Telephone # 001-989-7744414 -><phone>
+Email: bidas1hb@cmich.edu -><email>
+Problem and Motivation -><affiliation>
+Visualization of scalar and vector fields in the immersive -><abstract>
+very important for its application to radiation shielding research at -><abstract>
+NASA Langley Research Center. In particular, a system was -><abstract>
+study of south Atlantic anomaly, and for the visualization of -><abstract>
+geomagnetically trapped protons and electrons in the surrounding -><abstract>
+space to earth. -><abstract>
+Background and Related Work -><note>
+During my sabbatical at NASA Langley Research Center for fall -><abstract>
+of 2004, I have done research and developed a complete -><abstract>
+methodology and the underlying software for the purpose of -><abstract>
+visualizing scalar and vector fields for various purposes as stated -><abstract>
+above. -><abstract>
+Approach and Uniqueness -><abstract>
+Using the technique I have developed, a vector field can be -><abstract>
+visualized in two modes: -><abstract>
+In mode one, the directional curved lines can be visualized -><abstract>
+(Fig.1.) in the surrounding 3-D space to any source(s) of a vector -><abstract>
+field. The size of the surrounding spherical space for visualization -><abstract>
+of the directional curved line flux as well as the scale for this -><abstract>
+visualization can be continually varied using the CAVE input -><abstract>
+wand. -><abstract>
+In mode two, the vector field at regularly spaced points on the -><abstract>
+surface of a surrounding sphere to sources of the vector field is -><abstract>
+represented correctly through the length and direction of the -><abstract>
+depicted vectors at these points (Fig.2.). As in mode one, the -><abstract>

@@ -1,0 +1,7 @@
+Developing Multiplayer Pervasive Games and Networked -><title>
+Interactive Installations using Ad hoc Mobile Sensor Nets -><title>
+Orestis Akribopoulos, Marios Logaras, Nikos Vasilakis, Panagiotis Kokkinos, -><author>
+Georgios Mylonas, Ioannis Chatzigiannakis, Paul Spirakis -><author>
+Research Academic Computer Technology Institute (RACTI) & -><affiliation>
+Computer Engineering and Informatics Department, University of Patras, Greece -><affiliation>
+{akribopo, logaras, basilakn, kokkinop, mylonasg, ichatz, spirakis}@cti.gr -><email>

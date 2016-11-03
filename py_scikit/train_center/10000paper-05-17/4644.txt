@@ -1,0 +1,11 @@
+Consistent Phrase Relevance Measures -><title>
+Wen-tau Yih -><author>
+Microsoft Research -><affiliation>
+One Microsoft Way -><affiliation>
+Redmond, WA 98052, USA -><address>
+scottyih@microsoft.com -><email>
+Christopher Meek -><author>
+Microsoft Research -><affiliation>
+One Microsoft Way -><affiliation>
+Redmond, WA 98052, USA -><address>
+meek@microsoft.com -><email>

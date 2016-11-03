@@ -1,0 +1,7 @@
+A MOBILE ROBOT FOR CORRIDOR NAVIGATION: -><title>
+A MULTI-AGENT APPROACH -><title>
+Y. Ono, H. Uchiyama, W. Potter -><author>
+Artificial Intelligence Center -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA -><address>
+yukiono@uga.edu -><email>

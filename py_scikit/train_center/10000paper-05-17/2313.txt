@@ -1,0 +1,13 @@
+Hard and Soft Equilibria in Boolean Games -><title>
+Paul Harrenstein -><author>
+Dept. of Computer Science -><affiliation>
+University of Oxford -><affiliation>
+paulhar@cs.ox.ac.uk -><email>
+Michael Wooldridge -><author>
+Dept. of Computer Science -><affiliation>
+University of Oxford -><affiliation>
+mjw@cs.ox.ac.uk -><email>
+Paolo Turrini -><author>
+Department of Computing -><affiliation>
+Imperial College London -><affiliation>
+p.turrini@imperial.ac.uk -><email>

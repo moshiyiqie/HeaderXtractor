@@ -1,0 +1,19 @@
+Matchings with Externalities and Attitudes -><title>
+Simina Brânzei -><author>
+Aarhus University -><affiliation>
+simina@cs.au.dk -><email>
+Tomasz Michalak -><author>
+Oxford University and Warsaw University -><affiliation>
+tomasz.michalak@cs.ox.ac.uk -><email>
+Talal Rahwan -><author>
+University of Southampton -><affiliation>
+tr@ecs.soton.ac.uk -><email>
+Kate Larson -><author>
+University of Waterloo -><affiliation>
+klarson@cs.uwaterloo.ca -><email>
+Nicholas R. Jennings -><author>
+University of Southampton -><affiliation>
+nrj@cs.soton.ac.uk -><email>
+“A pessimist sees the difficulty in every opportunity; an -><author>
+optimist sees the opportunity in every difficulty.” -><author>
+Winston Churchill (1874–1965) -><degree>

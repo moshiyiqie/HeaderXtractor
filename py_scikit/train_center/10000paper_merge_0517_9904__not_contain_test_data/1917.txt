@@ -1,0 +1,18 @@
+On the Verification and Computation of Strong Nash -><title>
+Equilibrium -><title>
+Marco Rocco -><author>
+Politecnico di Milano -><affiliation>
+Piazza Leonardo da Vinci 32 -><affiliation>
+Milano, Italy -><address>
+mrocco@elet.polimi.it -><email>
+Nicola Gatti -><email>
+Politecnico di Milano -><author>
+Piazza Leonardo da Vinci 32 -><affiliation>
+Milano, Italy -><address>
+ngatti@elet.polimi.it -><email>
+Tuomas Sandholm -><unknow>
+Carnegie Mellon -><author>
+Computer Science Dep. -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213, USA -><address>
+sandholm@cs.cmu.edu -><email>

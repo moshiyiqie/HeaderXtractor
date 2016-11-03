@@ -1,0 +1,13 @@
+A Formal Compositional Model of Multiagent Interaction -><title>
+Seng Wai Loke -><author>
+School of Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+Monash University, P O Box 197 -><affiliation>
+Victoria 3145, Australia -><address>
+swloke@csse.monash.edu.au -><email>
+Sea Ling -><author>
+School of Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+Monash University, P O Box 197 -><affiliation>
+Victoria 3145, Australia -><address>
+sling@csse.monash.edu.au -><email>

@@ -1,0 +1,6 @@
+A Study of Sybil Manipulations in Hedonic Games -><title>
+Thibaut Vallée, Grégory Bonnet, Bruno Zanuttini, François Bourdon -><author>
+Normandie Univ, France -><affiliation>
+UNICAEN, GREYC, F-14032 Caen, France -><address>
+CNRS, UMR 6072, F-14032 Caen, France -><address>
+firstname.lastname@unicaen.fr -><email>

@@ -1,0 +1,16 @@
+Event-based Analysis of Timed Rebeca Models using SQL -><title>
+Brynjar Magnu´sson -><title>
+Ehsan Khamespanah -><title>
+Ramtin Khosravi -><author>
+University of Tehran, Tehran, Iran -><affiliation>
+Reykjavik University, Reykjavik, -><affiliation>
+Iceland -><address>
+brynjar@brynjar.is -><email>
+r.khosravi@ut.ac.ir -><email>
+University of Tehran, Tehran, Iran -><affiliation>
+Reykjavik University, Reykjavik, -><affiliation>
+Iceland -><address>
+e.khamespanah@ut.ac.ir -><email>
+M.Sirjani -><email>
+Reykjavik University, Reykjavik, Iceland -><affiliation>
+marjan@ru.is -><email>

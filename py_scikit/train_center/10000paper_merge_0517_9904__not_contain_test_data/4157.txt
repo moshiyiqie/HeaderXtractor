@@ -1,0 +1,14 @@
+Agile Versus CMMI - Process Template Selection and -><title>
+Integration with Microsoft Team Foundation Server -><title>
+Robert Leithiser -><author>
+Auburn University -><affiliation>
+3101 Shelby Center -><address>
+Auburn, AL 36849-5347 -><address>
+1-(334) 844-4330 -><phone>
+leithrm@auburn.edu -><email>
+Drew Hamilton -><author>
+Auburn University -><affiliation>
+3101D Shelby Center -><address>
+Auburn, AL 36849-5347 -><address>
+1-(334) 844-6360 -><phone>
+Hamilton@auburn.edu -><email>

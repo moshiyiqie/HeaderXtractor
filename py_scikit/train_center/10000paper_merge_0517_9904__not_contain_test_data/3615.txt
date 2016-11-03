@@ -1,0 +1,19 @@
+Thomas Brookshire -><title>
+Wireless Vulnerability of SCADA Systems -><title>
+David Thornton -><author>
+Jacksonville State University -><affiliation>
+700 Pelham Rd N -><address>
+Jacksonville, AL 36265 -><address>
+256-782-5723 -><phone>
+thornton@jsu.edu -><email>
+Guillermo Francia, III -><author>
+Jacksonville State University -><affiliation>
+700 Pelham Rd N -><address>
+Jacksonville, AL 36265 -><address>
+256-782-5723 -><phone>
+gfrancia@jsu.edu -><email>
+Jacksonville State University -><affiliation>
+700 Pelham Rd N -><affiliation>
+Jacksonville, AL 36265 -><address>
+256-782-5723 -><phone>
+tbrookshire@jsu.edu -><email>

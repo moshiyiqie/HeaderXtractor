@@ -1,0 +1,20 @@
+The Use of Emotions to create Believable Agents in a -><title>
+Virtual Environment1 -><title>
+Karthi Selvarajah -><author>
+Computing Department -><affiliation>
+Macquarie University -><affiliation>
+North Ryde, 2109 -><address>
+Debbie Richards -><author>
+Human Centred Systems Group -><affiliation>
+Macquarie University -><affiliation>
+North Ryde, 2109 -><address>
++61 2 9850 0567 -><phone>
+richards@ics.mq.edu.au -><email>
+Permission to make digital or hard copies of all or part of this work for -><note>
+personal or classroom use is granted without fee provided that copies are -><note>
+not made or distributed for profit or commercial advantage and that copies -><note>
+bear this notice and the full citation on the first page. To copy otherwise, -><note>
+to republish, to post on servers or to redistribute to lists, requires prior -><note>
+specific permission and/or a fee. -><note>
+AAMAS'05, July 25-29, 2005, Utrecht, Netherlands. -><note>
+Copyright 2005 ACM 1-59593-094-9/05/0007 ...$5.00. -><note>

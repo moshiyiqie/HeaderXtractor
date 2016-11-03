@@ -1,0 +1,34 @@
+KARSHIK: agricultural information monitoring and reference based on wireless -><title>
+networks -><title>
+Arjun Vasudevan -><author>
+Computer Science Engineering, -><affiliation>
+Amrita School Of Engineering, -><address>
+Kollam,India -><address>
+Niranjan S Nair -><author>
+Computer Science -><author>
+Engineering, Amrita School Of -><affiliation>
+Engineering, Kollam,India -><address>
+Shabana K M -><author>
+Computer Science Engineering, -><affiliation>
+Amrita School Of Engineering, -><affiliation>
+Kollam,India -><address>
+Asha S Benny -><author>
+Computer Science Engineering -><affiliation>
+Amrita School Of Engineering -><address>
+Kollam, India -><address>
+Minerva Dutta -><author>
+Computer Science Engineering, -><affiliation>
+Amrita School Of Engineering, -><affiliation>
+Kollam,India -><address>
+Br. Anand Shenoy -><email>
+Computer Science Engineering -><affiliation>
+Amrita School Of Engineering -><affiliation>
+Kollam, India -><address>
+project. The objective of this project is -><abstract>
+statistics about crops pertaining to a certain topology, -><abstract>
+geographic location and climatic conditions -><abstract>
+farmers in India, so as to equip them with information -><abstract>
+for producing the better yields; The long term aim of -><abstract>
+this project is to ultimately make a region self sufficient -><abstract>
+in the crops that can be suitably grown. This eradicates -><abstract>
+the need to import or strain resources that are sparse or -><abstract>

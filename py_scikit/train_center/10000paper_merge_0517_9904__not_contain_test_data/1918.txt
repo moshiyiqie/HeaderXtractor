@@ -1,0 +1,7 @@
+Cooperative Energy Exchange for the Efficient Use of -><title>
+Energy and Resources in Remote Communities -><title>
+Muddasser Alam, Sarvapali D. Ramchurn and Alex Rogers -><author>
+Agents, Interaction and Complexity Research Group, -><affiliation>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton, UK. -><affiliation>
+{moody, sdr, acr}@ecs.soton.ac.uk -><email>

@@ -1,0 +1,22 @@
+Multi-robot collision avoidance -><title>
+with localization uncertainty -><title>
+Daniel Claes -><author>
+Maastricht University -><affiliation>
+P.O. Box 616, 6200MD -><address>
+Maastricht, The Netherlands -><address>
+danielclaes@me.com -><email>
+Daniel Hennes -><author>
+Maastricht University -><affiliation>
+P.O. Box 616, 6200MD -><address>
+Maastricht, The Netherlands -><address>
+daniel.hennes@gmail.com -><email>
+Wim Meeussen -><unknow>
+Willow Garage -><author>
+68 Willow Rd., Menlo Park -><address>
+CA 94025, USA -><address>
+meeussen@willowgarage.com -><email>
+Karl Tuyls -><author>
+Maastricht University -><affiliation>
+P.O. Box 616, 6200MD -><address>
+Maastricht, The Netherlands -><address>
+k.tuyls@maastrichtuniversity.nl -><affiliation>

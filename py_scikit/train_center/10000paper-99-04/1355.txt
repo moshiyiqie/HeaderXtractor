@@ -1,0 +1,12 @@
+Intelligent Agents for an Artificial Market System -><title>
+Nikos Karacapilidis -><author>
+Industrial Management Lab, MEAD -><affiliation>
+University of Patras -><affiliation>
+26500 Rion Patras, Greece -><address>
++30 61 997257 -><phone>
+nikos@mech.upatras.gr -><email>
+Decision Support Systems Lab -><affiliation>
+Technical University of Crete -><affiliation>
+73100 Chania, Crete, Greece -><address>
++30 821 37347 -><phone>
+moraitis@ergasya.tuc.gr -><email>

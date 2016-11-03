@@ -1,0 +1,7 @@
+Removing Redundant Conflict Value Assignments in -><title>
+Resolvent Based Nogood Learning -><title>
+Jimmy H.M. Lee and Yuxiang Shi -><author>
+Department of Computer Science & Engineering -><affiliation>
+The Chinese University of Hong Kong -><affiliation>
+Shatin, N.T., Hong Kong -><address>
+{jlee,yshi}@cse.cuhk.edu.hk -><email>

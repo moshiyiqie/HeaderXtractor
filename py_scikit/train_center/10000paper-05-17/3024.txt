@@ -1,0 +1,34 @@
+Panel -><title>
+Ethical Issues of Entertainment Computing in the Home -><title>
+Organizer and Chair -><title>
+Andy Sloane -><author>
+University of Wolverhampton -><affiliation>
+United Kingdom, WV1 ISB -><address>
++44 1902 321445 -><phone>
+A.Sloane@wlv.ac.uk -><email>
+Ryohei Nakatsu -><author>
+Kwansei Gakuin University, Japan -><affiliation>
+Lynne Baillie -><author>
+Telecommunications Research Centre, -><affiliation>
+Vienna, Austria -><address>
+PANEL SUMMARY -><page>
+There are many influences on the individual as a user and -><abstract>
+consumer of entertainment computing which can be both -><abstract>
+beneficial and harmful. The production and consumption of -><abstract>
+entertainment takes place in an unregulated environment: the -><abstract>
+home. This makes the ethical implications all the more -><abstract>
+important as there are fewer controls over the use of content and -><abstract>
+its subsequent effect on the consumer. The issues that ensue -><abstract>
+from this scenario are many and varied. It is the task of the -><abstract>
+research community to understand these issues with a view to -><abstract>
+creating a better environment for users in the holistic sense. This -><abstract>
+includes fundamental studies on the effect of devices, software, -><abstract>
+systems and applications in a multi-disciplinary way. Also, the -><abstract>
+research that has taken place on the use of technology and, in -><abstract>
+particular, information technology in the home will be used as a -><abstract>
+background to the discussions. -><abstract>
+Ethical issues can come in many forms and are sometimes only -><abstract>
+design and design stages in may be possible to alleviate -><abstract>
+problems that occur in product development and use. It may also -><abstract>
+lead to a more sustainable product and more acceptable use. -><abstract>
+With increasing emphasis on user participation and ethical -><abstract>

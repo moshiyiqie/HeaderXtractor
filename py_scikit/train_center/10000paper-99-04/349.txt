@@ -1,0 +1,17 @@
+A Policy Based Framework for Agents: -><title>
+On the Specification of an Agent Policy Language including Roles, -><title>
+Relationships, Conversation Patterns and Co-operation Patterns -><title>
+Geert Arys -><author>
+Van Besenlaan 30 -><affiliation>
+1050 Brussels, Belgium -><address>
+gert.arys@chello.be -><email>
+Michael Wooldridge -><author>
+Liverpool University -><affiliation>
+Dept. of Computer Science -><affiliation>
+Liverpool L69 7ZF, UK -><address>
+mjw@csc.liv.ac.uk -><email>
+Christos Stergiou -><author>
+Liverpool University -><affiliation>
+Dept. of Computer Science -><affiliation>
+Liverpool L69 7ZF, UK -><address>
+c.stergiou@ieee.org -><email>

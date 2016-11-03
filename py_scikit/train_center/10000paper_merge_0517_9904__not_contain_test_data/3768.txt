@@ -1,0 +1,5 @@
+An Empirical Validation of Complexity Profile Graph -><title>
+Jeong Yang, T. Dean Hendrix, Kai H. Chang, David Umphress -><author>
+Computer Science and Software Engineering -><affiliation>
+Auburn University, AL 36849 -><affiliation>
+yangjeo@auburn.edu, {Hendrix, kchang, umphress}@eng.auburn.edu -><email>

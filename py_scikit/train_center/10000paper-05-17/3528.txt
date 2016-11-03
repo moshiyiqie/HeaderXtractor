@@ -1,0 +1,16 @@
+Enabling Citizen Roboticists -><title>
+Jeffrey C. Carver -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Tuscaloosa, AL 35487 -><address>
+carver@cs.ua.edu -><email>
+Dustin Heaton -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Tuscaloosa, AL 35487 -><address>
+dwheaton@crimson.ua.edu -><email>
+Monica Anderson -><author>
+Department of Computer Science -><affiliation>
+University of Alabama -><affiliation>
+Tuscaloosa, AL 35487 -><address>
+anderson@cs.ua.edu -><email>

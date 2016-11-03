@@ -1,0 +1,11 @@
+Kells: A Protection Framework for Portable Data ∗ -><title>
+Kevin R.B. Butler -><author>
+Department of Computer & Information Science -><affiliation>
+University of Oregon, Eugene, OR -><affiliation>
+butler@cs.uoregon.edu -><email>
+Stephen E. McLaughlin and -><author>
+Patrick D. McDaniel -><author>
+Systems and Internet Infrastructure Security -><affiliation>
+Laboratory (SIIS) -><affiliation>
+Penn State University, University Park, PA -><affiliation>
+{smclaugh,mcdaniel}@cse.psu.edu -><email>

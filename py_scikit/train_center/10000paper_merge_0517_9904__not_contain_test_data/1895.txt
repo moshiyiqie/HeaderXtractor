@@ -1,0 +1,10 @@
+Light at the End of the Tunnel: A Monte Carlo Approach to -><title>
+Computing Value of Information -><title>
+Ece Kamar -><author>
+Microsoft Research -><affiliation>
+Redmond, WA 98052 -><address>
+eckamar@microsoft.com -><email>
+Eric Horvitz -><author>
+Microsoft Research -><affiliation>
+Redmond, WA 98052 -><address>
+horvitz@microsoft.com -><email>

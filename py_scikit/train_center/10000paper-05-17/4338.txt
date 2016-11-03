@@ -1,0 +1,6 @@
+Hit ’em Where it Hurts: -><title>
+A Live Security Exercise on Cyber Situational Awareness -><title>
+Adam Doupé, Manuel Egele, Benjamin Caillat, Gianluca Stringhini, -><author>
+Gorkem Yakin, Ali Zand, Ludovico Cavedon, and Giovanni Vigna -><author>
+University of California, Santa Barbara -><affiliation>
+{adoupe, maeg, benjamin, gianluca, gyakin, zand, cavedon, vigna}@cs.ucsb.edu -><email>

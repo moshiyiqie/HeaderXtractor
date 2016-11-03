@@ -1,0 +1,17 @@
+Heuristic -><title>
+Emergence -><title>
+(Extended -><title>
+Jianye -><title>
+Dongping -><title>
+Chao -><title>
+Dalian -><title>
+Yi -><author>
+South -><affiliation>
+Technology -><affiliation>
+cy496@uowmail.edu.au -><email>
+Singapore -><affiliation>
+Technology -><affiliation>
+{jianye_hao,sunjun} -><email>
+@sutd.edu.sg -><email>
+Technology -><affiliation>
+{huang.dp,ycai}@scut.edu.cn -><email>

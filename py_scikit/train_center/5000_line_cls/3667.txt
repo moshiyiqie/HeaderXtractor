@@ -1,0 +1,8 @@
+Augmented Reality Chinese Checkers -><title>
+Nicholas Cooper, Aaron Keatley, Maria Dahlquist, Simon Mann, Hannah Slay, Joanne Zucco, -><author>
+Ross Smith and Bruce H. Thomas -><author>
+School of Computer and Information Science -><affiliation>
+University of South Australia -><affiliation>
+Mawson Lakes Campus, Mawson Lakes, SA 5095 -><address>
+Australia, +61 8 8302 3125 -><address>
+Contact Author Bruce.Thomas@unisa.edu.au -><email>

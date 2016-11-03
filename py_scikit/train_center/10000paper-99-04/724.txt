@@ -1,0 +1,8 @@
+Time-Extended Policies in Multi-Agent -><note>
+Reinforcement Learning -><title>
+Kagan Tumer -><author>
+NASA Ames Research Center -><affiliation>
+ktumer@mail.arc.nasa.gov -><email>
+Adrian K. Agogino -><author>
+UC Santa Cruz -><affiliation>
+adrian@email.arc.nasa.gov -><email>

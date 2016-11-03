@@ -1,0 +1,13 @@
+A Taxonomy of Parallel Techniques for Intrusion Detection -><title>
+Errin Fulp∗ -><title>
+Wake Forest University -><affiliation>
+Department of Computer Science -><affiliation>
+1834 Wake Forest Road -><address>
+Winston-Salem, NC 27106 -><address>
+fulp@wfu.edu -><email>
+Patrick Wheeler -><author>
+University of California, Davis -><affiliation>
+Department of Computer Science -><affiliation>
+One Shields Avenue -><address>
+Davis, California 95616 -><address>
+pswheeler@ucdavis.edu -><email>

@@ -1,0 +1,6 @@
+Multi-Objective Optimization for Security Games -><title>
+Matthew Brown1, Bo An1, Christopher Kiekintveld2, Fernando Ordóñez3, Milind Tambe1 -><author>
+1University of Southern California, Los Angeles, CA, 90089 -><affiliation>
+2University of Texas at El Paso, El Paso, TX, 79968 -><affiliation>
+3Universidad de Chile, Santiago, Chile -><address>
+1{mattheab,boa,tambe}@usc.edu, 2cdkiekintveld@utep.edu, 3fordon@dii.uchile.cl -><email>

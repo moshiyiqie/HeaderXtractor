@@ -1,0 +1,11 @@
+A Truth Serum for Sharing Rewards -><title>
+Kate Larson -><author>
+Cheriton School of Computer Science -><affiliation>
+University of Waterloo -><affiliation>
+Waterloo, Ontario, Canada -><address>
+klarson@cs.uwaterloo.ca -><email>
+Arthur Carvalho -><author>
+Cheriton School of Computer Science -><affiliation>
+University of Waterloo -><affiliation>
+Waterloo, Ontario, Canada -><address>
+a3carval@cs.uwaterloo.ca -><email>

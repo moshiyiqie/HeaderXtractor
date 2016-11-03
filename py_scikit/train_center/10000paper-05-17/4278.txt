@@ -1,0 +1,11 @@
+Quantifying Information Leaks in Software -><title>
+Pasquale Malacaria -><author>
+School of Electronic Engineering and Computer -><affiliation>
+Science -><affiliation>
+Queen Mary University of London -><affiliation>
+pm@dcs.qmul.ac.uk -><email>
+Jonathan Heusser -><author>
+School of Electronic Engineering and Computer -><affiliation>
+Science -><affiliation>
+Queen Mary University of London -><affiliation>
+jonathan.heusser@dcs.qmul.ac.uk -><email>

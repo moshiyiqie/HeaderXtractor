@@ -1,0 +1,5 @@
+An Analysis Framework for Ad Hoc Teamwork Tasks -><title>
+Samuel Barrett and Peter Stone -><author>
+Dept. of Computer Science -><affiliation>
+The University of Texas at Austin -><affiliation>
+Austin, TX 78712 USA{sbarrett, pstone}@cs.utexas.edu -><email>

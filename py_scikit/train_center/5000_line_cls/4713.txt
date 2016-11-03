@@ -1,0 +1,8 @@
+DOCSIS Performance Evaluation: -><title>
+Piggybacking versus Concatenation -><author>
+Stefen Howard -><author>
+Clemson University -><affiliation>
+100 McAdams Hall -><address>
+Clemson, S.C. 29634-0974 -><address>
++1 828 206 2453 -><phone>
+showard@cs.clemson.edu -><email>

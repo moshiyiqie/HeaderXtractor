@@ -1,0 +1,9 @@
+Towards a formalization of teamwork with resource constraints -><title>
+Praveen Paruchuri, Milind Tambe, Fernando Ordonez -><author>
+University of Southern California -><affiliation>
+Los Angeles, CA 90089 -><address>
+{paruchur,tambe,fordon}@usc.edu -><email>
+Sarit Kraus -><author>
+Bar-Ilan University -><affiliation>
+Ramat-Gan 52900, Israel -><address>
+sarit@macs.biu.ac.il -><email>

@@ -1,0 +1,14 @@
+Middleware Specialization using Aspect Oriented -><title>
+Programming -><title>
+Dimple Kaul -><author>
+Department of Electrical Engineering & -><affiliation>
+Computer Science -><affiliation>
+Vanderbilt University -><affiliation>
+Nashville, TN 37235 -><address>
+dkaul@dre.vanderbilt.edu -><email>
+Aniruddha Gokhale -><author>
+Department of Electrical Engineering & -><affiliation>
+Computer Science -><affiliation>
+Vanderbilt University -><affiliation>
+Nashville, TN 37235 -><address>
+gokhale@dre.vanderbilt.edu -><email>

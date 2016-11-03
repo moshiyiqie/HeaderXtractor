@@ -1,0 +1,14 @@
+An Agent-based Architecture for Distributed Interfaces and -><title>
+Timed Media in a Storytelling Application -><title>
+Jun Hu -><author>
+Media Interaction Group -><affiliation>
+Philips Research Laboratories -><affiliation>
+Prof. Holstlaan 4, -><address>
+5656AA Eindhoven, The Netherlands -><address>
+hu@natlab.research.philips.com -><affiliation>
+Loe Feijs -><author>
+Department of Industrial Design -><affiliation>
+Eindhoven University of Technology -><affiliation>
+Postbus 513 -><address>
+5600MB Eindhoven, The Netherlands -><address>
+l.m.g.feijs@tue.nl -><email>

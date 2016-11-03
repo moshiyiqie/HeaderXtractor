@@ -1,0 +1,12 @@
+A Commitment-based Communicative Act Library -><title>
+Mario Verdicchio -><author>
+Politecnico di Milano -><affiliation>
+Piazza Leonardo da Vinci 32 -><affiliation>
+Milano, Italia -><address>
+mario.verdicchio@polimi.it -><email>
+Marco Colombetti -><email>
+Politecnico di Milano -><author>
+Milano, Italia -><author>
+Universita` della Svizzera Italiana -><affiliation>
+Lugano, Switzerland -><address>
+marco.colombetti@polimi.it -><email>

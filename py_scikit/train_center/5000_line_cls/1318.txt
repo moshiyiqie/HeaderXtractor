@@ -1,0 +1,17 @@
+Study of Social Consciousness in Stochastic Agent›Based -><title>
+Simulations: Application to Supply Chains -><title>
+Brahim Chaib›draa -><author>
+DAMAS -><affiliation>
+Pav. Pouliot, Dpt. Informatique -><email>
+Univ. Laval, Quebec, Canada -><affiliation>
+chaib@ift.ulaval.ca -><email>
+Sophie d’Amours -><author>
+FOR@C & CENTOR -><email>
+Pav. Pouliot, Dpt. G. Mecanique -><address>
+Univ. Laval, Quebec, Canada -><address>
+sophie.damours@gmc.ulaval.ca -><email>
+Thierry Moyaux -><author>
+FOR@C & DAMAS -><email>
+Pav. Pouliot, Dpt. Informatique -><email>
+Univ. Laval, Quebec, Canada -><affiliation>
+moyaux@iad.ift.ulaval.ca -><email>

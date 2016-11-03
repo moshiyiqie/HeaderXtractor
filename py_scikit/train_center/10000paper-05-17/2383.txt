@@ -1,0 +1,23 @@
+How Credible is the Prediction of a Party-Based Election? -><title>
+∗ -><title>
+Yash Raj Shrestha -><title>
+ETH Zürich -><author>
+WEV H 313, Weinbergstr. -><pubnum>
+56/58 -><pubnum>
+8092 Zürich -><date>
+yshrestha@ethz.ch -><email>
+Yongjie Yang -><author>
+Universität des Saarlandes -><affiliation>
+Campus E 1.7 (MMCI), -><address>
+D-66123 Saarbrücken, -><address>
+Germany -><address>
+yyongjie@mmci.uni- -><email>
+saarland.de -><email>
+Jiong Guo -><author>
+Shandong University -><affiliation>
+School of Computer Science -><affiliation>
+and Technology -><affiliation>
+SunHua Road 1500, 250101 -><address>
+Jinan, China. -><address>
+jguo@mmci.uni- -><email>
+saarland.de -><email>

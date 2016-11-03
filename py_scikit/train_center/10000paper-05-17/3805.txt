@@ -1,0 +1,34 @@
+Implementing a Fuzzy Relational Database Using Community -><title>
+Defined Membership Values -><title>
+Karen L. Joy Smita Dattatri -><author>
+Department of Computer Science Department of Computer Science -><affiliation>
+School of Engineering School of Engineering -><affiliation>
+Virginia Commonwealth University Virginia Commonwealth University -><affiliation>
+Richmond, VA 23284 Richmond, VA 23284 -><address>
+joykl@vcu.edu dattatris@vcu.edu -><email>
+1. PROBLEM AND MOTIVATION -><pubnum>
+Most conventional databases in use today are based on the -><abstract>
+relational model. Values in a relation are taken from a finite set of -><abstract>
+strictly typed domain values. Each relation in the database -><abstract>
+represents a proposition and each record in a relation is a -><abstract>
+[3], [5]). It could be argued, however, that this required precision -><abstract>
+actually gives an insufficient representation of the world. The -><abstract>
+model is grounded in binary black-and-white but much of reality -><abstract>
+actually exists in shades of gray. As such, the conventional -><abstract>
+relational database model has limited usefulness. -><abstract>
+One area that illustrates this limitation is in the everyday, -><abstract>
+subjective language generally used to describe people. For -><abstract>
+difficult to represent under the conventional relational model both -><abstract>
+because it uses descriptive words that are inherently imprecise, -><abstract>
+and also because differing communities (i.e., groups with internal -><abstract>
+agreement on subjective meanings of these terms) may describe -><abstract>
+the same person differently. The purpose of this research project -><abstract>
+was to implement a relational database that represented images -><abstract>
+with imprecise attributes and that, by incorporating user feedback, -><abstract>
+would adapt the descriptions of the attributes so that the database -><abstract>
+appropriately represented the consensus of a particular user -><abstract>
+community. -><abstract>
+2. BACKGROUND AND RELATED WORK -><abstract>
+The traditional relational database model is based on precise -><abstract>
+values. The concept of fuzziness as seminally described by Zadeh -><abstract>
+[7], however, includes imprecision, uncertainty, and degrees of -><keyword>

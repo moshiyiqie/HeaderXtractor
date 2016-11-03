@@ -1,0 +1,7 @@
+Visualisation of Learning Management System Usage for Detecting -><title>
+Student Behaviour Patterns -><title>
+Thomas Haig Katrina Falkner Nickolas Falkner -><author>
+School of Computer Science -><affiliation>
+The University of Adelaide -><affiliation>
+North Terrace, South Australia -><address>
+Email: [thomas.haig,katrina.falkner,nickolas.falkner]@adelaide.edu.au -><email>

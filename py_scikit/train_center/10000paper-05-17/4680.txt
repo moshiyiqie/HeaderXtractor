@@ -1,0 +1,12 @@
+Designing Affective Computing Learning Companions -><title>
+with Teachers as Design Partners -><title>
+Sylvie Girard -><author>
+HCI Research lab, Department of Computer Science, -><affiliation>
+University of Bath, -><affiliation>
+Hilary Johnson -><author>
+HCI Research lab, Department of Computer Science, -><affiliation>
+University of Bath, -><affiliation>
+BA2 7AY BATH, UK, -><address>
+BA2 7AY BATH, UK, -><address>
+s.a.girard@bath.ac.uk -><email>
+h.johnson@bath.ac.uk -><email>

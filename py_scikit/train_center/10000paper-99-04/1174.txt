@@ -1,0 +1,34 @@
+Toward Natural Language Interfaces for Robotic Agents: -><title>
+Grounding Linguistic Meaning in Sensors -><title>
+T -><title>
+Computer -><title>
+Univers -><title>
+Amherst -><author>
+{oates,zwalker -><abstract>
+Even highly autonomous agents must be told what -><abstract>
+we want them to do. Ideally, we could communicate -><abstract>
+our goals to agents by talking with them, rather than -><abstract>
+encoding our goals in agent-specific knowledge repre- -><abstract>
+sentations. This paper explores one problem that lies -><abstract>
+in the way of this communicative ideal for robotic agents -><abstract>
+- the acquisition and grounding of linguistic meaning. -><abstract>
+How is it possible for a robot to identify and represent -><abstract>
+features of the physical world, as mediated by its ability -><abstract>
+to sense the world, that are relevant o understanding -><abstract>
+natural anguage utterances? -><abstract>
+This paper describes the results of an experiment -><abstract>
+in which human subjects generated unrestricted natu- -><abstract>
+ral language utterances to describe the activities of a -><abstract>
+Pioneer-1 mobile robot. A combination of word clus- -><abstract>
+tering applied to the utterances and a common subse- -><abstract>
+quence algorithm applied to the time series of sensor -><abstract>
+values recorded by the robot made it possible for the -><abstract>
+Pioneer-1 to identify and represent a variety of features -><abstract>
+of its environment to which the utterances referred. -><abstract>
+One problem we face is that natural languages en- -><abstract>
+code features of the world at various levels of abstrac- -><abstract>
+tion. For example, consider the difference between ask- -><abstract>
+ing a robot to push an object and asking a robot to -><abstract>
+shove an object. The meanings of push and shove are -><abstract>
+similar in that both involve contact between two enti- -><abstract>
+ties and the application of force by one entity to the -><abstract>

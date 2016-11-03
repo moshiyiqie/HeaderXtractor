@@ -1,0 +1,21 @@
+Behaviors that Emerge from Emotion and Cognition: -><title>
+Implementation and Evaluation of a Symbolic- -><title>
+Connectionist Architecture -><title>
+Randolph M. Jones, PhD -><author>
+Colby College & Soar Technology -><affiliation>
+5847 Mayflower Hill Drive -><address>
+Waterville, ME 04901-8858 -><address>
+207-872-3831 -><phone>
+rjones@soartech.com -><email>
+Eric Chown, PhD -><author>
+Bowdoin College -><affiliation>
+8650 College Station -><address>
+Brunswick, ME 04011 -><address>
+207-725-3084 -><phone>
+echown@bowdoin.edu -><email>
+Amy E. Henninger, PhD -><author>
+Soar Technology, Inc. -><affiliation>
+3361 Rouse Road Suite 240 -><address>
+Orlando, FL 32817 -><address>
+407 207 2237 -><phone>
+amy@soartech.com -><email>

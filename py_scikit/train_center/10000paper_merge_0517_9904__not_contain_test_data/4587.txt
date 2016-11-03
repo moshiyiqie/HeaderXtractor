@@ -1,0 +1,13 @@
+A Study in Language Identification -><title>
+Richard A. O’Keefe -><author>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+ok@cs.otago.ac.nz -><email>
+Rachel Mary Milne -><author>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+rmilne@cs.otago.ac.nz -><email>
+Andrew Trotman -><author>
+University of Otago -><affiliation>
+Dunedin, New Zealand -><address>
+andrew@cs.otago.ac.nz -><email>

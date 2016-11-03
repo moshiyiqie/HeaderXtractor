@@ -1,0 +1,13 @@
+The Use of Economic Models to Capture Importance -><title>
+Policy for Autonomic Database Management Systems -><title>
+Patrick Martin, Mingyi Zhang, Wendy Powley -><author>
+School of Computing -><affiliation>
+Harley Boughton, Paul Bird, Randy Horman -><author>
+IBM Toronto Lab -><affiliation>
+Markham, ON -><address>
+Canada -><address>
+1- 905-413-3523 -><phone>
+boughton@ca.ibm.com -><email>
+Canada -><address>
+1-613-533-6050 -><phone>
+martin@cs.queensu.ca -><email>

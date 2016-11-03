@@ -1,0 +1,16 @@
+Low-Energy Automated Scheduling of Computing Resources -><title>
+Christian Bodenstein -><author>
+Chair of Information Systems -><affiliation>
+Research -><address>
+Markus Hedwig -><author>
+Chair of Information Systems -><affiliation>
+Research -><address>
+Dirk Neumann -><author>
+Chair of Information Systems -><affiliation>
+Research -><address>
+christian.bodenstein@is.uni- -><email>
+freiburg.de -><email>
+markus.hedwig@is.uni- -><email>
+freiburg.de -><email>
+dirk.neumann@is.uni- -><email>
+freiburg.de -><web>

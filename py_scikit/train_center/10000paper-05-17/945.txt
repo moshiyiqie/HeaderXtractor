@@ -1,0 +1,4 @@
+Decision-Support for Real-Time Multi-Agent Coordination ∗ -><title>
+Rajiv T. Maheswaran, Craig M. Rogers, Romeo Sanchez and Pedro Szekely -><author>
+University of Southern California - Information Sciences Institute -><affiliation>
+4676 Admiralty Way #1001, Marina Del Rey, CA 90292 -><address>

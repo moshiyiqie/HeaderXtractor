@@ -1,0 +1,10 @@
+Formal Specification and Verification of Vehicular Handoff -><title>
+using -calculus -><title>
+Jayaraj Poroor -><author>
+Amrita Vishwa Vidyapeetham -><affiliation>
+India -><address>
+jayaraj@am.amrita.edu -><email>
+Bharat Jayaraman -><author>
+State University of New York at Buffalo -><affiliation>
+USA -><address>
+bharat@buffalo.edu -><email>

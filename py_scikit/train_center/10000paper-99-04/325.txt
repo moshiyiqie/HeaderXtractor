@@ -1,0 +1,8 @@
+Improve the Service Quality of Multi-agent System: -><title>
+Ontology Management -><title>
+Kwun-tak Ng, Qin Lu -><author>
+Department of Computing, -><affiliation>
+The Hong Kong Polytechnic University -><affiliation>
+Hung Hom, Kowloon, Hong Kong -><address>
+Tel: (852)-2766 4900 -><phone>
+{csktng, csluqin}@comp.polyu.edu.hk -><email>

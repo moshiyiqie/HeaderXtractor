@@ -1,0 +1,21 @@
+Timed-Rebeca Schedulability and Deadlock-Freedom -><affiliation>
+Analysis Using Floating-Time Transition System -><affiliation>
+Ehsan Khamespanah -><title>
+Zeynab Sabahi Kaviani -><title>
+Ramtin Khosravi -><author>
+School of Electrical and Computer -><affiliation>
+Engineering, University of Tehran -><affiliation>
+e.khamespanah@ece.ut.ac.ir -><email>
+School of Electrical and Computer -><affiliation>
+Engineering, University of Tehran -><affiliation>
+z.sabahi@ece.ut.ac.ir -><email>
+School of Electrical and Computer -><affiliation>
+Engineering, University of Tehran -><affiliation>
+r.khosravi@ut.ac.ir -><email>
+Marjan Sirjani -><unknow>
+Mohammad-Javad Izadi -><author>
+School of Computer Science, Reykjavik University -><affiliation>
+School of Electrical and Computer Engineering, -><affiliation>
+University of Tehran -><affiliation>
+m.j.izadi@ece.ut.ac.ir -><email>
+marjan@ru.is -><email>

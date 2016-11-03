@@ -1,0 +1,14 @@
+Towards A Semantic-based Approach for Software -><title>
+Reusable Component Classification and Retrieval -><title>
+Haining Yao -><author>
+Computer Science Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899, USA -><address>
++1 256 824 5139 -><phone>
+hyao@cs.uah.edu -><email>
+Letha Etzkorn -><author>
+Computer Science Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899, USA -><address>
++1 256 824 6291 -><phone>
+letzkorn@cs.uah.edu -><email>

@@ -1,0 +1,6 @@
+Qualitative Comparison of Systems Facilitating Data -><title>
+Structure Visualization -><title>
+Jhilmil Jain, James H. Cross II, and Dean Hendrix -><author>
+Department of Computer Science and Software Engineering -><affiliation>
+Auburn University, AL 36849 -><affiliation>
+{jainjhi, cross, hendrix} @ eng.auburn.edu -><email>

@@ -1,0 +1,11 @@
+Model Sharing in Multiagent Systems -><title>
+Gordon McCalla -><author>
+Department of Computer Science -><affiliation>
+University of Saskatchewan, Canada. -><affiliation>
+ARIES Lab -><affiliation>
+mccalla@cs.usask.ca -><email>
+Olayide Olorunleke -><author>
+Department of Computer Science -><affiliation>
+University of Saskatchewan, Canada. -><affiliation>
+ARIES Lab -><affiliation>
+oto033@cs.usask.ca -><email>

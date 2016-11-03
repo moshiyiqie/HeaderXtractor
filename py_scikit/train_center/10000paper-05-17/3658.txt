@@ -1,0 +1,17 @@
+Improving Molecular Fingerprint Similarity via -><title>
+Enhanced Folding -><title>
+Teng-Sheng Moh -><author>
+Computer Science Department -><affiliation>
+San Jose State University -><affiliation>
+San Jose, CA 95192-0249 -><address>
+Teng.Moh@sjsu.edu -><email>
+Diane Moh -><author>
+College of Pharmacy -><affiliation>
+Touro University -><affiliation>
+Vallejo, CA 94592 -><address>
+diane.moh@tu.edu -><email>
+Victor Chen -><author>
+Computer Science Department -><affiliation>
+San Jose State University -><affiliation>
+San Jose, CA 95192-0249 -><address>
+thevictorchen@gmail.com -><email>

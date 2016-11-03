@@ -1,0 +1,13 @@
+A Dynamic Mechanism for Time-Constrained Trading -><title>
+Samuel P. M. Choi -><author>
+Hong Kong Baptist University -><affiliation>
+Kowloon Tong, Kowloon -><affiliation>
+Hong Kong, China -><address>
+(852) 2339-7840 -><phone>
+samchoi@comp.hkbu.edu.hk -><email>
+Jiming Liu -><author>
+Hong Kong Baptist University -><affiliation>
+Kowloon Tong, Kowloon -><affiliation>
+Hong Kong, China -><address>
+(852) 2339-7088 -><phone>
+Jiming@comp.hkbu.edu.hk -><email>

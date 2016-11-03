@@ -1,0 +1,15 @@
+Challenges in Heterogeneous Web Data Analytics - -><title>
+Case Finnish Growth Companies in Social Media -><title>
+Jaakko Salonen -><author>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 3 -><address>
+33720 Tampere, Finland -><address>
+jaakko.salonen@tut.fi -><email>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 3 -><address>
+33720 Tampere, Finland -><address>
+jukka.huhtamaki@tut.fi -><email>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 3 -><address>
+33720 Tampere, Finland -><address>
+ossi.nykanen@tut.fi -><email>

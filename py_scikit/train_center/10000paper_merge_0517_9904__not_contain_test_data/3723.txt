@@ -1,0 +1,7 @@
+Ontology-Supported Sharing and Reuse of -><title>
+Knowledge in Diverse Environments -><title>
+Stanislav Ustymenko -><author>
+Department of Computer Science, Florida State University, -><affiliation>
+253 Love Building, Tallahassee, FL 32306-4530 -><address>
+ustymenk@cs.fsu.edu -><email>
+Faculty advisors: Dr. Daniel Schwartz, Dr. Ian Douglas -><email>

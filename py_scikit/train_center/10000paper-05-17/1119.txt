@@ -1,0 +1,13 @@
+Using Iterated Reasoning to Predict Opponent Strategies -><title>
+Michael Kaisers -><author>
+Maastricht University -><affiliation>
+michael.kaisers@maastrichtuniversity.nl -><author>
+Michael Wunder -><author>
+Rutgers University -><affiliation>
+mwunder@cs.rutgers.edu -><email>
+John Robert Yaros -><author>
+Rutgers University -><affiliation>
+yaros@cs.rutgers.edu -><email>
+Michael Littman -><author>
+Rutgers University -><affiliation>
+mlittman@cs.rutgers.edu -><email>

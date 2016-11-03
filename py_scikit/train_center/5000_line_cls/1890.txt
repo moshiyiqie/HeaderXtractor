@@ -1,0 +1,10 @@
+A Double Oracle Algorithm for Zero-Sum Security Games -><title>
+on Graphs -><title>
+Manish Jain∗, Dmytro Korzhyk†, Ondrˇej Vaneˇk+, Vincent Conitzer†, -><author>
+Michal Peˇchoucˇek+, Milind Tambe∗ -><author>
+∗ Computer Science Department, University of Southern California, Los Angeles, CA. 90089 -><affiliation>
+{manish.jain,tambe}@usc.edu -><email>
+† Department of Computer Science, Duke University, Durham, NC. 27708 -><affiliation>
+{dima,conitzer}@cs.duke.edu -><email>
++ Department of Cybernetics, Czech Technical University, Prague. Czech Republic. -><affiliation>
+{vanek,pechoucek}@agents.felk.cvut.cz -><email>

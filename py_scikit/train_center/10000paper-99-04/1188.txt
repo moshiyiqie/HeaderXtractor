@@ -1,0 +1,13 @@
+Customer Coalitions in the Electronic Marketplace -><title>
+Maksim Tsvetovat -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15232 USA -><address>
+maksim @cs.cmu.edu -><email>
+Katia Sycara -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15232 USA -><address>
+katia@cs.cmu.edu -><email>

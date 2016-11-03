@@ -1,0 +1,6 @@
+Topology in PVS -><title>
+Continuous Mathematics with Applications -><title>
+David R Lester -><author>
+School of Computer Science, Manchester University -><affiliation>
+Manchester M13 9PL, United Kingdom -><address>
+dlester@cs.man.ac.uk -><email>

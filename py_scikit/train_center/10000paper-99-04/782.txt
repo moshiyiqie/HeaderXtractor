@@ -1,0 +1,12 @@
+A Fluid Dynamics Approach to Multi-Robot Chemical Plume Tracing -><title>
+David R. Thayer -><author>
+Department of Physics and Astronomy -><affiliation>
+University of Wyoming -><affiliation>
+Laramie, WY 82071 -><address>
+Dimitri Zarzhitsky -><author>
+Diana F. Spears -><author>
+William M. Spears -><author>
+Department of Computer Science -><affiliation>
+University of Wyoming -><affiliation>
+Laramie, WY 82071 -><address>
+dimzar@uwyo.edu -><email>

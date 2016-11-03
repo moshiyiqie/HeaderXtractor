@@ -1,0 +1,5 @@
+Android Security Framework: -><title>
+Extensible Multi-Layered Access Control on Android -><title>
+Michael Backes, Sven Bugiel, Sebastian Gerling, Philipp von Styp-Rekowsky -><author>
+{backes,bugiel,sgerling,styp-rekowsky}@cs.uni-saarland.de -><email>
+Saarland University/CISPA, Germany -><affiliation>

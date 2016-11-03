@@ -1,0 +1,19 @@
+DISCOVERHISTORY: Understanding the Past in Planning -><title>
+and Execution -><title>
+Matthew Klenk -><author>
+Palo Alto Research Center -><affiliation>
+3333 Coyote Hill Road -><address>
+Palo Alto, CA 94304 USA -><address>
+Matthew.Klenk@parc.com -><email>
+Ugur Kuter -><unknow>
+Smart Information Flow -><author>
+Technologies -><affiliation>
+211 North 1st Street -><address>
+Minneapolis, MN 55401 USA -><address>
+ukuter@sift.net -><email>
+Matthew Molineaux -><author>
+Knexus Research Corporation -><affiliation>
+9120 Beachway Lane -><address>
+Springfield, VA 22153 USA -><address>
+matthew.molineaux -><email>
+@knexusresearch.com -><email>

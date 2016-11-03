@@ -1,0 +1,8 @@
+Work in Progress: Effects of Multiple Words on Ambiguity -><title>
+in Information Retrieval -><title>
+Clint Fuchs -><author>
+Dept. of Computer Science and Engineering -><affiliation>
+University of South Carolina -><affiliation>
+Swearingen Engineering Center -><affiliation>
+Columbia, SC 29208 -><address>
+clint@sc.edu -><email>

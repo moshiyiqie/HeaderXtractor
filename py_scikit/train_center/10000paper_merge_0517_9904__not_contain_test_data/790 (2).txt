@@ -1,0 +1,13 @@
+Towards a Methodology for Developing Agent-based Simulations: -><title>
+The MASim Methodology -><title>
+Anne M. P. Canuto -><author>
+Informatics Department -><affiliation>
+Federal University of RN -><affiliation>
+anne@dimap.ufrn.br -><email>
+Jorge H. C. Fernandes -><author>
+Informatics Department -><affiliation>
+Federal University of RN -><affiliation>
+jorge@dimap.ufrn.br -><email>
+Informatics Department -><affiliation>
+Federal University of RN -><affiliation>
+andre@dimap.ufrn.br -><email>

@@ -1,0 +1,17 @@
+SigMal: A Static Signal Processing Based Malware Triage -><title>
+Dhilung Kirat -><author>
+University of California, -><affiliation>
+Santa Barbara -><address>
+dhilung@cs.ucsb.edu -><email>
+Lakshmanan Nataraj -><author>
+University of California, -><affiliation>
+Santa Barbara -><address>
+lakshmanan_nataraj@ece.ucsb.edu -><email>
+B.S Manjunath -><author>
+University of California, -><affiliation>
+Santa Barbara -><address>
+manj@ece.ucsb.edu -><email>
+Giovanni Vigna -><author>
+University of California, -><affiliation>
+Santa Barbara -><address>
+vigna@cs.ucsb.edu -><email>

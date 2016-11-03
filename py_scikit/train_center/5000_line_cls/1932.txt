@@ -1,0 +1,10 @@
+Agent-mediated Multi-step Optimization for Resource -><title>
+Allocation in Distributed Sensor Networks -><title>
+Bo An, Victor Lesser, David Westbrook -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts, Amherst, USA -><affiliation>
+{ban,lesser,westy}@cs.umass.edu -><email>
+Michael Zink -><author>
+Dept. of Electrical and Computer Engineering -><affiliation>
+University of Massachusetts, Amherst, USA -><affiliation>
+zink@ecs.umass.edu -><email>

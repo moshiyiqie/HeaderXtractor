@@ -1,0 +1,11 @@
+MoRePriv: Mobile OS Support for Application -><title>
+Personalization and Privacy -><title>
+Benjamin Livshits -><author>
+Microsoft Research -><affiliation>
+livshits@microsoft.com -><email>
+Matt Fredrikson -><author>
+University of Wisconsin -><affiliation>
+mfredrik@cs.wisc.edu -><email>
+Drew Davidson -><author>
+University of Wisconsin -><affiliation>
+davidson@cs.wisc.edu -><email>

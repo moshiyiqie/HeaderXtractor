@@ -1,0 +1,4 @@
+Minimal Finite Automata from Finite Training Sets -><title>
+Bennett Setzer -><author>
+Kennesaw State University -><affiliation>
+bsetzer@kennesaw.edu -><email>

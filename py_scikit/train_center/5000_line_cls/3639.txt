@@ -1,0 +1,19 @@
+Security Policy Implementation using Connection and -><title>
+Event Log to achieve Network Access Control -><title>
+Jimit Mahadevia -><author>
+Elitecore Technologies Ltd, -><affiliation>
+Ahmedabad, India -><address>
++91-9825010427 -><phone>
+jimitm@yahoo.com -><email>
+Shalvi Dave -><author>
+IITE -><affiliation>
+Ahmedabad, India -><address>
++91-9662033609 -><phone>
+daveshalvi@yahoo.com -><email>
+Bhushan Trivedi -><phone>
+GLSICT -><affiliation>
+Ahmedabad, India -><address>
++91-8866743251 -><phone>
+bhtrivedi@yahoo.com -><email>
+Page -><author>
+29 -><pubnum>

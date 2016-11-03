@@ -1,0 +1,6 @@
+Cooperation -><title>
+Yu Zhang Richard A. Volz and Thomas R. Ioerger -><author>
+Department of Computer Science Department of Computer Science -><affiliation>
+Trinity University Texas A&M University -><affiliation>
+San Antonio, TX 77812, USA College Station, TX 77843-3112, USA -><affiliation>
+yzhang@cs.trinity.edu {volz, ioerger}@cs.tamu.edu -><email>

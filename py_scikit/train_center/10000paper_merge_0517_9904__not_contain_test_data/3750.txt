@@ -1,0 +1,6 @@
+Power Sensitive Power Control in Ad Hoc Networks -><title>
+Natarajan Meghanathan Andras Farago -><author>
+Graduate Student Professor -><author>
+Department of Computer Science Department of Computer Science -><affiliation>
+University of Texas at Dallas University of Texas at Dallas -><affiliation>
+E-mail: nxm023000@utdallas.edu E-mail: farago@utdallas.edu -><email>

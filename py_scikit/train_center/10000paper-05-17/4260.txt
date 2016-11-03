@@ -1,0 +1,8 @@
+Multi-vendor Penetration Testing in the -><title>
+Advanced Metering Infrastructure -><title>
+Stephen McLaughlin, Dmitry Podkuiko, Sergei Miadzvezhanka, -><author>
+Adam Delozier, and Patrick McDaniel -><author>
+Department of Computer Science and Engineering -><affiliation>
+Pennsylvania State University -><affiliation>
+University Park, PA 16802 -><affiliation>
+{smclaugh,podkuiko,swm5344,delozier,mcdaniel}@cse.psu.edu -><email>

@@ -1,0 +1,13 @@
+Investigation of Software Patterns of User Experience -><title>
+Tim Marsh -><author>
+Keio-NUS CUTE Center -><affiliation>
+National Univ. of Singapore -><affiliation>
+tmarsh@nus.edu.sg -><email>
+Yih-Lun Huang -><author>
+Keio-NUS CUTE Center -><affiliation>
+National Univ. of Singapore -><affiliation>
+ylhuang@nus.edu.sg -><email>
+Adrian David Cheok -><author>
+Keio-NUS CUTE Center -><affiliation>
+National Univ. of Singapore -><affiliation>
+elecad@nus.edu.sg -><email>

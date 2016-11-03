@@ -1,0 +1,23 @@
+ParaMoise: Increasing Capabilities of Parallel Execution -><title>
+and Reorganization in an Organizational Model -><title>
+Mateusz Guzek -><title>
+Interdisciplinary Centre for -><author>
+Security, Reliability and Trust, -><author>
+University of Luxembourg -><affiliation>
+6, rue R. Coudenhove-Kalergi -><address>
+Luxembourg, Luxembourg -><address>
+mateusz.guzek@uni.lu -><email>
+Pascal Bouvry -><author>
+Computer Science and -><affiliation>
+Communications Research -><affiliation>
+Unit, University of Luxembourg -><affiliation>
+6, rue R. Coudenhove-Kalergi -><address>
+Luxembourg, Luxembourg -><address>
+pascal.bouvry@uni.lu -><email>
+Grégoire Danoy -><author>
+Computer Science and -><affiliation>
+Communications Research -><affiliation>
+Unit, University of Luxembourg -><affiliation>
+6, rue R. Coudenhove-Kalergi -><address>
+Luxembourg, Luxembourg -><address>
+gregoire.danoy@uni.lu -><email>

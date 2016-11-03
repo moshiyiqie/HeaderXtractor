@@ -1,0 +1,25 @@
+Trust in Information Sources as a Source for Trust: A -><title>
+Fuzzy Approach1 -><title>
+Cristiano Castelfranchi -><author>
+Giovanni Pezzulo -><author>
+Rino Falcone -><author>
+Istituto di Scienze e -><author>
+Tecnologie della Cognizione -><author>
+- CNR -><affiliation>
+viale Marx, 15 - Roma -><address>
+++39 06 86890211 -><phone>
+falcone@ip.rm.cnr.it -><email>
+Istituto di Scienze e -><author>
+Tecnologie della Cognizione -><author>
+- CNR -><affiliation>
+viale Marx, 15 - Roma -><address>
+++39 06 86890518 -><phone>
+castel@ip.rm.cnr.it -><email>
+Istituto di Scienze e -><unknow>
+Tecnologie della Cognizione -><author>
+- CNR -><affiliation>
+viale Marx, 15 - Roma -><address>
+++39 06 86890208 -><phone>
+pezzulo@ip.rm.cnr.it -><email>
+1 This paper has been partially founded by the ALFEBIITE European Project (IST-1999-10298); by the Progetto MIUR 40% "Agenti -><note>
+software e commercio elettronico" and by the PAR project of the University of Siena. -><note>

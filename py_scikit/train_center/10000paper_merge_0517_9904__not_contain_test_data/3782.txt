@@ -1,0 +1,15 @@
+Using Jini to Enable Pervasive Computing Environments -><title>
+Karthik Harihar -><author>
+Stan Kurkovsky -><author>
+Department of Computer Science -><affiliation>
+Department of Computer Science -><affiliation>
+Columbus State University -><affiliation>
+Columbus State University -><affiliation>
+4225 University Avenue -><affiliation>
+4225 University Avenue -><affiliation>
+Columbus, GA 31907 -><address>
+Columbus, GA 31907 -><address>
+1-706-568-2410 -><phone>
+1-706-565-3520 -><pubnum>
+Harihar_Karthik@colstate.edu -><email>
+Kurkovsky_Stan@colstate.edu -><email>

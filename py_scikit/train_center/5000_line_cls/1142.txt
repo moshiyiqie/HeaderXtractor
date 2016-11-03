@@ -1,0 +1,10 @@
+Modeling Complex Multi-Issue Negotiations -><title>
+Using Utility Graphs -><title>
+Valentin Robu -><author>
+robu@cwi.nl -><email>
+D.J.A. Somefun -><email>
+koye@cwi.nl -><email>
+J.A. La Poutre´ -><author>
+hlp@cwi.nl -><email>
+CWI, Dutch National Research Center for Mathematics and Computer Science -><affiliation>
+Kruislaan 413, NL-1098 SJ Amsterdam, The Netherlands -><address>

@@ -1,0 +1,17 @@
+A Semantic Framework for Socially Adaptive Agents -><title>
+Towards strong norm compliance -><title>
+∗ -><title>
+M. Birna van Riemsdijk -><author>
+Delft University of Technology, -><affiliation>
+The Netherlands -><address>
+m.b.vanriemsdijk@tudelft.nl -><email>
+† -><unknow>
+Louise Dennis -><author>
+University of Liverpool, UK -><affiliation>
+l.a.dennis@liverpool.ac.uk -><email>
+Michael Fisher -><author>
+University of Liverpool, UK -><affiliation>
+mfisher@liverpool.ac.uk -><email>
+Koen V. Hindriks -><author>
+Delft University of Technology -><affiliation>
+k.v.hindriks@tudelft.nl -><email>

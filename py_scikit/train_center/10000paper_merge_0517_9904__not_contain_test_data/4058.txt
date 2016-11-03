@@ -1,0 +1,12 @@
+When Less is More: -><title>
+Implementing Optional Features -><title>
+John M. Hunt -><author>
+Covenant College -><affiliation>
+145 Mills Hall -><address>
+Lookout Mountain, GA -><address>
+john.hunt@covenant.edu -><email>
+John D. McGregor -><author>
+Clemson University -><affiliation>
+312 McAdams Hall -><address>
+Clemson, SC -><address>
+johnmc@cs.clemson.edu -><email>

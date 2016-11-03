@@ -1,0 +1,12 @@
+Classifying Groupware -><title>
+Jonathan D. Fouss, Kai H. Chang -><author>
+Department of Computer Science and Software Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, AL 36849-5347 -><address>
+{ foussj d,kchang} @eng. auburn.edu -><email>
+Abst -><author>
+topic of great debate and is often very broad. This allows -><abstract>
+many types of software to earn the name groupware but -><abstract>
+makes it very difficult to compare applications and to do -><abstract>
+any kind of background research in the field. This paper -><abstract>
+attempts to bring some organization to the chaos and serve -><abstract>

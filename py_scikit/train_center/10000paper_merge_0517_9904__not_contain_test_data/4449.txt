@@ -1,0 +1,6 @@
+Differentially Private Data Aggregation with Optimal Utility -><title>
+Fabienne Eigner† Aniket Kate‡ Matteo Maffei† -><author>
+Francesca Pampaloni∗ Ivan Pryvalov† -><author>
+†CISPA, Saarland University, Germany — {eigner,maffei,pryvalov}@cs.uni-saarland.de -><affiliation>
+‡MMCI, Saarland University, Germany — aniket@mmci.uni-saarland.de -><affiliation>
+∗francesca.pampaloni@alumni.imtlucca.it -><email>

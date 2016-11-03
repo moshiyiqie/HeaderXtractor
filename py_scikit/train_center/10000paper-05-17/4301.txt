@@ -1,0 +1,24 @@
+Understanding the Prevalence and Use of Alternative -><title>
+Plans in Malware with Network Games -><title>
+Manos Antonakakis -><author>
+Damballa Inc. -><affiliation>
+Atlanta, GA 30308, USA -><address>
+manos@damballa.com -><email>
+Yacin Nadji -><author>
+College of Computing -><affiliation>
+Georgia Institute of -><affiliation>
+Technology -><affiliation>
+Atlanta, GA 30602, USA -><address>
+yacin.nadji@cc.gatech.edu -><email>
+Roberto Perdisci -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Georgia -><affiliation>
+Athens, GA 30602, USA -><address>
+perdisci@cs.uga.edu -><email>
+Wenke Lee -><author>
+College of Computing -><affiliation>
+Georgia Institute of -><affiliation>
+Technology -><affiliation>
+Atlanta, GA 30602, USA -><address>
+wenke@cc.gatech.edu -><email>

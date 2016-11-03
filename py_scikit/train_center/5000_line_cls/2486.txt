@@ -1,0 +1,2 @@
+A Game-theoretic Model and Best-response Learning -><title>
+Method for Ad Hoc Coordination in Multiagent Systems -><title>

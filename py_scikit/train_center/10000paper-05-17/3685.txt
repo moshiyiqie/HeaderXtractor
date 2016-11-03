@@ -1,0 +1,10 @@
+A GUI for Intrusion Detection and -><title>
+Related Experiences -><title>
+Larry Lee Reynolds Jr -><author>
+Advisors: -><author>
+Radford University -><affiliation>
+Dr. R. W. Tibbs -><author>
+Department of Information Technology, -><affiliation>
+Dr. E. J. Derrick -><author>
+Radford, VA 24142 -><address>
+lreynolds@radford.edu -><email>

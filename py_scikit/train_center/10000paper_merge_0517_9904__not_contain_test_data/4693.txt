@@ -1,0 +1,8 @@
+Modelling and test generation using SAL for -><title>
+interoperability testing in Consumer Electronics -><title>
+Srikanth Mujjiga -><title>
+Philips Research Asia - Bangalore -><author>
+srikanth.mujjiga@philips.com -><email>
+Srihari Sukumaran -><author>
+Philips Research Asia - Bangalore -><affiliation>
+srihari.sukumaran@philips.com -><email>

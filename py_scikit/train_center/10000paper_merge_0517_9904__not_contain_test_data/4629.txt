@@ -1,0 +1,17 @@
+Assessing the Cognitive Complexity of Information Needs -><title>
+Peter Bailey -><author>
+Microsoft, -><affiliation>
+Australia -><address>
+pbailey@microsoft.com -><email>
+Alistair Moffat -><author>
+The University of Melbourne, -><affiliation>
+Australia -><address>
+ammoffat@unimelb.edu.au -><email>
+Paul Thomas -><author>
+CSIRO, -><affiliation>
+Australia -><address>
+paul.thomas@csiro.au -><email>
+Falk Scholer -><author>
+RMIT University, -><affiliation>
+Australia -><address>
+falk.scholer@rmit.edu.au -><email>

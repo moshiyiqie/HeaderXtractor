@@ -1,0 +1,6 @@
+Interfacing Agents with an Industrial Assembly System for -><title>
+“Plug and Produce” -><title>
+(Demonstration) -><title>
+Nikolas Antzoulatos Elkin Castro Lavindra de Silva Svetan Ratchev -><author>
+Institute for Advanced Manufacturing, University of Nottingham, Nottingham, UK -><affiliation>
+{nikolas.antzoulatos, elkin.castro, lavindra.desilva, svetan.ratchev}@nottingham.ac.uk -><email>

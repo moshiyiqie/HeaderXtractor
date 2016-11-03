@@ -1,0 +1,10 @@
+Evaluating Power of Agents -><title>
+from Dependence Relations in Boolean Games -><title>
+Jonathan Ben-Naim -><author>
+IRIT-CNRS -><affiliation>
+Toulouse University, France -><affiliation>
+bennaim@irit.fr -><email>
+Emiliano Lorini -><unknow>
+IRIT-CNRS -><author>
+Toulouse University, France -><affiliation>
+lorini@irit.fr -><email>

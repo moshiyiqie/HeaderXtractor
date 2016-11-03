@@ -1,0 +1,12 @@
+Reaching Correlated Equilibria Through -><title>
+Multi-agent Learning -><title>
+Ludek Cigler -><title>
+Ecole Polytechnique Fédérale de Lausanne -><author>
+Artificial Intelligence Laboratory -><affiliation>
+CH-1015 Lausanne, Switzerland -><address>
+ludek.cigler@epfl.ch -><email>
+Boi Faltings -><unknow>
+Ecole Polytechnique Fédérale de Lausanne -><author>
+Artificial Intelligence Laboratory -><affiliation>
+CH-1015 Lausanne, Switzerland -><address>
+boi.faltings@epfl.ch -><email>

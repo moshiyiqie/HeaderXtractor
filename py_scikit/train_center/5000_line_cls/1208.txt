@@ -1,0 +1,6 @@
+Modeling Task Allocation Using a Decision Theoretic -><title>
+Model -><title>
+Sherief Abdallah and Victor Lesser -><author>
+University of Massachusetts, Amherst -><affiliation>
+MAS Laboratory -><affiliation>
+{shario,lesser}@cs.umass.edu -><email>

@@ -1,0 +1,34 @@
+Cost-Effective Heterogeneous Web Clusters -><title>
+Markus A. Hitz Farhan Mashraqi -><author>
+Department of Mathematics and Computer Science -><affiliation>
+North Georgia College & State University -><affiliation>
+Dahlonega, GA 30597, USA -><address>
++1-706-864-1806 -><phone>
+mahitz@ngcsu.edu mashraqi@designerz.com -><email>
+summarizes some of the results in this area, including a taxonomy -><abstract>
+Categories and Subject Descriptors -><keyword>
+H.3.5 [Information Systems]: Information Storage and Retrieval -><keyword>
+Computer-Communication Networks - distributed systems. K3.2 -><keyword>
+science education, information systems education. -><affiliation>
+General Terms -><keyword>
+Performance, Design, Experimentation, Security. -><keyword>
+Keywords -><keyword>
+Heterogeneous clusters, web, network address translation. -><note>
+1. PROBLEM AND MOTIVATION -><note>
+Clustering of servers is commonly employed for the purpose of -><abstract>
+increasing availability, and performance of web sites. In general, -><affiliation>
+the cluster consists of computers that are homogeneous in terms -><abstract>
+of applications and hardware in order to facilitate scalability, fail- -><abstract>
+over redundancy, and ease of load balancing. Typically, major -><abstract>
+Internet service providers, and large corporations use such sys- -><abstract>
+tems. On the other hand, educational institutions and small busi- -><abstract>
+ness are faced with the task of providing various web-based ser- -><abstract>
+vices on a small budget, and with limited resources. We describe -><abstract>
+the design and implementation of an architecture that we devel- -><abstract>
+oped for teaching web programming courses. The system is based -><abstract>
+on a heterogeneous cluster of servers, providing an extensible -><abstract>
+platform at a very reasonable cost. It is also suited for small busi- -><abstract>
+2. BACKGROUND AND RELATED WORK -><abstract>
+The second half of the nineties, and the beginning of this century -><abstract>
+have seen considerable research in distributed computing, and -><abstract>
+development of clustered servers. The ACM survey article [1] -><note>

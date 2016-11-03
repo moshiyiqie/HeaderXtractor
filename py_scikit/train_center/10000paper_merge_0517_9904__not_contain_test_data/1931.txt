@@ -1,0 +1,6 @@
+An Evolutionary Model for Constructing -><title>
+Robust Trust Networks -><title>
+Siwei Jiang Jie Zhang Yew-Soon Ong -><author>
+School of Computer Engineering -><affiliation>
+Nanyang Technological University, Singapore, 639798 -><affiliation>
+{sjiang1, zhangj, asysong}@ntu.edu.sg -><email>

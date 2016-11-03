@@ -1,0 +1,6 @@
+Learning and Predicting Dynamic Networked Behavior -><title>
+with Graphical Multiagent Models -><title>
+Quang Duong† Michael P. Wellman† Satinder Singh† Michael Kearns∗ -><author>
+{qduong,wellman,baveja}@umich.edu mkearns@cis.penn.edu -><email>
+†Computer Science and Engineering, University of Michigan -><affiliation>
+∗Computer and Information Science, University of Pennsylvania -><affiliation>

@@ -1,0 +1,19 @@
+Distributed Smart Camera Network and Mobile Devices -><title>
+Sumit Kumar -><author>
+Department of Computer Science and -><affiliation>
+Engineering -><affiliation>
+Indian Institute of Technology -><affiliation>
+Guwahati, India -><address>
+sumit.kr@iitg.ernet.in -><email>
+Sukumar Nandi -><author>
+Department of Computer Science and -><affiliation>
+Engineering -><affiliation>
+Indian Institute of Technology -><affiliation>
+Guwahati, India -><address>
+sukumar@iitg.ernet.in -><email>
+Santosh Kumar -><author>
+Department of Computer Science and -><affiliation>
+Engineering -><affiliation>
+Indian Institute of Technology -><affiliation>
+Guwahati, India -><address>
+santosh.kr@iitg.ernet.in -><email>

@@ -1,0 +1,19 @@
+Homogeneity and Monotonicity of Distance-Rationalizable -><title>
+Voting Rules -><title>
+Arkadii Slinko -><author>
+Department of Mathematics -><affiliation>
+University of Auckland -><affiliation>
+New Zealand -><address>
+slinko@math.auckland.ac.nz -><email>
+Edith Elkind -><author>
+School of Physical and -><affiliation>
+Mathematical Sciences -><unknow>
+Nanyang Technological -><author>
+University, Singapore -><affiliation>
+eelkind@ntu.edu.sg -><email>
+Piotr Faliszewski -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+AGH University of Science -><affiliation>
+and Technology, Poland -><affiliation>
+faliszew@agh.edu.pl -><email>

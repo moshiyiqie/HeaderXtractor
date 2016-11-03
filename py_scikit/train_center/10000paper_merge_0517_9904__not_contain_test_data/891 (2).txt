@@ -1,0 +1,9 @@
+A Study of User Responses in a Spoken Language System with Implicit -><title>
+Confirmation -><title>
+Taja Weatherspoon, Kevin Bartholomew -><author>
+Advisor: Dr. Clement Allen -><author>
+Department of Computer and Information Sciences -><affiliation>
+Florida A&M University -><affiliation>
+Tallahassee, FL 32307 -><address>
+(850) 599-3050 -><phone>
+{tweather, kbart, allen} @cis.famu.edu -><email>

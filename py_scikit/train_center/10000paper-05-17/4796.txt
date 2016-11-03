@@ -1,0 +1,8 @@
+Programming Abstractions for Integrating Autonomous -><title>
+and Reactive Behaviors: An Agent-Oriented Approach -><title>
+Alessandro Ricci -><author>
+Andrea Santi -><author>
+University of Bologna, Italy -><affiliation>
+University of Bologna, Italy -><affiliation>
+a.ricci@unibo.it -><email>
+a.santi@unibo.it -><email>

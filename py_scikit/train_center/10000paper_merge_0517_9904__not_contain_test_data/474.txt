@@ -1,0 +1,16 @@
+Self-Organization through Bottom-up Coalition Formation∗ -><title>
+Mark Sims -><author>
+Dept. of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003 USA -><address>
+msims@cs.umass.edu -><email>
+Claudia V. Goldman -><author>
+Dept. of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003 USA -><address>
+clag@cs.umass.edu -><email>
+Victor Lesser -><author>
+Dept. of Computer Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003 USA -><address>
+lesser@cs.umass.edu -><email>

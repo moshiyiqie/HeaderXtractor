@@ -1,0 +1,21 @@
+Swarm Robot Foraging with Wireless Sensor Motes -><title>
+Michael Schader -><author>
+Dept. Computer Science -><affiliation>
+George Mason University -><affiliation>
+Fairfax, Virginia USA -><address>
+mschader@gmu.edu -><email>
+Katherine Russell -><author>
+Dept. Computer Science -><affiliation>
+George Mason University -><affiliation>
+Fairfax, Virginia USA -><address>
+krussellc@gmu.edu -><email>
+Sean Luke -><author>
+Dept. Computer Science -><affiliation>
+George Mason University -><affiliation>
+Fairfax, Virginia, USA -><address>
+sean@cs.gmu.edu -><email>
+Kevin Andrea -><author>
+Dept. Computer Science -><affiliation>
+George Mason University -><affiliation>
+Fairfax, Virginia USA -><address>
+kandrea@gmu.edu -><email>

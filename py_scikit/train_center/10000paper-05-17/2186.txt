@@ -1,0 +1,24 @@
+Logic-based and Robust Decision Making for Robots -><title>
+in Real World -><title>
+(Demonstration) -><title>
+Yuki Goto -><author>
+Research Institute for -><affiliation>
+Mathematical Sciences, Kyoto -><affiliation>
+University, Kyoto, JAPAN -><affiliation>
+Naoyuki Nide -><address>
+Faculty, Division of Natural -><affiliation>
+Sciences, Nara Women’s -><author>
+University, Nara, JAPAN -><affiliation>
+Megumi Fujita -><degree>
+Graduate School of Humanities -><degree>
+and Sciences, Nara Women’s -><degree>
+University, Nara, JAPAN -><affiliation>
+saboten@ics.nara-wu.ac.jp -><email>
+Ken Satoh -><author>
+Principles of Informatics Research -><affiliation>
+Division, National Institute of -><affiliation>
+Informatics, Tokyo, JAPAN -><affiliation>
+Hiroshi Hosobe -><degree>
+Faculty of Computer and -><degree>
+Information Sciences, Hosei -><degree>
+University, Tokyo, JAPAN -><affiliation>

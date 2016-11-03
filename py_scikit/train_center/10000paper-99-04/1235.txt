@@ -1,0 +1,11 @@
+Designing Agents from Reusable Components -><title>
+Jun Lang Renato Levy -><author>
+Intelligent Automation Inc. -><affiliation>
+2 Research Place #202, Rockville MD, 20850, USA -><address>
+Kutluhan Erol -><author>
+Brightware, Inc. -><affiliation>
+350 Ignacio BIv. Novato CA 94949 USA -><address>
++1(415) 506 4270 -><phone>
+Kutluhan.Erol@Brightware.com -><email>
++1(301) 590 3155 -><phone>
+j lang@i-a-i.corn rlevy@i-a-i.com -><email>

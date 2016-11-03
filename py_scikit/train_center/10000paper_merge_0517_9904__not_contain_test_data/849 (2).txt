@@ -1,0 +1,6 @@
+The Effect of Stereoscopic Viewing of a Virtual Space -><title>
+on a Networked Game Using Haptic Media -><title>
+Masaki Fujimoto and Yutaka Ishibashi -><author>
+Department of Computer Science and Engineering, -><affiliation>
+Nagoya Institute of Technology, Nagoya 466-8555, Japan -><affiliation>
+zeal@mcl.elcom.nitech.ac.jp, ishibasi@nitech.ac.jp -><email>

@@ -1,0 +1,10 @@
+Determining the Usefulness of Information from Its Use -><title>
+During Problem Solving -><title>
+Elise H. Turner -><author>
+Computer Science Department -><author>
+University of Maine -><affiliation>
+eht@umcs, maine.edu -><email>
+John Phelps -><author>
+Computer Science Department -><affiliation>
+University of Maine -><affiliation>
+phelpsOO@umcs.maine.edu -><email>

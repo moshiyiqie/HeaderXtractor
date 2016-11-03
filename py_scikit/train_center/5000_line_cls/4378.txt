@@ -1,0 +1,8 @@
+Remote Sensing Image Information Mining with -><title>
+HPC Cluster and DryadLINQ -><title>
+Jiang Li -><author>
+Department of Computer Science and Information Technology -><affiliation>
+Austin Peay State University -><affiliation>
+Clarksville, TN 37044 -><address>
+Tel: 1-931-221-7828 -><phone>
+Email: lij@apsu.edu -><email>

@@ -1,0 +1,25 @@
+Distributing Podcasts in Disconnected Areas -><title>
+(Demonstration) -><title>
+∗ -><title>
+Sergi Robles -><author>
+Department of Information and -><affiliation>
+Communications Engineering -><affiliation>
+(dEIC) -><affiliation>
+Universitat Autónoma de -><affiliation>
+Barcelona (UAB) -><affiliation>
+sergi.robles@deic.uab.cat -><email>
+Carlos Borrego -><author>
+Department of Information and -><affiliation>
+Communications Engineering -><degree>
+(dEIC) -><degree>
+Universitat Autónoma de -><affiliation>
+Barcelona (UAB) -><affiliation>
+carlos.borrego@deic.uab.cat -><email>
+Adrián -><note>
+Sánchez-Carmona -><unknow>
+Department of Information and -><degree>
+Communications Engineering -><degree>
+(dEIC) -><degree>
+Universitat Autónoma de -><affiliation>
+Barcelona (UAB) -><affiliation>
+adria.sanchez@deic.uab.cat -><email>

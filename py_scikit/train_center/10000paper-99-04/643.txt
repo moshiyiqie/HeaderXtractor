@@ -1,0 +1,9 @@
+Groups as Agents with Mental Attitudes -><title>
+Guido Boella -><author>
+Dipartimento di Informatica -><affiliation>
+Universita` di Torino - Italy -><affiliation>
+e-mail: guido@di.unito.it -><email>
+Leendert van der Torre -><author>
+CWI-Amsterdam and -><affiliation>
+Delft University of Technology -><affiliation>
+e-mail: torre@cwi.nl -><email>

@@ -1,0 +1,7 @@
+The Effects of Cooperation on Multiagent Search in -><title>
+Task-Oriented Domains ∗ -><title>
+Jose´ M. Vidal -><author>
+Computer Science and Engineering -><affiliation>
+University of South Carolina -><affiliation>
+Columbia, SC 29208 -><address>
+vidal@sc.edu -><email>

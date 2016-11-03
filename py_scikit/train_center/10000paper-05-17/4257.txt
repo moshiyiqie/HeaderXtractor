@@ -1,0 +1,10 @@
+Region Pointcut for AspectJ -><title>
+Muga Nishizawa -><author>
+Rakuten, Inc. -><affiliation>
+muga.nishizawa@mail.rakuten.co.jp -><email>
+Shumpei Akai -><author>
+Tokyo Institute of Technology -><affiliation>
+akai@csg.is.titech.ac.jp -><email>
+Shigeru Chiba -><author>
+Tokyo Institute of Technology -><affiliation>
+chiba@is.titech.ac.jp -><email>

@@ -1,0 +1,6 @@
+FAPA: A Model to Prevent Flooding Attacks in Clouds -><title>
+Kazi Zunnurhain -><author>
+Department of Computer Science -><affiliation>
+The University of Alabama -><affiliation>
+Tuscaloosa, AL 35487-0290 -><address>
+kzunnurhain@crimson.ua.edu -><email>

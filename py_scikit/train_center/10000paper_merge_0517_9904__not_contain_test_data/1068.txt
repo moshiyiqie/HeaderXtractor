@@ -1,0 +1,6 @@
+Cooperation through Reciprocity in Multiagent Systems: -><title>
+An Evolutionary Analysis -><title>
+Christian Hütter and Klemens Böhm -><author>
+Institute for Program Structures and Data Organization -><affiliation>
+Karlsruhe Institute of Technology, Germany -><affiliation>
+[christian.huetter, klemens.boehm]@kit.edu -><email>

@@ -1,0 +1,19 @@
+A Parallel Unstructured Chimera Grid Method -><title>
+P.G. Richards -><author>
+University of Alabama in Huntsville -><affiliation>
+Computer Science Department -><affiliation>
+X. Zhao -><author>
+University of Alabama in Huntsville -><affiliation>
+Computer Science Department -><affiliation>
+S.J. Zhang -><address>
+CFD Research Corporation -><affiliation>
+215 Wynn Drive -><address>
+Huntsville, AL 35805, USA -><address>
+1-256-726-4838 -><phone>
+sz@cfdrc.com -><email>
+Huntsville, AL 35899, USA -><address>
+1-256-653-9141 -><phone>
+richards@cs.uah.edu -><email>
+Huntsville, AL 35899, USA -><address>
+1-256-824-5124 -><phone>
+xzhao@cs.uah.edu -><email>

@@ -1,0 +1,6 @@
+Resource-Constrained Loop Scheduling -><title>
+In High-Level Synthesis -><title>
+Rehab F. Abdel-Kader -><author>
+Engineering Studies, School of Technology -><affiliation>
+Georgia Southern University, Statesboro, Georgia 30460 -><affiliation>
+rabdelka@georgiasouthern.edu -><email>

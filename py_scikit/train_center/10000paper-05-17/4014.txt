@@ -1,0 +1,6 @@
+Test-Driven Specification: Paradigm and Automation -><title>
+Edward L. Jones -><author>
+Florida A&M University -><affiliation>
+Tallahassee, Florida -><address>
+850-599-3050 USA -><address>
+ejones@cis.famu.edu -><email>

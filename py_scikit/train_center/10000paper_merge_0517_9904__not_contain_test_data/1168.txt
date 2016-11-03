@@ -1,0 +1,34 @@
+The Knowledge Agency -><title>
+Stefan Haustein, Sascha L/idecke -><author>
+Christian Schwering -><author>
+AI Department -><affiliation>
+GEBIT mbH -><affiliation>
+University of Dortmund -><affiliation>
+Cicerostrage 37 -><address>
+44221 Dortmund, Germany -><address>
+10709 Berlin, Germany -><address>
+{haustein, luedecke}@ -><email>
+christian, schwering@gebit, de -><email>
+is8. cs. uni-dortmund, de -><email>
+O ,m -><abstract>
+._o -><abstract>
+Q. -><abstract>
+c~ -><abstract>
+< -><abstract>
+The COMRIS project (Co-Inhabited -><abstract>
+Mixed Reality Information Spaces) is -><abstract>
+intended to build a conference sys- -><abstract>
+tern supporting participants by per- -><abstract>
+sonal software agents. The agents per- -><abstract>
+form several tasks like commitment re- -><abstract>
+minders or negotiations with other per- -><abstract>
+sonal agents about meetings. A hard- -><abstract>
+ware device "worn" by the user en- -><abstract>
+ables the agent to speak to h -><abstract>
+an earphone and -><abstract>
+rent location as well as other users in -><abstract>
+the neighbourhood. -><abstract>
+tions, the agents need access to back- -><abstract>
+g -><abstract>
+schedule and -><abstract>
+extracted f -><abstract>

@@ -1,0 +1,25 @@
+Using Ego-Centered Affordances in Multi-Agent Traffic -><title>
+Simulation -><title>
+René Mandiau -><author>
+Univ de Valenciennes -><affiliation>
+LAMIH CNRS 8201 -><address>
+F-59313 Valenciennes, France -><address>
+rene.mandiau@univ- -><email>
+valenciennes.fr -><email>
+Zahia Guessoum -><author>
+Université de Paris-VI, -><affiliation>
+LIP6, MAS Team -><address>
+4 place Jussieu, 75005, -><address>
+Paris, France -><address>
+zahia.guessoum@lip6.fr -><email>
+Feirouz Ksontini -><author>
+IFSTTAR, IM, LEPSIS - -><affiliation>
+LAMIH CNRS 8201 -><address>
+14-20 bd Newton, 77447 -><address>
+Champs-sur-Marne, France -><address>
+feirouz.ksontini@ifsttar.fr -><email>
+Stéphane Espié -><email>
+IFSTTAR, IM -><note>
+14-20 bd Newton, 77447 -><note>
+Champs-sur-Marne, France -><address>
+stephane.espie@ifsttar.fr -><email>

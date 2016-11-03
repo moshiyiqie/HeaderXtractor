@@ -1,0 +1,12 @@
+Towards Supporting Psychologically Plausible Variability -><title>
+in Agent-Based Human Modelling -><title>
+Frank E. Ritter -><author>
+Emma Norling -><author>
+School of Information Sciences -><affiliation>
+Department of Computer Science -><affiliation>
+and Technology -><affiliation>
+and Software Engineering -><affiliation>
+The Pennsylvania State University -><affiliation>
+The University of Melbourne -><affiliation>
+frank.ritter@psu.edu -><email>
+norling@acm.org -><email>

@@ -1,0 +1,11 @@
+A Preliminary Taxonomy of Multi-Agent Interactions -><title>
+H. Van Dyke Parunak Sven Brueckner Mitch Fleischer James Odell -><author>
+Altarum -><affiliation>
+3520 Green Ct Ste 300 -><address>
+Ann Arbor, MI 48105 -><address>
+James Odell Associates -><address>
+3646 Huron River Drive -><address>
+Ann Arbor, MI 48103 -><address>
+1-734-994-0833 -><phone>
+1-734-302-4684 1-734-302-4683 1-734-302-4654 -><phone>
+{van.parunak, sven.brueckner, mitch.fleischer}@altarum.org email@jamesodell.com -><email>

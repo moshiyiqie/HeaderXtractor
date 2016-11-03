@@ -1,0 +1,4 @@
+Issues in Multiagent System Development -><title>
+Mehdi Dastani, Joris Hulstijn, Frank Dignum, John-Jules Ch. Meyer -><author>
+ICS, Utrecht University -><affiliation>
+{mehdi,jorish,dignum,jj}@cs.uu.nl -><email>

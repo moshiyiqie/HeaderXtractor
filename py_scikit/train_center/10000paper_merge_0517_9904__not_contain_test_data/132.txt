@@ -1,0 +1,8 @@
+ACQUIRE: Agent-based Complex QUery and Information -><title>
+Retrieval Engine -><title>
+Subrata Das, Kurt Shuster, and Curt Wu -><author>
+Charles River Analytics -><affiliation>
+625 Mount Auburn St. -><affiliation>
+Cambridge, MA, 02138, USA -><address>
+(617) 491-3474 -><phone>
+{sdas, kshuster, cwu}@cra.com -><email>

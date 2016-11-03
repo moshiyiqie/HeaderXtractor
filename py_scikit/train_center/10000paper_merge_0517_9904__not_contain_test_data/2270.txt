@@ -1,0 +1,21 @@
+NegoChat: A Chat-Based Negotiation Agent∗ -><title>
+Avi Rosenfeld -><author>
+Dept. of Industrial Engineering -><affiliation>
+Jerusalem College of -><affiliation>
+Technology -><affiliation>
+Jerusalem, Israel -><address>
+rosenfa@jct.ac.il -><email>
+Inon Zuckerman -><author>
+Dept. of Industrial Engineering -><affiliation>
+and Management -><affiliation>
+Ariel University -><affiliation>
+Ariel, Israel -><address>
+inonzu@ariel.ac.il -><email>
+Erel Segal-Halevi, -><degree>
+Osnat Drein, Sarit Kraus -><degree>
+Dept. of Computer Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan, Israel -><address>
+erelsgl@gmail.com, -><email>
+osnatairy@gmail.com, -><email>
+sarit@cs.biu.ac.il -><email>

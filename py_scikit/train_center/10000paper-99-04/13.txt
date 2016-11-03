@@ -1,0 +1,18 @@
+A Strategy-Proof Multiunit Double Auction Mechanism -><title>
+Katia Sycara -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+katia@cs.cmu.edu -><email>
+Pu Huang -><author>
+CALD, School of Computer -><affiliation>
+Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+phuang@cs.cmu.edu -><email>
+Alan Scheller-Wolf -><author>
+Graduate School of Industrial -><degree>
+Administration -><degree>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+awolf@andrew.cmu.edu -><email>

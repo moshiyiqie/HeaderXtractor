@@ -1,0 +1,7 @@
+SFC: A Simple Flow Control Protocol for Enabling -><title>
+Reliable Embedded Network Systems Reprogramming -><title>
+Biswajit Mazumder, Jason O. Hallstrom -><author>
+School of Computing -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+{bmazumd, jasonoh}@cs.clemson.edu -><email>

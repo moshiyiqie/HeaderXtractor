@@ -1,0 +1,6 @@
+Persistent Patterns: -><title>
+Multi-Agent Learning beyond Equilibrium and Utility -><title>
+Georgios Piliouras?, Carlos Nieto-Granda†, Henrik I. Christensen†, Jeff S. Shamma? -><author>
+School of Electrical and Computer Engineering? Institute for Robotics & Intelligent Machines† -><affiliation>
+Georgia Institute of Technology -><affiliation>
+{georgios, carlos.nieto, hic, shamma}@gatech.edu -><email>

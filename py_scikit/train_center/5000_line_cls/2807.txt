@@ -1,0 +1,6 @@
+Further Developments of Extensive-Form Replicator -><title>
+Dynamics using the Sequence-Form Representation -><title>
+Marc Lanctot -><author>
+Department of Knowledge Engineering, Maastricht University -><affiliation>
+P.O. Box 616, 6200 MD Maastricht, The Netherlands -><address>
+marc.lanctot@maastrichtuniversity.nl -><affiliation>

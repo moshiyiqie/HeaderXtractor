@@ -1,0 +1,7 @@
+TAC AdX’14: Autonomous Agents for Realtime Ad -><title>
+Exchange∗ -><title>
+Bingyang Tao, Fan Wu†, and Guihai Chen -><author>
+Shanghai Key Laboratory of Scalable Computing and Systems -><affiliation>
+Department of Computer Science and Engineering -><affiliation>
+Shanghai Jiao Tong University, China -><affiliation>
+sunicy@sjtu.edu.cn, {fwu, gchen}@cs.sjtu.edu.cn -><email>

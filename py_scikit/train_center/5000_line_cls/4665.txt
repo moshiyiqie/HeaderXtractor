@@ -1,0 +1,6 @@
+Software-Based Dynamic Thermal Management for Linux -><title>
+Systems -><title>
+Mark Bidewell -><author>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+kbidewe@clemson.edu -><email>

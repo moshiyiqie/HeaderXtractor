@@ -1,0 +1,13 @@
+Engineering JIAC Multi-Agent Systems -><title>
+(Demonstration) -><title>
+Marco Lützenberger, Thomas Konnerth, Tobias Küster, -><author>
+Jakob Tonn, Nils Masuch, and Sahin Albayrak -><author>
+Technische Universität Berlin, DAI-Labor -><affiliation>
+Ernst-Reuter-Platz 7 -><address>
+10587 Berlin, Germany -><address>
+marco.luetzenberger@dai-labor.de -><affiliation>
+Categories and Subject Descriptors -><note>
+I.2 [Computing Methodologies]: Distributed Artificial -><note>
+Intelligence—Multiagent systems -><note>
+Keywords -><unknow>
+agent platform; development environments -><title>

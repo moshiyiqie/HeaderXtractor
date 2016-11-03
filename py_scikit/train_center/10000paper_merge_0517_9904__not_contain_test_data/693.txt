@@ -1,0 +1,6 @@
+An Application of Heterogeneous Agents to Fabricate Large, Realistic -><title>
+Corporate Transaction Data Sets for Data Mining Tool Testing and -><title>
+Evaluation -><title>
+Kevin B. Pratt -><author>
+Computer Science Innovations, Inc. (CSI) -><affiliation>
+kpratt@csi-inc.com -><email>

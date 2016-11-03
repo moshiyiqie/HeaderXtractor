@@ -1,0 +1,9 @@
+High-Level Behavior Programming -><title>
+Thuc Vu and Manuela Veloso -><author>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA, 15213, USA -><address>
+tdv@andrew.cmu.edu, veloso@cs.cmu.edu -><email>
+Keyword -><unknow>
+Agent Programming Languages and Environments -><title>
+Agent Architectures -><title>

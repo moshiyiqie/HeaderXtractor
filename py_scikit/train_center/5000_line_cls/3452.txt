@@ -1,0 +1,11 @@
+Factored MDPs for Optimal Prosumer Decision-Making -><title>
+Georgios Chalkiadakis -><author>
+Electronic and Computer Engineering -><affiliation>
+Technical University of Crete -><affiliation>
+Greece, GR73100 -><address>
+gehalk@intelligence.tuc.gr -><email>
+Angelos Angelidakis -><author>
+Electronic and Computer Engineering -><affiliation>
+Technical University of Crete -><affiliation>
+Greece, GR73100 -><address>
+aggelos@intelligence.tuc.gr -><email>

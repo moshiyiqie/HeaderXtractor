@@ -1,0 +1,17 @@
+Self-Organization for Coordinating Decentralized -><title>
+Reinforcement Learning -><title>
+Chongjie Zhang -><author>
+Computer Science Dept. -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01002, US -><address>
+chongjie@cs.umass.edu -><email>
+Sherief Abdallah -><author>
+Institute of Informatics -><affiliation>
+British University in Dubai -><affiliation>
+Dubai, United Arab Emirates -><address>
+sherief.abdallah@buid.ac.ae -><email>
+Victor Lesser -><author>
+Computer Science Dept. -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01002, US -><address>
+lesser@cs.umass.edu -><email>

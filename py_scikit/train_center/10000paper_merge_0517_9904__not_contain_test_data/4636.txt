@@ -1,0 +1,7 @@
+Discovering Information Diffusion Paths from Blogosphere -><title>
+for Online Advertising -><title>
+Avaré Stewart Ling Chen Raluca Paiu Wolfgang Nejdl -><author>
+Forschungszentrum L3S -><pubnum>
+University of Hannover, Appelstr. 9a -><affiliation>
+30167 Hannover, Germany -><address>
+{stewart,lchen,paiu,nejdl}@L3S.de -><email>

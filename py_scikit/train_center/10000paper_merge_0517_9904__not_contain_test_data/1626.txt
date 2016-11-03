@@ -1,0 +1,7 @@
+Protos: A Cross-Organizational Business Modeling Tool -><title>
+(Demonstration) -><title>
+Anup K. Kalia, Pankaj R. Telang, Munindar P. Singh -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-8206, USA -><address>
+{akkalia,prtelang,singh}@ncsu.edu -><email>

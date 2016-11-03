@@ -1,0 +1,17 @@
+Smart Metering De-Pseudonymization -><title>
+Marek Jawurek -><author>
+SAP Research -><affiliation>
+Vincenz-Priessnitz Str.1 -><address>
+Karlsruhe, Germany -><address>
+marek.jawurek@sap.com -><email>
+Martin Johns -><author>
+SAP Research -><affiliation>
+Vincenz-Priessnitz Str.1 -><address>
+Karlsruhe, Germany -><address>
+martin.johns@sap.com -><email>
+Konrad Rieck -><author>
+Technische Universität Berlin -><affiliation>
+Franklinstrasse 28/29 -><address>
+Berlin, Germany -><address>
+konrad.rieck@tu- -><email>
+berlin.de -><web>

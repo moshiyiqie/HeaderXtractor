@@ -1,0 +1,7 @@
+Comparing CART with Backpropagation Neural Networks -><title>
+in Vegetation Greenness Classification -><title>
+Jiang Li -><author>
+Department of Computer Science and Information Technology, -><affiliation>
+Austin Peay State University, Clarksville, TN 37044 -><affiliation>
+Tel: 1-931-221-7828 -><phone>
+Email: lij@apsu.edu -><email>

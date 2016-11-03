@@ -1,0 +1,5 @@
+Towards Automated Integrity Protection of -><title>
+C++ Virtual Function Tables in Binary Programs -><title>
+Robert Gawlik and Thorsten Holz -><author>
+Horst Go¨rtz Institute for IT-Security (HGI), Ruhr-University Bochum -><affiliation>
+{ﬁrstname.lastname}@rub.de -><email>

@@ -1,0 +1,7 @@
+Automatically Tracking and Analyzing the -><title>
+Behavior of Live Insect Colonies -><title>
+Tucker Balch, Zia Khan and Manuela Veloso -><author>
+School of Computer Science -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+trb ‖ zkhan ‖ mmv@cs.cmu.edu -><email>

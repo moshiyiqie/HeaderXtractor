@@ -1,0 +1,13 @@
+Information Elicitation for Decision Making∗ -><title>
+Ian A. Kash -><author>
+Center for Research on -><affiliation>
+Computation and Society -><affiliation>
+Harvard University -><affiliation>
+Cambridge, MA 02138 USA -><address>
+kash@seas.harvard.edu -><email>
+Yiling Chen -><author>
+School of Engineering and -><affiliation>
+Applied Sciences -><author>
+Harvard University -><affiliation>
+Cambridge, MA 02138 USA -><address>
+yiling@eecs.harvard.edu -><email>

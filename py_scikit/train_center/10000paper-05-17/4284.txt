@@ -1,0 +1,21 @@
+Cujo: Efﬁcient Detection and Prevention of -><title>
+Drive-by-Download Attacks -><title>
+Konrad Rieck -><author>
+Machine Learning Group -><affiliation>
+Technische Universität Berlin, -><affiliation>
+Germany -><address>
+konrad.rieck@tu- -><email>
+berlin.de -><web>
+Tammo Krueger -><unknow>
+Intelligent Data Analysis -><author>
+Fraunhofer Institute FIRST, -><affiliation>
+Germany -><address>
+tammo.krueger@tu- -><email>
+berlin.de -><email>
+Andreas Dewald -><author>
+Laboratory for Dependable -><affiliation>
+Distributed Systems -><affiliation>
+University of Mannheim, -><affiliation>
+Germany -><address>
+andreas.dewald@uni- -><email>
+mannheim.de -><email>

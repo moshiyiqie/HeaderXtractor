@@ -1,0 +1,6 @@
+A Trust Model Stemmed from the Diffusion Theory -><title>
+for Opinion Evaluation -><title>
+Hui Fang Jie Zhang1 Nadia M. Thalmann2 -><author>
+1School of Computer Engineering 2Institute for Media Innovation -><affiliation>
+Nanyang Technological University, Singapore -><affiliation>
+{hfang1}@e.ntu.edu.sg, {zhangj,nadiathalmann}@ntu.edu.sg -><email>

@@ -1,0 +1,13 @@
+An Online Tutoring System with Instant Responses -><title>
+Larry -><author>
+Department of Mathematics -><affiliation>
+Southern Polytechnic State -><affiliation>
+University -><affiliation>
+lwang@spsu.edu -><email>
+Dan Lo -><author>
+Department of Computer -><affiliation>
+Science and Software -><affiliation>
+engineering -><affiliation>
+Southern Polytechnic State -><affiliation>
+University -><affiliation>
+clo@spsu.edu -><email>

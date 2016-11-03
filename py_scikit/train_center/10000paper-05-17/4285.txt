@@ -1,0 +1,5 @@
+A Multi-User Steganographic File System -><title>
+on Untrusted Shared Storage -><title>
+Jin Han Meng Pan Debin Gao HweeHwa Pang -><author>
+Singapore Management University -><affiliation>
+{jin.han.2007, mengpan, dbgao, hhpang}@smu.edu.sg -><email>

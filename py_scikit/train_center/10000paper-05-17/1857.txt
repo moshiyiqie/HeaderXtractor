@@ -1,0 +1,12 @@
+Incrementally Biasing Visual Search -><title>
+Using Natural Language Input -><title>
+Evan Krause1, Rehj Cantrell2, Ekaterina Potapova3, Michael Zillich3, Matthias Scheutz1 -><author>
+Tufts University1 -><affiliation>
+Medford, MA USA -><address>
+{ekrause, mscheutz}@cs.tufts.edu -><email>
+Vienna University of Technology3 -><affiliation>
+Vienna, Austria -><address>
+{potapova, zillich}@acin.tuwien.ac.at -><email>
+Indiana University2 -><affiliation>
+Bloomington, IN USA -><address>
+rcantrel@indiana.edu -><email>

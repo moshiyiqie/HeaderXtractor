@@ -1,0 +1,8 @@
+Design, Development and Usage of a Generic Job -><title>
+Submission Grid Service -><title>
+Enis Afgan, William T. Jones -><author>
+University of Alabama at Birmingham -><affiliation>
+1300 University Blvd. -><affiliation>
+Campbell Hall 115A -><address>
+++ 1 205 934-2213 -><phone>
+{afgane, jonesw}@cis.uab.edu -><email>

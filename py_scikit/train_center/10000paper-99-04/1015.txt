@@ -1,0 +1,9 @@
+A Glance at MAC protocols for Ultra Wideband -><title>
+Yiming Ji -><author>
+Auburn University -><affiliation>
+Computer Science and Software Engineering -><affiliation>
+jiyimin@auburn.edu -><email>
+Saad Biaz -><author>
+Auburn University -><affiliation>
+Computer Science and Software Engineering -><affiliation>
+sbiaz@eng.auburn.edu -><email>

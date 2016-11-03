@@ -1,0 +1,13 @@
+Towards a Reference Model for Agent-Based Systems -><title>
+Israel Mayk -><author>
+US Army CERDEC C2D -><pubnum>
+AMSEL-RD-C2-SS-T -><pubnum>
+Fort Monmouth, NJ 07703 -><address>
+Israel.Mayk@us.army.mil -><email>
+Pragnesh Jay Modi, Spiros Mancoridis, -><author>
+William M. Mongan, William Regli -><author>
+Department of Computer Science -><affiliation>
+Drexel University -><affiliation>
+Philadelphia, PA 19104 -><affiliation>
+{pmodi, spiros, wmm24, -><address>
+regli}@cs.drexel.edu -><email>

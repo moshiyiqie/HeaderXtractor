@@ -1,0 +1,13 @@
+Templates and Automation for Temporal Query Generation -><title>
+David P. Gluch -><author>
+Embry-Riddle Aeronautical University -><affiliation>
+600, S. Clyde Morris Blvd -><address>
+Daytona Beach, Fl 32114, U.S.A -><address>
+1-386-226-6455 -><phone>
+gluchd@erau.edu -><email>
+Hong Liu -><author>
+Embry-Riddle Aeronautical University -><affiliation>
+600, S. Clyde Morris Blvd -><address>
+Daytona Beach, Fl 32114, U.S.A -><address>
+1-386-226-7741 -><phone>
+liuho@erau.edu -><email>

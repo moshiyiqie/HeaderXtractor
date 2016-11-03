@@ -1,0 +1,6 @@
+Distributed BDD-based BMC for the Veriﬁcation of -><title>
+Multi-Agent Systems -><title>
+Andrew V. Jones Alessio Lomuscio -><author>
+Department of Computing -><affiliation>
+Imperial College London, UK -><affiliation>
+{andrew.jones,a.lomuscio}@imperial.ac.uk -><email>

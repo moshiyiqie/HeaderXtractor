@@ -1,0 +1,6 @@
+StiCo in Action -><title>
+(Demonstration) -><title>
+Bijan Ranjbar-Sahraei, Sjriek Alers, Karl Tuyls, Gerhard Weiss -><author>
+Swarmlab, Department of Knowledge Engineering -><affiliation>
+Maastricht University, Maastricht, The Netherlands -><affiliation>
+{b.ranjbarsahraei, sjriek.alers, k.tuyls, gerhard.weiss}@maastrichtuniversity.nl -><affiliation>

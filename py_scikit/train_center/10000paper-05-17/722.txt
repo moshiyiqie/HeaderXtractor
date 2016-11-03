@@ -1,0 +1,12 @@
+Augmenting Appearance-Based Localization and -><title>
+Navigation using Belief Update -><title>
+Guy Shani -><author>
+Information Systems Engineering -><affiliation>
+Ben Gurion University -><affiliation>
+Beer Sheva, Israel -><address>
+shanigu@bgu.ac.il -><email>
+George Chrysanthakopoulos -><author>
+Microsoft Research -><affiliation>
+One Microsoft Way -><affiliation>
+Redmond, WA -><address>
+georgioc@microsoft.com -><email>

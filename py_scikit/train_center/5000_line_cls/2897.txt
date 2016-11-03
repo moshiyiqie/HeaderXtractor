@@ -1,0 +1,6 @@
+Verifying Heterogeneous Multi-Agent Programs -><title>
+Thu Trang Doan Yuan Yao Natasha Alechina Brian Logan -><author>
+School of Computer Science -><affiliation>
+University of Nottingham -><affiliation>
+Nottingham NG8 1BB, UK -><address>
+{ttd,yvy,nza,bsl}@cs.nott.ac.uk -><email>

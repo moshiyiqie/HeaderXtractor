@@ -1,0 +1,12 @@
+Specification Verification and Validation of Wireless -><title>
+Sensor Network Model for Environment Monitoring -><title>
+Dr A Anthony Irudhayaraj -><author>
+R Jaichandran -><author>
+Department of Information Technology -><affiliation>
+AVIT-Vinayaka Missions University -><affiliation>
+Paiyanoor, Tamil nadu, India 603 104 -><address>
+anto_irud@ieee.org -><email>
+Department of Information Technology -><affiliation>
+AVIT-Vinayaka Missions University -><affiliation>
+Paiyanoor, Tamil nadu, India 603 104 -><address>
+rjaichandran@gmail.com -><email>

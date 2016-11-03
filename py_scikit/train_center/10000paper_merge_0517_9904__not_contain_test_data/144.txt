@@ -1,0 +1,25 @@
+A Fault-Tolerant Multi-Agent Framework -><title>
+Z. Guessoum -><author>
+LIP6, OASIS team -><affiliation>
+J.-P. Briot -><address>
+LIP6, OASIS team -><address>
+S. Charpentier -><author>
+LIP6, OASIS team -><affiliation>
+4 place Jussieu, 75252 cedex 5 -><address>
+4 place Jussieu, 75252 cedex 5 -><address>
+4 place Jussieu, 75252 cedex 5 -><address>
+(331) 44 27 87 43 -><phone>
+(331) 44 27 87 43 -><phone>
+Zahia.Guessoum@lip6.fr -><email>
+(331) 44 27 36 67 -><phone>
+Jean-Pierre.Briot@lip6.fr -><email>
+O. Marin -><author>
+LIP6, SRC team -><pubnum>
+P. Sens -><author>
+LIP6, SRC team -><affiliation>
+4 place Jussieu, 75252 cedex 5 -><address>
+4 place Jussieu, 75252 cedex 5 -><address>
+(331) 44 27 34 23 -><phone>
+Olivier.Marin@lip6.fr -><email>
+(331) 44 27 87 65 -><phone>
+Pierre.Sens@lip6.fr -><email>

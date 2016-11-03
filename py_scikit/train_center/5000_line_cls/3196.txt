@@ -1,0 +1,12 @@
+Improving the Performance of Mobile Phone -><title>
+Crowdsourcing Applications -><title>
+Gita Sukthankar -><author>
+Department of EECS -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, FL, USA -><address>
+gitars@eecs.ucf.edu -><email>
+Erfan Davami -><author>
+Department of EECS -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, FL, USA -><address>
+erfand@knights.ucf.edu -><email>

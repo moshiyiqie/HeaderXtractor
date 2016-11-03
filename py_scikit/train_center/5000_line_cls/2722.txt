@@ -1,0 +1,18 @@
+Mechanisms for Multi-Unit Combinatorial -><title>
+Auctions with a Few Distinct Goods -><title>
+Piotr Krysta -><author>
+Dept. of Computer Science -><affiliation>
+University of Liverpool -><affiliation>
+United Kingdom -><address>
+p.krysta@liverpool.ac.uk -><email>
+Carmine Ventre -><author>
+School of Computing -><affiliation>
+Teesside University -><affiliation>
+United Kingdom -><address>
+c.ventre@teesside.ac.uk -><email>
+Orestis Telelis -><author>
+Department of Informatics -><affiliation>
+Athens University of -><affiliation>
+Economics and Business -><affiliation>
+Greece -><address>
+telelis@gmail.com -><email>

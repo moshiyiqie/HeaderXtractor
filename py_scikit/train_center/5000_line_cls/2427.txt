@@ -1,0 +1,18 @@
+Pogamut Toolkit (Demonstration) -><title>
+Cyril Brom -><author>
+Charles University, Faculty of -><affiliation>
+Mathematics and Physics -><affiliation>
+Ke Karlovu 3 -><address>
+Prague 2, 121 16, Czech Republic -><address>
+brom@ksvi.mff.cuni.cz -><email>
+Jakub Gemrot -><author>
+Charles University, Faculty of -><affiliation>
+Mathematics and Physics -><affiliation>
+Ke Karlovu 3 -><address>
+Prague 2, 121 16, Czech Republic -><address>
+jakub.gemrot@gmail.com -><email>
+Charles University, Faculty of -><affiliation>
+Mathematics and Physics -><affiliation>
+Ke Karlovu 3 -><address>
+Prague 2, 121 16, Czech Republic -><address>
+michal.bida@gmail.com -><email>

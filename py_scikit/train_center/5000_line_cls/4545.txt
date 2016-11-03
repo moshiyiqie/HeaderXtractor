@@ -1,0 +1,12 @@
+Specification-Driven Automated Testing of GUI-Based -><title>
+Java Programs -><title>
+Edward L. Jones -><author>
+Dept. of Computer and Information Sciences -><affiliation>
+Florida A&M University -><affiliation>
+Tallahassee, FL 32307 -><address>
+ejones@cis.famu.edu -><email>
+Yanhong Sun -><author>
+Medtronic, Inc. -><affiliation>
+7000 Central Ave. NE MS T418 -><address>
+Minneapolis, MN 55432 -><address>
+yanhong.sun@medtronic.com -><email>

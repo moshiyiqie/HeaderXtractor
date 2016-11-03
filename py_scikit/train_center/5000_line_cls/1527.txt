@@ -1,0 +1,19 @@
+Embodied Mobile Agents -><title>
+Man Lok Yau -><author>
+University of California, Irvine -><affiliation>
+127B Computer Science Trailer -><affiliation>
+Irvine, CA 92697 -><address>
+1-949-824-9333 -><phone>
+mlyau@uci.edu -><email>
+Eric Baumer -><author>
+University of California, Irvine -><affiliation>
+127B Computer Science Trailer -><affiliation>
+Irvine, CA 92697 -><address>
+1-949-824-9333 -><phone>
+ebaumer@uci.edu -><email>
+Bill Tomlinson -><author>
+University of California, Irvine -><affiliation>
+Computer Science Bldg, Room 430A -><address>
+Irvine, CA 92697 -><address>
+1-949-824-9333 -><phone>
+wmt@uci.edu -><email>

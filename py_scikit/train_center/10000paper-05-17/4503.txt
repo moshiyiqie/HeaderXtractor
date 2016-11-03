@@ -1,0 +1,17 @@
+Effectuation of Wireless Sensor Networks for Human -><title>
+Rescue Missions using RF Signal Detection -><title>
+Sukant Dewangan -><author>
+Dept. of Electrical and Electronics -><affiliation>
+Engineering, BITS-Pilani -><address>
+Pilani - 333031, Rajasthan, India -><address>
+f2009042@bits-pilani.ac.in -><email>
+Kartic Bhargav K.R -><author>
+Dept. of Electrical and Electronics -><affiliation>
+Engineering, BITS-Pilani -><address>
+Pilani - 333031, Rajasthan, India -><address>
+f2009170@bits-pilani.ac.in -><email>
+Debabrata Sikdar -><author>
+Dept. of Electrical and Electronics -><affiliation>
+Engineering, BITS-Pilani -><address>
+Pilani - 333031, Rajasthan, India -><address>
+dsikdar@bits-pilani.ac.in -><email>

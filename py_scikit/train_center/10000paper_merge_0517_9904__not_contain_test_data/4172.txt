@@ -1,0 +1,9 @@
+FuzzyShrinking: Improving Shrinking-based Data Mining -><title>
+Algorithms Using Fuzzy Concept for Multi-Dimensional -><title>
+Data -><title>
+Yong Shi -><author>
+Department of Computer Science and Information Systems -><affiliation>
+Kennesaw State University -><affiliation>
+1000 Chastain Road -><address>
+Kennesaw, GA 30144 -><address>
+yshi5@kennesaw.edu -><email>

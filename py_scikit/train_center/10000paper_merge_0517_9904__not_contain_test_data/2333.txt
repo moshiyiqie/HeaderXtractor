@@ -1,0 +1,11 @@
+An Agent for the Prospect Presentation Problem -><title>
+Sarit Kraus -><author>
+Dept. of Computer Science -><affiliation>
+Bar Ilan University, Israel -><affiliation>
+Amos Azaria -><author>
+Dept. of Computer Science -><affiliation>
+Bar Ilan University, Israel -><affiliation>
+Ariella Richardson -><author>
+Dept. of Industrial Engineering -><affiliation>
+Jerusalem College of -><affiliation>
+Technology, Israel -><address>

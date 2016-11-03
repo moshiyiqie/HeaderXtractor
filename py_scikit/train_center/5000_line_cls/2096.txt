@@ -1,0 +1,15 @@
+TALOS: A Tool for Designing Security Applications -><title>
+with Mobile Patrolling Robots -><title>
+(Demonstration) -><title>
+Pietro Testa -><author>
+DEI, Politecnico di Milano, -><affiliation>
+Milano, Italy -><address>
+pietro.testa@mail.polimi.it -><email>
+Nicola Gatti -><author>
+DEI, Politecnico di Milano, -><affiliation>
+Milano, Italy -><address>
+ngatti@elet.polimi.it -><email>
+Nicola Basilico -><author>
+DEI, Politecnico di Milano, -><affiliation>
+Milano, Italy -><address>
+basilico@elet.polimi.it -><email>

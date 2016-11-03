@@ -1,0 +1,29 @@
+Towards Bringing Heterogeneous Agents to Cooperation: -><title>
+An Architecture for Multimedia Services -><title>
+Anne Boyer -><author>
+LORIA - Nancy 2 University -><affiliation>
+LORIA - BP 239 - 54506 -><phone>
+Romaric Charton -><unknow>
+LORIA - Dialoca -><title>
+LORIA - INRIA -><title>
+Vandoeuvre les Nancy - France -><author>
+{charton,boyer,charp}@loria.fr -><email>
+Categories and Subject Descriptors -><note>
+information processing. -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence. -><note>
+General Terms -><note>
+Design, Reliability, Human Factors, Theory. -><note>
+1. CONTEXT AND OBJECTIVES -><note>
+This paper describes an architecture to build and execute -><abstract>
+multimedia adaptive services, like information retrieval/filtering, -><abstract>
+meeting management or distance learning. The environment is -><abstract>
+composed of heterogeneous agents, resources and communication -><abstract>
+media. Service building tools are often static, with an interactivity -><abstract>
+bounded at design time and various research works already shown -><abstract>
+new ways to a better interaction, like OAA [4] or KIMSAC [1]. -><abstract>
+Here, humans are considered as agents of the system and services -><abstract>
+are viewed as frames that guide a multi-agent cooperation. The -><abstract>
+objective is to monitor interactions in order to avoid problems as -><abstract>
+soon as possible and to optimize the service quality, depending on -><abstract>
+the available resources. -><affiliation>
+2. A PROPOSITION OF ARCHITECTURE -><intro>

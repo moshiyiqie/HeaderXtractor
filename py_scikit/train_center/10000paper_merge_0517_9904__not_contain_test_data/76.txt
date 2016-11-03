@@ -1,0 +1,20 @@
+Digital Pheromone Mechanisms for Coordination -><title>
+of Unmanned Vehicles -><title>
+Sven Brueckner -><author>
+Altarum -><affiliation>
+3520 Green Court Suite 300 -><address>
+Ann Arbor, MI 48105 -><address>
++1 734 302-4683 -><phone>
+sbrueckner@erim.org -><email>
+H. Van Dyke Parunak -><author>
+Altarum -><affiliation>
+3520 Green Court Suite 300 -><address>
+Ann Arbor, MI 48105 -><address>
++1 734 302-4684 -><phone>
+vparunak@erim.org -><email>
+John Sauter -><author>
+Altarum -><affiliation>
+3520 Green Court Suite 300 -><address>
+Ann Arbor, MI 48105 -><address>
++1 734 302-4682 -><phone>
+jsauter@erim.org -><email>

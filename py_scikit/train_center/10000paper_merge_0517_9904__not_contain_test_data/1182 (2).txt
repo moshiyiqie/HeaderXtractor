@@ -1,0 +1,6 @@
+Mixed-Initiative Decision Support in Agent-Based -><title>
+Automated Contracting -><title>
+John Collins, Corey Bilot, Maria Gini -><author>
+Department of Computer Science and Engineering, University of Minnesota -><affiliation>
+Bamshad Mobasher -><author>
+School of Computer Science, Telecommunications, and Information Systems, DePaul University -><affiliation>

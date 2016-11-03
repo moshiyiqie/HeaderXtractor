@@ -1,0 +1,7 @@
+Towards Formal Model of Adversarial Action -><title>
+in Multi-Agent Systems∗ -><title>
+Michal Peˇchoucˇek1, Jan Tozˇicˇka1 and Martin Reha´k2 -><author>
+Gerstner Laboratory1 and Center for Applied Cybernetics2 -><affiliation>
+Department of Cybernetics, Czech Technical University -><affiliation>
+Technicka´ 2, Prague, 166 27, Czech Republic -><address>
+pechouc@labe.felk.cvut.cz -><affiliation>

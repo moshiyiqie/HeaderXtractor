@@ -1,0 +1,15 @@
+A -><title>
+Problems -><title>
+Joseph -><author>
+garof+@cs.cmu.edu -><email>
+Katia -><author>
+katia+@cs.cmu.edu -><email>
+Austin -><author>
+jatf+@cs.cmu.edu -><email>
+Daniel -><author>
+dps+@cs.cmu.edu -><email>
+Aaron -><author>
+astein+@cs.cmu.edu -><email>
+School -><note>
+Carnegie -><note>
+Pittsburgh, -><note>

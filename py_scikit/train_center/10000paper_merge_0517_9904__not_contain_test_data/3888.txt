@@ -1,0 +1,6 @@
+Quantum Computing: A Survey -><title>
+Siddhartha Kasivajhula -><author>
+School of Electrical and Computer Engineering -><affiliation>
+Georgia Institute of Technology -><affiliation>
+Atlanta, GA - 30332, USA -><address>
+siddhartha@gatech.edu -><email>

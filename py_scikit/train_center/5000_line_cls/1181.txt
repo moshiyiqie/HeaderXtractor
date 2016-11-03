@@ -1,0 +1,7 @@
+Behavior Transfer for Value-Function-Based Reinforcement -><title>
+Learning -><title>
+Matthew E. Taylor and Peter Stone -><author>
+Department of Computer Sciences -><affiliation>
+The University of Texas at Austin -><affiliation>
+Austin, Texas 78712-1188 -><address>
+{mtaylor, pstone}@cs.utexas.edu -><email>

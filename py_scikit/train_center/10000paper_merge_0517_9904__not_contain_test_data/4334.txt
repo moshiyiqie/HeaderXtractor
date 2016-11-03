@@ -1,0 +1,20 @@
+From Prey To Hunter∗ -><title>
+Transforming Legacy Embedded Devices Into Exploitation Sensor Grids -><title>
+Salvatore J. Stofo -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Columbia University -><affiliation>
+New York NY, 10027, USA -><address>
+sal@columbia.edu -><email>
+Jatin Kataria -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Columbia University -><affiliation>
+New York NY, 10027, USA -><address>
+jk3319@columbia.edu -><email>
+Ang Cui -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Columbia University -><affiliation>
+New York NY, 10027, USA -><address>
+ang@columbia.edu -><email>

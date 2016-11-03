@@ -1,0 +1,12 @@
+MobiCrowd: Simulating Crowds with Periodic and -><title>
+Social Mobility (Demonstration) -><title>
+Cheng-Te Li -><author>
+Graduate Institute of Networking and Multimedia, -><affiliation>
+National Taiwan University, Taipei 106, Taiwan -><affiliation>
+d98944005@csie.ntu.edu.tw -><email>
+Hsun-Ping Hsieh -><author>
+Graduate Institute of Networking and Multimedia, -><affiliation>
+National Taiwan University, Taipei 106, Taiwan -><affiliation>
+d98944006@csie.ntu.edu.tw -><email>
+Figure 1: MobiCrowd simulation results. From left to right: the simulation snapshots at (a) 09:30 (b) 18:30, and (c) 00:00, in which there are two geographical areas, -><note>
+residential (Home) and financial (Office). Agents are colored based on (d) communities in the social network. -><note>

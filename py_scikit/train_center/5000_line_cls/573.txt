@@ -1,0 +1,7 @@
+The Cognitive Coherence Approach for Agent -><title>
+Communication Pragmatics -><title>
+Philippe Pasquier, Brahim Chaib-draa -><author>
+Université Laval - DAMAS, Pavillon Pouliot -><affiliation>
+De´partement d’Informatique et de Ge´nie Logiciel -><affiliation>
+Sainte-Foy G1K 7P4 (Que´bec, Canada) -><address>
+{pasquier, chaib}@iad.ift.ulaval.ca -><email>

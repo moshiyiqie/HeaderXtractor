@@ -1,0 +1,14 @@
+SCANERGY: a Scalable and Modular System for Energy -><affiliation>
+Trading Between Prosumers -><title>
+(Demonstration) -><title>
+Mihail Mihaylov, Sergio Jurado, -><author>
+Narcís Avellana -><author>
+Sensing & Control Systems -><affiliation>
+Barcelona, Spain -><address>
+mihail.mihaylov@sensingcontrol.com -><email>
+Iván Razo-Zapata, Kristof Van Moffaert, -><author>
+Leticia Arco, Maite Bezunartea, -><author>
+Isel Grau, Adrian Cañadas, Ann Nowé -><author>
+Vrije Universiteit Brussel -><affiliation>
+Brussels, Belgium -><address>
+ann.nowe@vub.ac.be -><email>

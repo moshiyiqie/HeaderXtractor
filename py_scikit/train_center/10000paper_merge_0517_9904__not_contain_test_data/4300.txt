@@ -1,0 +1,5 @@
+A Quantitative Analysis of the Insecurity of Embedded -><title>
+Network Devices: Results of a Wide-Area Scan -><title>
+Ang Cui and Salvatore J. Stolfo -><author>
+Department of Computer Science, Columbia University -><affiliation>
+{ang,sal}@cs.columbia.edu -><email>

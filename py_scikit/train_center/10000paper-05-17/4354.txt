@@ -1,0 +1,8 @@
+Down to the Bare Metal: -><title>
+Using Processor Features for Binary Analysis -><title>
+Carsten Willems, Ralf Hund, Andreas Fobian, Dennis Felsch, and Thorsten Holz -><author>
+Ruhr-University Bochum, Horst Görtz Institute for IT-Security (HGI) -><affiliation>
+{ﬁrstname.lastname}@rub.de -><email>
+Amit Vasudevan -><author>
+Carnegie Mellon University -><affiliation>
+amitvasudevan@cmu.edu -><email>

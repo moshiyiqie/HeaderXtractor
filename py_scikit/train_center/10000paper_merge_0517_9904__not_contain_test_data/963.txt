@@ -1,0 +1,9 @@
+Linear Options -><title>
+Jonathan Sorg -><author>
+Computer Science & Engineering -><affiliation>
+University of Michigan -><affiliation>
+jdsorg@umich.edu -><email>
+Satinder Singh -><author>
+Computer Science & Engineering -><affiliation>
+University of Michigan -><affiliation>
+baveja@umich.edu -><email>

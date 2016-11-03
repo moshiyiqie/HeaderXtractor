@@ -1,0 +1,9 @@
+Dynamically Altering Agent Behaviors Using Natural -><title>
+Language Instructions -><title>
+Rama Bindiganavale, William Schuler, Jan M. AIIbeck, -><author>
+Norman I. Badler, Aravind K. Joshi, Martha Palmer -><author>
+University of Pennsylvania -><affiliation>
+200 S. 33 ~ St. -><address>
+Philadelphia, PA 19104 -><address>
+1-215-898-1976 -><phone>
+{rama, schuler, allbeck, badler, joshi, mpalmer} @graphics.cis.upenn.edu -><email>

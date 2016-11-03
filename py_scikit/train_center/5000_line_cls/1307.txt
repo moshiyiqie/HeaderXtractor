@@ -1,0 +1,25 @@
+A Jabber-based Multi-Agent System Platform ∗ -><title>
+Miguel Escriva´ Gregori -><author>
+Dept. de Sistemas -><affiliation>
+Informa´ticos y Computacio´n -><unknow>
+Universidad Polite´cnica de -><title>
+Valencia -><author>
+Camino de Vera s/n -><affiliation>
+Valencia, Spain -><address>
+mescriva@dsic.upv.es -><email>
+Javier Palanca Ca´mara -><author>
+Dept. de Sistemas -><affiliation>
+Informa´ticos y Computacio´n -><unknow>
+Universidad Polite´cnica de -><title>
+Valencia -><author>
+Camino de Vera s/n -><affiliation>
+Valencia, Spain -><address>
+jpalanca@dsic.upv.es -><email>
+Gustavo Aranda Bada -><author>
+Dept. de Sistemas -><affiliation>
+Informa´ticos y Computacio´n -><unknow>
+Universidad Polite´cnica de -><title>
+Valencia -><author>
+Camino de Vera s/n -><affiliation>
+Valencia, Spain -><address>
+garanda@dsic.upv.es -><email>

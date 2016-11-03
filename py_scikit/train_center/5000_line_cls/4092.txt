@@ -1,0 +1,6 @@
+A Game Controller Based on Multiple Sensors -><title>
+Dapeng Zhang, Zhongjie Cai, Kefei Chen, Bernhard Nebel -><author>
+Research Group on Foundations of Artificial Intelligence -><affiliation>
+Department of Information -><affiliation>
+Universtiy of Freiburg -><affiliation>
+zhangd, caiz, chenk, nebel@informatik.uni-freiburg.de -><email>

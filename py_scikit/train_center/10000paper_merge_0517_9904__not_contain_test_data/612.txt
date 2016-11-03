@@ -1,0 +1,13 @@
+Coo-AgentSpeak: Cooperation in AgentSpeak through Plan Exchange -><title>
+Davide Ancona -><author>
+DISI, Universita` di Genova, Italy -><affiliation>
+davide@disi.unige.it -><email>
+Viviana Mascardi -><author>
+DISI, Universita` di Genova, Italy -><affiliation>
+mascardi@disi.unige.it -><email>
+Jomi F. Hu¨bner -><author>
+DSC, Univ. de Blumenau, Brazil -><affiliation>
+jomi@inf.furb.br -><email>
+Rafael H. Bordini† -><author>
+Univ. of Liverpool, L69 3BX, U.K. -><address>
+R.Bordini@csc.liv.ac.uk -><email>

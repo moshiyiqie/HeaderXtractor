@@ -1,0 +1,7 @@
+An Architecture to tame simulation time tardiness in ADS -><title>
+Pier-Giovanni Taranti Ricardo Choren -><author>
+Carlos J. P. de Lucena SE/8 - IME,Rio de Janeiro/RJ, Brazil -><author>
+PUC-Rio, Rio de Janeiro/RJ, Brazil choren@ime.eb.br -><email>
+ptaranti, lucena@inf.puc-rio.br -><email>
+Keywords: tardiness, step time, timeliness, agent-centered -><email>
+turns -><keyword>

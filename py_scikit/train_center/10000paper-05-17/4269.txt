@@ -1,0 +1,4 @@
+FIRM: Capability-based Inline Mediation of Flash Behaviors -><title>
+Zhou Li, XiaoFeng Wang -><author>
+Indiana University, Bloomington -><affiliation>
+{lizho,xw7}@indiana.edu -><email>

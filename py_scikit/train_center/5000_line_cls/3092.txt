@@ -1,0 +1,14 @@
+∗ -><title>
+Bribery and Voter Control under Voting-Rule Uncertainty -><title>
+Lane A. Hemaspaandra -><author>
+University of Rochester -><affiliation>
+Rochester, NY, USA -><address>
+www.cs.rochester.edu/∼lane -><email>
+Edith Hemaspaandra -><author>
+Rochester Institute of Technology -><affiliation>
+Rochester, NY, USA -><address>
+eh@cs.rit.edu -><email>
+Gabor Erdélyi -><author>
+Universität Siegen -><affiliation>
+Siegen, Germany -><address>
+erdelyi@wiwi.uni-siegen.de -><email>

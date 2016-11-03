@@ -1,0 +1,7 @@
+A Case Study on Social Network in a Computer Game -><title>
+Yang Cao, Golha Sharifi, Yamini Upadrashta, Julita Vassileva -><author>
+Computer Science Department -><affiliation>
+University of Saskatchewan -><affiliation>
+Saskatoon, SK, S7N 5A9 Canada -><address>
+Phone: 1-306-966-2073 -><phone>
+{yac614, gos787, ysu156, jiv}@cs.usask.ca -><email>

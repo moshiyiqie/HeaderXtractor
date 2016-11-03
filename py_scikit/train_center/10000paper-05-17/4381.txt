@@ -1,0 +1,9 @@
+Efﬁcient Protection of Kernel Data -><title>
+Structures via Object Partitioning -><title>
+∗ -><title>
+Abhinav Srivastava -><author>
+AT&T Labs-Research -><affiliation>
+abhinav@research.att.com -><email>
+Jonathon Gifﬁn -><author>
+HP Fortify -><affiliation>
+jgifﬁn@hp.com -><email>

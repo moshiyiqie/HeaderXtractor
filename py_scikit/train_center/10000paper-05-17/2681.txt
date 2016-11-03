@@ -1,0 +1,6 @@
+Frontier-Based RTDP: A New Approach to Solving the -><title>
+Robotic Adversarial Coverage Problem -><title>
+Roi Yehoshua, Noa Agmon and Gal A. Kaminka ∗ -><author>
+Computer Science Department -><affiliation>
+Bar Ilan University, Israel -><affiliation>
+{yehoshr1,agmon,galk}@cs.biu.ac.il -><email>

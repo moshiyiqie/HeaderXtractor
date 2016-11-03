@@ -1,0 +1,20 @@
+An Agent-based Approach to Imagery and Geospatial -><title>
+Computing∗ -><title>
+Arun K. Sood -><author>
+George Mason University -><affiliation>
+Center for Image Analysis -><affiliation>
+Dept. of Computer Science -><affiliation>
+Fairfax, VA 22030 -><address>
+asood@cs.gmu.edu -><email>
+Robert Simon -><author>
+George Mason University -><affiliation>
+Center for Image Analysis -><affiliation>
+Dept. of Computer Science -><affiliation>
+Fairfax, VA 22030 -><address>
+simon@cs.gmu.edu -><email>
+James J. Nolan -><author>
+George Mason University -><affiliation>
+Center for Image Analysis -><affiliation>
+Dept. of Computer Science -><affiliation>
+Fairfax, VA 22030 -><address>
+jnolan@cs.gmu.edu -><email>

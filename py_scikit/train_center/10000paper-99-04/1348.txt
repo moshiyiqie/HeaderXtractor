@@ -1,0 +1,19 @@
+Economic Dynamics of Agents in Multiple Auctions -><title>
+Andrew Byde -><author>
+Hewlett Packard Labs -><affiliation>
+Filton Rd, Stoke Gifford -><address>
+Bristol BS34 8QZ, UK -><address>
++44 117 312 8764 -><phone>
+Andrew_Byde@hp.com -><email>
+Claudio Bartolini -><author>
+Hewlett Packard Labs -><affiliation>
+Filton Rd, Stoke Gifford -><address>
+Bristol BS34 8QZ, UK -><address>
++44 117 312 8505 -><phone>
+Claudio_Bartolini@hp.com -><email>
+Chris Preist -><author>
+Hewlett Packard Labs -><affiliation>
+Filton Rd, Stoke Gifford -><address>
+Bristol BS34 8QZ, UK -><address>
++44 117 312 8311 -><phone>
+Chris_Preist@hp.com -><email>

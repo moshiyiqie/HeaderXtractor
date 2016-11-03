@@ -1,0 +1,20 @@
+Power Grid Defense Against Malicious Cascading Failure -><title>
+Hansheng Lei -><author>
+Dept. EECS and -><affiliation>
+Network Science Center -><affiliation>
+U.S. Military Academy -><address>
+West Point, NY, 10996 -><address>
+hansheng.lei[at]usma.edu -><email>
+Paulo Shakarian -><author>
+Dept. EECS and -><affiliation>
+Network Science Center -><affiliation>
+U.S. Military Academy -><address>
+West Point, NY, 10996 -><address>
+paulo[at]shakarian.net -><email>
+Roy Lindelauf -><affiliation>
+Netherlands Defence -><address>
+Academy -><author>
+Faculty of Military Science -><affiliation>
+Military Operational Art and -><affiliation>
+Science -><affiliation>
+rha.lindelauf.01[at]nlda.nl -><web>

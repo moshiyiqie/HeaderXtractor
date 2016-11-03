@@ -1,0 +1,12 @@
+Modeling and Learning Synergy -><title>
+for Team Formation with Heterogeneous Agents -><title>
+Manuela Veloso -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>
+veloso@cs.cmu.edu -><email>
+Somchaya Liemhetcharat -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>
+som@ri.cmu.edu -><email>

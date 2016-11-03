@@ -1,0 +1,7 @@
+Techniques for Improving the Visibility and “Sharability" of -><title>
+Semi-transparent Video in Shared Workspaces -><title>
+Karl Gyllstrom, Dorian Miller, David Stotts -><author>
+Department of Computer Science -><affiliation>
+The University of North Carolina at Chapel Hill -><affiliation>
+Chapel Hill, NC, 27514 USA -><address>
+{karl, dorianm, stotts}@cs.unc.edu -><email>

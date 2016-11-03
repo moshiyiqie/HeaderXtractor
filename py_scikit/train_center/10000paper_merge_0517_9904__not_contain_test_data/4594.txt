@@ -1,0 +1,17 @@
+Towards Information Retrieval Evaluation with Reduced -><title>
+and Only Positive Judgements -><title>
+Iman Amini -><title>
+NICTA and -><author>
+RMIT -><affiliation>
+Melbourne, Australia -><address>
+iman.amini@rmit.edu.au -><email>
+David Martinez -><author>
+NICTA and -><affiliation>
+University of Melbourne -><affiliation>
+Melbourne, Australia -><address>
+david.martinez@nicta.com.au -><email>
+Diego Mollá -><author>
+Department of Computing -><affiliation>
+Macquarie University -><affiliation>
+Sydney, Australia -><address>
+diego.molla-aliod@mq.edu.au -><email>

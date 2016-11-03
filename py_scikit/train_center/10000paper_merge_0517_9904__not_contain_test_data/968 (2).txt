@@ -1,0 +1,13 @@
+Solving Billing Issues in Ad Hoc Networks -><title>
+Laurie L. Joiner -><author>
+Department of Electrical and Computer -><affiliation>
+Engineering -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, Alabama - 35899 -><affiliation>
+ljoiner@eb.uah.edu -><email>
+Manish Mohan -><author>
+Department of Electrical and Computer -><affiliation>
+Engineering -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, Alabama - 35899 -><affiliation>
+mohanm@eb.uah.edu -><email>

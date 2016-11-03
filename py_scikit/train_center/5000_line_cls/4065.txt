@@ -1,0 +1,6 @@
+Using a 3D game to study the perceived quality of lifting -><note>
+device controls -><title>
+David Wilfinger, Martin Murer, Michael Lankes, Manfred Tscheligi -><author>
+ICT&S Center, University of Salzburg -><affiliation>
+Sigmund Haffner Gasse 18, 5020 Salzburg, Austria -><address>
+{david.wilfinger, martin.murer, michael.lankes, manfred.tscheligi}@sbg.ac.at -><email>

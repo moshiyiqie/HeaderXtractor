@@ -1,0 +1,20 @@
+Supporting Immersive Location-Based Games on -><title>
+Resource-Constrained Platforms -><title>
+Katsiaryna Naliuka -><author>
+Trinity College Dublin -><affiliation>
+katsiaryna.naliuka@ndrc.ie -><email>
+Tara Carrigy -><author>
+Trinity College Dublin -><affiliation>
+tara.carrigy@ndrc.ie -><email>
+Natasa Paterson -><email>
+Trinity College Dublin -><affiliation>
+natasa.paterson@ndrc.ie -><email>
+Roisin Cotton -><email>
+Trinity College Dublin -><affiliation>
+cottonr@tcd.ie -><email>
+Søren K. Jensen -><author>
+Trinity College Dublin -><affiliation>
+Soren.Jensen@ndrc.ie -><email>
+Mads Haahr -><author>
+Trinity College Dublin -><affiliation>
+Mads.Haahr@cs.tcd.ie -><email>

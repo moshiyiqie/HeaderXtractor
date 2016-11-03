@@ -1,0 +1,7 @@
+Establishing Spatially Targeted Communication -><title>
+in a Heterogeneous Robot Swarm -><title>
+N. Mathews1, A. L. Christensen2, E. Ferrante1, R. O’Grady1 and M. Dorigo1 -><author>
+1 IRIDIA, Université Libre de Bruxelles, Brussels, Belgium -><affiliation>
+{nmathews,eferrant,rogrady,mdorigo}@ulb.ac.be -><email>
+2 Instituto de Telecomunicações, Lisbon, Portugal -><affiliation>
+anders.christensen@iscte.pt -><email>

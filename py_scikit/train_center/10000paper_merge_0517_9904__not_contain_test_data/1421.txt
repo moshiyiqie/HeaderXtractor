@@ -1,0 +1,5 @@
+A Scoring Rule-Based Mechanism for Aggregate Demand -><title>
+Prediction in the Smart Grid -><title>
+Harry Rose, Alex Rogers, Enrico H. Gerding -><author>
+Electronics and Computer Science, University of Southampton -><affiliation>
+{htrose,acr,eg}@ecs.soton.ac.uk -><email>

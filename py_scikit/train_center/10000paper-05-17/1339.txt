@@ -1,0 +1,23 @@
+Autonomous Robot Dancing Driven by -><title>
+Beats and Emotions of Music -><title>
+∗ -><title>
+Guangyu Xia -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>
+gxia@andrew.cmu.edu -><email>
+Junyun Tay -><author>
+Mechanical Engineering Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>
+junyunt@cmu.edu -><email>
+Roger Dannenberg -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>
+rbd@cs.cmu.edu -><email>
+Manuela Veloso -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213, USA -><address>
+veloso@cmu.edu -><email>

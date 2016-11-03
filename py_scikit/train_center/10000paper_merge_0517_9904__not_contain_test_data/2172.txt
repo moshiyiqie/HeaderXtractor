@@ -1,0 +1,7 @@
+An Interactive Virtual Audience Platform for Public -><title>
+Speaking Training -><title>
+(Demonstration) -><title>
+Mathieu Chollet, Giota Sratou, Ari Shapiro, Louis-Philippe Morency and -><author>
+Stefan Scherer -><author>
+Institute for Creative Technologies, Los Angeles, CA, United States -><affiliation>
+mchollet@enst.fr, {stratou, shapiro, morency, scherer}@ict.usc.edu -><email>

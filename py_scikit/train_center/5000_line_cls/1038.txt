@@ -1,0 +1,34 @@
+Trusted Intermediating Agents -><title>
+in Electronic Trade Networks -><title>
+Floortje Alkemade -><author>
+Dept. of Innovation Studies, University of Utrecht -><affiliation>
+Heidelberglaan 2, 3584 CS Utrecht -><address>
+The Netherlands -><address>
+alkemade@geog.uu.nl -><email>
+Tomas B. Klos -><author>
+Center for Mathematics and Computer Science -><affiliation>
+Kruislaan 413, 1098 SJ Amsterdam -><address>
+The Netherlands -><address>
+tomas@cwi.nl -><email>
+1. TRUST ON ELECTRONIC MARKETS -><abstract>
+Electronic commerce and trading of information goods signif- -><abstract>
+icantly impact the role of intermediaries: consumers can bypass -><abstract>
+intermediating agents by forming direct links to producers. One -><abstract>
+reason that traditional intermediaries can still make a profit, is that -><abstract>
+they have more knowledge of the market, so trading via an inter- -><abstract>
+mediary saves on search costs [1], allowing the intermediary to -><abstract>
+charge a markup and make a profit. Another reason is trust and -><abstract>
+loyalty between consumers and intermediaries (cf. [6]). In this pa- -><abstract>
+per we investigate whether trust-based intermediating agents will -><abstract>
+also be able to make a profit in electronic markets, where other -><abstract>
+advantages of intermediaries (i.e., advantages of location or scale) -><abstract>
+disappear, but where trust and reputation mechanisms are becom- -><abstract>
+ing popular for helping consumers make purchasing decisions in -><abstract>
+the face of information overload on the world wide web [2]. We -><abstract>
+model an electronic market where agents trade an information good -><abstract>
+over a network. Buyer-agents use a decentralized reputation-based -><abstract>
+trust mechanism [4] to determine which connections to maintain -><abstract>
+to sellers of the good (producers and intermediaries), communicat- -><abstract>
+ing with each other to establish trustworthiness of sellers to which -><abstract>
+they are not currently connected. The existence of such a reputa- -><abstract>
+tion mechanism allows intermediating agents to accumulate a base -><abstract>

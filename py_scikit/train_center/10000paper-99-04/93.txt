@@ -1,0 +1,11 @@
+MOISE+: -><title>
+model -><title>
+Jomi -><author>
+Jaime -><author>
+Olivier -><author>
+Olivier.Boissier@emse.fr -><email>
+jomi.hubner@poli.usp.br -><email>
+jaime.sichman@poli.usp.br -><email>
+LTI -><affiliation>
+Av. -><email>
+05508-900 -><phone>

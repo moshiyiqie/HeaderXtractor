@@ -1,0 +1,18 @@
+Modelling Situations in Intelligent Agents ∗ -><title>
+John Thangarajah -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+johthan@cs.rmit.edu.au -><email>
+Lin Padgham -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+linpa@cs.rmit.edu.au -><email>
+Sebastian Sardina -><author>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+ssardina@cs.rmit.edu.au -><email>
+General Terms -><keyword>
+Design, Theory -><keyword>
+Keywords -><keyword>
+Agent and multi-agent architectures; Frameworks, infras- -><affiliation>
+tructures and environments for agent systems -><affiliation>

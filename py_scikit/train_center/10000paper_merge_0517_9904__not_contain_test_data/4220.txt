@@ -1,0 +1,12 @@
+Strong Connections in Social Networks -><title>
+Li Ding -><author>
+Computer Science Department -><affiliation>
+the University of Alabama -><affiliation>
+Tuscaloosa, AL 35487-0290 -><address>
+Brandon Dixon -><author>
+Computer Science Department -><affiliation>
+the University of Alabama -><affiliation>
+Tuscaloosa, AL 35487-0290 -><address>
+(205) 348-0597 -><phone>
+dixon@cs.ua.edu -><email>
+lding@cs.ua.edu -><email>

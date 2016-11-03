@@ -1,0 +1,13 @@
+Specifying and Resolving Preferences Among Agent -><title>
+Interaction Patterns∗ -><title>
+† -><title>
+Munindar P. Singh -><author>
+Department of Computer Science -><affiliation>
+North Carolina State University -><affiliation>
+Raleigh, NC 27695-8206, USA -><address>
+singh@ncsu.edu -><email>
+Ashok U. Mallya -><author>
+Veraz Networks -><affiliation>
+926 Rock Avenue, Suite 20, -><address>
+San Jose, CA 95131, USA -><address>
+amallya@veraznet.com -><email>

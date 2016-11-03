@@ -1,0 +1,6 @@
+Running Experiments on DipGame Testbed -><title>
+(Demonstration) -><title>
+Angela Fabregues, Santiago Biec and Carles Sierra -><author>
+Artificial Intelligence Research Institute (IIIA-CSIC) -><affiliation>
+Campus Universitat Autònoma de Barcelona, 08193 Bellaterra, Catalonia, Spain -><affiliation>
+{fabregues, sierra}@iiia.csic.es, santiago@dipgame.org -><email>

@@ -1,0 +1,8 @@
+Tools and Techniques for Performance Measurement of -><title>
+Large Distributed Multiagent Systems -><title>
+Aaron Helsinger, Richard Lazarus, William Wright, John Zinky -><author>
+BBN Technologies -><affiliation>
+10 Moulton Street -><address>
+Cambridge, MA 02138, USA -><address>
+1 (617) 873-8000 -><phone>
+[ahelsing, rlazarus, wwright, jzinky]@bbn.com -><email>

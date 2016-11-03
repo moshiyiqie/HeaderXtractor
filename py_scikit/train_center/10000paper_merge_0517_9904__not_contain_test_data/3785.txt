@@ -1,0 +1,10 @@
+An Architecture to Automatically Store and Update -><title>
+MEDLINE Data for Text Mining -><title>
+Sirisha Kanda, Department of Computer Science -><author>
+Southern Polytechnic State University -><affiliation>
+1100, South Marietta Parkway -><address>
+Marietta, GA 30060 -><address>
+678-357-6494 -><phone>
+skanda@spsu.edu -><email>
+Advisor: Dr. Venu Dasigi, Professor -><degree>
+Category: Graduate -><degree>

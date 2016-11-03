@@ -1,0 +1,8 @@
+Simultaneous Optimization of Multiple Criteria for Efficient -><title>
+Agent Service Brokering -><title>
+Aneurin M. Easwaran and Jeremy Pitt -><author>
+Intelligent and Interactive Systems Group, Department of Electrical & Electronic Engineering, -><affiliation>
+Imperial College of Science, Technology & Medicine, -><affiliation>
+Exhibition Road, London SW7 2BZ, United Kingdom. -><address>
+Telephone: +44 (0)20 7594 6330 -><phone>
+e-mail: a.easwaran@ic.ac.uk -><email>

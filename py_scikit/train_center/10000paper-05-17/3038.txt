@@ -1,0 +1,10 @@
+Visuo-Haptic Collaborative Augmented Reality Ping-Pong -><title>
+B. Knoerlein -><author>
+knoerlein@vision.ee.ethz.ch -><email>
+G. Sze´kely -><author>
+szekely@vision.ee.ethz.ch -><email>
+M. Harders -><author>
+harders@vision.ee.ethz.ch -><email>
+Computer Vision Laboratory -><affiliation>
+ETH Zurich -><affiliation>
+CH-8092 Zurich, Switzerland -><address>

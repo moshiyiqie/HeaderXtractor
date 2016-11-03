@@ -1,0 +1,12 @@
+Construction and Analysis of Vector Space Models For -><title>
+Use in Aspect Mining -><title>
+Frank Mitropoulos -><author>
+School of Computer and Information Sciences -><affiliation>
+Nova Southeastern University -><affiliation>
+Fort Lauderdale, Florida 33314-7796 -><address>
+mitrof@nova.edu -><email>
+William Tribbey -><author>
+School of Computer and Information Sciences -><affiliation>
+Nova Southeastern University -><affiliation>
+Fort Lauderdale, Florida 33314-7796 -><address>
+tribbey@nova.edu -><email>

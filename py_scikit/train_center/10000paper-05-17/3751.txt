@@ -1,0 +1,7 @@
+Relying on Time Synchronization for Security in Ad Hoc -><title>
+Networks 1 -><title>
+Donald J. Scott -><author>
+Florida State University -><affiliation>
+Computer Science Department -><affiliation>
+Tallahassee, FL 32304 -><address>
+donscott@cs.fsu.edu -><email>

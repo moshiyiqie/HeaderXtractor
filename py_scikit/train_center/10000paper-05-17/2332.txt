@@ -1,0 +1,31 @@
+Multi-Agent System for Recruiting Patients for Clinical -><title>
+Trials -><title>
+Samhar Mahmoud -><author>
+King’s College London -><affiliation>
+London, UK -><address>
+samhar.mahmoud@kcl.ac.uk -><email>
+Gareth Tyson -><author>
+Queen Mary -><address>
+London, UK -><address>
+gareth.tyson@qmul.ac.uk -><email>
+Simon Miles -><author>
+King’s College London -><affiliation>
+London, UK -><address>
+simon.miles@kcl.ac.uk -><email>
+Adel Taweel -><author>
+King’s College London -><affiliation>
+London, UK -><address>
+adel.taweel@kcl.ac.uk -><email>
+Tjeerd Vanstaa -><author>
+London School of Hygiene & -><affiliation>
+Tropical Medicine -><address>
+London, UK -><address>
+tjeerd.vanstaa@lshtm.ac.uk -><email>
+Michael Luck -><author>
+King’s College London -><affiliation>
+London, UK, -><address>
+michael.luck@kcl.ac.uk -><email>
+Brendan Delaney -><author>
+King’s College London -><affiliation>
+London, UK -><address>
+brendan.delaney@kcl.ac.uk -><email>

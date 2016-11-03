@@ -1,0 +1,8 @@
+TENDENKO: Agent-Based Evacuation Drill and Emergency -><title>
+Planning System -><title>
+(Demonstration) -><title>
+Masaru Okaya, Toshinori Niwa, and Tomoichi Takahashi -><author>
+Meijo University -><affiliation>
+Shiogamaguchi, Tempaku -><address>
+Nagoya, Japan -><address>
+m0930007@ccalumni.meijo-u.ac.jp, 133430012@ccalumni.meijo-u.ac.jp, ttaka@meijo-u.ac.jp -><email>

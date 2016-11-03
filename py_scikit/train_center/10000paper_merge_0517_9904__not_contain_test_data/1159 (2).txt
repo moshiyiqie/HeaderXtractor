@@ -1,0 +1,5 @@
+Distributed Asynchronous Search with Private Constraints -><title>
+Marius C. Silaghi -><author>
+EPFL -><affiliation>
+1015 Lausanne, Switzerland -><address>
+silaghi @ lia.di.epfl.ch -><email>

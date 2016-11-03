@@ -1,0 +1,8 @@
+Multi-Agent GIS System for -><title>
+Improved Spatial Load Forecasting -><title>
+(Demonstration) -><title>
+Cruz E. Borges, Oihane Kamara Esteban, Ander Pijoan, and Yoseba K. Penya -><author>
+Deusto Institute of Technology, University of Deusto -><affiliation>
+Bilbao, Spain -><address>
+cruz.borges@deusto.es, oihane.esteban@deusto.es, ander.pijoan@deusto.es, -><email>
+yoseba.penya@deusto.es -><email>

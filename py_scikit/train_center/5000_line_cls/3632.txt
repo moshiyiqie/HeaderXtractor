@@ -1,0 +1,16 @@
+213 -><pubnum>
+Architecture for Intelligent Transport system for -><title>
+Automated Vehicle -><title>
+Neeraj Sanduja -><author>
+TCS, Nyati Tiara -><affiliation>
+Pune, India -><address>
++91-9657947321 -><phone>
+sanduja.neeraj@gmail.com -><email>
+Pavneet Kaur -><author>
+Department of Computer Science & Engineering -><affiliation>
+Chitkara University Punjab -><affiliation>
+India -><address>
++91-9729626936 -><phone>
+pavneet.kaur@chitkara.edu.in -><email>
+Page -><author>
+213 -><pubnum>

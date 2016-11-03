@@ -1,0 +1,14 @@
+Emergence of Social Norms through Collective Learning in -><title>
+Networked Agent Societies -><title>
+Xudong Luo -><author>
+Institute of Logic and Cognition -><affiliation>
+Sun Yat-sen University -><affiliation>
+Guangzhou, Guangdong, 510275, China -><address>
+luoxd3@mail.sysu.edu.cn -><email>
+Chao Yu, Minjie Zhang and Fenghui Ren -><author>
+School of Computer Science and Software -><affiliation>
+Engineering -><affiliation>
+University of Wollongong -><affiliation>
+Wollongong, NSW, 2522, Australia -><address>
+cy496@uowmail.edu.au, -><email>
+{minjie,fren}@uow.edu.au -><email>

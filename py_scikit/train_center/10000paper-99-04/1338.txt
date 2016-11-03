@@ -1,0 +1,13 @@
+Wasp Nests for Self-Configurable Factories -><title>
+Stephen F. Smith -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+sfs@cs.cmu.edu -><email>
+Vincent A. Cicirello -><author>
+The Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+cicirello@ri.cmu.edu -><email>

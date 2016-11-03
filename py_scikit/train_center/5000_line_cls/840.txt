@@ -1,0 +1,11 @@
+On the Role of Knowledge in Multi-Agent Opportunism -><title>
+Carmel Domshlak -><author>
+Dept. of Computer Science -><affiliation>
+Cornell University -><affiliation>
+Ithaca, NY 14850, USA -><address>
+dcarmel@cs.cornell.edu -><email>
+James H. Lawton -><author>
+Information Directorate -><author>
+US Air Force Research Laboratory -><affiliation>
+Rome, NY 13441, USA -><address>
+lawton@ai.rl.af.mil -><email>

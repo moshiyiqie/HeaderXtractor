@@ -1,0 +1,7 @@
+Collaborative Haptic Play with Building Blocks -><title>
+Pingguo Huang, Yutaka Ishibashi, Norishige Fukushima, and Shinji Sugawara -><author>
+Department of Scientific and Engineering Simulation -><affiliation>
+Graduate School of Engineering -><affiliation>
+Nagoya Institute of Technology -><affiliation>
+Nagoya 466–8555, Japan -><address>
+corriea.huang@mcl.nitech.ac.jp, {ishibasi, fukushima, shinji}@nitech.ac.jp -><email>

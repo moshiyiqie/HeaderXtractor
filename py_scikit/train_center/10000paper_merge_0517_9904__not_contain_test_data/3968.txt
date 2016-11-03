@@ -1,0 +1,23 @@
+Understanding the Intruder through Attacks on -><title>
+Cryptographic Protocols -><title>
+Zeeshan Furqan -><author>
+School of Electrical Engineering and -><affiliation>
+Computer Science -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, Fl 32816 - 2362 -><address>
+1 407 823 3364 -><phone>
+zfurqan@cs.ucf.edu -><email>
+Ratan K. Guha -><author>
+School of Electrical Engineering and -><affiliation>
+Computer Science -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, Fl 32816 - 2362 -><address>
+1 407 823 2956 -><phone>
+guha@cs.ucf.edu -><email>
+Shahabuddin Muhammad -><author>
+School of Electrical Engineering and -><affiliation>
+Computer Science -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, Fl 32816 - 2362 -><address>
+1 407 823 3364 -><phone>
+muhammad@cs.ucf.edu -><email>

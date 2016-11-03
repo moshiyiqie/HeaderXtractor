@@ -1,0 +1,6 @@
+MLBP: MAS for Large-Scale Biometric Pattern Recognition -><title>
+Ram Meshulam Shulamit Reches Aner Yarden Sarit Kraus -><author>
+{meshulr1,reches,yardena,sarit}@cs.biu.ac.il -><email>
+Department of Computer Science -><affiliation>
+Bar-Ilan University, 52900 -><affiliation>
+Ramat-Gan, Israel -><address>

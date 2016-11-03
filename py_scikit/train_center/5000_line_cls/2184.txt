@@ -1,0 +1,5 @@
+Giving Advice to People in Path Selection Problems -><title>
+Amos Azaria1 Zinovi Rabinovich1 Sarit Kraus1 Claudia V. Goldman2 Omer Tsimhoni2 -><author>
+1Department of Computer Science Bar Ilan University Ramat Gan, Israel -><affiliation>
+2General Motors Advanced Technical Center Israel -><address>
+{azariaa1,sarit}@cs.biu.ac.il, zr@zinovi.net, {claudia.goldman, omer.tsimhoni}@gm.com -><email>

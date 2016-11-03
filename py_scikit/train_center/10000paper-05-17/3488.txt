@@ -1,0 +1,12 @@
+A Comparison of Alternatives for Communicating -><title>
+with Spawned Processes -><title>
+Masha Sosonkina -><author>
+Ames Laboratory/DOE -><affiliation>
+Iowa State University -><affiliation>
+236C Wilhelm Hall -><address>
+Ames, IA 50011 -><address>
+Nicholas Radcliffe and Layne Watson -><author>
+Departments of Computer Science and Mathematics -><affiliation>
+Virginia Polytechnic Institute and State University -><affiliation>
+Blacksburg, Virginia 24061 -><address>
+E-mail contact: nradclif@vt.edu -><email>

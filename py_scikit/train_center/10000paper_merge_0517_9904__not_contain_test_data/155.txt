@@ -1,0 +1,11 @@
+Improving Fault-Tolerance by Replicating Agents -><title>
+Alan Fedoruk -><author>
+Department of Computer Science -><affiliation>
+University of Saskatchewan -><affiliation>
+Saskatoon, Canada -><address>
+amf673@mail.usask.ca -><email>
+Ralph Deters -><author>
+Department of Computer Science -><affiliation>
+University of Saskatchewan -><affiliation>
+Saskatoon, Canada -><address>
+ralph@cs.usask.ca -><email>

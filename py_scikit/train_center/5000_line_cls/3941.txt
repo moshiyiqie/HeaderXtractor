@@ -1,0 +1,20 @@
+Gesture Recognition In Flow based on PCA Analysis using -><title>
+Multiagent System -><title>
+Jacques Tisseau -><author>
+Centre Européen de Réalité -><author>
+Virtuelle -><author>
+25 rue Claude Chappe -><affiliation>
+PLOUZANÉ, France -><address>
+tisseau@enib.fr -><email>
+Alexis Nédélec -><author>
+Centre Européen de Réalité -><note>
+Virtuelle -><note>
+25 rue Claude Chappe -><note>
+PLOUZANÉ, France -><address>
+nedelec@enib.fr -><email>
+Ronan Billon -><email>
+Centre Européen de Réalité -><note>
+Virtuelle -><note>
+25 rue Claude Chappe -><note>
+PLOUZANÉ, France -><address>
+billon@enib.fr -><email>

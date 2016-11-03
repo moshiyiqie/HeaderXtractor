@@ -1,0 +1,6 @@
+Performance Management of Mobile Agent Systems -><title>
+Omer F. Rana -><author>
+Department of Computer Science, -><affiliation>
+Cardiff University, POBox 910, -><affiliation>
+Cardiff CF2 3XF, UK -><address>
+o. f. rana@cs, cf. ac. uk -><email>

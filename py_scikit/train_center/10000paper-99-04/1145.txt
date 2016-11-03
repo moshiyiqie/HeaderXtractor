@@ -1,0 +1,8 @@
+Distributed Action Plans in an Agent based Network -><title>
+Management System -><title>
+Madhur Kohli -><author>
+Bell Labs -><author>
+madhur @research.bell-labs.corn -><affiliation>
+Jorge Lobo -><author>
+Bell Labs -><affiliation>
+jlobo @ research.belMabs.com -><email>

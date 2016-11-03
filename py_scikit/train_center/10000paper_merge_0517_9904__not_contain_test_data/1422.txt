@@ -1,0 +1,6 @@
+A Model-Based Online Mechanism with Pre-Commitment -><title>
+and its Application to Electric Vehicle Charging -><title>
+Sebastian Stein, Enrico Gerding, Valentin Robu and Nicholas R. Jennings -><author>
+Electronics and Computer Science, University of Southampton -><affiliation>
+Southampton, SO17 1AE, United Kingdom -><address>
+{ss2,eg,vr2,nrj}@ecs.soton.ac.uk -><email>

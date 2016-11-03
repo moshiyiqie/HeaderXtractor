@@ -1,0 +1,19 @@
+Self-Adapting Dynamically Generated Maps For Turn- -><title>
+based Strategic Multiplayer Browser Games -><title>
+Pedro A. Santos -><author>
+IST -><affiliation>
+Av. Prof. Cavaco Silva - Taguspark -><affiliation>
+2744-016 Porto Salvo -><address>
+Portugal -><address>
+pasantos@math.ist.utl.pt -><email>
+Rui Prada -><author>
+INESC-ID / IST -><affiliation>
+Av. Prof. Cavaco Silva - Taguspark -><affiliation>
+2744-016 Porto Salvo -><address>
+Portugal -><address>
+rui.prada@gaips.inesc-id.pt -><email>
+INESC-ID / IST -><affiliation>
+Av. Rovisco Pais -><affiliation>
+1049-001 Lisboa -><address>
+Portugal -><address>
+gdgp@ist.utl.pt -><email>

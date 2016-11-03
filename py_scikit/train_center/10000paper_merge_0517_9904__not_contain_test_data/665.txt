@@ -1,0 +1,7 @@
+Multiagent Collaborative Learning for Distributed Business Systems -><title>
+Yutao Guo and J¤org P. M¤uller -><author>
+Intelligent Autonomous Systems -><affiliation>
+Siemens AG, Corporate Technology -><affiliation>
+Otto-Hahn-Ring 6 -><address>
+81730 Munich, Germany -><address>
+joerg.p.mueller@siemens.com -><email>

@@ -1,0 +1,23 @@
+Multi-Level Decomposition Approach for Problem Solving -><title>
+and Design in Software Engineering -><title>
+Nan Niu -><author>
+Computer Science and Engineering -><affiliation>
+Mississippi State University -><affiliation>
+Mississippi State, MS 39762, USA -><address>
+1-(662)-325-7514 -><phone>
+niu@cse.msstate.edu -><email>
+Farzaneh Najafi -><author>
+Computer Science Division -><affiliation>
+Department of Mathematical Sciences -><affiliation>
+Sharif University of Technology -><affiliation>
+Tehran, Iran -><address>
+98-91 -><phone>
+najafi@math.sharif.edu -><email>
+Ali Najafi -><author>
+Center for Advanced Vehicular -><affiliation>
+Systems -><affiliation>
+Computational Engineering Program -><affiliation>
+Mississippi State University -><affiliation>
+Mississippi State, MS 39762, USA -><address>
+1-(662)-617-1790 -><phone>
+ali@cavs.msstate.edu -><email>

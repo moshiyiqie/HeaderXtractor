@@ -1,0 +1,8 @@
+Learning Structured Reactive Navigation Plans -><title>
+from Executing MDP Navigation Policies -><title>
+Michael Beetz Thorsten Belker -><author>
+Technical University Munich University of Bonn -><affiliation>
+Dept. of Computer Science IX Dept. of Computer Science III -><affiliation>
+Orle´ansstrasse 34 Roemerstr. 164 -><pubnum>
+D-81667 Munich, Germany D-53117 Bonn, Germany -><address>
+beetzm@in.tum.de belker@cs.uni-bonn.de -><email>

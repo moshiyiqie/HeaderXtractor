@@ -1,0 +1,13 @@
+Test Driven Development: The State of the Practice -><title>
+Susan Hammond -><author>
+David Umphress -><author>
+Auburn University -><affiliation>
+Auburn University -><affiliation>
+3101 Shelby Center -><address>
+3127E Shelby Center -><address>
+Auburn University, AL 36849-5347 -><affiliation>
+Auburn University, AL 36849-5347 -><affiliation>
+334-386-7575 -><phone>
+334-844-6335 -><phone>
+davidumphress@auburn.edu -><email>
+sah0017@auburn.edu -><email>

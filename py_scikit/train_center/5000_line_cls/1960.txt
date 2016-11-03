@@ -1,0 +1,6 @@
+An Algorithm for the -><title>
+Coalitional Manipulation Problem under Maximin -><title>
+Michael Zuckerman -><author>
+michez@cs.huji.ac.il Omer Levomerl@cs.huji.ac.il Jeffrey S. Rosenscheinjeff@cs.huji.ac.il -><email>
+The School of Computer Science and Engineering -><affiliation>
+The Hebrew University of Jerusalem -><affiliation>

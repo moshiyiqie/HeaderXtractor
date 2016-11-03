@@ -1,0 +1,5 @@
+Some Methods for Teaching Functions First Using Java -><title>
+Ian Barland -><author>
+Radford University -><affiliation>
+Radford, VA 24142 -><address>
+ibarland@radford.edu -><email>

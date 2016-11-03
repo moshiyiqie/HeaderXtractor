@@ -1,0 +1,7 @@
+Peer-Design Agents for Reliably Evaluating Distribution of -><title>
+Outcomes in Environments Involving People -><title>
+Moshe Mash, Raz Lin and David Sarne -><author>
+Department of Computer Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan, Israel 52900 -><address>
+{mashmos,linraz,sarned}@cs.biu.ac.il -><email>

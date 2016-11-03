@@ -1,0 +1,8 @@
+Exploiting the Structure of Distributed Constraint -><title>
+Optimization Problems∗ -><title>
+(Doctoral Consortium) -><title>
+Ferdinando Fioretto -><author>
+ffiorett@cs.nmsu.edu -><email>
+Computer Science Department & Mathematics and Computer Science Department -><affiliation>
+New Mexico State University & University of Udine -><affiliation>
+Las Cruces, NM 88003, USA -><address>

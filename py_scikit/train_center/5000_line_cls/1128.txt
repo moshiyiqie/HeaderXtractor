@@ -1,0 +1,12 @@
+Experiences with the Design and Implementation of an -><title>
+Agent-based Autonomous UAV Controller -><title>
+Clint Heinze -><author>
+Air Operations Division -><affiliation>
+Defence Science and Technology Organisation -><affiliation>
+Melbourne, Australia -><address>
+clinton.heinze@dsto.defence.gov.au -><email>
+Samin Karim∗ -><author>
+Department of Information Systems -><affiliation>
+University of Melbourne -><affiliation>
+Melbourne, Australia -><address>
+mkarim@pgrad.unimelb.edu.au -><email>

@@ -1,0 +1,12 @@
+Social Decision with Minimal Efficiency Loss: -><title>
+An Automated Mechanism Design Approach -><title>
+Taiki Todo, Yuko Sakurai, Makoto Yokoo -><author>
+Graduate School of ISEE -><affiliation>
+Kyushu University, Japan -><affiliation>
+{todo,ysakurai,yokoo} -><address>
+@inf.kyushu-u.ac.jp -><email>
+Mingyu Guo, Hong Shen -><author>
+School of Computer Science -><affiliation>
+University of Adelaide, Australia -><affiliation>
+{mingyu.guo, hong.shen} -><email>
+@adelaide.edu.au -><email>

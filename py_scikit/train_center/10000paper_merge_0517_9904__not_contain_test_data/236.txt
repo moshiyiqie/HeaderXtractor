@@ -1,0 +1,13 @@
+An Analysis of Agent Speech Acts as Institutional Actions -><title>
+Marco Colombetti -><author>
+Politecnico di Milano -><affiliation>
+Piazza L. Da Vinci, 32, 20133 Milano, Italy -><affiliation>
+University of Lugano -><affiliation>
+Via Buffi 13, 6900 Lugano, Switzerland -><address>
+Marco.Colombetti@polimi.it -><email>
+Mario Verdicchio -><email>
+Politecnico di Milano -><author>
+Department of Electronics and Information -><affiliation>
+Piazza L. Da Vinci, 32 -><address>
+20133 Milano, Italy -><address>
+Mario.Verdicchio@elet.polimi.it -><email>

@@ -1,0 +1,13 @@
+Evaluating Service-Based Software Applications -><title>
+Jakita O. Thomas -><author>
+IBM Almaden Research Center -><affiliation>
+650 Harry Road -><address>
+San Jose, CA 95123 -><address>
+owensby@us.ibm.com -><email>
+Kinnis Gosha -><author>
+Auburn University -><affiliation>
+Shelby Center for Engineering Technology -><affiliation>
+Suite 3101 -><address>
+Auburn, Alabama U.S.A. 36849-5347 -><affiliation>
+(334) 844-3653 -><phone>
+goshakk@auburn.edu -><email>

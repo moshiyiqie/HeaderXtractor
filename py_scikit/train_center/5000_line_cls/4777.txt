@@ -1,0 +1,34 @@
+Specifying Metamodel transformations for Data -><title>
+Warehouse design -><title>
+Leopoldo Zepeda -><title>
+Matilde Celma -><title>
+Camino de Vera s/n -><author>
+lezepeda@dsic.upv.es -><email>
+celma@dsic.upv.es -><email>
+1. PROBLEM AND MOTIVATION -><abstract>
+Motivated by the increasing use of data warehouse systems and -><abstract>
+the difficulties in its definition, we propose an automatic approach -><abstract>
+for discovering multidimensional structure from relational -><abstract>
+databases, based in MDA. MDA supports the development of -><abstract>
+software- systems through the transformation of models [1]. MDA -><abstract>
+requires that model transformations be defined precisely in terms -><abstract>
+of the relationship between a source meta-model and a target -><abstract>
+meta-model. This paper is concerned with OLAP schema -><abstract>
+derivation (target meta-model) starting from the Relational meta- -><abstract>
+model (source meta-model). For the definition and application of -><abstract>
+model transformations we use the proposal for QVT presented in -><abstract>
+[2]. -><abstract>
+2. BACKGROUND AND RELATED WORK -><abstract>
+An important condition for using a data warehouse is that data -><abstract>
+warehouse schema follows a multidimensional paradigm. -><abstract>
+Defining a multidimensional scheme is a hard task, demanding -><abstract>
+knowledge of operational database schema. MDA consists of a set -><abstract>
+of standards that allow the creation, implementation, evolution -><abstract>
+and development of systems directed by models. The standards -><abstract>
+that form MDA are: Unified Modeling Language (UML), Meta- -><abstract>
+Object-Facility (MOF), XML Meta-Data Interchange (XMI) and -><abstract>
+Common Warehouse Meta-model (CWM) [3]. Together, they -><abstract>
+unify and simplify the modeling, design and the implementation -><abstract>
+of systems. -><abstract>
+CWM is a language created specifically to model database -><abstract>
+applications. This meta-model has a set of class specifically for: -><abstract>

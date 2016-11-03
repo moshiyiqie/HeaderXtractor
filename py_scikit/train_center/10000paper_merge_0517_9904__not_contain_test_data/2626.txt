@@ -1,0 +1,16 @@
+A Mechanism for Smoothly Handling Human Interrupts in -><title>
+Team Oriented Plans -><title>
+Nathan Brooks, Paul Scerri -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA USA -><address>
+nbb@cs.cmu.edu -><email>
+pscerri@cs.cmu.edu -><email>
+Alessandro Farinelli, Nicolo’ Marchi, -><author>
+Masoume M. Raeissi -><author>
+Computer Science Department -><affiliation>
+University of Verona -><affiliation>
+Verona, Italy -><address>
+alessandro.farinelli@univr.it -><email>
+marchi.nicolo@gmail.com -><email>
+masoume.raeissi@univr.it -><email>

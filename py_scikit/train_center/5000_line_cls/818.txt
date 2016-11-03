@@ -1,0 +1,5 @@
+Simulation and Visualization of a Market-Based Model for Logistics Management -><title>
+in Transportation -><title>
+CWI, National Center for Mathematics and Computer Science -><author>
+Kruislaan 403, 1098 SJ Amsterdam, The Netherlands -><address>
+{hoen, robu, hlp}@cwi.nl -><email>

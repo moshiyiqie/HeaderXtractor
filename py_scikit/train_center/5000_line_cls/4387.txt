@@ -1,0 +1,13 @@
+Reactive Power Management for Distributed Systems -><title>
+Michael Galloway -><author>
+University of Alabama -><affiliation>
+Department of Computer Science -><affiliation>
+jmgalloway@crimson.ua.edu -><email>
+Karl Smith -><author>
+University of Alabama -><affiliation>
+Department of Computer Science -><affiliation>
+smith102@crimson.ua.edu -><email>
+Susan Vrbsky -><author>
+University of Alabama -><affiliation>
+Department of Computer Science -><affiliation>
+vrbsky@cs.ua.edu -><email>

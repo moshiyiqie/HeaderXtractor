@@ -1,0 +1,14 @@
+Transforming Sem-ODM Semantic Schemas to DTDs -><title>
+Naphtali Rishe -><title>
+High Performance Database Research Center -><title>
+Li Yang -><author>
+Department of Computer Science -><affiliation>
+University of West Georgia -><affiliation>
+School of Computer Science -><affiliation>
+Carrollton, GA 30118, USA -><address>
+1-678-839-6656 -><phone>
+lyang@westga.edu -><email>
+Florida International University -><affiliation>
+Miami, FL 33199, USA -><address>
+1-305-348-2025 -><phone>
+rishen@cs.fiu.edu -><email>

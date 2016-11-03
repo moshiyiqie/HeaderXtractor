@@ -1,0 +1,6 @@
+Designing Incentives for Boolean Games -><title>
+Ulle Endriss∗ Sarit Kraus+ Jérôme Lang† Michael Wooldridge‡ -><author>
+∗University of Amsterdam, The Netherlands (ulle.endriss@uva.nl) -><affiliation>
++Bar Ilan University, Israel (sarit@cs.biu.ac.il) -><affiliation>
+†Université Paris-Dauphine, France (lang@irit.fr) -><affiliation>
+‡University of Liverpool, United Kingdom (mjw@liv.ac.uk) -><affiliation>

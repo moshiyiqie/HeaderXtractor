@@ -1,0 +1,32 @@
+A Feasibility Study of an In-the-Wild Experimental Public -><title>
+Access WiFi Network -><title>
+Arjuna Sathiaseelan -><author>
+Computer Laboratory -><affiliation>
+University of Cambridge -><affiliation>
+Cambridge, UK -><address>
+first.last@cl.cam.ac.uk -><email>
+Christian Greiffenhagen -><author>
+Department of Social -><affiliation>
+Sciences -><author>
+Loughborough University, UK -><affiliation>
+first.last@lboro.ac.uk -><email>
+Richard Mortier, -><author>
+Murray Goulden -><author>
+Horizon Digital Economy -><affiliation>
+Research -><affiliation>
+University of Nottingham, UK -><affiliation>
+first.last@nottingham.ac.uk -><email>
+Milena Radenkovic -><author>
+School of Computer Science -><affiliation>
+University of Nottingham, UK -><affiliation>
+first.last@nottingham.ac.uk -><email>
+Jon Crowcroft -><author>
+Computer Laboratory -><affiliation>
+University of Cambridge -><affiliation>
+Cambridge, UK -><address>
+first.last@cl.cam.ac.uk -><email>
+Derek McAuley -><email>
+Horizon Digital Economy -><author>
+Research -><affiliation>
+University of Nottingham, UK -><affiliation>
+first.last@nottingham.ac.uk -><email>

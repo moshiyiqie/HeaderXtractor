@@ -1,0 +1,8 @@
+Determining the Membership Values to Optimize Retrieval -><title>
+in a Fuzzy Relational Database -><title>
+Shweta Sanghi -><author>
+Department of Computer Science, School of Engineering -><affiliation>
+Virginia Commonwealth University -><affiliation>
+Richmond, VA 23284 -><address>
+1-804-828-0575 -><phone>
+sanghis@vcu.edu -><email>

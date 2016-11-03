@@ -1,0 +1,6 @@
+Negotiating Gestalt: -><title>
+Artistic Expression and Coalition Formation in Multiagent Systems -><title>
+Kaye Mason Jo¨rg Denzinger Sheelagh Carpendale -><author>
+Department of Computer Science -><affiliation>
+University of Calgary, Canada -><affiliation>
+{katherim,denzinge,sheelagh}@cpsc.ucalgary.ca -><email>

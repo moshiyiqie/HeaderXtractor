@@ -1,0 +1,5 @@
+Botticelli: A Supply Chain Management Agent -><title>
+M. Benisch, A. Greenwald, I. Grypari, R. Lederman, V. Naroditskiy, and M. Tschantz -><author>
+Department of Computer Science, Brown University, Box 1910, Providence, RI 02912 -><affiliation>
+{mbenisch,amygreen,vnarodit,mtschant}@cs.brown.edu -><email>
+{Ioanna Grypari}@brown.edu, {rogerl}@alumni.brown.edu -><email>

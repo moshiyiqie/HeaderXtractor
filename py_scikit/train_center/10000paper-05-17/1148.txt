@@ -1,0 +1,10 @@
+The Complexity of Voter Partition in Bucklin and Fallback -><title>
+Voting: Solving Three Open Problems -><title>
+Lena Piras and Jörg Rothe -><author>
+Heinrich-Heine-Universität Düsseldorf, -><affiliation>
+40225 Düsseldorf, Germany -><address>
+{piras, rothe}@cs.uni-duesseldorf.de -><email>
+Gábor Erdélyi ∗ -><author>
+Nanyang Technological University -><affiliation>
+Singapore -><address>
+erdelyi@cs.uni-duesseldorf.de -><email>

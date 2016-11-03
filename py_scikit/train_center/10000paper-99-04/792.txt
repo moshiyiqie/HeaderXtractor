@@ -1,0 +1,6 @@
+A Model of Almost Everything: -><title>
+Norms, Structure and Ontologies in Agent Organizations -><title>
+Virginia Dignum, Javier Va´zquez-Salceda , Frank Dignum -><author>
+Institute of Information and Computing Sciences -><affiliation>
+Utrecht University, The Netherlands -><affiliation>
+{virginia, javier, dignum}@ cs.uu.nl -><email>

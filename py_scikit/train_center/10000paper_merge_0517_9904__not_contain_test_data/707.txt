@@ -1,0 +1,20 @@
+Ontology-Guided Learning to Improve Communication -><title>
+between Groups of Agents -><title>
+Jo¨rg Denzinger -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Calgary -><affiliation>
+Calgary, Canada -><address>
+denzinge@cpsc.ucalgary.ca -><email>
+Behrouz H.Far -><author>
+Department of Electrical and -><affiliation>
+Computer Engineering -><affiliation>
+University of Calgary -><affiliation>
+Calgary, Canada -><address>
+far@ucalgary.ca -><email>
+Mohsen Afsharchi -><author>
+Department of Electrical and -><affiliation>
+Computer Engineering -><affiliation>
+University of Calgary -><affiliation>
+Calgary, Canada -><address>
+mafsharc@ucalgary.ca -><email>

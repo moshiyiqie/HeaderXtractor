@@ -1,0 +1,6 @@
+Learning Applications of Multi-tasking Signal Analysis of -><title>
+Fourier Transform Based on Smart Mobile Devices -><title>
+Zhengzhe Li, Teng Zhao, Dong Ren, Yang Zhang and Lei Wang -><author>
+Southern Polytechnic State University -><affiliation>
+1100 S. Marietta Pkwy, Marietta, GA, 30060 -><address>
+{zli9, tzhao, dren, yzhang3, lwang4}@spsu.edu -><email>

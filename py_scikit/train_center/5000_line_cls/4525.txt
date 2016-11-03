@@ -1,0 +1,21 @@
+Teaching CS Principles with App Inventor -><title>
+Hal Abelson -><author>
+MIT -><affiliation>
+Center for Mobile Learning -><affiliation>
+Cambridge, MA 02139 -><address>
+hal@mit.edu -><email>
+Michelle Friend -><author>
+Stanford University -><affiliation>
+School of Education -><affiliation>
+Stanford, CA 94305 -><address>
+mfriend@pobox.com -><email>
+David Wolber -><author>
+University of San Francisco -><affiliation>
+Dept. of Computer Science -><affiliation>
+San Francisco, CA 94117 -><address>
+wolber@usfca.edu -><email>
+Jeff Gray -><author>
+University of Alabama -><affiliation>
+Dept. of Computer Science -><affiliation>
+Tuscaloosa, AL 35487 -><address>
+gray@cs.ua.edu -><email>

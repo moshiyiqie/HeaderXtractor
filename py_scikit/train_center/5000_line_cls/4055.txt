@@ -1,0 +1,7 @@
+iSee: Interactive Scenario Explorer for -><title>
+Online Tournament Games -><title>
+Greg Smith, Desney Tan, Bongshin Lee -><author>
+Microsoft Research -><affiliation>
+One Microsoft Way -><address>
+Redmond, Washington 98052, USA -><address>
+{gregsmi,desney,bongshin}@microsoft.com -><email>

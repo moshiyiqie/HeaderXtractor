@@ -1,0 +1,6 @@
+Kenneth N. Lodding -><author>
+NASA Langley Research Center -><affiliation>
+k.n.lodding@larc.nasa.gov -><email>
+Paul Brewster -><author>
+NASA Langley Research Center -><affiliation>
+p.f.brewster@larc.nasa.gov -><email>

@@ -1,0 +1,6 @@
+A Distributed Framework for Solving the Multiagent Plan -><title>
+Coordination Problem -><title>
+Jeffrey S. Cox, Edmund H. Durfee, and Thomas Bartold -><author>
+Department of Electrical Engineering and Computer Science -><affiliation>
+University of Michigan Ann Arbor, MI 48109 -><affiliation>
+{jeffcox, durfee, tbartold}@umich.edu -><email>

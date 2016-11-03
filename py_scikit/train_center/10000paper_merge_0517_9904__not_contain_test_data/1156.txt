@@ -1,0 +1,15 @@
+Approximation Methods for Infinite Bayesian Stackelberg -><title>
+Games: Modeling Distributional Payoff Uncertainty -><title>
+Janusz Marecki -><author>
+IBM Watson Research Lab -><affiliation>
+New York, NY -><address>
+janusz.marecki@gmail.com -><email>
+Christopher Kiekintveld -><author>
+University of Texas at El Paso -><affiliation>
+Dept. of Computer Science -><affiliation>
+cdkiekintveld@utep.edu -><email>
+Milind Tambe -><author>
+University of Southern -><affiliation>
+California -><address>
+Dept. of Computer Science -><affiliation>
+tambe@usc.edu -><email>

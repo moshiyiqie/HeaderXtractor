@@ -1,0 +1,15 @@
+Cross-Layer Path Computation for Dynamic Traffic -><title>
+Grooming -><title>
+in Mesh WDM Optical Networks -><title>
+Feng He -><author>
+Dept. of Computer Science -><affiliation>
+Norfolk State University -><affiliation>
+Norfolk, VA 23504 -><address>
+01-757-823-8327 -><phone>
+f.he@nsu.edu -><email>
+Chunsheng Xin -><author>
+Dept. of Computer Science -><affiliation>
+Norfolk State University -><affiliation>
+Norfolk, VA 23504 -><address>
+01-757-823-8308 -><phone>
+cxin@nsu.edu -><email>

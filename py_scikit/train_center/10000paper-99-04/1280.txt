@@ -1,0 +1,6 @@
+A Formal Model of Open Agent Societies -><title>
+Alexander Artikis and Jeremy Pitt -><author>
+Department of Electrical & Electronic Engineering -><affiliation>
+Imperial College of Science, Technology and Medicine -><affiliation>
+London, SW7 2BT, UK -><address>
+{a.artikis, j.pitt}@ic.ac.uk -><email>

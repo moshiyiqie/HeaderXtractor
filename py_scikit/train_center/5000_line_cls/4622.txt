@@ -1,0 +1,7 @@
+Complexity-Distortion Tradeoffs in Variable Complexity -><title>
+2-D DCT -><title>
+Zexin Pan, W. David Pan, and Aleksandar Milenkovic -><author>
+Electrical and Computer Engineering Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, AL 35899 -><address>
+{panz, dwpan, milenka}@ece.uah.edu -><email>

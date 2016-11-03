@@ -1,0 +1,10 @@
+A Framework for Decomposing Reputation in MAS -><title>
+into Competence and Integrity -><title>
+Marie desJardins -><author>
+University of Maryland Baltimore County -><affiliation>
+Baltimore, MD 21250 -><address>
+mariedj@cs.umbc.edu -><email>
+Michael J. Smith -><author>
+University of Maryland Baltimore County -><affiliation>
+Baltimore, MD 21250 -><address>
+msmith27@cs.umbc.edu -><email>

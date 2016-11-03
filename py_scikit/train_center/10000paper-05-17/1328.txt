@@ -1,0 +1,6 @@
+Dynamic Reconfiguration in Modular Robots -><title>
+using Graph Partitioning-based Coalitions -><title>
+Prithviraj Dasgupta, Vladimir Ufimtsev Carl Nelson, S. G. M. Hossain -><author>
+Computer Science Department Mechanical Engg. Department -><affiliation>
+University of Nebraska, Omaha, USA University of Nebraska, Lincoln, USA -><affiliation>
+{pdasgupta, vufimtsev}@unomaha.edu cnelson5@unl.edu, smgmamur@yahoo.com -><email>

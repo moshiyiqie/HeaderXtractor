@@ -1,0 +1,17 @@
+Planning in a Multi-Agent Environment: -><title>
+Theory and Practice -><title>
+He´ctor Mun˜oz-Avila -><author>
+Dept. of CSE -><affiliation>
+Lehigh University -><affiliation>
+USA -><address>
+munoz@eecs.lehigh.edu -><email>
+Ju¨rgen Dix∗ -><author>
+The University of Manchester -><affiliation>
+Dept. of CS, Oxford Road -><affiliation>
+Manchester M13 9PL, UK -><address>
+dix@cs.man.ac.uk -><email>
+Dana Nau/Lingling Zhang -><author>
+University of Maryland -><affiliation>
+Dept. of CS -><affiliation>
+College Park, MD 20752, USA -><address>
+{nau,lingl}@cs.umd.edu -><email>

@@ -1,0 +1,15 @@
+A POMDP Based Approach to Optimally Select -><title>
+Sellers in Electronic Marketplaces -><title>
+Athirai A. Irissappane -><author>
+Nanyang Technological -><affiliation>
+University, Singapore -><affiliation>
+athirai001@e.ntu.edu.sg -><email>
+Jie Zhang -><email>
+Nanyang Technological -><author>
+University, Singapore -><affiliation>
+zhangj@ntu.edu.sg -><email>
+Frans A. Oliehoek -><author>
+University of Amsterdam / -><affiliation>
+Maastricht University -><affiliation>
+The Netherlands -><address>
+f.a.oliehoek@uva.nl -><email>

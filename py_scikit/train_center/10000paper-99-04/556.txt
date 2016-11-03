@@ -1,0 +1,6 @@
+Taking DCOP to the Real World: -><title>
+Efficient Complete Solutions for Distributed Multi-Event Scheduling -><title>
+Rajiv T. Maheswaran, Milind Tambe, Emma Bowring, -><author>
+Jonathan P. Pearce, and Pradeep Varakantham -><author>
+University of Southern California -><affiliation>
+{maheswar, tambe, bowring, jppearce, varakant}@usc.edu -><email>

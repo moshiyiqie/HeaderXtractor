@@ -1,0 +1,17 @@
+Enhancement of Adaptive ∆-Causality Control with Adaptive -><title>
+Dead-Reckoning for Multiplayer Online Games -><title>
+Yutaka Ishibashi -><author>
+Department of Scientific and -><affiliation>
+Engineering Simulation, -><degree>
+Nagoya Institute of Technology -><affiliation>
+ishibasi@nitech.ac.jp -><email>
+Naoki Ishii -><author>
+Department of Scientific and -><affiliation>
+Engineering Simulation, -><degree>
+Nagoya Institute of Technology -><affiliation>
+n-ishii@mcl.nitech.ac.jp -><email>
+Shinji Sugawara -><unknow>
+Department of Scientific and -><degree>
+Engineering Simulation, -><degree>
+Nagoya Institute of Technology -><affiliation>
+shinji@nitech.ac.jp -><email>

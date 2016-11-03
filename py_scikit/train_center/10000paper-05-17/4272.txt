@@ -1,0 +1,11 @@
+Who is Tweeting on Twitter: Human, Bot, or Cyborg? -><title>
+Zi Chu, Steven Gianvecchio and Haining Wang -><author>
+Department of Computer Science -><affiliation>
+The College of William and Mary -><affiliation>
+Williamsburg, VA 23187, USA -><address>
+{zichu, srgian, hnw}@cs.wm.edu -><email>
+Sushil Jajodia -><author>
+Center for Secure Information Systems -><affiliation>
+George Mason University -><affiliation>
+Fairfax, VA 22030, USA -><address>
+jajodia@gmu.edu -><email>

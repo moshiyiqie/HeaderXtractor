@@ -1,0 +1,19 @@
+Agent Teaching Agent Framework -><title>
+Parijat Prosun Kar -><author>
+Department of Mathematical & Computer -><affiliation>
+Sciences -><author>
+The University of Tulsa -><affiliation>
+karpa@ens.utulsa.edu -><email>
+Sandip Sen -><author>
+Department of Mathematical & Computer -><affiliation>
+Sciences -><author>
+The University of Tulsa -><affiliation>
+sandip@kolkata.mcs.utulsa.edu -><email>
+Categories and Subject Descriptors -><keyword>
+I.2.11 [Artificial Intelligence]: Distributed Artiﬁcial In- -><keyword>
+telligence; I.2.8 [Artificial Intelligence]: Learning—con- -><keyword>
+cept learning -><keyword>
+General Terms -><keyword>
+Algorithms, Experimentation, Performance -><keyword>
+Keywords -><keyword>
+Agents, training -><keyword>

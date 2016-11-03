@@ -1,0 +1,11 @@
+Towards Model Checking Interpreted Systems∗ -><title>
+M.J. Sergot -><author>
+Department of Computing -><affiliation>
+Imperial College -><affiliation>
+London SW7 2BZ, UK -><address>
+mjs@doc.ic.ac.uk -><email>
+A. Lomuscio, F. Raimondi -><author>
+Department of Computer Science -><affiliation>
+King’s College -><affiliation>
+London WC2R 2LS, UK -><address>
+{alessio,franco}@dcs.kcl.ac.uk -><email>

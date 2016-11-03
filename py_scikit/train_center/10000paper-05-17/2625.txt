@@ -1,0 +1,5 @@
+Endgame Solving in Large Imperfect-Information Games∗ -><title>
+Sam Ganzfried and Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+{sganzfri, sandholm}@cs.cmu.edu -><email>

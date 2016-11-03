@@ -1,0 +1,5 @@
+SensorSift: Balancing Sensor Data Privacy and Utility in -><title>
+Automated Face Understanding -><title>
+Miro Enev, Jaeyeon Jung, Liefeng Bo, Xiaofeng Ren, and Tadayoshi Kohno -><author>
+Department of Computer Science and Engineering, University of Washington -><affiliation>
+Microsoft Research, Redmond WA -><affiliation>

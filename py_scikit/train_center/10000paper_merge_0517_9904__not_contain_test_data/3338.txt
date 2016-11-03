@@ -1,0 +1,22 @@
+Vision-Based Real-Time Exercise Instruction System -><title>
+Chien-Chun Kuo -><author>
+Industrial Technology Research -><affiliation>
+Institute -><affiliation>
+8, Gongyan Rd., Liujia Shiang -><address>
+Tainan County, Taiwan -><address>
++886-6-6939139 -><phone>
+joneson@itri.org.tw -><email>
+Duan-Li Liao -><author>
+Industrial Technology Research -><affiliation>
+Institute -><affiliation>
+8, Gongyan Rd., Liujia Shiang -><address>
+Tainan County, Taiwan -><address>
++886-6-6939271 -><phone>
+dunli@itri.org.tw -><email>
+Wen-Yang Wang -><author>
+Industrial Technology Research -><affiliation>
+Institute -><affiliation>
+8, Gongyan Rd., Liujia Shiang -><address>
+Tainan County, Taiwan -><address>
++886-6-6939115 -><phone>
+wwj@itri.org.tw -><email>

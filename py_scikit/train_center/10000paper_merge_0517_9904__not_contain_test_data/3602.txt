@@ -1,0 +1,13 @@
+Comparing Parallel Performance of Go and C++ TBB on a -><title>
+Direct Acyclic Task Graph Using a Dynamic Programming -><title>
+Problem -><title>
+Peiyi Tang -><author>
+Department of Computer Science -><affiliation>
+University of Arkansas at Little Rock -><affiliation>
+Little Rock, Arkansas 72204 -><address>
+pxtang@ualr.edu -><email>
+Doug Serfass -><author>
+Department of Computer Science -><affiliation>
+University of Arkansas at Little Rock -><affiliation>
+Little Rock, Arkansas 72204 -><address>
+djserfass@ualr.edu -><email>

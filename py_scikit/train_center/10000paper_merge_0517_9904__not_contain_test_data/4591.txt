@@ -1,0 +1,21 @@
+Efficient Top-K Retrieval with Signatures -><title>
+Timothy Chappell -><author>
+Faculty of Science and Technology -><affiliation>
+Queensland University of Technology -><affiliation>
+Brisbane, Australia -><address>
+t.chappell@connect.qut.edu.au -><email>
+Shlomo Geva -><author>
+Faculty of Science and Technology -><affiliation>
+Queensland University of Technology -><affiliation>
+Brisbane, Australia -><address>
+s.geva@qut.edu.au -><email>
+Guido Zuccon -><author>
+Australian e-Health Research Centre -><affiliation>
+CSIRO -><affiliation>
+Brisbane, Australia -><address>
+Guido.Zuccon@csiro.au -><email>
+Anthony Nguyen -><author>
+Australian e-Health Research Centre -><affiliation>
+CSIRO -><affiliation>
+Brisbane, Australia -><address>
+Anthony.Nguyen@csiro.au -><email>

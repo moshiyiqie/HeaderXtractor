@@ -1,0 +1,12 @@
+Bio-inspired Practicalities: Collective Behaviour using -><title>
+Passive Neighbourhood Sensing -><title>
+∗ -><title>
+† -><title>
+Mandar Chitre -><author>
+National University of Singapore -><affiliation>
+119222 Singapore -><address>
+mandar@arl.nus.edu.sg -><email>
+Mansoor Shaukat -><email>
+National University of Singapore -><affiliation>
+119222 Singapore -><address>
+mansoor@arl.nus.edu.sg -><email>

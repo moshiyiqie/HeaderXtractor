@@ -1,0 +1,9 @@
+Digital Forensics on a Virtual Machine -><title>
+Juan Carlos Flores Cruz -><author>
+Travis Atkison -><author>
+Louisiana Tech University -><affiliation>
+Louisiana Tech University -><affiliation>
+Ruston, LA 71272 -><address>
+Ruston, LA 71272 -><address>
+jcf028@latech.edu -><email>
+atkison@latech.edu -><email>

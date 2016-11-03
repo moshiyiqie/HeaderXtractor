@@ -1,0 +1,7 @@
+A Brief Dive into .NET -><title>
+Richard Conn -><author>
+Microsoft Corporation -><affiliation>
+One Microsoft Way -><affiliation>
+Redmond, WA 98052 -><address>
+678/521-3440 -><phone>
+rconn@microsoft.com -><email>

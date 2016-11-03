@@ -1,0 +1,6 @@
+A Parsing Algorithm for Korean Implemented in Prolog -><title>
+Soyoung Kwon -><author>
+Program in Linguistics -><affiliation>
+The University of Georgia -><affiliation>
+Athens, GA 30602 U.S.A. -><address>
+ksy@uga.edu -><email>

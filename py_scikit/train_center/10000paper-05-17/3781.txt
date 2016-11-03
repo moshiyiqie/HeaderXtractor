@@ -1,0 +1,8 @@
+A Flexible Client/Server Application for -><title>
+Robotic Control -><title>
+Marvin Roe, Donald Brandon, Patrick McDowell, Dr. Brian Bourgeios -><author>
+Naval Research Laboratory -><affiliation>
+Stennis Space Center, MS -><affiliation>
+39529-5004, USA -><address>
+228.688.4584 -><address>
+marvin.roe@nrlssc.navy.mil -><email>

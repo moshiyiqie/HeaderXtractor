@@ -1,0 +1,6 @@
+TROGUARD: Context-Aware Protection -><title>
+Against Web-Based Socially Engineered Trojans -><title>
+Rui Han∗, Alejandro Mesa∗, Mihai Christodorescu†, Saman Zonouz‡ -><author>
+∗†Electrical and Computer Engineering -><affiliation>
+∗University of Miami, †QualComm Research, ‡Rutgers University -><affiliation>
+{r.han, a.mesa11}@umiami.edu, mihai@qti.qualcomm.com, saman.zonouz@rutgers.edu -><email>

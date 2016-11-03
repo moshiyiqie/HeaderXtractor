@@ -1,0 +1,9 @@
+A Pheromone-Based Utility Model for Collaborative Foraging -><title>
+Sean Luke -><author>
+Department of Computer Science -><affiliation>
+George Mason University -><affiliation>
+sean@cs.gmu.edu -><email>
+Liviu Panait -><author>
+Department of Computer Science -><affiliation>
+George Mason University -><affiliation>
+lpanait@cs.gmu.edu -><email>

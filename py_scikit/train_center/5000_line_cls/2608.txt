@@ -1,0 +1,7 @@
+A Task Complexity Assessment Tool for Single-Operator -><title>
+Multi-Robot Control Scenarios -><title>
+(Demonstration) -><title>
+A. Tuna Özgelen1 and Elizabeth Sklar1,2 -><author>
+1The Graduate Center and 2Brooklyn College -><affiliation>
+The City University of New York, New York, USA -><affiliation>
+aozgelen@gc.cuny.edu,sklar@sci.brooklyn.cuny.edu -><email>

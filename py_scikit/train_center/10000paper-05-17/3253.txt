@@ -1,0 +1,7 @@
+Multiplayer Pervasive Games and Networked Interactive -><title>
+Installations using Ad hoc Mobile Sensor Networks∗ -><title>
+Orestis Akribopoulos, Marios Logaras, Nikos Vasilakis, Panagiotis Kokkinos, -><author>
+Georgios Mylonas, Ioannis Chatzigiannakis, Paul Spirakis -><author>
+Research Academic Computer Technology Institute & -><affiliation>
+Dpt. of Computer Engineering and Informatics, Patras, Greece -><affiliation>
+{akribopo, logaras, basilakn, kokkinop, mylonasg, ichatz, spirakis}@cti.gr -><email>

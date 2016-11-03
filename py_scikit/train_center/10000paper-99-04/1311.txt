@@ -1,0 +1,16 @@
+Monitoring Deployed Agent Teams -><title>
+David V. Pynadath -><author>
+Information Sciences Institute -><affiliation>
+Univ. of Southern California -><affiliation>
+Marina del Rey, CA 90292 -><address>
+pynadath@isi.edu -><email>
+Milind Tambe -><author>
+Information Sciences Institute -><affiliation>
+Univ. of Southern California -><affiliation>
+Marina del Rey, CA 90292 -><address>
+tambe@isi.edu -><email>
+Gal A. Kaminka -><author>
+Computer Science Dept. -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213 -><address>
+galk@cs.cmu.edu -><email>

@@ -1,0 +1,27 @@
+RMASBench: a Benchmarking System for Multi-Agent -><title>
+Coordination in Urban Search and Rescue -><title>
+(Demonstration) -><title>
+Fabio Maffioletti -><author>
+University of Verona -><affiliation>
+Verona, I-37134, Italy -><address>
+fabio.maffioletti.uni@gmail.com -><email>
+Riccardo Reffato -><author>
+University of Verona -><affiliation>
+Verona, I-37134, Italy -><address>
+refax88@gmail.com -><email>
+Alessandro Farinelli -><author>
+University of Verona -><affiliation>
+Verona, I-37134, Italy -><address>
+alessandro.farinelli@univr.it -><email>
+Alexander Kleiner -><author>
+Linköping University -><affiliation>
+58183 Linköping, Sweden -><address>
+alexander.kleiner@liu.se -><email>
+Sarvapali Ramchurn -><author>
+University of Southampton -><affiliation>
+Southampton, SO17 1BJ, UK -><address>
+sdr1@soton.ac.uk -><email>
+Bing Shi -><author>
+Wuhan University of Tec. -><affiliation>
+Wuhan, China -><address>
+bingshi@whut.edu.cn -><email>

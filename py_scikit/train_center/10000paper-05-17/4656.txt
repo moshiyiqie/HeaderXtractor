@@ -1,0 +1,33 @@
+Handling Missing Values in GPS Surveys Using Survival -><title>
+Analysis -><title>
+A GPS Case Study of Outdoor Advertising -><title>
+Christine Körner -><author>
+Fraunhofer IAIS -><affiliation>
+St. Augustin, Germany -><address>
+christine.koerner -><email>
+@iais.fraunhofer.de -><email>
+Dirk Hecker -><author>
+Fraunhofer IAIS -><affiliation>
+St. Augustin, Germany -><address>
+dirk.hecker -><email>
+@iais.fraunhofer.de -><email>
+Michael May -><author>
+Fraunhofer IAIS -><affiliation>
+St. Augustin, Germany -><address>
+michael.may -><email>
+@iais.fraunhofer.de -><email>
+Urs Hofmann -><author>
+Swiss Poster Research Plus -><affiliation>
+Zurich, Switzerland -><address>
+u.hofmann@spr-plus.ch -><email>
+Felix Mende -><author>
+Affichage International -><affiliation>
+Zurich, Switzerland -><address>
+felix.mende -><email>
+@affichage.com -><email>
+Martial Pasquier -><author>
+Swiss Graduate School of -><affiliation>
+Public Administration -><address>
+Lausanne, Switzerland -><address>
+martial.pasquier -><email>
+@idheap.unil.ch -><email>

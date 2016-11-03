@@ -1,0 +1,12 @@
+Evolution of Artificial Agents in a Realistic Virtual -><title>
+Environment -><title>
+Joseph A. Driscoll -><author>
+Department of Computer Science -><affiliation>
+Middle Tennessee State University -><affiliation>
+Murfreesboro, TN 37132 -><address>
+driscoll@mtsu.edu -><email>
+Jonathan R. Hicks -><author>
+Department of Computer Science -><affiliation>
+Middle Tennessee State University -><affiliation>
+Murfreesboro, TN 37132 -><address>
+jh2f@mtsu.edu -><email>

@@ -1,0 +1,13 @@
+Engineering Knowledge -><title>
+Tia B. Walton -><author>
+Xavier University of Louisiana -><affiliation>
+Computer Sciences and Computer Engineering -><affiliation>
+One Drexel Drive, Campus Box 50 -><address>
+504.520.5248 -><address>
+tbwalton@xula.edu -><email>
+Shauntrelle D. Davis -><author>
+Xavier University of Louisiana -><affiliation>
+Computer Sciences and Computer Engineering -><affiliation>
+One Drexel Drive, Campus Box 50 -><address>
+504.520.5248 -><address>
+sddavis@xula.edu -><email>

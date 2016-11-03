@@ -1,0 +1,33 @@
+CRIEP: A Platform for Distributed Robotics Research -><title>
+Gabriel Loewen -><author>
+Armstrong Atlantic State -><affiliation>
+University -><affiliation>
+11935 Abercorn Street -><address>
+Savannah, GA -><address>
+gabriel@gabrieljacob.com -><email>
+James Weston -><author>
+Armstrong Atlantic State -><affiliation>
+University -><affiliation>
+11935 Abercorn Street -><address>
+Savannah, GA -><address>
+jamesvweston@gmail.com -><email>
+Jackie O’Quinn -><author>
+Armstrong Atlantic State -><affiliation>
+University -><affiliation>
+11935 Abercorn Street -><address>
+Savannah, GA -><address>
+oquinn.jack@gmail.com -><email>
+∗ -><web>
+† -><unknow>
+Bradley Sturz -><author>
+Armstrong Atlantic State -><affiliation>
+University -><affiliation>
+11935 Abercorn Street -><address>
+Savannah, GA -><address>
+Bradley.Sturz@armstrong.edu -><email>
+Ashraf Saad -><unknow>
+Armstrong Atlantic State -><author>
+University -><affiliation>
+11935 Abercorn Street -><address>
+Savannah, GA -><address>
+Ashraf.Saad@armstrong.edu -><email>

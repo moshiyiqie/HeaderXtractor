@@ -1,0 +1,10 @@
+AOCI: Ontology-based Pointcuts -><title>
+Sven Schober -><author>
+Institute of Distributed Systems -><affiliation>
+Ulm University, Germany -><affiliation>
+sven.schober@uni-ulm.de -><email>
+Guido Söldner, Rüdiger Kapitza -><author>
+Department of Computer Science 4 -><affiliation>
+Friedrich-Alexander University -><affiliation>
+Erlangen-Nuremberg, Germany -><address>
+{soeldner,rrkapitz}@cs.fau.de -><email>

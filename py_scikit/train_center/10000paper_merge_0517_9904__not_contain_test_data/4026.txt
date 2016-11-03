@@ -1,0 +1,11 @@
+Second-Order Illumination in Real-Time (Student Paper) -><title>
+Jay Steele -><author>
+Department of Computer Science -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+jesteel@cs.clemson.edu -><email>
+Robert Cochran -><author>
+Department of Computer Science -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+rcochra@cs.clemson.edu -><email>

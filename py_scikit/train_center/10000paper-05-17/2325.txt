@@ -1,0 +1,8 @@
+A Computational model of Social Attitudes -><title>
+for a Virtual Recruiter -><title>
+Zoraida Callejas, Brian Ravenet, Magalie Ochs, Catherine Pelachaud -><author>
+ Dpt. Languages and Computer Systems; University of Granada; CITIC-UGR -><affiliation>
+Granada, Spain -><address>
+ Institut Mines-Télécom ; Télécom ParisTech ; CNRS LTCI -><affiliation>
+Paris, France -><address>
+zoraida@ugr.es, {ravenet,ochs,pelachaud}@telecom-paristech.fr -><email>

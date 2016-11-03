@@ -1,0 +1,17 @@
+Argumentation-based reasoning in agents with varying -><title>
+degrees of trust -><title>
+Simon Parsons -><author>
+Brooklyn College -><affiliation>
+City University of New York -><affiliation>
+Yuqing Tang -><author>
+Graduate Center -><affiliation>
+City University of New York -><affiliation>
+Elizabeth Sklar -><author>
+Brooklyn College -><affiliation>
+City University of New York -><affiliation>
+Peter McBurney -><author>
+Department of Informatics -><affiliation>
+King’s College London -><affiliation>
+Kai Cai -><author>
+Graduate Center -><affiliation>
+City University of New York -><affiliation>

@@ -1,0 +1,18 @@
+Being a self-director: enhance user creativity with a video -><title>
+mash up tool -><title>
+2 -><pubnum>
+, Rossana Simeoni -><affiliation>
+1 -><pubnum>
+3 -><pubnum>
+2 -><pubnum>
+Amon Rapp -><unknow>
+, Daniela Cardillo -><author>
+, Luca Console -><affiliation>
+1 -><address>
+amon.rapp@guest.telecomitalia.it -><email>
+2 -><pubnum>
+Department of Computer Science, University of Turin, corso Svizzera 185, 10149, Torino -><affiliation>
+{cardillo, lconsole}@di.unito.it -><email>
+3 -><pubnum>
+Telecom Italia, Technology, Research and Trends department Via G. Reiss Romoli, 274, 10148 Turin, Italy -><affiliation>
+rossana.simeoni@telecomitalia.it -><email>

@@ -1,0 +1,7 @@
+IFTP-W: A TCP-Friendly Protocol for Multimedia -><title>
+Applications over Wireless Networks -><title>
+Hala ElAarag Andrew Moedinger -><author>
+Department of Mathematics and Computer Science -><affiliation>
+Stetson University -><affiliation>
+DeLand, Florida, U.S.A. -><address>
+Email: {helaarag, amoeding}@stetson.edu -><email>

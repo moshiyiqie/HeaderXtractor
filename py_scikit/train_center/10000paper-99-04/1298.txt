@@ -1,0 +1,19 @@
+Dealing with Interoperability for Agent-Based Services -><title>
+David Bonnefoy -><author>
+MOTOROLA LABS -><affiliation>
+Espace technologique St Aubin -><affiliation>
+91193 Gif-sur-Yvette Cedex - France -><address>
++33 1 69 35 25 42 -><phone>
+bonnefoy@crm.mot.com -><email>
+Nicolas Lhuillier -><author>
+MOTOROLA LABS -><affiliation>
+Espace technologique St Aubin -><affiliation>
+91193 Gif-sur-Yvette Cedex - France -><address>
++33 1 69 35 25 23 -><phone>
+lhuillie@crm.mot.com -><email>
+Patricia Charlton -><degree>
+MOTOROLA LABS -><affiliation>
+Espace technologique St Aubin -><affiliation>
+91193 Gif-sur-Yvette Cedex - France -><address>
++33 1 69 35 48 22 -><phone>
+charlton@crm.mot.com -><email>

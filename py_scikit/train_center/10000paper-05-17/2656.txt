@@ -1,0 +1,19 @@
+Information Disclosure as a Means to Security -><title>
+Albert Xin Jiang -><author>
+Trinity University -><affiliation>
+San Antonio, USA -><address>
+xjiang@trinity.edu -><email>
+Manish Jain -><email>
+Armorway -><author>
+Los Angeles, USA -><affiliation>
+manish@armorway.com -><email>
+Zinovi Rabinovich -><email>
+Mobileye Vision Technologies -><affiliation>
+Ltd -><address>
+Jerusalem, Israel -><address>
+zr@zinovi.net -><email>
+Haifeng Xu -><author>
+University of Southern -><affiliation>
+California -><address>
+Los Angeles, USA -><address>
+haifengx@usc.edu -><email>

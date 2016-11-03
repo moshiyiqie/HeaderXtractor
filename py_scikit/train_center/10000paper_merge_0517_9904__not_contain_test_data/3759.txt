@@ -1,0 +1,14 @@
+On -><title>
+Heuristics -><title>
+B. -><note>
+G. -><note>
+School -><unknow>
+School -><title>
+Carleton -><author>
+Ottawa, -><keyword>
+Carleton -><keyword>
+Ottawa, -><keyword>
+K1S -><pubnum>
+K1S -><pubnum>
+gbadr@scs.carleton.ca -><email>
+oommen@scs.carleton.ca -><email>

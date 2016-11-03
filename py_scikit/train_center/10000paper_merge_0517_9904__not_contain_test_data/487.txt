@@ -1,0 +1,12 @@
+Matchmaking of Web Services Based on the DAML-S -><title>
+Service Model -><title>
+Jose´ M. Vidal -><author>
+University of South Carolina -><affiliation>
+Computer Science and Engineering -><affiliation>
+Columbia, SC, 29208 -><address>
+vidal@sc.edu -><email>
+Sharad Bansal -><author>
+University of South Carolina -><affiliation>
+Computer Science and Engineering -><affiliation>
+Columbia, SC, 29208 -><address>
+bansal@cse.sc.edu -><email>

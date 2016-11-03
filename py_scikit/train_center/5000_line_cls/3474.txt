@@ -1,0 +1,7 @@
+Hierarchical Abstraction, Distributed Equilibrium -><title>
+Computation, and Post-Processing, with Application to a -><title>
+Champion No-Limit Texas Hold’em Agent∗ -><title>
+Noam Brown, Sam Ganzfried, and Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+{noamb, sganzfri, sandholm}@cs.cmu.edu -><email>

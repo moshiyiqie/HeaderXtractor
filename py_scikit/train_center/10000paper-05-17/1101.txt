@@ -1,0 +1,26 @@
+Culture-related differences in aspects of behavior for -><title>
+virtual characters across Germany and Japan -><title>
+Matthias Rehm -><author>
+Department of Media -><affiliation>
+Technology -><affiliation>
+Aalborg University -><affiliation>
+Niels-Jernes Vej 14 -><address>
+DK-9220 Aalborg, Denmark -><address>
+matthias@imi.aau.dk -><email>
+Birgit Endrass -><author>
+Elisabeth André -><author>
+Human Centered Multimedia -><affiliation>
+Augsburg University -><affiliation>
+Universitätsstr. 6a -><affiliation>
+D-86159 Augsburg, Germany -><address>
+endrass, -><email>
+andre@hcm-lab.de -><affiliation>
+Afia Akter Lipi -><unknow>
+Yukiko Nakano -><author>
+Dept. of Computer and -><affiliation>
+Information Science -><affiliation>
+Seikei University -><affiliation>
+Musashino-shi, Tokyo, -><address>
+180-8633 Japan -><phone>
+y.nakano@st.seikei.ac.jp -><email>
+afiaakhter@hotmail.com -><email>

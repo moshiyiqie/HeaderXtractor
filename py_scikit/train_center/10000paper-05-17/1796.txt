@@ -1,0 +1,9 @@
+An MAS Negotiation Support Tool for Schema Matching -><title>
+(Demonstration) -><title>
+Nguyen Quoc Viet Hung, Xuan Hoai Luong, Zoltán Miklósy, Tho Quan Thanhz, Karl Aberer -><author>
+École Polytechnique Fédérale de Lausanne -><affiliation>
+{quocviethung.nguyen,hoai.luong,karl.aberer}@epfl.ch -><email>
+yUniversité de Rennes 1 -><affiliation>
+zoltan.miklos@univ-rennes1.fr -><email>
+zHo Chi Minh City University of Technology -><affiliation>
+qttho@cse.hcmut.edu.vn -><email>

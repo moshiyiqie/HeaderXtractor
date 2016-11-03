@@ -1,0 +1,6 @@
+Graph Representations and -><title>
+Applications of Citation Networks -><title>
+Matthias Petri Alistair Moffat Anthony Wirth -><author>
+Department of Computing and Information Systems -><affiliation>
+The University of Melbourne -><affiliation>
+matthias.petri, ammoffat, awirth@unimelb.edu.au -><email>

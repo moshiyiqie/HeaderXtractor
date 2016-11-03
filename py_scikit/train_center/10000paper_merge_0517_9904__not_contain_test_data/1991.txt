@@ -1,0 +1,7 @@
+Strategy-proof Matching with Regional Minimum Quotas -><title>
+Masahiro Goto1, Naoyuki Hashimoto1, Atshushi Iwasaki2, Yujiro Kawasaki1, -><author>
+Suguru Ueda1, Yosuke Yasuda3, and Makoto Yokoo1 -><author>
+1Kyushu University, Fukuoka 819-0395, Japan -><affiliation>
+{ goto@agent., hashimoto@agent., yujiro.kawasaki@, ueda@agent., yokoo@} inf.kyushu-u.ac.jp -><email>
+2University of Electro-Communications, Tokyo 182-8585, Japan, iwasaki@is.uec.ac.jp -><affiliation>
+3GRIPS, Tokyo 106-8677, Japan, yyasuda@grips.ac.jp -><email>

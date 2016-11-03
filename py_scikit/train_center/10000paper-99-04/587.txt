@@ -1,0 +1,5 @@
+Empirical-Rational Semantics of Agent Communication -><title>
+Matthias Nickles, Michael Rovatsos, Gerhard Weiß -><author>
+AI/Cognition group, Department of Informatics, Technical University Munich -><affiliation>
+D-85748 Garching bei München, Germany, -><address>
+{nickles, rovatsos, weissg}@tiki.informatik.tu-muenchen.de -><email>

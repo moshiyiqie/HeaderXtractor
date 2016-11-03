@@ -1,0 +1,11 @@
+Evaluating the modeling and use of emotion in virtual humans -><title>
+Jonathan Gratch -><author>
+University of Southern California -><affiliation>
+Institute for Creative Technology -><affiliation>
+13274 Fiji Way, Marina del Rey, CA 90292 -><address>
+gratch@ict.usc.edu -><email>
+Stacy Marsella -><author>
+University of Southern California -><affiliation>
+Information Sciences Institute -><affiliation>
+4676 Admiralty Way, Marina del Rey, CA 90292 -><address>
+marsella@isi.edu -><email>

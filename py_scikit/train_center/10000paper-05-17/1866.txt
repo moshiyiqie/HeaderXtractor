@@ -1,0 +1,18 @@
+It Only Takes a Few: On the Hardness of Voting With a -><title>
+Constant Number of Agents -><title>
+Keyvan Kardel -><title>
+Institut für Informatik -><author>
+TU München -><author>
+k.kardel@tum.de -><email>
+Felix Brandt -><author>
+Institut für Informatik -><affiliation>
+TU München -><address>
+brandtf@in.tum.de -><email>
+Paul Harrenstein -><author>
+Dept. of Computer Science -><affiliation>
+University of Oxford -><affiliation>
+paulhar@cs.ox.ac.uk -><email>
+Hans Georg Seedig -><author>
+Institut für Informatik -><affiliation>
+TU München -><address>
+seedigh@in.tum.de -><email>

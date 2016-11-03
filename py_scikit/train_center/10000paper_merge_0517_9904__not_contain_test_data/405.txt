@@ -1,0 +1,13 @@
+Scenario Description for Multi-Agent Simulation -><title>
+Yohei Murakami1, Toru Ishida1, 2, Tomoyuki Kawasoe1 and Reiko Hishiyama1 -><author>
+1Department of Social Informatics, Kyoto University -><affiliation>
+2JST CREST Digital City Project -><affiliation>
+Kyoto, 606-0801, Japan -><address>
++81 75-753-5398 -><phone>
+{yohei, kawasoe, hishiyama}@kuis.kyoto-u.ac.jp, ishida@i.kyoto-u.ac.jp -><email>
+Permission to make digital or hard copies of all or part of this work for -><note>
+personal or classroom use is granted without fee provided that copies -><note>
+are not made or distributed for profit or commercial advantage and that -><abstract>
+copies bear this notice and the full citation on the first page. To copy -><abstract>
+otherwise, or republish, to post on servers or to redistribute to lists, -><abstract>
+requires prior specific permission and/or a fee. -><abstract>

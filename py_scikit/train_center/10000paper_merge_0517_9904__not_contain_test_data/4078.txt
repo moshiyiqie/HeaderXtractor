@@ -1,0 +1,12 @@
+Exploring the Duality Between Skip Lists and -><title>
+Binary Search Trees -><title>
+Zachary H. Jones -><author>
+School of Computing -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC -><address>
+zjones@cs.clemson.edu -><email>
+Brian C. Dean -><author>
+School of Computing -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC -><address>
+bcdean@cs.clemson.edu -><email>

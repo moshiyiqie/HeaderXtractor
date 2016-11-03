@@ -1,0 +1,5 @@
+A Formal Approach to Specifying and Testing -><title>
+the Interoperation between Components -><title>
+I1-Hyung Cho, John D. McGregor -><author>
+Department of Computer Science, Clemson University -><affiliation>
+Email: {ihcho, johnmc}@cs.clemson.edu -><email>

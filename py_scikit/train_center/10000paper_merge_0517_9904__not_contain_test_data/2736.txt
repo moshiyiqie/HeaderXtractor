@@ -1,0 +1,18 @@
+Building a Client-Server Social Network Application for -><title>
+Elders and Safety Net -><title>
+3Center for Usability Research and -><author>
+2Space Hellas -><date>
+1Tampere University of Technology -><date>
+Engineering -><affiliation>
+Businesspark MARXIMUM -><affiliation>
+312 Messogion Ave. -><address>
+153 41 Ag.Paraskevi, Athens, Greece -><address>
+{skona, scostic}@space.gr -><email>
+P.O. Box 692 -><address>
+FI-33101 Tampere, Finland -><address>
+{harri.pensas, tero.kivimaki, antti- -><email>
+matti.vainio, jukka.vanhala}@tut.fi, -><email>
+kasperi.summanen@kapsi.fi, -><email>
+heikki.moisio@iki.fi -><email>
+1110 Vienna, Austria -><address>
+koelndorfer@cure.at -><email>

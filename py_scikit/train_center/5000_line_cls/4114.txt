@@ -1,0 +1,9 @@
+Interactive Fitness Game for Public Places -><title>
+Matthias Rehm -><author>
+University of Augsburg -><affiliation>
+Ekaterina Kurdyukova -><author>
+University of Augsburg -><affiliation>
+86159 Augsburg, Germany -><address>
+Rehm@informatik.uni-augsburg.de -><email>
+86159 Augsburg, Germany -><address>
+Katja.Kurdyukova@informatik.uni-augsburg.de -><email>

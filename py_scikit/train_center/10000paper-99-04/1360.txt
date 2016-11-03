@@ -1,0 +1,10 @@
+Evaluation of Modeling Techniques for Agent-Based -><title>
+Systems -><title>
+Onn Shehory -><author>
+IBM Research Lab in Haifa - the Tel-Aviv site -><affiliation>
+IBM Building, Tel Aviv 61336, ISRAEL -><address>
+onn@il.ibm.com -><email>
+Arnon Sturm -><author>
+Technion - Israel Institute of Technology -><affiliation>
+Haifa 32000, ISRAEL -><address>
+sturm@tx.technion.ac.il -><email>

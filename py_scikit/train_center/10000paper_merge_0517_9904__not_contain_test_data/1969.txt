@@ -1,0 +1,27 @@
+Werewolves, Cheats, and Cultural Sensitivity -><title>
+Ruth Aylett, MeiYii Lim, -><author>
+Heriot-Watt University -><affiliation>
+Riccarton, Edinburgh EH14 4AS UK -><address>
+{r.s.aylett}{m.y.lim}@hw.ac.uk -><email>
+Birgit Endrass, Elisabeth Andre, -><author>
+University of Augsburg -><affiliation>
+8651 Augsburg, Germany -><address>
+endrass@hcm-lab.de, -><affiliation>
+andre@informatik.uni-augsburg.de -><email>
+Lynn Hall, SarahTazzyman, -><author>
+University of Sunderland, UK -><affiliation>
+Sunderland SR1 3SD, UK -><address>
+l.hall@sunderland.ac.uk; -><email>
+snt5@leicester.ac.uk -><email>
+Chistopher Ritter, Asad Nazir, -><author>
+Heriot-Watt University, UK -><affiliation>
+{c.ritter}{a.nazir}@hw.ac.uk -><email>
+GertJan Hofstede -><author>
+Wageningen University, Netherlands -><affiliation>
+gertjan.hoftstede@wur.nl -><email>
+Ana Paiva -><author>
+INESC-ID, Portugal -><address>
+a.paiva@inesc-id.pt -><email>
+Arvid Kappas -><author>
+Jacobs University, Germany -><affiliation>
+a.kappas@jacobs-university.de -><affiliation>

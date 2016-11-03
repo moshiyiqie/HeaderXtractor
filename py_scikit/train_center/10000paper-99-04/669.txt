@@ -1,0 +1,4 @@
+Cell Modeling using Agent-based Formalisms -><title>
+Kenneth Webb, Tony White -><author>
+Sussex University, U.K, Carleton University, Canada -><affiliation>
+k.s.webb@sussex.ac.uk, arpwhite@scs.carleton.ca -><email>

@@ -1,0 +1,24 @@
+All Your Face Are Belong to Us: -><title>
+Breaking Facebook’s Social Authentication -><title>
+∗ -><title>
+Iasonas Polakis -><author>
+FORTH-ICS, Greece -><address>
+polakis@ics.forth.gr -><email>
+Marco Lancini -><author>
+Politecnico di Milano, Italia -><affiliation>
+marco.lancini@mail.polimi.it -><email>
+Georgios Kontaxis -><author>
+Columbia University, USA -><affiliation>
+kontaxis@cs.columbia.edu -><email>
+Federico Maggi -><author>
+Politecnico di Milano, Italia -><affiliation>
+fmaggi@elet.polimi.it -><email>
+Sotiris Ioannidis -><affiliation>
+FORTH-ICS, Greece -><address>
+sotiris@ics.forth.gr -><email>
+Angelos D. Keromytis -><author>
+Columbia University, USA -><affiliation>
+angelos@cs.columbia.edu -><email>
+Stefano Zanero -><author>
+Politecnico di Milano, Italia -><email>
+zanero@elet.polimi.it -><email>

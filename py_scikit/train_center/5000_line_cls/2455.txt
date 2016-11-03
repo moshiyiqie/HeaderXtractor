@@ -1,0 +1,8 @@
+Teaching on a Budget: Agents Advising Agents in -><title>
+Reinforcement Learning -><title>
+Lisa Torrey -><author>
+St. Lawrence University -><affiliation>
+ltorrey@stlawu.edu -><email>
+Matthew E. Taylor -><author>
+Washington State University -><affiliation>
+taylorm@eecs.wsu.edu -><email>

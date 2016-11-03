@@ -1,0 +1,7 @@
+A Multi-Agent System Architecture for Monitoring Medical -><title>
+Protocols -><title>
+T. Alsinet, R. B~jar, C. Fern&ndez and F. Many& -><author>
+Department of Computer Science -><affiliation>
+Universitat de Lleida -><affiliation>
+Jaume II 69, E-25001 Lleida, Spain -><address>
+{tracy, ramon, cesar, felip}@eup, udl. es -><email>

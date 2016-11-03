@@ -1,0 +1,13 @@
+Mobility Models for Vehicular Ad Hoc Network Simulations -><title>
+Atulya Mahajan -><author>
+Department of Computer Science -><affiliation>
+Florida State University -><affiliation>
+Tallahassee FL 32306 -><address>
+001-850-644-2525 -><phone>
+mahajan@cs.fsu.edu -><email>
+Niranjan Potnis -><author>
+KCRG, Learning Systems Institute -><affiliation>
+2000,Levy Avenue, Suite 320 -><address>
+Tallahassee, Florida 32310 -><address>
+001-850-644-4720 -><phone>
+npotnis@lpg.fsu.edu -><email>

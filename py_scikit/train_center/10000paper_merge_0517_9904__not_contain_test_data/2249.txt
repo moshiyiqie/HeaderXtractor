@@ -1,0 +1,12 @@
+Exploiting Max-Sum for the Decentralized Assembly of -><title>
+High-Valued Supply Chains -><title>
+Meritxell Vinyals -><title>
+ECS, Faculty of Physical and Applied Sciences -><author>
+University of Southampton -><affiliation>
+Southampton, United Kingdom. SO17 1BJ -><address>
+mv2y11@ecs.soton.ac.uk -><email>
+Toni Penya-Alba, Jesus Cerquides, -><author>
+Juan A. Rodriguez-Aguilar -><author>
+IIIA-CSIC -><affiliation>
+Campus de la UAB, E-08193 Bellaterra, Spain -><address>
+{tonipenya,cerquide,jar}@iiia.csic.es -><email>

@@ -1,0 +1,19 @@
+Nastaliq Optical Character Recognition -><title>
+Shamsul Haque -><author>
+Department of Computer Science -><affiliation>
+NED University of Engg. & Tech -><affiliation>
+Karachi, Pakistan -><address>
++92-21-926-1261 -><phone>
+pvc@neduet.edu.pk -><email>
+Mahmood K. Pathan -><author>
+Department of Computer Science -><affiliation>
+NED University of Engg. & Tech -><affiliation>
+Karachi, Pakistan -><address>
++92-21-926-1261 -><phone>
+deansth@neduet.edu.pk -><email>
+Sohail A. Sattar -><author>
+Computer Vision Lab -><affiliation>
+University of Central Florida -><affiliation>
+Orlando, FL-32826, USA -><address>
++1-407-882-0134 -><phone>
+ssattar@cs.ucf.edu -><email>

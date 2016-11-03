@@ -1,0 +1,11 @@
+Decentralized Voting with Unconditional Privacy -><title>
+Felix Brandt -><author>
+Computer Science Department -><affiliation>
+Stanford University -><affiliation>
+Stanford CA 94305 -><address>
+brandtf@cs.stanford.edu -><email>
+Tuomas Sandholm -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh PA 15213 -><address>
+sandholm@cs.cmu.edu -><email>

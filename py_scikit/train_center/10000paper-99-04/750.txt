@@ -1,0 +1,5 @@
+Adapting agent expertise based on future expectations -><title>
+Dipyaman Banerjee, Sabyasachi Saha and Sandip Sen -><author>
+Department of Math & Computer Science -><affiliation>
+The University of Tulsa -><affiliation>
+{banerjdi,sahasa,sandip}@ens.utulsa.edu -><email>

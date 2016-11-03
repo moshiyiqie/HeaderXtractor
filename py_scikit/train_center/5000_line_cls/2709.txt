@@ -1,0 +1,14 @@
+NetworkING: using Character Relationships for -><title>
+Interactive Narrative Generation -><title>
+Marc Cavazza -><author>
+Teesside University -><affiliation>
+Middlesbrough, UK -><address>
+m.o.cavazza@tees.ac.uk -><email>
+Julie Porteous -><author>
+Teesside University -><affiliation>
+Middlesbrough, UK -><address>
+j.porteous@tees.ac.uk -><email>
+Fred Charles -><author>
+Teesside University -><affiliation>
+Middlesbrough, UK -><address>
+f.charles@tees.ac.uk -><email>

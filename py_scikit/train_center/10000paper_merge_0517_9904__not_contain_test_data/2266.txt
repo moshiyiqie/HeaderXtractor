@@ -1,0 +1,13 @@
+Fractional Hedonic Games -><title>
+Haris Aziz -><author>
+NICTA and UNSW -><affiliation>
+Australia -><address>
+haris.aziz@nicta.com.au -><email>
+Felix Brandt -><author>
+TU München -><affiliation>
+Germany -><address>
+brandtf@in.tum.de -><email>
+Paul Harrenstein -><author>
+University of Oxford -><affiliation>
+United Kingdom -><address>
+paulhar@cs.ox.ac.uk -><email>

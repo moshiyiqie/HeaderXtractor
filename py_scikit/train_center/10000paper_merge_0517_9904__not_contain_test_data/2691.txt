@@ -1,0 +1,11 @@
+Dynamic Influence Maximization -><title>
+Under Increasing Returns to Scale -><title>
+Haifeng Zhang -><author>
+Vanderbilt University -><affiliation>
+haifeng.zhang@vanderbilt.edu -><email>
+Yevgeniy Vorobeychik -><author>
+Vanderbilt University -><affiliation>
+yevgeniy.vorobeychik@vanderbilt.edu -><email>
+Ariel D. Procaccia -><author>
+Carnegie Mellon University -><affiliation>
+arielpro@cs.cmu.edu -><email>

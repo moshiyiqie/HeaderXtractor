@@ -1,0 +1,18 @@
+Scheduling Tasks with Precedence Constraints -><title>
+to Solicit Desirable Bid Combinations -><title>
+John Collins -><author>
+Dept of Computer Science -><affiliation>
+and Engineering -><affiliation>
+University of Minnesota -><affiliation>
+jcollins@cs.umn.edu -><email>
+Maria Gini -><author>
+Dept of Computer Science -><affiliation>
+and Engineering -><affiliation>
+University of Minnesota -><affiliation>
+gini@cs.umn.edu -><email>
+Alexander Babanov -><author>
+Dept of Computer Science -><affiliation>
+and Engineering -><affiliation>
+Dept of Economics -><affiliation>
+University of Minnesota -><affiliation>
+babanov@cs.umn.edu -><email>

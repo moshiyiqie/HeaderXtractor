@@ -1,0 +1,34 @@
+Capturing Organizational Wisdom -><title>
+for Effective Software Development -><title>
+David Wright -><author>
+North Carolina State University -><affiliation>
+Raleigh, NC -><address>
+drwrigh3@unity.ncsu.edu -><email>
+Categories and Subject Descriptors -><note>
+D.2.2 [SOFTWARE ENGINEERING]: Design Tools and -><unknow>
+Techniques; -><unknow>
+K.6.3 [MANAGEMENTOF COMPUTING AND IN- -><author>
+FORMATION SYSTEMS]: Software Management—soft- -><affiliation>
+ware development, software process -><email>
+Keywords -><keyword>
+software development process, organizational wisdom -><keyword>
+1. PROBLEM AND MOTIVATION -><intro>
+Code reuse has been a fundamental principle of software -><abstract>
+engineering for decades, with modules and libraries of both -><abstract>
+general purpose and highly specialized code serving as the -><abstract>
+discipline’s equivalent of bricks and steel. Research and -><abstract>
+practice have resulted in extensive general-purpose libraries -><abstract>
+incorporated into production level compilers, as well as a -><abstract>
+wide variety of special-purpose libraries and programming -><abstract>
+toolkits. While reusable code has helped make software -><abstract>
+more reliable and simplified some details of implementation, -><abstract>
+developing software systems that meet customer expecta- -><abstract>
+tions on time and within budget remains problematic. -><abstract>
+Without minimizing the value of reusable code, the overall -><abstract>
+health of a software development process often depends more -><abstract>
+upon the reuse of individual and organizational knowledge -><abstract>
+than the reuse of particular artifacts. Reusing this knowl- -><abstract>
+edge requires an understanding not only of the knowledge -><abstract>
+itself, but also an understanding of the process in which -><abstract>
+that knowledge was created and the relationships between -><abstract>
+the artifacts and the process. -><abstract>

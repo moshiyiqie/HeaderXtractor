@@ -1,0 +1,20 @@
+Snail Light Projector: Interaction with Virtual Projection -><title>
+Light in Hyper-Slow Propagation Speed -><title>
+Keisuke Matsuzaki -><author>
+Osaka University -><affiliation>
+1-3 Machikaneyama, -><address>
+Toyonaka, Osaka, Japan -><address>
+matsuzaki@sens.sys.es. -><email>
+osaka-u.ac.jp -><email>
+Daisuke Iwai -><author>
+Osaka University -><affiliation>
+1-3 Machikaneyama, -><address>
+Toyonaka, Osaka, Japan -><address>
+daisuke.iwai@sens.sys.es. -><email>
+osaka-u.ac.jp -><email>
+Kosuke Sato -><author>
+Osaka University -><affiliation>
+1-3 Machikaneyama, -><address>
+Toyonaka, Osaka, Japan -><address>
+sato@sys.es.osaka- -><email>
+u.ac.jp -><web>

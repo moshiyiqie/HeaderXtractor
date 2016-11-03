@@ -32,7 +32,9 @@ def mergeAllTextBelowOneFolder(folderPath,outputPath):
 		output.append('\n')
 	open(outputPath,'w').writelines(output)
 
+
 if __name__ == '__main__':
-	mergeAllTextBelowOneFolder('./py_scikit/train_center/cleaned_line_cls','./py_scikit/train_center/cleaned_lines.txt')
+	#mergeAllTextBelowOneFolder('./py_scikit/train_center/cleaned_line_cls','./py_scikit/train_center/cleaned_lines.txt')
+	mergeAllTextBelowOneFolder('./py_scikit/train_center/10000paper_merge_0517_9904__not_contain_test_data','./py_scikit/train_center/6000_line_cls-one.txt')
 
 

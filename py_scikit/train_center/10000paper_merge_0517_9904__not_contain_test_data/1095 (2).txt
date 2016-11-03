@@ -1,0 +1,7 @@
+A Meta›Authoring Tool for Specifying Interactions in Virtual -><title>
+Reality Environments -><title>
+Zayd Hendricks, Gary Marsden, Edwin Blake -><author>
+Collaborative Visual Computing Laboratory -><affiliation>
+Department of Computer Science -><affiliation>
+University of Cape Town -><affiliation>
+{zhendric, gaz, edwin}@cs.uct.ac.za -><email>

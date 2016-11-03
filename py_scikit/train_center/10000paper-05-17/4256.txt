@@ -1,0 +1,20 @@
+A Reusable Observer Pattern Implementation Using -><title>
+Package Templates -><title>
+Stein Krogdahl -><author>
+University of Oslo -><affiliation>
+Department of Informatics -><affiliation>
+Postboks 1080 Blindern, 0316 -><address>
+Oslo, Norway -><address>
+steinkr@ifi.uio.no -><email>
+Fredrik Sørensen -><author>
+University of Oslo -><affiliation>
+Department of Informatics -><affiliation>
+Postboks 1080 Blindern, 0316 -><address>
+Oslo, Norway -><address>
+fredrso@ifi.uio.no -><email>
+Eyvind W. Axelsen -><author>
+University of Oslo -><affiliation>
+Department of Informatics -><affiliation>
+Postboks 1080 Blindern, 0316 -><address>
+Oslo, Norway -><address>
+eyvinda@ifi.uio.no -><email>

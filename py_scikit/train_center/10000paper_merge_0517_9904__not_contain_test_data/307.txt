@@ -1,0 +1,9 @@
+Rational Communication in Multi-agent Semi-competitive -><title>
+Environments -><title>
+Ka-man Lam Ho-fung Leung -><author>
+Department of Computer Science and Engineering -><affiliation>
+The Chinese University of Hong Kong -><affiliation>
+Shatin, New Territories -><affiliation>
+Hong Kong, China -><address>
++852 2609 8344 +852 2609 8428 -><phone>
+kmlam@cse.cuhk.edu.hk lhf@cse.cuhk.edu.hk -><email>

@@ -1,0 +1,20 @@
+Learning multi-agent state space representations -><title>
+Peter Vrancx -><author>
+Computational Modeling Lab -><affiliation>
+Vrije Universiteit Brussel -><affiliation>
+Pleinlaan 2 -><address>
+1050 Brussel, BELGIUM -><address>
+pvrancx@vub.ac.be -><email>
+Ann Nowé -><author>
+Computational Modeling Lab -><affiliation>
+Vrije Universiteit Brussel -><affiliation>
+Pleinlaan 2 -><address>
+1050 Brussel, BELGIUM -><address>
+anowe@vub.ac.be -><email>
+Yann-Michaël De -><author>
+Hauwere -><author>
+Computational Modeling Lab -><affiliation>
+Vrije Universiteit Brussel -><affiliation>
+Pleinlaan 2 -><address>
+1050 Brussel, BELGIUM -><address>
+ydehauwe@vub.ac.be -><email>

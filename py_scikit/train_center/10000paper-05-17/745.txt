@@ -1,0 +1,13 @@
+Local search for Distributed Asymmetric Optimization -><title>
+Alon Grubshtein1, Roie Zivan2, -><author>
+Tal Grinshpoun1 and Amnon Meisels1 -><author>
+1Dept. Of Computer Science -><affiliation>
+2Robotics Institute -><affiliation>
+Ben Gurion University of the Negev -><address>
+P.O.B 653 -><address>
+Be’er Sheva, 84105, Israel -><address>
+{alongrub,grinshpo,am}@cs.bgu.ac.il -><email>
+Carnegie Mellon University -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh, PA 15213 -><address>
+zivanr@cs.cmu.edu -><email>

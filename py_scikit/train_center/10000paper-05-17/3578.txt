@@ -1,0 +1,23 @@
+Comparing Mental Models of Novice Programmers when -><title>
+Using Visual and Command Line Environments -><title>
+Monica Anderson -><author>
+University of Alabama -><affiliation>
+Department of Computer Science -><affiliation>
+Box 870290 -><address>
+Tuscaloosa, AL 35487-0290 -><address>
+205-348-1667 -><phone>
+anderson@cs.ua.edu -><email>
+Marcus Brown -><author>
+University of Alabama -><affiliation>
+Department of Computer Science -><affiliation>
+Box 870290 -><address>
+Tuscaloosa, AL 35487-0290 -><address>
+205-348-5243 -><phone>
+mbrown@cs.ua.edu -><email>
+Edward Dillon -><author>
+University of Alabama -><affiliation>
+Department of Computer Science -><affiliation>
+Box 870290 -><address>
+Tuscaloosa, AL 35487-0290 -><address>
+205-348-9140 -><phone>
+edillon@cs.ua.edu -><email>

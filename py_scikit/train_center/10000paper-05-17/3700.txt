@@ -1,0 +1,8 @@
+Local and Global Analysis: Complementary Activities for -><title>
+Increasing the Effectiveness of Requirements Verification -><title>
+and Validation -><title>
+Lester O. Lobo and James D. Arthur -><author>
+Department of Computer Science -><affiliation>
+Virginia Tech -><address>
+Blacksburg, Virginia 24060, USA -><address>
+{lester, arthur}@vt.edu -><email>

@@ -1,0 +1,15 @@
+The Averaged Mappings Problem: -><title>
+Statement, Applications, and Approximate Solution -><title>
+Xavier Hilaire -><author>
+LORIA – Universite´ Henri Poincare´ -><affiliation>
+615 rue du Jardin Botanique -><address>
+54602 Villers-le`s-Nancy Cedex -><address>
+France -><address>
+hilaire@loria.fr -><email>
+John B. Oommen∗ -><author>
+School of Computer Science -><affiliation>
+Carleton University -><affiliation>
+1125 Colonel By Drive -><address>
+Ottawa, Ontario, K1S 5B6 -><address>
+Canada -><address>
+oommen@scs.carleton.ca -><email>

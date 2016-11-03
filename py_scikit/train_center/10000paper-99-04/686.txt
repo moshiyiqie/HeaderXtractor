@@ -1,0 +1,6 @@
+A Scalable Petri Net Representation -><affiliation>
+of Interaction Protocols for Overhearing -><affiliation>
+Gery Gutnik and Gal Kaminka -><title>
+The MAVERICK Group -><author>
+Computer Science Department, Bar-Ilan University, Israel -><affiliation>
+{gutnikg@cs.biu.ac.il, galk@cs.biu.ac.il} -><email>

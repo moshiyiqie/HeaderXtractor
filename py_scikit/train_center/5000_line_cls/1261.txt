@@ -1,0 +1,18 @@
+Performance Analysis of Untraceability Protocols for -><title>
+Mobile Agents Using an Adaptable Framework -><title>
+Janusz Go´rski -><author>
+Gdan´sk University of Technology -><affiliation>
+Faculty of Electronics, Telecommunications and -><address>
+Informatics -><author>
+Department of Software Engineering -><affiliation>
+G. Narutowicza 11/12 -><address>
+80-952 Gdan´sk Poland -><address>
+jango@pg.gda.pl -><email>
+Rafał Leszczyna -><email>
+European Commission -><note>
+Joint Research Centre -><note>
+Institute for the Protection and security of the -><affiliation>
+Citizen -><unknow>
+Via Enrico Fermi -><author>
+21020 Ispra (VA), Italy -><address>
+Rafal.Leszczyna@jrc.it -><email>

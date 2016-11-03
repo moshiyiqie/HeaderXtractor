@@ -1,0 +1,7 @@
+Prioritizing Data in Emergency Response based on -><title>
+Context, Message Content and Role -><title>
+Faisal Luqman, Feng-Tso Sun, Heng-Tze Cheng, Senaka Buthpitiya, Martin Griss -><author>
+Electrical and Computer Engineering -><affiliation>
+Carnegie Mellon University -><affiliation>
+NASA Ames Research Park, USA -><address>
+{faisal.luqman, lucas.sun, hengtze.cheng, senaka.buthpitiya, martin.griss}@sv.cmu.edu -><email>

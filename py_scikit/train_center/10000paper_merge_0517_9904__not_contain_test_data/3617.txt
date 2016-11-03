@@ -1,0 +1,6 @@
+A Practical Implementation of Veiled Certificate for -><title>
+User-Centric Privacy Protection -><title>
+Will Goss, Chin-Tser Huang -><author>
+Department of Computer Science and Engineering -><affiliation>
+Columbia, SC 29208 -><address>
+{gosswh, huangct}@cec.sc.edu -><email>

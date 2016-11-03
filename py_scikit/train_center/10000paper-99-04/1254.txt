@@ -1,0 +1,12 @@
+Interacting Multi-Agent and Simulation Systems - -><title>
+An Exploration into Mole and James -><title>
+Adelinde M. Uhrmacher -><author>
+Department of Computer Science -><affiliation>
+University of Rostock -><affiliation>
+D-18051 Rostock, Germany -><address>
+lin@informatik.uni-rostock.de -><email>
+Bernd G. Kullick -><author>
+School of Computer Science -><affiliation>
+University of Ulm -><affiliation>
+D-89081 Ulm, Germany -><address>
+B.Kullick@gmx.de -><email>

@@ -1,0 +1,21 @@
+Cooperative Coevolution of Partially Heterogeneous -><title>
+Multiagent Systems -><title>
+Pedro Mariano -><author>
+Faculdade de Ciências, -><affiliation>
+Universidade de Lisboa, BioISI -><affiliation>
+Lisboa, Portugal -><address>
+plmariano@fc.ul.pt -><email>
+Jorge Gomes -><author>
+BioMachines Lab & -><affiliation>
+Instituto de Telecomunicações -><affiliation>
+& Faculdade de Ciências, -><author>
+Universidade de Lisboa, BioISI -><affiliation>
+Lisboa, Portugal -><address>
+jgomes@di.fc.ul.pt -><email>
+Anders Lyhne Christensen -><author>
+BioMachines Lab & -><affiliation>
+Instituto de Telecomunicações -><affiliation>
+& Instituto Universitário de -><affiliation>
+Lisboa (ISCTE-IUL) -><affiliation>
+Lisboa, Portugal -><address>
+anders.christensen@iscte.pt -><email>

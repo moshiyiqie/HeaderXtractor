@@ -1,0 +1,20 @@
+Finding Coordinated Paths for Multiple Holonomic Agents -><title>
+in 2-d Polygonal Environment -><title>
+Jirˇí Vokrˇínek -><author>
+Agent Techology Center -><affiliation>
+FEL, CTU in Prague -><affiliation>
+Karlovo namesti 13, 121 35, -><address>
+Prague, Czech Republic -><address>
+vokrinek@agents.fel.cvut.cz -><email>
+Michal Cˇáp∗ -><author>
+Agent Techology Center -><affiliation>
+FEL, CTU in Prague -><affiliation>
+Karlovo namesti 13, 121 35, -><address>
+Prague, Czech Republic -><address>
+cap@agents.fel.cvut.cz -><email>
+Pavel Janovský∗ -><author>
+Agent Techology Center -><affiliation>
+FEL, CTU in Prague -><affiliation>
+Karlovo namesti 13, 121 35, -><address>
+Prague, Czech Republic -><address>
+janovsky@agents.fel.cvut.cz -><email>

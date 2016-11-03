@@ -1,0 +1,11 @@
+Designing a Marketplace for the Trading and Distribution -><title>
+of Energy in the Smart Grid -><title>
+Gauthier Picard -><author>
+Laboratoire Hubert Curien UMR CNRS 5516 -><affiliation>
+Institut Henri Fayol, Mines Saint-Etienne, France -><address>
+picard@emse.fr -><email>
+Jesús Cerquides -><author>
+Juan A. Rodríguez-Aguilar -><author>
+IIIA-CSIC, Campus UAB -><affiliation>
+08193 Cerdanyola, Catalonia, Spain -><address>
+{cerquide,jar}@iiia.csis.es -><email>

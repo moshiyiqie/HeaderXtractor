@@ -1,0 +1,4 @@
+Low-Cost Model Reconstruction from Image Sequences -><title>
+Caleb Lyness Otto-Carl Marte Bryan Wong Patrick Marais -><author>
+Collaborative Visual Computing Laboratory -><affiliation>
+University of Cape Town -><affiliation>

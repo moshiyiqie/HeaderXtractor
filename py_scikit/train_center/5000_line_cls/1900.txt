@@ -1,0 +1,13 @@
+Rich Goal Types in Agent Programming -><title>
+M. Birna van Riemsdijk -><author>
+Delft University of Technology -><affiliation>
+The Netherlands -><address>
+m.b.vanriemsdijk@tudelft.nl -><email>
+Mehdi Dastani -><author>
+Utrecht University -><affiliation>
+The Netherlands -><address>
+mehdi@cs.uu.nl -><email>
+Michael Winikoff -><author>
+University of Otago -><affiliation>
+New Zealand -><address>
+michael.winikoff@otago.ac.nz -><email>

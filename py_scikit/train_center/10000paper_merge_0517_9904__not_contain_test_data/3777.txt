@@ -1,0 +1,12 @@
+Estimating Critical Region Parallelism to Guide Platform -><title>
+Retargeting -><title>
+Tarek M. Taha -><author>
+Department of Electrical and Computer Engineering -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+tarek@clemson.edu -><email>
+Kiruthika Selvamani -><author>
+Department of Computer Science -><affiliation>
+Clemson University -><affiliation>
+Clemson, SC 29634 -><address>
+kselvam@clemson.edu -><email>

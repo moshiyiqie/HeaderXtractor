@@ -1,0 +1,9 @@
+GAMA: Multi-level and Complex Environment for -><title>
+Agent-based Models and Simulations -><title>
+(demonstration) -><title>
+Alexis Drogoula, Edouard Amourouxb, Philippe Caillou c, Benoit Gaudoud, -><author>
+Arnaud Grignarda, Nicolas Marilleaua, Patrick Taillandiere,Maroussia Vavasseurd, -><keyword>
+Duc-An Voa, Jean-Daniel Zuckera -><keyword>
+aUMMISCO, IRD b LIP6, UPMC c LRI, Univ. Paris Sud, d IRIT, Univ. Toulouse 1, e IDEES, Univ. Rouen -><note>
+abc Paris (France) d Toulouse (France), e Rouen (France) -><note>
+aalexis.drogoul@gmail.com -><email>

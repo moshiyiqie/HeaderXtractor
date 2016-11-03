@@ -1,0 +1,11 @@
+Towards the Application of Argumentation-based Dialogues for Education. -><title>
+Elizabeth Sklar -><author>
+Department of Computer Science -><affiliation>
+Columbia University -><affiliation>
+New York, NY 10027, USA -><address>
+sklar@cs.columbia.edu -><email>
+Simon Parsons -><author>
+Department of Computer and Information Science -><affiliation>
+Brooklyn College, City University of New York -><affiliation>
+Brooklyn, NY 11210, USA -><address>
+parsons@sci.brooklyn.cuny.edu -><email>

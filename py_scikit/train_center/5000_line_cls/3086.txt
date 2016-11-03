@@ -1,0 +1,15 @@
+Competitive Information Provision in Sequential Search -><title>
+Markets -><title>
+David Sarne -><author>
+Bar-Ilan University -><affiliation>
+Ramat Gan, Israel -><address>
+sarned@cs.biu.ac.il -><email>
+Meenal Chhabra -><author>
+Virginia Tech -><affiliation>
+Blacksburg, VA, USA -><address>
+meenal@vt.edu -><email>
+Sanmay Das -><author>
+Washington University in St. -><affiliation>
+Louis -><address>
+St. Louis, MO, USA -><address>
+sanmay@seas.wustl.edu -><email>

@@ -1,0 +1,17 @@
+Untraceability of Mobile Agents -><title>
+Janusz Go´rski -><author>
+Gdan´sk University of Technology -><affiliation>
+Faculty of Electronics, Telecommunications and -><affiliation>
+Informatics -><author>
+Department of Software Engineering -><affiliation>
+G. Narutowicza 11/12 -><address>
+80-952 Gdansk Poland -><address>
+jango@pg.gda.pl -><email>
+Rafał Leszczyna -><email>
+European Commission -><note>
+Joint Research Centre -><note>
+Institute for the Protection and security of the -><affiliation>
+Citizen -><unknow>
+Via Enrico Fermi -><author>
+21020 Ispra (VA), Italy -><affiliation>
+Rafal.Leszczyna@jrc.it -><email>

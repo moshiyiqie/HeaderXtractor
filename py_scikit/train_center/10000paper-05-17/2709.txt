@@ -1,0 +1,30 @@
+Process for Measuring and Visualizing an Open -><title>
+Innovation Platform: Case Demola -><title>
+Ville Luotonen -><title>
+Hermia Oy, New Factory -><author>
+Ville Kairamo -><author>
+Hermia Oy, New Factory -><affiliation>
+Tampere University of Technology -><affiliation>
+Korkeakoulunkatu 3 -><address>
+33720 Tampere, Finland -><address>
++358 40 5854771 -><phone>
+jukka.huhtamaki@tut.fi -><email>
+33210 Tampere, Finland -><address>
++358 44 5741937 -><phone>
+ville.luotonen@hermia.fi -><email>
+33210 Tampere, Finland -><address>
++358405667182 -><phone>
+ville.kairamo@hermia.fi -><email>
+Kaisa Still -><email>
+VTT Technical Research Centre of -><note>
+Finland -><unknow>
+Martha G. Russell -><author>
+mediaX at Stanford -><affiliation>
+Cordura Hall -><address>
+210 Panama Street -><address>
+Stanford, CA 94305-4115 -><address>
++1 650 7231616 -><phone>
+martha.russell@stanford.edu -><email>
+90571 Oulu, Finland -><address>
++358 40 1508741 -><phone>
+kaisa.still@vtt.fi -><email>

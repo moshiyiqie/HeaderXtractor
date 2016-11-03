@@ -1,0 +1,17 @@
+Distributed Gibbs: A Memory-Bounded -><title>
+Sampling-Based DCOP Algorithm -><title>
+Hoong Chuin Lau -><author>
+School of Information Systems -><affiliation>
+Singapore Management University -><affiliation>
+Singapore 178902 -><address>
+hclau@smu.edu.sg -><email>
+William Yeoh -><author>
+Department of Computer Science -><affiliation>
+New Mexico State University -><affiliation>
+Las Cruces, NM 88003, USA -><address>
+wyeoh@cs.nmsu.edu -><email>
+Duc Thien Nguyen -><author>
+School of Information Systems -><affiliation>
+Singapore Management University -><affiliation>
+Singapore 178902 -><address>
+dtnguyen.2011@smu.edu.sg -><email>

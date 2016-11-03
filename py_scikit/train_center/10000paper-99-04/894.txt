@@ -1,0 +1,5 @@
+PlaneView3D: An Online Graphics Visualization Tool -><title>
+John Clark, Judy Hankins -><author>
+Department of Computer Science -><affiliation>
+Middle Tennessee State University -><affiliation>
+{dclark, csjudy} @mtsu.edu -><email>

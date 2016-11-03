@@ -1,0 +1,5 @@
+Resource Allocation in the Grid Using Reinforcement Learning -><title>
+Aram Galstyan, Karl Czajkowski, and Kristina Lerman -><author>
+USC Information Sciences Institute -><affiliation>
+4676 Admiralty Way, Marina del Rey, CA 90292-6695 -><address>
+galstyan@isi.edu, karlcz@isi.edu, lerman@isi.edu -><email>

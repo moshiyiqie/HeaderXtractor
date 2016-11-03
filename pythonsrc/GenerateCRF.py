@@ -151,7 +151,7 @@ def getOneLineFeatureStr(line, addCiFeature=False):
 	return feature
 
 #对于输入的头部生成crf测试文件-不带富文本信息
-def generateTestFileFromHeaderText(header):
+def generateTestFileFromHeaderText(header, addCiFeature):
 	#pickedFeature = [dictWordNumPer, nonDictWordNumPer, cap1DicWordNumPer,
 	#	cap1NonDicWordNumPer, digitNumPer, affiNumPer, addrNumPer, 
 	#	dateNumPer, degreeNumPer, phoneNumPer, pubNumPer, noteNumPer,singleDigitNumPer]
@@ -162,7 +162,7 @@ def generateTestFileFromHeaderText(header):
 	for line in header:
 		line = line.strip()
 		if len(line) == 0: continue
-		feature = getOneLineFeatureStr(line[:])
+		feature = getOneLineFeatureStr(line[:], addCiFeature)
 		fout.write(' '.join(['ORIGIN', feature, str(lineno), label]) + '\n')
 		lineno+=1
 		

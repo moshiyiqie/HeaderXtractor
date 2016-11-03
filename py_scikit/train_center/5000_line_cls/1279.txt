@@ -1,0 +1,26 @@
+TEAKS: Simulation of Human Performance at Work to -><title>
+Support Team Configuration -><title>
+A. Aldea -><author>
+Department of Computing -><affiliation>
+Oxford Brookes University -><affiliation>
+Oxford, UK -><address>
+(+44) 0 1865 484 516 -><phone>
+aaldea@brookes.ac.uk -><email>
+Dept. of Eng. Science -><affiliation>
+The Oxford University -><affiliation>
+Oxford, UK -><address>
+(+44) 0 1865 273 122 -><phone>
+M. Alvarado -><author>
+Mexican Institute of -><affiliation>
+Petroleum -><address>
+MEXICO, DF. -><email>
+(+52) 55 917 65755 -><phone>
+matiasa@imp.mx -><email>
+Dept. of Computer Eng. and -><affiliation>
+Mathematics -><affiliation>
+Universitat Rovira I Virgili -><affiliation>
+Tarragona, SPAIN -><address>
+(+34) 977 55 85 16 -><phone>
+juan.martinez@urv.net1 -><email>
+rene.banares@eng.ox. -><email>
+ac.uk -><email>

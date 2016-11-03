@@ -1,0 +1,10 @@
+Uncovering Network Tarpits with Degreaser -><title>
+Lance Alt -><author>
+Naval Postgraduate School -><affiliation>
+laalt@cmand.org -><email>
+Alberto Dainotti -><email>
+CAIDA, UC San Diego -><author>
+alberto@caida.org -><email>
+Robert Beverly -><author>
+Naval Postgraduate School -><affiliation>
+rbeverly@nps.edu -><email>

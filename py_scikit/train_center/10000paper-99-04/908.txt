@@ -1,0 +1,8 @@
+Exploring an Information-Based Approach to Computation and -><title>
+Computational Complexity -><title>
+D. E. Stevenson -><author>
+442 R. C. Edwards Hall Department of Computer Science -><affiliation>
+Clemson University -><affiliation>
+PO Box 340974 -><address>
+Clemson, SC 29634-0974 -><phone>
+March 4, 2000 -><date>

@@ -1,0 +1,21 @@
+Analysis of various Swarm-based & Ant-based Algorithms -><title>
+Anil K. Verma -><author>
+Department of Computer Science -><affiliation>
+& Engineering -><affiliation>
+Thapar University -><affiliation>
++91-988601667 -><phone>
+akverma@thapar.edu -><email>
+Harsh Sadawarti -><author>
+Department of Computer Science -><affiliation>
+& Engineering -><affiliation>
+RIMT-IET -><address>
++91-9814176988 -><phone>
+harshsada@yahoo.com -><email>
+Anuj K. Gupta -><author>
+Department of Computer Science -><affiliation>
+& Engineering -><affiliation>
+RIMT-IET -><email>
++91-9417033969 -><phone>
+seek.anuj@yahoo.com -><email>
+Page -><author>
+39 -><date>

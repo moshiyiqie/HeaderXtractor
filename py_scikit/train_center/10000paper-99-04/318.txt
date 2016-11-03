@@ -1,0 +1,19 @@
+Simulation of Work Teams using a Multi-Agent System -><title>
+Arantza Aldea -><author>
+Department of Computer Engineering -><affiliation>
+and Mathematics -><affiliation>
+Universitat Rovira i Virgili -><affiliation>
+Department of Chemical Engineering -><affiliation>
+Universitat Rovira i Virgili -><affiliation>
+Department of Computer Engineering -><affiliation>
+and Mathematics -><affiliation>
+Universitat Rovira i Virgili -><affiliation>
+Tarragona, SPAIN -><address>
+(+34) 977 55 96 73 -><phone>
+rbanares@etseq.urv.es -><email>
+Tarragona, SPAIN -><address>
+(+34) 977 55 85 16 -><phone>
+jumartin@etse.urv.es -><email>
+Tarragona, SPAIN -><address>
+(+34) 977 55 96 81 -><phone>
+aaldea@etse.urv.es -><email>

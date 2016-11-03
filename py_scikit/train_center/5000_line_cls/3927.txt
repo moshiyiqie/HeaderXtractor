@@ -1,0 +1,6 @@
+Mental models, Consistency and Programming Aptitude -><title>
+Richard Bornat1 Saeed Dehnadi1 Simon2 -><author>
+1 School of Computing Science, Middlesex University, LONDON NW4 4BT, UK -><affiliation>
+Email: {R.Bornat,S.Dehnadi}@mdx.ac.uk -><email>
+2 School of Design, Communication, and Information Technology, University of Newcastle, Australia -><affiliation>
+Email: Simon@newcastle.edu.au -><email>

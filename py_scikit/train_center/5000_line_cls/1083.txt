@@ -1,0 +1,7 @@
+Demonstration of WS2JADE -><title>
+Xuan Thang Nguyen -><author>
+Swinburne University of Technology -><affiliation>
+John Street, Hawthorn -><affiliation>
+VIC 3122, Australia -><address>
+Tel. (61)392145623 -><phone>
+xnguyen@it.swin.edu.au -><email>

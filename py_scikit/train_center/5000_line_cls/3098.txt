@@ -1,0 +1,8 @@
+The Effects of Feedback on Human Behavior in Social -><title>
+Media: An Inverse Reinforcement Learning Model -><title>
+Sanmay Das -><author>
+Washington University in St. Louis -><affiliation>
+sanmay@seas.wustl.edu -><email>
+Allen Lavoie -><author>
+Washington University in St. Louis -><affiliation>
+allenlavoie@wustl.edu -><email>

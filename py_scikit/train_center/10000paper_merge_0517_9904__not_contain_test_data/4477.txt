@@ -1,0 +1,12 @@
+Bayesian Data and Channel Joint Maximum-Likelihood -><title>
+Based Error Correction in Wireless Sensor Networks -><title>
+Aditya K. Jagannatham -><author>
+Department of Electrical Engineering -><affiliation>
+Indian Institute of Technology Kanpur -><affiliation>
+Kanpur, India 208016 -><address>
+adityaj@iitk.ac.in -><email>
+Ashish Katiyar -><author>
+Department of Electrical Engineering -><affiliation>
+Indian Institute of Technology Rajasthan -><affiliation>
+Jodhpur, India 342011 -><address>
+ashishkatiyar@iitj.ac.in -><email>

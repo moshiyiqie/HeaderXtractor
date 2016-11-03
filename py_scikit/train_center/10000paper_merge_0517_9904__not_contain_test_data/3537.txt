@@ -1,0 +1,12 @@
+3rd Author -><note>
+Parallel Random Number Generations For -><title>
+Monte Carlo Simulation -><title>
+Ingyu Lee -><author>
+Sorrell College of Business -><affiliation>
+Troy University Troy, AL. USA -><affiliation>
+inlee@troy.edu -><email>
+3rd author's affiliation -><note>
+1st line of address -><note>
+2nd line of address -><note>
+Telephone number, incl. country code -><note>
+3rd E-mail -><note>

@@ -1,0 +1,20 @@
+Auctioning a Cake: -><title>
+Truthful Auctions of Heterogeneous Divisible Goods -><title>
+Avinatan Hassidim -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan 52900, Israel -><address>
+avinatanh@gmail.com -><email>
+Yair Dombb -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan 52900, Israel -><address>
+yairdombb@gmail.com -><email>
+Yonatan Aumann -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+Bar-Ilan University -><affiliation>
+Ramat-Gan 52900, Israel -><address>
+aumann@cs.biu.ac.il -><email>

@@ -1,0 +1,5 @@
+On the Privacy Provisions of Bloom Filters in Lightweight -><title>
+Bitcoin Clients -><title>
+Arthur Gervais†, Ghassan O. Karame‡, Damian Gruber, Srdjan Capkun† -><author>
+†ETH Zurich, Switzerland, ‡NEC Laboratories Europe, Germany -><affiliation>
+†ﬁrstname.lastname@inf.ethz.ch, ‡ﬁrstname.lastname@neclab.eu, gruberda@student.ethz.ch -><affiliation>

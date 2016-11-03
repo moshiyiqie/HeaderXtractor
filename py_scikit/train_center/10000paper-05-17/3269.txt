@@ -1,0 +1,22 @@
+Evolution of an International Collaborative Student Project -><title>
+Mats Daniels -><author>
+Uppsala University -><affiliation>
+Uppsala, Sweden -><address>
+Uppsala University -><affiliation>
+Uppsala, Sweden -><address>
+Cary Laxer -><author>
+Rose-Hulman Institute -><affiliation>
+of Technology -><affiliation>
+Terre Haute, IN, USA -><address>
+cary.laxer@ -><email>
+rose-hulman.edu -><email>
+Michael Wollowski -><author>
+Rose-Hulman Institute -><affiliation>
+of Technology -><affiliation>
+Terre Haute, IN, USA -><address>
+michael.wollowski@ -><email>
+rose-hulman.edu -><email>
+mats.daniels@ -><email>
+it.uu.se -><email>
+asa.cajander@ -><email>
+it.uu.se -><email>

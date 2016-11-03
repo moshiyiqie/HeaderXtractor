@@ -1,0 +1,5 @@
+Collaborative Foraging using Beacons -><title>
+Brian Hrolenok, Sean Luke, Keith Sullivan, and Christopher Vo -><author>
+Department of Computer Science, George Mason University -><affiliation>
+MSN 4A5, Fairfax, VA 22030, USA -><address>
+{bhroleno, sean, ksulliv2, cvo1} @ cs.gmu.edu -><email>

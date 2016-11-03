@@ -1,0 +1,26 @@
+Application Specific Processor vs. Microblaze Soft Core -><title>
+RISC Processor: FPGA Based Performance and CPR -><title>
+Analysis -><author>
+Pallabi Sarkar -><affiliation>
+Department of Electrical and -><affiliation>
+Computer Engineering, -><affiliation>
+Ryerson University, -><affiliation>
+Toronto, Canada -><address>
+001-416 979 5000 ext 4898 -><phone>
+psarkar@ee.ryerson.ca -><email>
+Reza Sedaghat -><author>
+Department of Electrical and -><affiliation>
+Computer Engineering, -><address>
+Ryerson University, -><affiliation>
+Toronto, Canada -><address>
+001-416 979 5000 ext 6083 -><phone>
+rsedagha@ee.ryerson.ca -><email>
+Anirban Sengupta -><author>
+Department of Electrical and -><affiliation>
+Computer Engineering, -><affiliation>
+Ryerson University, -><affiliation>
+Toronto, Canada -><address>
+001-416 979 5000 ext 4898 -><phone>
+asengupt@ee.ryerson.ca -><email>
+Page -><author>
+82 -><pubnum>

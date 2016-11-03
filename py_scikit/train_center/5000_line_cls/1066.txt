@@ -1,0 +1,11 @@
+Adaptive A -><title>
+Maxim Likhachev -><author>
+Computer Science Department -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh, PA 15213-3891 -><address>
+maxim+@cs.cmu.edu -><email>
+Sven Koenig∗ -><author>
+Computer Science Department -><affiliation>
+University of Southern California -><affiliation>
+Los Angeles, CA 90089-0781 -><address>
+skoenig@usc.edu -><email>

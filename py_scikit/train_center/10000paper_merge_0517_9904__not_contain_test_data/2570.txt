@@ -1,0 +1,6 @@
+fNIRS-based BCI for Robot Control -><title>
+(Demonstration) -><title>
+Kirill Tumanov, Rainer Goebel, Rico Möckel, Bettina Sorger and Gerhard Weiss -><author>
+Maastricht University, P.O. Box 616, 6200MD Maastricht -><affiliation>
+tumanov@susqu.edu -><email>
+{r.goebel, rico.mockel, b.sorger, gerhard.weiss}@maastrichtuniversity.nl -><affiliation>

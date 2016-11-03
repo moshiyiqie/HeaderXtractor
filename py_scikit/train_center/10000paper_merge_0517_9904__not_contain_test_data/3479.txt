@@ -1,0 +1,6 @@
+Co-designing a Billing System for Voice Services in Rural -><title>
+South Africa: Lessons Learned -><title>
+Carlos Rey-Moreno, Marie Josee Ufitamahoro, Isabella Venter and William Tucker -><author>
+Computer Science Department, University of the Western Cape -><affiliation>
+Private Bag X17, Bellville 7535 South Africa -><address>
+{crey-moreno, 3252471, iventer, btucker}@uwc.ac.za -><email>

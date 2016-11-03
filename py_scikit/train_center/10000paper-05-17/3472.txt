@@ -1,0 +1,6 @@
+UrJar: A Lighting Solution using Discarded Laptop -><title>
+Batteries -><title>
+Vikas Chandan#1, Mohit Jain#1, Harshad Khadilkar#1, Zainul Charbiwala#1, -><author>
+Anupam Jain#1, Sunil Ghai#1, Rajesh Kunnath#2, Deva Seetharam∗ -><keyword>
+#1IBM Research India, #2Radio Studio India -><affiliation>
+{vchanda4, mohitjain, harshad.khadilkar, zainulcharbiwala, sunilkrghai}@in.ibm.com -><email>

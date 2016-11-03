@@ -1,0 +1,17 @@
+CSC: Criticality-Sensitive Coordination ∗ -><title>
+Pedro Szekely†, Marcel Becker‡, Stephen Fitzpatrick‡, Gergely Gati?, -><author>
+David Hanak?, Jing Jin†, Gabor Karsai?, Rajiv T. Maheswaran†, -><author>
+Bob Neches†, Craig M. Rogers†, Romeo Sanchez†, Chris van Buskirk? -><author>
+† Information Sciences Institute, University of Southern California, 4676 Admiralty Way - Suite 1001, Marina Del Rey, CA 90292 -><affiliation>
+‡ Kestrel Institute, 3260 Hillview Avenue, Palo Alto, CA 94304 -><affiliation>
+? Institute for Software Integrated Systems, Vanderbilt University, Box 1829, Station B, Nashville, TN 37235 -><address>
+szekely@isi.edu, becker@kestrel.edu, fitzpatrick@kestrel.edu, gergely@isis.vanderbilt.edu, -><email>
+dhanak@isis.vanderbilt.edu, jingjin@isi.edu, gabor.karsai@vanderbilt.edu, maheswar@isi.edu, -><email>
+rneches@isi.edu, rogers@isi.edu, rsanchez@isi.edu, chris.vanbuskirk@vanderbilt.edu -><email>
+Categories and Subject Descriptors -><note>
+I.2.11 [Artificial Intelligence]: Distributed Artificial Intelligence— -><note>
+multiagent systems, coherence and coordination -><keyword>
+General Terms -><keyword>
+Algorithms, Design Experimentation, Performance -><keyword>
+Keywords -><keyword>
+Reasoning Under Uncertainty, Large-Scale Systems, Visualization -><keyword>

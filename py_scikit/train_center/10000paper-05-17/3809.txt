@@ -1,0 +1,11 @@
+Introduction to Technology for General Education -><title>
+Susan Reiser -><author>
+Computer Science -><affiliation>
+University of North Carolina at Asheville -><affiliation>
+828-250-3868 -><address>
+reiser@cs.unca.edu -><email>
+Rebecca Bruce -><author>
+Computer Science -><affiliation>
+University of North Carolina at Asheville -><affiliation>
+828-232-2275 -><phone>
+bruce@cs.unca.edu -><email>

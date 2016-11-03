@@ -1,0 +1,12 @@
+A simulator for organisation-centred MAS adaptation in -><title>
+P2P sharing networks -><title>
+Jordi Campos and Maite Lopez-Sanchez -><author>
+Universitat de Barcelona -><affiliation>
+Gran Via 585 -><address>
+08007 Barcelona, Spain -><address>
+{jcampos, maite}@maia.ub.es -><email>
+Marc Esteva and Javier Morales -><author>
+IIIA, CSIC -><affiliation>
+Campus de la UAB -><affiliation>
+E-08193 Bellaterra, Spain -><address>
+{marc, jmorales}@iiia.csic.es -><email>

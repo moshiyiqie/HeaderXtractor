@@ -1,0 +1,13 @@
+Towards a Fault-Tolerant Multi-Agent System Architecture -><title>
+Sanjeev Kumar -><author>
+Philip R. Cohen -><author>
+Oregon Graduate Institute -><affiliation>
+Oregon Graduate Institute -><affiliation>
+20000 NW Walker Road, -><address>
+20000 NW Walker Road, -><address>
+Beaverton, OR 97006, USA -><address>
+Beaverton, OR 97006, USA -><address>
++1-503-748-7803 -><phone>
++I -503-748-I 326 -><phone>
+skumar@ cse.ogi.edu -><email>
+pcohen @ cse.ogi.edu -><email>

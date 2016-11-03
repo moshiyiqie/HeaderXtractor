@@ -1,0 +1,4 @@
+O3F: an Object Oriented Ontology Framework -><title>
+We, the Body and the Mind Group of ADETTI -><author>
+1600-082 Lisboa, Portugal -><address>
+{luis.mota, luis.botelho, hugo.mendes, antonio.luis}@iscte.pt -><email>

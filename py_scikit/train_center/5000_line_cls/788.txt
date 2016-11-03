@@ -1,0 +1,20 @@
+Multiagent Planning as Control Synthesis -><title>
+Kiam-Tian Seow -><title>
+ChuanMa -><title>
+Makoto Yokoo -><author>
+Division of Computing Systems -><affiliation>
+Systems Control Group -><affiliation>
+Department of Intelligent Systems -><affiliation>
+School of Computer Engineering -><affiliation>
+The University of Toronto -><affiliation>
+Faculty of Information Science -><affiliation>
+Nanyang Technological University -><affiliation>
+Toronto, ONM5S 1A4, Canada -><address>
+and Electrical Engineering -><note>
+Republic of Singapore 639798 -><note>
+cma@control.utoronto.ca -><email>
+Kyushu University -><affiliation>
+asktseow@ntu.edu.sg -><email>
+6-10-1 Hakozaki, Higashi-ku -><affiliation>
+Fukuoka 812-8581, Japan -><address>
+yokoo@is.kyushu-u.ac.jp -><email>

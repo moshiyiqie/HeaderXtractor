@@ -1,0 +1,12 @@
+Protocols and Strategies for Automated -><title>
+Multi-Attribute Auctions1 -><title>
+Esther David -><author>
+Rina Azoulay-Schwartz -><author>
+Sarit Kraus -><author>
+Bar-Ilan University -><affiliation>
+Department of Computer Science -><affiliation>
+Ramat-Gan 52900 -><address>
+Israel -><address>
+{saadone,schwart,sarit}@macs.biu.ac.il -><email>
+1This work is supported in part by NSF Grant # 9820657. -><note>
+The third author is also affiliated with UMIACS. -><note>

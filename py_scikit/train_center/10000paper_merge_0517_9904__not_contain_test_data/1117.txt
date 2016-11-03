@@ -1,0 +1,11 @@
+Decision Theoretic Behavior Composition -><title>
+Sebastian Sardina -><author>
+School of Computer Science and IT -><affiliation>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+sebastian.sardina@rmit.edu.au -><email>
+Nitin Yadav -><email>
+School of Computer Science and IT -><affiliation>
+RMIT University -><affiliation>
+Melbourne, Australia -><address>
+nitin.yadav@rmit.edu.au -><email>

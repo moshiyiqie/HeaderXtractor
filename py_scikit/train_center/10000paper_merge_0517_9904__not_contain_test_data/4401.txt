@@ -1,0 +1,15 @@
+Uncovering Access Control Weaknesses and Flaws with -><title>
+Security-Discordant Software Clones -><title>
+François Gauthier -><author>
+Polytechnique Montréal -><affiliation>
+Montréal, Canada -><address>
+francois.gauthier@polymtl.ca -><email>
+Ettore Merlo -><author>
+Polytechnique Montréal -><affiliation>
+Montréal, Canada -><address>
+ettore.merlo@polymtl.ca -><email>
+Thierry Lavoie -><author>
+Polytechnique Montréal -><affiliation>
+Montréal, Canada -><address>
+thierry- -><email>
+m.lavoie@polymtl.ca -><email>

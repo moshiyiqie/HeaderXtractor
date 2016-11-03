@@ -1,0 +1,34 @@
+Extracting Knowledge in the Internet Age -><title>
+Preetha Annamalai -><author>
+KCRG, Learning Systems Institute -><affiliation>
+2000 Levy Avenue, Suite 320 -><address>
+Tallahassee, Florida-32301 -><address>
+011-850-445-4664 -><phone>
+annamala@cs.fsu.edu -><email>
+1. PROBLEM AND MOTIVATION -><abstract>
+Requirement analysis is an integral part of the software -><abstract>
+engineering process. Usually, the information to be modeled is -><abstract>
+relatively unbounded and lacks structure. This makes it difficult -><abstract>
+to obtain a consensus on the requirement analysis document. This -><abstract>
+paper provides an examination of how both requirement analysis -><abstract>
+and knowledge elicitation can be made more efficient in the -><abstract>
+Internet age by making it an open process. In particular it -><abstract>
+describes how the World Wide Web can be used to facilitate -><abstract>
+collaborative development and reuse of requirements. The various -><affiliation>
+issues faced by present day requirements engineers in creating a -><abstract>
+requirement analysis document and eliciting knowledge from -><abstract>
+experts, specifically in the domain of medical expert systems is -><abstract>
+dealt with. -><abstract>
+2. BACKGROUND AND RELATED WORK -><abstract>
+Identifying the needs of the client by means of requirement -><abstract>
+analysis is fundamental in the software engineering cycle. The -><abstract>
+requirement analysis document serves as an agreement between -><abstract>
+clients and developers [1]. As noted by several researchers, -><abstract>
+requirement analysis and knowledge elicitation have common -><abstract>
+goals in the sense that they both aim at gathering relevant -><abstract>
+information and modeling it in a form suitable for implementation -><abstract>
+[1] [2]. Particularly, in the case of expert systems, the knowledge -><abstract>
+base also details the rationale to be followed while developing the -><abstract>
+system. As a case study, reference will be made to a project that -><abstract>
+aims at designing a medical diagnostic system. This system will -><abstract>
+diagnose and prescribe treatments for a particular infection based -><abstract>

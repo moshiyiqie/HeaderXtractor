@@ -1,0 +1,21 @@
+Elliot Lefkowitz -><title>
+Network Flow for Outlier Detection -><title>
+Alan P. Sprague -><author>
+Department of Computer and -><affiliation>
+Information Sciences -><unknow>
+Ying Liu -><author>
+Department of Computer and -><affiliation>
+Information Sciences -><affiliation>
+Department of Microbiology -><affiliation>
+The University of Alabama at -><affiliation>
+Birmingham -><affiliation>
+The University of Alabama at -><affiliation>
+Birmingham -><affiliation>
+The University of Alabama at -><affiliation>
+Birmingham -><affiliation>
+Birmingham, AL, 35294-2170 -><address>
+Birmingham, AL 35294-1170 -><address>
+Birmingham, AL, 35294-1170 -><address>
+elliotl@uab.edu -><email>
+yliu@uab.edu -><email>
+sprague@cis.uab.edu -><email>

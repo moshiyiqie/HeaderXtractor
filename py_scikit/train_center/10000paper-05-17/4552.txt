@@ -1,0 +1,20 @@
+An Energy Balanced Mobile Agents based Data -><title>
+Dissemination Protocol for Wireless Sensor Networks -><title>
+Manoj Misra -><author>
+Department of Electronics & -><affiliation>
+Computer Engineering -><affiliation>
+Indian Institute of Technology -><affiliation>
+Roorkee, India-247667 -><address>
+manojfec@iitr.ernet.in -><email>
+Govind Gupta -><author>
+Department of Electronics & -><affiliation>
+Computer Engineering -><affiliation>
+Indian Institute of Technology -><affiliation>
+Roorkee, India-247667 -><address>
+gpgiitr@gmail.com -><email>
+Kumkum Garg -><author>
+Department of Computer -><affiliation>
+Science & Engineering -><affiliation>
+Manipal Institute of Technology -><affiliation>
+Manipal, India -><address>
+kumkum.garg@manipal.edu -><email>

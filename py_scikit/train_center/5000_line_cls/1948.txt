@@ -1,0 +1,13 @@
+Tractable Model Checking for Fragments of Higher-Order -><title>
+Coalition Logic∗ -><title>
+Patrick Doherty -><author>
+Dept. of Computer and Information Science, Linköping University, Sweden -><affiliation>
+patrick.doherty@liu.se -><email>
+Barbara Dunin-Ke¸plicz -><author>
+Institute of Informatics, Warsaw University, Poland -><affiliation>
+and Institute of Computer Science, Polish Academy of Sciences, Warsaw, Poland -><affiliation>
+keplicz@mimuw.edu.pl -><email>
+Andrzej Szałas -><author>
+Institute of Informatics, Warsaw University Warsaw, Poland -><affiliation>
+and Dept. of Computer and Information Science, Linköping University, Sweden -><affiliation>
+andrzej.szalas@{mimuw.edu.pl,liu.se} -><email>

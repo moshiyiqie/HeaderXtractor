@@ -1,0 +1,9 @@
+A STIT Logic Analysis of Social Influence -><title>
+Emiliano Lorini -><title>
+IRIT-CNRS -><author>
+Toulouse University, France -><affiliation>
+lorini@irit.fr -><email>
+Giovanni Sartor -><author>
+CIRSFID, University of Bologna, Italy -><affiliation>
+European University Institute of Florence, Italy -><affiliation>
+giovanni.sartor@unibo.it -><email>

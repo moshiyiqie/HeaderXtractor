@@ -1,0 +1,8 @@
+Teaching Programming to Beginners -><title>
+choosing the language is just the first step -><title>
+Roger Duke, Eric Salzman, Jay Burmeister, Josiah Poon and Leesa Murray -><author>
+School of Computer Science and Electrical Engineering -><affiliation>
+University of Queensland -><affiliation>
+Brisbane, Queensland -><address>
+Australia -><address>
+{rduke, eric, jay, josiah, leesam}@csee.uq.edu.au -><email>

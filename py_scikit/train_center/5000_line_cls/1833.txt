@@ -1,0 +1,17 @@
+Dominating Sets of Agents in Visibility Graphs: -><title>
+Distributed Algorithms for Art Gallery Problems -><title>
+Evan A. Sultanik -><author>
+Drexel University -><affiliation>
+3141 Chestnut Street, -><address>
+Philadelphia, PA 19104 -><address>
+eas28@cs.drexel.edu -><email>
+William C. Regli -><author>
+Drexel University -><affiliation>
+3141 Chestnut Street, -><address>
+Philadelphia, PA 19104 -><address>
+regli@cs.drexel.edu -><email>
+Ali Shokoufandeh -><author>
+Drexel University -><affiliation>
+3141 Chestnut Street, -><address>
+Philadelphia, PA 19104 -><address>
+ashokouf@cs.drexel.edu -><email>

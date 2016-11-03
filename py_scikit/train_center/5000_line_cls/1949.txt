@@ -1,0 +1,12 @@
+Active Markov Information-Theoretic Path Planning for -><title>
+Robotic Environmental Sensing -><title>
+John M. Dolan and Pradeep Khosla -><author>
+Robotics Institute -><affiliation>
+Carnegie Mellon University -><affiliation>
+Pittsburgh PA 15213 USA -><address>
+jmd@cs.cmu.edu, pkk@ece.cmu.edu -><email>
+Kian Hsiang Low -><author>
+Department of Computer Science -><affiliation>
+National University of Singapore -><affiliation>
+Republic of Singapore -><affiliation>
+lowkh@comp.nus.edu.sg -><email>

@@ -1,0 +1,12 @@
+Using Geometric Diffusions for Recognition-Primed -><title>
+Multi-Agent Decision Making -><title>
+Xiaocong Fan -><author>
+The Behrend College -><affiliation>
+The Pennsylvania State University -><affiliation>
+Erie, PA 16563, USA -><address>
+xfan@psu.edu -><email>
+Meng Su -><author>
+The Behrend College -><affiliation>
+The Pennsylvania State University -><affiliation>
+Erie, PA 16563, USA -><address>
+mengsu@psu.edu -><email>

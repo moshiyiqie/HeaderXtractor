@@ -1,0 +1,14 @@
+An Efficient Approximation to Wait Time in M/M/c Queues with -><title>
+Application to Staffing Planning -><title>
+Dr. Spyros Kontogiorgis -><author>
+Dr. Richard W. Tibbs -><author>
+Radford University -><affiliation>
+Box 6933 -><address>
+Radford VA 24142 -><address>
+1.540.831.5780 -><phone>
+rwtibbs@radford.edu -><email>
+Delta Airlines Technology -><affiliation>
+636 Rock Springs Ct. -><address>
+Atlanta GA 30306 -><address>
+1.404.808.2020 -><address>
+spyroskon@yahoo.com -><email>

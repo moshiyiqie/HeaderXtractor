@@ -1,0 +1,28 @@
+A Survey of Data Mining Techniques for Malware Detection -><title>
+using File Features -><title>
+Muazzam Siddiqui -><author>
+Institute of Simulation & -><affiliation>
+Training -><affiliation>
+University of Central Florida -><affiliation>
+siddiqui@mail.ucf.edu -><email>
+Morgan C. Wang -><author>
+Department of Statistics and -><affiliation>
+Actuarial Sciences -><author>
+University of Central Florida -><affiliation>
+cwang@mail.ucf.edu -><email>
+Joohan Lee -><author>
+School of Electrical -><affiliation>
+Engineering & Computer -><affiliation>
+Science -><affiliation>
+University of Central Florida -><affiliation>
+jlee@cs.ucf.edu -><email>
+Categories and Subject Descriptors -><note>
+K.6.5 [MANAGEMENTOF COMPUTINGAND IN- -><note>
+FORMATION SYSTEMS]: Security and Protection— -><note>
+Invasive software; H.2.8 [DATABASEMANAGEMENT]: -><note>
+Database Applications—Data mining ; I.2.6 [ARTIFICIAL -><note>
+INTELLIGENCE]: Learning—Concept learning, Connec- -><note>
+tionism and neural nets -><note>
+Keywords -><keyword>
+Survey, Malware Detection, Data Mining, Machine Learn- -><keyword>
+ing, N-grams, Instruction Sequences, System Calls -><keyword>

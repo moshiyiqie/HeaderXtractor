@@ -1,0 +1,11 @@
+Virtualization and Its Effect on Operating System -><title>
+Mohammad M. Fuad -><author>
+Department of Computer Science -><affiliation>
+Winston-Salem State University -><affiliation>
+Winston-Salem, NC 27110, USA -><address>
+fuadmo@wssu.edu -><email>
+Earl Forrest -><author>
+Department of Computer Science -><affiliation>
+Winston-Salem State University -><affiliation>
+Winston-Salem, NC 27110, USA -><address>
+eforrest@qocnc.com -><email>

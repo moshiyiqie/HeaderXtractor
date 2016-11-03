@@ -1,0 +1,7 @@
+Execution Characteristics of SPEC CPU2000 Benchmarks: -><title>
+Intel C++ vs. Microsoft VC++ -><title>
+Swathi Tanjore Gurumani Aleksandar Milenkovic -><author>
+Electrical and Computer Engineering Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, Alabama -><affiliation>
+{gurumas, milenka}@eng.uah.edu -><email>

@@ -1,0 +1,5 @@
+ObjectPlaces: An Environment for Situated Multi-Agent Systems -><title>
+Kurt Schelfthout and Tom Holvoet -><author>
+K.U.Leuven - DistriNet-AgentWise taskforce -><affiliation>
+Celestijnenlaan 200A, 3001 Leuven, Belgium -><address>
+{Kurt.Schelfthout, Tom.Holvoet}@cs.kuleuven.ac.be -><email>

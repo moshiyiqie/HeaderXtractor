@@ -1,0 +1,16 @@
+Capturing Agent Autonomy in Roles and XML -><title>
+Michael Rovatsos -><author>
+Institut fu¨r Informatik, TUM -><affiliation>
+Boltzmannstraße 3 -><address>
+85748 Garching, GERMANY -><address>
+rovatsos@in.tum.de -><email>
+Matthias Nickles -><author>
+Institut fu¨r Informatik, TUM -><affiliation>
+Boltzmannstraße 3 -><address>
+85748 Garching, GERMANY -><address>
+nickles@in.tum.de -><email>
+Gerhard Weiß -><author>
+Institut fu¨r Informatik, TUM -><affiliation>
+Boltzmannstraße 3 -><address>
+85748 Garching, GERMANY -><address>
+weissg@in.tum.de -><email>

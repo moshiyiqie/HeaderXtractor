@@ -1,0 +1,21 @@
+Selection of Information Types Based on Personal Utility - -><title>
+a Testbed for Traffic Information Markets -><title>
+Franziska Klu¨gl -><author>
+Dep. of Artificial Intelligence -><affiliation>
+University of Wu¨rzburg -><affiliation>
+Am Hubland -><address>
+97074 Wu¨rzburg, Germany -><address>
+Joachim Wahle -><author>
+TraffGo GmbH -><affiliation>
+Grabenstr. 132 -><address>
+47057 Duisburg, Germany -><address>
+wahle@traffgo.com -><email>
+Ana L. C. Bazzan -><author>
+Instituto de Informa´tica, -><affiliation>
+UFRGS -><affiliation>
+Caixa Postal 15064 -><address>
+91.501-970 Porto Alegre, RS, -><address>
+Brazil -><address>
+bazzan@inf.ufrgs.br -><email>
+kluegl@informatik.uni- -><email>
+wuerzburg.de -><email>

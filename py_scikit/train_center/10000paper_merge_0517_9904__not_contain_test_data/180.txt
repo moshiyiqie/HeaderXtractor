@@ -1,0 +1,12 @@
+and Interaction with its Environment -><title>
+Catholijn M. Jonker1 and Jan Treur1,2 -><author>
+1 Vrije Universiteit Amsterdam -><affiliation>
+2 Utrecht University -><affiliation>
+Department of Philosophy -><address>
+Heidelberglaan 8, 3584 CS Utrecht -><address>
+The Netherlands Tel. +31 30 253 2698 -><address>
+Department of Artificial Intelligence -><affiliation>
+De Boelelaan 1081a, 1081 HV Amsterdam -><address>
+The Netherlands Tel. +31 20 444 77{43,63} -><address>
+{jonker, treur}@cs.vu.nl -><email>
+http://www.cs.vu.nl/~{jonker, treur} -><web>

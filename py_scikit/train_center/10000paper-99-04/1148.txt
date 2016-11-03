@@ -1,0 +1,15 @@
+store shell -><title>
+Configurabil -><title>
+L. Ardissono, A. Goy, G. Petrone, M. Segnan -><author>
+Dipartimento di -><affiliation>
+Corso Svizzera 185; 10149 Torino, Italy -><address>
+Phone: +39 - 011 - 7429111; -><phone>
+{liliana, goy, giownna, marino}Qdi.unito.it -><abstract>
+1. In -><abstract>
+The configurabilty of a Web store shell strongly benefits -><abstract>
+from the possibility to create simpler on-line stores, offering -><abstract>
+a subset of the functionalities supported by the shell: in -><abstract>
+fact, some functionalities may exceed the requirements of -><abstract>
+a specific sales domain and, at the same time, they may -><abstract>
+impose an overhead on the knowledge to be introduced at -><abstract>
+configuration time and on the interaction with the customer. -><abstract>

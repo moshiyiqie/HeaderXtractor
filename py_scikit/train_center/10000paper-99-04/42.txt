@@ -1,0 +1,14 @@
+A Multi-Agent Bioinformatics Integration System with -><title>
+Adjustable Autonomy: An Overview -><title>
+Richard Baldock -><author>
+MRC Human Genetics Unit -><affiliation>
+Edinburgh, EH4 2XU, UK -><address>
+R.Baldock@hgu.mrc.ac.uk -><email>
+Albert Burger -><author>
+MRC Human Genetics Unit -><affiliation>
+Edinburgh, EH4 2XU, UK -><address>
+A.Burger@hgu.mrc.ac.uk -><email>
+Konstantinos Karasavvas -><author>
+CEE, Heriot-Watt University -><affiliation>
+Edinburgh, EH14 4AS, UK -><address>
+ceekk@cee.hw.ac.uk -><email>

@@ -1,0 +1,10 @@
+The Quality of a PeerWise MCQ Repository -><title>
+Helen Purchase1 John Hamer2 Paul Denny2 Andrew Luxton-Reilly2 -><author>
+1 Department of Computing Science -><affiliation>
+University of Glasgow, -><address>
+Glasgow, Scotland, -><address>
+Email: hcp@dcs.gla.ac.uk -><email>
+2 Department of Computer Science -><affiliation>
+The University of Auckland -><address>
+Private Bag 92019, Auckland, New Zealand -><address>
+{J.Hamer,paul,a.luxton}@cs.auckland.ac.nz -><email>

@@ -1,0 +1,6 @@
+Solving Extensive-form Games with Double-oracle -><title>
+Methods -><title>
+Branislav Bošanský -><author>
+Agent Technology Center, Dept. of Computer Science, -><affiliation>
+Faculty of Electrical Engineering, Czech Technical University in Prague -><affiliation>
+bosansky@agents.fel.cvut.cz -><email>

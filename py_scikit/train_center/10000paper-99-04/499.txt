@@ -1,0 +1,18 @@
+Information-Driven Phase Changes -><title>
+in Multi-Agent Coordination -><title>
+H. Van Dyke Parunak -><author>
+Altarum -><affiliation>
+3520 Green Court -><address>
+Ann Arbor, MI 48105-1570, USA -><address>
++1 (734) 302 4684 -><phone>
+van.parunak@altarum.org -><email>
+Sven A. Brueckner -><author>
+Altarum -><affiliation>
+3520 Green Court -><address>
+Ann Arbor, MI 48105-1570, USA -><address>
++1 (734) 302 4683 -><phone>
+sven.brueckner@altarum.org -><email>
+Categories & Subject Descriptors: I.2.11 Coherence and -><keyword>
+Coordination -><keyword>
+General Terms: Algorithms, Performance, Experimentation -><keyword>
+Keywords: Scaling, Phase Change, Adaptation, Graph Coloring -><keyword>

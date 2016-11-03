@@ -1,0 +1,6 @@
+Reinforcement Learning for Stochastic Cooperative -><title>
+Multi-Agent-Systems -><title>
+Martin Lauer -><author>
+University of Osnabru¨ck -><affiliation>
+Martin Riedmiller -><address>
+49069 Osnabru¨ck, Germany -><address>

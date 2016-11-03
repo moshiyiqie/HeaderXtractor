@@ -1,0 +1,22 @@
+ASAFESSS: A Scheduler-driven Adaptive Framework for -><title>
+Extreme Scale Software Stacks -><title>
+Benoît Meister -><author>
+Reservoir Labs -><affiliation>
+meister@reservoir.com -><email>
+Tom St. John -><author>
+University of Delaware -><affiliation>
+stjohn@capsl.udel.edu -><email>
+Andres Marquez -><author>
+Pacific Northwest National -><affiliation>
+Laboratory -><affiliation>
+andres.marquez@pnnl.gov -><email>
+Guang R. Gao -><author>
+University of Delaware -><affiliation>
+ggao@capsl.udel.edu -><email>
+Xiaoming Li -><author>
+University of Delaware -><affiliation>
+xli@ece.udel.edu -><email>
+Joseph B. Manzano -><author>
+Pacific Northwest National -><affiliation>
+Laboratory -><affiliation>
+joseph.manzano@pnnl.gov -><email>

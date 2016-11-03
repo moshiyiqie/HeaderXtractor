@@ -1,0 +1,8 @@
+Learning to Form Dynamic Committees -><title>
+Santiago Ontan˜o´n and Enric Plaza -><author>
+IIIA, Artificial Intelligence Research Institute -><affiliation>
+CSIC, Spanish Council for Scientific Research -><affiliation>
+Campus UAB, 08193 Bellaterra -><address>
+Catalonia (Spain). -><address>
+(santi,enric)@iiia.csic.es, -><email>
+http://www.iiia.csic.es -><web>

@@ -1,0 +1,16 @@
+Expert-Mediated Search -><title>
+David Sarne -><author>
+Bar-Ilan University -><affiliation>
+Dept. of Computer Science -><affiliation>
+Ramat Gan, Israel -><address>
+sarned@cs.biu.edu -><email>
+Sanmay Das -><email>
+Rensselaer Polytechnic Inst. -><author>
+Dept. of Computer Science -><affiliation>
+Troy, NY, USA -><address>
+sanmay@cs.rpi.edu -><email>
+Meenal Chhabra -><author>
+Rensselaer Polytechnic Inst. -><affiliation>
+Dept. of Computer Science -><affiliation>
+Troy, NY, USA -><address>
+chhabm@cs.rpi.edu -><email>

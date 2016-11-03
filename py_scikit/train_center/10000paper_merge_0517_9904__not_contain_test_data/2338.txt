@@ -1,0 +1,7 @@
+A Self-Organizing Virtual Environment for Agent-Based -><title>
+Simulations -><title>
+Mohammad Al-Zinati, Rym Wenkstern -><author>
+University of Texas at Dallas -><affiliation>
+800 West Campbell Road -><address>
+Richardson, Texas, USA -><address>
+{mohammad.al-zinati, rymw}@utdallas.edu -><email>

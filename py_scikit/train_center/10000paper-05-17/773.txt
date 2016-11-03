@@ -1,0 +1,5 @@
+TacTex09: A Champion Bidding Agent for Ad Auctions -><title>
+David Pardoe, Doran Chakraborty, and Peter Stone -><author>
+Department of Computer Science -><affiliation>
+The University of Texas at Austin -><affiliation>
+{dpardoe, chakrado, pstone}@cs.utexas.edu -><email>

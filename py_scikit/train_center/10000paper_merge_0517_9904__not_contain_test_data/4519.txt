@@ -1,0 +1,20 @@
+Robust Minimum Mean Square Error Channel -><title>
+Estimation for LTE Downlink OFDM System -><title>
+K.Bruntha -><author>
+Dept. of ECE -><affiliation>
+Thiagarajar College of Engg., -><affiliation>
+Madurai -><address>
+001-0452-2482240 -><phone>
+brunthagct@gmail.com -><email>
+K.Rajeswari -><email>
+Assistant Professor,Dept. of ECE -><note>
+Thiagarajar College of Engg., -><note>
+Madurai -><note>
+001-0452-2482240 -><phone>
+rajeswari@tce.edu -><email>
+S.J.Thiruvengadam -><email>
+Professor,Dept. of ECE -><affiliation>
+TIFAC CORE wireless technologies, -><affiliation>
+Thiagarajar College of Engg., -><email>
+001-0452-2482240 -><phone>
+sjtece@tce.edu -><email>

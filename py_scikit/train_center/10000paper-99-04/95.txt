@@ -1,0 +1,12 @@
+A Multi-Agent Architecture to Support Synchronous -><title>
+Collaborative Learning in an International Environment -><affiliation>
+Janice Whatley -><author>
+Information Systems Institute -><affiliation>
+University of Salford -><affiliation>
+Salford, United Kingdom -><address>
+J.E.Whatley@salford.ac.uk -><email>
+Martin D. Beer -><author>
+School of Computing & Management Sciences -><affiliation>
+Sheffield Hallam University -><affiliation>
+Sheffield, United Kingdom -><address>
+m.beer@shu.ac.uk -><email>

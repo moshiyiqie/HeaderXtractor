@@ -1,0 +1,13 @@
+Wireless Course Management System -><title>
+Rodney Clark -><author>
+Department of Computer Science -><affiliation>
+Columbus State University -><affiliation>
+4225 University Avenue, Columbus, GA 31907 -><affiliation>
+(706) 568-5096 -><phone>
+Clark_Rodney@colstate.edu -><email>
+Vladimir Zanev -><author>
+Department of Computer Science -><affiliation>
+Columbus State University -><affiliation>
+4225 University Avenue, Columbus, GA 31907 -><affiliation>
+(706) 569-3056 -><phone>
+Zanev_Vladimir@colstate.edu -><email>

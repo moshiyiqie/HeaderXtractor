@@ -1,0 +1,14 @@
+A Parameterized Family of Equilibrium Profiles for -><title>
+Three-Player Kuhn Poker -><title>
+Nathan Sturtevant -><author>
+University of Denver -><affiliation>
+Denver, Colorado -><address>
+sturtevant@cs.du.edu -><email>
+Duane Szafron -><author>
+University of Alberta -><affiliation>
+Edmonton, Alberta -><address>
+dszafron@ualberta.ca -><email>
+Richard Gibson -><author>
+University of Alberta -><affiliation>
+Edmonton, Alberta -><address>
+rggibson@cs.ualberta.ca -><email>

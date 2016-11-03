@@ -1,0 +1,5 @@
+Decentralized Language Learning Through Acting -><title>
+Claudia V. Goldman Martin Allen Shlomo Zilberstein -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts, Amherst, MA 01003 -><affiliation>
+{clag,mwallen,shlomo}@cs.umass.edu -><email>

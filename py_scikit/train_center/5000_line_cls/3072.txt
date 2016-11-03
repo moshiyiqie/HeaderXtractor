@@ -1,0 +1,11 @@
+Improving the Efficiency of Crowdsourcing Contests -><title>
+Kate Larson -><author>
+Cheriton School of Computer Science, -><affiliation>
+University of Waterloo, -><affiliation>
+Waterloo, Ontario, Canada -><address>
+klarson@uwaterloo.ca -><email>
+Haifeng Xu -><author>
+Computer Science Department, -><affiliation>
+University of Southern California, -><affiliation>
+Los Angeles, CA, US -><address>
+haifengx@usc.edu -><email>

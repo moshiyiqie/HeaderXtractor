@@ -1,0 +1,16 @@
+An evaluation tool for Multiagent development techniques -><title>
+Adriana Giret -><author>
+DSIC, Universidad Politecnica -><affiliation>
+de Valencia -><author>
+Camino de Vera S/N -><affiliation>
+agiret@dsic.upv.es -><email>
+Vicente Botti -><author>
+DSIC, Universidad Politecnica -><affiliation>
+de Valencia -><author>
+Camino de Vera S/N -><affiliation>
+vbotti@dsic.upv.es -><email>
+Emilia Garcia -><author>
+DSIC, Universidad Politecnica -><affiliation>
+de Valencia -><author>
+Camino de Vera S/N -><affiliation>
+mgarcia@dsic.upv.es -><email>

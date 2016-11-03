@@ -1,0 +1,10 @@
+Messages with Implicit Destinations as Mobile Agents -><title>
+Ahmad Ahmad-Kassem -><title>
+Ste´phane Grumbach -><title>
+Ste´phane Ube´da -><author>
+Universite´ de Lyon, INRIA -><affiliation>
+INRIA -><affiliation>
+INRIA -><affiliation>
+ahmad.ahmad kassem@inria.fr -><email>
+stephane.grumbach@inria.fr -><email>
+stephane.ubeda@inria.fr -><email>

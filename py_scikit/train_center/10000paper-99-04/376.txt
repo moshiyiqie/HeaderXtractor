@@ -1,0 +1,19 @@
+Optimal Agendas for Multi-Issue Negotiation -><title>
+Nicholas R. Jennings -><author>
+Department of Electronics and -><affiliation>
+Computer Science -><affiliation>
+University of Southampton -><affiliation>
+Southampton SO17 1BJ, U.K. -><address>
+nrj@ecs.soton.ac.uk -><email>
+Michael Wooldridge -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, U.K. -><address>
+mjw@csc.liv.ac.uk -><email>
+Shaheen Fatima -><email>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Liverpool -><affiliation>
+Liverpool L69 7ZF, U.K. -><address>
+shaheen@csc.liv.ac.uk -><email>

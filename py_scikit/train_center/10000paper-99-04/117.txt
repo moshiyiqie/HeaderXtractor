@@ -1,0 +1,7 @@
+Facilitating Message Exchange though Middle Agents -><title>
+Terry R. Payne, Massimo Paolucci, Rahul Singh & Katia Sycara -><author>
+Carnegie Mellon University -><affiliation>
+The Robotics Institute -><affiliation>
+5000 Forbes Avenue -><address>
+Pittsburgh PA 15213, USA -><address>
+{terryp, paolucci, kingtiny, katia}@cs.cmu.edu -><email>

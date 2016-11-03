@@ -1,0 +1,17 @@
+An Interactive Support Tool to Convey the Intended -><title>
+Message in Asynchronous Presentations -><title>
+Dzmitry Aliakseyeu -><title>
+Kees Overbeeke, -><title>
+Jean-Bernard Martens -><author>
+Department of Industrial Design -><affiliation>
+Eindhoven University of Technology -><affiliation>
+5600MB Eindhoven, the Netherlands -><address>
+{c.j.overbeeke,j.b.o.s.martens}@tue.nl -><email>
+User Experiences Group -><author>
+Philips Research Eindhoven -><affiliation>
+5656AA Eindhoven, the Netherlands -><address>
+dzmitry.aliakseyeu@philips.com -><email>
+User Experience and Design -><affiliation>
+Nokia Research Tampere -><affiliation>
+FI-33721 Tampere, Finland -><address>
+andres.lucero@nokia.com -><email>

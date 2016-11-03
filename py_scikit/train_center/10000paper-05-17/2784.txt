@@ -1,0 +1,4 @@
+Affinity Diagramming -><title>
+1 Nokia Research Center, P.O. Box 1000, FI-33721 Tampere, Finland -><author>
+2 University of Southern Denmark, Universitetsparken 1, DK-6000 Kolding, Denmark -><affiliation>
+tero.jokela@nokia.com, lucero@acm.org -><email>

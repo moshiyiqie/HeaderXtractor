@@ -1,0 +1,6 @@
+PViz: Visualising P2P Multi-Agent Simulations -><title>
+(Demonstration) -><title>
+Dimitris Giouroukis1 Nikos Platis1 Christos Tryfonopoulos1,2 -><author>
+1University of the Peloponnese, Greece -><affiliation>
+2Max-Planck Institute for Informatics, Germany -><affiliation>
+{dgiouroukis, nplatis, trifon}@uop.gr -><email>

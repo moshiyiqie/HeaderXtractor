@@ -1,0 +1,20 @@
+Simplified Motion Language for 3D Computer Animation -><title>
+with Turtle Metaphor -><title>
+Masayuki Ueno -><title>
+Osaka Electro-Communication Univ. -><title>
+Kazuma Tanida -><title>
+Intelligent Cluster -><title>
+Katsuhide Tsushima -><author>
+Osaka Electro-Communication Univ. -><affiliation>
+Kityotaki 1130-70 -><address>
+Kityotaki 1130-70 -><address>
+Kityotaki 1130-70 -><address>
+Shijyou-nawate, Osaka, JAPAN -><address>
++81-72-876-3317 -><phone>
+ueno.masayuki@gmail.com -><email>
+Shijyou-nawate, Osaka, JAPAN -><note>
++81-72-876-3317 -><phone>
+ktsushima@sannet.ne.jp -><email>
+Shijyou-nawate, Osaka, JAPAN -><note>
++81-72-876-3317 -><phone>
+tanida-k@nifty.com -><email>

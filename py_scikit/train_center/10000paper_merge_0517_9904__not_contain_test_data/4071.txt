@@ -1,0 +1,6 @@
+Making Generic Functions Useable in Smalltalk -><title>
+Timmy Douglas -><author>
+Georgia Institute of Technology -><affiliation>
+330480 Georgia Tech Station -><address>
+Atlanta, GA. 30332 -><address>
+timmy@cc.gatech.edu -><email>

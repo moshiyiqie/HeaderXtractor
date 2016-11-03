@@ -1,0 +1,7 @@
+Diverse Trajectory Planning for UAV Control Displays -><title>
+(Demonstration) -><title>
+Jan Tožicˇka†, Jan Balata‡ and Zdeneˇk Míkovec‡ -><author>
+† Agent Technology Center, Dept. of Computer Science -><affiliation>
+‡ Department of Computer Graphics and Interaction -><affiliation>
+FEE, Czech Technical University in Prague, Czech Republic -><affiliation>
+tozicka@agents.fel.cvut.cz, {balatjan, xmikovec}@.fel.cvut.cz -><email>

@@ -1,0 +1,16 @@
+Methods For The Prevention, Detection And Removal Of -><title>
+Software Security Vulnerabilities -><title>
+John A. Hamilton, Jr. -><author>
+Department of Computer Science and -><affiliation>
+Software Engineering -><affiliation>
+Auburn University -><affiliation>
+Auburn, Alabama 36849 -><affiliation>
+(334) 844-6300 -><phone>
+hamilton@eng.auburn.edu -><email>
+Jay-Evan J. Tevis -><author>
+Department of Computer Science and -><affiliation>
+Software Engineering -><degree>
+Auburn University -><affiliation>
+Auburn, Alabama 36849 -><affiliation>
+(334) 844-6300 -><phone>
+tevisjj@auburn.edu -><email>

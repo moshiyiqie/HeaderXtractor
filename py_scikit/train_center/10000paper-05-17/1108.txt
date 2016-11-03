@@ -1,0 +1,17 @@
+On Topic Selection Strategies in Multi-Agent Naming Game -><title>
+Radoslaw Katarzyniak -><author>
+Wroclaw UT -><affiliation>
+Wroclaw, Poland -><address>
+radoslaw.katarzyniak@pwr.edu.pl -><email>
+Ryszard Kowalczyk -><author>
+Swinburne UT -><affiliation>
+Melbourne, Australia -><address>
+rkowalczyk@swin.edu.au -><email>
+Wojciech Lorkiewicz -><author>
+Swinburne UT -><affiliation>
+Melbourne, Australia -><address>
+wlorkiewicz@swin.edu.au -><email>
+Quoc Bao Vo -><author>
+Swinburne UT -><affiliation>
+Melbourne, Australia -><address>
+bvo@swin.edu.au -><email>

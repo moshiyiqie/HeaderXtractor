@@ -1,0 +1,12 @@
+Decentralized coordination of plug-in hybrid vehicles for -><title>
+imbalance reduction in a Smart Grid -><title>
+Stijn Vandael -><author>
+Nelis Boucké, Tom Holvoet -><author>
+DistriNet, Department of Computer Science -><affiliation>
+Katholieke Universiteit Leuven, Belgium -><affiliation>
+{firstname.lastname}@cs.kuleuven.be -><email>
+Klaas De Craemer -><author>
+Geert Deconinck -><author>
+ELECTA, Department of Electrical Engineering -><affiliation>
+Katholieke Universiteit Leuven, Belgium -><affiliation>
+{firstname.lastname}@esat.kuleuven.be -><email>

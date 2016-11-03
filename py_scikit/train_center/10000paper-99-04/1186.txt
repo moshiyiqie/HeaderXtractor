@@ -1,0 +1,34 @@
+ROUGH TRADERS AND INTELLIGENT CLIENTS -><title>
+Michael Schroeder, Julie McCann, Dan Haynes -><author>
+Department ofComputing, City University, London EC1V 0HB, UK, {msch,jam} @soi.city.ac.uk -><email>
+Classical approaches to traders in middleware rely on a common -><abstract>
+language of server, clients, and traders to understand each other. -><abstract>
+In these systems, pre-defined ontologies play a crucial role. But -><abstract>
+when dealing with large-scale, open systems uch ontologies are -><abstract>
+no longer available. To cope with this problem, we have -><abstract>
+developed a radically different approach to trading. Rather than -><abstract>
+relying 100% on a trader, we assume that traders provide only -><abstract>
+rough matches and that clients need to make intelligent choices to -><abstract>
+find a more suited service. To this end, we introduce the notion of -><abstract>
+trust, which evolves with the client's experience. We implement a -><abstract>
+simulation of this trust-based trading system and run several test -><abstract>
+scenarios investigating the use of history and dynamic trust to -><abstract>
+discover the more suited services. Our analysis and simulation -><abstract>
+indicate that intelligent clients and rough traders may -><abstract>
+considerably extend the scope of trading towards large-scale, open -><abstract>
+distributed systems. -><abstract>
+1. TRADERS AND SERVICE DISCOVERY -><abstract>
+The concept of the trader was first formally specified in the early -><abstract>
+1990's by ANSA [Apm98]. There are a number of Trading -><abstract>
+systems available at the moment, such as the Corba trader -><abstract>
+[Omg92], the ANSAware software model [Apm98], the Aster -><abstract>
+project [Iss98], the Matchmaking framework [Ram98], the -><abstract>
+MAGNET trader [Kos98]. In summary, current trading -><abstract>
+mechanisms fall short when dealing with a truly open distributed -><abstract>
+environment. Although they extend location transparency and -><abstract>
+provide flexible load balancing, it -><abstract>
+service name to be used. That is, most object traders provide -><abstract>
+flexible robust systems and fault tolerance at no cost, but do not -><abstract>
+support service discovery and therefore are not useful for truly -><abstract>
+open system such as the web. -><abstract>
+Service discovery could be realised through regular search -><abstract>

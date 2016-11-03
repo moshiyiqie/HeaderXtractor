@@ -1,0 +1,23 @@
+Degree of Local Cooperation and its Implication on Global Utility -><title>
+Victor Lesser -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003-4610 -><address>
+USA -><address>
+lesser@cs.umass.edu -><email>
+Jiaying Shen -><author>
+Department of Computer -><affiliation>
+Science -><affiliation>
+University of Massachusetts -><affiliation>
+Amherst, MA 01003-4610 -><address>
+USA -><address>
+jyshen@cs.umass.edu -><email>
+Xiaoqin Zhang -><author>
+Computer and Information -><affiliation>
+Science Department -><affiliation>
+University of Massachusetts -><affiliation>
+Dartmouth -><affiliation>
+North Dartmouth, MA -><address>
+02747-2300, USA -><address>
+x2zhang@umassd.edu -><email>

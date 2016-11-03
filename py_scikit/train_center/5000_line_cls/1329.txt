@@ -1,0 +1,6 @@
+Complexity and Succinctness of Public Announcement -><title>
+Logic -><title>
+Carsten Lutz -><author>
+Institute for Theoretical Computer Science -><affiliation>
+TU Dresden, Germany -><address>
+lutz@tcs.inf.tu-dresden.de -><email>

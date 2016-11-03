@@ -1,0 +1,14 @@
+Assignment Problem in Requirements Driven Agent -><title>
+Collaboration and its Implementation -><affiliation>
+Jian Tang -><author>
+Academy of Mathematics and -><affiliation>
+Systems Science -><affiliation>
+Beijing 100190, China -><address>
+jtang@amss.ac.cn -><email>
+Zhi Jin -><author>
+Key Laboratory of High -><affiliation>
+Conﬁdence Software -><affiliation>
+Technologies (MoE) -><affiliation>
+Peking University -><affiliation>
+Beijing 100871, China -><address>
+zhijin@sei.pku.edu.cn -><email>

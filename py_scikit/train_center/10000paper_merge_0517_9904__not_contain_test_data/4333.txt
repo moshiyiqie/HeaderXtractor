@@ -1,0 +1,27 @@
+Nexat:  History-ased Approach to Predict Attacker -><title>
+Actions -><title>
+Casey Cipriano -><author>
+UCSB -><affiliation>
+CS Department -><affiliation>
+Santa Barbara, CA, USA -><address>
+ccipriano@gmail.com -><email>
+Ali Zand -><author>
+UCSB -><affiliation>
+CS Department -><affiliation>
+Santa Barbara, CA, USA -><address>
+zand@cs.ucsb.edu -><email>
+Amir Houmansadr -><email>
+UIUC -><affiliation>
+ECE Department -><affiliation>
+Urbana, IL, USA -><address>
+ahouman2@illinois.edu -><email>
+Giovanni Vigna -><author>
+UCSB -><affiliation>
+CS Department -><affiliation>
+Santa Barbara, CA, USA -><address>
+vigna@cs.ucsb.edu -><email>
+Christopher Kruegel -><author>
+UCSB -><affiliation>
+CS Department -><affiliation>
+Santa Barbara, CA, USA -><address>
+chris@cs.ucsb.edu -><email>

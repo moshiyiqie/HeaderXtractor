@@ -1,0 +1,13 @@
+A Visual Mobile Agent System with Itinerary Scheduling -><title>
+Jau-Shien Chang -><author>
+Chih-Yuan Chang -><author>
+Dept. of Information Management -><affiliation>
+Dept. of Information Management -><affiliation>
+Tamkang University -><affiliation>
+Tam-Shui, Taipei, Taiwan, R.O.C. -><address>
+886-2-2621565ext2995 -><phone>
+jschang @ im I .im.tku.edu.tw -><email>
+VanNung Institute of Technology -><affiliation>
+ChungLi, TauYuang, Taiwan, R.O.C. -><address>
+886-3-4515811ext289 -><phone>
+cychang @ mail.vit.edu .tw -><email>

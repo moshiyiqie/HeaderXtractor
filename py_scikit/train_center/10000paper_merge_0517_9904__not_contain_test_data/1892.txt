@@ -1,0 +1,12 @@
+A Decision Network based Framework for Multiagent -><title>
+Coalition Formation ∗ -><title>
+Julie A. Adams -><author>
+Department of Electrical Engineering and -><affiliation>
+Computer Science -><affiliation>
+Vanderbilt University -><affiliation>
+julie.a.adams@vanderbilt.edu -><email>
+Sayan D. Sen -><author>
+Department of Electrical Engineering and -><affiliation>
+Computer Science -><affiliation>
+Vanderbilt University -><affiliation>
+sayan.d.sen@vanderbilt.edu -><email>

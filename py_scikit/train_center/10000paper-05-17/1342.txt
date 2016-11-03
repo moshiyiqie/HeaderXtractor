@@ -1,0 +1,6 @@
+On Coalition Formation with Sparse Synergies -><title>
+Thomas Voice, Sarvapali D. Ramchurn, Nicholas R. Jennings -><author>
+Agents, Interaction and Complexity Group -><affiliation>
+School of Electronics and Computer Science -><affiliation>
+University of Southampton, UK -><affiliation>
+{tdv,sdr,nrj}@ecs.soton.ac.uk -><email>

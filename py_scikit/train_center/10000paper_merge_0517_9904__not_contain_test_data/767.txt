@@ -1,0 +1,15 @@
+Incremental Plan Aggregation for Generating Policies in -><title>
+MDPs∗ -><title>
+Ugur Kuter -><author>
+University of Maryland -><affiliation>
+College Park, MD 20742, USA -><address>
+ukuter@cs.umd.edu -><email>
+Guillaume Infantes -><author>
+ONERA-DCSD -><affiliation>
+Toulouse Cedex 4, France -><address>
+Guillaume.Infantes@onera.fr -><email>
+Florent -><unknow>
+Teichteil-Königsbuch -><unknow>
+ONERA-DCSD -><title>
+Toulouse Cedex 4, France -><title>
+Florent.Teichteil@onera.fr -><email>

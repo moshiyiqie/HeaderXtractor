@@ -1,0 +1,34 @@
+A Quantum No-Key Protocol for Secure Data Communication -><title>
+Yoshito Kanamori, Seong-Moo Yoo and Mohammad Al-Shurman -><author>
+Electrical and Computer Engineering Department -><affiliation>
+University of Alabama in Huntsville -><affiliation>
+Huntsville, Alabama 35899 -><affiliation>
+E-mail: {yoshitok, yoos, al-shum}@eng.uah.edu -><email>
+PROBLEM & MOTIVATION -><affiliation>
+Since classical cryptography relies on difficulty and -><abstract>
+infeasibility of computation to find the plain text, the -><abstract>
+cryptography is losing security more and more as -><abstract>
+computational power is increased by technical innovations. -><abstract>
+Therefore, unconditionally secure cryptography has been -><abstract>
+expected. In this paper, we propose a novel, secure, no- -><abstract>
+key, protocol: Quantum Three-Pass Protocol (QTPP). In -><abstract>
+this protocol, quantum superposition states are used for -><abstract>
+transmission instead of classical signals in classical -><abstract>
+cryptography. -><abstract>
+BACKGROUND & RELATED LITERATURE -><abstract>
+There is a way to deliver a message in a box securely -><abstract>
+to a receiver using two padlocks without sharing keys to -><abstract>
+open the locks. First, Alice (a sender) locks the box with -><abstract>
+her padlock and sends the box to Bob (a receiver). Bob -><abstract>
+receives the box and locks the box with his padlock and -><abstract>
+sends the box to Alice. At this point, the box has two -><abstract>
+padlocks. Then, Alice takes off her padlock from the box -><abstract>
+and sends it again to Bob. Bob removes his padlock from -><abstract>
+the box. Bob got the message securely from Alice. If we -><abstract>
+use this idea in cryptography, the algorithm establishes -><abstract>
+secure communication with no-key-exchange in advance. -><abstract>
+published but introduced by Massey [1]) that has never -><abstract>
+been proved [2]. The problem of this three-pass protocol -><abstract>
+comes from the fact that an eavesdropper can make copies -><abstract>
+of the transmitted messages. -><abstract>
+We utilize quantum phenomena to circumvent the -><abstract>

@@ -1,0 +1,21 @@
+Francisco Pujol -><title>
+Pablo Suau, Mar Pujol, -><author>
+Ramon Rizo -><author>
+Agent-based Recognition of Facial Expressions -><unknow>
+Simon Caton, -><author>
+Omer F. Rana, Bruce Batchelor -><author>
+School of Computer Science, Cardiff -><affiliation>
+University -><affiliation>
+P.O. Box 99, E-03080 Alicante (Spain) -><address>
+Inteligencia Artificial, University of -><affiliation>
+Alicante -><address>
++34 965903681 -><phone>
+Queen's Buildings, Newport Road, -><address>
+Cardiff CF24 3AA, UK -><address>
+P.O. Box 99, E-03080 Alicante (Spain) -><address>
+fpujol@dtic.ua.es -><email>
++34 965903900 -><phone>
++44 (0)29 2087 4812 -><phone>
+{pablo, mar, rizo}@dccia.ua.es -><email>
+{s.j.caton,o.f.rana,bruce.batchelor} -><web>
+@cs.cardiff.ac.uk -><email>

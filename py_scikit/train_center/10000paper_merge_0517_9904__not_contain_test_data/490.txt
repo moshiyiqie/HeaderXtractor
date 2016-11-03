@@ -1,0 +1,15 @@
+Deploying -><title>
+Management -><title>
+Richard -><author>
+Martin -><author>
+School -><affiliation>
+Management -><unknow>
+Andrew -><author>
+Department -><affiliation>
+University -><affiliation>
+Liverpool, -><address>
+School -><address>
+Management -><address>
+sixsmith@liv.ac.uk -><email>
+m.beer@shu.ac.uk -><email>
+m.beer@shu.ac.uk -><email>

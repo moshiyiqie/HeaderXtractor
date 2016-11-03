@@ -1,0 +1,6 @@
+A Peel of Onion -><title>
+Paul Syverson -><author>
+Center for High Assurance Computer Systems -><affiliation>
+U.S. Naval Research Laboratory -><affiliation>
+Washington DC, USA -><address>
+syverson@itd.nrl.navy.mil -><email>

@@ -1,0 +1,17 @@
+Open Game Tournaments in STARLITE -><title>
+(Demonstration) -><title>
+Jack Hopkins -><author>
+Dept. of Computer Science -><affiliation>
+Royal Holloway -><author>
+University of London, UK -><affiliation>
+jack.hopkins@me.com -><email>
+Özgür Kafalı -><author>
+Dept. of Computer Science -><affiliation>
+Royal Holloway -><author>
+University of London, UK -><affiliation>
+ozgur.kafali@rhul.ac.uk -><email>
+Kostas Stathis -><author>
+Dept. of Computer Science -><affiliation>
+Royal Holloway -><address>
+University of London, UK -><affiliation>
+kostas.stathis@rhul.ac.uk -><email>

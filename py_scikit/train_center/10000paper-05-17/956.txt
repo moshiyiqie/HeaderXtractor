@@ -1,0 +1,13 @@
+Using Answer Set Programming to model multi-agent -><title>
+scenarios involving agents’ knowledge about other’s -><title>
+knowledge -><title>
+Tran Cao Son, Enrico Pontelli -><author>
+Department of Computer Science -><affiliation>
+New Mexico State University -><affiliation>
+Las Cruces, NM 88003, USA -><address>
+epontell(|)tson@cs.nmsu.edu -><email>
+Chitta Baral, Gregory Gelfond -><author>
+Department of Computer Science -><affiliation>
+Arizona State University -><affiliation>
+Tempe, AZ 85281, USA. -><address>
+chitta(|)ggelfond@asu.edu -><email>

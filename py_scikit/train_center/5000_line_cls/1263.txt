@@ -1,0 +1,11 @@
+Efficient Agent-Based Cluster Ensembles -><title>
+Kagan Tumer -><author>
+NASA Ames Research Center -><affiliation>
+Mailstop 269-4 -><address>
+Moffett Field, CA 94035, USA -><address>
+ktumer@mail.arc.nasa.gov -><email>
+Adrian Agogino -><author>
+UCSC, NASA Ames Research Center -><affiliation>
+Mailstop 269-3 -><address>
+Moffett Field, CA 94035, USA -><address>
+adrian@email.arc.nasa.gov -><email>

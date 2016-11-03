@@ -1,0 +1,8 @@
+An Environment for Distributed Collaboration Among -><affiliation>
+Humans and Software Agents -><title>
+C. Martin, D. Schreckenghost, P. Bonasso, D. Kortenkamp, T. Milam, and C. Thronesbery -><author>
+NASA Johnson Space Center / TRACLabs -><affiliation>
+1012 Hercules -><address>
+Houston, TX, 77058 USA -><address>
+1 (281) 461-9525 -><phone>
+cmartin@traclabs.com, ghost@ieee.org -><affiliation>

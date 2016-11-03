@@ -1,0 +1,8 @@
+Cloud Radar: Near Real-Time Detection of Security -><title>
+Failures in Dynamic Virtualized Infrastructures -><title>
+Sören Bleikertz Carsten Vogel -><author>
+Thomas Groß -><author>
+IBM Research - Zurich -><affiliation>
+{sbl,ten}@zurich.ibm.com -><email>
+University of Newcastle upon Tyne -><affiliation>
+thomas.gross@newcastle.ac.uk -><email>

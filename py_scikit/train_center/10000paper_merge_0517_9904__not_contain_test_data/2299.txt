@@ -1,0 +1,6 @@
+Online Heuristic Planning for Highly Uncertain Domains -><title>
+Adam Eck and Leen-Kiat Soh -><author>
+Department of Computer Science and Engineering -><affiliation>
+University of Nebraska-Lincoln -><affiliation>
+256 Avery Hall, Lincoln, NE, 68588 USA -><address>
+{aeck, lksoh}@cse.unl.edu -><email>

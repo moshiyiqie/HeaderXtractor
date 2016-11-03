@@ -1,0 +1,15 @@
+Function Memoization -><title>
+and -><title>
+Unique Object Representation -><author>
+for -><affiliation>
+ACL2 Functions -><address>
+Robert S. Boyer -><author>
+Department of Computer Sciences -><affiliation>
+The University of Texas -><affiliation>
+Austin, Texas USA -><address>
+boyer@cs.utexas.edu -><email>
+Warren A. Hunt, Jr. -><author>
+Department of Computer Sciences -><affiliation>
+The University of Texas -><affiliation>
+Austin, Texas USA -><address>
+hunt@cs.utexas.edu -><email>

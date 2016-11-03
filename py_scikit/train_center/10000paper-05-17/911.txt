@@ -1,0 +1,33 @@
+Dora The Explorer: A Motivated Robot -><title>
+∗ -><title>
+, Marc -><author>
+Nick Hawes -><author>
+Hanheide -><author>
+Intelligent Robotics Lab -><affiliation>
+School of Computer Science -><affiliation>
+University of Birmingham, UK -><affiliation>
+Moritz Göbelbecker, -><address>
+Michael Brenner -><author>
+Institut für Informatik -><affiliation>
+Albert-Ludwigs-Universität -><affiliation>
+Freiburg, Germany -><address>
+Kristoffer Sjöö, Alper -><keyword>
+Aydemir, Patric Jensfelt -><keyword>
+Centre for Autonomous -><unknow>
+Systems -><title>
+Royal Institute of Technology -><affiliation>
+Stockholm, Sweden -><address>
+Micheal Zillich -><author>
+Vision for Robotics (V4R) -><pubnum>
+Automation and Control -><affiliation>
+Institute -><affiliation>
+Vienna University of -><affiliation>
+Technology -><affiliation>
+Hendrik Zender, Pierre -><address>
+Lison, Ivana -><address>
+Kruijff-Korbayová, -><email>
+Geert-Jan Kruijff -><author>
+Language Technology Lab -><affiliation>
+German Research Center for -><affiliation>
+Artiﬁcial Intelligence (DFKI) -><affiliation>
+Saarbrücken, Germany -><address>

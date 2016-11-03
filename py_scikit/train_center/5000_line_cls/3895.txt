@@ -1,0 +1,5 @@
+Quatronome: a Stomp Box for Jam Session with Movies -><title>
+Jun Usui, Hirotaka Hatayama, Naohito Okude -><author>
+Keio University, Media Design -><affiliation>
+5322 Endo Fujisawa Kanagawa Japan -><address>
+ussy@sfc.keio.ac.jp, hatayan@sfc.keio.ac.jp, okude@sfc.keio.ac.jp -><email>

@@ -1,0 +1,5 @@
+A Decentralized Variable Ordering Method for Distributed -><title>
+Constraint Optimization -><title>
+Anton Chechetka, Katia Sycara -><author>
+Carnegie Mellon University -><affiliation>
+{antonc, katia+}@cs.cmu.edu -><email>

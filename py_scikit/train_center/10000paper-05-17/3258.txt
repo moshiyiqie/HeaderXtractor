@@ -1,0 +1,7 @@
+Urban Treasure: New Approach for Collaborative Local -><affiliation>
+Recommendation Engine -><title>
+Takayuki Miyauchi, Ami Yao, Takahiro Nemoto -><author>
+Masahiko Inami, Masahiko Inakage, Naohito Okude, Adrian Cheok, Maki Sugimoto -><author>
+Keio University Graduate School of Media Design -><affiliation>
+4-1-1 Hiyoshi Kohoku-Ku, Yokohama-City, Kanagawa, Japan 223-8526 -><address>
+{ miyauchi, amiou, t.nemo10, inami, inakage, okude, adriancheok, sugimoto }@kmd.keio.ac.jp -><email>

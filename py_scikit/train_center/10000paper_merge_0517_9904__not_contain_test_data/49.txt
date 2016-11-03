@@ -1,0 +1,15 @@
+A Domain-Independent Diagnosis Tool to Adapt -><title>
+Organizations in Learning Scenarios -><title>
+Vanessa Lindemann -><author>
+Ana L. C. Bazzan -><author>
+Victor R. Lesser -><author>
+Department of Computer Science -><affiliation>
+University of Massachusetts, -><affiliation>
+Amherst, MA 01003 -><address>
+lesser@cs.umass.edu -><email>
+Caixa Postal 15064 -><affiliation>
+91501-970 Porto Alegre, RS, Brazil -><address>
+vanessal@inf.ufrgs.br -><email>
+Caixa Postal 15064 -><address>
+91501-970 Porto Alegre, RS, Brazil -><address>
+bazzan@inf.ufrgs.br -><email>

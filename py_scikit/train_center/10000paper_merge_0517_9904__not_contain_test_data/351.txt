@@ -1,0 +1,11 @@
+Customizing AOSE Methodologies -><title>
+by Reusing AOSE Features -><title>
+Maurizio Martelli Viviana Mascardi -><title>
+Dipartimento di Informatica e Scienze -><title>
+Thomas Juan Leon Sterling -><author>
+Department of Computer Science and Software -><affiliation>
+Engineering, The University of Melbourne -><affiliation>
+221 Bouverie Street Carlton, Victoria, 3010, Australia -><address>
+{tlj, leon}@cs.mu.oz.au -><email>
+Via Dodecaneso 35, 16146, Genova, Italy -><address>
+{martelli, mascardi}@disi.unige.it -><email>

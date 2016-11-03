@@ -1,0 +1,6 @@
+Framework for Smoothing-Based -><title>
+Collaborative Filtering Recommender System -><affiliation>
+Ingyu Lee -><author>
+Sorrell College of Business -><affiliation>
+Troy University -><affiliation>
+Troy, Alabama -><affiliation>

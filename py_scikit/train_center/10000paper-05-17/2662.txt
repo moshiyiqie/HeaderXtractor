@@ -1,0 +1,7 @@
+Every Team Deserves a Second Chance: -><title>
+Identifying when Things Go Wrong -><title>
+Vaishnavh Nagarajan1∗, Leandro Soriano Marcolino2∗, Milind Tambe2 -><author>
+1 Indian Institute of Technology Madras, Chennai, Tamil Nadu, 600036, India -><affiliation>
+vaish@cse.iitm.ac.in -><email>
+2 University of Southern California, Los Angeles, CA, 90089, USA -><affiliation>
+{sorianom, tambe}@usc.edu -><email>

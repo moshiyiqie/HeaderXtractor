@@ -1,0 +1,7 @@
+Computational Complexity of Two Variants of the Possible -><title>
+Winner Problem -><title>
+Dorothea Baumeister Magnus Roos Jörg Rothe -><author>
+Institut für Informatik -><affiliation>
+Heinrich-Heine-Universität Düsseldorf -><affiliation>
+40225 Düsseldorf, Germany -><address>
+{baumeister, roos, rothe}@cs.uni-duesseldorf.de -><email>

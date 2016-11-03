@@ -1,0 +1,23 @@
+Probabilistic Inference of Unknown Locations -><title>
+Exploiting Collective Behavior when Individual Data is Scarce -><title>
+Joshua Blumenstock∗ -><author>
+University of Washington -><affiliation>
+Information School -><affiliation>
+Seattle, WA -><address>
+joshblum@uw.edu -><email>
+Vijay Gaikwad -><author>
+University of Washington -><affiliation>
+Information School -><affiliation>
+Seattle, WA -><address>
+vijaygkd@uw.edu -><email>
+Ramkumar -><unknow>
+Chokkalingam -><author>
+University of Washington -><affiliation>
+Information School -><affiliation>
+Seattle, WA -><address>
+ramar@uw.edu -><email>
+Sashwat Kondepudi -><author>
+University of Washington -><affiliation>
+Information School -><affiliation>
+Seattle, WA -><address>
+sk08@uw.edu -><email>

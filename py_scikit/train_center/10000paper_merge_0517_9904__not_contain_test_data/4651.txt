@@ -1,0 +1,22 @@
+Inferring Local Synonyms for Improving Keyword -><title>
+Suggestion in an On-line Advertisement System -><title>
+Paulo Trezentos -><author>
+ISCTE/ADETTI/Caixa Magica -><email>
+Av. das Forcas Armadas -><email>
+1600-082 Lisboa -><phone>
+Paulo.Trezentos@iscte.pt -><email>
+Luís Sarmento -><unknow>
+F. Eng. U. Porto - DEI - LIACC -><author>
+Rua Dr. Roberto Frias, s/n -><affiliation>
+4200-465 Porto Portugal -><address>
+las@fe.up.pt -><email>
+João Pedro Gonçalves -><author>
+Portugal Telecom - SAPO -><affiliation>
+Av. Fontes Pereira de Melo -><affiliation>
+1069-300 Lisboa, Portugal -><address>
+joaop@co.sapo.pt -><email>
+Eugénio Oliveira -><unknow>
+F. Eng. U. Porto - DEI - LIACC -><author>
+Rua Dr. Roberto Frias, s/n -><affiliation>
+4200-465 Porto Portugal -><address>
+eco@fe.up.pt -><email>

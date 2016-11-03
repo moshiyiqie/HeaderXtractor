@@ -1,0 +1,11 @@
+Tight Bounds for Strategyproof Classification -><title>
+Reshef Meir -><author>
+reshef.meir@mail.huji.ac.il -><email>
+Assaf Michaely -><author>
+assafmichaely@gmail.com -><email>
+Shaull Almagor -><author>
+shaull.almagor@gmail.com -><email>
+Jeffrey S. Rosenschein -><author>
+jeff@cs.huji.ac.il -><email>
+School of Computer Science and Engineering -><affiliation>
+The Hebrew University of Jerusalem -><affiliation>

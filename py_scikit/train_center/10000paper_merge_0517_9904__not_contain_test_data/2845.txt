@@ -1,0 +1,6 @@
+Automated Control in Cloud Computing: -><title>
+Challenges and Opportunities -><title>
+Harold C. Lim † Shivnath Babu † Jeffrey S. Chase † Sujay S. Parekh ‡ -><author>
+Duke University † IBM T.J. Watson Research Center ‡ -><affiliation>
+Durham, NC, USA Hawthorne, NY, USA -><address>
+{harold, shivnath, chase}@cs.duke.edu sujay@us.ibm.com -><email>

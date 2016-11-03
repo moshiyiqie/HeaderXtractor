@@ -1,0 +1,28 @@
+RoCoS: Room-based Communication System and Its -><title>
+Aspect as Development Tool for 3D Entertainment -><title>
+Applications -><title>
+Naoto Nakamura -><author>
+Graduate School of Information -><affiliation>
+Science and Electrical Engineering, -><affiliation>
+Kyushu University -><affiliation>
+Motooka 744, Nishi-ku, Fukuoka, -><address>
+819-0395 JAPAN -><address>
++81-92-802-3786 -><phone>
+n-naka@i.kyushu-u.ac.jp -><email>
+Katsunori Miyahara -><email>
+Graduate School of Information -><degree>
+Science and Electrical Engineering, -><degree>
+Kyushu University -><affiliation>
+Motooka 744, Nishi-ku, Fukuoka, -><address>
+819-0395 JAPAN -><address>
++81-92-802-3786 -><phone>
+Yoshihiro Okada -><unknow>
+Graduate School of Information -><degree>
+Science and Electrical Engineering, -><degree>
+Kyushu University -><affiliation>
+Motooka 744, Nishi-ku, Fukuoka, -><address>
+819-0395 JAPAN -><address>
++81-92-802-3783 -><phone>
+okada@i.kyushu-u.ac.jp -><email>
+katsunori.miyahara@i.kyushu- -><email>
+u.ac.jp -><web>

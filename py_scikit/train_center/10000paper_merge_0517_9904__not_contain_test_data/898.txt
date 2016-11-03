@@ -1,0 +1,14 @@
+Using Counterfactual Regret Minimization to Create -><title>
+Competitive Multiplayer Poker Agents -><title>
+Nick Abou Risk -><author>
+University of Alberta -><affiliation>
+Department of Computing Science -><affiliation>
+Edmonton, AB -><address>
+780-492-5468 -><phone>
+abourisk@cs.ualberta.ca -><email>
+Duane Szafron -><author>
+University of Alberta -><affiliation>
+Department of Computing Science -><affiliation>
+Edmonton, AB -><address>
+780-492-5468 -><phone>
+duane@cs.ualberta.ca -><email>

@@ -1,0 +1,12 @@
+Modeling Uncertainty in Leading Ad Hoc Teams -><title>
+Noa Agmon -><author>
+Bar-Ilan University, Israel -><affiliation>
+agmon@cs.biu.ac.il -><email>
+Peter Stone -><author>
+The University of Texas at -><affiliation>
+Austin, USA -><address>
+pstone@cs.utexas.edu -><email>
+Samuel Barrett -><author>
+The University of Texas at -><affiliation>
+Austin, USA -><address>
+sbarrett@cs.utexas.edu -><email>

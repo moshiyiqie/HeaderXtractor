@@ -1,0 +1,5 @@
+Private Search in the Real World -><title>
+Vasilis Pappas, Mariana Raykova, Binh Vo, Steven M. Bellovin, Tal Malkin -><author>
+Department of Computer Science -><affiliation>
+Columbia University, New York, NY, USA -><affiliation>
+{vpappas, mariana, binh, smb, tal}@cs.columbia.edu -><email>

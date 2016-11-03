@@ -1,0 +1,12 @@
+Sentence Length Bias in TREC Novelty Track Judgements -><title>
+Lorena Leal Bando & Falk Scholer -><author>
+School of Computer Science -><affiliation>
+and Information Technology -><affiliation>
+RMIT University -><affiliation>
+Melbourne, Australia{lorena.lealbando,falk.scholer}@rmit.edu.au -><email>
+Andrew Turpin -><author>
+Dept. of Computer Science -><affiliation>
+and Software Engineering -><affiliation>
+University of Melbourne -><affiliation>
+Melbourne, Australia -><address>
+aturpin@unimelb.edu.au -><email>

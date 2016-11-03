@@ -1,0 +1,6 @@
+The Fallacy of Endogenous Discounting of Trust -><title>
+Recommendations -><title>
+Tim Muller, Yang Liu, Jie Zhang -><author>
+School of Computer Engineering, Nanyang Technological University -><affiliation>
+50, Nanyang Avenue, Singapore -><address>
+{tmuller,yangliu,zhangj}@ntu.edu.sg -><email>

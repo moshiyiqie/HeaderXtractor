@@ -1,0 +1,12 @@
+Parallel Search for Ramsey Grid Colorings -><title>
+∗ -><title>
+Wing Ning Li -><author>
+Dept. of Computer Science and Engineering -><affiliation>
+University of Arkansas -><affiliation>
+Fayetteville, AR 72701, USA -><address>
+wingning@uark.edu -><email>
+Daniel Apon -><author>
+Dept. of Computer Science -><affiliation>
+University of Maryland -><affiliation>
+College Park, MD 20742, USA -><address>
+dapon@cs.umd.edu -><email>

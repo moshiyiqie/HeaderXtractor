@@ -1,0 +1,6 @@
+Agent-Oriented Software Engineering: A Comparison -><title>
+of Agent and Non-Agent Version of a Cluster Server -><title>
+Department of Intelligent Systems, -><author>
+Jozef Stefan Institute, -><affiliation>
+Jamova 39, 1000 Ljubljana, Slovenia -><address>
+email: {andraz.bezek, matjaz.gams}@ijs.si -><email>

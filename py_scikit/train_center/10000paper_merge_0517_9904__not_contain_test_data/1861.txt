@@ -1,0 +1,7 @@
+Double-oracle Algorithm for Computing an Exact Nash -><title>
+Equilibrium in Zero-sum Extensive-form Games -><title>
+Branislav Bošanský1, Christopher Kiekintveld2, Viliam Lisý1, Jirˇí Cˇermák1, Michal Peˇchoucˇek1 -><author>
+1Agent Technology Center, Dept. of Computer Science, FEE, Czech Technical University in Prague -><affiliation>
+{bosansky, lisy, cermak, pechoucek}@agents.fel.cvut.cz -><email>
+2Computer Science Department, University of Texas at El Paso -><affiliation>
+cdkiekintveld@utep.edu -><email>

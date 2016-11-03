@@ -1,0 +1,11 @@
+Desires, norms and constraints -><title>
+Christophe Garion -><author>
+SUPAERO -><note>
+10 av. ´Edouard Belin -><note>
+31055 Toulouse Cedex 4 -><date>
+garion@supaero.fr -><email>
+Laurence Cholvy -><author>
+ONERA Toulouse -><author>
+2 av. ´Edouard Belin -><intro>
+31055 Toulouse Cedex 4 -><date>
+cholvy@cert.fr -><email>

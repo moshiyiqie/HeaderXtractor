@@ -1,0 +1,9 @@
+Exploiting Separability in Multiagent Planning with -><title>
+Continuous-State MDPs -><title>
+Jilles S. Dibangoyea Christopher Amatob Olivier Buffeta François Charpilleta -><author>
+a INRIA – Université de Lorraine -><affiliation>
+bCSAIL / MIT -><affiliation>
+Villers-lès-Nancy, France -><address>
+firstname.lastname@inria.fr -><email>
+Cambridge, MA, USA -><address>
+camato@csail.mit.edu -><email>

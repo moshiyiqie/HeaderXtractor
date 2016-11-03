@@ -1,0 +1,10 @@
+Computing Environments -><title>
+Jeanna Matthews -><author>
+Clarkson University/VMware -><affiliation>
+Tal Garfinkel -><affiliation>
+Stanford University/VMware -><affiliation>
+Christofer Hoff -><unknow>
+Packetfilter -><title>
+Jeff Wheeler -><author>
+Cisco -><author>
+jnm@clarkson.edu, talg@cs.stanford.edu, choff@packetfilter.com, jewheele@cisco.com -><email>

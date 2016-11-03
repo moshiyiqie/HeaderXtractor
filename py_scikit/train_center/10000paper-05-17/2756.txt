@@ -1,0 +1,16 @@
+Mark Lochrie -><author>
+Lancaster University -><affiliation>
+School of Computing & -><affiliation>
+Communications -><title>
+Lancaster -><title>
+United Kingdom -><author>
++44 (0)1524 510501 -><phone>
+m.lochrie@lancaster.ac.uk -><email>
+Richard Vickers, -><author>
+Graham Cooper, James Field, -><author>
+Martyn Thayne, Richard Adams -><author>
+University of Lincoln -><affiliation>
+Lincoln School of Media -><affiliation>
+United Kingdom -><address>
++44 (0)1522 886377 -><phone>
+rvickers@lincoln.ac.uk -><email>

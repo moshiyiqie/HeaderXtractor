@@ -1,0 +1,7 @@
+Datamap Visualization Technique for Interactively -><title>
+Visualizing Large Datasets -><author>
+Tampere University of Technology -><affiliation>
+Department of Mathematics -><affiliation>
+PO Box 553, 33101 Tampere, Finland -><address>
++358 40849 0730 -><phone>
+ossi.nykanen@tut.fi -><email>

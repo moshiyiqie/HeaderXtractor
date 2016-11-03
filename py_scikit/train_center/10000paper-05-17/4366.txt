@@ -1,0 +1,6 @@
+Securing Untrusted Code via Compiler-Agnostic -><title>
+Binary Rewriting∗ -><title>
+Richard Wartell, Vishwath Mohan, Kevin W. Hamlen, Zhiqiang Lin -><author>
+Department of Computer Science, The University of Texas at Dallas -><affiliation>
+800 W. Campbell Rd, Richardson, TX, 75080 -><address>
+{richard.wartell, vishwath.mohan, hamlen, zhiqiang.lin}@utdallas.edu -><email>

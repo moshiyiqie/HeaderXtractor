@@ -1,0 +1,34 @@
+Richard Rohwer -><title>
+SRI -><title>
+9988 Hilbert St -><title>
+Characterizing and Aggregating Agent Estimates -><title>
+Sven A. Brueckner -><author>
+Lu Hong -><author>
+Scott Page -><author>
+Soar Technology -><affiliation>
+Loyola University -><affiliation>
+University of Michigan -><affiliation>
+3600 Green Court -><address>
+Chicago -><address>
+317 West Hall -><address>
+Suite 600 -><address>
+1 E. Pearson -><address>
+Ann Arbor, MI 48106 -><address>
++1 734 887 7642 -><phone>
+Suite 204 -><date>
++1 734 647-9193 -><phone>
+Chicago, IL 60611 -><address>
+spage@umich.edu -><email>
+sven.brueckner -><email>
++1 312 915 7067 -><phone>
+@soartech.com -><email>
+lhong@luc.edu -><email>
+H. Van Dyke -><author>
+Parunak -><author>
+Soar Technology -><affiliation>
+3600 Green Court -><address>
+Suite 600 -><address>
+Ann Arbor, MI 48105 -><address>
++1 734 887 7643 -><phone>
+van.parunak -><email>
+@soartech.com -><email>
